@@ -52,6 +52,23 @@ NOWPAYMENTS_API_KEY=set nowpayments api key
 NOWPAYMENTS_ENV=live
 ```
 
+## SET TELEGRAM WEBHOOKS
+
+```sh
+https://api.telegram.org/botxxxxxxxxxxxxxx/setwebhook?url=https://POWERPS_CORE_URL/api/telegram/webhooks/inbound
+```
+
+You have to change xxxxxxxxxxxxxx with your telegram bot token and also change POWERPS_CORE_URL with url of powerps-core then copy text and run by your browser.
+
+## LOGIN
+
+USERNAME: value of TELEGRAM_ADMIN_ID
+PASSWORD: admin123456
+
+## YOUTUBE Toturial
+
+watch full instalation on  [youtube](https://www.youtube.com/watch?v=ccpmv4H9mew).
+
 ## Support
 
 در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.

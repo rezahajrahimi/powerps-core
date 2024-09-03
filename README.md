@@ -1,6 +1,6 @@
 # PopwerPs-Core
 ## _main core of power proxy seller_
-# ربات فروشنده و وب اپلیکیشن هیدیفای
+# ربات فروشنده و وب اپلیکیشن برای فروش کانفیگ v2ray
 ## _قسمت هسته و ربات سرویس_
 
 ## Installation

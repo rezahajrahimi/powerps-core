@@ -33,7 +33,9 @@ DB_PASSWORD=database_password
 ## TELEGRAM BOT  VARIABLES
 
 ```sh
-TELEGRAM_API_ENDPOINT=botTELEGRAMBOTTOKEN
+
+TELEGRAM_BOT_TOKEN=botTELEGRAMBOTTOKEN
+TELEGRAM_API_ENDPOINT=https://api.telegram.org
 TELEGRAM_ADMIN_ID=admin telegram id
 DEV_ID=admin telegram id
 ```

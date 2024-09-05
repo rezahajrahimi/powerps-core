@@ -69,7 +69,7 @@ PASSWORD: admin123456
 
 ## YOUTUBE Toturial
 
-watch full instalation on  [youtube](https://www.youtube.com/watch?v=ccpmv4H9mew).
+watch full instalation on  [youtube](https://youtu.be/drZGXXxSNSE).
 
 ## Support
 

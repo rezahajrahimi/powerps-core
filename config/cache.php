@@ -1,110 +1,111 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+use Illuminate\Support\Str;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Cache Store
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default cache connection that gets used while
+    | using this caching library. This connection is used when another is
+    | not explicitly specified when executing a given caching function.
+    |
+    */
+
+    'default' => env('CACHE_DRIVER', 'file'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Cache Stores
+    |--------------------------------------------------------------------------
+    |
+    | Here you may define all of the cache "stores" for your application as
+    | well as their drivers. You may even define multiple stores for the
+    | same cache driver to group types of items stored in your caches.
+    |
+    | Supported drivers: "apc", "array", "database", "file",
+    |         "memcached", "redis", "dynamodb", "octane", "null"
+    |
+    */
+
+    'stores' => [
+
+        'apc' => [
+            'driver' => 'apc',
+        ],
+
+        'array' => [
+            'driver' => 'array',
+            'serialize' => false,
+        ],
+
+        'database' => [
+            'driver' => 'database',
+            'table' => 'cache',
+            'connection' => null,
+            'lock_connection' => null,
+        ],
+
+        'file' => [
+            'driver' => 'file',
+            'path' => storage_path('framework/cache/data'),
+            'lock_path' => storage_path('framework/cache/data'),
+        ],
+
+        'memcached' => [
+            'driver' => 'memcached',
+            'persistent_id' => env('MEMCACHED_PERSISTENT_ID'),
+            'sasl' => [
+                env('MEMCACHED_USERNAME'),
+                env('MEMCACHED_PASSWORD'),
+            ],
+            'options' => [
+                // Memcached::OPT_CONNECT_TIMEOUT => 2000,
+            ],
+            'servers' => [
+                [
+                    'host' => env('MEMCACHED_HOST', '127.0.0.1'),
+                    'port' => env('MEMCACHED_PORT', 11211),
+                    'weight' => 100,
+                ],
+            ],
+        ],
+
+        'redis' => [
+            'driver' => 'redis',
+            'connection' => 'cache',
+            'lock_connection' => 'default',
+        ],
+
+        'dynamodb' => [
+            'driver' => 'dynamodb',
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
+            'table' => env('DYNAMODB_CACHE_TABLE', 'cache'),
+            'endpoint' => env('DYNAMODB_ENDPOINT'),
+        ],
+
+        'octane' => [
+            'driver' => 'octane',
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Cache Key Prefix
+    |--------------------------------------------------------------------------
+    |
+    | When utilizing the APC, database, memcached, Redis, or DynamoDB cache
+    | stores there might be other applications using the same cache. For
+    | that reason, you may prefix every cache key to avoid collisions.
+    |
+    */
+
+    'prefix' => env('CACHE_PREFIX', Str::slug(env('APP_NAME', 'laravel'), '_').'_cache_'),
+
+];

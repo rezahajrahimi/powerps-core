@@ -1,108 +1,188 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+{{-- <form method="post" action="{{url('shop')}}">
+    {{csrf_field()}}
+    <input type="text" name="price">
+    <button type="submit">تکمیل خرید {{$price}} / {{$invoiceID}}</button>
+</form> --}}
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-NuIl//K=
+<div class="wrapper ">
+    <form method="post" action="{{ url('shop') }}" >
+        {{ csrf_field() }}
+        <input type="text"  value="{{ $account_id }}" name="account_id" class="hidden">
+        <input type="text"  value="{{ $invoiceID }}" name="invoiceID" class="hidden">
+        <div class="card px-4">
+            <div class=" my-3 label-header">
+                <p class="h8">عملیات پرداخت</p>
+            </div>
+
+            <div class="debit-card mb-3 container">
+                <div class="d-flex flex-column h-100">
+                    <label class="d-block">
+                        <div class="d-flex position-relative">
+                            <div>
+                                <img src="https://www.freepnglogos.com/uploads/visa-inc-logo-png-11.png"
+                                    class="img-visa visa" alt="">
+                                <p class="mt-2 mb-4 text-white fw-bold">شماره فاکتور: {{ $invoiceID }}</p>
+                            </div>
+                        </div>
+                    </label>
+                    <div class="mt-auto fw-bold d-flex align-items-center justify-content-between">
+                        <p>مبلغ: {{ $price }} تومان</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="btn mb-4">
+
+                <button class="btn-submit" type="submit" >پرداخت </button>
+
+            </div>
+        </div>
+    </form>
+
+</div>
+
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,500&display=swap');
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    body {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: azure;
+        padding: 10px 20px;
+    }
+
+    .wrapper {
+        min-width: 60vw;
+        max-width: 600px;
+        box-shadow: 3px 3px 5px #1b1b1ba2;
+
+    }
+
+    .container {
+        min-width: 60vw;
+    }
+    .hidden {
+        visibility: hidden;
+    }
+
+    .label-header {
+        direction: rtl;
+        padding-right: 2rem;
+    }
+
+    .btn-submit {
+        padding: 0.3rem 2.5rem;
+        font-size: 1.5rem;
+        border-radius: 0.7rem;
+        background: #0093E9;
+        font-weight: 900;
+        transition: 0.3s all ease-in-out;
+    }
+
+    .btn-submit:hover {
+        background: white;
+        color: #0093E9;
+    }
+
+    .card {
+        background-color: #413f3f;
+    }
+
+    p {
+        margin: 0px;
+    }
+
+    .h8 {
+        font-size: 25px;
+        font-weight: 600;
+        color: white;
+    }
+
+    .card .atm {
+        width: 90px;
+        height: 90px;
+        object-fit: cover;
+    }
+
+    .card .visa {
+        width: 50px;
+        height: 20px;
+        object-fit: fill;
+    }
+
+
+    .card .master {
+        width: 50px;
+        height: 50px;
+        object-fit: fill;
+    }
+
+    .debit-card {
+        width: 100%;
+        height: 180px;
+        padding: 20px;
+        background-color: #0093E9;
+        background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+        position: relative;
+        border-radius: 5px;
+        box-shadow: 3px 3px 5px #0000001a;
+        transition: all 0.3s ease-in;
+        cursor: pointer;
+    }
+
+    .debit-card:hover {
+        box-shadow: 5px 3px 5px #000000a2;
+    }
+
+    .card-2 {
+        background-color: #21D4FD;
+        background-image: linear-gradient(116deg, #21D4FD 0%, #B721FF 100%);
+    }
+
+    .text-muted {
+        font-size: 0.8rem;
+    }
+
+    .text-white {
+        font-size: 14px;
+    }
+
+    .input {
+        position: absolute;
+        top: 6px;
+        right: 0;
+    }
+
+    input[type="radio"] {
+        appearance: none;
+        width: 20px;
+        height: 20px;
+        background-color: #eee;
+        position: relative;
+        border-radius: 3px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        outline: none;
+    }
+
+    input[type="radio"]:after {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        font-family: " Font Awesome 5 Free"; font-weight: 600; content: "\f00c" ; color: #fff; font-size: 15px;
+        display: none; } input[type="radio"]:checked, input[type="radio"]:checked:hover { background-color: blue; }
+        input[type="radio"]:checked::after { display: flex; align-items: center; justify-content: center; }
+        input[type="radio"]:hover { background-color: #ddd; } .btn { width: 100%; height: 50px; border: 1px solid
+        #0093E9; display: flex; justify-content: center; align-items: center; color: #0093E9; transition: all 0.5s ease;
+        font-weight: 500; } /* .btn:hover { color: #fff; background-color: #0093E9; } */ </style>

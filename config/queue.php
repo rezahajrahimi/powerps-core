@@ -1,96 +1,109 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-syDE6iAtPKwBUG==
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Queue Connection Name
+    |--------------------------------------------------------------------------
+    |
+    | Laravel's queue API supports an assortment of back-ends via a single
+    | API, giving you convenient access to each back-end using the same
+    | syntax for every one. Here you may define a default connection.
+    |
+    */
+
+    'default' => env('QUEUE_CONNECTION', 'sync'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Queue Connections
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure the connection information for each server that
+    | is used by your application. A default configuration has been added
+    | for each back-end shipped with Laravel. You are free to add more.
+    |
+    | Drivers: "sync", "database", "beanstalkd", "sqs", "redis", "null"
+    |
+    */
+
+    'connections' => [
+
+        'sync' => [
+            'driver' => 'sync',
+        ],
+
+        'database' => [
+            'driver' => 'database',
+            'table' => 'jobs',
+            'queue' => 'default',
+            'retry_after' => 90,
+            'after_commit' => false,
+        ],
+
+        'beanstalkd' => [
+            'driver' => 'beanstalkd',
+            'host' => 'localhost',
+            'queue' => 'default',
+            'retry_after' => 90,
+            'block_for' => 0,
+            'after_commit' => false,
+        ],
+
+        'sqs' => [
+            'driver' => 'sqs',
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'prefix' => env('SQS_PREFIX', 'https://sqs.us-east-1.amazonaws.com/your-account-id'),
+            'queue' => env('SQS_QUEUE', 'default'),
+            'suffix' => env('SQS_SUFFIX'),
+            'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
+            'after_commit' => false,
+        ],
+
+        'redis' => [
+            'driver' => 'redis',
+            'connection' => 'default',
+            'queue' => env('REDIS_QUEUE', 'default'),
+            'retry_after' => 90,
+            'block_for' => null,
+            'after_commit' => false,
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Job Batching
+    |--------------------------------------------------------------------------
+    |
+    | The following options configure the database and table that store job
+    | batching information. These options can be updated to any database
+    | connection and table which has been defined by your application.
+    |
+    */
+
+    'batching' => [
+        'database' => env('DB_CONNECTION', 'mysql'),
+        'table' => 'job_batches',
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Failed Queue Jobs
+    |--------------------------------------------------------------------------
+    |
+    | These options configure the behavior of failed queue job logging so you
+    | can control which database and table are used to store the jobs that
+    | have failed. You may change them to any database / table you wish.
+    |
+    */
+
+    'failed' => [
+        'driver' => env('QUEUE_FAILED_DRIVER', 'database-uuids'),
+        'database' => env('DB_CONNECTION', 'mysql'),
+        'table' => 'failed_jobs',
+    ],
+
+];

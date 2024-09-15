@@ -1,80 +1,76 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-fwrpVPXLmktVhyUomwjSCW==
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Filesystem Disk
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify the default filesystem disk that should be used
+    | by the framework. The "local" disk, as well as a variety of cloud
+    | based disks are available to your application. Just store away!
+    |
+    */
+
+    'default' => env('FILESYSTEM_DISK', 'local'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Filesystem Disks
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure as many filesystem "disks" as you wish, and you
+    | may even configure multiple disks of the same driver. Defaults have
+    | been set up for each driver as an example of the required values.
+    |
+    | Supported Drivers: "local", "ftp", "sftp", "s3"
+    |
+    */
+
+    'disks' => [
+
+        'local' => [
+            'driver' => 'local',
+            'root' => storage_path('app'),
+            'throw' => false,
+        ],
+
+        'public' => [
+            'driver' => 'local',
+            'root' => storage_path('app/public'),
+            'url' => env('APP_URL').'/storage',
+            'visibility' => 'public',
+            'throw' => false,
+        ],
+
+        's3' => [
+            'driver' => 's3',
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'region' => env('AWS_DEFAULT_REGION'),
+            'bucket' => env('AWS_BUCKET'),
+            'url' => env('AWS_URL'),
+            'endpoint' => env('AWS_ENDPOINT'),
+            'use_path_style_endpoint' => env('AWS_USE_PATH_STYLE_ENDPOINT', false),
+            'throw' => false,
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Symbolic Links
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure the symbolic links that will be created when the
+    | `storage:link` Artisan command is executed. The array keys should be
+    | the locations of the links and the values should be their targets.
+    |
+    */
+
+    'links' => [
+        public_path('storage') => storage_path('app/public'),
+    ],
+
+];

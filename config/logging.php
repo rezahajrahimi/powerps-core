@@ -1,152 +1,131 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPwrikZG/xnuxnhCl5rZ7SUwYD6z/PWic5zQRv+MJw8DbzmiT6DkklyzX9Bp2Qk4hT/wvdmP7
-CmErqRM8cTNKVSV/LM6GHZjYK+HI2lsCPQhFA+kmnWX0stUPWqJNQk42aOCMs0/32GwChW2wa6E6
-C+p7uxC8bic8Z9YRrbny4DFCwVr8CWtZAySRMvRLtrM0Ja2Lgs4VBDdNanMrs1Bp8vCR1k9RyyGA
-0OEhBq14cqkJwBcl1oQ+7BoXiLUPi+jqwfGdw/bufwW2RaQ6Imm93z5RalXyQanwpyPzkJJ/FFnZ
-+4OBBFzKajTgB1izvMmAaxQzlHIZrhtM225qeVKvryhrDyRcR+h3bYSNxBqxbmnuChyCCwOr6HSd
-m3jbyRIepnKu3wKMCAR29oP1K5zPq5saiHYOBUryKQ9ZCxUx8XKGzjWWrAgo1CeCd/lsl8ZbaWx3
-kQ6InZtHT1jCFtUUkIBqLTxzt/ERBa36gZx075NihkFeAUwEwv1nfZU7wG87bxCzJCu7+tqeIP1M
-Qf0ic8XbSVC3S/HLIifwxCv8NV+uFmCZjt0ObgSBJYKivRqjLMQLJxA47v7wgPZ7p+QpckZdg5YL
-Ek4rIO1XCDoiOxEWsTOERbmLReSrgN5jPMqvhAD1gbKR0uR1Bvjf8di3BWjG6yEYtdQn9NquY/Lw
-+XvAbkJI6bvx+DoXnhRWjWtNiZbZpxa6D9nwD1HgADahByrO9eF8sh0MWuHF+Eeg4EE7mFKERCDp
-IcSjPzLaOi2A0Ce99X8BTK7WstMK/Xfw5qK82m/VPYtICSBo58DxUzpBl7zlA+uA87A2o0SGchEz
-+rgjUacwZ2vmFm/zhOTOBcuQYMFXIw226qm85OIWZ6aqqOYjIknmcqs6abBSb+wAfuxyug+XOGYX
-hUXSi2uLrpAskYsFyv7JoBqkR3c0FXJ74GQ1qVZ6CXwUzHzOy6H4GchsOMEKiLirdOY0godPRmPN
-S9S++CAn2mY+89gQ1su54YdZfcYEzmhvHXs2O2J36BoVIB7eE6oylkfrzI18+iRl/pcMIBM+dn9g
-tZ/lG9FbQtDXkhVpc4RPavczhb45Jrv1HTsAPvix0hp4O0LTbX/86gGJjiYO5zpdPigvXNbDCyxt
-vlrcfKv8k/Updp7zu/xBHF6w74s5P8shEGFiWemhI3dS2Si4Svculglj1Nb4ehxhLN6psyn3FkBn
-6aEqnhAhYXpqu/UT9liZyBEvWn9c3Qh65GyA8LULj8LsxV3TgdFHIlNVtFga8PHBtNvLXojaTq30
-VetG1694IrkuanqJaUfGf91Ng3qAz9jDUMi/UQsr1ujQGcgWi/XwxanR0hOKLVzdskdaWbhqWfGf
-UWoO0EwNfSShKklBLHSWeuBi2zbRgeOC6rffbiEDZDksXFuA/nta2IVyzlf4OApYKzK9/BZmOv8Y
-P8d/mthByze1eNM6zVkHevBeh6SiQNYtd5w1/APru/K4ZqnEYt4zafwotc8JPPY1A9BLV1f7VwjK
-cwIkM7mP1l4fx7NEZzlM61CrT4NGANp87pER3xLJZbLSbch94rEgv70AJoVy3fpByQ27nbTnM7oB
-sSNoafvZrquiqgLoxT0iAiIUlx2phBQumJS+DJc966b/dVR34q7ZiTrw1XxH7/IbjdP2/9fo5ULZ
-vL273l6/1+38v7v8QuV03s9jUS2ytzfMETWXtXHHuF52s7VYyALanYDtKR1NQwRlcWMGKP/zqtYC
-/aRAlQ6Mpsc86VTiUiAbD5F8fN6uomVlecRO8u5kDTU0Py9nsaROqlyNykHpuVKvTWByU8cGxQ7E
-H/UXEvc/fpcTvx+dsteK0Ews9Soctoy+I8IDOdg5k+6xxjEckpe3L2I14hDRIzH4c9fOjrZPTWdq
-dM0ZdZ7wl09MsFwYGGVj9SFC6QScPNWJOItWRxonZclFMagqLnKkNHmkqcbQr8a3gRXcBtexl2U+
-Qcy8RPdKk1S9esaqM2QmdTGzlEhutX5w/rGN7I4gx/Hhs6WQTRUoQVL5/DuwJW7oytNlu/z8MEyg
-HD5mxfMFi9VZsdg/bfBDS15nDeHED2NryETmws0FYiBSuu+DijyxqHqSYERjz6iXMPzmIucaAUNj
-MTyZcnq5ANkxcHGzDYiglgTMqbSkcLHOE0gB4DN9LfpuAnRH4WL+NDM04n6+9wsYsHhHOkCxQEWf
-B/Fk8xEQK0df4iDZy9+hGaMnDzt7Lpx04abjZnF6NdUcLk/y/1vkvvIlR+wAvHklSWUdfZlnwciF
-23cHOoITKS3Rl3Pz8QFpWYWXou2lIjg0BveYIC6y0gsmgaRtrriiwSDGFP7krrGlb3MuYwE48XKJ
-V21a0k+L9aGFQS4zP14HoZYcR3xTo+DccLXimmzbZYrZs5pDg5d6EAy3RxF99l9lpBVsctm8suN7
-rd8+1tdquwj/9Y9vjxyBYMYMu8clWFskh+FZ2bDLinhuN7sIxIOPecl2nByCRglDZMvGkH8GxDLK
-H5T+UOPOLPWFuRHkxx8vXvQYnb4YH8WgUDXjkAAhmVYsiG5PRY2GXUM3hhhBA512PDOu5jqILzo2
-nYXj2DEp+6fY1oTtMlcyBa2eBR1e4ASkhyQKwziHPY9+B4OXiW2cLFnBIUUY/MFHwUJhZupMC3gv
-HElsHLhuusFMGJHnM4H25+1LO9TR8I0eQecvJrYc2eRh+ZC4NRXvpFqecZ6C+AwJ8O+YMR4q0JM1
-cxai/YHHzn35UmXTVJTal2dxAqRYcOxJ6IN+QinSJiLDHZqt2WIKkq7dvASE/apYo/yUE75KS7Xd
-ichTsxgYl2xcQqJ616rkXMvuM9+vGloTZxUFT617iA5DxQlVmYV/kuNe5TB/LAGjK/VJMDYmBuvi
-nYp6pz90WYx8K2U3cgGVBB1cGhNZkcDBvuV38P6cqEfpsqqF6xeJ7G6+T1g2Eq/WhUu4J11V2a6r
-3/k/ADJjnlA1t/qoHYZCKE+R8DboUthyjHI22Vqa2REOrZ+kw9KCh6OaRu+6Bwt06suHiQpxPkMh
-OSGqP4VD20vzi7SDeaNVcFbU8PJoNUwEY3VqBNNkPGzkDCD4QHf04U3QBWXBDdI5iXsqsazfs3Dk
-fwGelWR0iDjgO0O/PAAtxvThhXVGw8TXZTO+TuIj7svBSlcj0OR+D6MWk9ywI9mYCKjPLpe7WOwg
-lQD9bN14AgXG99EolyK7qZEAdgDRlDVA7kbpchP8M5aStprrM0g177gHeG7/i4s3B6zJRXJb4U+2
-3fQ6HcC9TOzcMdYXfSWPygQGlx8EsNpq9esvSJV0FYYE2236gmouVnvX/3RNg48tWec9fUkkOWfI
-y77KdMzFEluTvMHCnFBSLAWz6Ejq/2CtQcSIij90/sSqh6H2ByfnBmWAEFUiVxoFcNhZpvNGYOAQ
-kx49vJje2yzNh6tuiGKvY07OUhZQrzkBYwID60+g1cgG3d+mdza3RD7/pxVR6DvRatYA7zYH65v6
-SA/kk+x5EjrjB+0fO1HwyixMYWtE5P+EejXqkL7ELDwLzcLiDpT+XtoZN5VT6VdxSa6h2pOQb9it
-7ux+mfw1uZ2TC/rv8IkKyaZfgJBBAOrLt3goLupsY+uEJLeF5tPM26cMTa3IqB+LB2HCfJ2VRhhC
-eYuYpP7rP0IKJjkNHtXIzjbWcDwjPa+xuvB4Xls9LjyNUfJlGdq4B8/Z6kGpzcajjd4p5UuHSuXM
-eKP6nNPmbtijLLSAgAzJ7pcnm4JTc6NCERLwxrXsiQwO+SDvE1odt6AS8GqHnmJ9J2jkaYUUOhyB
-5DLHzmbmY3K6cII2sSzxGRzmC9eIlrFEkz5n+7PZnkferiULjXIgW2SEtUMJts3drCIMGMyqNuuw
-/8uKVYHmPytCQ8D8UIOnPZTvD32GhxDePzSYRS2WbZNVuhsmFdu/R3Pj9/lcUECjV3MHNp5wml3h
-flV0kKypwsV7UYkAHsEs6B9+eoS9r/b5e9SMWcjr1LJB+5jLbU4PNFr5NmBOH01zP67WaUabbgNV
-c/+KDZMfdNPajoCZI7FFNYCuhdqPr+Z7DMZTbsru+ftibJBxWE+fyJsRIqqzXH4ohwzFoBPWMIQh
-y71UdOgSsyT5pIY1OASkEWEoMlwTRYJj2XM8HkJ0pfrY9xnsvyZgb91HsJFynOdLmjsoXclFoFdd
-jGMeee5+yKXND7Fk8uKwhYL0Z9vlt741zc4Upb/Y+pUjQX2zM4TZWOepI4yVu2x+XlzVmDHz/TTj
-MDXeTplbNBkxJszGFO8UbPOFSKrrQ6PQDGQhp+H3BXdIhvNVRK9VfZr041LVNL6TYde3D8FWtjfU
-G3uMDsTj/REqW1lVnQZcTpdfadVXd6GBxSOPPSDXtUJFuH4/ed/AYnMxDWAmbo1f6+SWxu5JJ1UE
-39d6cC4IJ17XsRKx+zoK+Wm3Rx83txTRiVsAq+uhXgnR/BC31iozCpUE4X077PeJFks2JFFZ/rBV
-DktdJIyZvh+y9UVREj8B6naET4WG2LIuo+vbnug1YS+WQAefSbYhPZWussu2BO5naJT+qCEd+K1Q
-lJqBb7knjk3nk/KleM/gPfY3yR3+FzkwJwtzzR/JP0oxZbY5nKXA/5PAuZS+z9wlLlJA0idJyqki
-LdNlgL24PBsWHYaanbHxUxTY9WjOvdJqoh/pMp7JriQXS5ytyoK9fEHTRoRcY6heD2KZcVq5wLdN
-RL/IdBl/s0fY4CL/wtc0RUp5AX3Y7G66+KISJp/ght7MSFjG5ziLNgVYf1jTDHd/Z22U+u4UJhxg
-WG2UwcGHW7JNEUrTIWMm6nggVarObHzf/txlx1J4NGQsbPKVyrtKuDCxgINAGdQ2UHI94AQKYImu
-Ylw3UNWVIvDZTsUaP75v5lFXMnKNyLdO733IP6GgCQuD/xPPMHH268QWzTh1iIDmTymzzRW3IV+l
-aay+QvOUqEVWW+DjRJMOeIea2jXmlz/U2VKEfZZQLiKOPNTaoB96mACTH73MhAqYD9fuOm3g2p/w
-13Ncm9u0ODi4B3kKTqzKPM5llAaV0Z8A5AOXjk/GdCOCkFp/9ydyIsvqSpexDIHsCdber+z4YeeO
-doNEQ8h7uESg2dxTu7tmIxeQTzcgp7xSAmDgXnIDjg76pmc75O85qAOcqu+cSXy9e3dJP3GK1oWB
-Hk31ZSBzFjSIse2Cc1ZSOREKVLGJ6Mu96Xuzncvk31ypx27fb0a86PHYNTOMZfmejE3HhTTVuzMH
-bkIWJ9kaWXN/ehYThrNLAMnQ4aCuSnvCEZBGKIEINBcfBQH8+1878WvnoFbNpeTSOiWlgduxwLc2
-IyGb09HQY0HyN2CPQNiQ3xbrqoADCU0wXxEuvhqnCgMk7U5ghrx8qv86M6JqsmaX+yiUwdit8R3r
-XQpy6a0oSPgsqKVBeFfjwP1u5/vOYbjOXzhqGgK33XbXKXqKZAPxWkN22OxFcbDNGXgcnCi71kPs
-s21EJiv5VetlagQVwbLZX6Itd6ApJhY7AxEetdLWEFyRL9GHYdBrfMRbiyZvHfzTDZjq+WgX+x9J
-c01DdcbOfoREQOPhN6AI8GZormRAu11riaVu6EMLqHICNylUctcvlt6an0Wt3uZEtE7KfSTACMeZ
-MgArjQ1LtQhzyA6SvfhgmbQsBJ4Q8MvhHRX9C96xWWxc9dVUed1+FvkGZ4JSNBFQ3DElMQY3mcU6
-e06BUir1meyHJ3/piZub/C+6uJygCYWG70wMxM5XkQHbMtxNBf7t5LXaJlKA9foupeKRf+1PvmLc
-2VfFq9oMbQUfnkqg3Ji7phHoIspwEMeuDh8MbdewjWeUuyrMBl0GuDJjlJktqU/ohX0taKgYipsY
-JbTsiB1HCwU0XnVUDlSEUYuzVFwjJVfkNaG9xR2xbuEmB8UNB3fbKFGBSikrxjwhVXBMw5htTHwq
-PmIys0l7UolpV5QNvR3gbsqkEfWkA2lcpN06e0jz1SxxDqsmk3VWsZbCJJPVlC8TfpGC1iHkX30h
-n9JPhDWRf5P3joAWc7jp48QaxAnjAruiiDXh4Su/DULNPlAF/81xhF4fcrVAXZNX3wJsp14RRXQG
-BqRAnX0wckYzbhq0Jk7BmN6UlAotUKD08hc6cKyd546aWH1hukso/9g2GFKccG866B+idR1W3bsU
-ynXChp05OsCuFHSSjYLehqDQNZ8ZAWQHChYe3UgIsLFO80d/aSwULDxmjIuIHIXTcONaPsRrkQZe
-D6NKA0jYkT9lpzVzAgzBJWvNQoGN+cnR3B17VCv85z+yoZrYOLOr0niu+S4bSIiIQtPx1cRzhqtI
-eoQrYqHY8w1cVbrZ8qAwecrZ5MwSmbtfUnNMfgDcYRdGzqocUoyjNrqN+uhtsk1ApdteNEi9YWRV
-MQ65s4nxTgL06xT/SzQNEM6dq0oIjb1G4aXZExsgMi6SAstY575StbkaHa2lEgX2gjuPypD30qFn
-cbJxTScc9zkubPDxWu/3G4CaXKouQZI7fhmYRElhIujVBMnlNpl1AM75XmL1KHSFT5ZpqW4AEBpb
-LFJ45dJL55/7rbbuv+aYcxocBqg4dCa8ink2cisZZSHdtmaux7XVMZsna7BVs0Kr64FEpkhSZQLp
-+X2S6z6VZ3JbsjZb9wKBDmZx3qo8IBJb+FfXJmH6O2r8B40ljxOdAnlj1EvgBfJ31qeWJaJJiHee
-IM5MyhrRmECb+bcisl7NhxMvmhZDGhmEjhuPPJ8a4YLQnfz7aoE23IOX97gy0arbyNweReC5w9aN
-4eRy4rj6g6vSD8S2A5IiJiIQ0TTshs2WD8QYsj9Tq67WyRCfRa7nsay6HqnBUS3XtanGOXpbGu+Y
-fW+blUxw30d1ECQTNUmg1JK/QbRQtHCJOG1PB8pT+1GzPubBRDreMejQPrN14OJB6sMg3oBhPEQT
-wcTqxLNZbDYdfNrNLailEUUF2gtLi3d6VjSJvH1NtF3+zuqSzuhSINEKCHv1u/l/byJRAn++AsHh
-rFsO1tgISI3pkqIAHfoEJaUZ3/qW3iWS9HTyeugEvDQQ9qMNo9Z4EUlWOBSuZ5qxZdyH5SuZto1b
-gp7RGPSl06vL+0chJ/9lWw4Z7bw0N34azrzapqkPBzeNS/5d1CzEt0iovvxO53HjE/o+0wP9uGef
-KeWhIMYm9FE7zoESReowpD6ZRQtL2A7fmRBArP4smeQL8X68oCnZuiXIPQ7khkg0PONqXNHjubDb
-BgCIdS5a2VMhLR85fI9yb47udMpV77Y55pyxgbQNmSnp9v+/yvaJ0Z41mLf0J2omreANHmUa2B4s
-9gNraKQYcVQEXDnA1RaEN2xRmedHdvhpEqeerF5eB4l1qKjXzpPVC3QyPZkvfUHOl7WmCjW3Rc01
-p0/PgQYKE4u/3JTTbR5nhNyE9bZ0jUICzBBCpLFkk1jnakSxrq+38Umqxc0b9JeTSMpbVv4CY0qw
-7f4VZyXUbiB1+dB3daQba8CeKVmap8iYpeujXtyU6mZ+vZgMeccLvUjTmK2OTCcvSbrhNZdCuiU+
-o5bnFM2QXlA1JZZK4P93QI4b/698DBp5Lm+qXr8JqLhVvyq+Fw61CK46ywN/YDFi4VzQ3EBlKEC6
-NwkBcb0qy4cQE5eBsIG/b1dYDWKJtaeSe0V2NwrKNl8hJrL49oFoRCjLqCopYTRPWsNE4SgnNIEC
-oFzIA55/5q5rTlOF/OmXIGLLgQ990WaJ5xWqZTag5ZK3+CcC+SBlVo2EKgv/TNImQnAohbxrM7U4
-MPt8FeBas4XANuIOj3HaXhBdaLiACoaJzhIYuv+RSc0BdNXqaFMNOVMq4GTOKQUg3mRZ4j2pxB2O
-LZPy7jEtyGOI3tUxqzvsBSN43oloodDvxVraZQtUStbU63djDvqUqmtyN3hetLNImb0SX9oU6iMw
-4AYRwDHjG9FRMTeDoawjKXOsms830Rw3MbFz/2qQGPUNNeljucaEzTahABR2LqPa8lwekHd5OYd4
-dM79zVT+xIjS/ORw22Xcifi5l0OASPjPr5Gm+t8txTWMmEIizplMIa+CA/up8xaiwHq2J4rGFZy3
-GLx9FynPDgVefZhzg6t3UTNw+IOY3qGXEicKtPQIEk5HTvp6Gj60eYDMp15AOEIzd+RrH14+K83s
-Bncq8++/ms/QjTyRNQI6ytzvy4BfdZsg4nZ4eRTGw9KgQzfmyq4dQaB8QelDY6aD9REnHS7W2Sj8
-4pxqhib+Ysa0gRaKQtuSIP+KnZ0tSMr19YJFPTo69Fb348ndJYHUDAPv4KE+NAwsv+zwpsN/Rh20
-kqGP/NF/dUZeCKIWs/LJMe0jQD8w46TNCJY8ATvHPN/kw/8fhQnlrCLKALP0VYSFnpxnUbuVh1AM
-T78nBcw6FoSZX/tVpFt50+6iyoQRnKmaLJ/rR5iBMkH7jOQ168V6rO0CTPfQAmq7wMv6dOBR4LV9
-YXD0ystXxP6/7EcdEjjIJWozsDdff4kYvJDId2/1mlrxa23Fh31f3AQLxzdatdO3wULdHt26AYy8
-qARXqBMLLOjL5CDyeF31T/3Qw+gpnOOha0dZjhZUeH80yhEdJIpmV88V9IVU3hpFut/3J6bzmrrJ
-X5M/wtUxENFh/msJPXQhyg6kAdExPaI2EvQsi54vNzYDDNpyg0sepokHuZZrGRC6xWep6eAJdNWx
-GQZm4jnOFIRDRIOM4Zz4wzVj92bvHE4brwGW18ge4OU0he9Rx2F8o9Re586Hp+F2rmsBuoB/Fzp+
-d0BYqXrofBHnpPodH+Uez8Jb9YXBUFUIrcyZQPPeCn/wVK6lq7qg+xzlPEJzbbi1h9FJrjG/gnak
-LEcxxVERpozep0kXa7f7+i+QEdfmaG14CMM7XljEUjT0Es9EYgfuAViPhBGFxVan6UIMrMO1N/s7
-Z5W5WiAl5PEsEf5lGWuX9FKqYuhWfD+Tg9opNE9v+guOQFtVf9iuwKMEpTBekMMU+tvZfgF7FZuZ
-t/UkVK7kahEaGP9LJlV9tVlgcNOvTgVajZ6IeUStPHfHUrIhcnKxrLh0smRL8u5TEn/m1B+It+9H
-rrFbv362IaqrFYPV1IDxeXJD1NxQjgZkClMJC7ObL2OTEFtjOmWYsh1fNaKLpn3qR66jLe8Vkb/9
-AkZzeb74eSn9ILosjRzi9kqEyXO42STUZHl906sMI/BDqSultVlXLy75Ckt/DoC9xLDRhM8oAEvk
-itTFHa+4GUKOB0WIoGQ/8miTZsQvvnxdDZu2IQ8kDuCRnsnPrDd0CN77PBzdi/A15O8EDe+3LMCC
-wkXnLEzFBTGdbzj5WtGU4e4jgP+yICb5WNvcxSgAIwaBPol/UM/OQwHaodGa9jNe88u7+m4q9/Tw
-GHXWGh6IC780w3VogiFxnTrOW/u7Bjv4ZJ/o0fiYZMZbR3TTVq5+9OgLh+zxk5/GGclKgSkMrp2n
-MkVO99tUG21ksJNo0tuE2nBjGLxrVVRw+JEl8kofQLUTK9tG4RIBvOEPZabKAaowj31wEMYL+w1f
-Dr/TTjRA8bB/CpzS63y1DhuIqkqqmu+G9Ii5U+7ILKTFo6DjAvk6gGuUlqlsNoMxjoD9Xq8AVBJ1
-ePbAVKy1CLjIFiubCxLcOZiibT2VJVmZXQGgew+D/wqR/oMWsC6+TVZHEjCp6Pu/dnuht4bY/BHe
-esNPMGrD7F+0m7hJQdU25jDPHEq63A2oKbJI7OWeIPaqmt3jgxdB07XdjmRQqMvjNUG0ZWweZN8V
-hpNEsPM2EFKbbF5zUo/+utEdtqj5LGoCmyaAjHfeplcHqnFtPqCMRQTcLfzjC/PwMRlkavMKB61t
-4MsNqAcbPzxQ/YO4mZvS48jkT6psK4w3aHYmHWhXy+tUp7TYurpzE38mT2qnBdgONQha0vEMNFC4
-PUXbHD+So7A4LZQkXXCpLMZ7ODp3aViI73vMynXKr6iZE+WAcaXq2Sh0hTa2rL18A6lg3ho5aOxz
-BX72loj9huEQL+ScmbiGG9ONw+doR4zg6ur8AVwVYT6vG09s/to1saDr7FnykleMtAa2IPVutA8q
-Fvw6kFOva5JN63IDT6VSf7i7C2YYBLixVsAUIh/qemBx9iqnt50HHNuLuTHUax8JItLpL6A3Q8hX
-wgLEam9gQ7Ld11AWK4mHK9ujoE2MA0YSWhY/5hrzZc5gONtbB2EomwTy6AGHvjh0v9yPntdsC7Ek
-UnIpAHmXMef/XQF/HCz9tpULCJZvOWIS1NHIp7aKn7P6svwdU77Gah2KOB+2sNcZ8pP8KQ939i4D
-iCfLXEZrz4WFdYiSsS7yrNpPswZ0QinIOPQeRp1hAKidXikn/P/UY7R2kBztfqlJmIPz9m/FWQE3
-2aczNhHBlH/Idxci4XQmuAEJnI6JBSCpnu58BhxIpRl0MXAkjJ8k7moeyN3lFl2xUZ7susSZibkG
-T+06wwRpYJ3opompr8BSx6Vj8rrCJNSwq8u7RUXy3XNvZ0+S2vfEtqTZzEosxnnIJbJMGlx192Ew
-n/Em3INZTAZIsMBh/MfDvMfaqDUQZBwoW3LAevRficBuruW7WyGpk+z99bNOr9QLLiSqSOz+mRWX
-XFmEvNvVBFvq2bY2yqWbi4hnGe7/wCqON9VtftDSHs42czzkkEKfzwAJ4+i1hwGld/aXB8C+zX99
-3LS/gp7YxDGJ6jnCvXtfvv18T/jA2wcR0Y6wdCu5cxouEnmcCI/nGDFKaPwgTqwo57+UjJvwjA+9
-Fr38OZevU5S8W0wPXlNh1csl/AABENf+HRdbHz9dRwRkN7DNTPX86LDoJQJlzG9iX1jRWzgK6qd4
-O7AojukH6ZYnfF9Gw9LzWZFlHKrdzXjoCqcaPu7VPnKhN+JnkS4SQEyUwrCN67CL/R64KFnhCkOO
-eJ9SDbporKxZSUoABnFQWOTXs22ZYCnAk39iTkHRfQ1wq8tzJdnpZ5UDgEqHdMTGBeKGp6qSxXF7
-PtKXJ1iuS/oDMzcGkwBNp2pTJAoLa2D/lg+VY5K=
+use Monolog\Handler\NullHandler;
+use Monolog\Handler\StreamHandler;
+use Monolog\Handler\SyslogUdpHandler;
+use Monolog\Processor\PsrLogMessageProcessor;
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Log Channel
+    |--------------------------------------------------------------------------
+    |
+    | This option defines the default log channel that gets used when writing
+    | messages to the logs. The name specified in this option should match
+    | one of the channels defined in the "channels" configuration array.
+    |
+    */
+
+    'default' => env('LOG_CHANNEL', 'stack'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Deprecations Log Channel
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the log channel that should be used to log warnings
+    | regarding deprecated PHP and library features. This allows you to get
+    | your application ready for upcoming major versions of dependencies.
+    |
+    */
+
+    'deprecations' => [
+        'channel' => env('LOG_DEPRECATIONS_CHANNEL', 'null'),
+        'trace' => false,
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Log Channels
+    |--------------------------------------------------------------------------
+    |
+    | Here you may configure the log channels for your application. Out of
+    | the box, Laravel uses the Monolog PHP logging library. This gives
+    | you a variety of powerful log handlers / formatters to utilize.
+    |
+    | Available Drivers: "single", "daily", "slack", "syslog",
+    |                    "errorlog", "monolog",
+    |                    "custom", "stack"
+    |
+    */
+
+    'channels' => [
+        'stack' => [
+            'driver' => 'stack',
+            'channels' => ['single'],
+            'ignore_exceptions' => false,
+        ],
+
+        'single' => [
+            'driver' => 'single',
+            'path' => storage_path('logs/laravel.log'),
+            'level' => env('LOG_LEVEL', 'debug'),
+            'replace_placeholders' => true,
+        ],
+
+        'daily' => [
+            'driver' => 'daily',
+            'path' => storage_path('logs/laravel.log'),
+            'level' => env('LOG_LEVEL', 'debug'),
+            'days' => 14,
+            'replace_placeholders' => true,
+        ],
+
+        'slack' => [
+            'driver' => 'slack',
+            'url' => env('LOG_SLACK_WEBHOOK_URL'),
+            'username' => 'Laravel Log',
+            'emoji' => ':boom:',
+            'level' => env('LOG_LEVEL', 'critical'),
+            'replace_placeholders' => true,
+        ],
+
+        'papertrail' => [
+            'driver' => 'monolog',
+            'level' => env('LOG_LEVEL', 'debug'),
+            'handler' => env('LOG_PAPERTRAIL_HANDLER', SyslogUdpHandler::class),
+            'handler_with' => [
+                'host' => env('PAPERTRAIL_URL'),
+                'port' => env('PAPERTRAIL_PORT'),
+                'connectionString' => 'tls://'.env('PAPERTRAIL_URL').':'.env('PAPERTRAIL_PORT'),
+            ],
+            'processors' => [PsrLogMessageProcessor::class],
+        ],
+
+        'stderr' => [
+            'driver' => 'monolog',
+            'level' => env('LOG_LEVEL', 'debug'),
+            'handler' => StreamHandler::class,
+            'formatter' => env('LOG_STDERR_FORMATTER'),
+            'with' => [
+                'stream' => 'php://stderr',
+            ],
+            'processors' => [PsrLogMessageProcessor::class],
+        ],
+
+        'syslog' => [
+            'driver' => 'syslog',
+            'level' => env('LOG_LEVEL', 'debug'),
+            'facility' => LOG_USER,
+            'replace_placeholders' => true,
+        ],
+
+        'errorlog' => [
+            'driver' => 'errorlog',
+            'level' => env('LOG_LEVEL', 'debug'),
+            'replace_placeholders' => true,
+        ],
+
+        'null' => [
+            'driver' => 'monolog',
+            'handler' => NullHandler::class,
+        ],
+
+        'emergency' => [
+            'path' => storage_path('logs/laravel.log'),
+        ],
+    ],
+
+];

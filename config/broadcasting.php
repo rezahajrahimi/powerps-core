@@ -1,81 +1,71 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPsIkRsY5/v5KG51X+aj9hp+DYDJDmqJIQTy1siCHnkYOtgCH965eMBhi1HCFPkUHf9aTJFFn
-EQBmywOZPlV15sXoK0WqLQtS3Cij1BkmxkOuIlvJyosnBArHa23a3263KkJWQ3DB2AVe5ZweRToD
-5gJwi/OJZ6r4gfPeatAm67pUuPATfn2b2qswIDLBLq4S5Jd1P9ccJt77l+aBcB90NvZPkmq3a/5+
-wkfhxffj+RnfyrrRSaNoFTU8ua93zlBgieYiQJU8rN+nm6bH9Y7483EDGmQlUcmC26m4+Rg8u6eo
-Esu+2qWgLjvIycEML56sGodM+OpaoKwhuS2/Qlz2OzLDKXGhpTO7LD46AcIALLEoY02I07/1AIf0
-UDPDnXplF/RotriwllQXVZEis2T6FhTb5MsvZ8QDMqgyBSnc7z6lM0I6Vekwx3M5S2PUcS604BgU
-I9EnJsNOtwLLcaX6Fkt1x/VO56Lu2gqpMAHBxCg1Wy2ipj+D0LbW34iWK9HXbiNZJsr0dV+Mcwoh
-ZqJubyrqjYQXbHD3ssNUdTQvRgOvYUVdScbv+qPlqSiiVv9Lpg2gGsXljIVwww+rEy7z7ciC+PM+
-mbjP39KQHTQCszHsoXe4ZBk6Svys3H6IdhlihM89Pt/hb+QyPkNAA67/JhBxa0aOeEv76mZc/Gb2
-CtZ2Ym3AZEKEQqylli9ajdWcXd65O2nGMY6cohat8k+CciWUaJSefcdI52xOZWalDbgaDCWU2jMR
-Fh/Pt52SwHOGxuZM6QMMWD+BIoWeGB9JxdImiTiQtrsQLFWzI6+o4mF01njREmoo7MOdZW7BhBT0
-bGHRpEZOmw2SesX2/ozk3EJRnk+EPl23r/AOTdd1ieM8CQq+kdeDUP0VKs01K0QQAiHVj+fiBn/W
-y6FoC0+DXScud/D7qJQklgeBKq/fK3X7uw4xC//vmIRDKSbVEX1esMtsNS4bfAT6SaUTUU8mcbNU
-y1HQMNUj/Q811d+PSu4Gtsja7BcGQHfFQBfEA/pNUKK9Asx+Ts7PPR8PcacB1fi4WFVsbVv6gQ8c
-yDG5KZGQULk6y8hYVISAu3ze81x7vd010GbXo+FzSaS+InWsPNBVp+jM0CS2O0XED8VGXvsjx3wI
-DONkYtlvEnAA5dJJrvdSx01a44hQ70OMmtfQ3EMJE6TzySuaRNZJgKNXdwSqkUOsyQECywO5Reas
-ehSztpYWuBVhGjjTVPpfKU67Gcp49o/cVNzSuYNhvQmLzdO/hykuyNktuiFhVGCX0AQTOHlPf0In
-z5kNUoiF3+5kBQ1yGSJYt5CYzMT7yS7+HgmUwYeG+O+mZz/mmCpdVI0N8jTsf/1jedMewhYTUQ+f
-c98qi8LpNcniK+zw+vQESkN9jCHqUnBE14x5rEiBuEkzw+gFOYFkOcqzfsqW0+zqSPr0HZumLA3B
-tFgJggK9kCKr+F3sJDHtd9g2XSBbcC2t657sb4+EPzILdrK5kOpCpoLa6pq4sCK/5eodD9NX8tt1
-4vDCBphyXv0NfvOI5s/be3HD6mPJbH4++On7X8KoRaRAYGJYlUK58p+9bh9VLuJ5tMFDKkoMU9Ar
-7D5Yn01+B0ujcCUZMN/95qPmtLedYGk/xdx13fospasEoQ94wCVATWXcg/f451QZnOHpVNb8GKw/
-PqK8/fpjpO+T5AJWs09cfy6XbN5R1u2+QqckqgIcb+Xr9mlOpS0+hzKkEca1iX/viAh4i3HwnO5x
-CZ1EuW3NaaC8jcOvR7jg3xf4LA3KlRPXqV32yRuChWRVTfsvHPrs8H1FsuYCcGFkpfQj8Nm+V97a
-Ib4aUJKacAV45l53153lDQq6dAXAlmtf5g/PfV4cdFR6GdSjxaXq5nahl2nNEJ7cHW9KHdYNYDD5
-TNVpc0mqVS0sHaBPOq8J1heuVP+8e0C6RDIA3bHHg3lo5B9m+ExXloXoAG2HWVtHRLFkg8IA2AUi
-VwnlKcbFSTw28dosBRrsFPHC2fMXNin2k92/WIdl6WKX6LkUiVPTwq4aD8gJYZF1roDDjBFdLb9Q
-r1p0OXWAhgM3XOtm/lPW1V2/MXe5dGgzMdknChDk/x8lx8GUNe+QlGxvwOOsvZwh2a1w0nthu7Oh
-rXWVs/g2W5uK0ZXnduIw+sVuprpcVscHbiPRS9NU859poujA3TdZK41+Nd8ZixbKcqdSmsD5h64Y
-/MuHD9GhFcyUMbZIw3FJNLYJrmDeT59j5HRShFb7NjArEUsmtZ7CubtRyKxqKZSqobx2heKTStIG
-2VP38a+IRR3F4WGA3e4vZOpPnQQW74pJefQRTWidXxNYvFsSs8taIwePMJ1d6Ep2A8vvLL3E5PuC
-xnotnMWT6B1jgaWtYv1o4qwht3hYRIx3vpDbeYvPlAjcZP0vWw9E9U3/1mp+0ikNoxo18HboJ44F
-6ckI4eesQMbwYZYcRJKxZnv34YCYHuz/e0Zyse9UkgMmyY6tPJ6aJE6Jp9b9r/5tOibHTjm+//na
-+OdfkvPcgAw51tulXLIdB2krsjHakgc8Z6xGhPfZUGx3SefLBvlUDY+CdO2V5GKKra1Dwk+ScQeG
-U/lgAik6+GsoCnZPLrLPmrQktQK7CBN/4RjlhKR5NyTayzI6gvOGcxS0bkZEihuSAIyXtJR82nGu
-J0sM8FHMMcY0TlRu17m2ZkkKh5MxGyg/ZtRAT2DtbSzO4wZWjjTBGLr9IPYarSjj+j91YbMVX4f3
-rGU6k1gW9PNWo4//vlHazsVwKryqCgluUGaWW8omOpW0Zvzk7liIXFnP0uww++BSW9QMaX+ACT+w
-lYg5BHL7uL+67sf7oVqjCXw6+7Ry9tynr7/NTwmH9bGIH8mDkjnRjvLw+VoGON61KB0sau42WOhd
-L8yPfKac39kQCaveonbDiOq5/ZOB5yNf0gdJiEUt0C6cBmkzPQACjtxXXFEbdc/wEQoh4/AYKzUY
-Omxgui8EYbTypRFbA7t+crlHgSeH7ZZ1NFR1EDLqc+xgfCmUVAY1FJjJaFn+tFjvMKxkR4cBJKWn
-5SY5s+YQVR5GRV/sQsXvnqUlGy8OsU9PeSBqmDOpa/DFb0oXOHgR0lz3zc8Os2gTVsSIRYj42Xoc
-b+t3/Xi5RwtN3sPbl9GSWxgwLPPRGHtbGiAY0w+UQZzJQKGW76+9wMIpZKucDAzjweL0nwLI5sDt
-4ZMER7tfs8RDKP1NOTF3tYVoGWRf6DjtjjxLL9IbgNGHXuoloymPi3wxdAn4uwrW+cot/9/vglvS
-SFUIekWadGcgh558v6RWCgg6nt1m9vaO7UUjLD2DtMJeI/bBvBUcwXrWfPcr1NBtzRpLESVCr6OX
-FKucI19z9xnlKed8ke28LZVZ+xowyLHq8mps5FehwgqK4ewS6H6Ox129JKlduGSJO951v6iRvDb2
-3KEZdWUc5peuYiSONsNuO94JlmJ1XYFH5mR25DBsqnzCajrSl3YWYbM6ARmINThkRHzcf3DWnXOd
-U1ied6mHfWvQAkWlMI0e+aUCQlbpq5Fjy8U62UCt7Hmq8afXPna9RBh6U75Jq3Xsq8dqcAeUH47b
-Q/gvQ8ngLASRq85fJDsERC4EZ+ee4Q57hmI2m6LuRDDj2C+HKezvTRA6uzKORjRP6GkqeYFZC73f
-AmYCjLrUE7L4dXacMiKPR+7RllTMyC9z6GYoIrzYRvgCmoSS+k61mPbnJ2wLxIboUp5FqAGUiCO+
-1GHyQSPhxVbbsQ67poHusRI2kx0shaCn3Ic5chYaqM6kjP50+X305FiQ35F/Ep8XoXrdPGXUqcyZ
-Zg1G+eXUfohYyI4WcJtRDgP/zhxHc/JcabqKtOtMLdPPFyG4Iau2vtN3RuWrKRh+AYrBbI7o22G9
-k+lY/z8tBVLZBJUbwYa5xJUx7RwRNIJ6DrWljS7DkeTp5UFcVsixqj0HJjmwY3uavqCfyuxxjN7O
-awjUdnergCJ74w3BlhE1acaPC8TqOL+GW/mj2Is54SYCs4PPAHmwgcXoWCf6IyhIXZv4xx9wUrhX
-8iPuAH7jREDp1QFN7ubVr0Gjdh0A51Z+9QMMEYx5MIHAc9/cOokGw4E3QYhCDCEJQIQxK0stUZPX
-b6XPKOrLD6fXWcO6tt4gLKOpY0J4TIs3tuUGofP2umgTB9UR1LwQGtPmaYWOQkaKdFk1DHmTQ7is
-DRYn5Yj8+HBxOSULBGwgTquoSJziQ2dd8fxBMh7Ar44MgdNoAaidDvLxB6w/DvH7gRDHQVYVGkN4
-aIIbaBCucWrC8QBU13wZOHcnej5Azjab258HBhagsstHibvaVdBM0RkquzBY2JBTcbkUULla4faS
-VUnvcB0ENewMPPdKqYY61QBcVYLBBtPUMX3EHXNUYTEjzKxMbpzkHCxPKfAtAugLKBzMH1Ux39LL
-AxDyVqzuppvBuThl1qgEH3ScuZEy9vyKrECE1Mhkp7QdznQ7lfV2xqVYtAHn5NV8aOzX9fKhwMCE
-/tGd8/hP0jOx0Ha7elXOe5Y6PD6dYRyzOMcUE9GjxCBpbR9hFdK9aRGM2CXvptnAKU5zELtmc2GX
-Zxq7askAa7VLpRk12tUe6u0gBBkeaHEdXQyVUxBSG6K4WHHWsH3RO1/8c8TNrvWQELGGC5ih7t7x
-bHvmiNXQ9lfcsFl8BLb0uTUSNOFtySt9C/9t4svv8Mf3ovgLWqMKqclZBuQJ2LVn4G4Jvzi1ivA4
-9mGJyGyDaLAtFeY5GP202JMkiXLbvXCB4BSqNdhIwAYtQadJt+6h/4iS8qHa/u5ZAI0On5rxAjnn
-DznjMuv/eUJ8AOX+1MBAVISZtjejcT8TAH5dLooXNDy1iEXt7zQ218L1S1pbwPQOh9RX6AVis7Qv
-vq5sz9a227g5NXgYLLluASXqRAEl0xP8DEVrpKAqFV8VvNzHQOHwvEFga7BoLuFx6psCblF0hA7u
-I6mfSQ7mtq/hKz/MhvPGH83TgrCbVpW1bVZXpaZcLUKP8/81bqDuT3lhHyXLi5Usxx/TbZEF808n
-xnEhBN1EBP8DU71PC01CGKM83h6CAnSZQV2FN8GMXYkRKym4PawcOg8vrrzLx2jnKT2EdqDJDWhR
-XAsNJGCvbgsmpzZTGtVJFK+3ankpnTQAsC7bFHn0SxO3VfUJ3ymxXHyFzUfw3T3OeNTp4TTFfVnY
-aah+Vrzm1//bc+8ZArrNynhzavMKblryMpgF1HPGuJg1UJQ1NZ0lP/6m1KuNJuPs2/+ZR4HYHc1M
-mrd3etsPxbp6iQSPRBs37fOveyCQLe2NAbtztThV/vNmHTjAzOfwReggubYjWM7BptVhJyxg8PuG
-vXq56P4qV0iD0KUqbs61d4AiCOrLhFZBuKdkI1fhz8FFHCr7msWMl1dV4FGwtUZlUFUhSB1i71tH
-huDqTaYPTdis7diAZczkwHxSI5YYayIF8+gRRiM+NiVnba1LQKSJb3BmeuKIwsYk4tFZh0WduyXy
-QRpuj4QDVmTBqeDKRAeDzRy0PJiIJKQTMFVacLn3hPuw3ibAC1vMCCOe+ywBV5pO+JvaBRJ6Z1yd
-ilRaM7X3A+vbWHhy7ujaUy/kutfGHxi9G02OkBb2ek98
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Default Broadcaster
+    |--------------------------------------------------------------------------
+    |
+    | This option controls the default broadcaster that will be used by the
+    | framework when an event needs to be broadcast. You may set this to
+    | any of the connections defined in the "connections" array below.
+    |
+    | Supported: "pusher", "ably", "redis", "log", "null"
+    |
+    */
+
+    'default' => env('BROADCAST_DRIVER', 'null'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | Broadcast Connections
+    |--------------------------------------------------------------------------
+    |
+    | Here you may define all of the broadcast connections that will be used
+    | to broadcast events to other systems or over websockets. Samples of
+    | each available type of connection are provided inside this array.
+    |
+    */
+
+    'connections' => [
+
+        'pusher' => [
+            'driver' => 'pusher',
+            'key' => env('PUSHER_APP_KEY'),
+            'secret' => env('PUSHER_APP_SECRET'),
+            'app_id' => env('PUSHER_APP_ID'),
+            'options' => [
+                'cluster' => env('PUSHER_APP_CLUSTER'),
+                'host' => env('PUSHER_HOST') ?: 'api-'.env('PUSHER_APP_CLUSTER', 'mt1').'.pusher.com',
+                'port' => env('PUSHER_PORT', 443),
+                'scheme' => env('PUSHER_SCHEME', 'https'),
+                'encrypted' => true,
+                'useTLS' => env('PUSHER_SCHEME', 'https') === 'https',
+            ],
+            'client_options' => [
+                // Guzzle client options: https://docs.guzzlephp.org/en/stable/request-options.html
+            ],
+        ],
+
+        'ably' => [
+            'driver' => 'ably',
+            'key' => env('ABLY_KEY'),
+        ],
+
+        'redis' => [
+            'driver' => 'redis',
+            'connection' => 'default',
+        ],
+
+        'log' => [
+            'driver' => 'log',
+        ],
+
+        'null' => [
+            'driver' => 'null',
+        ],
+
+    ],
+
+];

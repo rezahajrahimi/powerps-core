@@ -1,73 +1,102 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Forwarding to secure payment provider</title>
+        <style>
+            .text-center {
+                text-align: center;
+            }
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+            .mt-2 {
+                margin-top: 2em;
+            }
+
+            .spinner {
+                margin: 100px auto 0;
+                width: 70px;
+                text-align: center;
+            }
+
+            .spinner > div {
+                width: 18px;
+                height: 18px;
+                background-color: #333;
+                border-radius: 100%;
+                display: inline-block;
+                -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+                animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+            }
+
+            .spinner .bounce1 {
+                -webkit-animation-delay: -0.32s;
+                animation-delay: -0.32s;
+            }
+
+            .spinner .bounce2 {
+                -webkit-animation-delay: -0.16s;
+                animation-delay: -0.16s;
+            }
+
+            @-webkit-keyframes sk-bouncedelay {
+                0%, 80%, 100% { -webkit-transform: scale(0) }
+                40% { -webkit-transform: scale(1.0) }
+            }
+
+            @keyframes sk-bouncedelay {
+                0%, 80%, 100% {
+                    -webkit-transform: scale(0);
+                    transform: scale(0);
+                } 40% {
+                      -webkit-transform: scale(1.0);
+                      transform: scale(1.0);
+                  }
+            }
+        </style>
+    </head>
+    <body onload="submitForm();">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+        <form class="text-center mt-2" method="{{ $method }}" action="{{ $action }}">
+            <p>Forwarding to secure payment provider.</p>
+            <p>
+                If you are not automatically redirected to the payment website with in
+                <span id="countdown">10</span>
+                seconds...
+            </p>
+
+            @foreach($inputs as $name => $value)
+                <input type="hidden" name="{{ $name }}" value="{{ $value }}">
+            @endforeach
+
+            <button type="submit">Click here</button>
+        </form>
+        <script>
+            // Total seconds to wait
+            var seconds = 10;
+
+            function submitForm() {
+                document.forms[0].submit();
+            }
+
+            function countdown() {
+                seconds = seconds - 1;
+                if (seconds <= 0) {
+                    // submit the form
+                    submitForm();
+                } else {
+                    // Update remaining seconds
+                    document.getElementById("countdown").innerHTML = seconds;
+                    // Count down using javascript
+                    window.setTimeout("countdown()", 1000);
+                }
+            }
+
+            // Run countdown function
+            countdown();
+        </script>
+    </body>
+</html>

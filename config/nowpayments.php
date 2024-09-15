@@ -1,53 +1,75 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+/*
+ * This file is part of the Laravel NOWPayments package.
+ *
+ * (c) Prevail Ejimadu <prevailexcellent@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+
+return [
+
+    /**
+     * API Key From NOWPayments Dashboard
+     *
+     */
+    'apiKey' => env('NOWPAYMENTS_API_KEY'),
+
+    /**
+     * IPN Secret from NOWPayments Dashboard
+     */
+    'ipnSecret' => env('NOWPAYMENTS_IPN_SECRET'),
+
+    /**
+     * You enviroment can either be live or sandbox.
+     * Make sure to add the appropriate API key after changing the enviroment in .env
+     *
+     */
+    'env' => env('NOWPAYMENTS_ENV', 'sandbox'),
+
+    /**
+     * NOWPayments Live URL
+     *
+     */
+    'liveUrl' => env('NOWPAYMENTS_LIVE_URL', "https://api.nowpayments.io/v1"),
+
+    /**
+     * NOWPayments Sandbox URL
+     *
+     */
+    'sandboxUrl' => env('NOWPAYMENTS_SANDBOX_URL', "https://api.nowpayments.io/v1"),
+
+    /**
+     * Your callback URL
+     *
+     */
+    'callbackUrl' => env('NOWPAYMENTS_CALLBACK_URL'),
+
+    /**
+     * Your URL Path
+     *
+     */
+    'path' => 'laravel-nowpayments',
+
+    /**
+     * You can add your custom middleware to access the dashboard here
+     *
+     */
+    'middleware' => null, // "Authorise::class",
+
+    /**
+     * Your Nowpayment email here
+     *
+     */
+    'email' => env('NOWPAYMENTS_EMAIL'),
+
+    /**
+     * Your Nowpayment password here
+     *
+     */
+    'password' =>  env('NOWPAYMENTS_PASSWORD'),
+
+];

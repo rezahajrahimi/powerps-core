@@ -1,383 +1,449 @@
-<?php //00363
-// IONCUBE ENCODER 13.0 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
+namespace App\Http\Controllers;
+// $pymCtrl = new PaymentTypeController();
 
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-SpBTQ0==
+// $zarinPalMerchantID =  $pymCtrl->getZarinpalMerchantID;
+
+return [
+    /*
+    |--------------------------------------------------------------------------
+    | Default Driver
+    |--------------------------------------------------------------------------
+    |
+    | This value determines which of the following gateway to use.
+    | You can switch to a different driver at runtime.
+    |
+    */
+    'default' => 'zarinpal',
+
+    /*
+    |--------------------------------------------------------------------------
+    | List of Drivers
+    |--------------------------------------------------------------------------
+    |
+    | These are the list of drivers to use for this package.
+    | You can change the name. Then you'll have to change
+    | it in the map array too.
+    |
+    */
+    'drivers' => [
+        'local' => [
+            'callbackUrl' => '/callback',
+            'title' => 'درگاه پرداخت تست',
+            'description' => 'این درگاه *صرفا* برای تست صحت روند پرداخت و لغو پرداخت میباشد',
+            'orderLabel' => 'شماره سفارش',
+            'amountLabel' => 'مبلغ قابل پرداخت',
+            'payButton' => 'پرداخت موفق',
+            'cancelButton' => 'پرداخت ناموفق',
+        ],
+        'fanavacard' => [
+            'baseUri' => 'https://fcp.shaparak.ir',
+            'apiPaymentUrl' => '_ipgw_//payment/',
+            'apiPurchaseUrl' => 'ref-payment/RestServices/mts/generateTokenWithNoSign/',
+            'apiVerificationUrl' => 'ref-payment/RestServices/mts/verifyMerchantTrans/',
+            'apiReverseAmountUrl' => 'ref-payment/RestServices/mts/reverseMerchantTrans/',
+            'username' => 'xxxxxxx',
+            'password' => 'xxxxxxx',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'atipay' => [
+            'atipayTokenUrl' => 'https://mipg.atipay.net/v1/get-token',
+            'atipayRedirectGatewayUrl' => 'https://mipg.atipay.net/v1/redirect-to-gateway',
+            'atipayVerifyUrl' => 'https://mipg.atipay.net/v1/verify-payment',
+            'apikey' => '',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using Atipay',
+        ],
+        'asanpardakht' => [
+            'apiPaymentUrl' => 'https://asan.shaparak.ir',
+            'apiRestPaymentUrl' => 'https://ipgrest.asanpardakht.ir/v1/',
+            'username' => '',
+            'password' => '',
+            'merchantConfigID' => '',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using asanpardakht',
+        ],
+        'behpardakht' => [
+            'apiPurchaseUrl' => 'https://bpm.shaparak.ir/pgwchannel/services/pgw?wsdl',
+            'apiPaymentUrl' => 'https://bpm.shaparak.ir/pgwchannel/startpay.mellat',
+            'apiVerificationUrl' => 'https://bpm.shaparak.ir/pgwchannel/services/pgw?wsdl',
+            'terminalId' => '',
+            'username' => '',
+            'password' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using behpardakht',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+            'cumulativeDynamicPayStatus' => false,
+        ],
+        'digipay' => [
+            'apiOauthUrl' => 'https://api.mydigipay.com/digipay/api/oauth/token',
+            'apiPurchaseUrl' => 'https://api.mydigipay.com/digipay/api/businesses/ticket?type=0',
+            'apiPaymentUrl' => 'https://api.mydigipay.com/digipay/api/purchases/ipg/pay/',
+            'apiVerificationUrl' => 'https://api.mydigipay.com/digipay/api/purchases/verify/',
+            'username' => 'username',
+            'password' => 'password',
+            'client_id' => '',
+            'client_secret' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'etebarino' => [
+            'apiPurchaseUrl' => 'https://api.etebarino.com/public/merchant/request-payment',
+            'apiPaymentUrl' => 'https://panel.etebarino.com/gateway/public/ipg',
+            'apiVerificationUrl' => 'https://api.etebarino.com/public/merchant/verify-payment',
+            'merchantId' => '',
+            'terminalId' => '',
+            'username' => '',
+            'password' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using etebarino',
+        ],
+        'idpay' => [
+            'apiPurchaseUrl' => 'https://api.idpay.ir/v1.1/payment',
+            'apiPaymentUrl' => 'https://idpay.ir/p/ws/',
+            'apiSandboxPaymentUrl' => 'https://idpay.ir/p/ws-sandbox/',
+            'apiVerificationUrl' => 'https://api.idpay.ir/v1.1/payment/verify',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using idpay',
+            'sandbox' => false, // set it to true for test environments
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'irankish' => [
+            'apiPurchaseUrl' => 'https://ikc.shaparak.ir/api/v3/tokenization/make',
+            'apiPaymentUrl' => 'https://ikc.shaparak.ir/iuiv3/IPG/Index/',
+            'apiVerificationUrl' => 'https://ikc.shaparak.ir/api/v3/confirmation/purchase',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using irankish',
+            'terminalId' => '',
+            'password' => '',
+            'acceptorId' => '',
+            'pubKey' => '',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'nextpay' => [
+            'apiPurchaseUrl' => 'https://nextpay.org/nx/gateway/token',
+            'apiPaymentUrl' => 'https://nextpay.org/nx/gateway/payment/',
+            'apiVerificationUrl' => 'https://nextpay.org/nx/gateway/verify',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using nextpay',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'omidpay' => [
+            'apiGenerateTokenUrl' => 'https://ref.sayancard.ir/ref-payment/RestServices/mts/generateTokenWithNoSign/',
+            'apiPaymentUrl' => 'https://say.shaparak.ir/_ipgw_/MainTemplate/payment/',
+            'apiVerificationUrl' => 'https://ref.sayancard.ir/ref-payment/RestServices/mts/verifyMerchantTrans/',
+            'username' => '',
+            'merchantId' => '',
+            'password' => '',
+            'callbackUrl' => '',
+            'description' => 'payment using omidpay',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'parsian' => [
+            'apiPurchaseUrl' => 'https://pec.shaparak.ir/NewIPGServices/Sale/SaleService.asmx?wsdl',
+            'apiPaymentUrl' => 'https://pec.shaparak.ir/NewIPG/',
+            'apiVerificationUrl' => 'https://pec.shaparak.ir/NewIPGServices/Confirm/ConfirmService.asmx?wsdl',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using parsian',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'pasargad' => [
+            'apiPaymentUrl' => 'https://pep.shaparak.ir/payment.aspx',
+            'apiGetToken' => 'https://pep.shaparak.ir/Api/v1/Payment/GetToken',
+            'apiCheckTransactionUrl' => 'https://pep.shaparak.ir/Api/v1/Payment/CheckTransactionResult',
+            'apiVerificationUrl' => 'https://pep.shaparak.ir/Api/v1/Payment/VerifyPayment',
+            'merchantId' => '',
+            'terminalCode' => '',
+            'certificate' => '', // can be string (and set certificateType to xml_string) or an xml file path (and set cetificateType to xml_file)
+            'certificateType' => 'xml_file', // can be: xml_file, xml_string
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'payir' => [
+            'apiPurchaseUrl' => 'https://pay.ir/pg/send',
+            'apiPaymentUrl' => 'https://pay.ir/pg/',
+            'apiVerificationUrl' => 'https://pay.ir/pg/verify',
+            'merchantId' => 'test', // set it to `test` for test environments
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using payir',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'paypal' => [
+            /* normal api */
+            'apiPurchaseUrl' => 'https://www.paypal.com/cgi-bin/webscr',
+            'apiPaymentUrl' => 'https://www.zarinpal.com/pg/StartPay/',
+            'apiVerificationUrl' => 'https://ir.zarinpal.com/pg/services/WebGate/wsdl',
+
+            /* sandbox api */
+            'sandboxApiPurchaseUrl' => 'https://www.sandbox.paypal.com/cgi-bin/webscr',
+            'sandboxApiPaymentUrl' => 'https://sandbox.zarinpal.com/pg/StartPay/',
+            'sandboxApiVerificationUrl' => 'https://sandbox.zarinpal.com/pg/services/WebGate/wsdl',
+
+            'mode' => 'normal', // can be normal, sandbox
+            'currency' => '',
+            'id' => '', // Specify the email of the PayPal Business account
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using paypal',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'payping' => [
+            'apiPurchaseUrl' => 'https://api.payping.ir/v2/pay/',
+            'apiPaymentUrl' => 'https://api.payping.ir/v2/pay/gotoipg/',
+            'apiVerificationUrl' => 'https://api.payping.ir/v2/pay/verify/',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using payping',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'paystar' => [
+            'apiPurchaseUrl' => 'https://core.paystar.ir/api/pardakht/create/',
+            'apiPaymentUrl' => 'https://core.paystar.ir/api/pardakht/payment/',
+            'apiVerificationUrl' => 'https://core.paystar.ir/api/pardakht/verify/',
+            'gatewayId' => '', // your gateway id
+            'signKey' => '', // sign key of your gateway
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using paystar',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'poolam' => [
+            'apiPurchaseUrl' => 'https://poolam.ir/invoice/request/',
+            'apiPaymentUrl' => 'https://poolam.ir/invoice/pay/',
+            'apiVerificationUrl' => 'https://poolam.ir/invoice/check/',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using poolam',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'sadad' => [
+            'apiPaymentByMultiIdentityUrl' => 'https://sadad.shaparak.ir/VPG/api/v0/PaymentByMultiIdentityRequest',
+            'apiPaymentByIdentityUrl' => 'https://sadad.shaparak.ir/api/v0/PaymentByIdentity/PaymentRequest',
+            'apiPaymentUrl' => 'https://sadad.shaparak.ir/api/v0/Request/PaymentRequest',
+            'apiPurchaseUrl' => 'https://sadad.shaparak.ir/Purchase',
+            'apiVerificationUrl' => 'https://sadad.shaparak.ir/VPG/api/v0/Advice/Verify',
+            'key' => '',
+            'merchantId' => '',
+            'terminalId' => '',
+            'callbackUrl' => '',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+            'mode' => 'normal', // can be normal, PaymentByIdentity, PaymentByMultiIdentity,
+            'PaymentIdentity' => '',
+            'MultiIdentityRows' => [
+                [
+                    "IbanNumber" => '', // Sheba number (with IR)
+                    "Amount" => 0,
+                    "PaymentIdentity" => '',
+                ],
+            ],
+            'description' => 'payment using sadad',
+        ],
+        'saman' => [
+            'apiPurchaseUrl' => 'https://sep.shaparak.ir/Payments/InitPayment.asmx?WSDL',
+            'apiPaymentUrl' => 'https://sep.shaparak.ir/payment.aspx',
+            'apiVerificationUrl' => 'https://sep.shaparak.ir/payments/referencepayment.asmx?WSDL',
+            'merchantId' => '',
+            'callbackUrl' => '',
+            'description' => 'payment using saman',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'sep' => [
+            'apiGetToken' => 'https://sep.shaparak.ir/onlinepg/onlinepg',
+            'apiPaymentUrl' => 'https://sep.shaparak.ir/OnlinePG/OnlinePG',
+            'apiVerificationUrl' => 'https://sep.shaparak.ir/verifyTxnRandomSessionkey/ipg/VerifyTransaction',
+            'terminalId' => '',
+            'callbackUrl' => '',
+            'description' => 'Saman Electronic Payment for Saderat & Keshavarzi',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'sepehr' => [
+            'apiGetToken' => 'https://mabna.shaparak.ir:8081/V1/PeymentApi/GetToken',
+            'apiPaymentUrl' => 'https://mabna.shaparak.ir:8080/pay',
+            'apiVerificationUrl' => 'https://mabna.shaparak.ir:8081/V1/PeymentApi/Advice',
+            'terminalId' => '',
+            'callbackUrl' => '',
+            'description' => 'payment using sepehr(saderat)',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'walleta' => [
+            'apiPurchaseUrl' => 'https://cpg.walleta.ir/payment/request.json',
+            'apiPaymentUrl' => 'https://cpg.walleta.ir/ticket/',
+            'apiVerificationUrl' => 'https://cpg.walleta.ir/payment/verify.json',
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using walleta',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'yekpay' => [
+            'apiPurchaseUrl' => 'https://gate.yekpay.com/api/payment/server?wsdl',
+            'apiPaymentUrl' => 'https://gate.yekpay.com/api/payment/start/',
+            'apiVerificationUrl' => 'https://gate.yekpay.com/api/payment/server?wsdl',
+            'fromCurrencyCode' => 978,
+            'toCurrencyCode' => 364,
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using yekpay',
+        ],
+        'zarinpal' => [
+            /* normal api */
+            'apiPurchaseUrl' => 'https://api.zarinpal.com/pg/v4/payment/request.json',
+            'apiPaymentUrl' => 'https://www.zarinpal.com/pg/StartPay/',
+            'apiVerificationUrl' => 'https://api.zarinpal.com/pg/v4/payment/verify.json',
+
+            /* sandbox api */
+            'sandboxApiPurchaseUrl' => 'https://sandbox.zarinpal.com/pg/services/WebGate/wsdl',
+            'sandboxApiPaymentUrl' => 'https://sandbox.zarinpal.com/pg/StartPay/',
+            'sandboxApiVerificationUrl' => 'https://sandbox.zarinpal.com/pg/services/WebGate/wsdl',
+
+            /* zarinGate api */
+            'zaringateApiPurchaseUrl' => 'https://ir.zarinpal.com/pg/services/WebGate/wsdl',
+            'zaringateApiPaymentUrl' => 'https://www.zarinpal.com/pg/StartPay/:authority/ZarinGate',
+            'zaringateApiVerificationUrl' => 'https://ir.zarinpal.com/pg/services/WebGate/wsdl',
+
+            'mode' => 'normal', // can be normal, sandbox, zaringate
+            'merchantId' => "",
+            'callbackUrl' => 'http://localhost:8000/order',
+            'description' => 'payment using zarinpal',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'zibal' => [
+            /* normal api */
+            'apiPurchaseUrl' => 'https://gateway.zibal.ir/v1/request',
+            'apiPaymentUrl' => 'https://gateway.zibal.ir/start/',
+            'apiVerificationUrl' => 'https://gateway.zibal.ir/v1/verify',
+
+            'mode' => 'normal', // can be normal, direct
+
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using zibal',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'sepordeh' => [
+            'apiPurchaseUrl' => 'https://sepordeh.com/merchant/invoices/add',
+            'apiPaymentUrl' => 'https://sepordeh.com/merchant/invoices/pay/id:',
+            'apiDirectPaymentUrl' => 'https://sepordeh.com/merchant/invoices/pay/automatic:true/id:',
+            'apiVerificationUrl' => 'https://sepordeh.com/merchant/invoices/verify',
+            'mode' => 'normal', // can be normal, direct
+            'merchantId' => '',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'description' => 'payment using sepordeh',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'rayanpay' => [
+            'apiPurchaseUrl' => 'https://bpm.shaparak.ir/pgwchannel/startpay.mellat',
+            'apiTokenUrl' => 'https://pms.rayanpay.com/api/v1/auth/token/generate',
+            'apiPayStart' => 'https://pms.rayanpay.com/api/v1/ipg/payment/start',
+            'apiPayVerify' => 'https://pms.rayanpay.com/api/v1/ipg/payment/response/parse',
+            'username' => '',
+            'client_id' => '',
+            'password' => '',
+            'callbackUrl' => '',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'sizpay' => [
+            'apiPurchaseUrl' => 'https://rt.sizpay.ir/KimiaIPGRouteService.asmx?WSDL',
+            'apiPaymentUrl' => 'https://rt.sizpay.ir/Route/Payment',
+            'apiVerificationUrl' => 'https://rt.sizpay.ir/KimiaIPGRouteService.asmx?WSDL',
+            'merchantId' => '',
+            'terminal' => '',
+            'username' => '',
+            'password' => '',
+            'SignData' => '',
+            'callbackUrl' => '',
+            'currency' => 'R', //Can be R, T (Rial, Toman)
+        ],
+        'vandar' => [
+            'apiPurchaseUrl' => 'https://ipg.vandar.io/api/v3/send',
+            'apiPaymentUrl' => 'https://ipg.vandar.io/v3/',
+            'apiVerificationUrl' => 'https://ipg.vandar.io/api/v3/verify',
+            'callbackUrl' => '',
+            'merchantId' => '',
+            'description' => 'payment using Vandar',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'aqayepardakht' => [
+            'apiPurchaseUrl' => 'https://panel.aqayepardakht.ir/api/v2/create',
+            'apiPaymentUrl' => 'https://panel.aqayepardakht.ir/startpay/',
+            'apiPaymentUrlSandbox' => 'https://panel.aqayepardakht.ir/startpay/sandbox/',
+            'apiVerificationUrl' => 'https://panel.aqayepardakht.ir/api/v2/verify',
+            'mode' => 'normal', //normal | sandbox
+            'callbackUrl' => '',
+            'pin' => '',
+            'invoice_id' => '',
+            'mobile' => '',
+            'email' => '',
+            'description' => 'payment using Aqayepardakht',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ],
+        'azki' => [
+            'apiPaymentUrl' => 'https://api.azkivam.com',
+            'callbackUrl' => 'http://yoursite.com/path/to',
+            'fallbackUrl' => 'http://yoursite.com/path/to',
+            'merchantId' => '',
+            'key' => '',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+            'description' => 'payment using azki',
+        ],
+        'payfa' => [
+            'apiPurchaseUrl' => 'https://payment.payfa.com/v2/api/Transaction/Request',
+            'apiPaymentUrl' => 'https://payment.payfa.ir/v2/api/Transaction/Pay/',
+            'apiVerificationUrl' => 'https://payment.payfa.com/v2/api/Transaction/Verify/',
+            'callbackUrl' => '',
+            'apiKey' => '',
+            'currency' => 'T', //Can be R, T (Rial, Toman)
+        ]
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Class Maps
+    |--------------------------------------------------------------------------
+    |
+    | This is the array of Classes that maps to Drivers above.
+    | You can create your own driver if you like and add the
+    | config in the drivers array and the class to use for
+    | here with the same name. You will have to extend
+    | Shetabit\Multipay\Abstracts\Driver in your driver.
+    |
+    */
+    'map' => [
+        'local' => \Shetabit\Multipay\Drivers\Local\Local::class,
+        'fanavacard' => \Shetabit\Multipay\Drivers\Fanavacard\Fanavacard::class,
+        'asanpardakht' => \Shetabit\Multipay\Drivers\Asanpardakht\Asanpardakht::class,
+        'atipay' => \Shetabit\Multipay\Drivers\Atipay\Atipay::class,
+        'behpardakht' => \Shetabit\Multipay\Drivers\Behpardakht\Behpardakht::class,
+        'digipay' => \Shetabit\Multipay\Drivers\Digipay\Digipay::class,
+        'etebarino' => \Shetabit\Multipay\Drivers\Etebarino\Etebarino::class,
+        'idpay' => \Shetabit\Multipay\Drivers\Idpay\Idpay::class,
+        'irankish' => \Shetabit\Multipay\Drivers\Irankish\Irankish::class,
+        'nextpay' => \Shetabit\Multipay\Drivers\Nextpay\Nextpay::class,
+        'omidpay' => \Shetabit\Multipay\Drivers\Omidpay\Omidpay::class,
+        'parsian' => \Shetabit\Multipay\Drivers\Parsian\Parsian::class,
+        'pasargad' => \Shetabit\Multipay\Drivers\Pasargad\Pasargad::class,
+        'payir' => \Shetabit\Multipay\Drivers\Payir\Payir::class,
+        'paypal' => \Shetabit\Multipay\Drivers\Paypal\Paypal::class,
+        'payping' => \Shetabit\Multipay\Drivers\Payping\Payping::class,
+        'paystar' => \Shetabit\Multipay\Drivers\Paystar\Paystar::class,
+        'poolam' => \Shetabit\Multipay\Drivers\Poolam\Poolam::class,
+        'sadad' => \Shetabit\Multipay\Drivers\Sadad\Sadad::class,
+        'saman' => \Shetabit\Multipay\Drivers\Saman\Saman::class,
+        'sep' => \Shetabit\Multipay\Drivers\SEP\SEP::class,
+        'sepehr' => \Shetabit\Multipay\Drivers\Sepehr\Sepehr::class,
+        'walleta' => \Shetabit\Multipay\Drivers\Walleta\Walleta::class,
+        'yekpay' => \Shetabit\Multipay\Drivers\Yekpay\Yekpay::class,
+        'zarinpal' => \Shetabit\Multipay\Drivers\Zarinpal\Zarinpal::class,
+        'zibal' => \Shetabit\Multipay\Drivers\Zibal\Zibal::class,
+        'sepordeh' => \Shetabit\Multipay\Drivers\Sepordeh\Sepordeh::class,
+        'rayanpay' => \Shetabit\Multipay\Drivers\Rayanpay\Rayanpay::class,
+        'sizpay' => \Shetabit\Multipay\Drivers\Sizpay\Sizpay::class,
+        'vandar' => \Shetabit\Multipay\Drivers\Vandar\Vandar::class,
+        'aqayepardakht' => \Shetabit\Multipay\Drivers\Aqayepardakht\Aqayepardakht::class,
+        'azki' => \Shetabit\Multipay\Drivers\Azki\Azki::class,
+        'payfa' => \Shetabit\Multipay\Drivers\Payfa\Payfa::class,
+    ]
+];

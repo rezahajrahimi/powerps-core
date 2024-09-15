@@ -9,6 +9,7 @@ powerps-core requires [powerps-webapp](https://github.com/rezahajrahimi/powerps-
 
 - upload files to your host or PaaS service like  [Chabokan](https://zaya.io/yojc2)  
 - change Environment variable in .env file
+- set php version to 8.3
 
 ## APP VARIABLES
 

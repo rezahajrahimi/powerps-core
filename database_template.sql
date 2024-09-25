@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 03, 2024 at 10:33 AM
+-- Generation Time: Sep 25, 2024 at 02:52 PM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `telegram_bot`
+-- Database: `template_powerps`
 --
 
 -- --------------------------------------------------------
@@ -91,14 +91,6 @@ CREATE TABLE `applications` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `applications`
---
-
-INSERT INTO `applications` (`id`, `name`, `download_link`, `file_src`, `os`, `how_to_use`, `description`, `youtube_link`, `is_active`, `created_at`, `updated_at`) VALUES
-(5, 'Hiddify Next', 'https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk', NULL, 'Android', 'https://hiddify.com/fa/app/How-to-use-Hiddify-app/', 'یک کلاینت خودکار مالتی‌پلتفرم مبتنی بر سینگ‌باکس که به عنوان یک ابزار عمومی برای پروکسی عمل می‌کند. این برنامه طیف گسترده‌ای از قابلیت‌ها را ارائه می‌دهد مثل انتخاب خودکار نود، مود تونل، پروفایل‌های ریموت و غیره. این برنامه رایگان، بدون آگهی و منبع باز است. با پشتیبانی از طیف وسیعی از پروتکل‌ها، این اپلیکیشن یک ابزار امن و مطمئن برای دسترسی به اینترنت رایگان فراهم می‌کند.', 'https://www.youtube.com/watch?v=NtQ0bQlIRrY', 1, '2024-04-09 08:18:27', '2024-04-09 08:21:06'),
-(7, 'Hiddify', 'https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.Msix', NULL, 'Windows 64bit', 'https://hiddify.com/fa/app/How-to-use-Hiddify-app/', 'هیدیفای‌اپ یک کلاینت مالتی‌پلتفرم مبتنی بر سینگ‌باکس که به عنوان یک ابزار عمومی برای پروکسی عمل می‌کند و با دارا بودن قابلیت‌های فراوان از پروتکل‌های زیادی برای دور زدن محدودیت‌های اینترنتی پشتیبانی می‌کند.', 'https://www.youtube.com/watch?v=vUaA1AEUy1s', 1, '2024-04-09 08:20:30', '2024-04-09 08:20:30');
-
 -- --------------------------------------------------------
 
 --
@@ -160,12 +152,35 @@ CREATE TABLE `channel_lock_menu_items` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+-- --------------------------------------------------------
+
 --
--- Dumping data for table `channel_lock_menu_items`
+-- Table structure for table `cron_jobs`
 --
 
-INSERT INTO `channel_lock_menu_items` (`id`, `name`, `alias_name`, `level`, `created_at`, `updated_at`) VALUES
-(1, 'main', '😉برای شروی روی متن زیر کلیک کنید و عضو کانال شوید، سپس دوباره بر روی /start ضربه بزنید.', 1, '2023-09-18 04:07:05', '2023-09-21 04:58:47');
+CREATE TABLE `cron_jobs` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `frequency` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `is_active` tinyint(1) NOT NULL DEFAULT 1,
+  `description` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `cron_logs`
+--
+
+CREATE TABLE `cron_logs` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `cron_id` bigint(20) UNSIGNED NOT NULL,
+  `product_id` bigint(20) UNSIGNED NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -222,13 +237,6 @@ CREATE TABLE `faqs` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `faqs`
---
-
-INSERT INTO `faqs` (`id`, `question`, `answer`, `created_at`, `updated_at`) VALUES
-(2, 'چند نفر می توانند به اکانت متصل بشوند؟', 'تعداد کاربران برای اکانت ها محدود شده نمی باشد، بنابراین کاربران می توانند بصورت نامحدود متصل بشوند.', '2023-09-17 11:52:40', '2023-09-18 02:16:48');
-
 -- --------------------------------------------------------
 
 --
@@ -275,15 +283,6 @@ CREATE TABLE `gift_card_menu_items` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `gift_card_menu_items`
---
-
-INSERT INTO `gift_card_menu_items` (`id`, `name`, `alias_name`, `level`, `created_at`, `updated_at`) VALUES
-(4, 'main', 'کد گیفت کارت را وارد کنید.', 1, '2023-09-16 09:25:35', '2023-09-16 14:25:06'),
-(5, 'accepted', 'کد گیفت کارت با موفقیت ثبت شد.', 2, '2023-09-16 09:25:35', '2023-09-16 14:33:10'),
-(6, 'expired', 'این کد منقضی شده است.', 3, '2023-09-16 09:25:35', '2023-09-16 14:33:10');
 
 -- --------------------------------------------------------
 
@@ -332,21 +331,6 @@ CREATE TABLE `main_menu_items` (
   `position` tinyint(4) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `main_menu_items`
---
-
-INSERT INTO `main_menu_items` (`id`, `name`, `alias_name`, `is_active`, `position`) VALUES
-(1, 'خرید اشتراک', 'خرید اشتراک', 1, 1),
-(2, 'سابقه خرید', 'سابقه خرید', 1, 3),
-(3, 'پشتیبانی', 'پشتیبانی', 1, 4),
-(4, 'آموزش استفاده و سوالات متداول', 'آموزش استفاده و سوالات متداول', 1, 5),
-(5, 'اطلاعات حساب', 'اطلاعات حساب', 1, 6),
-(6, 'اکانت آزمایشی', 'اکانت آزمایشی', 1, 7),
-(7, 'دانلود برنامه', 'دانلود برنامه', 1, 8),
-(9, 'گیف کارت', 'گیف کارت', 1, 9),
-(10, 'webapp', 'استفاده در وب اپلیکیشن', 1, 2);
-
 -- --------------------------------------------------------
 
 --
@@ -378,60 +362,65 @@ CREATE TABLE `migrations` (
 --
 
 INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
-(5, '2023_07_19_120044_create_pannels_table', 1),
-(6, '2023_09_03_000003_create_product_categories_table', 1),
-(7, '2023_09_03_000004_create_products_table', 1),
-(8, '2023_09_03_000006_create_payment_types_table', 1),
-(9, '2023_09_03_000007_create_transactions_table', 1),
-(10, '2023_09_03_000011_create_supports_table', 1),
-(11, '2023_09_03_053856_create_settings_table', 1),
-(12, '2023_09_03_061126_create_account_ballances_table', 1),
-(13, '2023_09_03_061211_create_logs_table', 1),
-(14, '2023_09_03_061221_create_transaction_images_table', 1),
-(15, '2023_09_03_061647_create_telegrams_table', 1),
-(16, '2023_09_06_073339_create_orders_table', 1),
-(17, '2023_09_09_073311_create_frist_menus_table', 1),
-(18, '2023_09_09_073436_create_menu_levels_table', 1),
-(19, '2023_09_09_073517_create_bot_users_table', 1),
-(20, '2023_09_12_145801_create_main_menu_items_table', 1),
-(21, '2023_09_15_083024_create_bills_table', 1),
-(22, '2023_09_16_072708_create_payment_menu_items_table', 1),
-(23, '2023_09_16_122940_create_gift_card_menu_items_table', 1),
-(24, '2023_09_16_122950_create_gift_cards_table', 1),
-(25, '2023_09_16_123619_create_used_gift_cards_table', 1),
-(26, '2023_09_17_112919_create_faqs_table', 1),
-(27, '2023_09_18_070848_create_channel_lock_menu_items_table', 1),
-(28, '2023_09_18_070858_create_channel_locks_table', 1),
-(29, '2023_09_19_120059_create_proxies_table', 1),
-(30, '2023_09_19_120123_create_inbounds_table', 1),
-(31, '2023_10_10_120932_add_volume_to_product_category', 1),
+(1, '2014_10_12_000000_create_users_table', 1),
+(2, '2014_10_12_100000_create_password_reset_tokens_table', 1),
+(3, '2019_08_19_000000_create_failed_jobs_table', 1),
+(4, '2019_12_14_000001_create_personal_access_tokens_table', 1),
+(5, '2022_12_02_032758_create_nowpayments_logger_table', 1),
+(6, '2023_07_19_120044_create_pannels_table', 1),
+(7, '2023_09_03_000003_create_product_categories_table', 1),
+(8, '2023_09_03_000004_create_products_table', 1),
+(9, '2023_09_03_000006_create_payment_types_table', 1),
+(10, '2023_09_03_000007_create_transactions_table', 1),
+(11, '2023_09_03_000011_create_supports_table', 1),
+(12, '2023_09_03_053856_create_settings_table', 1),
+(13, '2023_09_03_061126_create_account_ballances_table', 1),
+(14, '2023_09_03_061211_create_logs_table', 1),
+(15, '2023_09_03_061221_create_transaction_images_table', 1),
+(16, '2023_09_03_061647_create_telegrams_table', 1),
+(17, '2023_09_06_073339_create_orders_table', 1),
+(18, '2023_09_09_073311_create_frist_menus_table', 1),
+(19, '2023_09_09_073436_create_menu_levels_table', 1),
+(20, '2023_09_09_073517_create_bot_users_table', 1),
+(21, '2023_09_12_145801_create_main_menu_items_table', 1),
+(22, '2023_09_15_083024_create_bills_table', 1),
+(23, '2023_09_16_072708_create_payment_menu_items_table', 1),
+(24, '2023_09_16_122940_create_gift_card_menu_items_table', 1),
+(25, '2023_09_16_122950_create_gift_cards_table', 1),
+(26, '2023_09_16_123619_create_used_gift_cards_table', 1),
+(27, '2023_09_17_112919_create_faqs_table', 1),
+(28, '2023_09_18_070848_create_channel_lock_menu_items_table', 1),
+(29, '2023_09_18_070858_create_channel_locks_table', 1),
+(30, '2023_09_19_120059_create_proxies_table', 1),
+(31, '2023_09_19_120123_create_inbounds_table', 1),
 (32, '2023_11_01_081724_add_is_chargable_to_product_categori', 1),
 (33, '2023_11_01_110241_add_is_active_to_product_categories', 1),
 (34, '2023_11_12_072351_add_remarke_to_products_table', 1),
-(37, '2024_01_17_075235_create_applications_table', 2),
-(38, '2024_03_25_144650_add_secrets_code', 3),
-(39, '2024_04_01_075313_add_hiddify_user_link', 4),
-(40, '2024_04_15_062639_create_test_accounts_table', 5),
-(41, '2024_04_15_062731_create_used_test_accounts_table', 5),
-(42, '2024_04_21_071551_create_test_account_menus_table', 6),
-(43, '2022_12_02_032758_create_nowpayments_logger_table', 7),
-(44, '2024_04_27_084809_add_doller_price_to_product_category', 8),
-(45, '2024_04_27_120647_add_ballance_in_dollar_to_account_ballances', 9),
-(46, '2014_10_12_000000_create_users_table', 10),
-(47, '2014_10_12_100000_create_password_reset_tokens_table', 10),
-(48, '2019_08_19_000000_create_failed_jobs_table', 10),
-(49, '2019_12_14_000001_create_personal_access_tokens_table', 10),
-(50, '2024_05_05_065920_add_amount_in_dollar_to_bills_table', 11),
-(51, '2024_05_05_084706_add_amount_in_dollar_to_transactions_table', 12),
-(53, '2024_05_06_064823_create_crypto_payments_table', 13),
-(55, '2024_05_06_133952_create_transaction_cryptos_table', 14),
-(56, '2024_05_11_132700_add_order_id_to_transaction_cryptos', 15),
-(57, '2024_05_12_124227_add_is_active_to_crypto_payments', 16),
-(59, '2024_06_20_075204_create_agent_permissons_table', 18),
-(61, '2024_05_18_074028_create_agent_products_table', 19),
-(62, '2024_08_07_103840_create_transaction_settings_table', 20),
-(64, '2024_08_11_115912_add_bandweigth_limitaion_and_pr_limitaion', 21),
-(65, '2024_08_21_115639_add_deactive_by_admin_to_products_table', 22);
+(35, '2024_01_17_075235_create_applications_table', 1),
+(36, '2024_03_25_144650_add_secrets_code', 1),
+(37, '2024_04_01_075313_add_hiddify_user_link', 1),
+(38, '2024_04_15_062639_create_test_accounts_table', 1),
+(39, '2024_04_15_062731_create_used_test_accounts_table', 1),
+(40, '2024_04_21_071551_create_test_account_menus_table', 1),
+(41, '2024_04_27_084809_add_doller_price_to_product_category', 1),
+(42, '2024_04_27_120647_add_ballance_in_dollar_to_account_ballances', 1),
+(43, '2024_05_05_065920_add_amount_in_dollar_to_bills_table', 1),
+(44, '2024_05_05_084706_add_amount_in_dollar_to_transactions_table', 1),
+(45, '2024_05_06_064823_create_crypto_payments_table', 1),
+(46, '2024_05_06_133952_create_transaction_cryptos_table', 1),
+(47, '2024_05_11_132700_add_order_id_to_transaction_cryptos', 1),
+(48, '2024_05_12_124227_add_is_active_to_crypto_payments', 1),
+(49, '2024_05_18_074028_create_agent_products_table', 1),
+(50, '2024_06_20_075204_create_agent_permissons_table', 1),
+(51, '2024_08_07_103840_create_transaction_settings_table', 1),
+(52, '2024_08_11_115912_add_bandweigth_limitaion_and_pr_limitaion', 1),
+(53, '2024_08_21_115639_add_deactive_by_admin_to_products_table', 1),
+(54, '2024_09_15_145925_create_cron_jobs_table', 1),
+(55, '2024_09_15_145936_create_cron_logs_table', 1),
+(56, '2024_09_18_143414_create_reserverd_configs_table', 1),
+(57, '2024_09_23_091147_create_referral_settings_table', 1),
+(58, '2024_09_23_091214_create_referral_logs_table', 1),
+(59, '2024_09_23_092746_create_referral_wallets_table', 1);
 
 -- --------------------------------------------------------
 
@@ -512,14 +501,6 @@ CREATE TABLE `payment_menu_items` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `payment_menu_items`
---
-
-INSERT INTO `payment_menu_items` (`id`, `name`, `alias_name`, `level`, `created_at`, `updated_at`) VALUES
-(3, 'main', '👈یک گزینه را انتخاب کنید👉', 1, '2023-09-16 04:38:23', '2023-09-16 05:56:02'),
-(4, 'reponse', '💳 لطفا مبلغ را به این شماره واریز کنید و تصویر رسید را ارسال نمایید.', 2, '2023-09-16 04:38:23', '2023-09-16 05:56:02');
-
 -- --------------------------------------------------------
 
 --
@@ -535,15 +516,6 @@ CREATE TABLE `payment_types` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `payment_types`
---
-
-INSERT INTO `payment_types` (`id`, `name`, `merchant_id`, `type`, `is_active`, `created_at`, `updated_at`) VALUES
-(3, 'کارت به کارت', '000000000000000000', 'offline', 1, NULL, '2023-09-14 09:43:05'),
-(4, 'تتر (usdt-trc20)', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'offline', 0, NULL, '2023-10-21 08:51:12'),
-(8, 'زرین پال', 'xxxxxxxxxxxxxxxxxxxxxxxx', 'online', 0, '2023-09-14 04:28:15', '2024-05-13 05:43:28');
 
 -- --------------------------------------------------------
 
@@ -596,7 +568,7 @@ CREATE TABLE `product_categories` (
   `category_name` varchar(100) COLLATE utf8mb4_unicode_ci NOT NULL,
   `price` bigint(20) UNSIGNED DEFAULT 0,
   `expire_day` int(10) UNSIGNED NOT NULL DEFAULT 30,
-  `volume` double(15,2) UNSIGNED NOT NULL DEFAULT 1.00,
+  `volume` double(15,2) DEFAULT 0.50,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   `rechargable` tinyint(1) DEFAULT 1,
@@ -624,6 +596,67 @@ CREATE TABLE `proxies` (
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `referral_logs`
+--
+
+CREATE TABLE `referral_logs` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `referral_user_id` bigint(20) UNSIGNED NOT NULL,
+  `referral_to_id` bigint(20) UNSIGNED NOT NULL,
+  `transaction_id` bigint(20) UNSIGNED DEFAULT NULL,
+  `amount` int(10) UNSIGNED NOT NULL DEFAULT 0,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `referral_settings`
+--
+
+CREATE TABLE `referral_settings` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `description` text COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '\n            با ارسال این لینک به دوستان خود، با هر بار واریزی آنها، امتیاز بگیرید.\n            ',
+  `visit_card_text` text COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '\n                ?فروش پروکسی اختصاصی با بروزترین پروتکل ها \r\n\n                ? قابل استفاده در تلگرام و تمامی دستگاه ها به عنوان فیلترشکن \r\n\n                ⏰ تجهیز شده با کانکشن هوشمند (بیش از 20 سرور برای هر کاربر) \r\n\n                ?فاقد هر گونه تبلیغات! \r\n\n                ✔️پشتیبانی ۲۴/۷ \r\n\n                ♾بدون قطعی و کندی سرعت \r\n\n                ? خرید: \r\n\n            ',
+  `image_src` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT 'text',
+  `referral_percent` double(15,2) NOT NULL DEFAULT 10.00,
+  `is_active` tinyint(1) NOT NULL DEFAULT 1,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `referral_wallets`
+--
+
+CREATE TABLE `referral_wallets` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `referral_user_id` bigint(20) UNSIGNED NOT NULL,
+  `amount` int(10) UNSIGNED NOT NULL DEFAULT 0,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `reserverd_configs`
+--
+
+CREATE TABLE `reserverd_configs` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `user_id` bigint(20) UNSIGNED NOT NULL,
+  `product_id` bigint(20) UNSIGNED NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `settings`
 --
 
@@ -637,13 +670,6 @@ CREATE TABLE `settings` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `settings`
---
-
-INSERT INTO `settings` (`id`, `bot_name`, `admin_id`, `bot_token`, `panel_address`, `welcome_message`, `created_at`, `updated_at`) VALUES
-(1, '@powerpsbot', 0, 'botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', 'https:powerps.ir', '👋سلام، به ربات فرو شv2ray خوش آمدید.', NULL, '2024-07-29 11:16:48');
 
 -- --------------------------------------------------------
 
@@ -659,13 +685,6 @@ CREATE TABLE `supports` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `supports`
---
-
-INSERT INTO `supports` (`id`, `question`, `answer`, `response_type`, `created_at`, `updated_at`) VALUES
-(1, 'ارتباط با اکانت پیشتیبانی', 'برای ارتباز با پشتیبان لطفا به @adminid پیام بدهید.', 'text', '2024-04-07 09:14:58', '2024-04-07 09:14:58');
 
 -- --------------------------------------------------------
 
@@ -702,8 +721,8 @@ CREATE TABLE `test_accounts` (
 
 CREATE TABLE `test_account_menus` (
   `id` bigint(20) UNSIGNED NOT NULL,
-  `approved` text COLLATE utf8mb4_unicode_ci NOT NULL,
-  `denied` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `approved` text COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'اکانت آزمایشی شما با موفقیت فعال شد.',
+  `denied` text COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT 'اکانت آزمایشی از قبل برای شما فعال شده است، می توانید از سابقه خرید به اطلاعات آن دسترسی داشته باشید.',
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -774,13 +793,6 @@ CREATE TABLE `transaction_settings` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `transaction_settings`
---
-
-INSERT INTO `transaction_settings` (`id`, `dollar_transaction`, `created_at`, `updated_at`) VALUES
-(1, 0, '2024-08-07 08:05:09', '2024-08-07 09:19:56');
 
 -- --------------------------------------------------------
 
@@ -882,6 +894,20 @@ ALTER TABLE `channel_locks`
 --
 ALTER TABLE `channel_lock_menu_items`
   ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `cron_jobs`
+--
+ALTER TABLE `cron_jobs`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `cron_logs`
+--
+ALTER TABLE `cron_logs`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `cron_logs_cron_id_foreign` (`cron_id`),
+  ADD KEY `cron_logs_product_id_foreign` (`product_id`);
 
 --
 -- Indexes for table `crypto_payments`
@@ -1024,6 +1050,36 @@ ALTER TABLE `proxies`
   ADD KEY `proxies_pannel_id_foreign` (`pannel_id`);
 
 --
+-- Indexes for table `referral_logs`
+--
+ALTER TABLE `referral_logs`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `referral_logs_transaction_id_foreign` (`transaction_id`),
+  ADD KEY `referral_logs_referral_user_id_foreign` (`referral_user_id`),
+  ADD KEY `referral_logs_referral_to_id_foreign` (`referral_to_id`);
+
+--
+-- Indexes for table `referral_settings`
+--
+ALTER TABLE `referral_settings`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `referral_wallets`
+--
+ALTER TABLE `referral_wallets`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `referral_wallets_referral_user_id_foreign` (`referral_user_id`);
+
+--
+-- Indexes for table `reserverd_configs`
+--
+ALTER TABLE `reserverd_configs`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `reserverd_configs_user_id_foreign` (`user_id`),
+  ADD KEY `reserverd_configs_product_id_foreign` (`product_id`);
+
+--
 -- Indexes for table `settings`
 --
 ALTER TABLE `settings`
@@ -1110,55 +1166,67 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `account_ballances`
 --
 ALTER TABLE `account_ballances`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `agent_permissons`
 --
 ALTER TABLE `agent_permissons`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `agent_products`
 --
 ALTER TABLE `agent_products`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `applications`
 --
 ALTER TABLE `applications`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `bills`
 --
 ALTER TABLE `bills`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=62;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `bot_users`
 --
 ALTER TABLE `bot_users`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `channel_locks`
 --
 ALTER TABLE `channel_locks`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `channel_lock_menu_items`
 --
 ALTER TABLE `channel_lock_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `cron_jobs`
+--
+ALTER TABLE `cron_jobs`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `cron_logs`
+--
+ALTER TABLE `cron_logs`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `crypto_payments`
 --
 ALTER TABLE `crypto_payments`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -1170,7 +1238,7 @@ ALTER TABLE `failed_jobs`
 -- AUTO_INCREMENT for table `faqs`
 --
 ALTER TABLE `faqs`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `frist_menus`
@@ -1182,31 +1250,31 @@ ALTER TABLE `frist_menus`
 -- AUTO_INCREMENT for table `gift_cards`
 --
 ALTER TABLE `gift_cards`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `gift_card_menu_items`
 --
 ALTER TABLE `gift_card_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `inbounds`
 --
 ALTER TABLE `inbounds`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=35;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `logs`
 --
 ALTER TABLE `logs`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2803;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `main_menu_items`
 --
 ALTER TABLE `main_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `menu_levels`
@@ -1218,13 +1286,13 @@ ALTER TABLE `menu_levels`
 -- AUTO_INCREMENT for table `migrations`
 --
 ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=66;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=60;
 
 --
 -- AUTO_INCREMENT for table `nowpayments_api_call_logger`
 --
 ALTER TABLE `nowpayments_api_call_logger`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `orders`
@@ -1236,55 +1304,79 @@ ALTER TABLE `orders`
 -- AUTO_INCREMENT for table `pannels`
 --
 ALTER TABLE `pannels`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `payment_menu_items`
 --
 ALTER TABLE `payment_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `payment_types`
 --
 ALTER TABLE `payment_types`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `personal_access_tokens`
 --
 ALTER TABLE `personal_access_tokens`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=114;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=143;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `product_categories`
 --
 ALTER TABLE `product_categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=44;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `proxies`
 --
 ALTER TABLE `proxies`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `referral_logs`
+--
+ALTER TABLE `referral_logs`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `referral_settings`
+--
+ALTER TABLE `referral_settings`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `referral_wallets`
+--
+ALTER TABLE `referral_wallets`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `reserverd_configs`
+--
+ALTER TABLE `reserverd_configs`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `settings`
 --
 ALTER TABLE `settings`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `supports`
 --
 ALTER TABLE `supports`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `telegrams`
@@ -1296,7 +1388,7 @@ ALTER TABLE `telegrams`
 -- AUTO_INCREMENT for table `test_accounts`
 --
 ALTER TABLE `test_accounts`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `test_account_menus`
@@ -1308,43 +1400,43 @@ ALTER TABLE `test_account_menus`
 -- AUTO_INCREMENT for table `transactions`
 --
 ALTER TABLE `transactions`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `transaction_cryptos`
 --
 ALTER TABLE `transaction_cryptos`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=64;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `transaction_images`
 --
 ALTER TABLE `transaction_images`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `transaction_settings`
 --
 ALTER TABLE `transaction_settings`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `used_gift_cards`
 --
 ALTER TABLE `used_gift_cards`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `used_test_accounts`
 --
 ALTER TABLE `used_test_accounts`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- Constraints for dumped tables
@@ -1362,6 +1454,13 @@ ALTER TABLE `agent_permissons`
 ALTER TABLE `agent_products`
   ADD CONSTRAINT `agent_products_product_categories_id_foreign` FOREIGN KEY (`product_categories_id`) REFERENCES `product_categories` (`id`) ON DELETE CASCADE,
   ADD CONSTRAINT `agent_products_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE;
+
+--
+-- Constraints for table `cron_logs`
+--
+ALTER TABLE `cron_logs`
+  ADD CONSTRAINT `cron_logs_cron_id_foreign` FOREIGN KEY (`cron_id`) REFERENCES `cron_jobs` (`id`) ON DELETE CASCADE,
+  ADD CONSTRAINT `cron_logs_product_id_foreign` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE;
 
 --
 -- Constraints for table `inbounds`
@@ -1393,6 +1492,27 @@ ALTER TABLE `product_categories`
 --
 ALTER TABLE `proxies`
   ADD CONSTRAINT `proxies_pannel_id_foreign` FOREIGN KEY (`pannel_id`) REFERENCES `pannels` (`id`) ON DELETE CASCADE;
+
+--
+-- Constraints for table `referral_logs`
+--
+ALTER TABLE `referral_logs`
+  ADD CONSTRAINT `referral_logs_referral_to_id_foreign` FOREIGN KEY (`referral_to_id`) REFERENCES `users` (`id`) ON DELETE CASCADE,
+  ADD CONSTRAINT `referral_logs_referral_user_id_foreign` FOREIGN KEY (`referral_user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE,
+  ADD CONSTRAINT `referral_logs_transaction_id_foreign` FOREIGN KEY (`transaction_id`) REFERENCES `transactions` (`id`) ON DELETE CASCADE;
+
+--
+-- Constraints for table `referral_wallets`
+--
+ALTER TABLE `referral_wallets`
+  ADD CONSTRAINT `referral_wallets_referral_user_id_foreign` FOREIGN KEY (`referral_user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE;
+
+--
+-- Constraints for table `reserverd_configs`
+--
+ALTER TABLE `reserverd_configs`
+  ADD CONSTRAINT `reserverd_configs_product_id_foreign` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE,
+  ADD CONSTRAINT `reserverd_configs_user_id_foreign` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE;
 
 --
 -- Constraints for table `test_accounts`

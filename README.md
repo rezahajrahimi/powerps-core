@@ -67,12 +67,22 @@ You have to change xxxxxxxxxxxxxx with your telegram bot token and also change P
 USERNAME: value of TELEGRAM_ADMIN_ID
 PASSWORD: admin123456
 
+## UPDATE
+
+first of all take a back up from database after that change "APP_ENV" to "dev" in .env files, then insert migration command in console and run it:
+
+```sh
+php artisan migrate
+```
+
+Finaly, rechange "APP_ENV" to "production".
+
 ## YOUTUBE Toturial
 
 watch full instalation on  [youtube](https://youtu.be/drZGXXxSNSE).
 
 ## Support
 
-در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.
+ درصورت هر گونه مشکل در نصب یا نیاز به مشاوره در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.
 
 همچنین می توانید عضو گروه تلگرامی [powerproxysellerchat](https://t.me/powerproxysellerchat) بشوید و درگروه سوالات خود را در میان بگذارید.

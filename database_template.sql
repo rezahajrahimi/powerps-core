@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 25, 2024 at 02:52 PM
+-- Generation Time: Oct 05, 2024 at 09:06 AM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
@@ -207,6 +207,13 @@ CREATE TABLE `crypto_payments` (
   `is_active` tinyint(1) DEFAULT 1
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `crypto_payments`
+--
+
+INSERT INTO `crypto_payments` (`id`, `name`, `api_key`, `env`, `callback_url`, `email`, `password`, `ipn_callback_url`, `success_url`, `cancel_url`, `partially_paid_url`, `is_fixed_rate`, `is_fee_paid_by_user`, `created_at`, `updated_at`, `is_active`) VALUES
+(1, 'nowpayments', 'xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx', 'live', 'https://localhost:8000/payback/', 'john@gmail.com', '123456789', 'https://localhost:8000/payback/', 'https://localhost:8000/payback/', 'https://localhost:8000/cancelpay/', 'https://localhost:8000/payback/', 1, 1, '2024-09-25 13:12:37', '2024-09-25 13:12:37', 1);
+
 -- --------------------------------------------------------
 
 --
@@ -284,6 +291,15 @@ CREATE TABLE `gift_card_menu_items` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `gift_card_menu_items`
+--
+
+INSERT INTO `gift_card_menu_items` (`id`, `name`, `alias_name`, `level`, `created_at`, `updated_at`) VALUES
+(1, 'main', 'کد تخفیف راوارد کنید.', 1, NULL, NULL),
+(2, 'accepted', 'کد گیفت کارت با موفقیت ثبت شد.', 2, NULL, NULL),
+(3, 'expired', 'این کد منقضی شده است.', 3, NULL, NULL);
+
 -- --------------------------------------------------------
 
 --
@@ -330,6 +346,22 @@ CREATE TABLE `main_menu_items` (
   `is_active` tinyint(1) NOT NULL DEFAULT 1,
   `position` tinyint(4) NOT NULL DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `main_menu_items`
+--
+
+INSERT INTO `main_menu_items` (`id`, `name`, `alias_name`, `is_active`, `position`) VALUES
+(1, 'خرید اشتراک', 'خرید اشتراک', 1, 1),
+(2, 'webapp', 'استفاده در وب اپلیکیشن', 1, 2),
+(3, 'سابقه خرید', 'سابقه خرید', 1, 3),
+(4, 'پشتیبانی', 'پشتیبانی', 1, 4),
+(5, 'آموزش استفاده و سوالات متداول', 'آموزش استفاده و سوالات متداول', 1, 5),
+(6, 'اطلاعات حساب', 'اطلاعات حساب', 1, 6),
+(7, 'اکانت آزمایشی', 'اکانت آزمایشی', 1, 7),
+(8, 'دانلود برنامه', 'دانلود برنامه', 1, 8),
+(9, 'گیفت کارت', 'گیفت کارت', 1, 9),
+(10, 'کسب درآمد', 'کسب درآمد', 1, 10);
 
 -- --------------------------------------------------------
 
@@ -501,6 +533,14 @@ CREATE TABLE `payment_menu_items` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `payment_menu_items`
+--
+
+INSERT INTO `payment_menu_items` (`id`, `name`, `alias_name`, `level`, `created_at`, `updated_at`) VALUES
+(1, 'main', 'گزینه پرداخت را انتخاب کنید.', 1, '2024-09-25 13:12:37', '2024-09-25 13:12:37'),
+(2, 'response', 'لطفا مبلغ را به شماره زیر واریز کنید و تصویر رسید را در ربات ارسال کنید.', 2, '2024-09-25 13:12:37', '2024-09-25 13:12:37');
+
 -- --------------------------------------------------------
 
 --
@@ -516,6 +556,13 @@ CREATE TABLE `payment_types` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `payment_types`
+--
+
+INSERT INTO `payment_types` (`id`, `name`, `merchant_id`, `type`, `is_active`, `created_at`, `updated_at`) VALUES
+(1, 'زرین پال', 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx', 'online', 1, '2024-09-25 13:12:36', '2024-09-25 13:12:36');
 
 -- --------------------------------------------------------
 
@@ -535,6 +582,13 @@ CREATE TABLE `personal_access_tokens` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `personal_access_tokens`
+--
+
+INSERT INTO `personal_access_tokens` (`id`, `tokenable_type`, `tokenable_id`, `name`, `token`, `abilities`, `last_used_at`, `expires_at`, `created_at`, `updated_at`) VALUES
+(1, 'App\\Models\\User', 1, 'token-name', '5478435b81a405e1cec8d7ef6d49c730e3cc068d9cd26570b38055870228c641', '[\"*\"]', '2024-09-26 06:23:10', NULL, '2024-09-25 13:12:27', '2024-09-26 06:23:10');
 
 -- --------------------------------------------------------
 
@@ -625,6 +679,13 @@ CREATE TABLE `referral_settings` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `referral_settings`
+--
+
+INSERT INTO `referral_settings` (`id`, `description`, `visit_card_text`, `image_src`, `referral_percent`, `is_active`, `created_at`, `updated_at`) VALUES
+(1, 'با ارسال این لینک به دوستان خود، با هر بار واریزی آنها، امتیاز بگیرید.', '🔥فروش پروکسی اختصاصی با بروزترین پروتکل ها \\r\\n 🏐 قابل استفاده در تلگرام و تمامی دستگاه ها به عنوان فیلترشکن \\r\\n ⏰ تجهیز شده با کانکشن هوشمند (بیش از 20 سرور برای هر کاربر) \\r\\n 📬فاقد هر گونه تبلیغات! \\r\\n ✔️پشتیبانی ۲۴/۷ \\r\\n ♾بدون قطعی و کندی سرعت \\r\\n💰 خرید: \\r\\n', 'text', 0.50, 1, '2024-09-26 06:22:52', '2024-09-26 06:22:52');
 
 -- --------------------------------------------------------
 
@@ -794,6 +855,13 @@ CREATE TABLE `transaction_settings` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `transaction_settings`
+--
+
+INSERT INTO `transaction_settings` (`id`, `dollar_transaction`, `created_at`, `updated_at`) VALUES
+(1, 0, '2024-09-25 13:12:38', '2024-09-25 13:12:38');
+
 -- --------------------------------------------------------
 
 --
@@ -838,6 +906,13 @@ CREATE TABLE `users` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `name`, `account_id`, `role`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
+(1, 'admin', 91965429, 'admin', '$2y$10$0O6tlpLEJCBB0kDkvrWQpuKjlfmO0lg153dAfa4U48bRR7GhL0wgi', NULL, '2024-09-25 13:12:27', '2024-09-25 13:12:27');
 
 --
 -- Indexes for dumped tables
@@ -1226,7 +1301,7 @@ ALTER TABLE `cron_logs`
 -- AUTO_INCREMENT for table `crypto_payments`
 --
 ALTER TABLE `crypto_payments`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -1256,7 +1331,7 @@ ALTER TABLE `gift_cards`
 -- AUTO_INCREMENT for table `gift_card_menu_items`
 --
 ALTER TABLE `gift_card_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `inbounds`
@@ -1274,7 +1349,7 @@ ALTER TABLE `logs`
 -- AUTO_INCREMENT for table `main_menu_items`
 --
 ALTER TABLE `main_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `menu_levels`
@@ -1310,19 +1385,19 @@ ALTER TABLE `pannels`
 -- AUTO_INCREMENT for table `payment_menu_items`
 --
 ALTER TABLE `payment_menu_items`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `payment_types`
 --
 ALTER TABLE `payment_types`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `personal_access_tokens`
 --
 ALTER TABLE `personal_access_tokens`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `products`
@@ -1352,7 +1427,7 @@ ALTER TABLE `referral_logs`
 -- AUTO_INCREMENT for table `referral_settings`
 --
 ALTER TABLE `referral_settings`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `referral_wallets`
@@ -1418,7 +1493,7 @@ ALTER TABLE `transaction_images`
 -- AUTO_INCREMENT for table `transaction_settings`
 --
 ALTER TABLE `transaction_settings`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `used_gift_cards`
@@ -1436,7 +1511,7 @@ ALTER TABLE `used_test_accounts`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- Constraints for dumped tables

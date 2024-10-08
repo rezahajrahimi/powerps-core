@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 05, 2024 at 09:06 AM
+-- Generation Time: Oct 08, 2024 at 08:24 PM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
@@ -35,6 +35,28 @@ CREATE TABLE `account_ballances` (
   `updated_at` timestamp NULL DEFAULT NULL,
   `account_ballance_in_dollar` double(15,2) DEFAULT 0.00
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `advanced_settings`
+--
+
+CREATE TABLE `advanced_settings` (
+  `id` bigint(20) UNSIGNED NOT NULL,
+  `bot_show_configs_by_panels_category` tinyint(1) NOT NULL DEFAULT 0,
+  `bot_auto_set_price_by_dollar_price` tinyint(1) NOT NULL DEFAULT 0,
+  `bot_show_web_app_link_in_telegram_for_all_users` tinyint(1) NOT NULL DEFAULT 1,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `advanced_settings`
+--
+
+INSERT INTO `advanced_settings` (`id`, `bot_show_configs_by_panels_category`, `bot_auto_set_price_by_dollar_price`, `bot_show_web_app_link_in_telegram_for_all_users`, `created_at`, `updated_at`) VALUES
+(1, 1, 1, 1, '2024-10-08 07:55:26', '2024-10-08 15:00:13');
 
 -- --------------------------------------------------------
 
@@ -908,13 +930,6 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`id`, `name`, `account_id`, `role`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 91965429, 'admin', '$2y$10$0O6tlpLEJCBB0kDkvrWQpuKjlfmO0lg153dAfa4U48bRR7GhL0wgi', NULL, '2024-09-25 13:12:27', '2024-09-25 13:12:27');
-
---
 -- Indexes for dumped tables
 --
 
@@ -922,6 +937,12 @@ INSERT INTO `users` (`id`, `name`, `account_id`, `role`, `password`, `remember_t
 -- Indexes for table `account_ballances`
 --
 ALTER TABLE `account_ballances`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `advanced_settings`
+--
+ALTER TABLE `advanced_settings`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -1242,6 +1263,12 @@ ALTER TABLE `users`
 --
 ALTER TABLE `account_ballances`
   MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `advanced_settings`
+--
+ALTER TABLE `advanced_settings`
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `agent_permissons`

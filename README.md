@@ -51,7 +51,7 @@ ZARINPAL_SANDBOX_ENABLED=false
 
 ```sh
 NOWPAYMENTS_API_KEY=set nowpayments api key
-NOWPAYMENTS_ENV=live
+NOWPAYMENTS_CALLBACK_URL=https://POWERPS_CORE_URL/laravel-nowpayments
 ```
 
 ## SET TELEGRAM WEBHOOKS

@@ -51,7 +51,6 @@ ZARINPAL_SANDBOX_ENABLED=false
 
 ```sh
 NOWPAYMENTS_API_KEY=set nowpayments api key
-NOWPAYMENTS_ENV=live
 ```
 
 ## SET TELEGRAM WEBHOOKS

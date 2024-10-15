@@ -1,3 +1,36 @@
 <?php
-bolt_decrypt( __FILE__ , 'NjGYoP'); return 0;
-##!!!##ISGMinw3YIODjISAhXiLfHNbeIt4eXiKfHNkgH6JeIuAhoWKc2SAfol4i4CGhVIhjIp8N2CDg4yEgIV4i3xzW3iLeHl4inxzanp/fIR4c1mDjHyHiYCFi1IhjIp8N2CDg4yEgIV4i3xzaoyHh4aJi3NdeHp4e3yKc2p6f3yEeFIhIYl8i4yJhTeFfI43eoN4ioo3fI+LfIV7ijdkgH6JeIuAhoUhkiE3Nzc3RkFBITc3Nzc3QTdpjIU3i398N4SAfol4i4CGhYpFITc3Nzc3QUYhNzc3N4eMeYOAejd9jIV6i4CGhTeMhz9AUTeNhoB7ITc3NzeSITc3Nzc3Nzc3anp/fIR4UVF6iXx4i3w/Pol8fXyJiXiDdoOGfoo+Qzd9jIV6i4CGhTc/WYOMfIeJgIWLNzuLeHmDfEA3kiE3Nzc3Nzc3Nzc3Nzc7i3h5g3xEVYB7P0BSITc3Nzc3Nzc3Nzc3NzuLeHmDfERVfYaJfIB+hWB7Pz6JfH18iYl4g3aMinyJdoB7PkBSITc3Nzc3Nzc3Nzc3NzuLeHmDfERVfYaJfIB+hWB7Pz6JfH18iYl4g3aLhnaAez5AUiE3Nzc3Nzc3Nzc3Nzc7i3h5g3xEVX2GiXyAfoVgez8+i4l4hYp4eouAhoV2gHs+QERVhYyDg3h5g3w/QERVeoaFiouJeICFfHs/PouJeIWKeHqLgIaFij5ARFWGhVt8g3yLfD8+eniKenh7fD5AUiEhNzc3Nzc3Nzc3Nzc3O4t4eYN8RFWAhYt8fnyJPz54hIaMhYs+QERVjIWKgH6FfHs/QERVe3x9eIyDiz9HQFIhNzc3Nzc3Nzc3Nzc3O4t4eYN8RFWLgIR8iot4hIeKP0BSITc3Nzc3Nzc3Nzc3NzuLeHmDfERVfYaJfIB+hT8+iXx9fImJeIN2jIp8iXaAez5ARFWJfH18iXyFenyKPz6Aez5ARFWGhT8+jIp8iYo+QERVhoVbfIN8i3w/Pnp4inp4e3w+QFIhNzc3Nzc3Nzc3Nzc3O4t4eYN8RFV9hol8gH6FPz6JfH18iYl4g3aLhnaAez5ARFWJfH18iXyFenyKPz6Aez5ARFWGhT8+jIp8iYo+QERVhoVbfIN8i3w/Pnp4inp4e3w+QFIhISE3Nzc3Nzc3N5RAUiE3Nzc3lCEhNzc3N0ZBQSE3Nzc3N0E3aXyNfImKfDeLf3w3hIB+iXiLgIaFikUhNzc3NzdBRiE3Nzc3h4x5g4B6N32MhXqLgIaFN3uGjoU/QFE3jYaAeyE3Nzc3kiE3Nzc3Nzc3N2p6f3yEeFFRe4mGh2B9XI+AiouKPz6JfH18iYl4g3aDhn6KPkBSITc3NzeUIZRSIQ==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('referral_logs', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('referral_user_id');
+            $table->foreignId('referral_to_id');
+            $table->foreignId('transaction_id')->nullable()->constrained('transactions')->onDelete('cascade');
+
+            $table->integer('amount')->unsigned()->default(0);
+            $table->timestamps();
+            $table->foreign('referral_user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->foreign('referral_to_id')->references('id')->on('users')->onDelete('cascade');
+
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('referral_logs');
+    }
+};

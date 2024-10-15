@@ -1,3 +1,44 @@
 <?php
-bolt_decrypt( __FILE__ , 'sOTsCt'); return 0;
-##!!!##Skq1s6Vgiaysta2prqG0pZyEobShoqGzpZyNqaeyobSpr66znI2pp7KhtKmvrntKtbOlYImsrLWtqa6htKWchKG0oaKhs6Wck6Oopa2hnIKstaWwsqmutHtKtbOlYImsrLWtqa6htKWck7WwsK+ytJyGoaOhpKWznJOjqKWtoXtKSrKltLWyrmCupbdgo6yhs7Ngpbi0pa6ks2CNqaeyobSpr65gu0pgYGBgb2pqYLOlsrapo6WftLmwpbNKYGBgYGBqYJK1rmC0qKVgramnsqG0qa+us25KYGBgYGBqb0pgYGBgsLWirKmjYKa1rqO0qa+uYLWwaGl6YLavqaRKYGBgYLtKYGBgYGBgYGCTo6ilraF6eqOypaG0pWhnsLKvpLWjtJ+jobSlp6+yqaWzZ2xgprWuo7Spr65gaIKstaWwsqmutGBktKGirKVpYLtKYGBgYGBgYGBgYGBgZLShoqylbX6ppGhpe0pgYGBgYGBgYGBgYGBktKGirKVtfqKpp4mutKWnpbJoZ7Chrq6lrJ+ppGdpbX61rrOpp66lpGhpe0pgYGBgYGBgYGBgYGBktKGirKVtfrO0sqmup2hno6G0paevsrmfrqGtpWdsYHFwcGl7SmBgYGBgYGBgYGBgYGS0oaKspUpgYGBgYGBgYGBgYGBgYGBgbX6iqaeJrrSlp6WyaGewsqmjpWdpSmBgYGBgYGBgYGBgYGBgYGBtfrWus6mnrqWkaGlKYGBgYGBgYGBgYGBgYGBgYG1+rrWsrKGirKVoaUpgYGBgYGBgYGBgYGBgYGBgbX6kpaahtay0aHBpe0pgYGBgYGBgYGBgYGBktKGirKVKYGBgYGBgYGBgYGBgYGBgYG1+qa60paelsmhnpbiwqbKln6ShuWdpSmBgYGBgYGBgYGBgYGBgYGBtfrWus6mnrqWkaGlKYGBgYGBgYGBgYGBgYGBgYG1+pKWmobWstGhzcGl7SmBgYGBgYGBgYGBgYGBgYGBktKGirKVtfqSvtaKspWhntq+sta2lZ2xgcXVsYHJpbX6utaysoaKspWhpbX6kpaahtay0aHBudWl7SkpKYGBgYGBgYGBgYGBgZLShoqylbX60qa2ls7ShrbCzaGl7SmBgYGBgYGBgYGBgYGS0oaKspUpgYGBgYGBgYGBgYGBgYGBgbX6mr7KlqaeuaGewoa6upayfqaRnaUpgYGBgYGBgYGBgYGBgYGBgbX6ypaalsqWuo6WzaGeppGdpSmBgYGBgYGBgYGBgYGBgYGBtfq+uaGewoa6upayzZ2ltfq+uhKWspbSlaGejobOjoaSlZ2l7SmBgYGBgYGBgvWl7SmBgYGC9SkpgYGBgb2pqSmBgYGBgamCSpbalsrOlYLSopWCtqaeyobSpr66zbkpgYGBgYGpvSmBgYGCwtaKsqaNgprWuo7Spr65gpK+3rmhpemC2r6mkSmBgYGC7SmBgYGBgYGBgk6Oopa2henqksq+wiaaFuKmztLNoZ7Cyr6S1o7Sfo6G0paevsqmls2dpe0pgYGBgvUq9e0o=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /** service_types
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('product_categories', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('pannel_id')->unsigned();
+            $table->string('category_name', 100);
+            $table
+                ->bigInteger('price')
+                ->unsigned()
+                ->nullable()
+                ->default(0);
+            $table
+                ->integer('expire_day')
+                ->unsigned()
+                ->default(30);
+                $table->double('volume', 15, 2)->nullable()->default(0.5);
+
+
+            $table->timestamps();
+            $table
+                ->foreign('pannel_id')
+                ->references('id')
+                ->on('pannels')->onDelete('cascade');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('product_categories');
+    }
+};

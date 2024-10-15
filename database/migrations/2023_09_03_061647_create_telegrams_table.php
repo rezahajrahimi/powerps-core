@@ -1,3 +1,27 @@
 <?php
-bolt_decrypt( __FILE__ , 'jiJi0c'); return 0;
-##!!!##IyOOjH45YoWFjoaCh3qNfnVdeo16e3qMfnVmgoCLeo2CiIeMdWaCgIt6jYKIh1Qjjox+OWKFhY6Ggod6jX51XXqNent6jH51bHyBfoZ6dVuFjn6Ji4KHjVQjjox+OWKFhY6Ggod6jX51bI6JiYiLjXVfenx6fX6MdWx8gX6GelQjI4t+jY6LhzmHfpA5fIV6jIw5fpGNfod9jDlmgoCLeo2CiIcjlCM5OTk5SENDIzk5OTk5Qzlrjoc5jYF+OYaCgIt6jYKIh4xHIzk5OTk5Q0gjOTk5OYmOe4WCfDl/jod8jYKIhzmOiUFCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5bHyBfoZ6U1N8i356jX5BQI1+hX6Ai3qGjEBFOX+Oh3yNgoiHOUFbhY5+iYuCh405PY16e4V+QjmUIzk5OTk5OTk5OTk5OT2NenuFfkZXgn1BQlQjOTk5OTk5OTk5OTk5PY16e4V+RleNgoZ+jI16homMQUJUIzk5OTk5OTk5lkJUIzk5OTmWIyM5OTk5SENDIzk5OTk5Qzlrfo9+i4x+OY2BfjmGgoCLeo2CiIeMRyM5OTk5OUNIIzk5OTmJjnuFgnw5f46HfI2CiIc5fYiQh0FCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5bHyBfoZ6U1N9i4iJYn9ekYKMjYxBQI1+hX6Ai3qGjEBCVCM5OTk5liOWVCM=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('telegrams', function (Blueprint $table) {
+            $table->id();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('telegrams');
+    }
+};

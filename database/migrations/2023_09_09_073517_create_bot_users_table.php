@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'pHkGVe'); return 0;
-##!!!##Ly+amIpFbpGRmpKOk4aZioFphpmGh4aYioFyjoyXhpmOlJOYgXKOjJeGmY6Uk2AvmpiKRW6RkZqSjpOGmYqBaYaZhoeGmIqBeIiNipKGgWeRmoqVl46TmWAvmpiKRW6RkZqSjpOGmYqBeJqVlZSXmYFrhoiGiYqYgXiIjYqShmAvL5eKmZqXk0WTipxFiJGGmJhFip2ZipOJmEVyjoyXhpmOlJMvoC9FRUVFVE9PL0VFRUVFT0V3mpNFmY2KRZKOjJeGmY6Uk5hTL0VFRUVFT1QvRUVFRZWah5GOiEWLmpOImY6Uk0WalU1OX0WblI6JL0VFRUWgL0VFRUVFRUVFeIiNipKGX1+Il4qGmYpNTIeUmYSamIqXmExRRYuak4iZjpSTRU1nkZqKlZeOk5lFSZmGh5GKTkWgL0VFRUVFRUVFRUVFRUmZhoeRilJjjolNTmAvRUVFRUVFRUVFRUVFSZmGh5GKUmOHjoxuk5mKjIqXTUyGiIiUmpOZhI6JTE5SY4mKi4aakZlNVU5gL0VFRUVFRUVFRUVFRUmZhoeRilJjmJmXjpOMTUyamIqXk4aSikxRRVZVVU5SY5OakZGGh5GKTU5gL0VFRUVFRUVFRUVFRUmZhoeRilJjmJmXjpOMTUyLjpeYmYSThpKKTFFFVlVVTlJjk5qRkYaHkYpNTmAvRUVFRUVFRUVFRUVFSZmGh5GKUmOYmZeOk4xNTJGGmJmEk4aSikxRRVZVVU5SY5OakZGGh5GKTU5gL0VFRUVFRUVFRUVFRUmZhoeRilJjmY6SipiZhpKVmE1OYC9FRUVFRUVFRaJOYC9FRUVFoi8vRUVFRVRPTy9FRUVFRU9Fd4qbipeYikWZjYpFko6Ml4aZjpSTmFMvRUVFRUVPVC9FRUVFlZqHkY6IRYuak4iZjpSTRYmUnJNNTl9Fm5SOiS9FRUVFoC9FRUVFRUVFRXiIjYqShl9fiZeUlW6Lap2OmJmYTUyHlJmEmpiKl5hMTmAvRUVFRaIvomAv
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('bot_users', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->default(0);
+            $table->string('username', 100)->nullable();
+            $table->string('first_name', 100)->nullable();
+            $table->string('last_name', 100)->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('bot_users');
+    }
+};

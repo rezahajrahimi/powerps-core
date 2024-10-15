@@ -1,3 +1,34 @@
 <?php
-bolt_decrypt( __FILE__ , '98nnfL'); return 0;
-##!!!##CQl0cmQfSGtrdGxobWBzZFtDYHNgYWByZFtMaGZxYHNobm1yW0xoZnFgc2hubToJdHJkH0hra3RsaG1gc2RbQ2BzYGFgcmRbUmJnZGxgW0FrdGRvcWhtczoJdHJkH0hra3RsaG1gc2RbUnRvb25xc1tFYGJgY2RyW1JiZ2RsYDoJCXFkc3RxbR9tZHYfYmtgcnIfZHdzZG1jch9MaGZxYHNobm0JegkfHx8fLikpCR8fHx8fKR9RdG0fc2dkH2xoZnFgc2hubXItCR8fHx8fKS4JHx8fH290YWtoYh9ldG1ic2hubR90bycoOR91bmhjCR8fHx96CR8fHx8fHx8fUmJnZGxgOTlicWRgc2QnJnRyZHFyJisfZXRtYnNobm0fJ0FrdGRvcWhtcx8jc2Bha2QoH3oJHx8fHx8fHx8fHx8fI3NgYWtkLD1oYycoOgkfHx8fHx8fHx8fHx8jc2Bha2QsPXJzcWhtZicmbWBsZCYoOgkfHx8fHx8fHx8fHx8jc2Bha2QsPWFoZkhtc2RmZHEnJmBiYm50bXNeaGMmKCw9dG1yaGZtZGMnKCw9dG1ocHRkJyg6CR8fHx8fHx8fHx8fHyNzYGFrZCw9ZG10bCcmcW5rZCYrH1ofJmBjbGhtJisfJmBmZG1zJismdHJkcSZcKCw9Y2RlYHRrcycmYGNsaG0mKDoJHx8fHx8fHx8fHx8fLi4fI3NgYWtkLD1yc3FobWYnJmRsYGhrJigsPXRtaHB0ZCcoLD1tdGtrYGFrZCcoOgkfHx8fHx8fHx8fHx8uLh8jc2Bha2QsPXNobGRyc2BsbycmZGxgaGtedWRxaGVoZGNeYHMmKCw9bXRra2Bha2QnKDoJHx8fHx8fHx8fHx8fI3NgYWtkLD1yc3FobWYnJm9gcnJ2bnFjJig6CR8fHx8fHx8fHx8fHyNzYGFrZCw9cWRsZGxhZHFTbmpkbScoOgkfHx8fHx8fHx8fHx8jc2Bha2QsPXNobGRyc2Bsb3InKDoJHx8fHx8fHx98KDoJHx8fH3wJCR8fHx8uKSkJHx8fHx8pH1FkdWRxcmQfc2dkH2xoZnFgc2hubXItCR8fHx8fKS4JHx8fH290YWtoYh9ldG1ic2hubR9jbnZtJyg5H3VuaGMJHx8fH3oJHx8fHx8fHx9SYmdkbGA5OWNxbm9IZUR3aHJzcicmdHJkcXImKDoJHx8fH3wJfDoJ
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('users', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->bigInteger('account_id')->unsigned()->unique();
+            $table->enum('role', [ 'admin', 'agent','user'])->default('admin');
+            // $table->string('email')->unique()->nullable();
+            // $table->timestamp('email_verified_at')->nullable();
+            $table->string('password');
+            $table->rememberToken();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('users');
+    }
+};

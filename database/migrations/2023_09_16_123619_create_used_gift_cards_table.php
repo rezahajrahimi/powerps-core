@@ -1,3 +1,34 @@
 <?php
-bolt_decrypt( __FILE__ , 'YUClIB'); return 0;
-##!!!##8vJdW00IMVRUXVVRVklcTUQsSVxJSklbTUQ1UU9aSVxRV1ZbRDVRT1pJXFFXViPyXVtNCDFUVF1VUVZJXE1ELElcSUpJW01EO0tQTVVJRCpUXU1YWlFWXCPyXVtNCDFUVF1VUVZJXE1EO11YWFdaXEQuSUtJTE1bRDtLUE1VSSPy8lpNXF1aVghWTV8IS1RJW1sITWBcTVZMWwg1UU9aSVxRV1YIY/IICAgIFxIS8ggICAgIEgg6XVYIXFBNCFVRT1pJXFFXVlsW8ggICAgIEhfyCAgICFhdSlRRSwhOXVZLXFFXVghdWBARIgheV1FM8ggICAhj8ggICAgICAgIO0tQTVVJIiJLWk1JXE0QD11bTUxHT1FOXEdLSVpMWw8UCE5dVktcUVdWCBAqVF1NWFpRVlwIDFxJSlRNEQhj8ggICAgICAgICAgICAxcSUpUTRUmUUwQESPyCAgICAgICAgICAgIDFxJSlRNFSZKUU8xVlxNT01aEA9PUU5cR0tJWkxbR1FMDxEVJl1WW1FPVk1MEBEj8ggICAgICAgICAgICAxcSUpUTRUmSlFPMVZcTU9NWhAPSUtLV11WXEdRTA8RI/LyCAgICAgICAgICAgIDFxJSlRNFSZcUVVNW1xJVVhbEBEj8vIICAgICAgICAgICAgMXElKVE3yCAgICAgICAgICAgICAgICBUmTldaTVFPVhAPT1FOXEdLSVpMW0dRTA8R8ggICAgICAgICAgICAgICAgVJlpNTk1aTVZLTVsQD1FMDxHyCAgICAgICAgICAgICAgICBUmV1YQD09RTlxHS0laTFsPERUmV1YsTVRNXE0QD0tJW0tJTE0PESPyCAgICAgICAhlESPyCAgICGXy8ggICAgXEhLyCAgICAgSCDpNXk1aW00IXFBNCFVRT1pJXFFXVlsW8ggICAgIEhfyCAgICFhdSlRRSwhOXVZLXFFXVghMV19WEBEiCF5XUUzyCAgICGPyCAgICAgICAg7S1BNVUkiIkxaV1gxTi1gUVtcWxAPXVtNTEdPUU5cR0tJWkxbDxEj8ggICAhl8mUj8g==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('used_gift_cards', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('gift_cards_id')->unsigned();
+            $table->bigInteger('account_id');
+
+            $table->timestamps();
+
+            $table
+                ->foreign('gift_cards_id')
+                ->references('id')
+                ->on('gift_cards')->onDelete('cascade');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('used_gift_cards');
+    }
+};

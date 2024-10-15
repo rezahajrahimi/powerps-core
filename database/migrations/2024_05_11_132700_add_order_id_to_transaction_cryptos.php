@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '8wnu0M'); return 0;
-##!!!##GRmEgnQvWHt7hHx4fXCDdGtTcINwcXCCdGtceHaBcIN4fn2Ca1x4doFwg3h+fUoZhIJ0L1h7e4R8eH1wg3RrU3CDcHFwgnRrYnJ3dHxwa1F7hHR/gXh9g0oZhIJ0L1h7e4R8eH1wg3RrYoR/f36Bg2tVcHJwc3SCa2Jyd3R8cEoZGYF0g4SBfS99dIYvcntwgoIvdIeDdH1zgi9ceHaBcIN4fn0ZihkvLy8vPjk5GS8vLy8vOS9hhH0vg3d0L3x4doFwg3h+fYI9GS8vLy8vOT4ZLy8vL3+EcXt4ci91hH1yg3h+fS+Efzc4SS+FfnhzGS8vLy+KGS8vLy8vLy8vYnJ3dHxwSUmDcHF7dDc2g4FwfYJwcoN4fn1ucoGIf4N+gjY7L3WEfXKDeH59LzdRe4R0f4F4fYMvM4NwcXt0OC+KGS8vLy8vLy8vLy8vLzODcHF7dDxNgoOBeH12NzZ+gXN0gW54czY7L0A/Pzg8TX2Ee3twcXt0NzhKGS8vLy8vLy8vjDhKGS8vLy+MGRkvLy8vPjk5GS8vLy8vOS9hdIV0gYJ0L4N3dC98eHaBcIN4fn2CPRkvLy8vLzk+GS8vLy9/hHF7eHIvdYR9coN4fn0vc36GfTc4SS+FfnhzGS8vLy+KGS8vLy8vLy8vYnJ3dHxwSUmDcHF7dDc2g4FwfYJwcoN4fn1ucoGIf4N+gjY7L3WEfXKDeH59LzdRe4R0f4F4fYMvM4NwcXt0OC+KGS8vLy8vLy8vLy8vLz4+GS8vLy8vLy8vjDhKGS8vLy+MGYxKGQ==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('transaction_cryptos', function (Blueprint $table) {
+            $table->string('order_id', 100)->nullable();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('transaction_cryptos', function (Blueprint $table) {
+            //
+        });
+    }
+};

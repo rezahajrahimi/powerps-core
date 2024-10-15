@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'TzjdW4'); return 0;
-##!!!##MTGcmoxHcJOTnJSQlYibjINriJuIiYiajIN0kI6ZiJuQlpWag3SQjpmIm5CWlWIxnJqMR3CTk5yUkJWIm4yDa4ibiImImoyDeoqPjJSIg2mTnIyXmZCVm2IxnJqMR3CTk5yUkJWIm4yDepyXl5aZm4NtiIqIi4yag3qKj4yUiGIxMZmMm5yZlUeVjJ5HipOImppHjJ+bjJWLmkd0kI6ZiJuQlpUxojFHR0dHVlFRMUdHR0dHUUd5nJVHm4+MR5SQjpmIm5CWlZpVMUdHR0dHUVYxR0dHR5eciZOQikeNnJWKm5CWlUecl09QYUedlpCLMUdHR0eiMUdHR0dHR0dHeoqPjJSIYWGbiImTjE9Ol5mWi5yKm4aKiJuMjpaZkIyaTlNHjZyVipuQlpVHT2mTnIyXmZCVm0dLm4iJk4xQR6IxR0dHR0dHR0dHR0dHS5uIiZOMVGWJlpaTjIiVT06ZjIqPiJmOiImTjE5QVGWVnJOTiImTjE9QVGWLjI2InJObT5uZnIxQYjFHR0dHR0dHR0dHR0dLm4iJk4xUZYmWlpOMiJVPTpqPlp6GmpyJmoqZkJebkJaVhpOQlZJOUFRllZyTk4iJk4xPUFRli4yNiJyTm0+bmZyMUGIxR0dHR0dHR0dHR0dHS5uIiZOMVGWJlpaTjIiVT06aj5aehpeIlZWMk4aTkJWSTlBUZZWck5OIiZOMT1BUZYuMjYick5tPm5mcjFBiMUdHR0dHR0dHpFBiMUdHR0ekMTFHR0dHVlFRMUdHR0dHUUd5jJ2MmZqMR5uPjEeUkI6ZiJuQlpWaVTFHR0dHR1FWMUdHR0eXnImTkIpHjZyVipuQlpVHi5aelU9QYUedlpCLMUdHR0eiMUdHR0dHR0dHeoqPjJSIYWGbiImTjE9Ol5mWi5yKm4aKiJuMjpaZkIyaTlNHjZyVipuQlpVHT2mTnIyXmZCVm0dLm4iJk4xQR6IxR0dHR0dHR0dHR0dHVlYxR0dHR0dHR0ekUGIxR0dHR6QxpGIx
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('product_categories', function (Blueprint $table) {
+            $table->boolean('rechargable')->nullable()->default(true);
+            $table->boolean('show_subscription_link')->nullable()->default(true);
+            $table->boolean('show_pannel_link')->nullable()->default(true);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('product_categories', function (Blueprint $table) {
+            //
+        });
+    }
+};

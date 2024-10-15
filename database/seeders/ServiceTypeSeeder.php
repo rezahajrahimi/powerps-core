@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'HEilnl'); return 0;
-##!!!##Rkaqnamhr6ydn6FcgJ2wnZ6dr6GYj6GhoKGur3dGRrGvoVyFqKixqaWqnbChmICdsJ2ena+hmH+rqq+rqKGYj6GhoK+Yk6WwpKuxsImroKGogbKhqrCvd0axr6Fchaiosamlqp2woZiAnbCdnp2voZiPoaGgoa53RkafqJ2vr1yPoa6ypZ+hkLWsoY+hoaChrlyhtLChqqCvXI+hoaChrka3RlxcXFxrZmZGXFxcXFxmXI6xqlywpKFcoJ2wnZ6dr6Fcr6GhoK9qRlxcXFxcZmtGXFxcXKyxnqiln1yisaqfsKWrqlyusapkZXZcsquloEZcXFxct0ZcXFxcXFxcXGtrRlxcXFy5RrlG
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+
+class ServiceTypeSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+        //
+    }
+}

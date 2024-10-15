@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , '7CCEBZ'); return 0;
-##!!!##qKgTEQO+5woKEwsHDP8SA/ri/xL/AP8RA/rrBwUQ/xIHDQwR+usHBRD/EgcNDNmoExEDvucKChMLBwz/EgP64v8S/wD/EQP68QEGAwv/+uAKEwMOEAcMEtmoExEDvucKChMLBwz/EgP68RMODg0QEvrk/wH/AgMR+vEBBgML/9moqBADEhMQDL4MAxW+AQr/ERG+AxYSAwwCEb7rBwUQ/xIHDQyoGai+vr6+zcjIqL6+vr6+yL7wEwy+EgYDvgsHBRD/EgcNDBHMqL6+vr6+yM2ovr6+vg4TAAoHAb4EEwwBEgcNDL4TDsbH2L4UDQcCqL6+vr4ZqL6+vr6+vr6+8QEGAwv/2NgBEAP/EgPGxQQQBxES/QsDDBMRxcq+BBMMARIHDQy+xuAKEwMOEAcMEr7CEv8ACgPHvhmovr6+vr6+vr6+vr6+whL/AAoDy9wHAsbH2ai+vr6+vr6+vr6+vr7CEv8ACgPL3BESEAcMBcbFDP8LA8XH2ai+vr6+vr6+vr6+vr7CEv8ACgPL3AANDQoD/wzGxQcR3wESBxQDxcfL3AIDBP8TChLGEhATA8fZqKi+vr6+vr6+vr6+vr7CEv8ACgPL3BIHCwMREv8LDhHGx9movr6+vr6+vr4bx9movr6+vhuoqL6+vr7NyMiovr6+vr7IvvADFAMQEQO+EgYDvgsHBRD/EgcNDBHMqL6+vr6+yM2ovr6+vg4TAAoHAb4EEwwBEgcNDL4CDRUMxsfYvhQNBwKovr6+vhmovr6+vr6+vr7xAQYDC//Y2AIQDQ7nBOMWBxESEcbFBBAHERL9CwMMExHFx9movr6+vhuoG9mo
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('frist_menus', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->boolean('isActive')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('frist_menus');
+    }
+};

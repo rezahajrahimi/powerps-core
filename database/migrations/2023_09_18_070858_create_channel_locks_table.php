@@ -1,3 +1,29 @@
 <?php
-bolt_decrypt( __FILE__ , 'nlISFX'); return 0;
-##!!!##Hh6Jh3k0XYCAiYF9gnWIeXBYdYh1dnWHeXBhfXuGdYh9g4KHcGF9e4Z1iH2Dgk8eiYd5NF2AgImBfYJ1iHlwWHWIdXZ1h3lwZ3d8eYF1cFaAiXmEhn2CiE8eiYd5NF2AgImBfYJ1iHlwZ4mEhIOGiHBadXd1eHmHcGd3fHmBdU8eHoZ5iImGgjSCeYs0d4B1h4c0eYyIeYJ4hzRhfXuGdYh9g4Iejx40NDQ0Qz4+HjQ0NDQ0PjRmiYI0iHx5NIF9e4Z1iH2DgodCHjQ0NDQ0PkMeNDQ0NISJdoB9dzR6iYJ3iH2DgjSJhDw9TjSKg314HjQ0NDSPHjQ0NDQ0NDQ0Z3d8eYF1Tk53hnl1iHk8O3d8dYKCeYBzgIN3f4c7QDR6iYJ3iH2DgjQ8VoCJeYSGfYKINDiIdXaAeT00jx40NDQ0NDQ0NDQ0NDQ4iHV2gHlBUn14PD1PHjQ0NDQ0NDQ0NDQ0NDiIdXaAeUFSh4iGfYJ7PDt3fHWCgnmAc314O0A0RUREPU8eNDQ0NDQ0NDQ0NDQ0OIh1doB5QVJ2g4OAeXWCPDt9h3N1d4h9ink7PUFSeHl6dYmAiDyIhol5PU8eNDQ0NDQ0NDQ0NDQ0OIh1doB5QVKIfYF5h4h1gYSHPD1PHjQ0NDQ0NDQ0kT1PHjQ0NDSRHh40NDQ0Qz4+HjQ0NDQ0PjRmeYp5hod5NIh8eTSBfXuGdYh9g4KHQh40NDQ0ND5DHjQ0NDSEiXaAfXc0eomCd4h9g4I0eIOLgjw9TjSKg314HjQ0NDSPHjQ0NDQ0NDQ0Z3d8eYF1Tk54hoOEXXpZjH2HiIc8O3d8dYKCeYBzgIN3f4c7PU8eNDQ0NJEekU8e
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('channel_locks', function (Blueprint $table) {
+            $table->id();
+            $table->string('channel_id', 100);
+            $table->boolean('is_active')->default(true);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('channel_locks');
+    }
+};

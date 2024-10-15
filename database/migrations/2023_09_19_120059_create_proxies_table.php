@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , 'fkPcMg'); return 0;
-##!!!##QkKtq51YgaSkraWhppmsnZR8mayZmpmrnZSFoZ+qmayhp6arlIWhn6qZrKGnpnNCraudWIGkpK2loaaZrJ2UfJmsmZqZq52Ui5ugnaWZlHqkrZ2oqqGmrHNCraudWIGkpK2loaaZrJ2Ui62oqKeqrJR+mZuZnJ2rlIuboJ2lmXNCQqqdrK2qplimna9Ym6SZq6tYnbCsnaacq1iFoZ+qmayhp6ZYs0JYWFhYZ2JiQlhYWFhYYliKraZYrKCdWKWhn6qZrKGnpqtmQlhYWFhYYmdCWFhYWKitmqShm1ieraabrKGnplitqGBhcliup6GcQlhYWFizQlhYWFhYWFhYi5ugnaWZcnKbqp2ZrJ1gX6iqp7ChnatfZFieraabrKGnplhgeqStnaiqoaasWFysmZqknWFYs0JYWFhYWFhYWFhYWFhcrJmapJ1ldqGcYGFzQlhYWFhYWFhYWFhYWFysmZqknWV2mqGfgaasnZ+dqmBfqJmmpp2kl6GcX2Fldq2mq6Gfpp2cYGFzQlhYWFhYWFhYWFhYWFysmZqknUJYWFhYWFhYWFhYWFhYWFhYZXarrKqhpp9gX6yxqJ1fZFhpaGhhQlhYWFhYWFhYWFhYWFhYWFhldqatpKSZmqSdYGFCWFhYWFhYWFhYWFhYWFhYWGV2nJ2ema2krGBfrqSdq6tfYXNCWFhYWFhYWFhYWFhYXKyZmqSdQlhYWFhYWFhYWFhYWFhYWFhldpqnp6SdmaZgX6Grl5mbrKGunV9hQlhYWFhYWFhYWFhYWFhYWFhldqatpKSZmqSdYGFCWFhYWFhYWFhYWFhYWFhYWGV2nJ2ema2krGCsqq2dYXNCWFhYWFhYWFhYWFhYXKyZmqSdZXasoaWdq6yZpairYGFzQlhYWFhYWFhYWFhYWFysmZqknUJYWFhYWFhYWFhYWFhYWFhYZXaep6qdoZ+mYF+omaamnaSXoZxfYUJYWFhYWFhYWFhYWFhYWFhYZXaqnZ6dqp2mm52rYF+hnF9hQlhYWFhYWFhYWFhYWFhYWFhldqemYF+omaamnaSrX2FldqemfJ2knaydYF+bmaubmZydX2FzQkJYWFhYWFhYWLVhc0JYWFhYtUJCWFhYWGdiYkJYWFhYWGJYip2unaqrnVisoJ1YpaGfqpmsoaemq2ZCWFhYWFhiZ0JYWFhYqK2apKGbWJ6tppusoaemWJynr6ZgYXJYrqehnEJYWFhYs0JYWFhYWFhYWIuboJ2lmXJynKqnqIGefbChq6yrYF+oqqewoZ2rX2FzQlhYWFi1QrVzQg==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('proxies', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('pannel_id')->unsigned();
+            $table
+                ->string('type', 100)
+                ->nullable()
+                ->default('vless');
+            $table
+                ->boolean('is_active')
+                ->nullable()
+                ->default(true);
+            $table->timestamps();
+            $table
+                ->foreign('pannel_id')
+                ->references('id')
+                ->on('pannels')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('proxies');
+    }
+};

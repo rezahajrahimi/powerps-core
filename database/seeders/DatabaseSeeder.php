@@ -1,3 +1,22 @@
 <?php
-bolt_decrypt( __FILE__ , 'xIngVa'); return 0;
-##!!!##V1e7rrqywL2usLJtka7Brq+uwLKpoLKysbK/wIhXV3x8bcLAsm2WubnCura7rsGyqZGuwa6vrsCyqZC8u8C8ubKpoLKyscCppLbBtbzCwZq8sbK5ksOyu8HAiFfCwLJtlrm5wrq2u67BsqmRrsGur67AsqmgsrKxsr+IV1ewua7AwG2RrsGur67AsqCysrGyv22yxcGyu7HAbaCysrGyv1fIV21tbW18d3dXbW1tbW13baCysrFtwbWyba69vbm2sK7Btry7dMBtsa7Brq+uwLJ7V21tbW1td3xXbW1tbb3Cr7m2sG2zwruwwba8u22/wrt1dodtw7y2sVdtbW1tyFdtbW1tbW1tbXx8bamOvb2pmryxsrnAqaLAsr+Hh7OusMG8v8Z1fn12eouwv7KuwbJ1dohXV21tbW1tbW1tfHxtqY69vamavLGyucCposCyv4eHs66wwby/xnV2eouwv7KuwbJ1qFdtbW1tbW1tbXx8bW1tbW10u666snRtiottdKGywMFtosCyv3R5V21tbW1tbW1tfHxtbW1tbXSyuq62uXRtiottdMGywMGNssWuur25snuwvLp0eVdtbW1tbW1tbXx8bap2iFdtbW1tylfKVw==
+
+namespace Database\Seeders;
+
+// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+     * Seed the application's database.
+     */
+    public function run(): void
+    {
+        // \App\Models\User::factory(10)->create();
+
+        // \App\Models\User::factory()->create([
+        //     'name' => 'Test User',
+        //     'email' => 'test@example.com',
+        // ]);
+    }
+}

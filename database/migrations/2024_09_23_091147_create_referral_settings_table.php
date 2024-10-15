@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'qrOxq8'); return 0;
-##!!!##XV3IxrhznL+/yMC8wbTHuK+XtMe0tbTGuK+gvLrFtMe8wsHGr6C8usW0x7zCwY5dyMa4c5y/v8jAvMG0x7ivl7THtLW0xrivpra7uMC0r5W/yLjDxbzBx45dyMa4c5y/v8jAvMG0x7ivpsjDw8LFx6+ZtLa0t7jGr6a2u7jAtI5dXcW4x8jFwXPBuMpztr+0xsZzuMvHuMG3xnOgvLrFtMe8wsFzzl1zc3Nzgn19XXNzc3NzfXOlyMFzx7u4c8C8usW0x7zCwcaBXXNzc3NzfYJdc3Nzc8PItb+8tnO5yMG2x7zCwXPIw3t8jXPJwry3XXNzc3POXXNzc3Nzc3Nzpra7uMC0jY22xbi0x7h7esW4ubjFxbS/ssa4x8e8wbrGen9zucjBtse8wsFze5W/yLjDxbzBx3N3x7S1v7h8c85dc3Nzc3Nzc3Nzc3Nzd8e0tb+4gJG8t3t8jl1zc3Nzc3Nzc3Nzc3N3x7S1v7iAkce4y8d7ere4xrbFvMPHvMLBenyAkbe4ubTIv8d7eiv7K/pzK/orBCsGK/os13Mr+i7fLNlzLNcu3yzZLfxzK/ss2nMrAizbKwYr/Sv6LNlzKwEs2ysCK99zK/sr+nMs2isEcyv7K/orBHMs2yv6KwQu3ysFLt9zK/Us2SzaK/or33Mr+izYK/0u3yv6KwVzK/stAi7fKwQu3ysCgXp8jl1zc3Nzc3Nzc3Nzc3N3x7S1v7iAkce4y8d7esm8xrzHsra0xbeyx7jLx3p8gJG3uLm0yL/He3pD8uf4LNQrBCzbKwdzLBErBCzbLfwrBi7fcyv6KwEr/SsIK/orCC7fcyv7K/pzK/srBCzbKwUr/SsELt8s2XMsESsELNsr/S38LNdzLNor+nOvxa/Bc0Py4uNzLNUr+iv7LNdzK/orBiv9LNQr+isCLNpzKwIrBHMr/SzXLQIrBCv6LNhzLNtzK/0s2Cv6LNgu33MrAisGK/0tAiv6LNpzLNor+nMr+yzacysMLNks2yv6LNlzLNQu3yzXK/0rBCsHLfws2XOvxa/BczXiA3Mr/Sv/LNou3ysFcysHKwIs2nMr+yv6cy38K/os2S38Kwcs2XMs2izbKwcs2CzZKwJzeyv7Lt8rB3Mr+isFc4WDcysGKwQs2ysEcyv7KwQr+i7fcyzaKwRzLfwr+isEK/srBHxzr8WvwXND8ub/LNQr+izVKwJzLNorBHMtAizbLNks2nMr/Sv7LNcu3ysNK/or/XRzr8WvwXM17+dCC+IsESsHK/0u3yv7K/os2S7fcy4FLgeCLgpzr8WvwXM17BEr+ysCLNss2XMs1SsKKwwu33Ms23Mt/CzZKwIu33MrBisEKwwr/XOvxa/BQ/LlA3MrASsELt8rAo1zr8WvwXp8jl1zc3Nzc3Nzc3Nzc3N3x7S1v7iAkcbHxbzBunt6vMC0uriyxsW2en9zhYiIfICRwci/v7S1v7h7fICRt7i5tMi/x3t6x7jLx3p8jl1zc3Nzc3Nzc3Nzc3N3x7S1v7iAkbfCyLW/uHt6xbi5uMXFtL+yw7jFtrjBx3p/c4SIf3OFfICRt7i5tMi/x3uEg4GDfI5dc3Nzc3Nzc3Nzc3Nzd8e0tb+4gJG1wsK/uLTBe3q8xrK0tse8ybh6fICRt7i5tMi/x3vHxci4fI5dXXNzc3Nzc3Nzc3Nzc3fHtLW/uICRx7zAuMbHtMDDxnt8jl1zc3Nzc3Nzc9B8jl1zc3Nz0F1dc3Nzc4J9fV1zc3Nzc31zpbjJuMXGuHPHu7hzwLy6xbTHvMLBxoFdc3Nzc3N9gl1zc3Nzw8i1v7y2c7nIwbbHvMLBc7fCysF7fI1zycK8t11zc3Nzzl1zc3Nzc3Nzc6a2u7jAtI2Nt8XCw5y5mMu8xsfGe3rFuLm4xcW0v7LGuMfHvMG6xnp8jl1zc3Nz0F3Qjl0=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('referral_settings', function (Blueprint $table) {
+            $table->id();
+            $table->string('description', 255)->nullable()->default('text');
+            $table->string('visit_card_text', 255)->nullable()->default('text');
+            $table->string('image_src', 255)->nullable()->default('text');
+            $table->double('referral_percent', 15, 2)->default(10.0);
+            $table->boolean('is_active')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('referral_settings');
+    }
+};

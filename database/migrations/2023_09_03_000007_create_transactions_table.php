@@ -1,3 +1,45 @@
 <?php
-bolt_decrypt( __FILE__ , 'rEFfIr'); return 0;
-##!!!##KCiTkYM+Z4qKk4uHjH+Sg3pif5J/gH+Rg3prh4WQf5KHjYyRemuHhZB/koeNjFkok5GDPmeKipOLh4x/koN6Yn+Sf4B/kYN6cYGGg4t/emCKk4OOkIeMklkok5GDPmeKipOLh4x/koN6cZOOjo2Qknpkf4F/goORenGBhoOLf1koKJCDkpOQjD6Mg5U+gYp/kZE+g5aSg4yCkT5rh4WQf5KHjYw+mSg+Pj4+TUhIKD4+Pj4+SD5wk4w+koaDPouHhZB/koeNjJFMKD4+Pj4+SE0oPj4+Po6TgIqHgT6Ek4yBkoeNjD6TjkZHWD6UjYeCKD4+Pj6ZKD4+Pj4+Pj4+cYGGg4t/WFiBkIN/koNGRZKQf4yRf4GSh42MkUVKPoSTjIGSh42MPkZgipODjpCHjJI+QpJ/gIqDRz6ZKD4+Pj4+Pj4+Pj4+PkKSf4CKg0tch4JGR1koPj4+Pj4+Pj4+Pj4+QpJ/gIqDS1yAh4VnjJKDhYOQRkV/gYGNk4ySfYeCRUdLXJOMkYeFjIOCRkdZKD4+Pj4+Pj4+Pj4+PkKSf4CKg0tckZKQh4yFRkWTkYOQjH+Lg0VHWSg+Pj4+Pj4+Pj4+Pj5Ckn+AioNLXICHhWeMkoOFg5BGRX+LjZOMkkVHWSg+Pj4+Pj4+Pj4+Pj5Ckn+AioNLXICHhWeMkoOFg5BGRY5/l4uDjJJ9kpeOg32HgkVHS1yTjJGHhYyDgkZHWSgoPj4+Pj4+Pj4+Pj4+QpJ/gIqDKD4+Pj4+Pj4+Pj4+Pj4+Pj5LXICNjYqDf4xGRYGNjISHkIuDgkVHKD4+Pj4+Pj4+Pj4+Pj4+Pj5LXIyTiop/gIqDRkcoPj4+Pj4+Pj4+Pj4+Pj4+PktcgoOEf5OKkkaEf4qRg0dZKD4+Pj4+Pj4+Pj4+PkKSf4CKgyg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yRkpCHjIVGRZCDgYeOg32Mk4uAg5BFRyg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yMk4qKf4CKg0ZHKD4+Pj4+Pj4+Pj4+Pj4+Pj5LXIKDhH+TipJGRU5FR1koPj4+Pj4+Pj4+Pj4+QpJ/gIqDS1ySh4uDkZJ/i46RRkdZKCg+Pj4+Pj4+Pj4+Pj5Ckn+AioMoPj4+Pj4+Pj4+Pj4+Pj4+PktchI2Qg4eFjEZFjn+Xi4OMkn2Sl46DfYeCRUcoPj4+Pj4+Pj4+Pj4+Pj4+PktckIOEg5CDjIGDkUZFh4JFRyg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yNjEZFjn+Xi4OMkn2Sl46DkUVHS1yNjGKDioOSg0ZFgX+RgX+Cg0VHWSgoPj4+Pj4+Pj6bR1koPj4+PpsoKD4+Pj5NSEgoPj4+Pj5IPnCDlIOQkYM+koaDPouHhZB/koeNjJFMKD4+Pj4+SE0oPj4+Po6TgIqHgT6Ek4yBkoeNjD6CjZWMRkdYPpSNh4IoPj4+PpkoPj4+Pj4+Pj5xgYaDi39YWIKQjY5nhGOWh5GSkUZFkpB/jJF/gZKHjYyRRUdZKD4+Pj6bKJtZKA==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('transactions', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->unsigned();
+            $table->string('username');
+            $table->bigInteger('amount');
+            $table->bigInteger('payment_type_id')->unsigned();
+
+            $table
+                ->boolean('confirmed')
+                ->nullable()
+                ->default(false);
+            $table
+                ->string('recipe_number')
+                ->nullable()
+                ->default('0');
+            $table->timestamps();
+
+            $table
+                ->foreign('payment_type_id')
+                ->references('id')
+                ->on('payment_types')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('transactions');
+    }
+};

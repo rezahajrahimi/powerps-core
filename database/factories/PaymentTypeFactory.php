@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'KgVIyy'); return 0;
-##!!!##TU2xpLCotrOkpqhjh6S3pKWktqifiaSmt7K1rKi2fk1NuLaoY4yvr7iwrLGkt6ifh6S3pKWktqifiK+ytLiosbefiaSmt7K1rKi2n4mkpreytbx+TU1ybW1NY21jg6i7t6ixp7Zjn4yvr7iwrLGkt6ifh6S3pKWktqifiK+ytLiosbefiaSmt7K1rKi2n4mkpreytbx/n4Szs5+Qsqeor7afk6S8sKixt5e8s6iBTWNtck2mr6S2tmOTpLywqLG3l7yzqImkpreytbxjqLu3qLGntmOJpKa3srW8Tb5NY2NjY3JtbU1jY2NjY21jh6iprLGoY7erqGOwsqeor2q2Y6eoqaS4r7djtrekt6hxTWNjY2NjbU1jY2NjY21jg7Wot7i1sWOktbWkvH+2t7WssapvY7Csu6ingU1jY2NjY21yTWNjY2OzuKWvrKZjqbixpressrFjp6iprLGst6yysWtsfWOktbWkvE1jY2Njvk1jY2NjY2NjY7Wot7i1sWOeTWNjY2NjY2NjY2NjY3JyTWNjY2NjY2NjoH5NY2NjY8BNwE0=
+
+namespace Database\Factories;
+
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+/**
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\PaymentType>
+ */
+class PaymentTypeFactory extends Factory
+{
+    /**
+     * Define the model's default state.
+     *
+     * @return array<string, mixed>
+     */
+    public function definition(): array
+    {
+        return [
+            //
+        ];
+    }
+}

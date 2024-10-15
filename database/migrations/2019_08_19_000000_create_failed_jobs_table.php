@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'HFve0c'); return 0;
-##!!!##BgZxb2EcRWhocWllal1wYVhAXXBdXl1vYVhJZWNuXXBla2pvWEllY25dcGVrajcGcW9hHEVoaHFpZWpdcGFYQF1wXV5db2FYT19kYWldWD5ocWFsbmVqcDcGcW9hHEVoaHFpZWpdcGFYT3FsbGtucFhCXV9dYGFvWE9fZGFpXTcGBm5hcHFuahxqYXMcX2hdb28cYXRwYWpgbxxJZWNuXXBla2oGdwYcHBwcKyYmBhwcHBwcJhxOcWoccGRhHGllY25dcGVram8qBhwcHBwcJisGHBwcHGxxXmhlXxxicWpfcGVrahxxbCQlNhxya2VgBhwcHBx3BhwcHBwcHBwcT19kYWldNjZfbmFdcGEkI2JdZWhhYFtma15vIygcYnFqX3Bla2ocJD5ocWFsbmVqcBwgcF1eaGElHHcGHBwcHBwcHBwcHBwcIHBdXmhhKTplYCQlNwYcHBwcHBwcHBwcHBwgcF1eaGEpOm9wbmVqYyQjcXFlYCMlKTpxamVtcWEkJTcGHBwcHBwcHBwcHBwcIHBdXmhhKTpwYXRwJCNfa2pqYV9wZWtqIyU3BhwcHBwcHBwcHBwcHCBwXV5oYSk6cGF0cCQjbXFhcWEjJTcGHBwcHBwcHBwcHBwcIHBdXmhhKTpoa2pjUGF0cCQjbF11aGtdYCMlNwYcHBwcHBwcHBwcHBwgcF1eaGEpOmhramNQYXRwJCNhdF9hbHBla2ojJTcGHBwcHBwcHBwcHBwcIHBdXmhhKTpwZWlhb3BdaWwkI2JdZWhhYFtdcCMlKTpxb2E/cW5uYWpwJCU3BhwcHBwcHBwceSU3BhwcHBx5BgYcHBwcKyYmBhwcHBwcJhxOYXJhbm9hHHBkYRxpZWNuXXBla2pvKgYcHBwcHCYrBhwcHBxscV5oZV8cYnFqX3Bla2ocYGtzaiQlNhxya2VgBhwcHBx3BhwcHBwcHBwcT19kYWldNjZgbmtsRWJBdGVvcG8kI2JdZWhhYFtma15vIyU3BhwcHBx5Bnk3Bg==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('failed_jobs', function (Blueprint $table) {
+            $table->id();
+            $table->string('uuid')->unique();
+            $table->text('connection');
+            $table->text('queue');
+            $table->longText('payload');
+            $table->longText('exception');
+            $table->timestamp('failed_at')->useCurrent();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('failed_jobs');
+    }
+};

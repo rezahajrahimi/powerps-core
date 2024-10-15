@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'CXEZp2'); return 0;
-##!!!##5uZRT0H8JUhIUUlFSj1QQTggPVA9Pj1PQTgpRUNOPVBFS0pPOClFQ049UEVLShfmUU9B/CVISFFJRUo9UEE4ID1QPT49T0E4Lz9EQUk9OB5IUUFMTkVKUBfmUU9B/CVISFFJRUo9UEE4L1FMTEtOUDgiPT89QEFPOC8/REFJPRfm5k5BUFFOSvxKQVP8P0g9T0/8QVRQQUpAT/wpRUNOPVBFS0rmV+b8/Pz8CwYG5vz8/Pz8BvwuUUr8UERB/ElFQ049UEVLSk8K5vz8/Pz8Bgvm/Pz8/ExRPkhFP/xCUUo/UEVLSvxRTAQFFvxSS0VA5vz8/PxX5vz8/Pz8/Pz8Lz9EQUk9FhZQPT5IQQQDP05VTFBLO0w9VUlBSlBPAwj8QlFKP1BFS0r8BB5IUUFMTkVKUPwAUD0+SEEF/Ffm/Pz8/Pz8/Pz8/Pz8AFA9PkhBCRo+S0tIQT1KBANFTzs9P1BFUkEDBQkaSlFISD0+SEEEBQkaQEFCPVFIUARQTlFBBRfm/Pz8/Pz8/PxZBRfm/Pz8/Fnm5vz8/PwLBgbm/Pz8/PwG/C5BUkFOT0H8UERB/ElFQ049UEVLSk8K5vz8/Pz8Bgvm/Pz8/ExRPkhFP/xCUUo/UEVLSvxAS1NKBAUW/FJLRUDm/Pz8/Ffm/Pz8/Pz8/PwvP0RBST0WFlA9PkhBBAM/TlVMUEs7TD1VSUFKUE8DCPxCUUo/UEVLSvwEHkhRQUxORUpQ/ABQPT5IQQX8V+b8/Pz8/Pz8/Pz8/PwLC+b8/Pz8/Pz8/FkFF+b8/Pz8WeZZF+Y=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('crypto_payments', function (Blueprint $table) {
+            $table->boolean('is_active')->nullable()->default(true);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('crypto_payments', function (Blueprint $table) {
+            //
+        });
+    }
+};

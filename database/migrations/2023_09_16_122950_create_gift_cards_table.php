@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'wxi8oh'); return 0;
-##!!!##cXHc2syHsNPT3NTQ1cjbzMOryNvIycjazMO00M7ZyNvQ1tXaw7TQztnI29DW1aJx3NrMh7DT09zU0NXI28zDq8jbyMnI2szDusrPzNTIw6nT3MzX2dDV26Jx3NrMh7DT09zU0NXI28zDutzX19bZ28OtyMrIy8zaw7rKz8zUyKJxcdnM29zZ1YfVzN6HytPI2tqHzN/bzNXL2oe00M7ZyNvQ1tVx4nGHh4eHlpGRcYeHh4eHkYe53NWH28/Mh9TQztnI29DW1dqVcYeHh4eHkZZxh4eHh9fcydPQyofN3NXK29DW1Yfc14+QoYfd1tDLcYeHh4ficYeHh4eHh4eHusrPzNTIoaHK2czI28yPjs7QzdvGysjZy9qOk4fN3NXK29DW1YePqdPczNfZ0NXbh4vbyMnTzJCH4nGHh4eHh4eHh4eHh4eL28jJ08yUpdDLj5CicYeHh4eHh4eHh4eHh4vbyMnTzJSl2tvZ0NXOj47K1svMjpOHmJeXkJSl3NXQ2NzMj5CicYeHh4eHh4eHh4eHh4vbyMnTzJSly8jbzI+O2tvI2dvGy8jbzI6QlKXV3NPTyMnTzI+QonGHh4eHh4eHh4eHh4eL28jJ08yUpcvI28yPjszVy8bLyNvMjpCUpdXc09PIydPMj5CicYeHh4eHh4eHh4eHh4vbyMnTzJSl0NXbzM7M2Y+Oy9Daytbc1duOkJSl3NXa0M7VzMuPkJSly8zNyNzT24+Yl5eXkKJxh4eHh4eHh4eHh4eHi9vIydPMlKXQ1dvMzszZj47K1tzV28bWzcbc2syOkJSl3NXa0M7VzMuPkJSly8zNyNzT24+YkKJxh4eHh4eHh4eHh4eHi9vIydPMlKXQ1dvMzszZj47K1tzV28bWzcbc2szG18zZxtzazNmOkJSl3NXa0M7VzMuPkJSly8zNyNzT24+YkKJxh4eHh4eHh4eHh4eHi9vIydPMlKXb0NTM2tvI1Nfaj5CicYeHh4eHh4eH5JCicYeHh4fkcXGHh4eHlpGRcYeHh4eHkYe5zN3M2drMh9vPzIfU0M7ZyNvQ1tXalXGHh4eHh5GWcYeHh4fX3MnT0MqHzdzVytvQ1tWHy9be1Y+QoYfd1tDLcYeHh4ficYeHh4eHh4eHusrPzNTIoaHL2dbXsM2s39Da29qPjs7QzdvGysjZy9qOkKJxh4eHh+Rx5KJx
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('gift_cards', function (Blueprint $table) {
+            $table->id();
+            $table->string('code', 100)->unique();
+            $table->date('start_date')->nullable();
+            $table->date('end_date')->nullable();
+            $table->integer('discount')->unsigned()->default(1000);
+            $table->integer('count_of_use')->unsigned()->default(1);
+            $table->integer('count_of_use_per_user')->unsigned()->default(1);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('gift_cards');
+    }
+};

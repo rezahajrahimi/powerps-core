@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'wNdwGG'); return 0;
-##!!!##ODijoZNOd5qao5uXnI+ik4pyj6KPkI+hk4p7l5Wgj6KXnZyhinuXlaCPopednGk4o6GTTneamqObl5yPopOKco+ij5CPoZOKgZGWk5uPinCao5OeoJecomk4o6GTTneamqObl5yPopOKgaOenp2goop0j5GPkpOhioGRlpObj2k4OKCToqOgnE6ck6VOkZqPoaFOk6aik5ySoU57l5Wgj6KXnZw4qThOTk5OXVhYOE5OTk5OWE6Ao5xOopaTTpuXlaCPopednKFcOE5OTk5OWF04Tk5OTp6jkJqXkU6Uo5yRopednE6jnlZXaE6knZeSOE5OTk6pOE5OTk5OTk5OgZGWk5uPaGiij5Cak1ZVnqCdkqORoqFVWk6Uo5yRopednE5WcJqjk56gl5yiTlKij5Cak1dOqThOTk5OTk5OTk5OTk5Soo+QmpNbbJCdnZqTj5xWVZKTj5Gil6STjZCnjY+Sm5ecVVdbbJKTlI+jmqJWlI+aoZNXaThOTk5OTk5OTqtXaThOTk5Oqzg4Tk5OTl1YWDhOTk5OTlhOgJOkk6Chk06ilpNOm5eVoI+il52coVw4Tk5OTk5YXThOTk5OnqOQmpeRTpSjnJGil52cTpKdpZxWV2hOpJ2XkjhOTk5OqThOTk5OTk5OToGRlpObj2hooo+QmpNWVZ6gnZKjkaKhVVpOlKOckaKXnZxOVnCao5OeoJecok5Soo+QmpNXTqk4Tk5OTk5OTk5OTk5OXV04Tk5OTk5OTk6rV2k4Tk5OTqs4q2k4
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('products', function (Blueprint $table) {
+            $table->boolean('deactive_by_admin')->default(false);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('products', function (Blueprint $table) {
+            //
+        });
+    }
+};

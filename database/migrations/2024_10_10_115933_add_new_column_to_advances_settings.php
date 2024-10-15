@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'j8Nl7i'); return 0;
-##!!!##BgZxb2EcRWhocWllal1wYVhAXXBdXl1vYVhJZWNuXXBla2pvWEllY25dcGVrajcGcW9hHEVoaHFpZWpdcGFYQF1wXV5db2FYT19kYWldWD5ocWFsbmVqcDcGcW9hHEVoaHFpZWpdcGFYT3FsbGtucFhCXV9dYGFvWE9fZGFpXTcGBm5hcHFuahxqYXMcX2hdb28cYXRwYWpgbxxJZWNuXXBla2oGdwYcHBwcKyYmBhwcHBwcJhxOcWoccGRhHGllY25dcGVram8qBhwcHBwcJisGHBwcHGxxXmhlXxxicWpfcGVrahxxbCQlNhxya2VgBhwcHBx3BhwcHBwcHBwcT19kYWldNjZwXV5oYSQjXWByXWpfYWBbb2FwcGVqY28jKBxicWpfcGVrahwkPmhxYWxuZWpwHCBwXV5oYSUcdwYcHBwcHBwcHBwcHBwgcF1eaGEpOl5ra2hhXWokI15rcFtfXWhfcWhdcGFbbG5rYHFfcFtfXXBhY2tudVtsbmVfYVtlaltga2hoXW5bXnVbcGtpXWojJSk6YGFiXXFocCRiXWhvYSU3BhwcHBwcHBwceSU3BhwcHBx5BgYcHBwcKyYmBhwcHBwcJhxOYXJhbm9hHHBkYRxpZWNuXXBla2pvKgYcHBwcHCYrBhwcHBxscV5oZV8cYnFqX3Bla2ocYGtzaiQlNhxya2VgBhwcHBx3BhwcHBwcHBwcT19kYWldNjZwXV5oYSQjXWByXWpfYWBbb2FwcGVqY28jKBxicWpfcGVrahwkPmhxYWxuZWpwHCBwXV5oYSUcdwYcHBwcHBwcHBwcHBwrKwYcHBwcHBwcHHklNwYcHBwceQZ5NwY=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('advanced_settings', function (Blueprint $table) {
+            $table->boolean('bot_calculate_product_category_price_in_dollar_by_toman')->default(false);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('advanced_settings', function (Blueprint $table) {
+            //
+        });
+    }
+};

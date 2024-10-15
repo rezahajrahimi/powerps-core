@@ -1,3 +1,39 @@
 <?php
-bolt_decrypt( __FILE__ , 'AvH9IP'); return 0;
-##!!!##29tGRDbxGj09Rj46PzJFNi0VMkUyMzJENi0eOjhDMkU6QD9ELR46OEMyRTpAPwzbRkQ28Ro9PUY+Oj8yRTYtFTJFMjMyRDYtJDQ5Nj4yLRM9RjZBQzo/RQzbRkQ28Ro9PUY+Oj8yRTYtJEZBQUBDRS0XMjQyNTZELSQ0OTY+Mgzb20M2RUZDP/E/NkjxND0yRETxNklFNj81RPEeOjhDMkU6QD/bTNvx8fHxAPv72/Hx8fHx+/EjRj/xRTk28T46OEMyRTpAP0T/2/Hx8fHx+wDb8fHx8UFGMz06NPE3Rj80RTpAP/FGQfn6C/FHQDo12/Hx8fFM2/Hx8fHx8fHxJDQ5Nj4yCws0QzYyRTb5+EU2REUwMjQ0QEY/RUT4/fE3Rj80RTpAP/H5Ez1GNkFDOj9F8fVFMjM9NvrxTNvx8fHx8fHx8fHx8fH1RTIzPTb+Dzo1+foM2/Hx8fHx8fHx8fHx8fVFMjM9Nv4PMzo4Gj9FNjg2Q/n4QTI/PzY9MDo1+Pr+D0Y/RDo4PzY1+foM2/Hx8fHx8fHx8fHx8fVFMjM9Nv4PNUBGMz02+fhHQD1GPjb4/fECBv3xA/r+Dz9GPT0yMz02+fr+DzU2NzJGPUX5AvoM2/Hx8fHx8fHx8fHx8fVFMjM9Ntvx8fHx8fHx8fHx8fHx8fHx/g86P0U2ODZD+fg2SUE6QzYwNTJK+Prb8fHx8fHx8fHx8fHx8fHx8f4PRj9EOjg/NjX5+tvx8fHx8fHx8fHx8fHx8fHx/g81NjcyRj1F+QQB+gzb2/Hx8fHx8fHx8fHx8fVFMjM9Nv4PRTo+NkRFMj5BRPn6DNvx8fHx8fHx8fHx8fH1RTIzPTbb8fHx8fHx8fHx8fHx8fHx8f4PN0BDNjo4P/n4QTI/PzY9MDo1+Prb8fHx8fHx8fHx8fHx8fHx8f4PQzY3NkM2PzQ2RPn4OjX4+tvx8fHx8fHx8fHx8fHx8fHx/g9AP/n4QTI/PzY9RPj6/g9APxU2PTZFNvn4NDJENDI1Nvj6DNvb8fHx8fHx8fFO+gzb8fHx8U7b2/Hx8fEA+/vb8fHx8fH78SM2RzZDRDbxRTk28T46OEMyRTpAP0T/2/Hx8fHx+wDb8fHx8UFGMz06NPE3Rj80RTpAP/E1QEg/+foL8UdAOjXb8fHx8Uzb8fHx8fHx8fEkNDk2PjILCzVDQEEaNxZJOkRFRPn4RTZERTAyNDRARj9FRPj6DNvx8fHxTttODNs=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('test_accounts', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('pannel_id')->unsigned();
+            $table->double('volume', 15, 2)->nullable()->default(1);
+            $table
+                ->integer('expire_day')
+                ->unsigned()
+                ->default(30);
+
+            $table->timestamps();
+            $table
+                ->foreign('pannel_id')
+                ->references('id')
+                ->on('pannels')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('test_accounts');
+    }
+};

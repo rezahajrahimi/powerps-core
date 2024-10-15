@@ -1,3 +1,29 @@
 <?php
-bolt_decrypt( __FILE__ , 'N0uKZm'); return 0;
-##!!!##Dw96eGolTnFxenJuc2Z5amFJZnlmZ2Z4amFSbmx3ZnludHN4YVJubHdmeW50c0APenhqJU5xcXpybnNmeWphSWZ5ZmdmeGphWGhtanJmYUdxemp1d25zeUAPenhqJU5xcXpybnNmeWphWHp1dXR3eWFLZmhmaWp4YVhobWpyZkAPD3dqeXp3cyVzanwlaHFmeHglan15anNpeCVSbmx3ZnludHMPgA8lJSUlNC8vDyUlJSUlLyVXenMleW1qJXJubHdmeW50c3gzDyUlJSUlLzQPJSUlJXV6Z3FuaCVrenNoeW50cyV6dS0uPyV7dG5pDyUlJSWADyUlJSUlJSUlWGhtanJmPz9od2pmeWotLGZoaHR6c3lkZ2ZxcWZzaGp4LDEla3pzaHludHMlLUdxemp1d25zeSUpeWZncWouJYAPJSUlJSUlJSUlJSUlKXlmZ3FqMkNuaS0uQA8lJSUlJSUlJSUlJSUpeWZncWoyQ2dubE5zeWpsanctLGZoaHR6c3lkbmksLjJDenN4bmxzamktLkAPJSUlJSUlJSUlJSUlKXlmZ3FqMkNnbmxOc3lqbGp3LSxnZnFxZnNoaiwuQA8lJSUlJSUlJSUlJSUpeWZncWoyQ3lucmp4eWZydXgtLkAPJSUlJSUlJSWCLkAPJSUlJYIPDyUlJSU0Ly8PJSUlJSUvJVdqe2p3eGoleW1qJXJubHdmeW50c3gzDyUlJSUlLzQPJSUlJXV6Z3FuaCVrenNoeW50cyVpdHxzLS4/JXt0bmkPJSUlJYAPJSUlJSUlJSVYaG1qcmY/P2l3dHVOa0p9bnh5eC0sZmhodHpzeWRnZnFxZnNoangsLkAPJSUlJYIPgkAP
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('account_ballances', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->unsigned();
+            $table->bigInteger('ballance');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('account_ballances');
+    }
+};

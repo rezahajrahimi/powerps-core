@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , '8FtFyJ'); return 0;
-##!!!##BQVwbmAbRGdncGhkaVxvYFc/XG9cXVxuYFdIZGJtXG9kamluV0hkYm1cb2RqaTYFcG5gG0RnZ3BoZGlcb2BXP1xvXF1cbmBXTl5jYGhcVz1ncGBrbWRpbzYFcG5gG0RnZ3BoZGlcb2BXTnBra2ptb1dBXF5cX2BuV05eY2BoXDYFBW1gb3BtaRtpYHIbXmdcbm4bYHNvYGlfbhtIZGJtXG9kamkFdgUbGxsbKiUlBRsbGxsbJRtNcGkbb2NgG2hkYm1cb2RqaW4pBRsbGxsbJSoFGxsbG2twXWdkXhthcGleb2RqaRtwayMkNRtxamRfBRsbGxt2BRsbGxsbGxsbTl5jYGhcNTVebWBcb2AjIl5jXGlpYGdaZ2peZlpoYGlwWmRvYGhuIicbYXBpXm9kamkbIz1ncGBrbWRpbxsfb1xdZ2AkG3YFGxsbGxsbGxsbGxsbH29cXWdgKDlkXyMkNgUbGxsbGxsbGxsbGxsfb1xdZ2AoOW5vbWRpYiMiaVxoYCInGywrKyQoOV9gYVxwZ28jImhcZGkiJDYFGxsbGxsbGxsbGxsbH29cXWdgKDlub21kaWIjIlxnZFxuWmlcaGAiJxssKyskKDlfYGFccGdvIyLTo9Os06LWhxvTotOu06XUfNOi06rUghvTotOtG9Os06PTotOlG9SA1ocb06PTotaH067TpRvTqtOsG9Wk06LUgdOi1H8b1ILTotaHG9Ot1ofTrBvTtNOx1IMb06PTotOv1ofTqikiJDYFGxsbGxsbGxsbGxsbH29cXWdgKDlkaW9gYmBtIyJnYHFgZyIkKDlwaW5kYmlgXyMkKDlpcGdnXF1nYCMkKDlfYGFccGdvIywkNgUFGxsbGxsbGxsbGxsbH29cXWdgKDlvZGhgbm9caGtuIyQ2BRsbGxsbGxsbeCQ2BRsbGxt4BQUbGxsbKiUlBRsbGxsbJRtNYHFgbW5gG29jYBtoZGJtXG9kamluKQUbGxsbGyUqBRsbGxtrcF1nZF4bYXBpXm9kamkbX2pyaSMkNRtxamRfBRsbGxt2BRsbGxsbGxsbTl5jYGhcNTVfbWprRGFAc2Rub24jIl5jXGlpYGdaZ2peZlpoYGlwWmRvYGhuIiQ2BRsbGxt4BXg2BQ==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('channel_lock_menu_items', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 100)->default('main');
+            $table->string('alias_name', 100)->default('برای استفاده از ربات می بایست در کانال های زیر عضو باشید.');
+            $table->integer('level')->unsigned()->nullable()->default(1);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('channel_lock_menu_items');
+    }
+};

@@ -1,9 +1,28 @@
 # PopwerPs-Core
+
 ## _main core of power proxy seller_
+
 # ربات فروشنده و وب اپلیکیشن برای فروش کانفیگ v2ray توسط پنل هیدیفای Hiddify
+
 ## _قسمت هسته و ربات سرویس_
 
-## Installation
+## Fast Installation
+
+Just run this command on your server
+
+Ubuntu 24.04 friendly
+
+```sh
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/rezahajrahimi/powerps-core-scripts/refs/heads/main/install.sh)" @ install
+```
+
+Also for mofify variables, go to this path
+
+```sh
+/var/www/html/laravel-app/.env
+```
+
+## Manual Installation
 
 powerps-core requires [powerps-webapp](https://github.com/rezahajrahimi/powerps-webapp) to run.
 

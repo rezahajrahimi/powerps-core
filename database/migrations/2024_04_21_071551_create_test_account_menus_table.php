@@ -13,9 +13,8 @@ return new class extends Migration
     {
         Schema::create('test_account_menus', function (Blueprint $table) {
             $table->id();
-            $table->string('name', 100)->nullable()->default('text');
-            $table->string('approved', 255)->default('اکانت آزمایشی شما با موفقیت فعال شد.');
-            $table->string('denied', 255)->default('اکانت آزمایشی از قبل برای شما فعال شده است، می توانید از سابقه خرید به اطلاعات آن دسترسی داشته باشید.');
+            $table->text('approved', 100)->default('اکانت آزمایشی شما با موفقیت فعال شد.');
+            $table->text('denied', 100)->default('اکانت آزمایشی از قبل برای شما فعال شده است، می توانید از سابقه خرید به اطلاعات آن دسترسی داشته باشید.');
 
             $table->timestamps();
         });

@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , 'hgAqXt'); return 0;
-##!!!##V1fCwLJtlrm5wrq2u67BsqmRrsGur67AsqmatrS/rsG2vLvAqZq2tL+uwba8u4hXwsCybZa5ucK6truuwbKpka7Brq+uwLKpoLC1srquqY+5wrK9v7a7wYhXwsCybZa5ucK6truuwbKpoMK9vby/wamTrrCusbLAqaCwtbK6rohXV7+ywcK/u227ssRtsLmuwMBtssXBsruxwG2atrS/rsG2vLtXyFdtbW1tfHd3V21tbW1td22fwrttwbWybbq2tL+uwba8u8B7V21tbW1td3xXbW1tbb3Cr7m2sG2zwruwwba8u23CvXV2h23DvLaxV21tbW3IV21tbW1tbW1toLC1srquh4ewv7KuwbJ1dLC/xr3BvKy9rsa6srvBwHR5bbPCu7DBtry7bXWPucKyvb+2u8FtccGur7mydm3IV21tbW1tbW1tbW1tbXHBrq+5snqLtrF1dohXbW1tbW1tbW1tbW1tccGur7myeovAwb+2u7R1dLuuurJ0eW1+fX12eou7wrm5rq+5snV2eouxsrOuwrnBdXS7vMS9rsa6srvBwHR2iFdtbW1tbW1tbW1tbW1xwa6vubJ6i8DBv7a7tHV0rr22rLiyxnR5bX+CgnZ6i7vCubmur7mydXaIV21tbW1tbW1tbW1tbXHBrq+5snqLwMG/tru0dXSyu8N0eW1/goJ2eou7wrm5rq+5snV2eouxsrOuwrnBdXS5tsOydHaIV21tbW1tbW1tbW1tbXHBrq+5snqLwMG/tru0dXSwrrm5r66wuKzCv7l0eW1/goJ2eou7wrm5rq+5snV2iFdtbW1tbW1tbW1tbW1xwa6vubJ6i8DBv7a7tHV0srqutrl0eW1/goJ2eou7wrm5rq+5snV2iFdtbW1tbW1tbW1tbW1xwa6vubJ6i8DBv7a7tHV0va7AwMS8v7F0eW1/goJ2eou7wrm5rq+5snV2iFdtbW1tbW1tbW1tbW1xwa6vubJ6i8DBv7a7tHV0tr27rLCuubmvrrC4rMK/uXR5bX+CgnZ6i7vCubmur7mydXaIV21tbW1tbW1tbW1tbXHBrq+5snqLwMG/tru0dXTAwrCwssDArMK/uXR5bX+CgnZ6i7vCubmur7mydXaIV21tbW1tbW1tbW1tbXHBrq+5snqLwMG/tru0dXSwrruwsrmswr+5dHltf4KCdnqLu8K5ua6vubJ1dohXbW1tbW1tbW1tbW1tccGur7myeovAwb+2u7R1dL2uv8G2rrm5xqy9rraxrMK/uXR5bX+CgnZ6i7vCubmur7mydXaIV21tbW1tbW1tbW1tbXHBrq+5snqLr7y8ubKuu3V0tsCss7bFsrGsv67BsnR2eou7wrm5rq+5snV2eouxsrOuwrnBdcG/wrJ2iFdtbW1tbW1tbW1tbW1xwa6vubJ6i6+8vLmyrrt1dLbArLOysqy9rraxrK/GrMLAsr90dnqLu8K5ua6vubJ1dnqLsbKzrsK5wXXBv8KydohXV21tbW1tbW1tbW1tbXHBrq+5snqLwba6ssDBrrq9wHV2iFdtbW1tbW1tbcp2iFdtbW1tyldXbW1tbXx3d1dtbW1tbXdtn7LDsr/Asm3BtbJtura0v67Btry7wHtXbW1tbW13fFdtbW1tvcKvubawbbPCu7DBtry7bbG8xLt1dodtw7y2sVdtbW1tyFdtbW1tbW1tbaCwtbK6roeHsb+8vZazksW2wMHAdXSwv8a9wbysva7GurK7wcB0dohXbW1tbcpXyohX
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('crypto_payments', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 100)->nullable()->default('nowpayments');
+            $table->string('api_key', 255)->nullable();
+            $table->string('env', 255)->nullable()->default('live');
+            $table->string('callback_url', 255)->nullable();
+            $table->string('email', 255)->nullable();
+            $table->string('password', 255)->nullable();
+            $table->string('ipn_callback_url', 255)->nullable();
+            $table->string('success_url', 255)->nullable();
+            $table->string('cancel_url', 255)->nullable();
+            $table->string('partially_paid_url', 255)->nullable();
+            $table->boolean('is_fixed_rate')->nullable()->default(true);
+            $table->boolean('is_fee_paid_by_user')->nullable()->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('crypto_payments');
+    }
+};

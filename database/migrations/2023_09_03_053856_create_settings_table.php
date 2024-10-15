@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'OFczzc'); return 0;
-##!!!##WVnEwrRvmLu7xLy4vbDDtKuTsMOwsbDCtKucuLbBsMO4vr3Cq5y4tsGww7i+vYpZxMK0b5i7u8S8uL2ww7Srk7DDsLGwwrSrorK3tLywq5G7xLS/wbi9w4pZxMK0b5i7u8S8uL2ww7SrosS/v77Bw6uVsLKws7TCq6Kyt7S8sIpZWcG0w8TBvW+9tMZvsruwwsJvtMfDtL2zwm+cuLbBsMO4vr1vyllvb29vfnl5WW9vb29veW+hxL1vw7e0b7y4tsGww7i+vcJ9WW9vb29veX5Zb29vb7/Esbu4sm+1xL2yw7i+vW/Ev3d4iW/FvrizWW9vb2/KWW9vb29vb29vorK3tLywiYmywbSww7R3dsK0w8O4vbbCdntvtcS9ssO4vr1vd5G7xLS/wbi9w29zw7Cxu7R4b8pZb29vb29vb29vb29vc8Owsbu0fI24s3d4illvb29vb29vb29vb29zw7Cxu7R8jcLDwbi9tnd2sb7Drr2wvLR2eHyNs7S1sMS7w3d2j8WBwbDIrsW4v661sMLDdniKWW9vb29vb29vb29vb3PDsLG7tHyNsbi2mL3DtLa0wXd2sLO8uL2uuLN2eHyNs7S1sMS7w3d/f3iKWVlvb29vb29vb29vb29zw7Cxu7R8jcLDwbi9tnd2sb7DrsO+urS9dnh8jbO0tbDEu8N3dsjEurqxuLexgYaEpLiAm5q0lr+noqXGdniKWW9vb29vb29vb29vb3PDsLG7tHyNwsPBuL22d3a/sL20u66ws7PBtMLCdnh8jbO0tbDEu8N3doCBhn1/fX99gImHf39/frCzvLi9dniKWW9vb29vb29vb29vb3PDsLG7tHyNwsPBuL22d3bGtLuyvry0rry0wsKwtrR2eHyNs7S1sMS7w3d2J/co1m8nACf3J/Yn+W8o1Cf2byf9KNcnA28n8SjUJ/4q2yf+fXZ4illZb29vb29vb29vb29vc8Owsbu0fI3DuLy0wsOwvL/Cd3iKWW9vb29vb29vzHiKWW9vb2/MWVlvb29vfnl5WW9vb29veW+htMW0wcK0b8O3tG+8uLbBsMO4vr3CfVlvb29vb3l+WW9vb2+/xLG7uLJvtcS9ssO4vr1vs77GvXd4iW/FvrizWW9vb2/KWW9vb29vb29vorK3tLywiYmzwb6/mLWUx7jCw8J3dsK0w8O4vbbCdniKWW9vb2/MWcyKWQ==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('settings', function (Blueprint $table) {
+            $table->id();
+            $table->string('bot_name')->default('@v2ray_vip_fast');
+            $table->bigInteger('admin_id')->default(00);
+
+            $table->string('bot_token')->default('yukkbihb275Ui1LKeGpXSVw');
+            $table->string('panel_address')->default('127.0.0.1:8000/admin');
+            $table->string('welcome_message')->default('به ربات ما خوش آمدید.');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('settings');
+    }
+};

@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , 'xarPeF'); return 0;
-##!!!##UFC7uatmj7Kyu7OvtKe6q6KKp7qnqKe5q6KTr624p7qvtbS5opOvrbinuq+1tIFQu7mrZo+ysruzr7Snuquiiqe6p6inuauimamuq7Onooiyu6u2uK+0uoFQu7mrZo+ysruzr7Snuquimbu2trW4uqKMp6mnqqu5opmprquzp4FQULiruru4tGa0q71mqbKnublmq766q7SquWaTr624p7qvtbRQwVBmZmZmdXBwUGZmZmZmcGaYu7Rmuq6rZrOvrbinuq+1tLl0UGZmZmZmcHVQZmZmZra7qLKvqWasu7Spuq+1tGa7tm5vgGa8ta+qUGZmZmbBUGZmZmZmZmZmmamuq7OngICpuKunuqtuba+0qLW7tKq5bXJmrLu0qbqvtbRmboiyu6u2uK+0umZquqeosqtvZsFQZmZmZmZmZmZmZmZmarqnqLKrc4Svqm5vgVBmZmZmZmZmZmZmZmZquqeosqtzhKivrY+0uqutq7hubba4tb6/pa+qbW9zhLu0ua+ttKuqbm+BUGZmZmZmZmZmZmZmZmq6p6iyq3OEubq4r7Stbm20p7OrbXJmd3Z2b4FQZmZmZmZmZmZmZmZmarqnqLKrc4S5urivtK1ubaqnuqdtcmZ3dnZvgVBmZmZmZmZmZmZmZmZquqeosqtQZmZmZmZmZmZmZmZmZmZmZnOEqLW1squntG5tr7mlp6m6r7yrbW9QZmZmZmZmZmZmZmZmZmZmZnOEtLuysqeosqtub1BmZmZmZmZmZmZmZmZmZmZmc4Sqq6ynu7K6brq4u6tvgVBQZmZmZmZmZmZmZmZmarqnqLKrc4S6r7Orubqns7a5bm+BUGZmZmZmZmZmZmZmZmq6p6iyq1BmZmZmZmZmZmZmZmZmZmZmc4Sstbirr620bm22uLW+v6Wvqm1vUGZmZmZmZmZmZmZmZmZmZmZzhLirrKu4q7Spq7luba+qbW9QZmZmZmZmZmZmZmZmZmZmZnOEtbRubba4tb6vq7ltb3OEtbSKq7Kruqtubamnuamnqqttb4FQUGZmZmZmZmZmw2+BUGZmZmbDUFBmZmZmdXBwUGZmZmZmcGaYq7yruLmrZrquq2azr624p7qvtbS5dFBmZmZmZnB1UGZmZma2u6iyr6lmrLu0qbqvtbRmqrW9tG5vgGa8ta+qUGZmZmbBUGZmZmZmZmZmmamuq7OngICquLW2j6yLvq+5urluba+0qLW7tKq5bW+BUGZmZmbDUMOBUA==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('inbounds', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('proxy_id')->unsigned();
+            $table->string('name', 100);
+            $table->string('data', 100);
+            $table
+                ->boolean('is_active')
+                ->nullable()
+                ->default(true);
+
+            $table->timestamps();
+            $table
+                ->foreign('proxy_id')
+                ->references('id')
+                ->on('proxies')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('inbounds');
+    }
+};

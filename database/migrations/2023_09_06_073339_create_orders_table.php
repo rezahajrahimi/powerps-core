@@ -1,3 +1,41 @@
 <?php
-bolt_decrypt( __FILE__ , 'G7enD9'); return 0;
-##!!!##2NhDQTPuFzo6Qzs3PC9CMyoSL0IvMC9BMyobNzVAL0I3PTxBKhs3NUAvQjc9PAnYQ0Ez7hc6OkM7NzwvQjMqEi9CLzAvQTMqITE2MzsvKhA6QzM+QDc8QgnYQ0Ez7hc6OkM7NzwvQjMqIUM+Pj1AQioULzEvMjNBKiExNjM7LwnY2EAzQkNAPO48M0XuMTovQUHuM0ZCMzwyQe4bNzVAL0I3PTzYSdju7u7u/fj42O7u7u7u+O4gQzzuQjYz7js3NUAvQjc9PEH82O7u7u7u+P3Y7u7u7j5DMDo3Me40QzwxQjc9PO5DPvb3CO5EPTcy2O7u7u5J2O7u7u7u7u7uITE2MzsvCAgxQDMvQjP29T1AMjNAQfX67jRDPDFCNz087vYQOkMzPkA3PELu8kIvMDoz9+5J2O7u7u7u7u7u7u7u7vJCLzA6M/sMNzL29wnY7u7u7u7u7u7u7u7u8kIvMDoz+wwwNzUXPEIzNTNA9vUvMTE9QzxCLTcy9ff7DEM8QTc1PDMy9vcJ2O7u7u7u7u7u7u7u7vJCLzA6M/sMMDc1FzxCMzUzQPb1PkA9MkMxQi0xL0IzNT1ANzNBLTcy9ff7DEM8QTc1PDMy9vcJ2O7u7u7u7u7u7u7u7vJCLzA6M/sMMDc1FzxCMzUzQPb1PkA9MkMxQi03MvX3+wxDPEE3NTwzMvb3Cdju7u7u7u7u7u7u7u7yQi8wOjP7DCFCQDc8Nfb1PUAyM0AtPEM7MDNA9ff7DEM8Nz9DM/b3CQnY7u7u7u7u7u7u7u7u8kIvMDoz+wwwNzUXPEIzNTNA9vU+QDcxM/X3Cdju7u7u7u7u7u7u7u7yQi8wOjPY7u7u7u7u7u7u7u7u7u7u7vsMND1AMzc1PPb1PkA9MkMxQi0xL0IzNT1ANzNBLTcy9ffY7u7u7u7u7u7u7u7u7u7u7vsMQDM0M0AzPDEzQfb1NzL199ju7u7u7u7u7u7u7u7u7u7u+ww9PPb1PkA9MkMxQi0xL0IzNT1ANzNB9ff7DD08EjM6M0Iz9vUxL0ExLzIz9fcJ2O7u7u7u7u7u7u7u7vJCLzA6M9ju7u7u7u7u7u7u7u7u7u7u+ww0PUAzNzU89vU+QD0yQzFCLTcy9ffY7u7u7u7u7u7u7u7u7u7u7vsMQDM0M0AzPDEzQfb1NzL199ju7u7u7u7u7u7u7u7u7u7u+ww9PPb1PkA9MkMxQkH19/sMPTwSMzozQjP29TEvQTEvMjP19wnY2O7u7u7u7u7u7u7u7vJCLzA6M/sMQjc7M0FCLzs+Qfb3Cdju7u7u7u7u7kv3Cdju7u7uS9jY7u7u7v34+Nju7u7u7vjuIDNEM0BBM+5CNjPuOzc1QC9CNz08QfzY7u7u7u74/dju7u7uPkMwOjcx7jRDPDFCNz087jI9RTz29wjuRD03Mtju7u7uSdju7u7u7u7u7iExNjM7LwgIMkA9Phc0E0Y3QUJB9vU9QDIzQEH19wnY7u7u7kvYSwnY
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('orders', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->unsigned();
+            $table->bigInteger('product_categories_id')->unsigned();
+            $table->bigInteger('product_id')->unsigned();
+            $table->String('order_number')->unique();;
+            $table->bigInteger('price');
+            $table
+                ->foreign('product_categories_id')
+                ->references('id')
+                ->on('product_categories')->onDelete('cascade');
+            $table
+                ->foreign('product_id')
+                ->references('id')
+                ->on('products')->onDelete('cascade');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('orders');
+    }
+};

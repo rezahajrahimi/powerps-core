@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'CE08hu'); return 0;
-##!!!##19dCQDLtFjk5Qjo2Oy5BMikRLkEuLy5AMikaNjQ/LkE2PDtAKRo2ND8uQTY8OwjXQkAy7RY5OUI6NjsuQTIpES5BLi8uQDIpIDA1MjouKQ85QjI9PzY7QQjXQkAy7RY5OUI6NjsuQTIpIEI9PTw/QSkTLjAuMTJAKSAwNTI6LgjX1z8yQUI/O+07MkTtMDkuQEDtMkVBMjsxQO0aNjQ/LkE2PDvtSNft7e3t/Pf31+3t7e3t9+0fQjvtQTUy7To2ND8uQTY8O0D71+3t7e3t9/zX7e3t7T1CLzk2MO0zQjswQTY8O+1CPfX2B+1DPDYx1+3t7e1I1+3t7e3t7e3tIDA1MjouBwcwPzIuQTL19C40MjtBLD0/PDFCMEFA9PntM0I7MEE2PDvt9Q85QjI9PzY7Qe3xQS4vOTL27UjX7e3t7e3t7e3t7e3t8UEuLzky+gs2MfX2CNft7e3t7e3t7e3t7e3xQS4vOTL6Cy82NBY7QTI0Mj/19D0/PDFCMEEsMC5BMjQ8PzYyQCw2MfT2+gtCO0A2NDsyMfX2CNft7e3t7e3t7e3t7e3xQS4vOTL6Cy82NBY7QTI0Mj/19EJAMj8sNjH09voLQjtANjQ7MjH19gjX7e3t7e3t7e3t7e3t8UEuLzky+gsvPDw5Mi479fQ2QCwuMEE2QzL09voLMTIzLkI5QfVBP0Iy9gjX7e3t7e3t7e3t7e3t8UEuLzky+gs2O0EyNDI/9fQ9PzYwMvT2+gtCO0A2NDsyMfX2+gs7Qjk5Li85MvX2+gsxMjMuQjlB9f32CNft7e3t7e3t7e3t7e3xQS4vOTL6CzEyMDY6Ljn19D0/NjAyLDY7LDE8OTkuP/T57QX57f/2+gs7Qjk5Li85MvX2+gsxMjMuQjlB9f37/fYI1+3t7e3t7e3t7e3t7fFBLi85MvoLQTY6MkBBLjo9QPX2CNft7e3t7e3t7e3t7e3xQS4vOTL6CzM8PzI2NDv19EJAMj8sNjH09voLO0I5OS4vOTL19voLPzIzMj8yOzAyQPX0NjH09voLPDv19EJAMj9A9Pb6Czw7ETI5MkEy9fQwLkAwLjEy9PYI1+3t7e3t7e3t7e3t7fFBLi85MvoLMzw/MjY0O/X0PT88MUIwQSwwLkEyNDw/NjJALDYx9Pb6CztCOTkuLzky9fb6Cz8yMzI/MjswMkD19DYx9Pb6Czw79fQ9PzwxQjBBLDAuQTI0PD82MkD09voLPDsRMjkyQTL19DAuQDAuMTL09gjX7e3t7e3t7e1K9gjX7e3t7UrX1+3t7e389/fX7e3t7e337R8yQzI/QDLtQTUy7To2ND8uQTY8O0D71+3t7e3t9/zX7e3t7T1CLzk2MO0zQjswQTY8O+0xPEQ79fYH7UM8NjHX7e3t7UjX7e3t7e3t7e0gMDUyOi4HBzE/PD0WMxJFNkBBQPX0LjQyO0EsPT88MUIwQUD09gjX7e3t7UrXSgjX
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('agent_products', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('product_categories_id')->unsigned();
+            $table->bigInteger('user_id')->unsigned();
+            $table->boolean('is_active')->default(true);
+            $table->integer('price')->unsigned()->nullable()->default(0);
+            $table->decimal('price_in_dollar', 8, 2)->nullable()->default(0.0);
+            $table->timestamps();
+            $table->foreign('user_id')->nullable()->references('id')->on('users')->onDelete('cascade');
+            $table->foreign('product_categories_id')->nullable()->references('id')->on('product_categories')->onDelete('cascade');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('agent_products');
+    }
+};

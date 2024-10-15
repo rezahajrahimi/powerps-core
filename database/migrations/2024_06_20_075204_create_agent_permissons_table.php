@@ -1,3 +1,36 @@
 <?php
-bolt_decrypt( __FILE__ , 'VV2fj7'); return 0;
-##!!!##7+9aWEoFLlFRWlJOU0ZZSkEpRllGR0ZYSkEyTkxXRllOVFNYQTJOTFdGWU5UUyDvWlhKBS5RUVpSTlNGWUpBKUZZRkdGWEpBOEhNSlJGQSdRWkpVV05TWSDvWlhKBS5RUVpSTlNGWUpBOFpVVVRXWUErRkhGSUpYQThITUpSRiDv71dKWVpXUwVTSlwFSFFGWFgFSl1ZSlNJWAUyTkxXRllOVFPvYO8FBQUFFA8P7wUFBQUFDwU3WlMFWU1KBVJOTFdGWU5UU1gT7wUFBQUFDxTvBQUFBVVaR1FOSAVLWlNIWU5UUwVaVQ0OHwVbVE5J7wUFBQVg7wUFBQUFBQUFOEhNSlJGHx9IV0pGWUoNDEZMSlNZRFVKV1JOWFhUU1gMEQVLWlNIWU5UUwUNJ1FaSlVXTlNZBQlZRkdRSg4FYO8FBQUFBQUFBQUFBQUJWUZHUUoSI05JDQ4g7wUFBQUFBQUFBQUFBQlZRkdRShIjR05MLlNZSkxKVw0MWlhKV0ROSQwOEiNaU1hOTFNKSQ0OIO8FBQUFBQUFBQUFBQUJWUZHUUoSI0dUVFFKRlMNDFJOU1pYREdGUVFGU0hKDA4SI1NaUVFGR1FKDQ4SI0lKS0ZaUVkNS0ZRWEoOIO8FBQUFBQUFBQUFBQUJWUZHUUoSI0dUVFFKRlMNDEhXSkZZSkRVV1RJWkhZWAwOEiNTWlFRRkdRSg0OEiNJSktGWlFZDUtGUVhKDiDvBQUFBQUFBQUFBQUFCVlGR1FKEiNHVFRRSkZTDQxJSlFKWUpEVVdUSVpIWVgMDhIjU1pRUUZHUUoNDhIjSUpLRlpRWQ1LRlFYSg4g7wUFBQUFBQUFBQUFBQlZRkdRShIjWU5SSlhZRlJVWA0OIO8FBQUFBQUFBQUFBQUJWUZHUUrvBQUFBQUFBQUFBQUFBQUFBRIjS1RXSk5MUw0MWlhKV0ROSQwO7wUFBQUFBQUFBQUFBQUFBQUSI1dKS0pXSlNISlgNDE5JDA7vBQUFBQUFBQUFBQUFBQUFBRIjVFMNDFpYSldYDA4SI1RTKUpRSllKDQxIRlhIRklKDA4g7+8FBQUFBQUFBWIOIO8FBQUFYu/vBQUFBRQPD+8FBQUFBQ8FN0pbSldYSgVZTUoFUk5MV0ZZTlRTWBPvBQUFBQUPFO8FBQUFVVpHUU5IBUtaU0hZTlRTBUlUXFMNDh8FW1ROSe8FBQUFYO8FBQUFBQUFBThITUpSRh8fSVdUVS5LKl1OWFlYDQxGTEpTWURVSldSTlhYVFNYDA4g7wUFBQVi72Ig7w==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('agent_permissons', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('user_id')->unsigned();
+            $table->boolean('minus_ballance')->nullable()->default(false);
+            $table->boolean('create_products')->nullable()->default(false);
+            $table->boolean('delete_products')->nullable()->default(false);
+            $table->timestamps();
+            $table
+                ->foreign('user_id')
+                ->references('id')
+                ->on('users')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('agent_permissons');
+    }
+};

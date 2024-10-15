@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'SA4lPA'); return 0;
-##!!!##z886OCrlDjExOjIuMyY5KiEJJjkmJyY4KiESLiw3JjkuNDM4IRIuLDcmOS40MwDPOjgq5Q4xMToyLjMmOSohCSY5JicmOCohGCgtKjImIQcxOio1Ny4zOQDPOjgq5Q4xMToyLjMmOSohGDo1NTQ3OSELJigmKSo4IRgoLSoyJgDPzzcqOTo3M+UzKjzlKDEmODjlKj05KjMpOOUSLiw3JjkuNDPPQM/l5eXl9O/vz+Xl5eXl7+UXOjPlOS0q5TIuLDcmOS40Mzjzz+Xl5eXl7/TP5eXl5TU6JzEuKOUrOjMoOS40M+U6Ne3u/+U7NC4pz+Xl5eVAz+Xl5eXl5eXlGCgtKjIm//8oNyomOSrt7DcqKyo3NyYxJDwmMTEqOTjs8eUrOjMoOS40M+XtBzE6KjU3LjM55ek5JicxKu7lQM/l5eXl5eXl5eXl5eXpOSYnMSryAy4p7e4Az+Xl5eXl5eXl5eXl5ek5JicxKvIDKzQ3Ki4sMw4p7ew3KisqNzcmMSQ6OCo3JC4p7O4Az+Xl5eXl5eXl5eXl5ek5JicxKvIDLjM5KiwqN+3sJjI0OjM57O7yAzozOC4sMyop7e7yAykqKyY6MTnt9e4Az+Xl5eXl5eXl5eXl5ek5JicxKvIDOS4yKjg5JjI1OO3uAM/l5eXl5eXl5eXl5eXpOSYnMSryAys0NyouLDPt7DcqKyo3NyYxJDo4KjckLins7vIDNyorKjcqMygqOO3sLins7vIDNDPt7Do4Kjc47O7yAzQzCSoxKjkq7ewoJjgoJikq7O4Az+Xl5eXl5eXlQu4Az+Xl5eVCz8/l5eXl9O/vz+Xl5eXl7+UXKjsqNzgq5TktKuUyLiw3JjkuNDM488/l5eXl5e/0z+Xl5eU1OicxLijlKzozKDkuNDPlKTQ8M+3u/+U7NC4pz+Xl5eVAz+Xl5eXl5eXlGCgtKjIm//8pNzQ1DisKPS44OTjt7DcqKyo3NyYxJDwmMTEqOTjs7gDP5eXl5ULPQgDP
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('referral_wallets', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('referral_user_id');
+            $table->integer('amount')->unsigned()->default(0);
+            $table->timestamps();
+            $table->foreign('referral_user_id')->references('id')->on('users')->onDelete('cascade');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('referral_wallets');
+    }
+};

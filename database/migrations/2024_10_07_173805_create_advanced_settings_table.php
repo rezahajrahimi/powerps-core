@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'CLWBMK'); return 0;
-##!!!##yso1MyXgCSwsNS0pLiE0JRwEITQhIiEzJRwNKScyITQpLy4zHA0pJzIhNCkvLvvKNTMl4AksLDUtKS4hNCUcBCE0ISIhMyUcEyMoJS0hHAIsNSUwMikuNPvKNTMl4AksLDUtKS4hNCUcEzUwMC8yNBwGISMhJCUzHBMjKCUtIfvKyjIlNDUyLuAuJTfgIywhMzPgJTg0JS4kM+ANKScyITQpLy7KO8rg4ODg7+rqyuDg4ODg6uASNS7gNCgl4C0pJzIhNCkvLjPuyuDg4ODg6u/K4ODg4DA1IiwpI+AmNS4jNCkvLuA1MOjp+uA2LykkyuDg4OA7yuDg4ODg4ODgEyMoJS0h+vojMiUhNCXo5yEkNiEuIyUkHzMlNDQpLicz5+zgJjUuIzQpLy7g6AIsNSUwMikuNODkNCEiLCXp4DvK4ODg4ODg4ODg4ODg5DQhIiwl7f4pJOjp+8rg4ODg4ODg4ODg4ODkNCEiLCXt/iIvLywlIS7o5yIvNB8zKC83HyMvLiYpJzMfIjkfMCEuJSwzHyMhNCUnLzI55+nt/iQlJiE1LDToJiEsMyXp+8rg4ODg4ODg4ODg4ODkNCEiLCXt/iIvLywlIS7o5yIvNB8hNTQvHzMlNB8wMikjJR8iOR8kLywsITIfMDIpIyXn6e3+JCUmITUsNOgmISwzJen7yuDg4ODg4ODg4ODg4OQ0ISIsJe3+Ii8vLCUhLujnIi80HzMoLzcfNyUiHyEwMB8sKS4rHykuHzQlLCUnMiEtHyYvMh8hLCwfNTMlMjPn6e3+JCUmITUsNOg0MjUl6fvKyuDg4ODg4ODg4ODg4OQ0ISIsJe3+NCktJTM0IS0wM+jp+8rg4ODg4ODg4D3p+8rg4ODgPcrK4ODg4O/q6srg4ODg4OrgEiU2JTIzJeA0KCXgLSknMiE0KS8uM+7K4ODg4ODq78rg4ODgMDUiLCkj4CY1LiM0KS8u4CQvNy7o6frgNi8pJMrg4ODgO8rg4ODg4ODg4BMjKCUtIfr6JDIvMAkmBTgpMzQz6OchJDYhLiMlJB8zJTQ0KS4nM+fp+8rg4ODgPco9+8o=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('advanced_settings', function (Blueprint $table) {
+            $table->id();
+            $table->boolean('bot_show_configs_by_panels_category')->default(false);
+            $table->boolean('bot_auto_set_price_by_dollar_price')->default(false);
+            $table->boolean('bot_show_web_app_link_in_telegram_for_all_users')->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('advanced_settings');
+    }
+};

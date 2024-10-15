@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'OVzw0u'); return 0;
-##!!!##RUWwrqBbhKensKikqZyvoJd/nK+cnZyuoJeIpKKtnK+kqqmul4ikoq2cr6SqqXZFsK6gW4Snp7CopKmcr6CXf5yvnJ2crqCXjp6joKicl32nsKCrraSpr3ZFsK6gW4Snp7CopKmcr6CXjrCrq6qtr5eBnJ6cn6Cul46eo6ConHZFRa2gr7CtqVupoLJbnqecrq5boLOvoKmfrluIpKKtnK+kqqlFtkVbW1tbamVlRVtbW1tbZVuNsKlbr6OgW6ikoq2cr6Sqqa5pRVtbW1tbZWpFW1tbW6uwnaeknluhsKmer6SqqVuwq2NkdVuxqqSfRVtbW1u2RVtbW1tbW1tbjp6joKicdXWeraCcr6BjYqeqoq5iZ1uhsKmer6SqqVtjfaewoKutpKmvW1+vnJ2noGRbtkVbW1tbW1tbW1tbW1tfr5ydp6BoeaSfY2R2RVtbW1tbW1tbW1tbW1+vnJ2noGh5rq+tpKmiY2KvtKugYmRoeamwp6ecnaegY2R2RVtbW1tbW1tbW1tbW1+vnJ2noGh5rq+tpKmiY2KooK6unKKgYmRoeamwp6ecnaegY2R2RVtbW1tbW1tbW1tbW1+vnJ2noGh5naSihKmvoKKgrWNinJ6eqrCpr5qkn2JkaHmpsKennJ2noGNkdkVbW1tbW1tbW1tbW1tfr5ydp6Boea6vraSpomNisK6gramcqKBiZGh5qbCnp5ydp6BjZHZFW1tbW1tbW1tbW1tbX6+cnaegaHmur62kqaJjYqCxoKmvYmRoeamwp6ecnaegY2R2RUVbW1tbW1tbW1tbW1tfr5ydp6Boea+kqKCur5yoq65jZHZFW1tbW1tbW1u4ZHZFW1tbW7hFRVtbW1tqZWVFW1tbW1tlW42gsaCtrqBbr6OgW6ikoq2cr6Sqqa5pRVtbW1tbZWpFW1tbW6uwnaeknluhsKmer6SqqVufqrKpY2R1W7GqpJ9FW1tbW7ZFW1tbW1tbW1uOnqOgqJx1dZ+tqquEoYCzpK6vrmNip6qirmJkdkVbW1tbuEW4dkU=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('logs', function (Blueprint $table) {
+            $table->id();
+            $table->string('type')->nullable();
+            $table->string('message')->nullable();
+            $table->bigInteger('account_id')->nullable();
+            $table->string('username')->nullable();
+            $table->string('event')->nullable();
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('logs');
+    }
+};

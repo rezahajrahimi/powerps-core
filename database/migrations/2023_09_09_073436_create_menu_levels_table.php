@@ -1,3 +1,29 @@
 <?php
-bolt_decrypt( __FILE__ , '8zLiQo'); return 0;
-##!!!##MTGcmoxHcJOTnJSQlYibjINriJuIiYiajIN0kI6ZiJuQlpWag3SQjpmIm5CWlWIxnJqMR3CTk5yUkJWIm4yDa4ibiImImoyDeoqPjJSIg2mTnIyXmZCVm2IxnJqMR3CTk5yUkJWIm4yDepyXl5aZm4NtiIqIi4yag3qKj4yUiGIxMZmMm5yZlUeVjJ5HipOImppHjJ+bjJWLmkd0kI6ZiJuQlpUxojFHR0dHVlFRMUdHR0dHUUd5nJVHm4+MR5SQjpmIm5CWlZpVMUdHR0dHUVYxR0dHR5eciZOQikeNnJWKm5CWlUecl09QYUedlpCLMUdHR0eiMUdHR0dHR0dHeoqPjJSIYWGKmYyIm4xPTpSMlZyGk4ydjJOaTlNHjZyVipuQlpVHT2mTnIyXmZCVm0dLm4iJk4xQR6IxR0dHR0dHR0dHR0dHS5uIiZOMVGWQi09QYjFHR0dHR0dHR0dHR0dLm4iJk4xUZYmQjnCVm4yOjJlPToiKipaclZuGkItOUFRli4yNiJyTm09XUGIxR0dHR0dHR0dHR0dHS5uIiZOMVGWQlZuMjoyZT06TjJ2Mk05QVGWLjI2InJObT1dQYjFHR0dHR0dHR0dHR0dLm4iJk4xUZZuQlIyam4iUl5pPUGIxR0dHR0dHR0ekUGIxR0dHR6QxMUdHR0dWUVExR0dHR0dRR3mMnYyZmoxHm4+MR5SQjpmIm5CWlZpVMUdHR0dHUVYxR0dHR5eciZOQikeNnJWKm5CWlUeLlp6VT1BhR52WkIsxR0dHR6IxR0dHR0dHR0d6io+MlIhhYYuZlpdwjWyfkJqbmk9OlIyVnIaTjJ2Mk5pOUGIxR0dHR6QxpGIx
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('menu_levels', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->default(0);
+            $table->integer('level')->default(0);
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('menu_levels');
+    }
+};

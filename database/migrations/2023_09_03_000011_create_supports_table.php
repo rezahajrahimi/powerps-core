@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'Ug2Ly8'); return 0;
-##!!!##9fVgXlALNFdXYFhUWUxfUEcvTF9MTUxeUEc4VFJdTF9UWlleRzhUUl1MX1RaWSb1YF5QCzRXV2BYVFlMX1BHL0xfTE1MXlBHPk5TUFhMRy1XYFBbXVRZXyb1YF5QCzRXV2BYVFlMX1BHPmBbW1pdX0cxTE5MT1BeRz5OU1BYTCb19V1QX2BdWQtZUGILTldMXl4LUGNfUFlPXgs4VFJdTF9UWln1ZvULCwsLGhUV9QsLCwsLFQs9YFkLX1NQC1hUUl1MX1RaWV4Z9QsLCwsLFRr1CwsLC1tgTVdUTgtRYFlOX1RaWQtgWxMUJQthWlRP9QsLCwtm9QsLCwsLCwsLPk5TUFhMJSVOXVBMX1ATEl5gW1taXV9eEhcLUWBZTl9UWlkLEy1XYFBbXVRZXwsPX0xNV1AUC2b1CwsLCwsLCwsLCwsLD19MTVdQGClUTxMUJvULCwsLCwsLCwsLCwsPX0xNV1AYKV5fXVRZUhMSXGBQXl9UWlkSFwsdIBsUJvULCwsLCwsLCwsLCwsPX0xNV1AYKV9QY18TEkxZXmJQXRIUJvULCwsLCwsLCwsLCwsPX0xNV1AYKV5fXVRZUhMSXVBeW1pZXlBKX2RbUBIXCxwbGxQYKVlgV1dMTVdQExQYKU9QUUxgV18TEl9QY18SFCb1CwsLCwsLCwsLCwsLD19MTVdQGClfVFhQXl9MWFteExQm9QsLCwsLCwsLaBQm9QsLCwto9fULCwsLGhUV9QsLCwsLFQs9UGFQXV5QC19TUAtYVFJdTF9UWlleGfULCwsLCxUa9QsLCwtbYE1XVE4LUWBZTl9UWlkLT1piWRMUJQthWlRP9QsLCwtm9QsLCwsLCwsLPk5TUFhMJSVPXVpbNFEwY1ReX14TEl5gW1taXV9eEhQm9QsLCwto9Wgm9Q==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('supports', function (Blueprint $table) {
+            $table->id();
+            $table->string('question', 250);
+            $table->text('answer');
+            $table->string('response_type', 100)->nullable()->default('text');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('supports');
+    }
+};

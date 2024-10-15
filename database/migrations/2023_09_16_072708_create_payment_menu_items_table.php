@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'ctXUFR'); return 0;
-##!!!##JiaRj4E8ZYiIkYmFin2QgXhgfZB9fn2PgXhphYOOfZCFi4qPeGmFg459kIWLilcmkY+BPGWIiJGJhYp9kIF4YH2QfX59j4F4b3+EgYl9eF6IkYGMjoWKkFcmkY+BPGWIiJGJhYp9kIF4b5GMjIuOkHhifX99gIGPeG9/hIGJfVcmJo6BkJGOijyKgZM8f4h9j488gZSQgYqAjzxphYOOfZCFi4omlyY8PDw8S0ZGJjw8PDw8RjxukYo8kISBPImFg459kIWLio9KJjw8PDw8RksmPDw8PIyRfoiFfzyCkYp/kIWLijyRjERFVjySi4WAJjw8PDyXJjw8PDw8PDw8b3+EgYl9VlZ/joF9kIFEQ4x9lYmBipB7iYGKkXuFkIGJj0NIPIKRin+QhYuKPEReiJGBjI6FipA8QJB9foiBRTyXJjw8PDw8PDw8PDw8PECQfX6IgUlahYBERVcmPDw8PDw8PDw8PDw8QJB9foiBSVqPkI6FioNEQ4p9iYFDSDxNTExFSVqAgYJ9kYiQREOJfYWKQ0VXJjw8PDw8PDw8PDw8PECQfX6IgUlaj5COhYqDREN9iIV9j3uKfYmBQ0g8TUxMRUlagIGCfZGIkERD9sv0zveo9aL1ozz12vTN9Mv0w/TK9MY89M30wzz0w/Wi9Mb0yvTD9MQ89sX1oveo9MtKQ0VXJjw8PDw8PDw8PDw8PECQfX6IgUlahYqQgYOBjkRDiIGSgYhDRUlakYqPhYOKgYBERUlaipGIiH1+iIFERUlagIGCfZGIkERNRVcmJjw8PDw8PDw8PDw8PECQfX6IgUlakIWJgY+QfYmMj0RFVyY8PDw8PDw8PJlFVyY8PDw8mSYmPDw8PEtGRiY8PDw8PEY8boGSgY6PgTyQhIE8iYWDjn2QhYuKj0omPDw8PDxGSyY8PDw8jJF+iIV/PIKRin+QhYuKPICLk4pERVY8kouFgCY8PDw8lyY8PDw8PDw8PG9/hIGJfVZWgI6LjGWCYZSFj5CPREOMfZWJgYqQe4mBipF7hZCBiY9DRVcmPDw8PJkmmVcm
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('payment_menu_items', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 100)->default('main');
+            $table->string('alias_name', 100)->default('گزینه پرداخت را انتخاب کنید.');
+            $table->integer('level')->unsigned()->nullable()->default(1);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('payment_menu_items');
+    }
+};

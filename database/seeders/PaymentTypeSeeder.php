@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'B5Uol1'); return 0;
-##!!!##4uJGOUU9S0g5Oz34HDlMOTo5Sz00Kz09PD1KSxPi4k1LPfghRERNRUFGOUw9NBw5TDk6OUs9NBtHRktHRD00Kz09PEs0L0FMQEdNTCVHPD1EHU49RkxLE+JNSz34IURETUVBRjlMPTQcOUw5OjlLPTQrPT08PUoT4uI7RDlLS/goOVFFPUZMLFFIPSs9PTw9Svg9UEw9RjxL+Cs9PTw9SuJT4vj4+PgHAgLi+Pj4+PgC+CpNRvhMQD34PDlMOTo5Sz34Sz09PEsG4vj4+Pj4Agfi+Pj4+EhNOkRBO/g+TUY7TEFHRvhKTUYAARL4TkdBPOL4+Pj4U+L4+Pj4+Pj4+AcH4vj4+PhV4lXi
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+
+class PaymentTypeSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+        //
+    }
+}

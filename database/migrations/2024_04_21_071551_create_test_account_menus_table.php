@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'MGfT2s'); return 0;
-##!!!##/f1oZlgTPF9faGBcYVRnWE83VGdUVVRmWE9AXFplVGdcYmFmT0BcWmVUZ1xiYS79aGZYEzxfX2hgXGFUZ1hPN1RnVFVUZlhPRlZbWGBUTzVfaFhjZVxhZy79aGZYEzxfX2hgXGFUZ1hPRmhjY2JlZ085VFZUV1hmT0ZWW1hgVC79/WVYZ2hlYRNhWGoTVl9UZmYTWGtnWGFXZhNAXFplVGdcYmH9bv0TExMTIh0d/RMTExMTHRNFaGETZ1tYE2BcWmVUZ1xiYWYh/RMTExMTHSL9ExMTE2NoVV9cVhNZaGFWZ1xiYRNoYxscLRNpYlxX/RMTExNu/RMTExMTExMTRlZbWGBULS1WZVhUZ1gbGmdYZmdSVFZWYmhhZ1JgWGFoZhofE1loYVZnXGJhExs1X2hYY2VcYWcTF2dUVV9YHBNu/RMTExMTExMTExMTExdnVFVfWCAxXFcbHC79ExMTExMTExMTExMTF2dUVV9YIDFnWGtnGxpUY2NlYmlYVxofEyQjIxwgMVdYWVRoX2cbGsuazZzLmsx5y50Ty5XLpcx4y5rOf8unzn8Ty6fMeMuaE8uby5oTzHjMe8x0zHXOf8udE8x0y6zLmsx3E8uny6IhGhwu/RMTExMTExMTExMTExdnVFVfWCAxZ1hrZxsaV1hhXFhXGh8TJCMjHCAxV1hZVGhfZxsay5rNnMuazHnLnRPLlculzHjLms5/y6fOfxPLmsulE8x1y5vMdxPLm8uky5rOfxPLp8x4y5oTzHTLrMuazHcTy6fLosx6E8uay6bLnct/E8x4zn8Ty53Me8uazHnOf8uiE8uay6UTy6bLmsubzHXMehPLocukzn/LohPLm8x6E8uay6rMd8uay6zLmsudE8uVzHkTy6LLpsudy6TLps5/E8uiy5rLp8udzHoTy5vLmsunzn/LoiEaHC79/RMTExMTExMTExMTExdnVFVfWCAxZ1xgWGZnVGBjZhscLv0TExMTExMTE3AcLv0TExMTcP39ExMTEyIdHf0TExMTEx0TRVhpWGVmWBNnW1gTYFxaZVRnXGJhZiH9ExMTExMdIv0TExMTY2hVX1xWE1loYVZnXGJhE1diamEbHC0TaWJcV/0TExMTbv0TExMTExMTE0ZWW1hgVC0tV2ViYzxZOGtcZmdmGxpnWGZnUlRWVmJoYWdSYFhhaGYaHC79ExMTE3D9cC79
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('test_account_menus', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 100)->nullable()->default('text');
+            $table->string('approved', 255)->default('اکانت آزمایشی شما با موفقیت فعال شد.');
+            $table->string('denied', 255)->default('اکانت آزمایشی از قبل برای شما فعال شده است، می توانید از سابقه خرید به اطلاعات آن دسترسی داشته باشید.');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('test_account_menus');
+    }
+};

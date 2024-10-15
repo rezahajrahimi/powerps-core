@@ -1,3 +1,35 @@
 <?php
-bolt_decrypt( __FILE__ , '3ptRMc'); return 0;
-##!!!##IyOOjH45YoWFjoaCh3qNfnVdeo16e3qMfnVmgoCLeo2CiIeMdWaCgIt6jYKIh1Qjjox+OWKFhY6Ggod6jX51XXqNent6jH51bHyBfoZ6dVuFjn6Ji4KHjVQjjox+OWKFhY6Ggod6jX51bI6JiYiLjXVfenx6fX6MdWx8gX6GelQjI4t+jY6LhzmHfpA5fIV6jIw5fpGNfod9jDlmgoCLeo2CiIcjlCM5OTk5SENDIzk5OTk5Qzlrjoc5jYF+OYaCgIt6jYKIh4xHIzk5OTk5Q0gjOTk5OYmOe4WCfDl/jod8jYKIhzmOiUFCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5bHyBfoZ6U1N8i356jX5BQI6Mfn14jX6MjXh6fHyIjoeNjEBFOX+Oh3yNgoiHOUFbhY5+iYuCh405PY16e4V+QjmUIzk5OTk5OTk5OTk5OT2NenuFfkZXgn1BQlQjOTk5OTk5OTk5OTk5PY16e4V+Rld7goBih41+gH6LQUCNfoyNeHp8fIiOh414gn1AQkZXjoeMgoCHfn1BQlQjOTk5OTk5OTk5OTk5PY16e4V+Rld7goBih41+gH6LQUB6fHyIjoeNeIJ9QEJUIyM5OTk5OTk5OTk5OTk9jXp7hX5GV42Chn6MjXqGiYxBQlQjOTk5OTk5OTk5OTk5PY16e4V+Izk5OTk5OTk5OTk5OTk5OTlGV3+Ii36CgIdBQI1+jI14enx8iI6HjXiCfUBCIzk5OTk5OTk5OTk5OTk5OTlGV4t+f36Lfod8foxBQIJ9QEIjOTk5OTk5OTk5OTk5OTk5OUZXiIdBQI1+jI14enx8iI6HjYxAQkZXiIddfoV+jX5BQHx6jHx6fX5AQlQjIzk5OTk5OTk5lkJUIzk5OTmWIyM5OTk5SENDIzk5OTk5Qzlrfo9+i4x+OY2BfjmGgoCLeo2CiIeMRyM5OTk5OUNIIzk5OTmJjnuFgnw5f46HfI2CiIc5fYiQh0FCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5bHyBfoZ6U1N9i4iJYn9ekYKMjYxBQI6Mfn14jX6MjXh6fHyIjoeNjEBCVCM5OTk5liOWVCM=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('used_test_accounts', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('test_account_id')->unsigned();
+            $table->bigInteger('account_id');
+
+            $table->timestamps();
+            $table
+                ->foreign('test_account_id')
+                ->references('id')
+                ->on('test_accounts')->onDelete('cascade');
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('used_test_accounts');
+    }
+};

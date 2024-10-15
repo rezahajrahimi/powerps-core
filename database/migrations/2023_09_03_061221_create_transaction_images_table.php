@@ -1,3 +1,38 @@
 <?php
-bolt_decrypt( __FILE__ , 'fyogqz'); return 0;
-##!!!##qqoVEwXA6QwMFQ0JDgEUBfzkARQBAgETBfztCQcSARQJDw4T/O0JBxIBFAkPDtuqFRMFwOkMDBUNCQ4BFAX85AEUAQIBEwX88wMIBQ0B/OIMFQUQEgkOFNuqFRMFwOkMDBUNCQ4BFAX88xUQEA8SFPzmAQMBBAUT/PMDCAUNAduqqhIFFBUSDsAOBRfAAwwBExPABRgUBQ4EE8DtCQcSARQJDw7AG6rAwMDAz8rKqsDAwMDAysDyFQ7AFAgFwA0JBxIBFAkPDhPOqsDAwMDAys+qwMDAwBAVAgwJA8AGFQ4DFAkPDsAVEMjJ2sAWDwkEqsDAwMAbqsDAwMDAwMDA8wMIBQ0B2toDEgUBFAXIxxQSAQ4TAQMUCQ8O/wkNAQcFE8fMwAYVDgMUCQ8OwMjiDBUFEBIJDhTAxBQBAgwFycAbqsDAwMDAwMDAwMDAwMQUAQIMBc3eCQTIyduqwMDAwMDAwMDAwMDAxBQBAgwFzd4CCQfpDhQFBwUSyMcBAwMPFQ4U/wkEx8nN3hUOEwkHDgUEyMnbqqrAwMDAwMDAwMDAwMDEFAECDAXN3gIJB+kOFAUHBRLIxxQSAQ4TAQMUCQ8O/wkEx8nN3hUOEwkHDgUEyMnbqsDAwMDAwMDAwMDAwMQUAQIMBc3eFAUYFMjHCQ0H/xMSA8fJzd4OFQwMAQIMBcjJ26rAwMDAwMDAwMDAwMDEFAECDAXN3hQFGBTIxxUTBRL/FAUYFMfJzd4OFQwMAQIMBcjJ26qqwMDAwMDAwMDAwMDAxBQBAgwFqsDAwMDAwMDAwMDAwMDAwMDN3gYPEgUJBw7IxxQSAQ4TAQMUCQ8O/wkEx8mqwMDAwMDAwMDAwMDAwMDAwM3eEgUGBRIFDgMFE8jHCQTHyarAwMDAwMDAwMDAwMDAwMDAzd4PDsjHFBIBDhMBAxQJDw4Tx8nN3g8O5AUMBRQFyMcDARMDAQQFx8nbqqqqwMDAwMDAwMDAwMDAxBQBAgwFzd4UCQ0FExQBDRATyMnbqsDAwMDAwMDAHcnbqsDAwMAdqqrAwMDAz8rKqsDAwMDAysDyBRYFEhMFwBQIBcANCQcSARQJDw4TzqrAwMDAwMrPqsDAwMAQFQIMCQPABhUOAxQJDw7ABA8XDsjJ2sAWDwkEqsDAwMAbqsDAwMDAwMDA8wMIBQ0B2toEEg8Q6QblGAkTFBPIxxQSAQ4TAQMUCQ8O/wkNAQcFE8fJ26rAwMDAHaod26o=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('transaction_images', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id')->unsigned();
+
+            $table->bigInteger('transaction_id')->unsigned();
+            $table->text('img_src')->nullable();
+            $table->text('user_text')->nullable();
+
+            $table
+                ->foreign('transaction_id')
+                ->references('id')
+                ->on('transactions')->onDelete('cascade');
+
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('transaction_images');
+    }
+};

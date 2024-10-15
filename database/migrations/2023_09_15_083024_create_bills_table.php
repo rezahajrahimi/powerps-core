@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'QsMqqO'); return 0;
-##!!!##TEy3tadii66ut6+rsKO2p56Go7ajpKO1p56Pq6m0o7arsbC1no+rqbSjtquxsH1Mt7WnYouurrevq7CjtqeehqO2o6SjtaeelaWqp6+jnoSut6eytKuwtn1Mt7WnYouurrevq7CjtqeelbeysrG0tp6Io6Wjpqe1npWlqqevo31MTLSntre0sGKwp7lipa6jtbVip7q2p7CmtWKPq6m0o7arsbBMvUxiYmJicWxsTGJiYmJibGKUt7BitqqnYq+rqbSjtquxsLVwTGJiYmJibHFMYmJiYrK3pK6rpWKot7CltquxsGK3smprfGK4saumTGJiYmK9TGJiYmJiYmJilaWqp6+jfHyltKejtqdqaaSrrq61aW5iqLewpbarsbBiaoSut6eytKuwtmJmtqOkrqdrYr1MYmJiYmJiYmJiYmJiZrajpK6nb4CrpmprfUxiYmJiYmJiYmJiYmJmtqOkrqdvgKSrqYuwtqepp7RqaaOlpbG3sLahq6Zpa31MYmJiYmJiYmJiYmJiZrajpK6nb4Ckq6mLsLanqae0ammkq66uoaumaWtvgLewq7O3p2prfUxiYmJiYmJiYmJiYmJmtqOkrqdvgKSrqYuwtqepp7RqaaOvsbewtmlrfUxMYmJiYmJiYmJiYmJiZrajpK6nb4C2q6+ntbajr7K1amt9TGJiYmJiYmJiv2t9TExiYmJiv0xMYmJiYnFsbExiYmJiYmxilKe4p7S1p2K2qqdir6uptKO2q7GwtXBMYmJiYmJscUxiYmJisrekrqulYqi3sKW2q7GwYqaxubBqa3xiuLGrpkxiYmJivUxiYmJiYmJiYpWlqqevo3x8prSxsouoh7qrtba1ammkq66utWlrfUxiYmJiv0y/fUw=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('bills', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('account_id');
+            $table->bigInteger('bill_id')->unique();
+            $table->bigInteger('amount');
+
+            $table->timestamps();
+        });
+
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('bills');
+    }
+};

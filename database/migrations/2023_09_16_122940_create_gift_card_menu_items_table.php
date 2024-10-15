@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'z4YwSP'); return 0;
-##!!!##KyuWlIZBao2Nlo6Kj4KVhn1lgpWCg4KUhn1uioiTgpWKkI+UfW6KiJOClYqQj1wrlpSGQWqNjZaOio+ClYZ9ZYKVgoOClIZ9dISJho6CfWONloaRk4qPlVwrlpSGQWqNjZaOio+ClYZ9dJaRkZCTlX1ngoSChYaUfXSEiYaOglwrK5OGlZaTj0GPhphBhI2ClJRBhpmVho+FlEFuioiTgpWKkI8rnCtBQUFBUEtLK0FBQUFBS0Fzlo9BlYmGQY6KiJOClYqQj5RPK0FBQUFBS1ArQUFBQZGWg42KhEGHlo+ElYqQj0GWkUlKW0GXkIqFK0FBQUGcK0FBQUFBQUFBdISJho6CW1uEk4aClYZJSIiKh5WAhIKThYCOho+WgIqVho6USE1Bh5aPhJWKkI9BSWONloaRk4qPlUFFlYKDjYZKQZwrQUFBQUFBQUFBQUFBRZWCg42GTl+KhUlKXCtBQUFBQUFBQUFBQUFFlYKDjYZOX5SVk4qPiElIj4KOhkhNQVJRUUpOX4WGh4KWjZVJSI6Cio9ISlwrQUFBQUFBQUFBQUFBRZWCg42GTl+UlZOKj4hJSIKNioKUgI+CjoZITUFSUVFKTl+FhoeClo2VSUj7yvnQQfnL+c/6ovyt+qJB+dL5yPqp+cj50vnQQfvK+qf8rfnQT0hKXCtBQUFBQUFBQUFBQUFFlYKDjYZOX4qPlYaIhpNJSI2Gl4aNSEpOX5aPlIqIj4aFSUpOX4+WjY2Cg42GSUpOX4WGh4KWjZVJUkpcKytBQUFBQUFBQUFBQUFFlYKDjYZOX5WKjoaUlYKOkZRJSlwrQUFBQUFBQUGeSlwrQUFBQZ4rK0FBQUFQS0srQUFBQUFLQXOGl4aTlIZBlYmGQY6KiJOClYqQj5RPK0FBQUFBS1ArQUFBQZGWg42KhEGHlo+ElYqQj0GFkJiPSUpbQZeQioUrQUFBQZwrQUFBQUFBQUF0hImGjoJbW4WTkJFqh2aZipSVlElIiIqHlYCEgpOFgI6Gj5aAipWGjpRISlwrQUFBQZ4rnlwr
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('gift_card_menu_items', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 100)->default('main');
+            $table->string('alias_name', 100)->default('کد تخفیف راوارد کنید.');
+            $table->integer('level')->unsigned()->nullable()->default(1);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('gift_card_menu_items');
+    }
+};

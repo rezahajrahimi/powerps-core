@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '7RauKC'); return 0;
-##!!!##9/diYFINNllZYlpWW05hUkkxTmFOT05gUkk6VlRfTmFWXFtgSTpWVF9OYVZcWyj3YmBSDTZZWWJaVltOYVJJMU5hTk9OYFJJQFBVUlpOSS9ZYlJdX1ZbYSj3YmBSDTZZWWJaVltOYVJJQGJdXVxfYUkzTlBOUVJgSUBQVVJaTij3919SYWJfWw1bUmQNUFlOYGANUmVhUltRYA06VlRfTmFWXFv3aPcNDQ0NHBcX9w0NDQ0NFw0/YlsNYVVSDVpWVF9OYVZcW2Ab9w0NDQ0NFxz3DQ0NDV1iT1lWUA1TYltQYVZcWw1iXRUWJw1jXFZR9w0NDQ1o9w0NDQ0NDQ0NQFBVUlpOJydhTk9ZUhUUYV9OW2BOUGFWXFtgFBkNU2JbUGFWXFsNFS9ZYlJdX1ZbYQ0RYU5PWVIWDWj3DQ0NDQ0NDQ0NDQ0NEWFOT1lSGitRXGJPWVIVFE5aXGJbYUxRXFlZTl8UGQ0eIhkNHxYaK1tiWVlOT1lSFRYaK1FSU05iWWEVHRsdHRYo9w0NDQ0NDQ0NahYo9w0NDQ1q9/cNDQ0NHBcX9w0NDQ0NFw0/UmNSX2BSDWFVUg1aVlRfTmFWXFtgG/cNDQ0NDRcc9w0NDQ1dYk9ZVlANU2JbUGFWXFsNUVxkWxUWJw1jXFZR9w0NDQ1o9w0NDQ0NDQ0NQFBVUlpOJydhTk9ZUhUUYV9OW2BOUGFWXFtgFBkNU2JbUGFWXFsNFS9ZYlJdX1ZbYQ0RYU5PWVIWDWj3DQ0NDQ0NDQ0NDQ0NHBz3DQ0NDQ0NDQ1qFij3DQ0NDWr3aij3
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::table('transactions', function (Blueprint $table) {
+            $table->double('amount_dollar', 15, 2)->nullable()->default(0.00);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::table('transactions', function (Blueprint $table) {
+            //
+        });
+    }
+};

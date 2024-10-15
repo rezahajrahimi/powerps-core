@@ -1,3 +1,39 @@
 <?php
-bolt_decrypt( __FILE__ , 'FKh2T5'); return 0;
-##!!!##vr4pJxnU/SAgKSEdIhUoGRD4FSgVFhUnGRABHRsmFSgdIyInEAEdGyYVKB0jIu++KScZ1P0gICkhHSIVKBkQ+BUoFRYVJxkQBxccGSEVEPYgKRkkJh0iKO++KScZ1P0gICkhHSIVKBkQBykkJCMmKBD6FRcVGBknEAcXHBkhFe++viYZKCkmItQiGSvUFyAVJyfUGSwoGSIYJ9QBHRsmFSgdIyK+L77U1NTU497evtTU1NTU3tQGKSLUKBwZ1CEdGyYVKB0jIifivtTU1NTU3uO+1NTU1CQpFiAdF9QaKSIXKB0jItQpJNzd7tQqIx0YvtTU1NQvvtTU1NTU1NTUBxccGSEV7u4XJhkVKBnc2xUkJCAdFxUoHSMiJ9vg1BopIhcoHSMi1Nz2ICkZJCYdIijU2CgVFiAZ3dQvvtTU1NTU1NTU1NTU1NgoFRYgGeHyHRjc3e++1NTU1NTU1NTU1NTU2CgVFiAZ4fInKCYdIhvc2yIVIRnb3e++1NTU1NTU1NTU1NTU2CgVFiAZ4fIoGSwo3NsYIysiICMVGBMgHSIf293h8iIpICAVFiAZ3N3vvtTU1NTU1NTU1NTU1NgoFRYgGeHyJygmHSIb3NsaHSAZEycmF9vd4fIiKSAgFRYgGdzd777U1NTU1NTU1NTU1NTYKBUWIBnh8icoJh0iG9zbIyfb3eHyIikgIBUWIBnc3eHyGBkaFSkgKNzbFSIYJiMdGNvd777U1NTU1NTU1NTU1NTYKBUWIBnh8igZLCjc2xwjKxMoIxMpJxnb3eHyIikgIBUWIBnc3e++1NTU1NTU1NTU1NTU2CgVFiAZ4fIoGSwo3NsYGScXJh0kKB0jItvd4fIiKSAgFRYgGdzd777U1NTU1NTU1NTU1NTYKBUWIBnh8igZLCjc2y0jKSgpFhkTIB0iH9vd4fIiKSAgFRYgGdzd777U1NTU1NTU1NTU1NTYKBUWIBm+1NTU1NTU1NTU1NTU1NTU1OHyFiMjIBkVItzbHScTFRcoHSoZ292+1NTU1NTU1NTU1NTU1NTU1OHyIikgIBUWIBnc3b7U1NTU1NTU1NTU1NTU1NTU4fIYGRoVKSAo3CgmKRnd776+1NTU1NTU1NTU1NTU2CgVFiAZ4fIoHSEZJygVISQn3N3vvtTU1NTU1NTUMd3vvtTU1NQxvr7U1NTU497evtTU1NTU3tQGGSoZJicZ1CgcGdQhHRsmFSgdIyIn4r7U1NTU1N7jvtTU1NQkKRYgHRfUGikiFygdIyLUGCMrItzd7tQqIx0YvtTU1NQvvtTU1NTU1NTUBxccGSEV7u4YJiMk/Rr5LB0nKCfc2xUkJCAdFxUoHSMiJ9vd777U1NTUMb4x774=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('applications', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->text('download_link')->nullable();
+            $table->string('file_src')->nullable();
+            $table->string('os')->nullable()->default('android');
+            $table->text('how_to_use')->nullable();
+            $table->text('description')->nullable();
+            $table->text('youtube_link')->nullable();
+            $table
+                ->boolean('is_active')
+                ->nullable()
+                ->default(true);
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('applications');
+    }
+};

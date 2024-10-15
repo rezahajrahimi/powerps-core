@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'J0UgqY'); return 0;
-##!!!##Cgp1c2UgSWxsdW1pbmF0ZVxEYXRhYmFzZVxNaWdyYXRpb25zXE1pZ3JhdGlvbjsKdXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcU2NoZW1hXEJsdWVwcmludDsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFNjaGVtYTsKCnJldHVybiBuZXcgY2xhc3MgZXh0ZW5kcyBNaWdyYXRpb24KewogICAgLyoqCiAgICAgKiBSdW4gdGhlIG1pZ3JhdGlvbnMuCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cCgpOiB2b2lkCiAgICB7CiAgICAgICAgU2NoZW1hOjpjcmVhdGUoJ2Nyb25fbG9ncycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+aWQoKTsKICAgICAgICAgICAgJHRhYmxlLT5iaWdJbnRlZ2VyKCdjcm9uX2lkJyktPnVuc2lnbmVkKCk7CiAgICAgICAgICAgICR0YWJsZS0+YmlnSW50ZWdlcigncHJvZHVjdF9pZCcpLT51bnNpZ25lZCgpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdjcm9uX2lkJyktPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdjcm9uX2pvYnMnKS0+b25EZWxldGUoJ2Nhc2NhZGUnKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdwcm9kdWN0X2lkJyktPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdwcm9kdWN0cycpLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwoKCiAgICAgICAgfSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBSZXZlcnNlIHRoZSBtaWdyYXRpb25zLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZG93bigpOiB2b2lkCiAgICB7CiAgICAgICAgU2NoZW1hOjpkcm9wSWZFeGlzdHMoJ2Nyb25fbG9ncycpOwogICAgfQp9Owo=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('cron_logs', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('cron_id')->unsigned();
+            $table->bigInteger('product_id')->unsigned();
+            $table->timestamps();
+            $table->foreign('cron_id')->references('id')->on('cron_jobs')->onDelete('cascade');
+            $table->foreign('product_id')->references('id')->on('products')->onDelete('cascade');
+
+
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('cron_logs');
+    }
+};

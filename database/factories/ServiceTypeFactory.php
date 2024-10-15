@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , '4gOGvL'); return 0;
-##!!!##/f1hVGBYZmNUVlgTN1RnVFVUZlhPOVRWZ2JlXFhmLv39aGZYEzxfX2hgXGFUZ1hPN1RnVFVUZlhPOF9iZGhYYWdPOVRWZ2JlXFhmTzlUVmdiZWwu/f0iHR39Ex0TM1hrZ1hhV2YTTzxfX2hgXGFUZ1hPN1RnVFVUZlhPOF9iZGhYYWdPOVRWZ2JlXFhmTzlUVmdiZWwvTzRjY09AYldYX2ZPRlhlaVxWWEdsY1gx/RMdIv1WX1RmZhNGWGVpXFZYR2xjWDlUVmdiZWwTWGtnWGFXZhM5VFZnYmVs/W79ExMTEyIdHf0TExMTEx0TN1hZXGFYE2dbWBNgYldYXxpmE1dYWVRoX2cTZmdUZ1gh/RMTExMTHf0TExMTEx0TM2VYZ2hlYRNUZWVUbC9mZ2VcYVofE2Bca1hXMf0TExMTEx0i/RMTExNjaFVfXFYTWWhhVmdcYmETV1hZXGFcZ1xiYRscLRNUZWVUbP0TExMTbv0TExMTExMTE2VYZ2hlYRNO/RMTExMTExMTExMTEyIi/RMTExMTExMTUC79ExMTE3D9cP0=
+
+namespace Database\Factories;
+
+use Illuminate\Database\Eloquent\Factories\Factory;
+
+/**
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\ServiceType>
+ */
+class ServiceTypeFactory extends Factory
+{
+    /**
+     * Define the model's default state.
+     *
+     * @return array<string, mixed>
+     */
+    public function definition(): array
+    {
+        return [
+            //
+        ];
+    }
+}

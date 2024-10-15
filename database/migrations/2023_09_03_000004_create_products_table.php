@@ -1,3 +1,37 @@
 <?php
-bolt_decrypt( __FILE__ , 'uMxQW7'); return 0;
-##!!!##IyOOjH45YoWFjoaCh3qNfnVdeo16e3qMfnVmgoCLeo2CiIeMdWaCgIt6jYKIh1Qjjox+OWKFhY6Ggod6jX51XXqNent6jH51bHyBfoZ6dVuFjn6Ji4KHjVQjjox+OWKFhY6Ggod6jX51bI6JiYiLjXVfenx6fX6MdWx8gX6GelQjI4t+jY6LhzmHfpA5fIV6jIw5fpGNfod9jDlmgoCLeo2CiIcjlCM5OTk5SENDOYmLiH2OfI14fHqNfoCIi4J+jCM5OTk5OUM5a46HOY2BfjmGgoCLeo2CiIeMRyM5OTk5OUNIIzk5OTmJjnuFgnw5f46HfI2CiIc5jolBQlM5j4iCfSM5OTk5lCM5OTk5OTk5OWx8gX6GelNTfIt+eo1+QUCJi4h9jnyNjEBFOX+Oh3yNgoiHOUFbhY5+iYuCh405PY16e4V+QjmUIzk5OTk5OTk5OTk5OT2NenuFfkZXgn1BQlQjOTk5OTk5OTk5OTk5PY16e4V+Rld7goBih41+gH6LQUCJi4h9jnyNeHx6jX6AiIuCfox4gn1AQkZXjoeMgoCHfn1BQlQjOTk5OTk5OTk5OTk5PY16e4V+Rld7goBih41+gH6LQUB6fHyIjoeNeIJ9QEJGV46HjIKAh359QUJGV4eOhYV6e4V+QUJUIzk5OTk5OTk5OTk5OT2NenuFfkZXjX6RjUFAfIiHf4KAjEBCRleHjoWFenuFfkFCVCM5OTk5OTk5OTk5OTk9jXp7hX5GV41+kY1BQIyOe4x8i4KJjYKIh3iFgoeEQEJGV4eOhYV6e4V+QUJUIzk5OTk5OTk5OTk5OT2NenuFfkZXjX6RjUFAiXqHfoV4hYKHhEBCRleHjoWFenuFfkFCVCM5OTk5OTk5OTk5OTk9jXp7hX5GV3uIiIV+eodBQIKMWnyNgo9+QEJGV31+f3qOhY1BjYuOfkJUIzk5OTk5OTk5OTk5OT2NenuFfiM5OTk5OTk5OTk5OTk5OTk5Rld/iIt+goCHQUCJi4h9jnyNeHx6jX6AiIuCfox4gn1AQiM5OTk5OTk5OTk5OTk5OTk5RleLfn9+i36HfH6MQUCCfUBCIzk5OTk5OTk5OTk5OTk5OTlGV4iHQUCJi4h9jnyNeHx6jX6AiIuCfoxAQkZXiIddfoV+jX5BQHx6jHx6fX5AQlQjOTk5OTk5OTk5OTk5PY16e4V+RleNgoZ+jI16homMQUJUIzk5OTk5OTk5lkJUIzk5OTmWIyM5OTk5SENDIzk5OTk5Qzlrfo9+i4x+OY2BfjmGgoCLeo2CiIeMRyM5OTk5OUNIIzk5OTmJjnuFgnw5f46HfI2CiIc5fYiQh0FCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5bHyBfoZ6U1N9i4iJYn9ekYKMjYxBQImLiH2OfI2MQEJUIzk5OTmWI5ZUIw==
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /** product_categories
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('products', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('product_categories_id')->unsigned();
+            $table->bigInteger('account_id')->unsigned()->nullable();
+            $table->text('configs')->nullable();
+            $table->text('subscription_link')->nullable();
+            $table->text('panel_link')->nullable();
+            $table->boolean('isActive')->default(true);
+            $table
+                ->foreign('product_categories_id')
+                ->references('id')
+                ->on('product_categories')->onDelete('cascade');
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('products');
+    }
+};

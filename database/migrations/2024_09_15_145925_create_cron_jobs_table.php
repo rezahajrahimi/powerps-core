@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , 'FXJWqK'); return 0;
-##!!!##BQVwbmAbRGdncGhkaVxvYFc/XG9cXVxuYFdIZGJtXG9kamluV0hkYm1cb2RqaTYFcG5gG0RnZ3BoZGlcb2BXP1xvXF1cbmBXTl5jYGhcVz1ncGBrbWRpbzYFcG5gG0RnZ3BoZGlcb2BXTnBra2ptb1dBXF5cX2BuV05eY2BoXDYFBW1gb3BtaRtpYHIbXmdcbm4bYHNvYGlfbhtIZGJtXG9kamkFdgUbGxsbKiUlBRsbGxsbJRtNcGkbb2NgG2hkYm1cb2RqaW4pBRsbGxsbJSoFGxsbG2twXWdkXhthcGleb2RqaRtwayMkNRtxamRfBRsbGxt2BRsbGxsbGxsbTl5jYGhcNTVebWBcb2AjIl5tamlaZWpdbiInG2FwaV5vZGppGyM9Z3Bga21kaW8bH29cXWdgJBt2BRsbGxsbGxsbGxsbGx9vXF1nYCg5ZF8jJDYFGxsbGxsbGxsbGxsbH29cXWdgKDlub21kaWIjImlcaGAiJDYFGxsbGxsbGxsbGxsbH29cXWdgKDlub21kaWIjImFtYGxwYGledCIkNgUbGxsbGxsbGxsbGxsfb1xdZ2AoOV1qamdgXGkjImRuWlxeb2RxYCIkKDlfYGFccGdvI29tcGAkNgUbGxsbGxsbGxsbGxsfb1xdZ2AoOW5vbWRpYiMiX2BuXm1ka29kamkiJCg5aXBnZ1xdZ2AjJDYFGxsbGxsbGxsbGxsbH29cXWdgKDlvZGhgbm9caGtuIyQ2BRsbGxsbGxsbeCQ2BRsbGxt4BQUbGxsbKiUlBRsbGxsbJRtNYHFgbW5gG29jYBtoZGJtXG9kamluKQUbGxsbGyUqBRsbGxtrcF1nZF4bYXBpXm9kamkbX2pyaSMkNRtxamRfBRsbGxt2BRsbGxsbGxsbTl5jYGhcNTVfbWprRGFAc2Rub24jIl5tamlaZWpdbiIkNgUbGxsbeAV4NgU=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('cron_jobs', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->string('frequency');
+            $table->boolean('is_active')->default(true);
+            $table->string('description')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('cron_jobs');
+    }
+};

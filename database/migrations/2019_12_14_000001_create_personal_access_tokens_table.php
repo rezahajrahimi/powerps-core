@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'AJH3ne'); return 0;
-##!!!##4+NOTD75IkVFTkZCRzpNPjUdOk06OzpMPjUmQkBLOk1CSEdMNSZCQEs6TUJIRxTjTkw++SJFRU5GQkc6TT41HTpNOjs6TD41LDxBPkY6NRtFTj5JS0JHTRTjTkw++SJFRU5GQkc6TT41LE5JSUhLTTUfOjw6PT5MNSw8QT5GOhTj40s+TU5LR/lHPlD5PEU6TEz5PlFNPkc9TPkmQkBLOk1CSEfjVOP5+fn5CAMD4/n5+fn5A/krTkf5TUE++UZCQEs6TUJIR0wH4/n5+fn5Awjj+fn5+UlOO0VCPPk/Tkc8TUJIR/lOSQECE/lPSEI94/n5+flU4/n5+fn5+fn5LDxBPkY6ExM8Sz46TT4BAEk+S0xIRzpFODo8PD5MTDhNSEQ+R0wABfk/Tkc8TUJIR/kBG0VOPklLQkdN+f1NOjtFPgL5VOP5+fn5+fn5+fn5+fn9TTo7RT4GF0I9AQIU4/n5+fn5+fn5+fn5+f1NOjtFPgYXRkhLSUFMAQBNSEQ+Rzo7RT4AAhTj+fn5+fn5+fn5+fn5/U06O0U+BhdMTUtCR0ABAEc6Rj4AAhTj+fn5+fn5+fn5+fn5/U06O0U+BhdMTUtCR0ABAE1IRD5HAAX5Dw0CBhdOR0JKTj4BAhTj+fn5+fn5+fn5+fn5/U06O0U+BhdNPlFNAQA6O0JFQk1CPkwAAgYXR05FRTo7RT4BAhTj+fn5+fn5+fn5+fn5/U06O0U+BhdNQkY+TE06RkkBAEU6TE04Tkw+PTg6TQACBhdHTkVFOjtFPgECFOP5+fn5+fn5+fn5+fn9TTo7RT4GF01CRj5MTTpGSQEAPlFJQks+TDg6TQACBhdHTkVFOjtFPgECFOP5+fn5+fn5+fn5+fn9TTo7RT4GF01CRj5MTTpGSUwBAhTj+fn5+fn5+flWAhTj+fn5+Vbj4/n5+fkIAwPj+fn5+fkD+Ss+Tz5LTD75TUE++UZCQEs6TUJIR0wH4/n5+fn5Awjj+fn5+UlOO0VCPPk/Tkc8TUJIR/k9SFBHAQIT+U9IQj3j+fn5+VTj+fn5+fn5+fksPEE+RjoTEz1LSEkiPx5RQkxNTAEAST5LTEhHOkU4Ojw8PkxMOE1IRD5HTAACFOP5+fn5VuNWFOM=
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('personal_access_tokens', function (Blueprint $table) {
+            $table->id();
+            $table->morphs('tokenable');
+            $table->string('name');
+            $table->string('token', 64)->unique();
+            $table->text('abilities')->nullable();
+            $table->timestamp('last_used_at')->nullable();
+            $table->timestamp('expires_at')->nullable();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('personal_access_tokens');
+    }
+};

@@ -1,3 +1,3 @@
 <?php
-bolt_decrypt( __FILE__ , '21tmWZ'); return 0;
+bolt_decrypt( __FILE__ , 's1A3ex'); return 0;
 ##!!!##//9jVmJaaGVWWFoVNmVlUUJkWVphaDD//2poWhU+YWFqYl5jVmlaUTlWaVZXVmhaUTphZGZqWmNpUTtWWGlkZ15aaFE9Vmg7VlhpZGduMP9qaFoVPmFhamJeY1ZpWlE5VmlWV1ZoWlE6YWRmalpjaVFCZFlaYTD//1hhVmhoFUVWbmJaY2lCWmNqPmlaYhVabWlaY1loFUJkWVph/3D/FRUVFWpoWhU9Vmg7VlhpZGduMP8VFRUVZWdkaVpYaVpZFRlcalZnWVpZFTIVUBxeWRxSMP8VFRUVZWdkaVpYaVpZFRlbXmFhVldhWhUyFVAcY1ZiWhwhFRxWYV5WaFRjVmJaHCEVHGFaa1phHFIw//9y/w==

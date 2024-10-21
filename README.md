@@ -16,7 +16,7 @@ Ubuntu 24.04 friendly
 sudo bash -c "$(curl -sL https://raw.githubusercontent.com/rezahajrahimi/powerps-core-scripts/refs/heads/main/install.sh)" @ install
 ```
 
-Also for mofify variables, go to this path
+Also for modify variables go to this path, remember you have to change permission of this file and after that return them to default.
 
 ```sh
 /var/www/html/laravel-app/.env

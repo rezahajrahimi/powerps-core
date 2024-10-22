@@ -2,12 +2,18 @@
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
     </IfModule>
-
     RewriteEngine On
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Set CORS Headers
+    <IfModule mod_headers.c>
+        Header Set Access-Control-Allow-Origin "*"
+        Header Set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+        Header Set Access-Control-Allow-Headers "Content-Type, Authorization"
+    </IfModule>
 
     # Redirect Trailing Slashes If Not A Folder...
     RewriteCond %{REQUEST_FILENAME} !-d

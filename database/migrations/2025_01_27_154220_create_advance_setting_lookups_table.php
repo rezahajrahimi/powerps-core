@@ -11,11 +11,11 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('test_account_menus', function (Blueprint $table) {
+        Schema::create('advance_setting_lookups', function (Blueprint $table) {
             $table->id();
-            $table->text('approved', 100);
-            $table->text('denied', 100);
-
+            $table->string('name');
+            $table->string('value');
+            $table->string('description')->nullable();
             $table->timestamps();
         });
     }
@@ -25,6 +25,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('test_account_menus');
+        Schema::dropIfExists('advance_setting_lookups');
     }
 };

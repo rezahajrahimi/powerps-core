@@ -101,6 +101,8 @@ watch full instalation on  [youtube](https://youtu.be/drZGXXxSNSE).
 
 ## Support
 
+ برای آموزش نصب در سرویس چابکان می توانید از این مقاله آموزش ببینید.[نصب در چابکان](https://powerps.ir/?p=2974)
+ 
  درصورت هر گونه مشکل در نصب یا نیاز به مشاوره در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.
 
 همچنین می توانید عضو گروه تلگرامی [powerproxysellerchat](https://t.me/powerproxysellerchat) بشوید و درگروه سوالات خود را در میان بگذارید.

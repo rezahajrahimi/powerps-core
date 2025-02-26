@@ -14,14 +14,15 @@ return new class extends Migration
         Schema::create('custom_texts', function (Blueprint $table) {
             $table->id();
             $table->string('key')->unique();
-            $table->string('default_text');
-            $table->string('custom_text')->nullable();
+            $table->text('default_text');
+            $table->text('custom_text')->nullable();
+            $table->text('description')->nullable();
             $table->timestamps();
             $table->softDeletes();
             // index
             $table->index('key');
         });
-        
+
     }
 
     /**

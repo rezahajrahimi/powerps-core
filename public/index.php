@@ -53,3 +53,5 @@ $response = $kernel->handle(
 )->send();
 
 $kernel->terminate($request, $response);
+
+error_reporting(E_ALL & ~E_DEPRECATED);

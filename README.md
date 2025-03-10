@@ -1,10 +1,52 @@
 # PopwerPs-Core
 
-## _main core of power proxy seller_
+# ربات Power Proxy Seller
 
-# ربات فروشنده و وب اپلیکیشن برای فروش کانفیگ v2ray توسط پنل هیدیفای Hiddify
+ربات **Power Proxy Seller** یک ابزار پیشرفته و همه‌کاره برای مدیریت و فروش کانفیگ‌های پروکسی است که با آخرین نسخه‌های **هیدیفای** هماهنگ شده است. این ربات با ارائه امکانات گسترده و کاربردی، تجربه‌ای بی‌نظیر را برای مدیران و کاربران فراهم می‌کند.
 
-## _قسمت هسته و ربات سرویس_
+---
+
+## ویژگی‌های کلیدی
+
+- **هماهنگی با آخرین نسخه‌های هیدیفای**
+- **مدیریت آسان با وب اپلیکیشن و وی اپلیکیشن**
+- **اتصال به درگاه‌های پرداخت زرین‌پال و NowPayments**
+- **فروش و بازاریابی هوشمند با دستیار فروش**
+- **مدیریت کیف‌پول‌های تومانی، دلاری و همکاری**
+- **شخصی‌سازی کامل متن‌ها، پیام‌ها و منوها**
+- **مدیریت کانفیگ‌ها (ارتقا، حذف، ویرایش)**
+- **مدیریت کاربران و تراکنش‌ها**
+- **امنیت بالا با پشتیبان‌گیری خودکار و دستی**
+- **ارتباط هوشمند با کاربران (پیام‌های خودکار)**
+- **مدیریت کانال‌های تلگرامی**
+- **نمایش اطلاعات کاربران (تراکنش‌ها، زیرمجموعه‌ها)**
+- **دسته‌بندی و نمایش کانفیگ‌ها**
+- **مدیریت فروشندگان و کارت‌های هدیه (Gift Card)**
+
+---
+
+## مزایای استفاده
+
+- **کاربری آسان** با رابط کاربری ساده و قابل شخصی‌سازی
+- **امنیت بالا** با استفاده از درگاه‌های پرداخت معتبر
+- **انعطاف‌پذیری** با قابلیت اجرا بر روی سرور و سرویس‌های ابری
+- **پشتیبانی قوی** با قابلیت‌های پشتیبان‌گیری خودکار و دستی
+
+---
+
+## کاربردها
+
+- **فروشندگان پروکسی**: مدیریت و فروش کانفیگ‌ها
+- **مدیران شبکه**: مدیریت متمرکز کاربران و تراکنش‌ها
+- **کاربران نهایی**: خرید آسان کانفیگ‌ها و مدیریت کیف‌پول
+
+---
+
+## راه‌های ارتباطی
+
+وب سایت: [https://powerps.ir](https://powerps.ir)
+
+تلگرام: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
 
 ## Fast Installation
 
@@ -99,10 +141,51 @@ Finaly, rechange "APP_ENV" to "production".
 
 watch full instalation on  [youtube](https://youtu.be/drZGXXxSNSE).
 
-## Support
+# Power Proxy Seller Bot
 
- برای آموزش نصب در سرویس چابکان می توانید از این مقاله آموزش ببینید.[نصب در چابکان](https://powerps.ir/?p=2974)
- 
- درصورت هر گونه مشکل در نصب یا نیاز به مشاوره در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.
+The **Power Proxy Seller Bot** is an advanced and versatile tool for managing and selling proxy configurations, fully compatible with the latest versions of **HideIP**. This bot offers a wide range of features, providing an unparalleled experience for both administrators and users.
 
-همچنین می توانید عضو گروه تلگرامی [powerproxysellerchat](https://t.me/powerproxysellerchat) بشوید و درگروه سوالات خود را در میان بگذارید.
+---
+
+## Key Features
+
+- **Compatibility with the latest HideIP versions**
+- **Easy management via Web App and V App**
+- **Integration with ZarinPal and NowPayments payment gateways**
+- **Smart sales and marketing with Sales Assistant**
+- **Management of Toman, Dollar, and Partnership wallets**
+- **Full customization of texts, messages, and menus**
+- **Config management (upgrade, delete, edit)**
+- **User and transaction management**
+- **High security with automatic and manual backups**
+- **Smart communication with users (automatic messages)**
+- **Telegram channel management**
+- **Display user information (transactions, referrals)**
+- **Categorization and display of configs**
+- **Seller management and Gift Card support**
+
+---
+
+## Benefits
+
+- **User-friendly** with a simple and customizable interface
+- **High security** using reliable payment gateways
+- **Flexibility** with the ability to run on servers and cloud services
+- **Strong support** with automatic and manual backup features
+
+---
+
+## Use Cases
+
+- **Proxy sellers**: Manage and sell configs
+- **Network administrators**: Centralized management of users and transactions
+- **End users**: Easily purchase configs and manage wallets
+
+---
+
+## Contact Us
+
+website: [https://powerps.ir](https://powerps.ir)
+
+Telegram: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
+

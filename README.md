@@ -9,7 +9,7 @@
 ## ویژگی‌های کلیدی
 
 - **هماهنگی با آخرین نسخه‌های هیدیفای**
-- **مدیریت آسان با وب اپلیکیشن و وی اپلیکیشن**
+- **مدیریت آسان با وب اپلیکیشن**
 - **اتصال به درگاه‌های پرداخت زرین‌پال و NowPayments**
 - **فروش و بازاریابی هوشمند با دستیار فروش**
 - **مدیریت کیف‌پول‌های تومانی، دلاری و همکاری**
@@ -150,7 +150,7 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 ## Key Features
 
 - **Compatibility with the latest HideIP versions**
-- **Easy management via Web App and V App**
+- **Easy management via Web App**
 - **Integration with ZarinPal and NowPayments payment gateways**
 - **Smart sales and marketing with Sales Assistant**
 - **Management of Toman, Dollar, and Partnership wallets**

@@ -13,7 +13,7 @@ return new class extends Migration {
         Schema::create('payment_types', function (Blueprint $table) {
             $table->id();
             $table->string('name', 100)->unique();
-            $table->string('merchant_id')->unique();
+            $table->string('merchant_id')->nullable();
             $table->string('type')->default('offline');
             $table->boolean('is_active')->default(true);
 

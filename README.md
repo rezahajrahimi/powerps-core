@@ -9,6 +9,7 @@
 ## ویژگی‌های کلیدی
 
 - **هماهنگی با آخرین نسخه‌های هیدیفای**
+- **پشتیبانی کامل از پنل سنایی (مدیریت پنل، ورود ادمین، فیلدهای ورودی پیشرفته)**
 - **مدیریت آسان با وب اپلیکیشن**
 - **اتصال به درگاه‌های پرداخت زرین‌پال و NowPayments و Cryptomus **
 - **فروش و بازاریابی هوشمند با دستیار فروش**
@@ -22,6 +23,10 @@
 - **نمایش اطلاعات کاربران (تراکنش‌ها، زیرمجموعه‌ها)**
 - **دسته‌بندی و نمایش کانفیگ‌ها**
 - **مدیریت فروشندگان و کارت‌های هدیه (Gift Card)**
+- **ویرایشگر متن پیشرفته با پیش‌نمایش مارک‌داون و درج متغیرها**
+- **قابلیت ارسال پیام به کاربران انتخاب‌شده و برنامه‌ریزی پیام‌ها**
+- **مدیریت پیشرفته دسته‌بندی محصولات (ایجاد، ویرایش و نوع دسته‌بندی)**
+- **خلاصه مالی و وضعیت پنل‌ها در داشبورد**
 
 ---
 
@@ -149,7 +154,8 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 
 ## Key Features
 
-- **Compatibility with the latest HideIP versions**
+- **Compatibility with the latest Hiddify versions**
+- **Full support for Sanaei panel (panel management, admin login, advanced input fields)**
 - **Easy management via Web App**
 - **Integration with ZarinPal, Cryptomus And NowPayments payment gateways**
 - **Smart sales and marketing with Sales Assistant**
@@ -163,6 +169,11 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 - **Display user information (transactions, referrals)**
 - **Categorization and display of configs**
 - **Seller management and Gift Card support**
+- **Advanced text editor with markdown preview and variable insertion**
+- **Message sending to selected users and message scheduling**
+- **Advanced product category management (creation, editing, category types)**
+- **Financial summary and panel status in dashboard**
+
 
 ---
 

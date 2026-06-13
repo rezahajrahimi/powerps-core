@@ -1,0 +1,5 @@
+PowerPs Core release
+PHP: 8.4
+phpBolt: 1.0.7
+Built on: 2026-06-13 10:50:25 UTC
+Host arch: x86_64

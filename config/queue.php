@@ -38,7 +38,8 @@ return [
             'driver' => 'database',
             'table' => 'jobs',
             'queue' => 'default',
-            'retry_after' => 90,
+            // Must be greater than longest job timeout (ProcessSubscriptionPurchase = 600s).
+            'retry_after' => 630,
             'after_commit' => false,
         ],
 

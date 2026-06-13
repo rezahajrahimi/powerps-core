@@ -1,0 +1,29 @@
+name: Encode Laravel with IonCube
+
+on: [push]
+
+jobs:
+  encode:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: IonCube Encode Project
+      uses: MuriloChianfa/ioncube-encoder-action@v1.0.0
+      with:
+        source: 'src'
+        output: 'encrypted'
+        passphrase: '8d821ele8d'
+        # License file path in runtime
+        with-license: /opt/project/license
+        # Callback file path in runtime
+        callback-file: /opt/project/public/ioncube.php
+
+    - name: IonCube Encode Callback File
+      uses: MuriloChianfa/ioncube-encoder-action@v1.0.0
+      with:
+        source: 'src/public/ioncube.php'
+        output: 'encrypted/public/ioncube.php'
+        passphrase: '8d821ele8d'

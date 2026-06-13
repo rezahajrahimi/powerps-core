@@ -1,62 +1,82 @@
-# PowerPs-Core
+# PopwerPs-Core
 
 # ربات Power Proxy Seller
 
-ربات **Power Proxy Seller** یک ابزار پیشرفته و همه‌کاره برای مدیریت و فروش کانفیگ‌های پروکسی است که با آخرین نسخه‌های **هیدیفای** هماهنگ شده است.
+ربات **Power Proxy Seller** یک ابزار پیشرفته و همه‌کاره برای مدیریت و فروش کانفیگ‌های پروکسی است که با آخرین نسخه‌های **هیدیفای** هماهنگ شده است. این ربات با ارائه امکانات گسترده و کاربردی، تجربه‌ای بی‌نظیر را برای مدیران و کاربران فراهم می‌کند.
 
 ---
 
-## نیازمندی‌ها
+## ویژگی‌های کلیدی
 
-- **PHP 8.4** (با اکستنشن phpBolt)
-- MySQL
-- Apache
-- [powerps-webapp](https://github.com/rezahajrahimi/powerps-webapp)
+- **هماهنگی با آخرین نسخه‌های هیدیفای**
+- **پشتیبانی کامل از پنل سنایی (مدیریت پنل، ورود ادمین، فیلدهای ورودی پیشرفته)**
+- **پشتیبانی کامل از پنل مرزبان**
+- **مدیریت آسان با وب اپلیکیشن**
+- **اتصال به درگاه‌های پرداخت زرین‌پال و NowPayments و Cryptomus **
+- **فروش و بازاریابی هوشمند با دستیار فروش**
+- **مدیریت کیف‌پول‌های تومانی، دلاری و همکاری**
+- **شخصی‌سازی کامل متن‌ها، پیام‌ها و منوها**
+- **مدیریت کانفیگ‌ها (ارتقا، حذف، ویرایش)**
+- **مدیریت کاربران و تراکنش‌ها**
+- **امنیت بالا با پشتیبان‌گیری خودکار و دستی**
+- **ارتباط هوشمند با کاربران (پیام‌های خودکار)**
+- **مدیریت کانال‌های تلگرامی**
+- **نمایش اطلاعات کاربران (تراکنش‌ها، زیرمجموعه‌ها)**
+- **دسته‌بندی و نمایش کانفیگ‌ها**
+- **مدیریت فروشندگان و کارت‌های هدیه (Gift Card)**
+- **ویرایشگر متن پیشرفته با پیش‌نمایش مارک‌داون و درج متغیرها**
+- **قابلیت ارسال پیام به کاربران انتخاب‌شده و برنامه‌ریزی پیام‌ها**
+- **مدیریت پیشرفته دسته‌بندی محصولات (ایجاد، ویرایش و نوع دسته‌بندی)**
+- **خلاصه مالی و وضعیت پنل‌ها در داشبورد**
 
 ---
+
+## مزایای استفاده
+
+- **کاربری آسان** با رابط کاربری ساده و قابل شخصی‌سازی
+- **امنیت بالا** با استفاده از درگاه‌های پرداخت معتبر
+- **انعطاف‌پذیری** با قابلیت اجرا بر روی سرور و سرویس‌های ابری
+- **پشتیبانی قوی** با قابلیت‌های پشتیبان‌گیری خودکار و دستی
+
+---
+
+## کاربردها
+
+- **فروشندگان پروکسی**: مدیریت و فروش کانفیگ‌ها
+- **مدیران شبکه**: مدیریت متمرکز کاربران و تراکنش‌ها
+- **کاربران نهایی**: خرید آسان کانفیگ‌ها و مدیریت کیف‌پول
+
+---
+
+## راه‌های ارتباطی
+
+وب سایت: [https://powerps.ir](https://powerps.ir)
+
+تلگرام: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
 
 ## Fast Installation
 
-روی سرور Ubuntu 24.04:
+Just run this command on your server
+
+Ubuntu 24.04 friendly
 
 ```sh
 sudo bash -c "$(curl -sL https://raw.githubusercontent.com/rezahajrahimi/powerps-core-scripts/refs/heads/main/install.sh)" @ install
 ```
 
-تنظیم `.env` بعد از نصب:
+Also for modify variables go to this path, remember you have to change permission of this file and after that return them to default.
 
 ```sh
 /var/www/html/laravel-app/.env
 ```
 
----
-
 ## Manual Installation
 
-- فایل‌ها را روی هاست یا PaaS مثل [Chabokan](https://zaya.io/yojc2) آپلود کنید
-- PHP را روی **8.4** تنظیم کنید
-- اکستنشن **phpBolt** را فعال کنید (فایل‌های `bolt.so` داخل همین ریپو هستند)
-- متغیرهای `.env` را تنظیم کنید
+powerps-core requires [powerps-webapp](https://github.com/rezahajrahimi/powerps-webapp) to run.
 
-### phpBolt روی سرور از کجا می‌آید؟
-
-`bolt.so` از اینترنت دانلود **نمی‌شود**. این فایل‌ها داخل همین ریپو commit شده‌اند:
-
-| فایل | کاربرد |
-|------|--------|
-| `bolt.so` | نسخه پیش‌فرض (x86_64) |
-| `bolt-x86_64.so` | سرورهای Intel/AMD |
-| `bolt-aarch64.so` | سرورهای ARM |
-
-اسکریپت نصب هنگام `git clone` یا `git pull` این فایل‌ها را می‌گیرد و در مسیر اکستنشن PHP کپی می‌کند. نسخه‌ها در `.powerps-php-version` و `.powerps-bolt-version` مشخص است.
-
-برای هاست‌های اشتراکی مثل Chabokan از `chabok-php.ini` استفاده کنید:
-
-```ini
-extension = /var/www/html/app/bolt.so
-```
-
----
+- upload files to your host or PaaS service like  [Chabokan](https://zaya.io/yojc2)  
+- change Environment variable in .env file
+- set php version to 8.3
 
 ## APP VARIABLES
 
@@ -75,11 +95,13 @@ DB_PORT=3306
 DB_DATABASE=database_name
 DB_USERNAME=database_username
 DB_PASSWORD=database_password
+
 ```
 
-## TELEGRAM BOT VARIABLES
+## TELEGRAM BOT  VARIABLES
 
 ```sh
+
 TELEGRAM_BOT_TOKEN=botTELEGRAMBOTTOKEN
 TELEGRAM_API_ENDPOINT=https://api.telegram.org
 TELEGRAM_ADMIN_ID=admin telegram id
@@ -104,53 +126,79 @@ NOWPAYMENTS_API_KEY=set nowpayments api key
 https://api.telegram.org/botxxxxxxxxxxxxxx/setwebhook?url=https://POWERPS_CORE_URL/api/telegram/webhooks/inbound
 ```
 
+You have to change xxxxxxxxxxxxxx with your telegram bot token and also change POWERPS_CORE_URL with url of powerps-core then copy text and run by your browser.
+
 ## LOGIN
 
-USERNAME: value of `TELEGRAM_ADMIN_ID`  
-PASSWORD: `admin123456`
+USERNAME: value of TELEGRAM_ADMIN_ID
+PASSWORD: admin123456
 
 ## UPDATE
 
-1. از دیتابیس بکاپ بگیرید
-2. `APP_ENV` را در `.env` موقتاً `dev` کنید
-3. مایگریشن را اجرا کنید:
+first of all take a back up from database after that change "APP_ENV" to "dev" in .env files, then insert migration command in console and run it:
 
 ```sh
 php artisan migrate
 ```
 
-4. `APP_ENV` را دوباره `production` کنید
+Finaly, rechange "APP_ENV" to "production".
+
+## YOUTUBE Toturial
+
+watch full instalation on  [youtube](https://youtu.be/drZGXXxSNSE).
+
+# Power Proxy Seller Bot
+
+The **Power Proxy Seller Bot** is an advanced and versatile tool for managing and selling proxy configurations, fully compatible with the latest versions of **HideIP**. This bot offers a wide range of features, providing an unparalleled experience for both administrators and users.
 
 ---
 
-## راه‌های ارتباطی
+## Key Features
 
-وب‌سایت: [https://powerps.ir](https://powerps.ir)  
-تلگرام: [@powerproxysellersupport](https://t.me/powerproxysellersupport)
+- **Compatibility with the latest Hiddify versions**
+- **Full support for Sanaei panel (panel management, admin login, advanced input fields)**
+- **Full support for Marzban panel (panel management, admin login, advanced input fields)**
+- **Easy management via Web App**
+- **Integration with ZarinPal, Cryptomus And NowPayments payment gateways**
+- **Smart sales and marketing with Sales Assistant**
+- **Management of Toman, Dollar, and Partnership wallets**
+- **Full customization of texts, messages, and menus**
+- **Config management (upgrade, delete, edit)**
+- **User and transaction management**
+- **High security with automatic and manual backups**
+- **Smart communication with users (automatic messages)**
+- **Telegram channel management**
+- **Display user information (transactions, referrals)**
+- **Categorization and display of configs**
+- **Seller management and Gift Card support**
+- **Advanced text editor with markdown preview and variable insertion**
+- **Message sending to selected users and message scheduling**
+- **Advanced product category management (creation, editing, category types)**
+- **Financial summary and panel status in dashboard**
+
 
 ---
 
-# Power Proxy Seller Bot (English)
+## Benefits
 
-The **Power Proxy Seller Bot** is an advanced tool for managing and selling proxy configurations, compatible with the latest **Hiddify** versions.
+- **User-friendly** with a simple and customizable interface
+- **High security** using reliable payment gateways
+- **Flexibility** with the ability to run on servers and cloud services
+- **Strong support** with automatic and manual backup features
 
-## Requirements
+---
 
-- PHP 8.4 with phpBolt extension
-- MySQL, Apache
-- [powerps-webapp](https://github.com/rezahajrahimi/powerps-webapp)
+## Use Cases
 
-## Fast Installation
+- **Proxy sellers**: Manage and sell configs
+- **Network administrators**: Centralized management of users and transactions
+- **End users**: Easily purchase configs and manage wallets
 
-```sh
-sudo bash -c "$(curl -sL https://raw.githubusercontent.com/rezahajrahimi/powerps-core-scripts/refs/heads/main/install.sh)" @ install
-```
+---
 
-## phpBolt on server
+## Contact Us
 
-`bolt.so` is **bundled in this repository** (not downloaded at install time). The install script copies the correct architecture file from `/var/www/html/laravel-app/` into PHP's extension directory.
+website: [https://powerps.ir](https://powerps.ir)
 
-## Contact
+Telegram: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
 
-Website: [https://powerps.ir](https://powerps.ir)  
-Telegram: [@powerproxysellersupport](https://t.me/powerproxysellersupport)

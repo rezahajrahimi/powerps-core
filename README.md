@@ -9,7 +9,7 @@
 ## ویژگی‌های کلیدی
 
 - **هماهنگی با آخرین نسخه‌های هیدیفای**
-- **پشتیبانی کامل از پنل سنایی (مدیریت پنل، ورود ادمین، فیلدهای ورودی پیشرفته)**
+- **پشتیبانی کامل از پنل سنایی (مدیریت پنل، ورود ادمین، فیلدهای ورودی پیشرفته) نسخه v2 و v3+**
 - **پشتیبانی کامل از پنل مرزبان**
 - **پشتیبانی کامل از پنل پاسارگارد**
 - **ورود اطلاعات از طریق فایل اکسل (پنل دستی)**
@@ -158,7 +158,7 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 ## Key Features
 
 - **Compatibility with the latest Hiddify versions**
-- **Full support for Sanaei panel (panel management, admin login, advanced input fields)**
+- **Full support for Sanaei panel (panel management, admin login, advanced input fields) V2 , V3**
 - **Full support for Marzban panel (panel management, admin login, advanced input fields)**
 - **Full support for PasarGuard panel (panel management, admin login, advanced input fields)**
 - **Easy management via Web App**

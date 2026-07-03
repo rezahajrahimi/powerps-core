@@ -11,8 +11,10 @@
 - **هماهنگی با آخرین نسخه‌های هیدیفای**
 - **پشتیبانی کامل از پنل سنایی (مدیریت پنل، ورود ادمین، فیلدهای ورودی پیشرفته)**
 - **پشتیبانی کامل از پنل مرزبان**
+- **پشتیبانی کامل از پنل پاسارگارد**
+- **ورود اطلاعات از طریق فایل اکسل (پنل دستی)**
 - **مدیریت آسان با وب اپلیکیشن**
-- **اتصال به درگاه‌های پرداخت زرین‌پال و NowPayments و Cryptomus **
+- **پشتیبانی از درگاه‌های پرداخت زرین‌پال و NowPayments و Cryptomus**
 - **فروش و بازاریابی هوشمند با دستیار فروش**
 - **مدیریت کیف‌پول‌های تومانی، دلاری و همکاری**
 - **شخصی‌سازی کامل متن‌ها، پیام‌ها و منوها**
@@ -158,6 +160,7 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 - **Compatibility with the latest Hiddify versions**
 - **Full support for Sanaei panel (panel management, admin login, advanced input fields)**
 - **Full support for Marzban panel (panel management, admin login, advanced input fields)**
+- **Full support for PasarGuard panel (panel management, admin login, advanced input fields)**
 - **Easy management via Web App**
 - **Integration with ZarinPal, Cryptomus And NowPayments payment gateways**
 - **Smart sales and marketing with Sales Assistant**

@@ -52,9 +52,9 @@
     <div class="container">
         <h1>🤖 خرید ربات تلگرام</h1>
         <p>برای خرید و دریافت اطلاعات بیشتر درباره ربات، با ما در تلگرام در ارتباط باشید</p>
-        <a href="https://t.me/powerproxysellersupport" class="telegram-button">
+        {{-- <a href="https://t.me/powerproxysellersupport" class="telegram-button">
             پیام در تلگرام @powerproxysellersupport
-        </a>
+        </a> --}}
     </div>
 </body>
 </html> 

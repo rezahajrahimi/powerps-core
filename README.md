@@ -54,7 +54,7 @@
 
 وب سایت: [https://powerps.ir](https://powerps.ir)
 
-تلگرام: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
+تلگرام: [@powerproxysellersupport](https://t.me/Rezahajrahimi_dev) 
 
 ## Fast Installation
 

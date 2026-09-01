@@ -1,3 +1,207 @@
 <?php
-bolt_decrypt( __FILE__ , 'FtKgEB'); return 0;
-##!!!##/WFUYFhmY1RWWBM0Y2NPO2dnY082YmFnZWJfX1hlZi79/WhmWBM0Y2NPO2dnY082YmFnZWJfX1hlZk86WGFYZVRfNmJhZ2ViX19YZS79aGZYEzRjY09AYldYX2ZPSGZYZS79aGZYEzRjY09AYldYX2ZPNV9iVl5YV0hmWGUu/f1oZlgTPF9faGBcYVRnWE87Z2djT0VYZGhYZmcu/WhmWBM8X19oYFxhVGdYT0ZoY2NiZWdPOVRWVFdYZk87VGZbLv1oZlgTPF9faGBcYVRnWE9JVF9cV1RnXGJhT0lUX1xXVGdcYmE4a1ZYY2dcYmEu/WhmWBM0Y2NPRlhlaVxWWGZPR1hfWFplVGBGWGVpXFZYLv1oZlgTNGNjTztnZ2NPNmJhZ2ViX19YZWZPNmhmZ2JgR1hrZzZiYWdlYl9fWGUu/WhmWBM0Y2NPRlhlaVxWWGZPR1hfWFplVGBAWGZmVFpYOWJlYFRnZ1hlLv1oZlgTNGNjT0ZYZWlcVlhmTz9cVlhhZlg2W1hWXkZYZWlcVlgu/f1WX1RmZhM0aGdbNmJhZ2ViX19YZRNYa2dYYVdmEzZiYWdlYl9fWGX9bv0TExMTY2VcaVRnWBM6WGFYZVRfNmJhZ2ViX19YZRMXWlhhWGVUXzZhZ2VfLv0TExMTY2VcaVRnWBNHWF9YWmVUYEZYZWlcVlgTF2dYX1haZVRgRlhlaVxWWC79ExMTE2NlXGlUZ1gTNmhmZ2JgR1hrZzZiYWdlYl9fWGUTF1ZoZmdiYEdYa2cu/RMTExNjZVxpVGdYEz9cVlhhZlg2W1hWXkZYZWlcVlgTF19cVlhhZlg2W1hWXkZYZWlcVlgu/f0TExMTY2hVX1xWE1loYVZnXGJhE1JSVmJhZmdlaFZnGzI/XFZYYWZYNltYVl5GWGVpXFZYExdfXFZYYWZYNltYVl5GWGVpXFZYEzATYWhfXxz9ExMTE279ExMTExMTExMXZ1tcZiAxWlhhWGVUXzZhZ2VfEzATYVhqEzpYYVhlVF82YmFnZWJfX1hlGxwu/RMTExMTExMTF2dbXGYgMWdYX1haZVRgRlhlaVxWWBMwE2FYahNHWF9YWmVUYEZYZWlcVlgbHC79ExMTExMTExMXZ1tcZiAxVmhmZ2JgR1hrZxMwE2FYahM2aGZnYmBHWGtnNmJhZ2ViX19YZRscLv0TExMTExMTExdnW1xmIDFfXFZYYWZYNltYVl5GWGVpXFZYEzATF19cVlhhZlg2W1hWXkZYZWlcVlgTMjITVGNjGz9cVlhhZlg2W1hWXkZYZWlcVlgtLVZfVGZmHC79ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNgWBsc/RMTExNu/RMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbVGhnWxsaZlRhVmdoYBocIDFoZlhlGxwcLv0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1pYZztiZmdBVGBYGxz9ExMTE279/RMTExMTExMTF1tiZmdIZV8TMBNYYWkbGjlFQkFHUkhFPxocLv39ExMTExMTExMiIhNaWGcTW2JmZ/0TExMTExMTE2VYZ2hlYRMXW2JmZ0hlXy79ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNaWGdDYmpYZUNmP1xWWGFmWEdsY1gbHP0TExMTbv0TExMTExMTE2VYZ2hlYRMXZ1tcZiAxX1xWWGFmWDZbWFZeRlhlaVxWWCAxWlhnP1xWWGFmWEdsY1gbHC79ExMTE3D9/RMTExNjaFVfXFYTWWhhVmdcYmETVmVYVGdYOVxlZmc0V2BcYUhmWGUbHP0TExMTbv0TExMTExMTE2dlbBNu/RMTExMTExMTExMTExdUV2BcYRMwE0hmWGUtLWpbWGVYGxplYl9YGh8TGlRXYFxhGhwgMVlcZWZnGxwu/RMTExMTExMTExMTE1xZExsXVFdgXGETMDATYWhfXxwTbv0TExMTExMTExMTExMTExMTIiITWlhnE1RXYFxhE1xXE1llYmATIVhhaf0TExMTExMTExMTExMTExMTF1RXYFxhPFcTMBNYYWkbGkc4Pzg6RTRAUjQ3QDxBUjw3Ghwu/RMTExMTExMTExMTExMTExMXVFdgXGETMBNIZlhlLS1WZVhUZ1gbTv0TExMTExMTExMTExMTExMTExMTExphVGBYGhMwMRMaVFdgXGEaH/0TExMTExMTExMTExMTExMTExMTExpUVlZiaGFnUlxXGhMwMRMXVFdgXGE8Vx/9ExMTExMTExMTExMTExMTExMTExMaZWJfWBoTMDETGlRXYFxhGh/9ExMTExMTExMTExMTExMTExMTExMaY1RmZmpiZVcaEzAxEztUZlstLWBUXlgbGlRXYFxhJCUmJygpGhwf/RMTExMTExMTExMTExMTExNQHC79ExMTExMTExMTExMTExMTExdnW1xmIDFaWGFYZVRfNmFnZV8gMVViYmdSZlhYV1xhWlJXVGdUGxwu/RMTExMTExMTExMTE3D9ExMTExMTExMTExMTZVhnaGVhExdUV2BcYS79ExMTExMTExNwE1ZUZ1ZbExtPOGtWWGNnXGJhExdYHBNu/RMTExMTExMTExMTE08/YlotLVhlZWJlGxdYHC79ExMTExMTExMTExMTZVhnaGVhExdYLv0TExMTExMTE3D9ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNlWFpcZmdYZRtFWGRoWGZnExdlWGRoWGZnHP0TExMTbv0TExMTExMTExdlWGRoWGZnIDFpVF9cV1RnWBtO/RMTExMTExMTExMTExphVGBYGhMwMRMaZVhkaFxlWFdvZmdlXGFab2BUay0lKChvaGFcZGhYLWhmWGVmGh/9ExMTExMTExMTExMTGlRWVmJoYWdSXFcaEzAxExplWGRoXGVYV29gVGstK29oYVxkaFgtaGZYZWYaH/0TExMTExMTExMTExMaY1RmZmpiZVcaEzAxExplWGRoXGVYV29mZ2VcYVpvYFxhLSsaH/0TExMTExMTExMTExMaZWJfWBoTMDETGmVYZGhcZVhXb2ZnZVxhWhof/RMTExMTExMTUBwu/f0TExMTExMTExdoZlhlEzATSGZYZS0tVmVYVGdYG079ExMTExMTExMTExMTGmFUYFgaEzAxExdlWGRoWGZnIDFhVGBYH/0TExMTExMTExMTExMaVFZWYmhhZ1JcVxoTMDETF2VYZGhYZmcgMVRWVmJoYWdSXFcf/RMTExMTExMTExMTExplYl9YGhMwMRMXZVhkaFhmZyAxZWJfWB/9ExMTExMTExMTExMTGmNUZmZqYmVXGhMwMRM7VGZbLS1gVF5YGxdlWGRoWGZnIDFjVGZmamJlVxwf/RMTExMTExMTUBwu/f0TExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG/0TExMTExMTExMTExNO/RMTExMTExMTExMTExMTExMaaGZYZRoTMDETF2hmWGUf/RMTExMTExMTExMTExMTExMaZ2JeWGEaEzAxExdoZlhlIDFWZVhUZ1hHYl5YYRsaZ2JeWGEgYVRgWBocIDFjX1RcYUdYa2dHYl5YYR/9ExMTExMTExMTExMTUB/9ExMTExMTExMTExMTJSMkH/0TExMTExMTExwu/RMTExNw/RMTExNjaFVfXFYTWWhhVmdcYmETX2JaXGEbRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExMiIhNWW1hWXhNVX2JWXlhXE2hmWGX9ExMTExMTExMXVV9iVl5YV0hmWGUTMBNhWGoTNV9iVl5YV0hmWGUbHC79ExMTExMTExMXXGY1X2JWXlhXEzATF1VfYlZeWFdIZlhlIDFqW1hlWBsaVFZWYmhhZ1JcVxofExdlWGRoWGZnIDFUVlZiaGFnUlxXHCAxWVxlZmcbHC79ExMTExMTExNcWRMbF1xmNV9iVl5YVxwTbv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtOGlhlZWJlGhMwMRMaR1tYE2NlYmlcV1hXE1ZlWFdYYWdcVF9mE1RlWBNcYVZiZWVYVmchGlAfEycjJBwu/RMTExMTExMTcP39ExMTExMTExMiIhNWW1hWXhNZXGVmZxNUV2BcYRNfYlpcYf0TExMTExMTExdnW1xmIDFWZVhUZ1g5XGVmZzRXYFxhSGZYZRscLv39ExMTExMTExMXZVhkaFhmZyAxaVRfXFdUZ1gbTv0TExMTExMTExMTExMaVFZWYmhhZ1JcVxoTMDETGmVYZGhcZVhXb2BUay0lKCgaHxMiIhNcZxpmE1RfZmITVlRhE1VYE2FUYFj9ExMTExMTExMTExMTGmNUZmZqYmVXGhMwMRMaZVhkaFxlWFdvZmdlXGFaGh/9ExMTExMTExNQHC79/RMTExMTExMTF2hmWGUTMBNIZlhlLS1qW1hlWBsaVFZWYmhhZ1JcVxofExdlWGRoWGZnIDFUVlZiaGFnUlxXHP0TExMTExMTExMTExMgMWJlSltYZVgbGmFUYFgaHxMXZVhkaFhmZyAxVFZWYmhhZ1JcVxz9ExMTExMTExMTExMTIDFZXGVmZxscLv39ExMTExMTExNcWRMbFBdoZlhlE29vExQ7VGZbLS1WW1hWXhsXZVhkaFhmZyAxY1RmZmpiZVcfExdoZlhlIDFjVGZmamJlVxwcE279ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbThpYZWViZRoTMDETGkdbWBNjZWJpXFdYVxNWZVhXWGFnXFRfZhNUZVgTXGFWYmVlWFZnIRpQHxMnIyQcLv0TExMTExMTE3D9/RMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbTv0TExMTExMTExMTExMaaGZYZRoTMDETF2hmWGUf/RMTExMTExMTExMTExpnYl5YYRoTMDETF2hmWGUgMVZlWFRnWEdiXlhhGxpnYl5YYSBhVGBYGhwgMWNfVFxhR1hrZ0diXlhhH/0TExMTExMTE1AcLv0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE19iWmJoZxtFWGRoWGZnExdlWGRoWGZnHP0TExMTbv0TExMTExMTExdoZlhlEzATVGhnWxsaZlRhVmdoYBocIDFoZlhlGxwu/RMTExMTExMTXFkTGxdoZlhlHBNu/RMTExMTExMTExMTExdoZlhlIDFnYl5YYWYbHCAxV1hfWGdYGxwu/RMTExMTExMTcP39ExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRsaP2JaWlhXE2JoZxNmaFZWWGZmWWhfX2waHC79ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNZYmVaWGdDVGZmamJlVxtFWGRoWGZnExdlWGRoWGZnHP0TExMTbv0TExMTExMTEyIiE1ZbWFZeE1VfYlZeWFcTaGZYZf0TExMTExMTExdVX2JWXlhXSGZYZRMwE2FYahM1X2JWXlhXSGZYZRscLv0TExMTExMTExdcZjVfYlZeWFcTMBMXVV9iVl5YV0hmWGUgMWpbWGVYGxpUVlZiaGFnUlxXGh8TF2VYZGhYZmcgMVRWVmJoYWdSXFccIDFZXGVmZxscLv0TExMTExMTE1xZExsXXGY1X2JWXlhXHBNu/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG04aWGVlYmUaEzAxExpHW1gTY2ViaVxXWFcTVmVYV1hhZ1xUX2YTVGVYE1xhVmJlZVhWZyEaUB8TJyMkHC79ExMTExMTExNw/RMTExMTExMTF2VYZGhYZmcgMWlUX1xXVGdYG079ExMTExMTExMTExMTGlRWVmJoYWdSXFcaEzAxExplWGRoXGVYV29gXGEtKxof/RMTExMTExMTUBwu/RMTExMTExMTF2hmWGUTMBNIZlhlLS1qW1hlWBsaVFZWYmhhZ1JcVxofExdlWGRoWGZnIDFUVlZiaGFnUlxXHCAxWVxlZmcbHC79ExMTExMTExNcWRMbFBdoZlhlHBNu/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG1lUX2ZYHC79ExMTExMTExNw/RMTExMTExMTF2hmWGVSY1RmZmpiZVcTMBNmaFVmZ2UbZmdlUmZbaFlZX1gbGlRVVldYWVpbXV5gYWNkZWZnaGlqa2xtNDU2Nzg5Ojs9PkBBQ0RFR0hJSktMTSUmJykqKywaHB8TIx8TKxwu/RMTExMTExMTF2hmWGUgMWNUZmZqYmVXEzATO1RmWy0tYFReWBsXaGZYZVJjVGZmamJlVxwu/RMTExMTExMTF2hmWGUgMWhjV1RnWBscLv0TExMTExMTEyIiE08/YlotLVxhWWIbFWNUZmZmZhNuF2hmWGVSY1RmZmpiZVdwFRwu/RMTExMTExMTF2hmWGVSXFcTMBMXaGZYZSAxVFZWYmhhZ1JcVy79ExMTExMTExMXZ1hrZxMwExXNnMuay6TLm8ukE82iy6TLmsx4zn8TT2FPZRUu/RMTExMTExMTF2dYa2cTITATFcukzHjLpRPLrMubzHvLpBPLp8x4y5oTy5vMehPMscx5zHcTy53Lrc5/zn/LpBPOf8uazHTLnRNPYU9lFS79ExMTExMTExMXZ1hrZxMhMBMazHnLmsx4E82cy5rLpMuby6TOfxPMe8ukzHvLohPLm8x6E8yxzHnMdy0aLv0TExMTExMTExdnW1xmIDFnWF9YWmVUYEZYZWlcVlggMWZYYVdAWGZmVFpYGxdoZlhlUlxXHxMXZ1hrZx8TThpjVGVmWFJgYldYGhMwMRMaQFRlXldiamEaUBwu/RMTExMTExMTF2dbXGYgMWdYX1haZVRgRlhlaVxWWCAxZlhhV0BYZmZUWlgbF2hmWGVSXFcfExUvVmJXWDFuF2hmWGVSXFdwLyJWYldYMRUfE04aY1RlZlhSYGJXWBoTMDETGjtHQD8aUBwu/f0TExMTExMTExdnWGtnEzATFcyxy6bMe8uky6ITzHvLpMx7y6ITy5vMehPMscx5zHctExNPYU9lFS79ExMTExMTExMXZ1tcZiAxZ1hfWFplVGBGWGVpXFZYIDFmWGFXQFhmZlRaWBsXaGZYZVJcVx8TF2dYa2cfE04aY1RlZlhSYGJXWBoTMDETGkBUZV5XYmphGlAcLv0TExMTExMTExdnW1xmIDFnWF9YWmVUYEZYZWlcVlggMWZYYVdAWGZmVFpYGxdoZlhlUlxXHxMVL1ZiV1gxbhdoZlhlUmNUZmZqYmVXcC8iVmJXWDEVHxNOGmNUZWZYUmBiV1gaEzAxExo7R0A/GlAcLv39ExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtnZWhYHC79ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNaWGFYZVRnWFJUaGdiUl9iWlxhUl9cYV4bRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXaGZYZRMwE0hmWGUtLWpbWGVYGxpUVlZiaGFnUlxXGh8TF2VYZGhYZmcgMVRWVmJoYWdSXFccIDFZXGVmZxscLv0TExMTExMTExMTExNcWRMbFBdoZlhlHBNu/RMTExMTExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWBwu/RMTExMTExMTExMTE3D9/RMTExMTExMTExMTExdZZWJhZ0hlXxMwE1hhaRsaOUVCQUdSSEU/Ghwu/f0TExMTExMTExMTExNcWRMbZmdlUlhhV2ZSalxnWxsXWWViYWdIZV8fExoiGhwcE279ExMTExMTExMTExMTExMTExdZZWJhZ0hlXxMwE2ZoVWZnZRsXWWViYWdIZV8fEyMfEyAkHC79ExMTExMTExMTExMTcP39ExMTExMTExMTExMTF2hmWGVSY1RmZmpiZVcTMBNmaFVmZ2UbZmdlUmZbaFlZX1gbGlRVVldYWVpbXV5gYWNkZWZnaGlqa2xtNDU2Nzg5Ojs9PkBBQ0RFR0hJSktMTSUmJykqKywaHB8TIx8TKxwu/RMTExMTExMTExMTExdoZlhlIDFjVGZmamJlVxMwEztUZlstLWBUXlgbF2hmWGVSY1RmZmpiZVccLv0TExMTExMTExMTExMXaGZYZSAxaGNXVGdYGxwu/RMTExMTExMTExMTExdoZlhlUlxXEzATF2hmWGUgMVRWVmJoYWdSXFcu/RMTExMTExMTExMTExdgVFxhQFhhaDZhZ2VfEzATYVhqE0BUXGFAWGFoPGdYYDZiYWdlYl9fWGUbHC79ExMTExMTExMTExMTF2BYYWg0X1xUZkFUYFgTMBMXYFRcYUBYYWg2YWdlXyAxWlhnQFhhaDRfXFRmQVRgWDVsQVRgWBsaalhVVGNjGhwu/RMTExMTExMTExMTExdnWGtnEzATF2dbXGYgMVZoZmdiYEdYa2cgMVpYZ0dYa2cbGlRWZ1xiYSFqWFUhWlhhWGVUZ1hSVGhnYlJfYlpcYVJfXGFeGh8TThpfXGFeGhMwMRMXWWViYWdIZV8fExpoZlhlYVRgWBoTMDETF2hmWGVSXFcfExpjVGZmamJlVxoTMDETF2hmWGVSY1RmZmpiZVdQHC79ExMTExMTExMTExMTF1liZWBUZ2dYZRMwE2FYahNHWF9YWmVUYEBYZmZUWlg5YmVgVGdnWGUbF2dbXGYgMWdYX1haZVRgRlhlaVxWWBwu/RMTExMTExMTExMTExdgWGZmVFpYEzATF1liZWBUZ2dYZSAxVFdXOWJlYFRnZ1hXR1hrZxsaGh8TF2dYa2ccIDFaWGdAWGZmVFpYGxwu/f0TExMTExMTExMTExMXZ1tcZiAxZ1hfWFplVGBGWGVpXFZYIDFmWGFXQFhmZlRaWBsXaGZYZVJcVx8TF2BYZmZUWlgcLv0TExMTExMTExMTExMXZ1hrZxMwExdnW1xmIDFWaGZnYmBHWGtnIDFaWGdHWGtnGxpUVmdcYmEhalhVIVRoZ2JSX2JaXGFSX1xhXhocLv0TExMTExMTExMTExMXX1xhXhMwExVuF1llYmFnSGVfcCIWIl9iWlxhIm4XaGZYZVJcV3AibhdoZlhlUmNUZmZqYmVXcBUu/f0TExMTExMTExMTExMXYmNlEzATTv0TExMTExMTExMTExMTExMTTv0TExMTExMTExMTExMTExMTExMTExpnWGtnGhMwMRMVF2BYYWg0X1xUZkFUYFgVH/0TExMTExMTExMTExMTExMTExMTExpoZV8aEzAxExUXX1xhXhUf/RMTExMTExMTExMTExMTExNQH/0TExMTExMTExMTExNQLv39ExMTExMTExMTExMTF2dbXGYgMWdYX1haZVRgRlhlaVxWWCAxZlhhV0BYZmZUWlhKXGdbP1xhXjVoZ2diYWYbF2hmWGVSXFcfExdnWGtnHxMXYmNlHC79/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG2dlaFgcLv0TExMTExMTE3ATVlRnVlsTG084a1ZYY2dcYmETF1gcE279ExMTExMTExMTExMTTz9iWi0tWGVlYmUbF1gcLv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWBwu/RMTExMTExMTcP0TExMTcP1w/Q==
+namespace App\Http\Controllers;
+
+use App\Http\Controllers\GeneralController;
+use App\Models\User;
+use App\Models\BlockedUser;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Validation\ValidationException;
+use App\Services\TelegramService;
+use App\Http\Controllers\CustomTextController;
+use App\Services\TelegramMessageFormatter;
+use App\Services\LicenseCheckService;
+
+class AuthController extends Controller
+{
+    private GeneralController $generalCntrl;
+    private TelegramService $telegramService;
+    private CustomTextController $customText;
+    private LicenseCheckService $licenseCheckService;
+
+    public function __construct(?LicenseCheckService $licenseCheckService = null)
+    {
+        $this->generalCntrl = new GeneralController();
+        $this->telegramService = new TelegramService();
+        $this->customText = new CustomTextController();
+        $this->licenseCheckService = $licenseCheckService ?? app(LicenseCheckService::class);
+    }
+    public function me()
+    {
+        return response()->json(auth('sanctum')->user());
+    }
+    public function getHostName()
+    {
+
+        $hostUrl = env('FRONT_URL');
+
+        // get host
+        return $hostUrl;
+    }
+    public function getPowerPsLicenseType()
+    {
+        return "gold";
+        // return $this->licenseCheckService->getLicenseType();
+    }
+
+    public function createFirstAdminUser()
+    {
+        try {
+            $admin = User::where('role', 'admin')->first();
+            if ($admin == null) {
+                // get admin id from .env
+                $adminId = env('TELEGRAM_ADMIN_ID');
+                $admin = User::create([
+                    'name' => 'admin',
+                    'account_id' => $adminId,
+                    'role' => 'admin',
+                    'password' => Hash::make('admin123456'),
+                ]);
+                $this->generalCntrl->boot_seeding_data();
+            }
+            return $admin;
+        } catch (\Exception $e) {
+            \Log::error($e);
+            return $e;
+        }
+    }
+    public function register(Request $request)
+    {
+        $request->validate([
+            'name' => 'required|string|max:255|unique:users',
+            'account_id' => 'required|max:8|unique:users',
+            'password' => 'required|string|min:8',
+            'role' => 'required|string',
+        ]);
+
+        $user = User::create([
+            'name' => $request->name,
+            'account_id' => $request->account_id,
+            'role' => $request->role,
+            'password' => Hash::make($request->password),
+        ]);
+
+        return response()->json(
+            [
+                'user' => $user,
+                'token' => $user->createToken('token-name')->plainTextToken,
+            ],
+            201,
+        );
+    }
+    public function login(Request $request)
+    {
+        // check blocked user
+        $blockedUser = new BlockedUser();
+        $isBlocked = $blockedUser->where('account_id', $request->account_id)->first();
+        if ($isBlocked) {
+            return response()->json(['error' => 'The provided credentials are incorrect.'], 401);
+        }
+
+        // check first admin login
+        $this->createFirstAdminUser();
+
+        $request->validate([
+            'account_id' => 'required|max:255', // it's also can be name
+            'password' => 'required|string',
+        ]);
+
+        $user = User::where('account_id', $request->account_id)
+            ->orWhere('name', $request->account_id)
+            ->first();
+
+        if (!$user || !Hash::check($request->password, $user->password)) {
+            return response()->json(['error' => 'The provided credentials are incorrect.'], 401);
+        }
+
+        return response()->json([
+            'user' => $user,
+            'token' => $user->createToken('token-name')->plainTextToken,
+        ]);
+    }
+    public function logout(Request $request)
+    {
+        $user = auth('sanctum')->user();
+        if ($user) {
+            $user->tokens()->delete();
+        }
+
+        return response()->json('Logged out successfully');
+    }
+    public function forgetPassword(Request $request)
+    {
+        // check blocked user
+        $blockedUser = new BlockedUser();
+        $isBlocked = $blockedUser->where('account_id', $request->account_id)->first();
+        if ($isBlocked) {
+            return response()->json(['error' => 'The provided credentials are incorrect.'], 401);
+        }
+        $request->validate([
+            'account_id' => 'required|min:8',
+        ]);
+        $user = User::where('account_id', $request->account_id)->first();
+        if (!$user) {
+            return response()->json(false);
+        }
+        $user_password = substr(str_shuffle('abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRTUVWXYZ2346789'), 0, 8);
+        $user->password = Hash::make($user_password);
+        $user->update();
+        // \Log::info("passss {$user_password}");
+        $user_id = $user->account_id;
+        $text = "کاربر گرامی \n\r";
+        $text .= "رمز عبور شما به پنل تغییر یافت \n\r";
+        $text .= 'نام کاربری ورود به پنل:';
+        $this->telegramService->sendMessage($user_id, $text, ['parse_mode' => 'Markdown']);
+        $this->telegramService->sendMessage($user_id, "<code>{$user_id}</code>", ['parse_mode' => 'HTML']);
+
+        $text = "پسورد ورود به پنل:  \n\r";
+        $this->telegramService->sendMessage($user_id, $text, ['parse_mode' => 'Markdown']);
+        $this->telegramService->sendMessage($user_id, "<code>{$user_password}</code>", ['parse_mode' => 'HTML']);
+
+        return response()->json(true);
+    }
+    public function generate_auto_login_link(Request $request)
+    {
+        try {
+            $user = User::where('account_id', $request->account_id)->first();
+            if (!$user) {
+                return response()->json(false);
+            }
+
+            $frontUrl = env('FRONT_URL');
+
+            if (str_ends_with($frontUrl, '/')) {
+                $frontUrl = substr($frontUrl, 0, -1);
+            }
+
+            $user_password = substr(str_shuffle('abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRTUVWXYZ2346789'), 0, 8);
+            $user->password = Hash::make($user_password);
+            $user->update();
+            $user_id = $user->account_id;
+            $mainMenuCntrl = new MainMenuItemController();
+            $menuAliasName = $mainMenuCntrl->getMenuAliasNameByName('webapp');
+            $text = $this->customText->getText('action.web.generate_auto_login_link', ['link' => $frontUrl, 'username' => $user_id, 'password' => $user_password]);
+            $formatter = new TelegramMessageFormatter($this->telegramService);
+            $message = $formatter->addFormattedText('', $text)->getMessage();
+
+            $this->telegramService->sendMessage($user_id, $message);
+            $text = $this->customText->getText('action.web.auto_login_link');
+            $link = "{$frontUrl}/#/login/{$user_id}/{$user_password}";
+
+            $opr = [
+                [
+                    'text' => "$menuAliasName",
+                    'url' => "$link",
+                ],
+            ];
+
+            $this->telegramService->sendMessageWithLinkButtons($user_id, $text, $opr);
+
+            return response()->json(true);
+        } catch (\Exception $e) {
+            \Log::error($e);
+            return response()->json(false);
+        }
+    }
+}

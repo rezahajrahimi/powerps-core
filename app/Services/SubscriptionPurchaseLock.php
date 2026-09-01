@@ -1,3 +1,43 @@
 <?php
-bolt_decrypt( __FILE__ , 'ZlMpOQ'); return 0;
-##!!!##LS2RhJCIlpOEhohDZJOTf3aIlZmMhoiWXi0tmJaIQ2yPj5iQjJGEl4h/ZpKRl5WEhpeWf2aEhouIf2+Sho5eLZiWiENsj4+YkIyRhJeIf3aYk5OSlZd/aYSGhIeIln9mhIaLiF4tLYaPhJaWQ3aYhZaGlYyTl4ySkXOYlYaLhJaIb5KGji2eLUNDQ0OTmIWPjIZDhpKRlpdDd3dvgnZoZnJxZ3ZDYENZU1NeLS1DQ0NDk5iFj4yGQ5aXhJeMhkOJmJGGl4ySkUOJj4SKboicS4yRl5+Wl5WMkYpDR4aLhJdsh0xdQ5aXlYyRii1DQ0NDni1DQ0NDQ0NDQ5WIl5iVkUNKlpiFloaVjJOXjJKRgpOYlYaLhJaIgoyRgpOVkoqViJaWXUpDUUNHhouEl2yHXi1DQ0NDoC0tQ0NDQ5OYhY+MhkOWl4SXjIZDiZiRhpeMkpFDj5KGjm6InEuMkZeflpeVjJGKQ0eGi4SXbIdMXUOWl5WMkYotQ0NDQ54tQ0NDQ0NDQ0OViJeYlZFDSpaYhZaGlYyTl4ySkYKTmJWGi4SWiIKPkoaOXUpDUUNHhouEl2yHXi1DQ0NDoC0tQ0NDQ5OYhY+MhkOWl4SXjIZDiZiRhpeMkpFDjJZskXOVkoqViJaWS4yRl5+Wl5WMkYpDR4aLhJdsh0xdQ4WSko8tQ0NDQ54tQ0NDQ0NDQ0OViJeYlZFDZoSGi4hdXYuElkuWiI+JXV2Jj4SKboicS0eGi4SXbIdMTF4tQ0NDQ6AtLUNDQ0OTmIWPjIZDlpeEl4yGQ4mYkYaXjJKRQ5CElY5skXOVkoqViJaWS4yRl5+Wl5WMkYpDR4aLhJdsh0xdQ5mSjIctQ0NDQ54tQ0NDQ0NDQ0NmhIaLiF1dk5iXS5aIj4ldXYmPhIpuiJxLR4aLhJdsh0xPQ5eVmIhPQ5aIj4ldXXd3b4J2aGZycWd2TF4tQ0NDQ6AtLUNDQ0OTmIWPjIZDlpeEl4yGQ4mYkYaXjJKRQ4aPiISVS4yRl5+Wl5WMkYpDR4aLhJdsh0xdQ5mSjIctQ0NDQ54tQ0NDQ0NDQ0NmhIaLiF1diZKVioiXS5aIj4ldXYmPhIpuiJxLR4aLhJdsh0xMXi1DQ0NDoC0tQ0NDQ5OYhY+MhkOWl4SXjIZDiZiRhpeMkpFDhIaUmIyViEuMkZeflpeVjJGKQ0eGi4SXbIdMXUNib5KGji1DQ0NDni1DQ0NDQ0NDQ0ePkoaOQ2BDZoSGi4hdXY+Sho5LloiPiV1dj5KGjm6InEtHhouEl2yHTE9DloiPiV1dd3dvgnZoZnJxZ3ZMXi0tQ0NDQ0NDQ0OViJeYlZFDR4+Sho5QYYqIl0tMQ2JDR4+Sho5DXUORmI+PXi1DQ0NDoC2gLQ==
+
+namespace App\Services;
+
+use Illuminate\Contracts\Cache\Lock;
+use Illuminate\Support\Facades\Cache;
+
+class SubscriptionPurchaseLock
+{
+    public const TTL_SECONDS = 600;
+
+    public static function flagKey(int|string $chatId): string
+    {
+        return 'subscription_purchase_in_progress:' . $chatId;
+    }
+
+    public static function lockKey(int|string $chatId): string
+    {
+        return 'subscription_purchase_lock:' . $chatId;
+    }
+
+    public static function isInProgress(int|string $chatId): bool
+    {
+        return Cache::has(self::flagKey($chatId));
+    }
+
+    public static function markInProgress(int|string $chatId): void
+    {
+        Cache::put(self::flagKey($chatId), true, self::TTL_SECONDS);
+    }
+
+    public static function clear(int|string $chatId): void
+    {
+        Cache::forget(self::flagKey($chatId));
+    }
+
+    public static function acquire(int|string $chatId): ?Lock
+    {
+        $lock = Cache::lock(self::lockKey($chatId), self::TTL_SECONDS);
+
+        return $lock->get() ? $lock : null;
+    }
+}

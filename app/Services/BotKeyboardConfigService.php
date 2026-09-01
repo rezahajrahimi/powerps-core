@@ -1,3 +1,557 @@
 <?php
-bolt_decrypt( __FILE__ , 'yhziW6'); return 0;
-##!!!##W1u/sr62xMGytLZxksHBraS2w8e6tLbEjFtbxsS2cZLBwa2ZxcXBrZTAv8XDwL29tsPErZK1x7K/tLaktsXFur+4ncDAvMbBlMC/xcPAvb22w4xbxsS2cZLBwa2ewLW2vcStkrXHsr+0tqS2xcW6v7idwMC8xsGMW8bEtnGSwcGtnsC1tr3ErZ6yur+etr/GmsW2voxbxsS2cZq9vca+ur+yxbatpMbBwcDDxa2UwL29trTFusC/jFtbtL2yxMRxk8DFnLbKs8Cyw7WUwL+3uriktsPHurS2W8xbcXFxccHGs726tHG0wL/ExXGklqWlmp+YsKOWoZ2qsJSgnaaen6RxjnF4s8DFsMO2wb3KsLPGxcXAv8SwwbbDsMPAyHiMW1txcXFxwcazvbq0cbTAv8TFcaSWpaWan5iwmp+dmp+WsJSgnaaen6RxjnF4s8DFsLq/vbq/trCzxsXFwL/EsMG2w7DDwMh4jFtbcXFxccHGs726tHG0wL/ExXGklqWlmp+YsKGSlJySmJawlKCdpp6fpHGOcXizwMWwwbK0vLK4trCzxsXFwL/EsMG2w7DDwMh4jFtbcXFxccHGs726tHG0wL/ExXGklqWlmp+YsKOWoZ2qsKGWo6SapKWWn6VxjnF4s8DFsMO2wb3KsLy2yrPAssO1sMG2w8S6xMW2v8V4jFtbcXFxccHGs726tHG0wL/ExXGklqWlmp+YsJ6Smp+wnpafprCXmqOkpbCSnaCflnGOcXizwMWwvrK6v7C+tr/GsLe6w8TFsLrFtr6wsr3Av7Z4jFtbcXFxccHGs726tHG0wL/ExXGklqWlmp+YsKSlqp2WsKOmnZakcY5xeLPAxbCzxsXFwL+wxMXKvbaww8a9tsR4jFtbcXFxccHGs726tHG0wL/ExXGkpaqdlqRxjnGseMHDur6yw8p4fXF4xMa0tLbExHh9cXi1sr+4tsN4roxbW3FxcXGAe3txkceyw3Gyw8Oyyo26v8V9cbLDw7LKzL6yxbS5i3HExcO6v7h9cb6yxbS5sMXKwbaLccTFw7q/uH1xxMXKvbaQi3HExcO6v7jNv8a9vX1xurTAv7C0xsTFwL6wtr7Au7qwurWQi3HExcO6v7jNv8a9vc6PcXuAW3FxcXHBxrO9urRxtMC/xMVxlZaXkqadpbCkpaqdlrCjpp2WpHGOcaxbcXFxcXFxcXGseL6yxbS5eHGOj3F4tMC/t7rDvpPGynh9cXi+ssW0ubDFysG2eHGOj3F4srTFusC/sMHDtre6yXh9cXjExcq9tnhxjo9xeMTGtLS2xMR4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4tMC/t7rDvqO2tLmyw7i2eH1xeL6yxbS5sMXKwbZ4cY6PcXiytMW6wL+wwcO2t7rJeH1xeMTFyr22eHGOj3F4xMa0tLbExHiufVtxcXFxcXFxcax4vrLFtLl4cY6PcXi0wL+3usO+o7a0trrBxXh9cXi+ssW0ubDFysG2eHGOj3F4srTFusC/sMHDtre6yXh9cXjExcq9tnhxjo9xeMTGtLS2xMR4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4tMC/t7rDvpW2vbbFtpm6xMXAw8p4fXF4vrLFtLmwxcrBtnhxjo9xeLK0xbrAv7DBw7a3usl4fXF4xMXKvbZ4cY6PcXi1sr+4tsN4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4tLK/tLa9eH1xeL6yxbS5sMXKwbZ4cY6PcXiytMW6wL+wwcO2t7rJeH1xeMTFyr22eHGOj3F4tbK/uLbDeK59W3FxcXFxcXFxrHi+ssW0uXhxjo9xeLW2vbbFtpm6xMXAw8p4fXF4vrLFtLmwxcrBtnhxjo9xeLK0xbrAv7DBw7a3usl4fXF4xMXKvbZ4cY6PcXi1sr+4tsN4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4s8bKpMazxLTDusHFusC/eH1xeL6yxbS5sMXKwbZ4cY6PcXiytMW6wL+wwcO2t7rJeH1xeMTFyr22eHGOj3F4wcO6vrLDyniufVtxcXFxcXFxcax4vrLFtLl4cY6PcXizxsqZusTFwMPKn7bJxXh9cXi+ssW0ubDFysG2eHGOj3F4srTFusC/sMHDtre6yXh9cXjExcq9tnhxjo9xeMHDur6yw8p4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4srS0wMa/xZ3AyrK9xcqZusTFwMPKobK4tnh9cXi+ssW0ubDFysG2eHGOj3F4srTFusC/sMHDtre6yXh9cXjExcq9tnhxjo9xeMHDur6yw8p4rn1bcXFxcXFxcXGseL6yxbS5eHGOj3F4w7a0ubLDuLZ4fXF4vrLFtLmwxcrBtnhxjo9xeLK0xbrAv7DBw7a3usl4fXF4xMXKvbZ4cY6PcXjBw7q+ssPKeK59W3FxcXFxcXFxrHi+ssW0uXhxjo9xeIF4fXF4vrLFtLmwxcrBtnhxjo9xeLbJsrTFeH1xeMTFyr22eHGOj3G/xr29rn1bcXFxca6MW1txcXFxwcazvbq0cbfGv7TFusC/cbCwtMC/xMXDxrTFeVtxcXFxcXFxccHDuseyxbZxw7aytcC/vcpxkrXHsr+0tqS2xcW6v7idwMC8xsGUwL/Fw8C9vbbDcXWytceyv7S2pLbFxbq/uJ3AwLzGwXGOcb+2yHGStceyv7S2pLbFxbq/uJ3AwLzGwZTAv8XDwL29tsN5en1bcXFxcXFxcXHBw7rHssW2ccO2srXAv73KcZCdurS2v8S2l7ayxcbDtqS2w8e6tLZxdb26tLa/xLaXtrLFxsO2cY5xv8a9vX1bcXFxcXFxcXHBw7rHssW2ccO2srXAv73KcZCzwMC9cXW3wMO0tpTGxMXAvrrLssW6wL+Wv7Kzvba1cY5xv8a9vX1bcXFxcXpxzFtxcXFxzltbcXFxccHDuseyxbZxkLPAwL1xdbTGxMXAvrrLssW6wL+Wv7Kzvba1cY5xv8a9vYxbW3FxcXHBxrO9urRxt8a/tMW6wL9xusSUxsTFwL66y7LFusC/lr+ys722tXl6i3GzwMC9W3FxcXHMW3FxcXFxcXFxurdxeXXFubrEfo+3wMO0tpTGxMXAvrrLssW6wL+Wv7Kzvba1cXKOjnG/xr29enHMW3FxcXFxcXFxcXFxccO2xcbDv3F1xbm6xH6Pt8DDtLaUxsTFwL66y7LFusC/lr+ys722tYxbcXFxcXFxcXHOW1txcXFxcXFxcbq3cXl1xbm6xH6PtMbExcC+usuyxbrAv5a/srO9trVxco6Ocb/Gvb16ccxbcXFxcXFxcXFxcXFxw7bFxsO/cXXFubrEfo+0xsTFwL66y7LFusC/lr+ys722tYxbcXFxcXFxcXHOW1txcXFxcXFxccXDynHMW3FxcXFxcXFxcXFxcXXFubrEfo+0xsTFwL66y7LFusC/lr+ys722tXGOcXl1xbm6xH6Pvbq0tr/Etpe2ssXGw7ZxkJBxv7bIcZ26tLa/xLaXtrLFxsO2pLbDx7q0tnl6eltxcXFxcXFxcXFxcXFxcXFxfo+0sr+UxsTFwL66y7aTwMWTxsXFwL/EeXqMW3FxcXFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnpxzFtxcXFxcXFxcXFxcXF1xbm6xH6PtMbExcC+usuyxbrAv5a/srO9trVxjnG3sr3EtoxbcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3F1xbm6xH6PtMbExcC+usuyxbrAv5a/srO9trWMW3FxcXHOW1txcXFxwcazvbq0cbfGv7TFusC/cba/xMbDtqS2xcW6v7jElsm6xMV5eotxx8C6tVtxcXFxzFtxcXFxcXFxccXDynHMW3FxcXFxcXFxcXFxcXW1treyxr3FxHGOcaxbcXFxcXFxcXFxcXFxcXFxcazEtr23i4uklqWlmp+YsKOWoZ2qsJSgnaaen6R9cXiDeH1xeCn7KQopACn4KQBxKQAr+irWKthxKQApAnEq2CkCcSkCKQAs3SrScSrWKtcq2SzdcSn4KQYq1SzdcXkr+izdKfkq2SkCKQBxKg8p+CzdLN0q13p4rn1bcXFxcXFxcXFxcXFxcXFxcazEtr23i4uklqWlmp+YsJqfnZqflrCUoJ2mnp+kfXF4gnh9cXgp+ykKKQAp+CkAcSkAK/oq1irYcSkAKQJxKtgpAnEpAikALN0q0nEr+izdKfkq2SkCKQBxKfgs3SrXKtUp+CzdKtdxeSoPLN0pBTPR3SrSKQIpB3p4rn1bcXFxcXFxcXFxcXFxcXFxcazEtr23i4uklqWlmp+YsKGSlJySmJawlKCdpp6fpH1xeIJ4fXF4KfspCikAKfgpAHEpACv6KtYq2HEpACkCcSrYKQJxKQIpACzdKtJxKtUs3SkEKftxKfkpBCn7Ktgz0d0q2Cn4eK59W3FxcXFxcXFxcXFxcXFxcXGsxLa9t4uLpJalpZqfmLCjlqGdqrChlqOkmqSllp+lfXF4t7K9xLZ4fXF4K/os3Sn5KtkpAikAcSoPKfgs3SzdKtdxKtgq1izdKQUq2HEq1yrWKfgs3SkFcSkAKfgpACrYcSkFKtkpAHF5usSwwbbDxLrExba/xXp4rn1bcXFxcXFxcXFxcXFxcXFxcazEtr23i4uklqWlmp+YsJ6Smp+wnpafprCXmqOkpbCSnaCfln1xeMXDxrZ4fXF4Kfgq2SrVLN0q13Ep8yzdKfsq1nEq1irXKtks3XEp+CkGKtUs3XEpACkCcSkCKQAs3SrScSn9KQAp+CsAKfgq1yrYeK59W3FxcXFxcXFxcXFxcXFxcXGsxLa9t4uLpJalpZqfmLCkpaqdlrCjpp2WpH1xu8TAv7C2v7TAtbZ5xLa9t4uLlZaXkqadpbCkpaqdlrCjpp2WpH1xm6Sgn7Cmn5aklJKhlpWwpp+alKCVlnp9cXgq0yrZKfgq1yzdKtdxKfgpBCn7Kfgs3SrVcSrZcSkCKtcrAHEpACv6KtYq2DPR3SrYKfgs3XEp+CzdKtcq1Sn4LN0q13iufVtxcXFxcXFxcXFxcXGujFtbcXFxcXFxcXFxcXFxt8DDtrK0uXF5dbW2t7LGvcXEcbLEcax1v7K+tn1xdceyvca2fXF1tbbEtMO6wcW6wL+uenHMW3FxcXFxcXFxcXFxcXFxcXG6t3F5cnGStceyv7S2pLbFxbq/uJ3AwLzGwYuLwsa2w8p5en6PyLm2w7Z5eL+yvrZ4fXF1v7K+tnp+j7bJusTFxHl6enHMW3FxcXFxcXFxcXFxcXFxcXFxcXFxkrXHsr+0tqS2xcW6v7idwMC8xsGLi8LGtsPKeXp+j7TDtrLFtnmsW3FxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXi/sr62eHGOj3F1v7K+tn1bcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxeMeyvca2eHGOj3F1x7K9xrZ9W3FxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXi1tsS0w7rBxbrAv3hxjo9xdbW2xLTDusHFusC/fVtxcXFxcXFxcXFxcXFxcXFxcXFxca56jFtxcXFxcXFxcXFxcXFxcXFxzltxcXFxcXFxcXFxcXHOW3FxcXFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnpxzFtxcXFxcXFxcXFxcXGAgHGktsXFur+4xHHFsrO9tnG+sspxs7Zxxr+yx7K6vbKzvbZxtcbDur+4ccW2xMXEccDDcbayw73KcbPAwMXExcOywX9bcXFxcXFxcXHOW3FxcXHOW1txcXFxwcazvbq0cbfGv7TFusC/cbi2xZq/xaS2xcW6v7h5xMXDur+4cXW/sr62fXG6v8VxdbW2t7LGvcV9cbq/xXF1vrq/cY5xgn1xur/FcXW+sslxjnGJeotxur/FW3FxcXHMW3FxcXFxcXFxxcPKccxbcXFxcXFxcXFxcXFxdcW5usR+j7a/xMbDtqS2xcW6v7jElsm6xMV5eoxbcXFxcXFxcXFxcXFxdceyvca2cY5xkrXHsr+0tqS2xcW6v7idwMC8xsGLi8LGtsPKeXp+j8i5tsO2eXi/sr62eH1xdb+yvrZ6fo/Hsr3Gtnl4x7K9xrZ4eoxbW3FxcXFxcXFxcXFxccO2xcbDv3G+ssl5db66v31xvrq/eXW+ssl9cXm6v8V6cXl1x7K9xrZxkItxdbW2t7LGvcV6enqMW3FxcXFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnpxzFtxcXFxcXFxcXFxcXHDtsXGw79xdbW2t7LGvcWMW3FxcXFxcXFxzltxcXFxzltbcXFxccHGs726tHG3xr+0xbrAv3G4tsWTwMC9pLbFxbq/uHnExcO6v7hxdb+yvrZ9cbPAwL1xdbW2t7LGvcVxjnG3sr3EtnqLcbPAwL1bcXFxccxbcXFxcXFxcXHFw8pxzFtxcXFxcXFxcXFxcXF1xbm6xH6Ptr/ExsO2pLbFxbq/uMSWybrExXl6jFtxcXFxcXFxcXFxcXF1x7K9xrZxjnGStceyv7S2pLbFxbq/uJ3AwLzGwYuLwsa2w8p5en6PyLm2w7Z5eL+yvrZ4fXF1v7K+tnp+j8eyvca2eXjHsr3Gtnh6jFtbcXFxcXFxcXFxcXFxurdxeXXHsr3GtnGOjo5xv8a9vXHNzXF1x7K9xrZxjo6OcXh4enHMW3FxcXFxcXFxcXFxcXFxcXHDtsXGw79xdbW2t7LGvcWMW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxccO2xcbDv3G3ur3FtsOwx7LDeXXHsr3Gtn1xl5qdpZajsKeSnZqVkqWWsJOgoJ2Wkp96jFtxcXFxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZ6ccxbcXFxcXFxcXFxcXFxw7bFxsO/cXW1treyxr3FjFtxcXFxcXFxcc5bcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHDtsXGw79xssPDssqNur/FfXGyw8Oyysy+ssW0uYtxxMXDur+4fXG+ssW0ubDFysG2i3HExcO6v7h9ccTFyr22kItxxMXDur+4zb/Gvb19cbq0wL+wtMbExcC+sLa+wLu6sLq1kItxxMXDur+4zb/Gvb3Oj1txcXFxcXuAW3FxcXHBxrO9urRxt8a/tMW6wL9xuLbFpMXKvbajxr22xHl6i3Gyw8OyyltxcXFxzFtxcXFxcXFxcbq3cXlycXXFubrEfo+6xJTGxMXAvrrLssW6wL+Wv7Kzvba1eXp6ccxbcXFxcXFxcXFxcXFxw7bFxsO/cayujFtxcXFxcXFxcc5bW3FxcXFxcXFxw7bFxsO/cXXFubrEfo+4tsWkxcDDtrWkxcq9tqPGvbbEeXqMW3FxcXHOW1txcXFxgHt7W3FxcXFxe3GRw7bFxsO/cbLDw7LKjbq/xX1xssPDssrMvrLFtLmLccTFw7q/uH1xvrLFtLmwxcrBtotxxMXDur+4fXHExcq9tpCLccTFw7q/uM2/xr29fXG6tMC/sLTGxMXAvrC2vsC7urC6tZCLccTFw7q/uM2/xr29zo9bcXFxcXF7gFtxcXFxwcazvbq0cbfGv7TFusC/cbi2xaTFwMO2taTFyr22o8a9tsR5eotxssPDsspbcXFxccxbcXFxcXFxcXHFw8pxzFtxcXFxcXFxcXFxcXF1xbm6xH6Ptr/ExsO2pLbFxbq/uMSWybrExXl6jFtxcXFxcXFxcXFxcXF1w7LIcY5xkrXHsr+0tqS2xcW6v7idwMC8xsGLi8LGtsPKeXp+j8i5tsO2eXi/sr62eH1xxLa9t4uLpJalpZqfmLCkpaqdlrCjpp2WpHp+j8eyvca2eXjHsr3Gtnh6jFtxcXFxcXFxcXFxcXG6t3F5cnG6xLDExcO6v7h5dcOyyHpxzc1xxcO6vnl1w7LIenGOjo5xeHh6ccxbcXFxcXFxcXFxcXFxcXFxccO2xcbDv3HEtr23i4uVlpeSpp2lsKSlqp2WsKOmnZakjFtxcXFxcXFxcXFxcXHOW1txcXFxcXFxcXFxcXF1tba0wLW2tXGOcbvEwL+wtba0wLW2eXXDssh9ccXDxrZ6jFtxcXFxcXFxcXFxcXG6t3F5cnG6xLCyw8Oyynl1tba0wLW2tXp6ccxbcXFxcXFxcXFxcXFxcXFxccO2xcbDv3HEtr23i4uVlpeSpp2lsKSlqp2WsKOmnZakjFtxcXFxcXFxcXFxcXHOW1txcXFxcXFxcXFxcXHDtsXGw79xssPDssqwx7K9xrbEebLDw7LKsLe6vcW2w3l1tba0wLW2tX1xxMWyxbq0cbe/cXl1w8a9tnpxjo9xusSwssPDssp5dcPGvbZ6cXd3cbrExLbFeXXDxr22rHi+ssW0uXiuenp6jFtxcXFxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZ6ccxbcXFxcXFxcXFxcXFxw7bFxsO/ccS2vbeLi5WWl5KmnaWwpKWqnZawo6adlqSMW3FxcXFxcXFxzltxcXFxzltbcXFxcYB7e1txcXFxcXtxkcO2xcbDv3Gyw8Oyyo26v8V9cbLDw7LKzL6yxbS5i3HExcO6v7h9cb6yxbS5sMXKwbaLccTFw7q/uH1xxMXKvbaQi3HExcO6v7jNv8a9vX1xurTAv7C0xsTFwL6wtr7Au7qwurWQi3HExcO6v7jNv8a9vc6PW3FxcXFxe4BbcXFxccHGs726tHG3xr+0xbrAv3G4tsWStb66v6TFyr22o8a9tsR5eotxssPDsspbcXFxccxbcXFxcXFxcXHDtsXGw79xdcW5usR+j7i2xaTFwMO2taTFyr22o8a9tsR5eoxbcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHDtsXGw79xssPDssrMxMXKvbaQi3HExcO6v7h9cbq0wL+wtMbExcC+sLa+wLu6sLq1kItxxMXDur+4zltxcXFxcXuAW3FxcXHBxrO9urRxt8a/tMW6wL9xw7bEwL3HtqTFyr22l8DDlLK9vbOytLx5kMTFw7q/uHF1tLK9vbOytLyVssWyfXGyw8OyynF1wMe2w8O6tbbEcY5xrK56i3Gyw8OyyltxcXFxzFtxcXFxcXFxcXXDtsTGvcVxjnGsroxbW3FxcXFxcXFxt8DDtrK0uXF5rHjExcq9tnh9cXi6tMC/sLTGxMXAvrC2vsC7urC6tXiucbLEcXW3ura9tXpxzFtxcXFxcXFxcXFxcXG6t3F5cnG2vsHFynl1wMe2w8O6tbbErHW3ura9ta56cXd3cXl1t7q2vbVxco6OcXjExcq9tnhxzc1xdcW5usR+j7rEp7K9urWkxcq9tnl5xMXDur+4enF1wMe2w8O6tbbErHW3ura9ta56enpxzFtxcXFxcXFxcXFxcXFxcXFxdcO2xMa9xax1t7q2vbWucY5xecTFw7q/uHpxdcDHtsPDurW2xKx1t7q2vbWujFtxcXFxcXFxcXFxcXHOW3FxcXFxcXFxzltbcXFxcXFxcXG6t3F5dbSyvb2zsrS8lbLFsnGOjo5xv8a9vXHNzXF1tLK9vbOytLyVssWycY6OjnF4eHpxzFtxcXFxcXFxcXFxcXHDtsXGw79xdcO2xMa9xYxbcXFxcXFxcXHOW1txcXFxcXFxcXWytMW6wL9xjnG2ycG9wLW2eXh+eH1xdbSyvb2zsrS8lbLFsn1xg3qsga6MW1txcXFxcXFxcbfAw7aytLlxeXXFubrEfo+4tsWkxcq9tqPGvbbEeXpxssRxdcPGvbZ6ccxbcXFxcXFxcXFxcXFxdb6yxbS5cY5xecTFw7q/uHpxeXXDxr22rHi+ssW0uXiucZCQcXh4eoxbcXFxcXFxcXFxcXFxdb6yxbS5pcrBtnGOcXnExcO6v7h6cXl1w8a9tqx4vrLFtLmwxcrBtniucZCQcXiytMW6wL+wwcO2t7rJeHqMW1txcXFxcXFxcXFxcXF1vrLFtLm2tXGOcb6yxbS5cXl1vrLFtLmlysG2enHMW3FxcXFxcXFxcXFxcXFxcXF4tsmytMV4cY6PcXW0sr29s7K0vJWyxbJxjo6OcXW+ssW0uX1bcXFxcXFxcXFxcXFxcXFxcXiytMW6wL+wwcO2t7rJeHGOj3F1srTFusC/cY6OjnF1vrLFtLlxzc1xxMXDsMTFssPFxLDIusW5eXWytMW6wL99cXW+ssW0uXp9W3FxcXFxcXFxcXFxcXFxcXF4tLK9vbOytLywtMC/xbK6v8R4cY6PccTFw7C0wL/Fsrq/xHl1tLK9vbOytLyVssWyfXF1vrLFtLl6fVtxcXFxcXFxcXFxcXFxcXFxtba3ssa9xXGOj3F1srTFusC/cY6OjnF1vrLFtLl9W3FxcXFxcXFxcXFxcc6MW1txcXFxcXFxcXFxcXG6t3F5cnF1vrLFtLm2tXpxzFtxcXFxcXFxcXFxcXFxcXFxtMC/xbq/xraMW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcbq3cXlycbrExLbFeXXDtsTGvcWseMTFyr22eK56cXd3cXJxtr7Bxcp5dcPGvbaseMTFyr22eK56cXd3cXXFubrEfo+6xKeyvbq1pMXKvbZ5ecTFw7q/uHpxdcPGvbaseMTFyr22eK56enHMW3FxcXFxcXFxcXFxcXFxcXF1w7bExr3FrHjExcq9tniucY5xecTFw7q/uHpxdcPGvbaseMTFyr22eK6MW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcbq3cXlycbrExLbFeXXDtsTGvcWseLq0wL+wtMbExcC+sLa+wLu6sLq1eK56cXd3cXJxtr7Bxcp5dcPGvbaseLq0wL+wtMbExcC+sLa+wLu6sLq1eK56enHMW3FxcXFxcXFxcXFxcXFxcXF1w7bExr3FrHi6tMC/sLTGxMXAvrC2vsC7urC6tXiucY5xecTFw7q/uHpxdcPGvbaseLq0wL+wtMbExcC+sLa+wLu6sLq1eK6MW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcbq3cXm6xMS2xXl1w7bExr3FrHjExcq9tniuenHNzXG6xMS2xXl1w7bExr3FrHi6tMC/sLTGxMXAvrC2vsC7urC6tXiuenpxzFtxcXFxcXFxcXFxcXFxcXFxs8O2sryMW3FxcXFxcXFxcXFxcc5bcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3F1w7bExr3FjFtxcXFxzltbcXFxcYB7e1txcXFxcXtxkcGyw7K+cXGUwL29trTFusC/jbq/xX1xnrK6v562v8aaxba+j826xbbDsrO9to26v8V9cZ6yur+etr/GmsW2vo9xcXW6xba+xFtxcXFxcXtxkcO2xcbDv3Gyw8Oyyo26v8V9cbLDw7LKjbq/xX1xssPDssqNxMXDur+4fXG+usm2tY+Pj1txcXFxcXuAW3FxcXHBxrO9urRxt8a/tMW6wL9xs8a6vbWesrq/nra/xpy2yrPAssO1ebrFtsOys722cXW6xba+xHqLcbLDw7LKW3FxcXHMW3FxcXFxcXFxurdxeXJxdcW5usR+j7rElMbExcC+usuyxbrAv5a/srO9trV5enpxzFtxcXFxcXFxcXFxcXHDtsXGw79xdcW5usR+j7PGur21nba4srTKnrK6v562v8actsqzwLLDtXl1usW2vsR6jFtxcXFxcXFxcc5bW3FxcXFxcXFxdbTAvca+v8RxjnF1xbm6xH6PuLbFmr/FpLbFxbq/uHnEtr23i4uklqWlmp+YsKOWoZ2qsJSgnaaen6R9cYN6jFtxcXFxcXFxcXW3usPExZK9wL+2cY5xdcW5usR+j7i2xZPAwL2ktsXFur+4ecS2vbeLi6SWpaWan5iwnpKan7Celp+msJeao6SlsJKdoJ+WfXHFw8a2eoxbcXFxcXFxcXF1w8DIxHGOcayujFtxcXFxcXFxcXWzxre3tsNxjnGsroxbW3FxcXFxcXFxt8DDtrK0uXF5dbrFtr7EcbLEcXW6xba+enHMW3FxcXFxcXFxcXFxcXWzxsXFwL9xjnF1xbm6xH6Ps8a6vbWjtsG9ypPGxcXAv3lbcXFxcXFxcXFxcXFxcXFxcXnExcO6v7h6cXW6xba+fo+yvbqyxLC/sr62fVtxcXFxcXFxcXFxcXFxcXFxrFtxcXFxcXFxcXFxcXFxcXFxcXFxcXjExcq9tnhxjo9xdbrFtr5+j7PGxcXAv7DExcq9tnGQkHG/xr29fVtxcXFxcXFxcXFxcXFxcXFxcXFxcXi6tMC/sLTGxMXAvrC2vsC7urC6tXhxjo9xdbrFtr5+j7q0wL+wtMbExcC+sLa+wLu6sLq1cZCQcb/Gvb19W3FxcXFxcXFxcXFxcXFxcXGufVtxcXFxcXFxcXFxcXF6jFtbcXFxcXFxcXFxcXFxdbfAw7S2pMC9wKPAyHGOcXmzwMC9enF5dbrFtr5+j8TAvcCww8DIcZCQcbeyvcS2eoxbW3FxcXFxcXFxcXFxcbq3cXl1t8DDtLakwL3Ao8DIcc3NcXl1t7rDxMWSvcC/tnF3d3F1w8DIxHGOjo5xrK5xd3dxdbPGt7e2w3GOjo5xrK56enHMW3FxcXFxcXFxcXFxcXFxcXG6t3F5dbPGt7e2w3Fyjo5xrK56ccxbcXFxcXFxcXFxcXFxcXFxcXFxcXF1w8DIxKyucY5xdbPGt7e2w4xbcXFxcXFxcXFxcXFxcXFxcXFxcXF1s8a3t7bDcY5xrK6MW3FxcXFxcXFxcXFxcXFxcXHOW3FxcXFxcXFxcXFxcXFxcXF1w8DIxKyucY5xrHWzxsXFwL+ujFtbcXFxcXFxcXFxcXFxcXFxcbTAv8W6v8a2jFtxcXFxcXFxcXFxcXHOW1txcXFxcXFxcXFxcXF1s8a3t7bDrK5xjnF1s8bFxcC/jFtxcXFxcXFxcXFxcXG6t3F5tMDGv8V5dbPGt7e2w3pxj45xdbTAvca+v8R6ccxbcXFxcXFxcXFxcXFxcXFxcXXDwMjErK5xjnF1s8a3t7bDjFtxcXFxcXFxcXFxcXFxcXFxdbPGt7e2w3GOcayujFtxcXFxcXFxcXFxcXHOW3FxcXFxcXFxzltbcXFxcXFxcXG6t3F5dbPGt7e2w3Fyjo5xrK56ccxbcXFxcXFxcXFxcXFxdcPAyMSsrnGOcXWzxre3tsOMW3FxcXFxcXFxzltbcXFxcXFxcXHDtsXGw79xdcPAyMSMW3FxcXHOW1txcXFxgHt7W3FxcXFxe3GRwbLDsr5xcbLDw7LKjbq/xX1xssPDssqNxMXDur+4zbq/xX1xvrrJtrWPj3FxdbPGxcXAv8RbcXFxcXF7cZHDtsXGw79xssPDssqNur/FfXGyw8Oyyo26v8V9cbLDw7LKjcTFw7q/uH1xvrrJtrWPj49bcXFxcXF7gFtxcXFxwcazvbq0cbfGv7TFusC/cbfAw76yxZq/vbq/tpy2yrPAssO1ebLDw7LKcXWzxsXFwL/EfXGQur/FcXW0wL3Gvr/EobbDo8DIcY5xv8a9vX1xs8DAvXF1w7a4w8DGwaS6v7i9tqPAyMRxjnHFw8a2eotxssPDsspbcXFxccxbcXFxcXFxcXF1w8DIxHGOcayujFtbcXFxcXFxcXG3wMO2srS5cXl1s8bFxcC/xHGyxHF1w8DIenHMW3FxcXFxcXFxcXFxcbq3cXlycbrEsLLDw7LKeXXDwMh6enHMW3FxcXFxcXFxcXFxcXFxcXG0wL/Fur/GtoxbcXFxcXFxcXFxcXFxzltbcXFxcXFxcXFxcXFxdbfAw76yxcW2taPAyHGOcayujFtxcXFxcXFxcXFxcXG3wMO2srS5cXl1w8DIcbLEcXW8tspxjo9xdceyvca2enHMW3FxcXFxcXFxcXFxcXFxcXG6t3F5usSwur/FeXW8tsp6cXd3cbrEsLLDw7LKeXXHsr3Gtnp6ccxbcXFxcXFxcXFxcXFxcXFxcXFxcXF1t8DDvrLFxba1o8DIrK5xjnF1xbm6xH6Pv8DDvrK9usu2mr+9ur+2k8bFxcC/eXXHsr3GtnqMW3FxcXFxcXFxcXFxcXFxcXFxcXFxtMC/xbq/xraMW3FxcXFxcXFxcXFxcXFxcXHOW1txcXFxcXFxcXFxcXFxcXFxurdxebrEsMS0sr2yw3l1x7K9xrZ6cXd3cXm6xLDExcO6v7h5dby2ynpxzc1xusSwur/FeXW8tsp6cc3NcbrEsLe9wLLFeXW8tsp6enpxzFtxcXFxcXFxcXFxcXFxcXFxcXFxcXW3wMO+ssXFtrWjwMisrnGOcXXFubrEfo+/wMO+sr26y7aav726v7aTxsXFwL95rFtxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXF4xbbJxXhxjo9xecTFw7q/uHpxdby2yn1bcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxeLSyvb2zsrS8sLWyxbJ4cY6PcXnExcO6v7h6cXXHsr3Gtn1bcXFxcXFxcXFxcXFxcXFxcXFxcXGueoxbcXFxcXFxcXFxcXFxcXFxcc5bcXFxcXFxcXFxcXFxzltbcXFxcXFxcXFxcXFxurdxeXW3wMO+ssXFtrWjwMhxco6OcayuenHMW3FxcXFxcXFxcXFxcXFxcXF1w8DIxKyucY5xdbfAw76yxcW2taPAyIxbcXFxcXFxcXFxcXFxzltxcXFxcXFxcc5bW3FxcXFxcXFxurdxeXXDtrjDwMbBpLq/uL22o8DIxHF3d3F1xbm6xH6PusSUxsTFwL66y7LFusC/lr+ys722tXl6cXd3cXXFubrEfo+0sr+jtrjDwMbBo8DIxHl1w8DIxHp6ccxbcXFxcXFxcXFxcXFxdbTAvca+v8RxjnF1tMC9xr6/xKG2w6PAyHGQkHF1xbm6xH6PuLbFmr/FpLbFxbq/uHnEtr23i4uklqWlmp+YsJqfnZqflrCUoJ2mnp+kfXGCeoxbcXFxcXFxcXFxcXFxdcPAyMRxjnF1xbm6xH6Pw7a4w8DGwaS6v7i9tpPGxcXAv6PAyMR5dcPAyMR9cXW0wL3Gvr/EeoxbcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3F1w8DIxIxbcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHBssOyvnFxssPDssqNur/FfXGyw8Oyyo26v8V9cbLDw7LKjcTFw7q/uH1xvrrJtrWPj49xcXWzxsXFwL/EW3FxcXFxe3GRw7bFxsO/cbLDw7LKjbq/xX1xssPDssqNur/FfXGyw8Oyyo3ExcO6v7h9cb66yba1j4+PW3FxcXFxe4BbcXFxccHGs726tHG3xr+0xbrAv3G3wMO+ssWjtsG9ypy2yrPAssO1ebLDw7LKcXWzxsXFwL/EeotxssPDsspbcXFxccxbcXFxcXFxcXF1w8DIxHGOcayujFtbcXFxcXFxcXG3wMO2srS5cXl1s8bFxcC/xHGyxHF1w8DIenHMW3FxcXFxcXFxcXFxcbq3cXlycbrEsLLDw7LKeXXDwMh6enHMW3FxcXFxcXFxcXFxcXFxcXG0wL/Fur/GtoxbcXFxcXFxcXFxcXFxzltbcXFxcXFxcXFxcXFxdbfAw76yxcW2taPAyHGOcayujFtxcXFxcXFxcXFxcXG3wMO2srS5cXl1w8DIcbLEcXWzxsXFwL96ccxbcXFxcXFxcXFxcXFxcXFxcbq3cXm6xLDExcO6v7h5dbPGxcXAv3p6ccxbcXFxcXFxcXFxcXFxcXFxcXFxcXF1t8DDvrLFxba1o8DIrK5xjnF1xbm6xH6Ps8a6vbWjtsG9ypPGxcXAv3l1s8bFxcC/eoxbcXFxcXFxcXFxcXFxcXFxcXFxcXG0wL/Fur/GtoxbcXFxcXFxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcXFxcXG6t3F5cnG6xLCyw8Oyynl1s8bFxcC/enpxzFtxcXFxcXFxcXFxcXFxcXFxcXFxcbTAv8W6v8a2jFtxcXFxcXFxcXFxcXFxcXFxzltbcXFxcXFxcXFxcXFxcXFxcXW3wMO+ssXFtrWjwMisrnGOcXXFubrEfo+zxrq9taO2wb3Kk8bFxcC/eVtxcXFxcXFxcXFxcXFxcXFxcXFxcXnExcO6v7h6cXl1s8bFxcC/rHjFtsnFeK5xkJBxeHh6fVtxcXFxcXFxcXFxcXFxcXFxcXFxcaxbcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxeMTFyr22eHGOj3F1s8bFxcC/rHjExcq9tniucZCQcb/Gvb19W3FxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXi6tMC/sLTGxMXAvrC2vsC7urC6tXhxjo9xdbPGxcXAv6x4urTAv7C0xsTFwL6wtr7Au7qwurV4rnGQkHG/xr29fVtxcXFxcXFxcXFxcXFxcXFxcXFxca59W3FxcXFxcXFxcXFxcXFxcXFxcXFxdbPGxcXAv31bcXFxcXFxcXFxcXFxcXFxcXqMW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcbq3cXl1t8DDvrLFxba1o8DIcXKOjnGsrnpxzFtxcXFxcXFxcXFxcXFxcXFxdcPAyMSsrnGOcXW3wMO+ssXFtrWjwMiMW3FxcXFxcXFxcXFxcc5bcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3F1w8DIxIxbcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHBssOyvnFxssPDssqNur/FfXGyw8Oyyo3ExcO6v7h9ccTFw7q/uI+PcXF1s8bFxcC/xFtxcXFxcXtxkcO2xcbDv3Gyw8Oyyo26v8V9cbLDw7LKjcTFw7q/uH1xxMXDur+4j49bcXFxcXF7gFtxcXFxwcazvbq0cbfGv7TFusC/cbLBwb3KobK0vLK4tpPGxcXAv52yysDGxXmyw8OyynF1s8bFxcC/xHqLcbLDw7LKW3FxcXHMW3FxcXFxcXFxurdxeXJxdcW5usR+j7rElMbExcC+usuyxbrAv5a/srO9trV5enpxzFtxcXFxcXFxcXFxcXHDtsXGw79xdbPGxcXAv8SMW3FxcXFxcXFxzltbcXFxcXFxcXF1tMC9xr6/xHGOcXXFubrEfo+4tsWav8WktsXFur+4ecS2vbeLi6SWpaWan5iwoZKUnJKYlrCUoJ2mnp+kfXGCeoxbcXFxcXFxcXG6t3F5dbTAvca+v8RxjY5xgnpxzFtxcXFxcXFxcXFxcXHDtsXGw79xdbPGxcXAv8SMW3FxcXFxcXFxzltbcXFxcXFxcXF1t72yxXGOcayujFtxcXFxcXFxcbfAw7aytLlxeXWzxsXFwL/EcbLEcXXDwMh6ccxbcXFxcXFxcXFxcXFxt8DDtrK0uXF5dcPAyHGyxHF1xbbJxXGOj3F1tLK9vbOytLx6ccxbcXFxcXFxcXFxcXFxcXFxcXW3vbLFrK5xjnGsdcW2ycVxjo9xdbSyvb2zsrS8roxbcXFxcXFxcXFxcXFxzltxcXFxcXFxcc5bW3FxcXFxcXFxdbjDwMbBtrVxjnGsroxbcXFxcXFxcXF1s8a3t7bDcY5xrK6MW3FxcXFxcXFxt8DDtrK0uXF5dbe9ssVxssRxdbrFtr56ccxbcXFxcXFxcXFxcXFxdbPGt7e2w6yucY5xdbrFtr6MW3FxcXFxcXFxcXFxcbq3cXm0wMa/xXl1s8a3t7bDenGPjnF1tMC9xr6/xHpxzFtxcXFxcXFxcXFxcXFxcXFxdbjDwMbBtrWsrnGOcbLDw7LKsL62w7i2eX9/f7LDw7LKsL6ywXnExbLFurRxt79xeXW2v8XDynpxjo9xdba/xcPKfXF1s8a3t7bDenqMW3FxcXFxcXFxcXFxcXFxcXF1s8a3t7bDcY5xrK6MW3FxcXFxcXFxcXFxcc5bcXFxcXFxcXHOW1txcXFxcXFxcbq3cXl1s8a3t7bDcXKOjnGsrnpxzFtxcXFxcXFxcXFxcXF1uMPAxsG2tayucY5xssPDssqwvrbDuLZ5f39/ssPDssqwvrLBecTFssW6tHG3v3F5dba/xcPKenGOj3F1tr/Fw8p9cXWzxre3tsN6eoxbcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3Gyw8OyyrC+ssF5xMWyxbq0cbe/cXl1w8DIenGOj3F1w8DIfXF1uMPAxsG2tXqMW3FxcXHOW1txcXFxwcazvbq0cbfGv7TFusC/ccO2wb3KnLbKs8Cyw7WgwcW6wL/EeXqLcbLDw7LKW3FxcXHMW3FxcXFxcXFxdcDBxbrAv8RxjnGsW3FxcXFxcXFxcXFxcXjDtsS6y7awvLbKs8Cyw7V4cY6PccXDxrZ9W3FxcXFxcXFxroxbW3FxcXFxcXFxurdxeXXFubrEfo+6xJTGxMXAvrrLssW6wL+Wv7Kzvba1eXpxd3dxdcW5usR+j7i2xZPAwL2ktsXFur+4ecS2vbeLi6SWpaWan5iwo5ahnaqwoZajpJqkpZafpX1xt7K9xLZ6enHMW3FxcXFxcXFxcXFxcXXAwcW6wL/ErHi6xLDBtsPEusTFtr/FeK5xjnHFw8a2jFtxcXFxcXFxcc5bW3FxcXFxcXFxw7bFxsO/cXXAwcW6wL/EjFtxcXFxzltbcXFxcYB7e1txcXFxcXtxkcGyw7K+cXGyw8Oyyo3ExcO6v7h9cb66yba1j3FxdbPGxcXAv1txcXFxcXtxkcO2xcbDv3Gyw8Oyyo3ExcO6v7h9cb66yba1j1txcXFxcXuAW3FxcXHBw7rHssW2cbfGv7TFusC/cb/Aw76yvbrLtpq/vbq/tpPGxcXAv3myw8OyynF1s8bFxcC/eotxssPDsspbcXFxccxbcXFxcXFxcXF1xbbJxXGOcXnExcO6v7h6cXl1s8bFxcC/rHjFtsnFeK5xkJBxeHh6jFtxcXFxcXFxcXW0sr29s7K0vJWyxbJxjnF5xMXDur+4enF5dbPGxcXAv6x4tLK9vbOytLywtbLFsniucZCQcXWzxsXFwL+seLSyvb2zsrS8eK5xkJBxeHh6jFtbcXFxcXFxcXF1v8DDvrK9usu2tXGOcax4xbbJxXhxjo9xdcW2ycWujFtbcXFxcXFxcXG6t3F5dbSyvb2zsrS8lbLFsnFyjo5xeHh6ccxbcXFxcXFxcXFxcXFxdb/Aw76yvbrLtrWseLSyvb2zsrS8sLWyxbJ4rnGOcXW0sr29s7K0vJWyxbKMW3FxcXFxcXFxzltbcXFxcXFxcXG3wMO2srS5cXmseMbDvXh9cXjItrOwssHBeH1xeL3AuLq/sMbDvXh9cXjEyLrFtLmwur+9ur+2sMLGtsPKeH1xeMTIusW0ubC6v726v7awwsa2w8qwtMbDw7a/xbC0ubLFeH1xeMGyynh9cXi0wMHKsMW2ycV4rnGyxHF1t7q2vbV6ccxbcXFxcXFxcXFxcXFxurdxeXJxtr7Bxcp5dbPGxcXAv6x1t7q2vbWuenpxzFtxcXFxcXFxcXFxcXFxcXFxdb/Aw76yvbrLtrWsdbe6tr21rnGOcXWzxsXFwL+sdbe6tr21roxbcXFxcXFxcXFxcXFxzltxcXFxcXFxcc5bW3FxcXFxcXFxdcTFyr22nrbFsnGOcXXFubrEfo+6xJTGxMXAvrrLssW6wL+Wv7Kzvba1eXpbcXFxcXFxcXFxcXFxkHF1xbm6xH6Pw7bEwL3HtqTFyr22l8DDlLK9vbOytLx5W3FxcXFxcXFxcXFxcXFxcXF1tLK9vbOytLyVssWycXKOjnF4eHGQcXW0sr29s7K0vJWyxbJxi3G/xr29fVtxcXFxcXFxcXFxcXFxcXFxrFtxcXFxcXFxcXFxcXFxcXFxcXFxcXjExcq9tnhxjo9xdbPGxcXAv6x4xMXKvbZ4rnGQkHG/xr29fVtxcXFxcXFxcXFxcXFxcXFxcXFxcXi6tMC/sLTGxMXAvrC2vsC7urC6tXhxjo9xdbPGxcXAv6x4urTAv7C0xsTFwL6wtr7Au7qwurV4rnGQkHG/xr29fVtxcXFxcXFxcXFxcXFxcXFxrn1bcXFxcXFxcXFxcXFxeltxcXFxcXFxcXFxcXGLcayujFtbcXFxcXFxcXHDtsXGw79xdcW5usR+j7LBwba/taTFyr22l7q2vbXEeXW/wMO+sr26y7a1fXF1xMXKvbaetsWyeoxbcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHBssOyvnFxssPDssqNxMXDur+4fXG+usm2tY9xcXW2ycXDspe6tr21xFtxcXFxcXtxkcGyw7K+cXGyw8OyyszExcq9tpCLccTFw7q/uH1xurTAv7C0xsTFwL6wtr7Au7qwurWQi3HExcO6v7jOcXF1xMXKvbaetsWyW3FxcXFxe3GRw7bFxsO/cbLDw7LKjcTFw7q/uH1xvrrJtrWPW3FxcXFxe4BbcXFxccHDuseyxbZxt8a/tMW6wL9xs8a6vbWjtsG9ypPGxcXAv3nExcO6v7hxdcW2ycV9cbLDw7LKcXXExcq9tp62xbJxjnGsrn1xssPDsspxdbbJxcOyl7q2vbXEcY5xrK56i3Gyw8OyyltxcXFxzFtxcXFxcXFxcXWzxsXFwL9xjnGseMW2ycV4cY6PcXXFtsnFroxbW3FxcXFxcXFxt8DDtrK0uXF5rHjDtsLGtsTFsLTAv8WytMV4fXF4w7bCxrbExbC9wLSyxbrAv3h9cXjDtsLGtsTFsMHAvb14fXF4yLazsLLBwXiucbLEcXW3ura9tXpxzFtxcXFxcXFxcXFxcXG6t3F5cnG2vsHFynl1tsnFw7KXura9tcSsdbe6tr21rnp6ccxbcXFxcXFxcXFxcXFxcXFxcXWzxsXFwL+sdbe6tr21rnGOcXW2ycXDspe6tr21xKx1t7q2vbWujFtxcXFxcXFxcXFxcXHOW3FxcXFxcXFxzltbcXFxcXFxcXHDtsXGw79xdcW5usR+j7LBwba/taTFyr22l7q2vbXEeXWzxsXFwL99cXXFubrEfo+6xJTGxMXAvrrLssW6wL+Wv7Kzvba1eXpxkHF1xMXKvbaetsWycYtxrK56jFtxcXFxzltbcXFxcYB7e1txcXFxcXtxkcGyw7K+cXGyw8Oyyo3ExcO6v7h9cb66yba1j3FxdbPGxcXAv1txcXFxcXtxkcGyw7K+cXGyw8OyyszExcq9tpCLccTFw7q/uH1xurTAv7C0xsTFwL6wtr7Au7qwurWQi3HExcO6v7jOcXF1xMXKvbaetsWyW3FxcXFxe3GRw7bFxsO/cbLDw7LKjcTFw7q/uH1xvrrJtrWPW3FxcXFxe4BbcXFxccHDuseyxbZxt8a/tMW6wL9xssHBtr+1pMXKvbaXura9tcR5ssPDsspxdbPGxcXAv31xssPDsspxdcTFyr22nrbFsnqLcbLDw7LKW3FxcXHMW3FxcXFxcXFxurdxeXJxtr7Bxcp5dcTFyr22nrbFsqx4xMXKvbZ4rnpxd3dxdcW5usR+j7rEp7K9urWkxcq9tnl5xMXDur+4enF1xMXKvbaetsWyrHjExcq9tniuenpxzFtxcXFxcXFxcXFxcXF1s8bFxcC/rHjExcq9tniucY5xecTFw7q/uHpxdcTFyr22nrbFsqx4xMXKvbZ4roxbcXFxcXFxcXHOW1txcXFxcXFxcbq3cXlycba+wcXKeXXExcq9tp62xbKseLq0wL+wtMbExcC+sLa+wLu6sLq1eK56enHMW3FxcXFxcXFxcXFxcXWzxsXFwL+seLq0wL+wtMbExcC+sLa+wLu6sLq1eK5xjnF5xMXDur+4enF1xMXKvbaetsWyrHi6tMC/sLTGxMXAvrC2vsC7urC6tXiujFtxcXFxcXFxcc5bW3FxcXFxcXFxw7bFxsO/cXWzxsXFwL+MW3FxcXHOW1txcXFxgHt7W3FxcXFxe3GRwbLDsr5xcbLDw7LKjbq/xX1xssPDssqNur/FfXGyw8Oyyo3ExcO6v7h9cb66yba1j4+PcXF1w8DIxFtxcXFxcXuAW3FxcXHBw7rHssW2cbfGv7TFusC/cbSyv6O2uMPAxsGjwMjEebLDw7LKcXXDwMjEeotxs8DAvVtxcXFxzFtxcXFxcXFxcbq3cXl1w8DIxHGOjo5xrK56ccxbcXFxcXFxcXFxcXFxw7bFxsO/cbeyvcS2jFtxcXFxcXFxcc5bW3FxcXFxcXFxt8DDtrK0uXF5dcPAyMRxssRxdcPAyHpxzFtxcXFxcXFxcXFxcXG6t3F5tMDGv8V5dcPAyHpxco6OcYJ6ccxbcXFxcXFxcXFxcXFxcXFxccO2xcbDv3G3sr3EtoxbcXFxcXFxcXFxcXFxzltxcXFxcXFxcc5bW3FxcXFxcXFxw7bFxsO/ccXDxraMW3FxcXHOW1txcXFxgHt7W3FxcXFxe3GRwbLDsr5xcbLDw7LKjbq/xX1xssPDssqNur/FfXGyw8Oyyo3ExcO6v7h9cb66yba1j4+PcXF1w8DIxFtxcXFxcXtxkcO2xcbDv3Gyw8Oyyo26v8V9cbLDw7LKjbq/xX1xssPDssqNxMXDur+4fXG+usm2tY+Pj1txcXFxcXuAW3FxcXHBw7rHssW2cbfGv7TFusC/ccO2uMPAxsGkur+4vbaTxsXFwL+jwMjEebLDw7LKcXXDwMjEfXG6v8VxdbTAvca+v8R6i3Gyw8OyyltxcXFxzFtxcXFxcXFxcbq3cXl1tMC9xr6/xHGNjnGCenHMW3FxcXFxcXFxcXFxccO2xcbDv3F1w8DIxIxbcXFxcXFxcXHOW1txcXFxcXFxcXW3vbLFcY5xssPDssqwvrbDuLZ5f39/dcPAyMR6jFtxcXFxcXFxcXXDtrjDwMbBtrVxjnGsroxbcXFxcXFxcXF1s8a3t7bDcY5xrK6MW1txcXFxcXFxcbfAw7aytLlxeXW3vbLFcbLEcXWzxsXFwL96ccxbcXFxcXFxcXFxcXFxdbPGt7e2w6yucY5xdbPGxcXAv4xbcXFxcXFxcXFxcXFxurdxebTAxr/FeXWzxre3tsN6cY+OcXW0wL3Gvr/EenHMW3FxcXFxcXFxcXFxcXFxcXF1w7a4w8DGwba1rK5xjnF1s8a3t7bDjFtxcXFxcXFxcXFxcXFxcXFxdbPGt7e2w3GOcayujFtxcXFxcXFxcXFxcXHOW3FxcXFxcXFxzltbcXFxcXFxcXG6t3F5dbPGt7e2w3Fyjo5xrK56ccxbcXFxcXFxcXFxcXFxdcO2uMPAxsG2tayucY5xdbPGt7e2w4xbcXFxcXFxcXHOW1txcXFxcXFxccO2xcbDv3F1w7a4w8DGwba1jFtxcXFxzltbcXFxccHDuseyxbZxt8a/tMW6wL9xusSnsr26taTFyr22ecTFw7q/uHF1xMXKvbZ6i3GzwMC9W3FxcXHMW3FxcXFxcXFxw7bFxsO/cbq/sLLDw7LKeXXExcq9tn1xxLa9t4uLpKWqnZakfXHFw8a2eoxbcXFxcc5bW3FxcXGAe3tbcXFxcXF7cZHBssOyvnFxusW2w7KzvbaNur/FfXGesrq/nra/xprFtr6PcXF1usW2vsRbcXFxcXF7cZHDtsXGw79xssPDssqNur/FfXGyw8Oyyo26v8V9cbLDw7LKjcTFw7q/uH1xxMXDur+4j4+PW3FxcXFxe4BbcXFxccHDuseyxbZxt8a/tMW6wL9xs8a6vbWdtriytMqesrq/nra/xpy2yrPAssO1ebrFtsOys722cXW6xba+xHqLcbLDw7LKW3FxcXHMW3FxcXFxcXFxdcPAyMRxjnGsroxbcXFxcXFxcXF1s8a3t7bDcY5xrK6MW3FxcXFxcXFxdbrEl7rDxMVxjnHFw8a2jFtbcXFxcXFxcXG3wMO2srS5cXl1usW2vsRxssRxdbrFtr56ccxbcXFxcXFxcXFxcXFxdbPGxcXAv3GOcax4xbbJxXhxjo9xecTFw7q/uHpxdbrFtr5+j7K9urLEsL+yvraujFtbcXFxcXFxcXFxcXFxurdxeXW6xJe6w8TFenHMW3FxcXFxcXFxcXFxcXFxcXF1w8DIxKyucY5xrHWzxsXFwL+ujFtxcXFxcXFxcXFxcXFxcXFxdbrEl7rDxMVxjnG3sr3EtoxbW3FxcXFxcXFxcXFxcXFxcXG0wL/Fur/GtoxbcXFxcXFxcXFxcXFxzltbcXFxcXFxcXFxcXFxdbPGt7e2w6yucY5xdbPGxcXAv4xbcXFxcXFxcXFxcXFxurdxebTAxr/FeXWzxre3tsN6cY+OcYN6ccxbcXFxcXFxcXFxcXFxcXFxcXXDwMjErK5xjnF1s8a3t7bDjFtxcXFxcXFxcXFxcXFxcXFxdbPGt7e2w3GOcayujFtxcXFxcXFxcXFxcXHOW3FxcXFxcXFxzltbcXFxcXFxcXG6t3F5dbPGt7e2w3Fyjo5xrK56ccxbcXFxcXFxcXFxcXFxdcPAyMSsrnGOcXWzxre3tsOMW3FxcXFxcXFxzltbcXFxcXFxcXHDtsXGw79xdcPAyMSMW3FxcXHOW85b
+
+namespace App\Services;
+
+use App\Http\Controllers\AdvanceSettingLookupController;
+use App\Models\AdvanceSettingLookup;
+use App\Models\MainMenuItem;
+use Illuminate\Support\Collection;
+
+class BotKeyboardConfigService
+{
+    public const SETTING_REPLY_COLUMNS = 'bot_reply_buttons_per_row';
+
+    public const SETTING_INLINE_COLUMNS = 'bot_inline_buttons_per_row';
+
+    public const SETTING_PACKAGE_COLUMNS = 'bot_package_buttons_per_row';
+
+    public const SETTING_REPLY_PERSISTENT = 'bot_reply_keyboard_persistent';
+
+    public const SETTING_MAIN_MENU_FIRST_ALONE = 'bot_main_menu_first_item_alone';
+
+    public const SETTING_STYLE_RULES = 'bot_button_style_rules';
+
+    public const STYLES = ['primary', 'success', 'danger'];
+
+    /** @var array<int, array{match: string, match_type: string, style?: string|null, icon_custom_emoji_id?: string|null}> */
+    public const DEFAULT_STYLE_RULES = [
+        ['match' => 'confirmBuy', 'match_type' => 'action_prefix', 'style' => 'success'],
+        ['match' => 'confirmRecharge', 'match_type' => 'action_prefix', 'style' => 'success'],
+        ['match' => 'confirmReceipt', 'match_type' => 'action_prefix', 'style' => 'success'],
+        ['match' => 'confirmDeleteHistory', 'match_type' => 'action_prefix', 'style' => 'danger'],
+        ['match' => 'cancel', 'match_type' => 'action_prefix', 'style' => 'danger'],
+        ['match' => 'deleteHistory', 'match_type' => 'action_prefix', 'style' => 'danger'],
+        ['match' => 'buySubscription', 'match_type' => 'action_prefix', 'style' => 'primary'],
+        ['match' => 'buyHistoryNext', 'match_type' => 'action_prefix', 'style' => 'primary'],
+        ['match' => 'accountLoyaltyHistoryPage', 'match_type' => 'action_prefix', 'style' => 'primary'],
+        ['match' => 'recharge', 'match_type' => 'action_prefix', 'style' => 'primary'],
+        ['match' => '0', 'match_type' => 'exact', 'style' => null],
+    ];
+
+    public function __construct(
+        private readonly AdvanceSettingLookupController $advanceSettingLookup = new AdvanceSettingLookupController(),
+        private readonly ?LicenseFeatureService $licenseFeature = null,
+        private readonly ?bool $forceCustomizationEnabled = null,
+    ) {
+    }
+
+    private ?bool $customizationEnabled = null;
+
+    public function isCustomizationEnabled(): bool
+    {
+        if ($this->forceCustomizationEnabled !== null) {
+            return $this->forceCustomizationEnabled;
+        }
+
+        if ($this->customizationEnabled !== null) {
+            return $this->customizationEnabled;
+        }
+
+        try {
+            $this->customizationEnabled = ($this->licenseFeature ?? new LicenseFeatureService())
+                ->canCustomizeBotButtons();
+        } catch (\Throwable) {
+            $this->customizationEnabled = false;
+        }
+
+        return $this->customizationEnabled;
+    }
+
+    public function ensureSettingsExist(): void
+    {
+        try {
+            $defaults = [
+                [self::SETTING_REPLY_COLUMNS, '2', 'تعداد دکمه در هر ردیف منوی اصلی (کیبورد پایین)'],
+                [self::SETTING_INLINE_COLUMNS, '1', 'تعداد دکمه در هر ردیف کیبورد اینلاین (پیش‌فرض)'],
+                [self::SETTING_PACKAGE_COLUMNS, '1', 'تعداد دکمه در هر ردیف لیست بسته‌ها'],
+                [self::SETTING_REPLY_PERSISTENT, 'false', 'کیبورد پایین همیشه نمایش داده شود (is_persistent)'],
+                [self::SETTING_MAIN_MENU_FIRST_ALONE, 'true', 'اولین آیتم منوی اصلی در ردیف جداگانه'],
+                [self::SETTING_STYLE_RULES, json_encode(self::DEFAULT_STYLE_RULES, JSON_UNESCAPED_UNICODE), 'قوانین استایل و رنگ دکمه‌های اینلاین'],
+            ];
+
+            foreach ($defaults as [$name, $value, $description]) {
+                if (! AdvanceSettingLookup::query()->where('name', $name)->exists()) {
+                    AdvanceSettingLookup::query()->create([
+                        'name' => $name,
+                        'value' => $value,
+                        'description' => $description,
+                    ]);
+                }
+            }
+        } catch (\Throwable) {
+            // Settings table may be unavailable during tests or early bootstrap.
+        }
+    }
+
+    public function getIntSetting(string $name, int $default, int $min = 1, int $max = 8): int
+    {
+        try {
+            $this->ensureSettingsExist();
+            $value = AdvanceSettingLookup::query()->where('name', $name)->value('value');
+
+            return max($min, min($max, (int) ($value ?: $default)));
+        } catch (\Throwable) {
+            return $default;
+        }
+    }
+
+    public function getBoolSetting(string $name, bool $default = false): bool
+    {
+        try {
+            $this->ensureSettingsExist();
+            $value = AdvanceSettingLookup::query()->where('name', $name)->value('value');
+
+            if ($value === null || $value === '') {
+                return $default;
+            }
+
+            return filter_var($value, FILTER_VALIDATE_BOOLEAN);
+        } catch (\Throwable) {
+            return $default;
+        }
+    }
+
+    /**
+     * @return array<int, array{match: string, match_type: string, style?: string|null, icon_custom_emoji_id?: string|null}>
+     */
+    public function getStyleRules(): array
+    {
+        if (! $this->isCustomizationEnabled()) {
+            return [];
+        }
+
+        return $this->getStoredStyleRules();
+    }
+
+    /**
+     * @return array<int, array{match: string, match_type: string, style?: string|null, icon_custom_emoji_id?: string|null}>
+     */
+    public function getStoredStyleRules(): array
+    {
+        try {
+            $this->ensureSettingsExist();
+            $raw = AdvanceSettingLookup::query()->where('name', self::SETTING_STYLE_RULES)->value('value');
+            if (! is_string($raw) || trim($raw) === '') {
+                return self::DEFAULT_STYLE_RULES;
+            }
+
+            $decoded = json_decode($raw, true);
+            if (! is_array($decoded)) {
+                return self::DEFAULT_STYLE_RULES;
+            }
+
+            return array_values(array_filter($decoded, static fn ($rule) => is_array($rule) && isset($rule['match'])));
+        } catch (\Throwable) {
+            return self::DEFAULT_STYLE_RULES;
+        }
+    }
+
+    /**
+     * @return array<int, array{match: string, match_type: string, style?: string|null, icon_custom_emoji_id?: string|null}>
+     */
+    public function getAdminStyleRules(): array
+    {
+        return $this->getStoredStyleRules();
+    }
+
+    /**
+     * @return array{style?: string, icon_custom_emoji_id?: string}
+     */
+    public function resolveStyleForCallback(?string $callbackData, array $overrides = []): array
+    {
+        $result = [];
+
+        foreach (['style', 'icon_custom_emoji_id'] as $field) {
+            if (! empty($overrides[$field]) && ($field !== 'style' || $this->isValidStyle((string) $overrides[$field]))) {
+                $result[$field] = (string) $overrides[$field];
+            }
+        }
+
+        if ($callbackData === null || $callbackData === '') {
+            return $result;
+        }
+
+        $action = explode('-', $callbackData, 2)[0];
+
+        foreach ($this->getStyleRules() as $rule) {
+            $match = (string) ($rule['match'] ?? '');
+            $matchType = (string) ($rule['match_type'] ?? 'action_prefix');
+
+            $matched = match ($matchType) {
+                'exact' => $callbackData === $match,
+                'action_prefix' => $action === $match || str_starts_with($action, $match),
+                'callback_contains' => str_contains($callbackData, $match),
+                default => $action === $match,
+            };
+
+            if (! $matched) {
+                continue;
+            }
+
+            if (! isset($result['style']) && ! empty($rule['style']) && $this->isValidStyle((string) $rule['style'])) {
+                $result['style'] = (string) $rule['style'];
+            }
+
+            if (! isset($result['icon_custom_emoji_id']) && ! empty($rule['icon_custom_emoji_id'])) {
+                $result['icon_custom_emoji_id'] = (string) $rule['icon_custom_emoji_id'];
+            }
+
+            if (isset($result['style']) || isset($result['icon_custom_emoji_id'])) {
+                break;
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param  Collection<int, MainMenuItem>|iterable<int, MainMenuItem>  $items
+     * @return array<int, array<int, array<string, mixed>>>
+     */
+    public function buildMainMenuKeyboard(iterable $items): array
+    {
+        if (! $this->isCustomizationEnabled()) {
+            return $this->buildLegacyMainMenuKeyboard($items);
+        }
+
+        $columns = $this->getIntSetting(self::SETTING_REPLY_COLUMNS, 2);
+        $firstAlone = $this->getBoolSetting(self::SETTING_MAIN_MENU_FIRST_ALONE, true);
+        $rows = [];
+        $buffer = [];
+
+        foreach ($items as $item) {
+            $button = $this->buildReplyButton(
+                (string) $item->alias_name,
+                [
+                    'style' => $item->button_style ?? null,
+                    'icon_custom_emoji_id' => $item->icon_custom_emoji_id ?? null,
+                ],
+            );
+
+            $forceSoloRow = (bool) ($item->solo_row ?? false);
+
+            if ($forceSoloRow || ($firstAlone && $rows === [] && $buffer === [])) {
+                if ($buffer !== []) {
+                    $rows[] = $buffer;
+                    $buffer = [];
+                }
+                $rows[] = [$button];
+
+                continue;
+            }
+
+            $buffer[] = $button;
+            if (count($buffer) >= $columns) {
+                $rows[] = $buffer;
+                $buffer = [];
+            }
+        }
+
+        if ($buffer !== []) {
+            $rows[] = $buffer;
+        }
+
+        return $rows;
+    }
+
+    /**
+     * @param  array<int, array<string|int, mixed>>  $buttons
+     * @return array<int, array<int, array<string, mixed>>>
+     */
+    public function formatInlineKeyboard(array $buttons, ?int $columnsPerRow = null, bool $regroupSingleRows = true): array
+    {
+        $rows = [];
+
+        foreach ($buttons as $row) {
+            if (! is_array($row)) {
+                continue;
+            }
+
+            $formattedRow = [];
+            foreach ($row as $key => $value) {
+                if (is_int($key) && is_array($value)) {
+                    $formattedRow[] = $this->normalizeInlineButton($value);
+                    continue;
+                }
+
+                if (is_scalar($value) && (is_string($key) || is_int($key) || is_float($key))) {
+                    $formattedRow[] = $this->normalizeInlineButton([
+                        'text' => (string) $key,
+                        'callback_data' => (string) $value,
+                    ]);
+                }
+            }
+
+            if ($formattedRow !== []) {
+                $rows[] = $formattedRow;
+            }
+        }
+
+        if ($regroupSingleRows && $this->isCustomizationEnabled() && $this->canRegroupRows($rows)) {
+            $columns = $columnsPerRow ?? $this->getIntSetting(self::SETTING_INLINE_COLUMNS, 1);
+            $rows = $this->regroupSingleButtonRows($rows, $columns);
+        }
+
+        return $rows;
+    }
+
+    /**
+     * @param  array<int, array<int, array<string, mixed>>>  $buttons
+     * @return array<int, array<int, array<string, mixed>>>
+     */
+    public function formatReplyKeyboard(array $buttons): array
+    {
+        $rows = [];
+
+        foreach ($buttons as $row) {
+            if (! is_array($row)) {
+                continue;
+            }
+
+            $formattedRow = [];
+            foreach ($row as $button) {
+                if (is_string($button)) {
+                    $formattedRow[] = $this->buildReplyButton($button);
+                    continue;
+                }
+
+                if (! is_array($button)) {
+                    continue;
+                }
+
+                $formattedRow[] = $this->buildReplyButton(
+                    (string) ($button['text'] ?? ''),
+                    [
+                        'style' => $button['style'] ?? null,
+                        'icon_custom_emoji_id' => $button['icon_custom_emoji_id'] ?? null,
+                    ],
+                    $button,
+                );
+            }
+
+            if ($formattedRow !== []) {
+                $rows[] = $formattedRow;
+            }
+        }
+
+        return $rows;
+    }
+
+    /**
+     * @param  array<int, array<string, string>>  $buttons
+     * @return array<int, array<string, string>>
+     */
+    public function applyPackageButtonLayout(array $buttons): array
+    {
+        if (! $this->isCustomizationEnabled()) {
+            return $buttons;
+        }
+
+        $columns = $this->getIntSetting(self::SETTING_PACKAGE_COLUMNS, 1);
+        if ($columns <= 1) {
+            return $buttons;
+        }
+
+        $flat = [];
+        foreach ($buttons as $row) {
+            foreach ($row as $text => $callback) {
+                $flat[] = [$text => $callback];
+            }
+        }
+
+        $grouped = [];
+        $buffer = [];
+        foreach ($flat as $item) {
+            $buffer[] = $item;
+            if (count($buffer) >= $columns) {
+                $grouped[] = array_merge(...array_map(static fn ($entry) => $entry, $buffer));
+                $buffer = [];
+            }
+        }
+
+        if ($buffer !== []) {
+            $grouped[] = array_merge(...array_map(static fn ($entry) => $entry, $buffer));
+        }
+
+        return array_map(static fn ($row) => $row, $grouped);
+    }
+
+    public function replyKeyboardOptions(): array
+    {
+        $options = [
+            'resize_keyboard' => true,
+        ];
+
+        if ($this->isCustomizationEnabled() && $this->getBoolSetting(self::SETTING_REPLY_PERSISTENT, false)) {
+            $options['is_persistent'] = true;
+        }
+
+        return $options;
+    }
+
+    /**
+     * @param  array<string, mixed>  $button
+     * @return array<string, mixed>
+     */
+    private function normalizeInlineButton(array $button): array
+    {
+        $text = (string) ($button['text'] ?? '');
+        $callbackData = (string) ($button['callback_data'] ?? $button['callback'] ?? '');
+
+        $normalized = ['text' => $text];
+
+        if ($callbackData !== '') {
+            $normalized['callback_data'] = $callbackData;
+        }
+
+        foreach (['url', 'web_app', 'login_url', 'switch_inline_query', 'switch_inline_query_current_chat', 'pay', 'copy_text'] as $field) {
+            if (! empty($button[$field])) {
+                $normalized[$field] = $button[$field];
+            }
+        }
+
+        $styleMeta = $this->isCustomizationEnabled()
+            ? $this->resolveStyleForCallback(
+                $callbackData !== '' ? $callbackData : null,
+                [
+                    'style' => $button['style'] ?? null,
+                    'icon_custom_emoji_id' => $button['icon_custom_emoji_id'] ?? null,
+                ],
+            )
+            : [];
+
+        return $this->appendStyleFields($normalized, $styleMeta);
+    }
+
+    /**
+     * @param  array<string, mixed>  $extraFields
+     * @param  array{style?: string, icon_custom_emoji_id?: string}  $styleMeta
+     * @return array<string, mixed>
+     */
+    private function buildReplyButton(string $text, array $styleMeta = [], array $extraFields = []): array
+    {
+        $button = ['text' => $text];
+
+        foreach (['request_contact', 'request_location', 'request_poll', 'web_app'] as $field) {
+            if (! empty($extraFields[$field])) {
+                $button[$field] = $extraFields[$field];
+            }
+        }
+
+        return $this->appendStyleFields($button, $this->isCustomizationEnabled() ? $styleMeta : []);
+    }
+
+    /**
+     * @param  array<string, mixed>  $button
+     * @param  array{style?: string, icon_custom_emoji_id?: string}  $styleMeta
+     * @return array<string, mixed>
+     */
+    private function appendStyleFields(array $button, array $styleMeta): array
+    {
+        if (! empty($styleMeta['style']) && $this->isValidStyle((string) $styleMeta['style'])) {
+            $button['style'] = (string) $styleMeta['style'];
+        }
+
+        if (! empty($styleMeta['icon_custom_emoji_id'])) {
+            $button['icon_custom_emoji_id'] = (string) $styleMeta['icon_custom_emoji_id'];
+        }
+
+        return $button;
+    }
+
+    /**
+     * @param  array<int, array<int, array<string, mixed>>>  $rows
+     */
+    private function canRegroupRows(array $rows): bool
+    {
+        if ($rows === []) {
+            return false;
+        }
+
+        foreach ($rows as $row) {
+            if (count($row) !== 1) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * @param  array<int, array<int, array<string, mixed>>>  $rows
+     * @return array<int, array<int, array<string, mixed>>>
+     */
+    private function regroupSingleButtonRows(array $rows, int $columns): array
+    {
+        if ($columns <= 1) {
+            return $rows;
+        }
+
+        $flat = array_merge(...$rows);
+        $regrouped = [];
+        $buffer = [];
+
+        foreach ($flat as $button) {
+            $buffer[] = $button;
+            if (count($buffer) >= $columns) {
+                $regrouped[] = $buffer;
+                $buffer = [];
+            }
+        }
+
+        if ($buffer !== []) {
+            $regrouped[] = $buffer;
+        }
+
+        return $regrouped;
+    }
+
+    private function isValidStyle(string $style): bool
+    {
+        return in_array($style, self::STYLES, true);
+    }
+
+    /**
+     * @param  iterable<int, MainMenuItem>  $items
+     * @return array<int, array<int, array<string, string>>>
+     */
+    private function buildLegacyMainMenuKeyboard(iterable $items): array
+    {
+        $rows = [];
+        $buffer = [];
+        $isFirst = true;
+
+        foreach ($items as $item) {
+            $button = ['text' => (string) $item->alias_name];
+
+            if ($isFirst) {
+                $rows[] = [$button];
+                $isFirst = false;
+
+                continue;
+            }
+
+            $buffer[] = $button;
+            if (count($buffer) >= 2) {
+                $rows[] = $buffer;
+                $buffer = [];
+            }
+        }
+
+        if ($buffer !== []) {
+            $rows[] = $buffer;
+        }
+
+        return $rows;
+    }
+}

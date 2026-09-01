@@ -1,3 +1,127 @@
 <?php
-bolt_decrypt( __FILE__ , 'NXZ0Ub'); return 0;
-##!!!##8fFVSFRMWldISkwHKFdXQzRWS0xTWiLx8VxaTAcwU1NcVFBVSFtMQytIW0hJSFpMQyxTVlhcTFVbQy1ISltWWVBMWkMvSFotSEpbVllgIvFcWkwHMFNTXFRQVUhbTEMrSFtISUhaTEMsU1ZYXExVW0M0VktMUyLx8UpTSFpaBzBVSVZcVUsHTF9bTFVLWgc0VktMU/Fi8QcHBwdcWkwHL0haLUhKW1ZZYCLxBwcHB1dZVltMSltMSwcLTlxIWUtMSwckB0IOUEsOEw5XWVZfYEZQSw5EIvEHBwcHV1lWW0xKW0xLBwtNUFNTSElTTAckB0LxBwcHBwcHBwcOVUhUTA4TB/EHBwcHBwcHBw5LSFtIDhMH8QcHBwcHBwcHDlBaRkhKW1BdTA4T8QcHBwcHBwcHDldWWVsOE/EHBwcHBwcHBw5XWVZbVkpWUw4T8QcHBwcHBwcHDlpMW1tQVU5aDhPxBwcHBwcHBwcOWltZTEhURlpMW1tQVU5aDhPxBwcHBwcHBwcOW0hODhPxBwcHBwcHBwcOSlNQTFVbRlpbSFtaDvEHBwcHRCLx8QcHBwdXWVZbTEpbTEsHC0pIWltaByQHQvEHBwcHBwcHBw5KU1BMVVtGWltIW1oOByQlBw5IWVlIYA4T8QcHBwcHBwcHDlBaRkhKW1BdTA4HJCUHDklWVlNMSFUOE/EHBwcHRCLx8QcHBwcWERHxBwcHBwcRBy5MWwdbT0wHXFpMWQdbT0hbB1ZeVVoHW09MBzBVSVZcVUvxBwcHBwcR8QcHBwcHEQcnWUxbXFlVB0MwU1NcVFBVSFtMQytIW0hJSFpMQyxTVlhcTFVbQzlMU0hbUFZVWkMpTFNWVU5aO1bxBwcHBwcRFvEHBwcHV1xJU1BKB01cVUpbUFZVB1dZVl9gDxDxBwcHB2LxBwcHBwcHBwdZTFtcWVUHC1tPUFoUJUlMU1ZVTlo7Vg83WVZfYCEhSlNIWloTBw5XWVZfYEZQSw4QIvEHBwcHZPHxBwcHBxYREfEHBwcHBxEHLkxbB1dIWVpMSwdLSFtIB0haB0hZWUhg8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdOTFs3SFlaTEsrSFtIKFtbWVBJXFtMDxDxBwcHB2LxBwcHBwcHBwdQTQcPUFpGWltZUFVODwtbT1BaFCVLSFtIEBAHYvEHBwcHBwcHBwcHBwdZTFtcWVUHUVpWVUZLTEpWS0wPC1tPUFoUJUtIW0gTB1tZXEwQByYhB0JEIvEHBwcHBwcHB2TxBwcHBwcHBwdZTFtcWVUHC1tPUFoUJUtIW0gHJiEHQkQi8QcHBwdk8fEHBwcHFhER8QcHBwcHEQcuTFsHV0hZWkxLB1pMW1tQVU5aB0haB0hZWUhg8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdOTFs3SFlaTEs6TFtbUFVOWihbW1lQSVxbTA8Q8QcHBwdi8QcHBwcHBwcHUE0HD1BaRlpbWVBVTg8LW09QWhQlWkxbW1BVTloQEAdi8QcHBwcHBwcHBwcHB1lMW1xZVQdRWlZVRktMSlZLTA8LW09QWhQlWkxbW1BVTloTB1tZXEwQByYhB0JEIvEHBwcHBwcHB2TxBwcHBwcHBwdZTFtcWVUHC1tPUFoUJVpMW1tQVU5aByYhB0JEIvEHBwcHZPHxBwcHBxYREfEHBwcHBxEHLkxbB1dIWVpMSwdaW1lMSFQHWkxbW1BVTloHSFoHSFlZSGDxBwcHBwcRFvEHBwcHV1xJU1BKB01cVUpbUFZVB05MWzdIWVpMSzpbWUxIVDpMW1tQVU5aKFtbWVBJXFtMDxDxBwcHB2LxBwcHBwcHBwdQTQcPUFpGWltZUFVODwtbT1BaFCVaW1lMSFRGWkxbW1BVTloQEAdi8QcHBwcHBwcHBwcHB1lMW1xZVQdRWlZVRktMSlZLTA8LW09QWhQlWltZTEhURlpMW1tQVU5aEwdbWVxMEAcmIQdCRCLxBwcHBwcHBwdk8QcHBwcHBwcHWUxbXFlVBwtbT1BaFCVaW1lMSFRGWkxbW1BVTloHJiEHQkQi8QcHBwdk8fEHBwcHFhER8QcHBwcHEQcqT0xKUgdQTQdQVUlWXFVLB1pcV1dWWVtaB1pXTEpQTVBKB1dZVltWSlZT8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdaXFdXVllbWjdZVltWSlZTDwtXWVZbVkpWUxAhB0lWVlPxBwcHB2LxBwcHBwcHBwdZTFtcWVUHWltZW1ZTVl5MWQ8LW09QWhQlV1lWW1ZKVlMQByQkJAdaW1lbVlNWXkxZDwtXWVZbVkpWUxAi8QcHBwdk8fEHBwcHFhER8QcHBwcHEQcuTFsHUFVJVlxVSwcwKwdNWVZUB0tIW0gHVlkHS1BZTEpbB01QTFNL8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdOTFswVUlWXFVLMEsPEPEHBwcHYvEHBwcHBwcHBwtLSFtIByQHC1tPUFoUJVdIWVpMS0ZLSFtIIvEHBwcHBwcHB1BNBw9QWlpMWw8LS0hbSEIOUEsORBAQB2LxBwcHBwcHBwcHBwcHWUxbXFlVBwtLSFtIQg5QSw5EIvEHBwcHBwcHB2TxBwcHBwcHBwdQTQcPUFpGVVxUTFlQSg8LW09QWhQlS0hbSBAQB2LxBwcHBwcHBwcHBwcHWUxbXFlVBw9QVVsQBwtbT1BaFCVLSFtIIvEHBwcHBwcHB2TxBwcHBwcHBwdZTFtcWVUHVVxTUyLxBwcHB2Tx8QcHBwcWERHxBwcHBwcRBy5MWwdaTFldTFkHT1ZaWwdNWVZUB1dZVl9g8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdOTFs6TFldTFkvVlpbDxDxBwcHB2LxBwcHBwcHBwdQTQcPC1tPUFoUJVdZVl9gBw0NBwtbT1BaFCVXWVZfYBQlV0hVVUxTEAdi8QcHBwcHBwcHBwcHBwtcWVMHJAcLW09QWhQlV1lWX2AUJVdIVVVMUxQlXFpMWUZTUFVSIvEHBwcHBwcHBwcHBwdQTQcPTFRXW2APC1xZUxAQB2LxBwcHBwcHBwcHBwcHBwcHBwtcWVMHJAcLW09QWhQlV1lWX2AUJVdIVVVMUxQlSEtUUFVGXFlTIvEHBwcHBwcHBwcHBwdk8QcHBwcHBwcHBwcHB1lMW1xZVQdXSFlaTEZcWVMPC1xZUxMHNy83Rjw5M0YvNjo7ECLxBwcHBwcHBwdk8QcHBwcHBwcHWUxbXFlVB1VcU1Mi8QcHBwdk8fEHBwcHFhER8QcHBwcHEQcuTFsHWkxZXUxZB1dWWVvxBwcHBwcRFvEHBwcHV1xJU1BKB01cVUpbUFZVB05MWzpMWV1MWTdWWVsPEPEHBwcHYvEHBwcHBwcHB1lMW1xZVQcLW09QWhQlV1ZZWwcmIQcbGxoi8QcHBwdk8fEHBwcHFhER8QcHBwcHEQcqT0xKUgdQTQdQVUlWXFVLB1BaB11IU1BLB01WWQdcWkxZB0pZTEhbUFZV8QcHBwcHERbxBwcHB1dcSVNQSgdNXFVKW1BWVQdQWj1IU1BLLVZZPFpMWQ8QIQdJVlZT8QcHBwdi8QcHBwcHBwcHWUxbXFlVBwtbT1BaFCVQWkZISltQXUwHDQ0H8QcHBwcHBwcHBwcHBwcHBwtbT1BaFCVOTFswVUlWXFVLMEsPEAcIJCQHVVxTUwcNDQfxBwcHBwcHBwcHBwcHBwcHCExUV1tgDwtbT1BaFCVXWVZbVkpWUxAi8QcHBwdk8WTx
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Inbound extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id','proxy_id'];
+    protected $fillable = [
+        'name', 
+        'data', 
+        'is_active',
+        'port',
+        'protocol',
+        'settings',
+        'stream_settings',
+        'tag',
+        'client_stats'
+    ];
+
+    protected $casts = [
+        'client_stats' => 'array',
+        'is_active' => 'boolean',
+    ];
+
+    /**
+     * Get the user that owns the Inbound
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function proxy()
+    {
+        return $this->belongsTo(Proxy::class, 'proxy_id');
+    }
+
+    /**
+     * Get parsed data as array
+     */
+    public function getParsedDataAttribute()
+    {
+        if (is_string($this->data)) {
+            return json_decode($this->data, true) ?: [];
+        }
+        return $this->data ?: [];
+    }
+
+    /**
+     * Get parsed settings as array
+     */
+    public function getParsedSettingsAttribute()
+    {
+        if (is_string($this->settings)) {
+            return json_decode($this->settings, true) ?: [];
+        }
+        return $this->settings ?: [];
+    }
+
+    /**
+     * Get parsed stream settings as array
+     */
+    public function getParsedStreamSettingsAttribute()
+    {
+        if (is_string($this->stream_settings)) {
+            return json_decode($this->stream_settings, true) ?: [];
+        }
+        return $this->stream_settings ?: [];
+    }
+
+    /**
+     * Check if inbound supports specific protocol
+     */
+    public function supportsProtocol($protocol): bool
+    {
+        return strtolower($this->protocol) === strtolower($protocol);
+    }
+
+    /**
+     * Get inbound ID from data or direct field
+     */
+    public function getInboundId()
+    {
+        $data = $this->parsed_data;
+        if (isset($data['id'])) {
+            return $data['id'];
+        }
+        if (is_numeric($this->data)) {
+            return (int) $this->data;
+        }
+        return null;
+    }
+
+    /**
+     * Get server host from proxy
+     */
+    public function getServerHost()
+    {
+        if ($this->proxy && $this->proxy->pannel) {
+            $url = $this->proxy->pannel->user_link;
+            if (empty($url)) {
+                $url = $this->proxy->pannel->admin_url;
+            }
+            return parse_url($url, PHP_URL_HOST);
+        }
+        return null;
+    }
+
+    /**
+     * Get server port
+     */
+    public function getServerPort()
+    {
+        return $this->port ?: 443;
+    }
+
+    /**
+     * Check if inbound is valid for user creation
+     */
+    public function isValidForUser(): bool
+    {
+        return $this->is_active && 
+               $this->getInboundId() !== null && 
+               !empty($this->protocol);
+    }
+}

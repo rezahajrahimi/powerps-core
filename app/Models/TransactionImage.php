@@ -1,3 +1,25 @@
 <?php
-bolt_decrypt( __FILE__ , 'i0cdr1'); return 0;
-##!!!##DQ1xZHBodnNkZmgjRHNzX1ByZ2hvdj4NDXh2aCNMb294cGxxZHdoX0dkd2RlZHZoX0hvcnR4aHF3X0lkZndydWxodl9LZHZJZGZ3cnV8Pg14dmgjTG9veHBscWR3aF9HZHdkZWR2aF9Ib3J0eGhxd19Qcmdobz4NDWZvZHZ2I1d1ZHF2ZGZ3bHJxTHBkamgjaHt3aHFndiNQcmdobw1+DSMjIyN4dmgjS2R2SWRmd3J1fD4NIyMjI3N1cndoZndoZyMnanhkdWdoZyNAI14qbGcqLyMqd3VkcXZkZndscnFibGcqYD4NDSMjIyNzdXJ3aGZ3aGcjJ2lsb29kZW9oI0AjXipkZmZyeHF3YmxnKi8jKnd1ZHF2ZGZ3bHJxYmxnKi8jKmxwamJ2dWYqLyp4dmh1Yndoe3cqYD4NDSMjIyMyLS0NIyMjIyMtI0podyN3a2gjeHZodSN3a2R3I3J6cXYjd2toI1d1ZHF2ZGZ3bHJxTHBkamgNIyMjIyMtDSMjIyMjLSNDdWh3eHVxI19Mb294cGxxZHdoX0dkd2RlZHZoX0hvcnR4aHF3X1Vob2R3bHJxdl9FaG9ycWp2V3INIyMjIyMtMg0jIyMjc3hlb2xmI2l4cWZ3bHJxI3d1ZHF2ZGZ3bHJxKywNIyMjI34NIyMjIyMjIyN1aHd4dXEjJ3drbHYwQWVob3JxanZXcitXdWRxdmRmd2xycT09Zm9kdnYvIyp3dWRxdmRmd2xycWJsZyosPg0jIyMjgA0NgA0=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class TransactionImage extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id', 'transaction_id'];
+
+    protected $fillable = ['account_id', 'transaction_id', 'img_src','user_text'];
+
+    /**
+     * Get the user that owns the TransactionImage
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function transaction()
+    {
+        return $this->belongsTo(Transaction::class, 'transaction_id');
+    }
+
+}

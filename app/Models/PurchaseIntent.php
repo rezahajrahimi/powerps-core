@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'K2TMap'); return 0;
-##!!!##+fldUFxUYl9QUlQPMF9fSzxeU1RbYir5+WRiVA84W1tkXFhdUGNUSzNQY1BRUGJUSzRbXmBkVF1jSzxeU1RbKvn5UltQYmIPP2RhUldQYlQ4XWNUXWMPVGdjVF1TYg88XlNUW/lq+Q8PDw9fYV5jVFJjVFMPE1VYW1tQUVtUDywPSvkPDw8PDw8PDxZQUlJeZF1jTlhTFhv5Dw8PDw8PDw8WX2FeU2RSY05SUGNUVl5haE5YUxYb+Q8PDw8PDw8PFl9hXlNkUmNOWFMWG/kPDw8PDw8PDxZiY1BWVBYb+Q8PDw8PDw8PFmFUXFhdU1RhTlJeZF1jFhv5Dw8PDw8PDw8WW1BiY05hVFxYXVNUYU5QYxYb+Q8PDw8PDw8PFlJeXF9bVGNUU05QYxYb+Q8PDw9MKvn5Dw8PD19hXmNUUmNUUw8TUlBiY2IPLA9K+Q8PDw8PDw8PFltQYmNOYVRcWF1TVGFOUGMWDywtDxZTUGNUY1hcVBYb+Q8PDw8PDw8PFlJeXF9bVGNUU05QYxYPLC0PFlNQY1RjWFxUFhv5Dw8PD0wq+Wz5
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class PurchaseIntent extends Model
+{
+    protected $fillable = [
+        'account_id',
+        'product_category_id',
+        'product_id',
+        'stage',
+        'reminder_count',
+        'last_reminder_at',
+        'completed_at',
+    ];
+
+    protected $casts = [
+        'last_reminder_at' => 'datetime',
+        'completed_at' => 'datetime',
+    ];
+}

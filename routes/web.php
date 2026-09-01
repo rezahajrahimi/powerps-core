@@ -1,3 +1,48 @@
 <?php
-bolt_decrypt( __FILE__ , 'zaDupP'); return 0;
-##!!!##Xl7Jx7l0ncDAycG9wrXIubCnycTEw8bIsJq1t7W4ucewpsPJyLmPXsnHuXSVxMSwnMjIxLCXw8LIxsPAwLnGx7CoxrXCx7W3yL3DwpfDwsjGw8DAucaPXsnHuXSVxMSwnMjIxLCXw8LIxsPAwLnGx7CoxrXCx7W3yL3DwpfGzcTIw5fDwsjGw8DAucaPXsnHuXSVxMSwnMjIxLCXw8LIxsPAwLnGx7CXxs3EyMPByceXw8LIxsPAwLnGj17Jx7l0lcTEsJzIyMSwl8PCyMbDwMC5xsewp8u1xKS1zZfDwsjGw8DAucaPXsnHuXSVxMSwnMjIxLCXw8LIxsPAwLnGx7CrubaqvbnLl8PCyMbDwMC5xo9eXoN+XtCBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgV7QdKu5tnSmw8nIucde0IGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBXtBe0HScuca5dL3HdMu8uca5dM3DyXS3tcJ0xrm7vcfIucZ0y7m2dMbDyci5x3S6w8Z0zcPJxnS1xMTAvbe1yL3DwoJ0qLy5x7le0HTGw8nIucd0tca5dMDDtbi5uHS2zXTIvLl0psPJyLmnucbKvbe5pMbDyr24ucZ0tcK4dLXAwHTDunTIvLnBdMu9wMBe0HS2uXS1x8e9u8K5uHTIw3TIvLl0dsu5tnZ0wb24uMC5y7XGuXS7xsPJxIJ0obW/uXTHw8G5yLy9wrt0u8a5tch1XtBefoNeXqbDyci5jo67uch8e4N7gHSvq7m2qr25y5fDwsjGw8DAucaOjrfAtcfHgHR7y7nAt8PBuXuxfY9epsPJyLmOjru5yHx7tsnNg8+1t7fDycLIs7240YPPvcLKw723uZ2Y0YPPxMa9t7nRe4B0r6u5tqq9ucuXw8LIxsPAwLnGjo63wLXHx4B0e8e8w8R7sX2PXqbDyci5jo7Ew8fIfHvHvMPEe4B0r6jGtcLHtbfIvcPCl8PCyMbDwMC5xo6Ot8C1x8eAdHu1uLizw8a4ucZ7sX2BksK1wbl8e8e8w8SCx8m2wb3Ie32PdIODdLrDxnTOtca9wsS1wF5epsPJyLmOjru5yHx7w8a4ucZ7gHSvq7m2qr25y5fDwsjGw8DAucaOjrfAtcfHgHR7w8a4ucamubi9xrm3yHuxfY9eXoODdKC1xrXKucB0jHR6dI1epsPJyLmOjru5yHx7g8S1zXuAdK+VxMSwnMjIxLCXw8LIxsPAwLnGx7Ciw8uktc3BucLIx5fDwsjGw8DAucaOjrfAtcfHgHR7t8a5tci5l8bNxMjDncLKw723uXuxfYGSwrXBuXx7xLXNe32PXl6mw8nIuY6Ou7nIfHu3xs3EyMPEtc3BucLIg8+1t7fDycLIs7240YPPvcLKw723uZ2Y0YPPxMa9t7nRe4B0r6u5tqq9ucuXw8LIxsPAwLnGjo63wLXHx4B0e7fGzcTIw6S1zcG5wsh7sX2PXl6mw8nIuY6OxMPHyHx7t8bNxMjDu7XIucu1zXuAdK+oxrXCx7W3yL3DwpfGzcTIw5fDwsjGw8DAucaOjrfAtcfHgHR7vcK9yL21yLmXxs3EyMOktc3BucLIe7F9gZLCtcG5fHu3xs3EyMOCvcK9yL21yLl7fY9eXqbDyci5jo67uch8e4PEtc22tbe/e4B0r6u5tqq9ucuXw8LIxsPAwLnGjo63wLXHx4B0e8S1zba1t797sX2PXqbDyci5jo67uch8e4O3tcK3ucDEtc17gHSvq7m2qr25y5fDwsjGw8DAucaOjrfAtcfHgHR7t7XCt7nApLXNe7F9j15eg4N0l8bNxMjDwcnHdKbDyci5x16mw8nIuY6OxMPHyHx7g7fGzcTIw8HJx4O3xrm1yLl7gHSvl8bNxMjDwcnHl8PCyMbDwMC5xo6Ot8C1x8eAdHu3xrm1yLmktc3BucLIe7F9gZLCtcG5fHu3xs3EyMPByceCt8a5tci5e32PXqbDyci5jo7Ew8fIfHuDt8bNxMjDwcnHg7e1wMC2tbe/e4B0r5fGzcTIw8HJx5fDwsjGw8DAucaOjrfAtcfHgHR7vLXCuMC5l7XAwLa1t797sX2BksK1wbl8e7fGzcTIw8HJx4K3tcDAtrW3v3t9j3SDg3Siubm4x3SXp6aadLnMucHEyL3Dwl6mw8nIuY6Ou7nIfHuDxLXNwbnCyIPHybe3ucfHe4B0r5fGzcTIw8HJx5fDwsjGw8DAucaOjrfAtcfHgHR7xLXNwbnCyKfJt7e5x8d7sX2BksK1wbl8e8S1zcG5wsiCx8m3t7nHx3t9j16mw8nIuY6Ou7nIfHuDxLXNwbnCyIPGucjJxsJ7gHSvl8bNxMjDwcnHl8PCyMbDwMC5xo6Ot8C1x8eAdHvEtc3BucLIprnIycbCe7F9gZLCtcG5fHvEtc3BucLIgsa5yMnGwnt9j15eg4N0p8u1xKS1zXR8p8u1xKu1wMC5yH1epsPJyLmOjsG1yLe8fK97u7nIe4B0e8TDx8h7sYB0e4PHy7XExLXNg8a5yMnGwnuAdK+ny7XEpLXNl8PCyMbDwMC5xo6Ot8C1x8eAdHu8tcK4wLmmucjJxsJ7sX2BksK1wbl8e8fLtcTEtc2CxrnIycbCe32PXl5eg4N0xsnCdLfDwcG1wrh0ts10ycbAXoODdKbDyci5jo67uch8e4PGycKBt8PBwbXCuIPPwrXBubPDurO3w8HBtcK40XuAdJnMubfJyLmVxsi9x7XCl8PBwbXCuJfDwsjGw8DAucaOjrfAtcfHfY9e
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\TransactionController;
+use App\Http\Controllers\TransactionCryptoController;
+use App\Http\Controllers\CryptomusController;
+use App\Http\Controllers\SwapPayController;
+use App\Http\Controllers\WebViewController;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider and all of them will
+| be assigned to the "web" middleware group. Make something great!
+|
+*/
+
+Route::get('/', [WebViewController::class, 'welcome']);
+Route::get('buy/{account_id}/{invoiceID}/{price}', [WebViewController::class, 'shop']);
+Route::post('shop', [TransactionController::class, 'add_order'])->name('shop.submit'); // for zarinpal
+
+Route::get('order', [WebViewController::class, 'orderRedirect']);
+
+// Laravel 8 & 9
+Route::get('/pay', [App\Http\Controllers\NowPaymentsController::class, 'createCryptoInvoice'])->name('pay');
+
+Route::get('cryptopayment/{account_id}/{invoiceID}/{price}', [WebViewController::class, 'cryptoPayment']);
+
+Route::post('cryptogateway', [TransactionCryptoController::class, 'initiateCryptoPayment'])->name('crypto.initiate');
+
+Route::get('/payback', [WebViewController::class, 'payback']);
+Route::get('/cancelpay', [WebViewController::class, 'cancelPay']);
+
+// Cryptomus Routes
+Route::post('/cryptomus/create', [CryptomusController::class, 'createPayment'])->name('cryptomus.create');
+Route::post('/cryptomus/callback', [CryptomusController::class, 'handleCallback'])->name('cryptomus.callback'); // Needs CSRF exemption
+Route::get('/payment/success', [CryptomusController::class, 'paymentSuccess'])->name('payment.success');
+Route::get('/payment/return', [CryptomusController::class, 'paymentReturn'])->name('payment.return');
+
+// SwapPay (SwapWallet)
+Route::match(['get', 'post'], '/swappay/return', [SwapPayController::class, 'handleReturn'])->name('swappay.return');
+
+
+// run command by url
+// Route::get('/run-command/{name_of_command}', ExecuteArtisanCommandController::class);

@@ -1,3 +1,410 @@
 <?php
-bolt_decrypt( __FILE__ , 'HXNMWH'); return 0;
-##!!!##5ORIO0c/TUo7PT/6G0pKNiJOTko2HUlITkxJRkY/TE0V5E9NP/obSko2J0k+P0ZNNio7SEg/RhXkT00/+htKSjYnST4/Rk02KkxJUlMV5E9NP/obSko2J0k+P0ZNNiNIPElPSD4V5E9NP/obSko2J0k+P0ZNNipMST5PPU4V5E9NP/obSko2LT9MUEM9P002JkM9P0hNPyA/O05PTD8tP0xQQz0/FeTk5E9NP/ojRkZPR0NIO04/NiJOTko2LD9LTz9NThXkT00/+iFPVFRGPyJOTko2HUZDP0hOFeRPTT/6I0ZGT0dDSDtOPzYtT0pKSUxONiA7PTs+P002Ik5OShXkT00/+i1DR0pGPy1JQE5RO0w/Iyk2K0wdST4/NiA7PTs+P002K0wdST4/FeRPTT/6I0ZGT0dDSDtOPzYtT0pKSUxONiA7PTs+P002LU5JTDtBPxXkT00/+iNGRk9HQ0g7Tj82LU9KSklMTjYgOz07Pj9NNiBDRj8V5OQ9RjtNTfoqO0hIP0YdSUhOTElGRj9M+j9STj9IPk36HUlITkxJRkY/TORV5Pr6+vpKTzxGQz36QE9IPU5DSUj6Oz4+KD9RKjtISD9GAiw/S08/TU76/kw/S08/TU4D5Pr6+vpV5Pr6+vr6+vr6TkxT+lXk+vr6+vr6+vr6+vr6/kZDPT9ITT8tP0xQQz0/+hf6SD9R+iZDPT9ITT8gPztOT0w/LT9MUEM9PwIDFeT6+vr6+vr6+vr6+vpDQPoC+/r+RkM9P0hNPy0/TFBDPT8HGD07SBs+Pio7SD9GAio7SEg/RhQUPUlPSE4CAwMD+lXk+vr6+vr6+vr6+vr6+vr6+kw/Tk9MSPr+RkM9P0hNPy0/TFBDPT8HGEo7SD9GJkNHQ04sPzs9Qj8+LD9NSklITT8CAxXk+vr6+vr6+vr6+vr6V+Tk+vr6+vr6+vr6+vr6/ko7SEg/RvoX+kg/UfoqO0hIP0YCAxXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYTlNKP/oX+v5MP0tPP01OBxhOU0o/FeT6+vr6+vr6+vr6+vr+SjtISD9GBxhPTT9MSDtHP/oX+v5MP0tPP01OBxhPTT9MSDtHP/oZGfoBOz5HQ0gBFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhKO01NUUlMPvoX+v5MP0tPP01OBxhKO01NUUlMPvoZGfoBCwwNDg8QARXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYTklFP0j6F/r7P0dKTlMC/kw/S08/TU4HGE5JRT9IA/oZ+v5MP0tPP01OBxhOSUU/SPoU+khPRkYV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGEZJPTtOQ0lI+hf6/kw/S08/TU4HGEZJPTtOQ0lI+hkZ+khPRkYV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGE9MRjlKSUxO+hf6/kw/S08/TU4HGE9MRjlKSUxO+hkZ+khPRkYV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGE1PPDlKSUxO+hf6/kw/S08/TU4HGE1PPDlKSUxO+hkZ+khPRkYV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGDs+R0NIOU9MRvoX+v5MP0tPP01OBxg7PkdDSDlPTEb6GRn6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYT00/TDlGQ0hF+hf6/kw/S08/TU4HGE9NP0w5RkNIRfoZGfpIT0ZGFeT6+vr6+vr6+vr6+vr+SjtISD9GBxg9O0o7PUNOU/oX+v5MP0tPP01OBxg9O0o7PUNOU/oZGfoLDQ0NDQ0NFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhNO1A/AgMV5Pr6+vr6+vr6+vr6+kw/Tk9MSPpMP01KSUhNPwIDBxhETUlIAjUBTU89PT9NTQH6Fxj6TkxPPwb6AUM+AfoXGPr+SjtISD9GBxhDPjcG+gwKCwMV5Pr6+vr6+vr6V/o9O049QvoCNi5CTElROzxGP/r+TkID+lXk+vr6+vr6+vr6+vr6NiZJQRQUP0xMSUwCATs+Pig/USo7SEg/RvpAO0NGPz4U+gH6CPr+TkIHGEE/Tic/TU07QT8CAwMV5Pr6+vr6+vr6+vr6+kw/Tk9MSPpMP01KSUhNPwIDBxhETUlIAjUBTU89PT9NTQH6Fxj6QDtGTT8G+gFHP01NO0E/AfoXGPoBsoiykbKB+rKJsov6soqyiLVmsouzYfqzmLNgs14IATcG+g8KCgMV5Pr6+vr6+vr6V+T6+vr6V+T6+vr6Sk88RkM9+kBPSD1OQ0lI+js+Pig/USo7SEg/Ric7TFQ8O0gCLD9LTz9NTvr+TD9LTz9NTgPk+vr6+lXk+vr6+vr6+vpOTFP6VeT6+vr6+vr6+vr6+vr+RkM9P0hNPy0/TFBDPT/6F/pIP1H6JkM9P0hNPyA/O05PTD8tP0xQQz0/AgMV5Pr6+vr6+vr6+vr6+kNA+gL7+v5GQz0/SE0/LT9MUEM9PwcYPTtIGz4+KjtIP0YCKjtISD9GFBQ9SU9ITgIDAwP6VeT6+vr6+vr6+vr6+vr6+vr6TD9OT0xI+v5GQz0/SE0/LT9MUEM9PwcYSjtIP0YmQ0dDTiw/Oz1CPz4sP01KSUhNPwIDFeT6+vr6+vr6+vr6+vpX5OT6+vr6+vr6+vr6+vr+SjtISD9G+hf6SD9R+io7SEg/RgIDFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhOU0o/+hf6/kw/S08/TU4HGE5TSj8V5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGE9NP0xIO0c/+hf6/kw/S08/TU4HGE9NP0xIO0c/+hkZ+gE7PkdDSAEV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGEo7TU1RSUw++hf6/kw/S08/TU4HGEo7TU1RSUw++hkZ+gELDA0ODxABFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhOSUU/SPoX+vs/R0pOUwL+TD9LTz9NTgcYTklFP0gD+hn6/kw/S08/TU4HGE5JRT9I+hT6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYRkk9O05DSUj6F/r+TD9LTz9NTgcYRkk9O05DSUj6GRn6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYT0xGOUpJTE76F/r+TD9LTz9NTgcYT0xGOUpJTE76GRn6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYOz5HQ0g5T0xG+hf6/kw/S08/TU4HGDs+R0NIOU9MRvoZGfpIT0ZGFeT6+vr6+vr6+vr6+vr+SjtISD9GBxg9O0o7PUNOU/oX+v5MP0tPP01OBxg9O0o7PUNOU/oZGfoLDQ0NDQ0NFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhNO1A/AgMV5Pr6+vr6+vr6+vr6+kNA+gL+SjtISD9GBxhDTSc7TFQ8O0gdSUdKO05DPEY/AgMD+lXk+vr6+vr6+vr6+vr6+vr6+kNA+gL7+j9HSk5TAv5MP0tPP01OBxg+U0g7R0M9OUNIPElPSD5NAwP6VeT6+vr6+vr6+vr6+vr6+vr6+vr6+v5DTj9HTfoX+v5MP0tPP01OBxg+U0g7R0M9OUNIPElPSD5NFeT6+vr6+vr6+vr6+vr6+vr6+vr6+kNA+gJDTTlNTkxDSEEC/kNOP0dNAwP6VeT6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr+Q04/R036F/pETUlIOT4/PUk+PwL+Q04/R00G+k5MTz8DFeT6+vr6+vr6+vr6+vr6+vr6+vr6+lfk+vr6+vr6+vr6+vr6+vr6+vr6+vpDQPoCQ005O0xMO1MC/kNOP0dNAwP6VeT6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr+TkJDTQcYTVNIPSc7TFQ8O0gqTElSQz9NIExJRyo7SD9GAv5KO0hIP0YG+v5DTj9HTQMV5Pr6+vr6+vr6+vr6+vr6+vr6+vr6V+T6+vr6+vr6+vr6+vr6+vr6V+T6+vr6+vr6+vr6+vpX5Pr6+vr6+vr6+vr6+kw/Tk9MSPpMP01KSUhNPwIDBxhETUlIAv5KO0hIP0YHGEM+BvoMCgsDFeT6+vr6+vr6+lf6PTtOPUL6AjYuQkxJUTs8Rj/6/k5CA/pV5Pr6+vr6+vr6+vr6+jYmSUEUFENIQEkC/C5CTElROzxGPxT6+v5OQvwDFeTk+vr6+vr6+vr6+vr6TD9OT0xI+kw/TUpJSE0/AgMHGERNSUgCQDtGTT8G+g8KCgMV5Pr6+vr6+vr6V+T6+vr6V+T6+vr6Sk88RkM9+kBPSD1OQ0lI+j8+Q04nO0xUPDtIKjtISD9GAiw/S08/TU76/kw/S08/TU4D5Pr6+vpV5Pr6+vr6+vr6TkxT+lXk+vr6+vr6+vr6+vr6/ko7SEg/RvoX+io7SEg/RhQUQENIPgL+TD9LTz9NTgcYQz4DFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhOU0o/+hf6KjtISD9GFBRDTSc7TFQ8O0gdSUdKO05DPEY/LlNKPwL+TD9LTz9NTgcYTlNKP/oZGfr+SjtISD9GBxhOU0o/A+T6+vr6+vr6+vr6+vr6+vr6GfoC/kw/S08/TU4HGE5TSj/6GRn6/ko7SEg/RgcYTlNKPwPk+vr6+vr6+vr6+vr6+vr6+hT6KjtISD9GFBQuMyofOScbLDQcGygV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGE9NP0xIO0c/+hf6/kw/S08/TU4HGE9NP0xIO0c/+hkZ+gE7PkdDSAEV5Pr6+vr6+vr6+vr6+v5KO0hIP0YHGEo7TU1RSUw++hf6/kw/S08/TU4HGEo7TU1RSUw++hkZ+gELDA0ODxABFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhOSUU/SPoX+vs/R0pOUwL+TD9LTz9NTgcYTklFP0gD+hn6/kw/S08/TU4HGE5JRT9I+hT6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYRkk9O05DSUj6F/r+TD9LTz9NTgcYRkk9O05DSUj6GRn6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYT0xGOUpJTE76F/r+TD9LTz9NTgcYT0xGOUpJTE76GRn6SE9GRhXk+vr6+vr6+vr6+vr6/ko7SEg/RgcYOz5HQ0g5T0xG+hf6/kw/S08/TU4HGDs+R0NIOU9MRvoZGfpIT0ZGFeT6+vr6+vr6+vr6+vr+SjtISD9GBxg9O0o7PUNOU/oX+v5MP0tPP01OBxg9O0o7PUNOU/oZGfoLDQ0NDQ0NFeT6+vr6+vr6+vr6+vr+SjtISD9GBxhPSj47Tj8CAxXk5Pr6+vr6+vr6+vr6+kNA+gL7+j9HSk5TAv5MP0tPP01OBxg+U0g7R0M9OUNIPElPSD5NAwP6VeT6+vr6+vr6+vr6+vr6+vr6/kNOP0dN+hf6/kw/S08/TU4HGD5TSDtHQz05Q0g8SU9IPk0V5Pr6+vr6+vr6+vr6+vr6+vpDQPoCQ005TU5MQ0hBAv5DTj9HTQMD+lXk+vr6+vr6+vr6+vr6+vr6+vr6+vr+Q04/R036F/pETUlIOT4/PUk+PwL+Q04/R00G+k5MTz8DFeT6+vr6+vr6+vr6+vr6+vr6V+T6+vr6+vr6+vr6+vr6+vr6Q0D6AkNNOTtMTDtTAv5DTj9HTQMD+lXk+vr6+vr6+vr6+vr6+vr6+vr6+vr+TkJDTQcYTVNIPSc7TFQ8O0gqTElSQz9NIExJRyo7SD9GAv5KO0hIP0YG+v5DTj9HTQMV5OT6+vr6+vr6+vr6+vr6+vr6+vr6+kw/Tk9MSPpMP01KSUhNPwIDBxhETUlIAv5KO0hIP0YHGEM+BvoMCgsDFeT6+vr6+vr6+vr6+vr6+vr6V+T6+vr6+vr6+vr6+vpX5OT6+vr6+vr6+vr6+vpMP05PTEj6TD9NSklITT8CAwcYRE1JSAL+SjtISD9GBxhDPgb6DAoLAxXk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
+
+namespace App\Http\Controllers;
+use App\Models\Pannel;
+use App\Models\Proxy;
+use App\Models\Inbound;
+use App\Models\Product;
+use App\Services\LicenseFeatureService;
+
+
+use Illuminate\Http\Request;
+use GuzzleHttp\Client;
+use Illuminate\Support\Facades\Http;
+use SimpleSoftwareIO\QrCode\Facades\QrCode;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\File;
+
+class PannelController extends Controller
+{
+    public function addNewPannel(Request $request)
+    {
+        try {
+            $licenseService = new LicenseFeatureService();
+            if (! $licenseService->canAddPanel(Pannel::count())) {
+                return $licenseService->panelLimitReachedResponse();
+            }
+
+            $pannel = new Pannel();
+            $pannel->type = $request->type;
+            $pannel->username = $request->username ?? 'admin';
+            $pannel->password = $request->password ?? '123456';
+            $pannel->token = !empty($request->token) ? $request->token : null;
+            $pannel->location = $request->location ?? null;
+            $pannel->url_port = $request->url_port ?? null;
+            $pannel->sub_port = $request->sub_port ?? null;
+            $pannel->admin_url = $request->admin_url ?? null;
+            $pannel->user_link = $request->user_link ?? null;
+            $pannel->capacity = $request->capacity ?? 1333333;
+            $pannel->save();
+            return response()->json(['success' => true, 'id' => $pannel->id], 201);
+        } catch (\Throwable $th) {
+            \Log::error('addNewPannel failed: ' . $th->getMessage());
+            return response()->json(['success' => false, 'message' => 'خطا در ذخیره پنل.'], 500);
+        }
+    }
+    public function addNewPannelMarzban(Request $request)
+    {
+        try {
+            $licenseService = new LicenseFeatureService();
+            if (! $licenseService->canAddPanel(Pannel::count())) {
+                return $licenseService->panelLimitReachedResponse();
+            }
+
+            $pannel = new Pannel();
+            $pannel->type = $request->type;
+            $pannel->username = $request->username ?? 'admin';
+            $pannel->password = $request->password ?? '123456';
+            $pannel->token = !empty($request->token) ? $request->token : null;
+            $pannel->location = $request->location ?? null;
+            $pannel->url_port = $request->url_port ?? null;
+            $pannel->admin_url = $request->admin_url ?? null;
+            $pannel->capacity = $request->capacity ?? 1333333;
+            $pannel->save();
+            if ($pannel->isMarzbanCompatible()) {
+                if (! empty($request->dynamic_inbounds)) {
+                    $items = $request->dynamic_inbounds;
+                    if (is_string($items)) {
+                        $items = json_decode($items, true);
+                    }
+                    if (is_array($items)) {
+                        $this->syncMarzbanProxiesFromPanel($pannel, $items);
+                    }
+                }
+            }
+            return response()->json($pannel->id, 201);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json(false, 500);
+        }
+    }
+    public function editMarzbanPannel(Request $request)
+    {
+        try {
+            $pannel = Pannel::find($request->id);
+            $pannel->type = Pannel::isMarzbanCompatibleType($request->type ?? $pannel->type)
+                ? ($request->type ?? $pannel->type)
+                : Pannel::TYPE_MARZBAN;
+            $pannel->username = $request->username ?? 'admin';
+            $pannel->password = $request->password ?? '123456';
+            $pannel->token = !empty($request->token) ? $request->token : null;
+            $pannel->location = $request->location ?? null;
+            $pannel->url_port = $request->url_port ?? null;
+            $pannel->admin_url = $request->admin_url ?? null;
+            $pannel->capacity = $request->capacity ?? 1333333;
+            $pannel->update();
+
+            if (! empty($request->dynamic_inbounds)) {
+                $items = $request->dynamic_inbounds;
+                if (is_string($items)) {
+                    $items = json_decode($items, true);
+                }
+                if (is_array($items)) {
+                    $this->syncMarzbanProxiesFromPanel($pannel, $items);
+
+                    return response()->json($pannel->id, 201);
+                }
+            }
+
+            return response()->json($pannel->id, 201);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json(false, 500);
+        }
+    }
+    public function updatePannel(Request $request)
+    {
+        try {
+            $pannel = Pannel::find($request->id);
+            if ($pannel) {
+                $pannel->type = $request->type;
+                $pannel->username = $request->username ?? 'admin';
+                $pannel->password = $request->password ?? '123456';
+                $pannel->token = !empty($request->token) ? $request->token : null;
+                $pannel->location = $request->location ?? null;
+                $pannel->url_port = $request->url_port ?? null;
+                $pannel->sub_port = $request->sub_port ?? null;
+                $pannel->admin_url = $request->admin_url ?? null;
+                $pannel->user_link = $request->user_link ?? null;
+                $pannel->capacity = $request->capacity ?? 1333333;
+                if ($pannel->type === 'sanaei') {
+                    if ($request->has('api_version')) {
+                        $v = strtolower(trim((string) $request->api_version));
+                        $pannel->api_version = in_array($v, ['v2', '2', 'v1', '1'], true) ? 'v2' : 'v3';
+                    }
+                    $pannel->cookie_session = null;
+                }
+                if ($pannel->update()) {
+                    return response()->json(['success' => true, 'id' => $pannel->id], 200);
+                }
+                return response()->json(['success' => false, 'message' => 'خطا در ویرایش پنل.'], 500);
+            }
+            return response()->json(['success' => false, 'message' => 'پنل یافت نشد.'], 404);
+        } catch (\Throwable $th) {
+            \Log::error('updatePannel failed: ' . $th->getMessage());
+
+            return response()->json(['success' => false, 'message' => 'خطا در ویرایش پنل.'], 500);
+        }
+    }
+    public function getPannels()
+    {
+        try {
+            return Pannel::all();
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function getPannelById($id)
+    {
+        try {
+            return Pannel::find($id);
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function get_pannel_id_by_location($location)
+    {
+        try {
+            return Pannel::where('location', $location)->first()->id;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function getPannelByIdWithProxiesInbounds($id)
+    {
+        try {
+            $pannel = Pannel::findOrFail($id);
+            $proxyInbounds = Pannel::findOrFail($id)->proxies()->with('inbounds')->get();
+            return response()->json([$pannel, $proxyInbounds], 200);
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+
+    public function deletePannel($id)
+    {
+        try {
+            $panel = Pannel::find($id);
+            if ($panel) {
+                if ($panel->delete()) {
+                    return true;
+                } else {
+                    return response()->json(false, 500);
+                }
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json(false, 500);
+        }
+    }
+    public function get_all_pannels_locations()
+    {
+        try {
+            return Pannel::all()->pluck('location')->unique();
+        } catch (\Throwable $th) {
+            \Log::info("get_all_pannels_locations:  $th");
+            return response()->json(false, 500);
+        }
+    }
+
+    public function get_all_panells_by_location_capacity_mode()
+    {
+
+        // get all stored products conts with the pannel_id seperation
+
+        try {
+
+
+            $pannels = Pannel::with('product_category_and_count_products')->get();
+            foreach ($pannels as $key => $value) {
+                // بررسی وجود مقدار و خالی نبودن آرایه
+                $rrr = 0;
+                if (!empty($value->product_category_and_count_products) && isset($value->product_category_and_count_products[0]->products_count)) {
+                    $rrr = $value->product_category_and_count_products[0]->products_count;
+                }
+                if ($rrr >= $value->capacity) {
+                    $pannels->forget($key);
+                }
+            }
+            return $pannels->pluck('location')->unique();
+        } catch (\Throwable $th) {
+            \Log::info("get_all_panells_by_location_capacity_mode:  $th");
+
+            return collect();
+        }
+
+    }
+    public function get_all_panells_Id_by_location_capacity_mode()
+    {
+
+        // get all stored products conts with the pannel_id seperation
+
+        try {
+
+
+            $pannels = Pannel::with('product_category_and_count_products')->get();
+            foreach ($pannels as $key => $value) {
+                $rrr = 0;
+                if (! empty($value->product_category_and_count_products) && isset($value->product_category_and_count_products[0]->products_count)) {
+                    $rrr = $value->product_category_and_count_products[0]->products_count;
+                }
+                if ($rrr >= $value->capacity) {
+                    $pannels->forget($key);
+                }
+            }
+            return $pannels->pluck('id');
+        } catch (\Throwable $th) {
+            \Log::info("get_all_panells_Id_by_location_capacity_mode:  $th");
+
+            return collect();
+        }
+
+    }
+
+
+    public function getHiddifyPannelLinkByPannelID($pannelID)
+    {
+        $panel = Pannel::find($pannelID);
+        $mainUrl = $panel->admin_url;
+
+        $mainUrl = str_replace('/admin/', '', $mainUrl);
+        $mainUrl = str_replace('/admin', '', $mainUrl);
+        // get substring from end of str until /
+
+        $adminUUID = substr($mainUrl, -36);
+        $hidifyUrl = str_replace("/$adminUUID", '', $mainUrl);
+
+        return $hidifyUrl;
+    }
+
+    public function generateQrMOC($str)
+    {
+        $fileName = 'qr_' . time() . '_' . rand(1000, 9999) . '.png';
+
+        $qrImage = QrCode::format('png')
+            ->size(250)
+            ->backgroundColor(255, 255, 255)
+            ->color(0, 0, 255)
+            ->margin(1)
+            ->generate($str);
+
+        // تبدیل خروجی QR به تصویر GD
+        $qr = imagecreatefromstring($qrImage);
+
+        // ایجاد تصویر جدید با اندازه بزرگتر برای پس‌زمینه
+        $finalImage = imagecreatetruecolor(300, 300);
+
+        // ایجاد رنگ پس‌زمینه (در اینجا آبی روشن)
+        $bgColor = imagecolorallocate($finalImage, 200, 230, 255);
+
+        // پر کردن پس‌زمینه
+        imagefill($finalImage, 0, 0, $bgColor);
+
+        // کپی کردن QR در مرکز تصویر نهایی
+        imagecopy($finalImage, $qr, 25, 25, 0, 0, 250, 250);
+
+        $directory = public_path('images/qrcodes');
+        if (!File::exists($directory)) {
+            File::makeDirectory($directory, 0755, true);
+        }
+
+        $path = $directory . '/' . $fileName;
+        if (File::exists($path)) {
+            File::delete($path);
+        }
+
+        // ذخیره تصویر نهایی
+        $result = imagepng($finalImage, $path);
+
+        // آزاد کردن حافظه
+        imagedestroy($qr);
+        imagedestroy($finalImage);
+
+        if (!$result) {
+            return false;
+        }
+
+        return $path;
+    }
+    public function createMarzbanUser($accountId, $day, $vol, $pannelID)
+    {
+        $mb = MarzbanPannelController::resolve($pannelID);
+        $result = $mb->createUser($pannelID, $accountId, (int) $day, $vol);
+        if ($result === false) {
+            return null;
+        }
+
+        return [
+            'links' => $result['links'],
+            'subscription_link' => $result['subscription_link'],
+        ];
+    }
+
+    public function modifyMarzbanUser($accountId, $day, $vol, $pannelID)
+    {
+        $mb = MarzbanPannelController::resolve($pannelID);
+        if (! $mb->modifyUser($pannelID, $accountId, (int) $day, $vol)) {
+            return null;
+        }
+
+        $user = $mb->getUser($pannelID, $accountId);
+
+        return $user['links'] ?? null;
+    }
+
+    private function syncMarzbanProxiesFromPanel(Pannel $pannel, array $items): void
+    {
+        $byProtocol = [];
+        foreach ($items as $item) {
+            if (! is_array($item)) {
+                continue;
+            }
+            $protocol = strtolower((string) ($item['protocol'] ?? ''));
+            $tag = trim((string) ($item['tag'] ?? ''));
+            if ($protocol === '' || $tag === '') {
+                continue;
+            }
+            $byProtocol[$protocol][] = [
+                'tag' => $tag,
+                'enabled' => ! empty($item['enabled']),
+            ];
+        }
+
+        foreach ($byProtocol as $protocol => $inboundItems) {
+            $proxy = Proxy::where('pannel_id', $pannel->id)
+                ->where('type', $protocol)
+                ->first();
+            if (! $proxy) {
+                $proxy = new Proxy();
+                $proxy->pannel_id = $pannel->id;
+                $proxy->type = $protocol;
+                $proxy->is_active = false;
+                $proxy->save();
+            }
+
+            $anyEnabled = false;
+            foreach ($inboundItems as $inboundItem) {
+                $inbound = Inbound::where('proxy_id', $proxy->id)
+                    ->where('name', $inboundItem['tag'])
+                    ->first();
+                if (! $inbound) {
+                    $inbound = new Inbound();
+                    $inbound->proxy_id = $proxy->id;
+                    $inbound->name = $inboundItem['tag'];
+                    $inbound->data = $inboundItem['tag'];
+                }
+                $inbound->is_active = $inboundItem['enabled'];
+                $inbound->save();
+                if ($inboundItem['enabled']) {
+                    $anyEnabled = true;
+                }
+            }
+
+            $proxy->is_active = $anyEnabled;
+            $proxy->update();
+        }
+    }
+}

@@ -1,3 +1,26 @@
 <?php
-bolt_decrypt( __FILE__ , 'dIxUO0'); return 0;
-##!!!##AwNnWmZebGlaXF4ZOmlpVUlraG9iXV5rbDQDAygoGW5sXhlCZWVuZmJnWm1eVUxuaWloa21VP1pcWl1ebFVAWm1eNANubF4ZQmVlbmZiZ1ptXlU/aG5nXVptYmhnVUxuaWloa21VSWtob2JdXmtsVTpubWFMXmtvYlxeSWtob2JdXmsZWmwZTF5rb2JcXklraG9iXV5rNAMDXGVabGwZOm5tYUxea29iXF5Ja2hvYl1eaxlecW1eZ11sGUxea29iXF5Ja2hvYl1eawN0AxkZGRkoIyMDGRkZGRkjGU1hXhlmaF1eZRltaBlpaGViXHIZZlppaWJnYGwZX2hrGW1hXhlaaWllYlxabWJoZycDGRkZGRkjAxkZGRkZIxk5b1prGVpra1pyNVxlWmxsJmxta2JnYCUZXGVabGwmbG1rYmdgNwMZGRkZGSMoAxkZGRlpa2htXlxtXl0ZHWloZWJcYl5sGTYZVAMZGRkZGRkZGSgoAxkZGRlWNAMDGRkZGSgjIwMZGRkZGSMZS15gYmxtXmsZWmdyGVpubWFeZ21iXFptYmhnGSgZWm5tYWhrYnNabWJoZxlsXmtvYlxebCcDGRkZGRkjKAMZGRkZaW5bZWJcGV9uZ1xtYmhnGVtoaG0hIjMZb2hiXQMZGRkZdAMZGRkZGRkZGSgoAxkZGRl2A3YD
+
+namespace App\Providers;
+
+// use Illuminate\Support\Facades\Gate;
+use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
+
+class AuthServiceProvider extends ServiceProvider
+{
+    /**
+     * The model to policy mappings for the application.
+     *
+     * @var array<class-string, class-string>
+     */
+    protected $policies = [
+        //
+    ];
+
+    /**
+     * Register any authentication / authorization services.
+     */
+    public function boot(): void
+    {
+        //
+    }
+}

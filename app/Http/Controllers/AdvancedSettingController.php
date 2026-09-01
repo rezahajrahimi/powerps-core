@@ -1,3 +1,182 @@
 <?php
-bolt_decrypt( __FILE__ , 'svAfpQ'); return 0;
-##!!!##W1u/sr62xMGytLZxksHBrZnFxcGtlMC/xcPAvb22w8SMW1vGxLZxksHBrZ7Atba9xK2Stceyv7S2taS2xcW6v7iMW8bEtnGavb3Gvrq/ssW2rZnFxcGto7bCxrbExYxbW7S9ssTEcZK1x7K/tLa1pLbFxbq/uJTAv8XDwL29tsNxtsnFtr+1xHGUwL/Fw8C9vbbDW8xbcXFxccHGs726tHG3xr+0xbrAv3Gytceyv7S2taS2xcW6v7h5eotxkrXHsr+0trWktsXFur+4W3FxcXHMW3FxcXFxcXFxxcPKccxbcXFxcXFxcXFxcXFxgIBxw7bFxsO/cbe6w8TFcbK1x7K/tLa1ccS2xcW6v7hxwMNxtMO2ssW2cbJxv7bIccC/tltxcXFxcXFxcXFxcXF1srXHsr+0trWktsXFur+4cY5xkrXHsr+0trWktsXFur+4i4u3usPExXl6jFtxcXFxcXFxcXFxcXG6t3F5dbK1x7K/tLa1pLbFxbq/uHGOjnG/xr29enHMW3FxcXFxcXFxcXFxcXFxcXF1srXHsr+0trWktsXFur+4cY5xv7bIcZK1x7K/tLa1pLbFxbq/uHl6jFtxcXFxcXFxcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6PxLLHtnl6jFtxcXFxcXFxcXFxcXHOW1txcXFxcXFxcXFxcXHDtsXGw79xdbK1x7K/tLa1pLbFxbq/uIxbcXFxcXFxcXHOcbSyxbS5cXmtpbnDwMiys722cXXFuXpxzFtxcXFxcXFxcXFxcXGtncC4i4u6v7fAeXOytceyv7S2taS2xcW6v7iLcXXFuXN6jFtbcXFxcXFxcXFxcXFxw7bFxsO/ccO2xMHAv8S2eXp+j7vEwL95v8a9vX1xhoGBeoxbcXFxcXFxcXHOW3FxcXHOW3FxcXHBxrO9urRxt8a/tMW6wL9xxsG1ssW2sLK1x7K/tLa1sMS2xcW6v7h5o7bCxrbExXF1w7bCxrbExXqLcbPAwL1bcXFxccxbcXFxcXFxcXHFw8pxzFtxcXFxcXFxcXFxcXGAgHG0uba0vHGytLTAxr/Fcb26tLa/xLZbcXFxcXFxcXFxcXFxdbLGxbmUv8XDvXGOcb+2yHGSxsW5lMC/xcPAvb22w3l6jFtxcXFxcXFxcXFxcXF1uLbFocDItsOhxJ26tLa/xLalysG2cY5xdbLGxbmUv8XDvX6PuLbFocDItsOhxJ26tLa/xLalysG2eXqMW3FxcXFxcXFxcXFxcbq3cXl1uLbFocDItsOhxJ26tLa/xLalysG2cY6OcXO3sr3EtnNxzc1xdbi2xaHAyLbDocSdurS2v8S2pcrBtnGOjnFzxcO6sr1zcc3NcXW4tsWhwMi2w6HEnbq0tr/EtqXKwbZxjo5xc7PAw8C/y7ZzenHMW3FxcXFxcXFxcXFxcXFxcXHDtsXGw79xt7K9xLaMW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcXWytceyv7S2taS2xcW6v7hxjnF1xbm6xH6PsrXHsr+0trWktsXFur+4eXqMW3FxcXFxcXFxcXFxcXW8tspxjnF1w7bCxrbExX6PvLbKjFtxcXFxcXFxcXFxcXF1x7K9xrZxjnF1w7bCxrbExX6Px7K9xraMW3FxcXFxcXFxcXFxcbq3cXl1vLbKcY6OcXizwMWwxLnAyLC0wL+3urjEsLPKsMGyv7a9xLC0ssW2uMDDynh6ccxbcXFxcXFxcXFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j7PAxbDEucDIsLTAv7e6uMSws8qwwbK/tr3EsLSyxba4wMPKcY5xdceyvca2jFtxcXFxcXFxcXFxcXHOcba9xLa6t3F5dby2ynGOjnF4s8DFsLLGxcCwxLbFsMHDurS2sLPKsLXAvb2yw7DBw7q0tnh6ccxbcXFxcXFxcXFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j7PAxbCyxsXAsMS2xbDBw7q0trCzyrC1wL29ssOwwcO6tLZxjnF1x7K9xraMW3FxcXFxcXFxcXFxcc5xtr3Etrq3cXl1vLbKcY6OcXizwMWwtLK9tMa9ssW2sMHDwLXGtMWwtLLFtrjAw8qwwcO6tLawur+wtcC9vbLDsLPKsMXAvrK/eHpxzFtxcXFxcXFxcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsLSyvbTGvbLFtrDBw8C1xrTFsLSyxba4wMPKsMHDurS2sLq/sLXAvb2yw7CzyrDFwL6yv3GOcXXHsr3GtoxbcXFxcXFxcXFxcXFxznG2vcS2urdxeXW8tspxjo5xeLPAxbDEucDIsMC/trDDwMiwtMC/t7q4eHpxzFtxcXFxcXFxcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsMS5wMiwwL+2sMPAyLC0wL+3urhxjnF1x7K9xraMW3FxcXFxcXFxcXFxcc5bW3FxcXFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j8bBtbLFtnl6jFtxcXFxcXFxcXFxcXHDtsXGw79xxcPGtoxbcXFxcXFxcXHOcbSyxbS5cXmtpbnDwMiys722cXXFuXpxzFtxcXFxcXFxcXFxcXGtncC4i4u6v7fAeXPGwbWyxbawsrXHsr+0trWwxLbFxbq/uItxdcW5c3qMW1txcXFxcXFxcXFxcXHDtsXGw79xw7bEwcC/xLZ5en6Pu8TAv3m/xr29fXGGgYF6jFtxcXFxcXFxcc5bcXFxcc5bcXFxcYCAccHGs726tHG3xr+0xbrAv3G4tsWws8DFsMS5wMiwtMC/t7q4xLCzyrDBsr+2vcSwtLLFtrjAw8p5eotxs8DAvVtxcXFxgIBxzFtxcXFxgIBxcXFxccXDynHMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7hxjnF1xbm6xH6PsrXHsr+0trWktsXFur+4eXqMW3FxcXGAgHFxcXFxcXFxccO2xcbDv3F1srXHsr+0trWktsXFur+4fo+zwMWwxLnAyLC0wL+3urjEsLPKsMGyv7a9xLC0ssW2uMDDyoxbcXFxcYCAcXFxcXHOcbSyxbS5cXmtpbnDwMiys722cXXFuXpxzFtxcXFxgIBxcXFxcXFxcXGtncC4i4u6v7fAeXO4tsWws8DFsMS5wMiwtMC/t7q4xLCzyrDBsr+2vcSwtLLFtrjAw8qLcXXFuXN6jFtbcXFxcYCAcXFxcXFxcXFxw7bFxsO/ccO2xMHAv8S2eXp+j7vEwL95v8a9vX1xhoGBeoxbcXFxcYCAcXFxcXHOW3FxcXGAgHHOW3FxcXGAgHHBxrO9urRxt8a/tMW6wL9xtLmyv7i2sLPAxbDEucDIsLTAv7e6uMSws8qwwbK/tr3EsLSyxba4wMPKeXXHsr3GtnqLcbPAwL1bcXFxcYCAccxbcXFxcYCAcXFxcXHFw8pxzFtxcXFxgIBxcXFxcXFxcXF1srXHsr+0trWktsXFur+4cY5xdcW5usR+j7K1x7K/tLa1pLbFxbq/uHl6jFtxcXFxgIBxcXFxcXFxcXF1srXHsr+0trWktsXFur+4fo+zwMWwxLnAyLC0wL+3urjEsLPKsMGyv7a9xLC0ssW2uMDDynGOcXXHsr3GtoxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6PxLLHtnl6jFtbcXFxcYCAcXFxcXFxcXFxw7bFxsO/ccXDxraMW3FxcXGAgHFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnF1xbl6ccxbcXFxcYCAcXFxcXFxcXFxrZ3AuIuLur+3wHlztLmyv7i2sLPAxbDEucDIsLTAv7e6uMSws8qwwbK/tr3EsLSyxba4wMPKi3F1xblzeoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HDtsTBwL/Etnl6fo+7xMC/eb/Gvb19cYaBgXqMW3FxcXGAgHFxcXFxzltxcXFxgIBxzltxcXFxgIBxwcazvbq0cbfGv7TFusC/cbi2xbCzwMWwssbFwLDEtsWwwcO6tLaws8qwtcC9vbLDsMHDurS2eXqLcbPAwL1bcXFxcYCAccxbcXFxcYCAcXFxcXHFw8pxzFtxcXFxgIBxcXFxcXFxcXF1srXHsr+0trWktsXFur+4cY5xdcW5usR+j7K1x7K/tLa1pLbFxbq/uHl6jFtxcXFxgIBxcXFxcXFxcXHDtsXGw79xdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsLLGxcCwxLbFsMHDurS2sLPKsLXAvb2yw7DBw7q0toxbcXFxcYCAcXFxcXHOcbSyxbS5cXmtpbnDwMiys722cXXFuXpxzFtxcXFxgIBxcXFxcXFxcXGtncC4i4u6v7fAeXO4tsWws8DFsLLGxcCwxLbFsMHDurS2sLPKsLXAvb2yw7DBw7q0totxdcW5c3qMW1txcXFxgIBxcXFxcXFxcXHDtsXGw79xw7bEwcC/xLZ5en6Pu8TAv3m/xr29fXGGgYF6jFtxcXFxgIBxcXFxcc5bcXFxcYCAcc5bcXFxcYCAccHGs726tHG3xr+0xbrAv3G0ubK/uLaws8DFsLLGxcCwxLbFsMHDurS2sLPKsLXAvb2yw7DBw7q0tnl1x7K9xrZ6i3GzwMC9W3FxcXGAgHHMW3FxcXGAgHFxcXFxxcPKccxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uHGOcXXFubrEfo+ytceyv7S2taS2xcW6v7h5eoxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsLLGxcCwxLbFsMHDurS2sLPKsLXAvb2yw7DBw7q0tnGOcXXHsr3GtoxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6PxLLHtnl6jFtbcXFxcYCAcXFxcXFxcXFxw7bFxsO/ccXDxraMW3FxcXGAgHFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnF1xbl6ccxbcXFxcYCAcXFxcXFxcXFxrZ3AuIuLur+3wHlztLmyv7i2sLPAxbCyxsXAsMS2xbDBw7q0trCzyrC1wL29ssOwwcO6tLaLcXXFuXN6jFtbcXFxcYCAcXFxcXFxcXFxw7bFxsO/ccO2xMHAv8S2eXp+j7vEwL95v8a9vX1xhoGBeoxbcXFxcYCAcXFxcXHOW3FxcXGAgHHOW3FxcXGAgHHBxrO9urRxt8a/tMW6wL9xuLbFsLPAxbDEucDIsMi2s7CywcGwvbq/vLC6v7DFtr22uMOyvrC3wMOwsr29sMbEtsPEeXpbcXFxcYCAccxbcXFxcYCAcXFxcXHFw8pxzFtxcXFxgIBxcXFxcXFxcXF1srXHsr+0trWktsXFur+4cY5xdcW5usR+j7K1x7K/tLa1pLbFxbq/uHl6jFtxcXFxgIBxcXFxcXFxcXHDtsXGw79xdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsMS5wMiwyLazsLLBwbC9ur+8sLq/sMW2vba4w7K+sLfAw7Cyvb2wxsS2w8SMW3FxcXGAgHFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnF1xbl6ccxbcXFxcYCAcXFxcXFxcXFxrZ3AuIuLur+3wHlzuLbFsLPAxbDEucDIsMi2s7CywcGwvbq/vLC6v7DFtr22uMOyvrC3wMOwsr29sMbEtsPEi3F1xblzeoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HDtsTBwL/Etnl6fo+7xMC/eb/Gvb19cYaBgXqMW3FxcXGAgHFxcXFxzltxcXFxgIBxzltxcXFxgIBxwcazvbq0cbfGv7TFusC/cbS5sr+4trCzwMWwxLnAyLDItrOwssHBsL26v7ywur+wxba9trjDsr6wt8DDsLK9vbDGxLbDxHl1x7K9xrZ6i3GzwMC9W3FxcXGAgHHMW3FxcXGAgHFxcXFxxcPKccxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uHGOcXXFubrEfo+ytceyv7S2taS2xcW6v7h5eoxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsMS5wMiwyLazsLLBwbC9ur+8sLq/sMW2vba4w7K+sLfAw7Cyvb2wxsS2w8RxjnF1x7K9xraMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j8Syx7Z5eoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HFw8a2jFtxcXFxgIBxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZxdcW5enHMW3FxcXGAgHFxcXFxcXFxca2dwLiLi7q/t8B5c7S5sr+4trCzwMWwxLnAyLDItrOwssHBsL26v7ywur+wxba9trjDsr6wt8DDsLK9vbDGxLbDxItxdcW5c3qMW1txcXFxgIBxcXFxcXFxcXHDtsXGw79xw7bEwcC/xLZ5en6Pu8TAv3m/xr29fXGGgYF6jFtxcXFxgIBxcXFxcc5bcXFxcYCAcc5bcXFxcYCAccHGs726tHG3xr+0xbrAv3G4tsWws8DFsLSyvbTGvbLFtrDBw8C1xrTFsLSyxba4wMPKsMHDurS2sLq/sLXAvb2yw7CzyrDFwL6yv3l6i3GzwMC9W3FxcXGAgHHMW3FxcXGAgHFxcXFxxcPKccxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uHGOcXXFubrEfo+ytceyv7S2taS2xcW6v7h5eoxbcXFxcYCAcXFxcXFxcXFxw7bFxsO/cXWytceyv7S2taS2xcW6v7h+j7PAxbC0sr20xr2yxbawwcPAtca0xbC0ssW2uMDDyrDBw7q0trC6v7C1wL29ssOws8qwxcC+sr+MW3FxcXGAgHFxcXFxznG0ssW0uXF5raW5w8DIsrO9tnF1xbl6ccxbcXFxcYCAcXFxcXFxcXFxrZ3AuIuLur+3wHlzuLbFsLPAxbC0sr20xr2yxbawwcPAtca0xbC0ssW2uMDDyrDBw7q0trC6v7C1wL29ssOws8qwxcC+sr+LcXXFuXN6jFtbcXFxcYCAcXFxcXFxcXFxw7bFxsO/ccO2xMHAv8S2eXp+j7vEwL95v8a9vX1xhoGBeoxbcXFxcYCAcXFxcXHOW3FxcXGAgHHOW3FxcXGAgHHBxrO9urRxt8a/tMW6wL9xtLmyv7i2sLPAxbC0sr20xr2yxbawwcPAtca0xbC0ssW2uMDDyrDBw7q0trC6v7C1wL29ssOws8qwxcC+sr95dceyvca2eotxs8DAvVtxcXFxgIBxzFtxcXFxgIBxcXFxccXDynHMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7hxjnF1xbm6xH6PsrXHsr+0trWktsXFur+4eXqMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j7PAxbC0sr20xr2yxbawwcPAtca0xbC0ssW2uMDDyrDBw7q0trC6v7C1wL29ssOws8qwxcC+sr9xjnF1x7K9xraMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j8Syx7Z5eoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HFw8a2jFtxcXFxgIBxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZxdcW5enHMW3FxcXGAgHFxcXFxcXFxca2dwLiLi7q/t8B5c7S5sr+4trCzwMWwtLK9tMa9ssW2sMHDwLXGtMWwtLLFtrjAw8qwwcO6tLawur+wtcC9vbLDsLPKsMXAvrK/i3F1xblzeoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HDtsTBwL/Etnl6fo+7xMC/eb/Gvb19cYaBgXqMW3FxcXGAgHFxcXFxzltxcXFxgIBxzltxcXFxgIBxwcazvbq0cbfGv7TFusC/cbi2xbCzwMWwxLnAyLDAv7aww8DIsLTAv7e6uHl6i3GzwMC9W3FxcXGAgHHMW3FxcXGAgHFxcXFxxcPKccxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uHGOcXXFubrEfo+ytceyv7S2taS2xcW6v7h5eoxbcXFxcYCAcXFxcXFxcXFxw7bFxsO/cXWytceyv7S2taS2xcW6v7h+j7PAxbDEucDIsMC/trDDwMiwtMC/t7q4jFtxcXFxgIBxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZxdcW5enHMW3FxcXGAgHFxcXFxcXFxca2dwLiLi7q/t8B5c7i2xbCzwMWwxLnAyLDAv7aww8DIsLTAv7e6uItxdcW5c3qMW1txcXFxgIBxcXFxcXFxcXHDtsXGw79xt7K9xLaMW3FxcXGAgHFxcXFxzltxcXFxgIBxzltxcXFxgIBxwcazvbq0cbfGv7TFusC/cbS5sr+4trCzwMWwxLnAyLDAv7aww8DIsLTAv7e6uHl1x7K9xrZ6i3GzwMC9W3FxcXGAgHHMW3FxcXGAgHFxcXFxxcPKccxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uHGOcXXFubrEfo+ytceyv7S2taS2xcW6v7h5eoxbcXFxcYCAcXFxcXFxcXFxdbK1x7K/tLa1pLbFxbq/uH6Ps8DFsMS5wMiwwL+2sMPAyLC0wL+3urhxjnF1x7K9xraMW3FxcXGAgHFxcXFxcXFxcXWytceyv7S2taS2xcW6v7h+j8Syx7Z5eoxbW3FxcXGAgHFxcXFxcXFxccO2xcbDv3HFw8a2jFtxcXFxgIBxcXFxcc5xtLLFtLlxea2lucPAyLKzvbZxdcW5enHMW3FxcXGAgHFxcXFxcXFxca2dwLiLi7q/t8B5c7S5sr+4trCzwMWwxLnAyLDAv7aww8DIsLTAv7e6uItxdcW5c3qMW1txcXFxgIBxcXFxcXFxcXHDtsXGw79xt7K9xLaMcXFxcXFxcXHOW3FxcXGAgHHOW85b
+
+namespace App\Http\Controllers;
+
+use App\Models\AdvancedSetting;
+use Illuminate\Http\Request;
+
+class AdvancedSettingController extends Controller
+{
+    public function advancedSetting(): AdvancedSetting
+    {
+        try {
+            // return first advanced setting or create a new one
+            $advancedSetting = AdvancedSetting::first();
+            if ($advancedSetting == null) {
+                $advancedSetting = new AdvancedSetting();
+                $advancedSetting->save();
+            }
+
+            return $advancedSetting;
+        } catch (\Throwable $th) {
+            \Log::info("advancedSetting: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+    public function update_advanced_setting(Request $request): bool
+    {
+        try {
+            // check account license
+            $authCntrl = new AuthController();
+            $getPowerPsLicenseType = $authCntrl->getPowerPsLicenseType();
+            if ($getPowerPsLicenseType == "false" || $getPowerPsLicenseType == "trial" || $getPowerPsLicenseType == "boronze") {
+                return false;
+            }
+
+            $advancedSetting = $this->advancedSetting();
+            $key = $request->key;
+            $value = $request->value;
+            if ($key == 'bot_show_configs_by_panels_category') {
+                $advancedSetting->bot_show_configs_by_panels_category = $value;
+            } elseif ($key == 'bot_auto_set_price_by_dollar_price') {
+                $advancedSetting->bot_auto_set_price_by_dollar_price = $value;
+            } elseif ($key == 'bot_calculate_product_category_price_in_dollar_by_toman') {
+                $advancedSetting->bot_calculate_product_category_price_in_dollar_by_toman = $value;
+            } elseif ($key == 'bot_show_one_row_config') {
+                $advancedSetting->bot_show_one_row_config = $value;
+            }
+
+            $advancedSetting->update();
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("update_advanced_setting: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+    // public function get_bot_show_configs_by_panels_category(): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         return $advancedSetting->bot_show_configs_by_panels_category;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("get_bot_show_configs_by_panels_category: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function change_bot_show_configs_by_panels_category($value): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         $advancedSetting->bot_show_configs_by_panels_category = $value;
+    //         $advancedSetting->save();
+
+    //         return true;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("change_bot_show_configs_by_panels_category: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function get_bot_auto_set_price_by_dollar_price(): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         return $advancedSetting->bot_auto_set_price_by_dollar_price;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("get_bot_auto_set_price_by_dollar_price: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function change_bot_auto_set_price_by_dollar_price($value): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         $advancedSetting->bot_auto_set_price_by_dollar_price = $value;
+    //         $advancedSetting->save();
+
+    //         return true;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("change_bot_auto_set_price_by_dollar_price: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function get_bot_show_web_app_link_in_telegram_for_all_users()
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         return $advancedSetting->bot_show_web_app_link_in_telegram_for_all_users;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("get_bot_show_web_app_link_in_telegram_for_all_users: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function change_bot_show_web_app_link_in_telegram_for_all_users($value): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         $advancedSetting->bot_show_web_app_link_in_telegram_for_all_users = $value;
+    //         $advancedSetting->save();
+
+    //         return true;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("change_bot_show_web_app_link_in_telegram_for_all_users: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function get_bot_calculate_product_category_price_in_dollar_by_toman(): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         return $advancedSetting->bot_calculate_product_category_price_in_dollar_by_toman;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("get_bot_calculate_product_category_price_in_dollar_by_toman: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function change_bot_calculate_product_category_price_in_dollar_by_toman($value): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         $advancedSetting->bot_calculate_product_category_price_in_dollar_by_toman = $value;
+    //         $advancedSetting->save();
+
+    //         return true;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("change_bot_calculate_product_category_price_in_dollar_by_toman: $th");
+
+    //         return response()->json(null, 500);
+    //     }
+    // }
+    // public function get_bot_show_one_row_config(): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         return $advancedSetting->bot_show_one_row_config;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("get_bot_show_one_row_config: $th");
+
+    //         return false;
+    //     }
+    // }
+    // public function change_bot_show_one_row_config($value): bool
+    // {
+    //     try {
+    //         $advancedSetting = $this->advancedSetting();
+    //         $advancedSetting->bot_show_one_row_config = $value;
+    //         $advancedSetting->save();
+
+    //         return true;
+    //     } catch (\Throwable $th) {
+    //         \Log::info("change_bot_show_one_row_config: $th");
+
+    //         return false;        }
+    // }
+}

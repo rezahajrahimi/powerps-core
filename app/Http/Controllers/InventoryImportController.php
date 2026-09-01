@@ -1,3 +1,151 @@
 <?php
-bolt_decrypt( __FILE__ , 'DEfrsF'); return 0;
-##!!!##JCSIe4d/jYp7fX86W4qKdmKOjop2XYmIjoyJhoZ/jI1VJCSPjX86W4qKdmeJfn+GjXZqe4iIf4ZVJI+Nfzpbiop2bX+MkIN9f412Y4iQf4iOiYyTY4eKiYyObX+MkIN9f1Ukj41/OluKinZtf4yQg31/jXZjiJB/iI6JjJNtjol9hW1/jJCDfX9VJI+NfzpjhoaPh4OIe45/dmKOjop2bH+Lj3+NjlUkj41/OmOGho+Hg4h7jn92bY+KiomMjnZge317fn+Ndmx/jYqJiI1/VSSPjX86bZOHgImIk3ZdiYeKiYh/iI52Yo6OimCJj4h+e46DiYh2bY6Mf3uHf35sf42KiYiNf1UkJH2Ge42NOmOIkH+IjomMk2OHiomMjl2JiI6MiYaGf4w6f5KOf4h+jTpdiYiOjImGhn+MJJUkOjo6OoqPfIaDfTqAj4h9joOJiDqDh4qJjI5CbH+Lj3+Njjo+jH+Lj3+NjkY6Y4iQf4iOiYyTY4eKiYyObX+MkIN9fzo+g4eKiYyObX+MkIN9f0MkOjo6OpUkOjo6Ojo6Ojo+jH+Lj3+NjkdYkHuGg357jn9CdSQ6Ojo6Ojo6Ojo6OjpBgIOGf0E6V1g6QYx/i4+DjH9+loCDhn+Wh4OHf41UfY2QRo6SjkaSho2Slod7klRLSkxOSkFGJDo6Ojo6Ojo6Ojo6OkGKe4iIf4Z5g35BOldYOkGMf4uPg4x/fpaDiI5/gX+Mln+Sg42OjVSKe4iIf4aNRoN+QUYkOjo6Ojo6Ojp3Q1UkJDo6Ojo6Ojo6joyTOpUkOjo6Ojo6Ojo6Ojo6Pox/jY+GjjpXOj6Dh4qJjI5tf4yQg31/R1iDh4qJjI5CPox/i49/jY5HWICDhn9CQYCDhn9BQ0Y6QoOIjkM6Pox/i49/jY5HWIp7iIh/hnmDfkNVJCQ6Ojo6Ojo6Ojo6OjqMf46PjIg6jH+NiomIjX9CQ0dYhI2JiEJ1JDo6Ojo6Ojo6Ojo6Ojo6OjpBjY99fX+NjUE6V1g6joyPf0YkOjo6Ojo6Ojo6Ojo6Ojo6OkGHf42Ne4F/QTpXWDpB85vywfWm85468sLywTrzn/Oi85vznPWm8sQ689jyy/LJ8sHyzPLOOvLO8slIQUYkOjo6Ojo6Ojo6Ojo6Ojo6OkF+e457QTpXWDo+jH+Nj4aORiQ6Ojo6Ojo6Ojo6Ojp3Q1UkOjo6Ojo6OjqXOn17jn2COkJ2boKMiZF7fIZ/Oj6OgkM6lSQ6Ojo6Ojo6Ojo6Ojp2ZomBVFR/jIyJjEJBY4iQf4iOiYyTOoOHiomMjjqAe4OGf35UOkE6SDo+joJHWIF/jmd/jY17gX9CQ0NVJCQ6Ojo6Ojo6Ojo6OjqMf46PjIg6jH+NiomIjX9CQ0dYhI2JiEJ1JDo6Ojo6Ojo6Ojo6Ojo6OjpBjY99fX+NjUE6V1g6gHuGjX9GJDo6Ojo6Ojo6Ojo6Ojo6OjpBh3+NjXuBf0E6V1g6Po6CR1iBf45nf42Ne4F/QkNGJDo6Ojo6Ojo6Ojo6OndGOk5MTENVJDo6Ojo6Ojo6lyQ6Ojo6lyQkOjo6OoqPfIaDfTqAj4h9joOJiDp+iZGIhol7fm5/h4qGe45/QmOIkH+IjomMk2OHiomMjm1/jJCDfX86PoOHiomMjm1/jJCDfX9DVDptjox/e4d/fmx/jYqJiI1/JDo6OjqVJDo6Ojo6Ojo6Pn2JiI5/iI46Vzo+g4eKiYyObX+MkIN9f0dYfI+Dhn5uf4eKhnuOf12NkEJDVSQkOjo6Ojo6OjqMf46PjIg6bH+NiomIjX9UVI2OjH97h16JkYiGiXt+QiQ6Ojo6Ojo6Ojo6OjqNjnuOg306gI+IfY6DiYg6QkM6j41/OkI+fYmIjn+IjkM6lSQ6Ojo6Ojo6Ojo6Ojo6Ojo6f32CiTo+fYmIjn+IjlUkOjo6Ojo6Ojo6Ojo6l0YkOjo6Ojo6Ojo6Ojo6QYOIkH+IjomMk0eDh4qJjI5Hjn+HioZ7jn9IfY2QQUYkOjo6Ojo6Ojo6Ojo6dUFdiYiOf4iOR26Tin9BOldYOkGOf5KOSX2NkFU6fYJ7jI1/jldvbmBHUkF3JDo6Ojo6Ojo6Q1UkOjo6OpckJDo6OjqKj3yGg306gI+IfY6DiYg6gX+OY4iQf4iOiYyTanuIf4aNQkMkOjo6OpUkOjo6Ojo6Ojo+inuIf4aNOlc6anuIiH+GVFSLj3+Mk0JDJDo6Ojo6Ojo6Ojo6OkdYkYJ/jH9CQY6Tin9BRjpqe4iIf4ZUVG5zal95Y2hwX2huaWxzQyQ6Ojo6Ojo6Ojo6OjpHWImMfn+MXJNCQYN+QUMkOjo6Ojo6Ojo6Ojo6R1iBf45CdUGDfkFGOkGGiX17joOJiEFGOkGOk4p/QUY6QX17int9g46TQXdDVSQkOjo6Ojo6OjqMf46PjIg6jH+NiomIjX9CQ0dYhI2JiEI+inuIf4aNQ1UkOjo6OpckJDo6OjqKj3yGg306gI+IfY6DiYg6gX+OY4iQf4iOiYyTbY6JfYVCbH+Lj3+Njjo+jH+Lj3+NjkY6Y4iQf4iOiYyTbY6JfYVtf4yQg31/Oj6Njol9hW1/jJCDfX9DJDo6OjqVJDo6Ojo6Ojo6Pox/i49/jY5HWJB7hoN+e45/QnUkOjo6Ojo6Ojo6Ojo6QYp7iIh/hnmDfkE6V1g6QYx/i4+DjH9+loOIjn+Bf4yWf5KDjY6NVIp7iIh/ho1Gg35BRiQ6Ojo6Ojo6Ojo6OjpBjY57jo+NQTpXWDpBiI+Ghnt8hn+Wg4hUe4aGRnt9joOQf0aNiYZ+QUYkOjo6Ojo6Ojo6Ojo6QY2JjI5BOldYOkGIj4aGe3yGf5aDiFR9jH97jn9+eXuOeX5/jX1GfYx/e45/fnl7jnl7jX1Gj4p+e45/fnl7jnl+f419Ro+KfnuOf355e455e419Rn17jn+BiYyTeXuNfUZ9e45/gYmMk3l+f419RoqMg31/eXuNfUaKjIN9f3l+f419Ro2Oe46PjUFGJDo6Ojo6Ojo6Ojo6OkGNf3uMfYJBOldYOkGIj4aGe3yGf5aNjoyDiIGWh3uSVExPT0FGJDo6Ojo6Ojo6Ojo6OkGKe4F/QTpXWDpBiI+Ghnt8hn+Wg4iOf4F/jJaHg4hUS0FGJDo6Ojo6Ojo6Ojo6OkGKf4x5inuBf0E6V1g6QYiPhoZ7fIZ/loOIjn+Bf4yWh4OIVE+Wh3uSVEtKSkFGJDo6Ojo6Ojo6d0NVJCQ6Ojo6Ojo6Oo6MkzqVJDo6Ojo6Ojo6Ojo6Oj6Ke4h/hmN+Olc6QoOIjkM6Pox/i49/jY5HWIp7iIh/hnmDflUkOjo6Ojo6Ojo6Ojo6Po2Oe46PjTpXOj6Mf4uPf42OR1iDiIqPjkJBjY57jo+NQUY6QXuGhkFDVSQ6Ojo6Ojo6Ojo6Ojo+jYmMjjpXOj6Mf4uPf42OR1iDiIqPjkJBjYmMjkFGOkF9jH97jn9+eXuOeX5/jX1BQ1UkOjo6Ojo6Ojo6Ojo6Po1/e4x9gjpXOj6Mf4uPf42OR1iDiIqPjkJBjX97jH2CQUNVJDo6Ojo6Ojo6Ojo6Oj6Kf4xqe4F/Olc6QoOIjkM6Pox/i49/jY5HWIOIio+OQkGKf4x5inuBf0FGOkxKQ1UkJDo6Ojo6Ojo6Ojo6Oj6Nj4eHe4yTOlc6Po2OiX2FbX+MkIN9f0dYgX+ObY+Hh3uMk0I+inuIf4ZjfkNVJDo6Ojo6Ojo6Ojo6Oj6Ke4GDiHuOiYw6Vzo+jY6JfYVtf4yQg31/R1iGg42ObY6JfYVCPop7iH+GY35GOj6NjnuOj41GOj6NiYyORjo+jX97jH2CRjo+in+ManuBf0NVJCQ6Ojo6Ojo6Ojo6OjqMf46PjIg6jH+NiomIjX9CQ0dYhI2JiEJ1JDo6Ojo6Ojo6Ojo6Ojo6OjpBjY+Hh3uMk0E6V1g6Po2Ph4d7jJNGJDo6Ojo6Ojo6Ojo6Ojo6OjpBfnuOe0E6V1g6Pop7gYOIe46JjEdYg45/h41CQ0YkOjo6Ojo6Ojo6Ojo6Ojo6OkF9j4yMf4iOeYp7gX9BOldYOj6Ke4GDiHuOiYxHWH2PjIx/iI5qe4F/QkNGJDo6Ojo6Ojo6Ojo6Ojo6OjpBhnuNjnmKe4F/QTpXWDo+inuBg4h7jomMR1iGe42OanuBf0JDRiQ6Ojo6Ojo6Ojo6Ojo6Ojo6QYp/jHmKe4F/QTpXWDo+inuBg4h7jomMR1iKf4xqe4F/QkNGJDo6Ojo6Ojo6Ojo6Ojo6OjpBjomOe4ZBOldYOj6Ke4GDiHuOiYxHWI6JjnuGQkNGJDo6Ojo6Ojo6Ojo6OndDVSQ6Ojo6Ojo6Opc6fXuOfYI6QnZugoyJkXt8hn86Po6CQzqVJDo6Ojo6Ojo6Ojo6Oox/jo+MiDqMf42KiYiNf0JDR1iEjYmIQnUkOjo6Ojo6Ojo6Ojo6Ojo6OkGNj319f42NQTpXWDqAe4aNf0YkOjo6Ojo6Ojo6Ojo6Ojo6OkGHf42Ne4F/QTpXWDo+joJHWIF/jmd/jY17gX9CQ0YkOjo6Ojo6Ojo6Ojo6d0Y6TkxMQ1UkOjo6Ojo6OjqXJDo6OjqXJCQ6Ojo6io98hoN9OoCPiH2Og4mIOo+KfnuOf2OIkH+IjomMk22OiX2FY45/h0Jsf4uPf42OOj6Mf4uPf42ORjpjiJB/iI6JjJNtjol9hW1/jJCDfX86Po2OiX2FbX+MkIN9f0MkOjo6OpUkOjo6Ojo6Ojo+jH+Lj3+NjkdYkHuGg357jn9CdSQ6Ojo6Ojo6Ojo6OjpBioyJfo99jnmDfkE6V1g6QYx/i4+DjH9+loOIjn+Bf4yWf5KDjY6NVIqMiX6PfY6NRoN+QUYkOjo6Ojo6Ojo6Ojo6QYp7iIh/hnmDfkE6V1g6QYx/i4+DjH9+loOIjn+Bf4yWf5KDjY6NVIp7iIh/ho1Gg35BRiQ6Ojo6Ojo6Ojo6OjpBfYmIgIOBjUE6V1g6QYx/i4+DjH9+lo2OjIOIgUFGJDo6Ojo6Ojo6Ojo6OkGNj3yNfYyDio6DiYh5hoOIhUE6V1g6QYiPhoZ7fIZ/lo2OjIOIgUFGJDo6Ojo6Ojo6Ojo6OkGKe4h/hnmGg4iFQTpXWDpBiI+Ghnt8hn+WjY6Mg4iBQUYkOjo6Ojo6Ojp3Q1UkJDo6Ojo6Ojo6joyTOpUkOjo6Ojo6Ojo6Ojo6PoqMiX6PfY46Vzo+jY6JfYVtf4yQg31/R1iPin57jn9tjol9hWOOf4dCJDo6Ojo6Ojo6Ojo6Ojo6OjpCg4iOQzo+jH+Lj3+NjkdYioyJfo99jnmDfkYkOjo6Ojo6Ojo6Ojo6Ojo6OkKDiI5DOj6Mf4uPf42OR1iKe4iIf4Z5g35GJDo6Ojo6Ojo6Ojo6Ojo6OjpCjY6Mg4iBQzo+jH+Lj3+NjkdYfYmIgIOBjUYkOjo6Ojo6Ojo6Ojo6Ojo6OkKNjoyDiIFDOkI+jH+Lj3+NjkdYjY98jX2Mg4qOg4mIeYaDiIU6WVk6QUFDRiQ6Ojo6Ojo6Ojo6Ojo6Ojo6Qo2OjIOIgUM6Qj6Mf4uPf42OR1iKe4h/hnmGg4iFOllZOkFBQ0YkOjo6Ojo6Ojo6Ojo6Q1UkJDo6Ojo6Ojo6Ojo6Oox/jo+MiDqMf42KiYiNf0JDR1iEjYmIQnUkOjo6Ojo6Ojo6Ojo6Ojo6OkGNj319f42NQTpXWDqOjI9/RiQ6Ojo6Ojo6Ojo6Ojo6Ojo6QYd/jY17gX9BOldYOkH0w/LB86Dzm/Wm9Mk68sLywTrzn/Oi85vznPWm8sQ686L1pvLL8sH1pvLOOvLO8slIQUYkOjo6Ojo6Ojo6Ojo6Ojo6OkF+e457QTpXWDo+ioyJfo99jkYkOjo6Ojo6Ojo6Ojo6d0NVJDo6Ojo6Ojo6lzp9e459gjpCdm6CjImRe3yGfzo+joJDOpUkOjo6Ojo6Ojo6Ojo6jH+Oj4yIOox/jYqJiI1/QkNHWISNiYhCdSQ6Ojo6Ojo6Ojo6Ojo6Ojo6QY2PfX1/jY1BOldYOoB7ho1/RiQ6Ojo6Ojo6Ojo6Ojo6Ojo6QYd/jY17gX9BOldYOj6OgkdYgX+OZ3+NjXuBf0JDRiQ6Ojo6Ojo6Ojo6Ojp3RjpOTExDVSQ6Ojo6Ojo6OpckOjo6OpckJDo6OjqKj3yGg306gI+IfY6DiYg6fn+Gf45/Y4iQf4iOiYyTbY6JfYVjjn+HQmx/i49/jY46Pox/i49/jY5GOmOIkH+IjomMk22OiX2FbX+MkIN9fzo+jY6JfYVtf4yQg31/RjqDiI46PoN+QyQ6Ojo6lSQ6Ojo6Ojo6Oj6Mf4uPf42OR1iQe4aDfnuOf0J1JDo6Ojo6Ojo6Ojo6OkGKe4iIf4Z5g35BOldYOkGMf4uPg4x/fpaDiI5/gX+Mln+Sg42OjVSKe4iIf4aNRoN+QUYkOjo6Ojo6Ojp3Q1UkJDo6Ojo6Ojo6joyTOpUkOjo6Ojo6Ojo6Ojo6Po2OiX2FbX+MkIN9f0dYfn+Gf45/bY6JfYVjjn+HQj6DfkY6QoOIjkM6Pox/i49/jY5HWIp7iIh/hnmDfkNVJCQ6Ojo6Ojo6Ojo6OjqMf46PjIg6jH+NiomIjX9CQ0dYhI2JiEJ1JDo6Ojo6Ojo6Ojo6Ojo6OjpBjY99fX+NjUE6V1g6joyPf0YkOjo6Ojo6Ojo6Ojo6Ojo6OkGHf42Ne4F/QTpXWDpB9MPywfOg85v1pvTJOvLC8sE685/zovOb85z1pvLEOvLH8srzmzryzvLJSEFGJDo6Ojo6Ojo6Ojo6OndDVSQ6Ojo6Ojo6Opc6fXuOfYI6QnZugoyJkXt8hn86Po6CQzqVJDo6Ojo6Ojo6Ojo6Oox/jo+MiDqMf42KiYiNf0JDR1iEjYmIQnUkOjo6Ojo6Ojo6Ojo6Ojo6OkGNj319f42NQTpXWDqAe4aNf0YkOjo6Ojo6Ojo6Ojo6Ojo6OkGHf42Ne4F/QTpXWDo+joJHWIF/jmd/jY17gX9CQ0YkOjo6Ojo6Ojo6Ojo6d0Y6TkxMQ1UkOjo6Ojo6OjqXJDo6OjqXJJck
+
+namespace App\Http\Controllers;
+
+use App\Models\Pannel;
+use App\Services\InventoryImportService;
+use App\Services\InventoryStockService;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Response;
+use Symfony\Component\HttpFoundation\StreamedResponse;
+
+class InventoryImportController extends Controller
+{
+    public function import(Request $request, InventoryImportService $importService)
+    {
+        $request->validate([
+            'file' => 'required|file|mimes:csv,txt,xlsx|max:10240',
+            'pannel_id' => 'required|integer|exists:pannels,id',
+        ]);
+
+        try {
+            $result = $importService->import($request->file('file'), (int) $request->pannel_id);
+
+            return response()->json([
+                'success' => true,
+                'message' => 'فایل با موفقیت پردازش شد.',
+                'data' => $result,
+            ]);
+        } catch (\Throwable $th) {
+            \Log::error('Inventory import failed: ' . $th->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => $th->getMessage(),
+            ], 422);
+        }
+    }
+
+    public function downloadTemplate(InventoryImportService $importService): StreamedResponse
+    {
+        $content = $importService->buildTemplateCsv();
+
+        return Response::streamDownload(
+            static function () use ($content) {
+                echo $content;
+            },
+            'inventory-import-template.csv',
+            ['Content-Type' => 'text/csv; charset=UTF-8']
+        );
+    }
+
+    public function getInventoryPanels()
+    {
+        $panels = Pannel::query()
+            ->where('type', Pannel::TYPE_INVENTORY)
+            ->orderBy('id')
+            ->get(['id', 'location', 'type', 'capacity']);
+
+        return response()->json($panels);
+    }
+
+    public function getInventoryStock(Request $request, InventoryStockService $stockService)
+    {
+        $request->validate([
+            'pannel_id' => 'required|integer|exists:pannels,id',
+            'status' => 'nullable|in:all,active,sold',
+            'sort' => 'nullable|in:created_at_desc,created_at_asc,updated_at_desc,updated_at_asc,category_asc,category_desc,price_asc,price_desc,status',
+            'search' => 'nullable|string|max:255',
+            'page' => 'nullable|integer|min:1',
+            'per_page' => 'nullable|integer|min:5|max:100',
+        ]);
+
+        try {
+            $panelId = (int) $request->pannel_id;
+            $status = $request->input('status', 'all');
+            $sort = $request->input('sort', 'created_at_desc');
+            $search = $request->input('search');
+            $perPage = (int) $request->input('per_page', 20);
+
+            $summary = $stockService->getSummary($panelId);
+            $paginator = $stockService->listStock($panelId, $status, $sort, $search, $perPage);
+
+            return response()->json([
+                'summary' => $summary,
+                'data' => $paginator->items(),
+                'current_page' => $paginator->currentPage(),
+                'last_page' => $paginator->lastPage(),
+                'per_page' => $paginator->perPage(),
+                'total' => $paginator->total(),
+            ]);
+        } catch (\Throwable $th) {
+            return response()->json([
+                'success' => false,
+                'message' => $th->getMessage(),
+            ], 422);
+        }
+    }
+
+    public function updateInventoryStockItem(Request $request, InventoryStockService $stockService)
+    {
+        $request->validate([
+            'product_id' => 'required|integer|exists:products,id',
+            'pannel_id' => 'required|integer|exists:pannels,id',
+            'configs' => 'required|string',
+            'subscription_link' => 'nullable|string',
+            'panel_link' => 'nullable|string',
+        ]);
+
+        try {
+            $product = $stockService->updateStockItem(
+                (int) $request->product_id,
+                (int) $request->pannel_id,
+                (string) $request->configs,
+                (string) ($request->subscription_link ?? ''),
+                (string) ($request->panel_link ?? ''),
+            );
+
+            return response()->json([
+                'success' => true,
+                'message' => 'کانفیگ با موفقیت ویرایش شد.',
+                'data' => $product,
+            ]);
+        } catch (\Throwable $th) {
+            return response()->json([
+                'success' => false,
+                'message' => $th->getMessage(),
+            ], 422);
+        }
+    }
+
+    public function deleteInventoryStockItem(Request $request, InventoryStockService $stockService, int $id)
+    {
+        $request->validate([
+            'pannel_id' => 'required|integer|exists:pannels,id',
+        ]);
+
+        try {
+            $stockService->deleteStockItem($id, (int) $request->pannel_id);
+
+            return response()->json([
+                'success' => true,
+                'message' => 'کانفیگ با موفقیت حذف شد.',
+            ]);
+        } catch (\Throwable $th) {
+            return response()->json([
+                'success' => false,
+                'message' => $th->getMessage(),
+            ], 422);
+        }
+    }
+}

@@ -1,3 +1,41 @@
 <?php
-bolt_decrypt( __FILE__ , 'qKeSKF'); return 0;
-##!!!##Dw9zZnJqeHVmaGolRnV1YVJ0aWpxeEAPD3p4aiVOcXF6cm5zZnlqYUlmeWZnZnhqYUpxdHZ6anN5YUtmaHl0d25qeGFNZnhLZmh5dHd+QA96eGolTnFxenJuc2Z5amFJZnlmZ2Z4amFKcXR2empzeWFSdGlqcUAPD2hxZnh4JVl3ZnN4Zmh5bnRzSHd+dXl0JWp9eWpzaXglUnRpanEPgA8lJSUlenhqJU1meEtmaHl0d35ADyUlJSV1d3R5amh5amklKWx6ZndpamklQiVgLG5pLGJADyUlJSV1d3R5amh5amklKWtucXFmZ3FqJUIlYA8lJSUlJSUlJSxmaGh0enN5ZG5pLDEPJSUlJSUlJSUsenhqd3NmcmosMQ8lJSUlJSUlJSxod351eXRkdWZ+cmpzeWRuaSwxDyUlJSUlJSUlLGZydHpzeWRpdHFxZncsMQ8lJSUlJSUlJSxodHNrbndyamksMQ8lJSUlJSUlJSx3amhudWpkc3pyZ2p3LDEPJSUlJSUlJSUsdHdpandkbmksMQ8lJSUlJSUlJSxsZnlqfGZ+LDEPJSUlJSUlJSUseHlmeXp4LDEPJSUlJSUlJSUsdWZ+cmpzeWRuaSwxDyUlJSUlJSUlLHVmfnJqc3lkendxLDEPJSUlJSUlJSUsaGZxcWdmaHBkaWZ5ZiwxDyUlJSUlJSUlLGh6d3dqc2h+LDEPJSUlJWJADyUlJSV1emdxbmgla3pzaHludHMlbGp5SHdqZnlqaUZ5Rnl5d25nenlqLSl7ZnF6ai4PJSUlJYAPJSUlJSUlJSV3anl6d3Mle2p3eWYte2p3eWYtKXtmcXpqLi4yQ2t0d3JmeUlua2tqd2pzaGotLkAPJSUlJYIPDyUlJSV1emdxbmgla3pzaHludHMlSHd+dXl0ZHVmfnJqc3ktLg8lJSUlgA8lJSUlJSUlJXdqeXp3cyUpeW1ueDJDZ2pxdHNseFl0LUh3fnV5dFVmfnJqc3k/P2hxZnh4MSUsaHd+dXl0ZHVmfnJqc3lkbmksLkAPJSUlJYIPDyUlJSV1emdxbmgla3pzaHludHMlenhqdy0uDyUlJSWADyUlJSUlJSUld2p5endzJSl5bW54MkNnanF0c2x4WXQtR3R5Wnhqdz8/aHFmeHgxJSxmaGh0enN5ZG5pLDElLGZoaHR6c3lkbmksLkAPJSUlJYIPgg8=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class TransactionCrypto extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = [
+        'account_id',
+        'username',
+        'crypto_payment_id',
+        'amount_dollar',
+        'confirmed',
+        'recipe_number',
+        'order_id',
+        'gateway',
+        'status',
+        'payment_id',
+        'payment_url',
+        'callback_data',
+        'currency',
+    ];
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+
+    public function Crypto_payment()
+    {
+        return $this->belongsTo(CryptoPayment::class, 'crypto_payment_id');
+    }
+
+    public function user()
+    {
+        return $this->belongsTo(BotUser::class, 'account_id', 'account_id');
+    }
+}

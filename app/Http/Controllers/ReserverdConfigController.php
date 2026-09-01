@@ -1,3 +1,159 @@
 <?php
-bolt_decrypt( __FILE__ , 'CFS2zF'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\ReserverdConfig;
+use App\Models\ProductCategory;
+use App\Models\User;
+use Illuminate\Http\Request;
+
+class ReserverdConfigController extends Controller
+{
+    public function add_reserverd_config_to_a_user(Request $request)
+    {
+        try {
+            $reserverdConfig = new ReserverdConfig();
+            $reserverdConfig->product_id = $request->product_id;
+            $reserverdConfig->user_id = $request->user_id;
+            $reserverdConfig->save();
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function delete_reserverd_config_by_product_id(Request $request)
+    {
+        try {
+            // get reserverd config and checl user_id by user_id in auth ueser
+            $reserverdConfig = ReserverdConfig::where('product_id', $request->product_id)->first();
+            if ($reserverdConfig->user_id == auth()->user()->id) {
+                $reserverdConfig->delete();
+                return true;
+            }
+            return response()->json(false, 401);
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function check_a_product_has_reserved_config_by_product_id(Request $request)
+    {
+        try {
+            // get reserverd config and checl user_id by user_id in auth ueser
+            $reserverdConfig = ReserverdConfig::where('product_id', $request->product_id)->first();
+            // check $reservedConfig is null or not
+            if ($reserverdConfig == null) {
+                return response()->json(false, 401);
+            }
+            if ($reserverdConfig->user_id == auth()->user()->id) {
+                return true;
+            }
+            return response()->json(false, 401);
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function delete_a_reserved_config_by_product_id_by_admin(Request $request)
+    {
+        try {
+            // get reserverd config and checl user_id by user_id in auth ueser
+            $reserverdConfig = ReserverdConfig::where('product_id', $request->product_id)->first();
+            // check reques->cashback is true or false
+            if ($request->cashback == true || $request->cashback == 1) {
+                //
+                $product = Product::where('id', $reserverdConfig->product_id)
+                    ->with('product_category_and_panel')
+                    ->first();
+
+                $accBlCtrl = new AccountBallanceController();
+                // check user role
+                $user = User::where('id', $reserverdConfig->user_id)->first();
+                $productPrice = $product->product_category_and_panel->price;
+                $accountID = $user->account_id;
+                if ($user->role == 'agent') {
+                    $agentProduct = AgentProduct::where('product_categories_id', $product->product_category_and_panel->id)
+                        ->where('user_id', $userID)
+                        ->first();
+                    if ($agentProduct) {
+                        $productPrice = $agentProduct->price;
+                    }
+                }
+                $inc = $accBlCtrl->incUserAccuntBalance($accountID, $productPrice, 0);
+                $this->addNewBotLog('ballance', "مبلغ  $productPrice را از حساب کاربری بابت حذف بسته رزور برگشت داده شد.", 'add ballance');
+            }
+
+            $reserverdConfig->delete();
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function delete_a_reserved_config_by_product_id_by_user_and_agnet(Request $request)
+    {
+        try {
+            // get reserverd config and checl user_id by user_id in auth ueser
+            $userID = auth('sanctum')->user()->id;
+
+            $reserverdConfig = ReserverdConfig::where('product_id', $request->product_id)
+                ->where('user_id', $userID)
+                ->first();
+            if ($reserverdConfig == null) {
+                return response()->json(false, 401);
+            }
+            $agentPermisson = AgentPermisson::where('user_id', $userID)->first();
+
+            if ($agentPermisson != null) {
+                $usedProductTerrafic = Product::where('account_id', $accountID)->leftJoin('product_categories', 'products.product_categories_id', '=', 'product_categories.id')->sum('product_categories.volume');
+                //convert $usedProductTerrafic from Gb to TB
+                if ($usedProductTerrafic != null || $usedProductTerrafic != 0) {
+                    $usedProductTerrafic = $usedProductTerrafic / 1000;
+                }
+
+                if ($usedProductTerrafic >= $agentPermisson->traffic_limitation_tb) {
+                    \Log::info("usedProductTerrafic: {$usedProductTerrafic} > {$agentPermisson->traffic_limitation_tb}");
+
+                    return response()->json('Reached to Max Terrafic Limitation', 401);
+                }
+            }
+
+            //
+            $product = Product::where('id', $reserverdConfig->product_id)
+                ->with('product_category_and_panel')
+                ->first();
+
+            $accBlCtrl = new AccountBallanceController();
+
+            // check user role
+            $productPrice = $product->product_category_and_panel->price;
+            $accountID = $user->account_id;
+            if (auth('sanctum')->user()->role == 'agent') {
+                $agentProduct = AgentProduct::where('product_categories_id', $product->product_category_and_panel->id)
+                    ->where('user_id', $userID)
+                    ->first();
+                if ($agentProduct) {
+                    $productPrice = $agentProduct->price;
+                }
+            }
+            $inc = $accBlCtrl->incUserAccuntBalance($accountID, $productPrice, 0);
+            $this->addNewBotLog('ballance', "مبلغ  $productPrice را از حساب کاربری بابت حذف بسته رزور برگشت داده شد.", 'add ballance');
+
+            $reserverdConfig->delete();
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function addNewBotLog($type, $message, $event)
+    {
+        $accountID = auth('sanctum')->user()->account_id;
+        $name = auth('sanctum')->user()->name;
+
+        $logCtrl = new LogController();
+        $logCtrl->addNewLog($type, $message, $accountID, $name, $event);
+        return true;
+    }
+}

@@ -1,3 +1,20 @@
 <?php
-bolt_decrypt( __FILE__ , 'Yy6I8q'); return 0;
-##!!!##BARoW2dfbWpbXV8aO2pqVkdpXl9mbTUEBG9tXxpDZmZvZ2NoW25fVj5bbltcW21fVj9maWtvX2huVkBbXW5pbGNfbVZCW21AW11uaWxzNQRvbV8aQ2Zmb2djaFtuX1Y+W25bXFttX1Y/Zmlrb19oblZHaV5fZjUEBF1mW21tGkxfbV9scF9sXj1paGBjYRpfcm5faF5tGkdpXl9mBHUEGhoaGm9tXxpCW21AW11uaWxzNQQaGhoaamxpbl9dbl9eGh5gY2ZmW1xmXxo3GlUhb21fbFljXiEmIWpsaV5vXW5ZY14hVzUEGhoaGmpvXGZjXRpgb2hdbmNpaBpqbGleb11uIiMEGhoaGnUEGhoaGhoaGhpsX25vbGgaHm5iY20nOFxfZmloYW1OaSJKbGleb11uPVtuX2FpbHM0NF1mW21tJhohamxpXm9dblljXiEjNQQaGhoadwQaGhoaam9cZmNdGmBvaF1uY2loGm9tX2wiIwQaGhoadQQaGhoaGhoaGmxfbm9saBoebmJjbSc4XF9maWhhbU5pIjxpbk9tX2w0NF1mW21tJhohb21fbFljXiEjNQQaGhoadwR3BA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ReserverdConfig extends Model
+{
+    use HasFactory;
+    protected $fillable = ['user_id','product_id'];
+    public function product()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_id');
+    }
+    public function user()
+    {
+        return $this->belongsTo(BotUser::class, 'user_id');
+    }
+}

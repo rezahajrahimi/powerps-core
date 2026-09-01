@@ -1,3 +1,54 @@
 <?php
-bolt_decrypt( __FILE__ , 'G9bFxb'); return 0;
-##!!!##DAxwY29ndXJjZWciQ3JyXk9xZmdudT0MDHd1ZyJLbm53b2twY3ZnXkZjdmNkY3VnXkducXN3Z3B2XkhjZXZxdGtndV5KY3VIY2V2cXR7PQx3dWciS25ud29rcGN2Z15GY3ZjZGN1Z15HbnFzd2dwdl5PcWZnbj0MDGVuY3V1IlZ0Y3B1Y2V2a3FwImd6dmdwZnUiT3FmZ24MfQwiIiIid3VnIkpjdUhjZXZxdHs9DCIiIiJydHF2Z2V2Z2YiJml3Y3RmZ2YiPyJdKWtmKS4pY2VlcXdwdmFrZikuKXJje29ncHZhdntyZ2FrZilfPQwiIiIicnRxdmdldmdmIiZoa25uY2RuZyI/Il0pY2VlcXdwdmFrZikuKXd1Z3RwY29nKS4pcmN7b2dwdmF2e3JnYWtmKS4pY29xd3B2KS4pZXFwaGt0b2dmKS4pdGdla3JnYXB3b2RndCkuKWNvcXdwdmFmcW5uY3QpXz0MIiIiInJ3ZG5rZSJod3BldmtxcCJpZ3ZWdGNwdWNldmtxcFZnenYqKwwiIiIifQwiIiIiIiIiInRndnd0cCImdmprdS9AcmN7b2dwdmF2e3JndS9AcGNvZyIwIiQiLyIkIjAiJnZqa3UvQGNvcXdwdiIwIiQiLyIkIjAiJnZqa3UvQGV0Z2N2Z2ZhY3YiMCIkIi8iJCIwIiomdmprdS9AZXFwaGt0b2dmIkEiJNqs2qndjt2O2rEi2rbasduJJCI8IiTarNqp3Y7djtqxItuI2rbasduJJCs9DCIiIiJ/DCIiIiJyd2Rua2UiaHdwZXZrcXAiaWd2RXRnY3ZnZkN2Q3Z2dGtkd3ZnKiZ4Y253ZysMIiIiIn0MIiIiIiIiIiJ0Z3Z3dHAieGd0dmMqeGd0dmMqJnhjbndnKysvQGhxdG9jdkZraGhndGdwZWcqKz0MIiIiIn8MIiIiIjEsLAwiIiIiIiwiSWd2InZqZyJ3dWd0InZqY3YicXlwdSJ2amciVnRjcHVjZXZrcXAMIiIiIiIsDCIiIiIiLCJCdGd2d3RwIl5Lbm53b2twY3ZnXkZjdmNkY3VnXkducXN3Z3B2XlRnbmN2a3FwdV5EZ25xcGl1VnEMIiIiIiIsMQwiIiIicndkbmtlImh3cGV2a3FwInJje29ncHZhdntyZ3UqKwwiIiIifQwiIiIiIiIiInRndnd0cCImdmprdS9AZGducXBpdVZxKlJje29ncHZWe3JnPDxlbmN1dS4iKXJje29ncHZhdntyZ2FrZikrPQwiIiIifwwiIiIiMSwsDCIiIiIiLCJJZ3YidmpnInd1Z3QiY3V1cWVrY3ZnZiJ5a3ZqInZqZyJWdGNwdWNldmtxcAwiIiIiIiwMIiIiIiIsIkJ0Z3Z3dHAiXktubndva3BjdmdeRmN2Y2RjdWdeR25xc3dncHZeVGduY3ZrcXB1XkpjdVFwZwwiIiIiIiwxDCIiIiJyd2Rua2UiaHdwZXZrcXAidnRjcHVjZXZrcXBha29jaWcqKwwiIiIifQwiIiIiIiIiInRndnd0cCImdmprdS9AamN1UXBnKlZ0Y3B1Y2V2a3FwS29jaWc8PGVuY3V1LiIpdnRjcHVjZXZrcXBha2YpLiIpa2YpKz0MIiIiIn8MIiIiIjExIjEsLAwiIiIiMTEiIiwiSWd2ImNubiJxaCJ2amciZXFvb2dwdnUiaHF0InZqZyJWdGNwdWNldmtxcAwiIiIiMTEiIiwMIiIiIjExIiIsIkJ0Z3Z3dHAiXktubndva3BjdmdeRmN2Y2RjdWdeR25xc3dncHZeVGduY3ZrcXB1XkpjdU9jcHsMIiIiIjExIiIsMQwiIiIiMTEicndkbmtlImh3cGV2a3FwInZ0Y3B1Y2V2a3FwYWtvY2lnKisMIiIiIjExIn0MIiIiIjExIiIiIiJ0Z3Z3dHAiJnZqa3UvQGpjdU9jcHsqVnRjcHVjZXZrcXBLb2NpZzw8ZW5jdXUuIil2dGNwdWNldmtxcGFrZikrPQwiIiIiMTEifwwiIiIicndkbmtlImh3cGV2a3FwInd1Z3QqK30MIiIiIiIiIiJ0Z3Z3dHAiJnZqa3UvQGRnbnFwaXVWcSpEcXZXdWd0PDxlbmN1dS4iKWNlZXF3cHZha2YpLiIpY2VlcXdwdmFrZikrPQwiIiIifwwMDAx/DA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Transaction extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id','account_id','payment_type_id'];
+    protected $fillable = ['account_id','username','payment_type_id','amount','confirmed','recipe_number','amount_dollar'];
+    public function getTransactionText()
+    {
+        return $this->payment_types->name . " - " . $this->amount . " - " . $this->created_at . " - " . ($this->confirmed ? "تایید شده" : "تایید نشده");
+    }
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    /**
+     * Get the user that owns the Transaction
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function payment_types()
+    {
+        return $this->belongsTo(PaymentType::class, 'payment_type_id');
+    }
+    /**
+     * Get the user associated with the Transaction
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasOne
+     */
+    public function transaction_image()
+    {
+        return $this->hasOne(TransactionImage::class, 'transaction_id', 'id');
+    }
+    // /**
+    //  * Get all of the comments for the Transaction
+    //  *
+    //  * @return \Illuminate\Database\Eloquent\Relations\HasMany
+    //  */
+    // public function transaction_image()
+    // {
+    //     return $this->hasMany(TransactionImage::class, 'transaction_id');
+    // }
+    public function user(){
+        return $this->belongsTo(BotUser::class, 'account_id', 'account_id');
+    }
+
+
+
+}

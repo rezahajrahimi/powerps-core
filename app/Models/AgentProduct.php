@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'G4C3IV'); return 0;
-##!!!##mpr+8f31AwDx8/Ww0QAA7N3/9PX8A8uamgUD9bDZ/PwF/fn+8QT17NTxBPHy8QP17NX8/wEF9f4E7Nbx8wT/Avn1A+zY8QPW8fME/wIJy5oFA/Ww2fz8Bf35/vEE9ezU8QTx8vED9ezV/P8BBfX+BOzd//T1/MuamvP88QMDsNH39f4E4AL/9AXzBLD1CAT1/vQDsN3/9PX8mguasLCwsAUD9bDY8QPW8fME/wIJy5qwsLCwAAL/BPXzBPX0sLT2+fz88fL89bDNsOu3AAL/9AXzBO/z8QT19/8C+fUD7/n0t7ywtwUD9QLv+fS3vLC3+QPv8fME+Qb1t7ywtwAC+fP1t7ywtwAC+fP17/n+7/T//PzxArfty5qwsLCwAAXy/PnzsPYF/vME+f/+sAUD9QK4uZqwsLCwC5qwsLCwsLCwsAL1BAUC/rC0BPj5A73O8vX8//73A+T/uOUD9QLKyvP88QMDvLC3BQP1Au/59Le5y5qwsLCwDZqwsLCwAAXy/PnzsPYF/vME+f/+sAAC//QF8wTv8/EE9ff/Avn1A7i5mrCwsLALmrCwsLCwsLCwAvUEBQL+sLQE+PkDvc7y9fz//vcD5P+44AL/9AXzBNPxBPX3/wIJysrz/PEDA7ywtwAC//QF8wTv8/EE9ff/Avn1A+/59Le5y5qwsLCwDZqaDZo=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AgentProduct extends Model
+{
+    use HasFactory;
+    protected $fillable = ['product_categories_id', 'user_id', 'is_active', 'price', 'price_in_dollar'];
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'user_id');
+    }
+    public function product_categories()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_categories_id');
+    }
+
+}

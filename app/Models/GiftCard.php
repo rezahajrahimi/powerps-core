@@ -1,3 +1,25 @@
 <?php
-bolt_decrypt( __FILE__ , 'OdVy7h'); return 0;
-##!!!##KyuPgo6GlJGChIZBYpGRfW6QhYaNlFwrK5aUhkFqjY2WjoqPgpWGfWWClYKDgpSGfWaNkJKWho+VfWeChJWQk4qGlH1pgpRngoSVkJOaXCuWlIZBao2Nlo6Kj4KVhn1lgpWCg4KUhn1mjZCSloaPlX1ukIWGjVwrK4SNgpSUQWiKh5VkgpOFQYaZlYaPhZRBbpCFho0rnCtBQUFBlpSGQWmClGeChJWQk5pcK0FBQUGRk5CVhoSVhoVBRYiWgpOFhoVBXkF8SIqFSH5cK0FBQUGRk5CVhoSVhoVBRYeKjY2Cg42GQV5BfEiEkIWGSE1BSJSVgpOVgIWClYZITUFIho+FgIWClYZITUFIhYqUhJCWj5VITUFIhJCWj5WAkIeAlpSGSE1BSISQlo+VgJCHgJaUhoCRhpOAlpSGk0h+XCtBQUFBkZaDjYqEQYeWj4SVipCPQZaUhoVoioeVZIKThUlKK0FBQUGcK0FBQUFBQUFBk4aVlpOPQUWViYqUTl+JgpRugo+aSXaUhoVoioeVZIKThVtbhI2ClJRNQUiIioeVgISCk4WUgIqFSE1BSIqFSEpcK0FBQUGeK0FBQUFQUEGRloONioRBh5aPhJWKkI9BiIaVdJWCk5VlgpWGYpWVk4qDlpWGSUWXgo2WhkorQUFBQVBQQZwrQUFBQVBQQUFBQUGThpWWk49Bl4aTlYJJRZeCjZaGSk5fh5CTjoKVSUh6To5OhUGJW4pblEhKXCtBQUFBUFBBnitBQUFBUFBBkZaDjYqEQYeWj4SVipCPQYiGlWaPhWWClYZilZWTioOWlYZJRZeCjZaGSitBQUFBUFBBnCtBQUFBUFBBQUFBQZOGlZaTj0GXhpOVgklFl4KNloZKTl+HkJOOgpVJSHpOjk6FQYlbiluUSEpcK0FBQUFQUEGeK54r
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class GiftCard extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['code', 'start_date', 'end_date', 'discount', 'count_of_use', 'count_of_use_per_user'];
+    public function usedGiftCard()
+    {
+        return $this->hasMany(UsedGiftCard::class, 'gift_cards_id', 'id');
+    }
+    // public function getStartDateAttribute($value)
+    // {
+    //     return verta($value)->format('Y-m-d h:i:s');
+    // }
+    // public function getEndDateAttribute($value)
+    // {
+    //     return verta($value)->format('Y-m-d h:i:s');
+    // }
+}

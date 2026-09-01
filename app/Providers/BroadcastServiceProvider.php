@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'DKKNYx'); return 0;
-##!!!##AwNnWmZebGlaXF4ZOmlpVUlraG9iXV5rbDQDA25sXhlCZWVuZmJnWm1eVUxuaWloa21VP1pcWl1ebFU7a2haXVxabG00A25sXhlCZWVuZmJnWm1eVUxuaWloa21VTF5rb2JcXklraG9iXV5rNAMDXGVabGwZO2toWl1cWmxtTF5rb2JcXklraG9iXV5rGV5xbV5nXWwZTF5rb2JcXklraG9iXV5rA3QDGRkZGSgjIwMZGRkZGSMZO2hobWxta1ppGVpnchlaaWllYlxabWJoZxlsXmtvYlxebCcDGRkZGRkjKAMZGRkZaW5bZWJcGV9uZ1xtYmhnGVtoaG0hIjMZb2hiXQMZGRkZdAMZGRkZGRkZGTtraFpdXFpsbTMza2hubV5sISI0AwMZGRkZGRkZGWteam5ia14ZW1psXlhpWm1hISBraG5tXmwoXGFaZ2deZWwnaWFpICI0AxkZGRl2A3YD
+
+namespace App\Providers;
+
+use Illuminate\Support\Facades\Broadcast;
+use Illuminate\Support\ServiceProvider;
+
+class BroadcastServiceProvider extends ServiceProvider
+{
+    /**
+     * Bootstrap any application services.
+     */
+    public function boot(): void
+    {
+        Broadcast::routes();
+
+        require base_path('routes/channels.php');
+    }
+}

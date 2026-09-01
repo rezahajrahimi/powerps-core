@@ -1,3 +1,91 @@
 <?php
-bolt_decrypt( __FILE__ , 'ENfXpl'); return 0;
-##!!!##NzebjpqSoJ2OkJJNbp2diXWhoZ2JcJyboZ+cmZmSn6BoN6Kgkk1unZ2JepyRkpmgiX2fnKWmaDeioJJNbp2diXqckZKZoIl2m4+copuRaDc3oqCSTXaZmaKalpuOoZKJdaGhnYl/kp6ikqChaDc3kJmOoKBNfZ+cpaZwnJuhn5yZmZKfTZKloZKbkaBNcJyboZ+cmZmSnzeoN01NTU2doo+ZlpBNk6KbkKGWnJtNlJKhbpChlqOSfZ+cpZaSoG+mfY6bm5KZdnFVUZ2Om5uSmXZxVqg3TU1NTU1NTU1RnZ+cpZaSoE1qTX2fnKWmZ2eklZKfklVUnY6bm5KZjJaRVFlNUZ2Om5uSmXZxVlprpJWSn5JVVJagjI6QoZajklRZTaGfopJWN01NTU1NTU1NWmuklqGVVVSWm4+copuRoFRWN01NTU1NTU1NWmuUkqFVVmg3TU1NTU1NTU2fkqGin5tNUZ2fnKWWkqBoN01NTU2qN01NTU2doo+ZlpBNk6KbkKGWnJtNlJKhfZ+cpZaSoG+mfY6bm5KZdnFVUZ2Om5uSmXZxVqg3TU1NTU1NTU1RnZ+cpZaSoE1qTX2fnKWmZ2eklZKfklVUnY6bm5KZjJaRVFlNUZ2Om5uSmXZxVjdNTU1NTU1NTVprpJahlVVUlpuPnKKbkaBUVjdNTU1NTU1NTVprlJKhVVZoN01NTU1NTU1Nn5Khop+bTVGdn5yllpKgaDdNTU1NqjdNTU1NnaKPmZaQTZOim5ChlpybTY6RkXuSpH2fnKWmVX+SnqKSoKFNUZ+SnqKSoKFWN01NTU2oN01NTU1NTU1NoZ+mTag3TU1NTU1NTU1NTU1NUZ2fnKWmTWpNm5KkTX2fnKWmVVZoN01NTU1NTU1NTU1NTVGdn5ylplprnY6bm5KZjJaRTWpNUZ+SnqKSoKFaa52Om5uSmYyWkWg3TU1NTU1NTU1NTU1NUZ2fnKWmWmuhpp2STWpNUZ+SnqKSoKFaa6GmnZJoN01NTU1NTU1NTU1NTVGdn5ylplprlqCMjpChlqOSTWpNUZ+SnqKSoKFaa5agjI6QoZajkmg3TU1NTU1NTU1NTU1NUZ2fnKWmWmugjqOSVVZoN01NTU1NTU1Nqk2QjqGQlU1ViYGVn5ykjo+Zkk1RoZVWTag3TU1NTU1NTU1NTU1Nn5Khop+bTZ+SoJ2cm6CSVVZaa5egnJtVk46ZoJJZTWJdXVZoN01NTU1NTU1NqjdNTU1NqjdNTU1NnaKPmZaQTZOim5ChlpybTaKdkY6hkn2fnKWmVX+SnqKSoKFNUZ+SnqKSoKFWN01NTU2oN01NTU1NTU1NoZ+mTag3TU1NTU1NTU1NTU1NUZ2fnKWmTWpNfZ+cpaZnZ5OWm5FVUZ+SnqKSoKFaa5aRVmg3TU1NTU1NTU1NTU1NUZ2fnKWmWmudjpubkpmMlpFNak1Rn5KeopKgoVprnY6bm5KZjJaRaDdNTU1NTU1NTU1NTU1RnZ+cpaZaa6GmnZJNak1Rn5KeopKgoVproaadkmg3TU1NTU1NTU1NTU1NUZ2fnKWmWmuWoIyOkKGWo5JNak1Rn5KeopKgoVprlqCMjpChlqOSaDdNTU1NTU1NTU1NTU2Wk01VUZ2fnKWmWmuinZGOoZJVVlZNqDdNTU1NTU1NTU1NTU1NTU1Nn5Khop+bTaGfopJoN01NTU1NTU1NTU1NTapNkpmgkk2oN01NTU1NTU1NTU1NTU1NTU2fkqGin5tNn5KgnZyboJJVVlprl6Ccm1WTjpmgkllNYl1dVmg3TU1NTU1NTU1NTU1NqjdNTU1NTU1NTapNkI6hkJVNVYmBlZ+cpI6PmZJNUaGVVk2oN01NTU1NTU1NTU1NTZ+SoaKfm02fkqCdnJugklVWWmuXoJybVZOOmaCSWU1iXV1WaDdNTU1NTU1NTao3TU1NTao3TU1NTZ2ij5mWkE2TopuQoZacm02RkpmSoZJ9n5ylplVRlpFWN01NTU2oN01NTU1NTU1NoZ+mTag3TU1NTU1NTU1NTU1NUZ2fnKWmTWpNfZ+cpaZnZ5OWm5FVUZaRVmg3TU1NTU1NTU1NTU1NlpNNVVGdn5ylplprkZKZkqGSVVZWTag3TU1NTU1NTU1NTU1NTU1NTVGWm4+copuRTWpNdpuPnKKbkWdnpJWSn5JVVJ2fnKWmjJaRVFlNUZaRVlprlJKhVVZoN01NTU1NTU1NTU1NTU1NTU1RlpuPnKKbkVprko6QlVprkZKZkqGSVVZoN01NTU1NTU1NTU1NTU1NTU2Wk01VUZabj5yim5FWTag3TU1NTU1NTU1NTU1NTU1NTU1NTU1RlpuPnKKbkVprkZKZkqGSVVZoN01NTU1NTU1NTU1NTU1NTU2qN01NTU1NTU1NTU1NTU1NTU2fkqGin5tNoZ+ikmg3TU1NTU1NTU1NTU1Nqk2SmaCSTag3TU1NTU1NTU1NTU1NTU1NTZ+SoaKfm02fkqCdnJugklVWWmuXoJybVZOOmaCSWU1iXV1WaDdNTU1NTU1NTU1NTU2qN01NTU1NTU1Nqk2QjqGQlU1ViYGVn5ykjo+Zkk1RoZVWTag3TU1NTU1NTU1NTU1Nn5Khop+bTZ+SoJ2cm6CSVVZaa5egnJtVk46ZoJJZTWJdXVZoN01NTU1NTU1NqjdNTU1NqjdNTU1NnaKPmZaQTZOim5ChlpybTZ+SbpChlqOSfZ+cpaZVUZaRVjdNTU1NqDdNTU1NTU1NTaGfpk2oN01NTU1NTU1NTU1NTVGdn5ylpk1qTX2fnKWmZ2eTlpuRVVGWkVZoN01NTU1NTU1NTU1NTVGdn5ylplprlqCMjpChlqOSTWpNoZ+ikmg3TU1NTU1NTU1NTU1NUZ2fnKWmWmuinZGOoZJVVmg3TU1NTU1NTU1NTU1Nn5Khop+bTaGfopJoN01NTU1NTU1Nqk2QjqGQlU1ViYGVn5ykjo+Zkk1RoZVWTag3TU1NTU1NTU1NTU1Nn5Khop+bTZ+SoJ2cm6CSVVZaa5egnJtVk46ZoJJZTWJdXVZoN01NTU1NTU1NqjdNTU1NqjdNTU1NnaKPmZaQTZOim5ChlpybTZGSbpChlqOSfZ+cpaZVUZaRVjdNTU1NqDdNTU1NTU1NTaGfpk2oN01NTU1NTU1NTU1NTVGdn5ylpk1qTX2fnKWmZ2eTlpuRVVGWkVZoN01NTU1NTU1NTU1NTVGdn5ylplprlqCMjpChlqOSTWpNk46ZoJJoN01NTU1NTU1NTU1NTVGdn5ylplprop2RjqGSVVZoN01NTU1NTU1NTU1NTZ+SoaKfm02hn6KSaDdNTU1NTU1NTapNkI6hkJVNVYmBlZ+cpI6PmZJNUaGVVk2oN01NTU1NTU1NTU1NTZ+SoaKfm02fkqCdnJugklVWWmuXoJybVZOOmaCSWU1iXV1WaDdNTU1NTU1NTao3TU1NTao3qjc=
+
+namespace App\Http\Controllers;
+use App\Models\Proxy;
+use App\Models\Inbound;
+
+use Illuminate\Http\Request;
+
+class ProxyController extends Controller
+{
+    public function getActiveProxiesByPannelID($pannelID){
+        $proxies = Proxy::where('pannel_id', $pannelID)->where('is_active', true)
+        ->with('inbounds')
+        ->get();
+        return $proxies;
+    }
+    public function getProxiesByPannelID($pannelID){
+        $proxies = Proxy::where('pannel_id', $pannelID)
+        ->with('inbounds')
+        ->get();
+        return $proxies;
+    }
+    public function addNewProxy(Request $request)
+    {
+        try {
+            $proxy = new Proxy();
+            $proxy->pannel_id = $request->pannel_id;
+            $proxy->type = $request->type;
+            $proxy->is_active = $request->is_active;
+            $proxy->save();
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function updateProxy(Request $request)
+    {
+        try {
+            $proxy = Proxy::find($request->id);
+            $proxy->pannel_id = $request->pannel_id;
+            $proxy->type = $request->type;
+            $proxy->is_active = $request->is_active;
+            if ($proxy->update()) {
+                return true;
+            } else {
+                return response()->json(false, 500);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function deleteProxy($id)
+    {
+        try {
+            $proxy = Proxy::find($id);
+            if ($proxy->delete()) {
+                $inbound = Inbound::where('proxy_id', $id)->get();
+                $inbound->each->delete();
+                if ($inbound) {
+                    $inbound->delete();
+                }
+                return true;
+            } else {
+                return response()->json(false, 500);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function reActiveProxy($id)
+    {
+        try {
+            $proxy = Proxy::find($id);
+            $proxy->is_active = true;
+            $proxy->update();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function deActiveProxy($id)
+    {
+        try {
+            $proxy = Proxy::find($id);
+            $proxy->is_active = false;
+            $proxy->update();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+}

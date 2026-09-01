@@ -1,3 +1,424 @@
 <?php
-bolt_decrypt( __FILE__ , 'aElNtx'); return 0;
-##!!!##Vla6rbmxv7ytr7Fsjby8qJTAwLyoj7u6wL67uLixvr+HVlbBv7Fslbi4wbm1uq3AsaiUwMC8qJ6xvcGxv8CHVsG/sWyNvLyombuwsbi/qI2vr7vBusCOrbi4rbqvsYdWwb+xbI28vKiZu7CxuL+ojrvAob+xvodWwb+xbI28vKiZu7CxuL+onL67sMGvwIdWwb+xbI28vKiZu7CxuL+oob+xvodWwb+xbI28vKifsb7Cta+xv6icrcW5sbrAja+vsb+/n7G+wrWvsYdWwb+xbJW4uMG5tbqtwLGon8G8vLu+wKiSra+tsLG/qJStv7SHVsG/sWyVuLjBubW6rcCxqKKtuLWwrcC1u7qooq24tbCtwLW7upHEr7G8wLW7uodWr7itv79sob+xvo+7usC+u7i4sb5sscTAsbqwv2yPu7rAvru4uLG+VsdWbGxsbLy+tcKtwLFsssG6r8C1u7psvK3FubG6wI2vr7G/v5+xvsK1r7F0dYZsnK3FubG6wI2vr7G/v5+xvsK1r7FWbGxsbMdWbGxsbGxsbGy+scDBvrpsrby8dJytxbmxusCNr6+xv7+fsb7Cta+xhoavuK2/v3WHVmxsbGzJVmxsbGy8wa64ta9sssG6r8C1u7pss7HAob+xvr90dVZsbGxsx1ZsbGxsbGxsbHDBv7G+v2yJbKG/sb6Ghq24uHR1h1ZsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dFZsbGxsbGxsbGxsbGynVmxsbGxsbGxsbGxsbGxsbGxzwb+xvr9zbImKbHDBv7G+v3hWbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsfnx8eFZsbGxsbGxsbHWHVmxsbGzJVmxsbGy8vrXCrcCxbLLBuq/Atbu6bK28vLG6sI67wKG/sb6ZscCtdKG/sb5scMG/sb51hmyhv7G+VmxsbGzHVmxsbGxsbGxscK67wKG/sb5siWxwwb+xvnmKvrG4rcC1u7qYu62wsbB0c667wKG/sb5zdVZsbGxsbGxsbGxsbGyLbHDBv7G+eYquu8Chv7G+VmxsbGxsbGxsbGxsbIZsjrvAob+xvoaGw7SxvrF0c62vr7vBusCrtbBzeGxwwb+xvnmKra+vu8G6wKu1sHV5irK1vr/AdHWHVmxsbGxsbGxscMG/sb55iq67wKvBv7G+q7WwbIlscK67wKG/sb6LeYq1sIdWbGxsbGxsbGxwwb+xvnmKrbC5tbqrrbi1rb9siWxwrrvAob+xvot5iq2wubW6q624ta2/h1ZWbGxsbGxsbGy+scDBvrpscMG/sb6HVmxsbGzJVlZsbGxsvL61wq3AsWyywbqvwLW7umytvLyxurCNs7G6wJ/ArcC/dKG/sb5scMG/sb51hmyhv7G+VmxsbGzHVmxsbGxsbGxscK6tuK26r7FsiWyNr6+7wbrAjq24uK26r7GGhsO0sb6xdHOtr6+7wbrAq7Wwc3hscMG/sb55iq2vr7vBusCrtbB1eYqytb6/wHR1h1ZsbGxsbGxsbHDBv7G+eYqurbituq+xq8C7ua26bIlscK6tuK26r7GLeYqurbi4rbqvsWyLi2x8h1ZsbGxsbGxsbHDBv7G+eYqurbituq+xq7C7uLitvmyJbHCurbituq+xi3mKra+vu8G6wKuurbi4rbqvsau1uquwu7i4rb5si4tsfIdWbGxsbGxsbGxwwb+xvnmKv624sb+rr7vBusBsiWycvruwwa/AhobDtLG+sXRzra+vu8G6wKu1sHN4bHDBv7G+eYqtr6+7wbrAq7WwdXmKr7vBusB0dYdWbGxsbGxsbGxwwb+xvnmKrbOxusCrvL67sMGvwL+rr7vBusBsiWxwwb+xvnmKrbOxusCrvL67sMGvwL+rr7vBusBWbGxsbGxsbGxsbGxsi4tscMG/sb55iq2zsbrAq7y+u7DBr8C/dHV5iq+7wbrAdHWHVlZsbGxsbGxsbHCts7G6wJy+j7rAvrhsiWy6scNsjbOxusCcvruwwa/Aj7u6wL67uLixvnR1h1ZsbGxsbGxsbHDBv7G+eYqts7G6wKu4tbm1wKvBv62zsWyJbHCts7G6wJy+j7rAvrh5irOxwI2zsbrAmLW5tcChv62zsXRwwb+xvnmKtbB1h1ZWbGxsbGxsbGy+scDBvrpscMC0tb95iq28vLG6sI67wKG/sb6ZscCtdHDBv7G+dYdWbGxsbMlWVmxsbGy8wa64ta9sssG6r8C1u7pss7HAjbOxusC/dHVWbGxsbMdWbGxsbGxsbGzAvsVsx1ZsbGxsbGxsbGxsbGxwwb+xvr9siWyhv7G+hobDtLG+sXRzvru4sXN4bHOts7G6wHN1VmxsbGxsbGxsbGxsbGxsbGx5isO1wLR0p3PBv7G+k767wbxzeGxzrrvAob+xvnOpdVZsbGxsbGxsbGxsbGxsbGxseYrDtcC0j7vBusB0c62zsbrAq7y+u7DBr8C/c3VWbGxsbGxsbGxsbGxsbGxsbHmKs7HAdHVWbGxsbGxsbGxsbGxsbGxsbHmKua28dLK6bHShv7G+bHDBv7G+dWyJimxwwLS1v3mKrby8sbqwjbOxusCfwK3Av3Rwwb+xvnV1h1ZWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbGxsbGynVmxsbGxsbGxsbGxsbGxsbGxsbGxsc62zsbrAv3NsiYpscMG/sb6/eFZsbGxsbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsbGxsbH58fHhWbGxsbGxsbGxsbGxsdYdWbGxsbGxsbGzJbK+twK+0bHSooLS+u8OtrrixbHDAtHVsx1ZsbGxsbGxsbGxsbGyomLuzhoa1urK7dG7AtL67w2xwwLRudYdWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0usG4uHhsgXx8dYdWbGxsbGxsbGzJVmxsbGzJVmxsbGy8wa64ta9sssG6r8C1u7pss7HAjbOxusCOxZWwo7XAtJy+u7DBr8C/jbqwnL6xubW/v7u6v3RwtbB1VmxsbGzHVmxsbGxsbGxswL7FbMdWbGxsbGxsbGxsbGxscMG/sb6/bIlsob+xvoaGw7SxvrF0c767uLFzeGxzrbOxusBzdVZsbGxsbGxsbGxsbGxsbGxseYrDtLG+sXRztbBzeGxwtbB1VmxsbGxsbGxsbGxsbGxsbGx5isO1wLR0p3Ots7G6wKu8vruwwa/Av3q8vruwwa/Aq6+twLGzu761sb9zeGxzrbOxusCrvLG+ubW/v7u6c3hsc8G/sb6TvrvBvHN4bHOuu8Chv7G+c6l1VmxsbGxsbGxsbGxsbGxsbGx5isO1wLSPu8G6wHRzrbOxusCrvL67sMGvwL9zdVZsbGxsbGxsbGxsbGxsbGxseYqzscB0dVZsbGxsbGxsbGxsbGxsbGxseYq5rbx0srpsdKG/sb5scMG/sb51bImKbHDAtLW/eYqtvLyxurCNs7G6wJ/ArcC/dHDBv7G+dXWHVlZsbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unRwwb+xvr94bH58fHWHVmxsbGxsbGxsyWyvrcCvtGx0qKC0vrvDra64sWxwwLR1bMdWbGxsbGxsbGxsbGxsqJi7s4aGtbqyu3RuwLS+u8NscMC0bnWHVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dLrBuLh4bIF8fHWHVmxsbGxsbGxsyVZsbGxsyVZsbGxsvMGuuLWvbLLBuq/Atbu6bLOxwJq7vrmtuKG/sb6/dHVWbGxsbMdWbGxsbGxsbGzAvsVsx1ZsbGxsbGxsbGxsbGxwwb+xvr9siWyhv7G+hobDtLG+sXRzvru4sXN4bHPBv7G+c3VWbGxsbGxsbGxsbGxsbGxsbHmKw7XAtHSnc8G/sb6TvrvBvHN4bHOuu8Chv7G+c6l1VmxsbGxsbGxsbGxsbGxsbGx5irOxwHR1VmxsbGxsbGxsbGxsbGxsbGx5irmtvHSyumx0ob+xvmxwwb+xvnVsiYpscMC0tb95iq28vLG6sI67wKG/sb6ZscCtdHDBv7G+dXWHVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dFZsbGxsbGxsbGxsbGxsbGxsp1ZsbGxsbGxsbGxsbGxsbGxsbGxsbHPBv7G+v3NsiYpscMG/sb6/eFZsbGxsbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsbGxsbH58fHhWbGxsbGxsbGxsbGxsdYdWbGxsbGxsbGzJbK+twK+0bHSooLS+u8OtrrixbHDAtHVsx1ZsbGxsbGxsbGxsbGyomLuzhoa1urK7dG7AtL67w2xwwLRudYdWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0usG4uHhsgXx8dYdWbGxsbGxsbGzJVmxsbGzJVmxsbGy8wa64ta9sssG6r8C1u7pss7HAq62wubW6q8G/sb6/dHVWbGxsbMdWbGxsbGxsbGxwwb+xvr9siWyhv7G+hobDtLG+sXRzvru4sXN4bHOtsLm1unN1eYqzscB0dYdWbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unSnVmxsbGxsbGxsbGxsbHOtsLm1ur9zbImKbHDBv7G+v3hWbGxsbGxsbGypdYdWbGxsbMlWbGxsbLzBrri1r2yywbqvwLW7umyvtK26s7Grwb+xvqu+u7ixq8C7q62wubW6dHC1sHXHVlZsbGxsbGxsbHDBv7G+bIlsob+xvoaGw7SxvrF0c62vr7vBusCrtbBzeGxwtbB1eYqytb6/wHR1h1ZsbGxsbGxsbLWybHRtcMG/sb51bMdWbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unS6wbi4eGyAfH11h1ZsbGxsbGxsbMlWbGxsbGxsbGxwwb+xvnmKvru4sWyJbHOtsLm1unOHVmxsbGxsbGxscMG/sb55isG8sK3AsXR1h1ZsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dMC+wbF4bH58fXWHVmxsbGzJVlZsbGxsvMGuuLWvbLLBuq/Atbu6bLOxwKG/sb6OxZWwdHC1sHVWbGxsbMdWbGxsbGxsbGxwwb+xvmyJbKG/sb6GhrK1urB0cLWwdYdWbGxsbGxsbGy1smx0bXDBv7G+dWzHVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dFZsbGxsbGxsbGxsbGxsbGxsp1ZsbGxsbGxsbGxsbGxsbGxsbGxsbHO5sb+/rbOxc2yJimxzob+xvmy6u8BssrvBurBzeFZsbGxsbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsbGxsbIB8gHhWbGxsbGxsbGxsbGxsdYdWbGxsbGxsbGzJVmxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbHPBv7G+c2yJimxwwb+xvnhWbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsfnx8eFZsbGxsbGxsbHWHVmxsbGzJVmxsbGy8wa64ta9sssG6r8C1u7psr7SturOxob+xvp67uLGgu42zsbrAdHC1sHVWbGxsbMdWbGxsbGxsbGxwwb+xvmyJbKG/sb6GhrK1urB0cLWwdYdWbGxsbGxsbGy1smx0bXDBv7G+dWzHVmxsbGxsbGxsbGxsbL6xwMG+umy6wbi4h1ZsbGxsbGxsbMlWbGxsbGxsbGxwwb+xvnmKvru4sWyJbHOts7G6wHOHVmxsbGxsbGxscMG/sb55isG8sK3AsXR1h1ZsbGxsbGxsbHDAtLW/eYq8rcW5sbrAja+vsb+/n7G+wrWvsXR1eYqtv7+1s7qQsbKtwbjAk767wbx0cMG/sb51h1ZsbGxsbGxsbL6xwMG+umzAvsGxh1ZsbGxsyVZsbGxsvMGuuLWvbLLBuq/Atbu6bK+0rbqzsY2zsbrAnru4saC7ob+xvnRwtbB1VmxsbGzHVmxsbGxsbGxswL7FbMdWbGxsbGxsbGxsbGxscMG/sb5siWyhv7G+hoaytbqwdHC1sHWHVmxsbGxsbGxsbGxsbLWybHRtcMG/sb51bMdWbGxsbGxsbGxsbGxsvrHAwb66bLrBuLiHVmxsbGxsbGxsyVZsbGxsbGxsbHt7bK+0sa+4bLWybMG/sb6rra+vu8G6wKu1sGy1v2y6u8BsusG4uGyturBstb9survAbLG9wa24bMC7bKCRmJGTno2Zq42QmZWaq5WQbLW6bHqxusJWbGxsbGxsbGxsbGxstbJsdHDBv7G+eYq+u7ixbG2JbHOts7G6wHN1bMdWbGxsbGxsbGxsbGxsbGxsbKiYu7OGhrW6srt0bsG/sb5sx3DBv7G+eYq1sMlstb9sbLq7wGyts7G6wG51h1ZsbGxsbGxsbGxsbGxsbGxsvrHAwb66bLrBuLiHVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbHDBv7G+eYq+u7ixbIlsc8G/sb5zh1ZsbGxsbGxsbGxsbGxwwb+xvnmKwbywrcCxdHWHVmxsbGxsbGxsbGxsbHDAtLW/eYq8rcW5sbrAja+vsb+/n7G+wrWvsXR1eYqtv7+1s7qQsbKtwbjAk767wbx0cMG/sb51h1ZsbGxsbGxsbGxsbGy+scDBvrpswL7BsYdWbGxsbGxsbGzJbK+twK+0bHSooLS+u8OtrrixbHDAtHVsx1ZsbGxsbGxsbGxsbGyomLuzhoa1urK7dG7AtL67w2xwwLRudYdWbGxsbGxsbGxsbGxsvrHAwb66bLKtuL+xh1ZsbGxsbGxsbMlWbGxsbMlWbGxsbLzBrri1r2yywbqvwLW7umyvtK26s7Grwb+xvqu+u7ixq8C7q8G/sb50cLWwdVZsbGxsx1ZsbGxsbGxsbHDBv7G+bIlsob+xvoaGw7SxvrF0c62vr7vBusCrtbBzeGxwtbB1eYqytb6/wHR1h1ZsbGxsbGxsbLWybHRtcMG/sb51bMdWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0usG4uHhsgHx9dYdWbGxsbGxsbGzJVmxsbGxsbGxse3tsr7Sxr7hstbJswb+xvqutr6+7wbrAq7WwbLW/bLq7wGy6wbi4bK26sGy1v2y6u8Bssb3BrbhswLtsoJGYkZOejZmrjZCZlZqrlZBstbpserG6wlZsbGxsbGxsbLWybHRwwb+xvnmKra+vu8G6wKu1sGyJiWyxusJ0c6CRmJGTno2Zq42QmZWaq5WQc3V1bMdWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0usG4uHhsgHx9dYdWbGxsbGxsbGzJVlZsbGxsbGxsbHDBv7G+eYq+u7ixbIlsc8G/sb5zh1ZsbGxsbGxsbHDBv7G+eYrBvLCtwLF0dYdWbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unTAvsGxeGx+fH11h1ZsbGxsyVZsbGxsvMGuuLWvbLLBuq/Atbu6bLOxwKG/sb6VsI7FoLG4sbO+rbmVkHRwwLG4lZB1VmxsbGzHVmxsbGxsbGxscMG/sb5siWyhv7G+hobDtLG+sXRzra+vu8G6wKu1sHN4bHDAsbiVkHV5irK1vr/AdHWHVmxsbGxsbGxstbJsdG1wwb+xvnVsx1ZsbGxsbGxsbGxsbGy+scDBvrpsusG4uIdWbGxsbGxsbGzJVmxsbGxsbGxsvrHAwb66bHDBv7G+eYq1sIdWbGxsbMlWbGxsbLzBrri1r2yywbqvwLW7umyvvrGtwLGhv7G+dJ6xvcGxv8BscL6xvcGxv8B1VmxsbGzHVmxsbGxsbGxscL6xvcGxv8B5isKtuLWwrcCxdKdWbGxsbGxsbGxsbGxsc7qtubFzbImKbHO+sb3Btb6xsMi/wL61urPIua3Ehn6BgXN4VmxsbGxsbGxsbGxsbHOtr6+7wbrAq7Wwc2yJimxzvrG9wbW+sbDIua3EhoTIwbq1vcGxhsG/sb6/c3hWbGxsbGxsbGxsbGxsc7ytv7/Du76wc2yJimxzvrG9wbW+sbDIv8C+tbqzyLm1uoaEc3hWbGxsbGxsbGxsbGxsc767uLFzbImKbHO+sb3Btb6xsMi/wL61urNzeFZsbGxsbGxsbKl1h1ZWbGxsbGxsbGxwwb+xvmyJbKG/sb6Ghq++sa3AsXSnVmxsbGxsbGxsbGxsbHO6rbmxc2yJimxwvrG9wbG/wHmKuq25sXhWbGxsbGxsbGxsbGxsc62vr7vBusCrtbBzbImKbHC+sb3Bsb/AeYqtr6+7wbrAq7WweFZsbGxsbGxsbGxsbGxzvru4sXNsiYpscL6xvcGxv8B5ir67uLF4VmxsbGxsbGxsbGxsbHO8rb+/w7u+sHNsiYpslK2/tIaGua23sXRwvrG9wbG/wHmKvK2/v8O7vrB1eFZsbGxsbGxsbKl1h1ZWbGxsbGxsbGxwwLS1v3mKvK3FubG6wI2vr7G/v5+xvsK1r7F0dXmKrb+/tbO6kLGyrcG4wJO+u8G8dHDBv7G+dYdWVmxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbHO5sb+/rbOxc2yJimxzob+xvmyvvrGtwLGwbL/Br6+xv7+ywbi4xXN4VmxsbGxsbGxsbGxsbGxsbGxzwb+xvnNsiYpscMG/sb54VmxsbGxsbGxsbGxsbKl4VmxsbGxsbGxsbGxsbH58fXhWbGxsbGxsbGx1h1ZsbGxsyVZsbGxsvMGuuLWvbLLBuq/Atbu6bMG8sK3AsaG/sb50nrG9wbG/wGxwvrG9wbG/wHVWbGxsbMdWbGxsbGxsbGzAvsVsx1ZsbGxsbGxsbGxsbGx7e6+7sLF6elZWbGxsbGxsbGxsbGxscL6xvcGxv8B5isKtuLWwrcCxdKdWbGxsbGxsbGxsbGxsbGxsbHO6rbmxc2yJimxzvrG9wbW+sbDIv8C+tbqzyLmtxIZ+gYFzeFZsbGxsbGxsbGxsbGxsbGxsc62vr7vBusCrtbBzbImKbHO+sb3Btb6xsMi5rcSGhHN4VmxsbGxsbGxsbGxsbGxsbGxzvK2/v8O7vrBzbImKbHO6wbi4ra64sci/wL61urPIubW6hoRzeFZsbGxsbGxsbGxsbGxsbGxsc767uLFzbImKbHO+sb3Btb6xsMi/wL61urNzeFZsbGxsbGxsbGxsbGypdYdWVmxsbGxsbGxsbGxsbHDBv7G+bIlsob+xvoaGw7SxvrF0c62vr7vBusCrtbBzeGxwvrG9wbG/wHmKra+vu8G6wKu1sHV5irK1vr/AdHWHVmxsbGxsbGxsbGxsbLWybHRtcMG/sb51bMdWbGxsbGxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dFZsbGxsbGxsbGxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsc7mxv7+ts7FzbImKbHOhv7G+bLq7wGyyu8G6sHN4VmxsbGxsbGxsbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsbGxsbGxsbGyAfIB4VmxsbGxsbGxsbGxsbGxsbGx1h1ZsbGxsbGxsbGxsbGzJVlZsbGxsbGxsbGxsbGxwwb+xvnmKuq25sWyJbHC+sb3Bsb/AeYq6rbmxh1ZsbGxsbGxsbGxsbGxwwb+xvnmKra+vu8G6wKu1sGyJbHC+sb3Bsb/AeYqtr6+7wbrAq7Wwh1ZsbGxsbGxsbGxsbGxwwb+xvnmKvru4sWyJbHC+sb3Bsb/AeYq+u7ixh1ZsbGxsbGxsbGxsbGy1smx0cL6xvcGxv8B5irK1uLixsHRzvK2/v8O7vrBzdXVsx1ZsbGxsbGxsbGxsbGxsbGxscMG/sb55irytv7/Du76wbIlslK2/tIaGua23sXRwvrG9wbG/wHmKvK2/v8O7vrB1h1ZsbGxsbGxsbGxsbGzJVmxsbGxsbGxsbGxsbHDBv7G+eYq/rcKxdHWHVlZsbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unRWbGxsbGxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbGxsbGxzubG/v62zsXNsiYpsc6G/sb5swbywrcCxsGy/wa+vsb+/ssG4uMVzeFZsbGxsbGxsbGxsbGxsbGxsbGxsbHPBv7G+c2yJimxwwb+xvnhWbGxsbGxsbGxsbGxsbGxsbKl4VmxsbGxsbGxsbGxsbGxsbGx+fHx4VmxsbGxsbGxsbGxsbHWHVmxsbGxsbGxsyWyvrcCvtGx0qKC0vrvDra64sWxwwLR1bMdWbGxsbGxsbGxsbGxsqJi7s4aGtbqyu3RuoLS+u8OtrrixbHDAtG51h1ZsbGxsbGxsbMlWbGxsbMlWbGxsbLzBrri1r2yywbqvwLW7umzBvLCtwLGruLuzs7Gwq7ytv7/Du76wdJ6xvcGxv8BscL6xvcGxv8B1VmxsbGzHVmxsbGxsbGxscL6xvcGxv8B5isKtuLWwrcCxdKdWbGxsbGxsbGxsbGxsc7ytv7/Du76wc2yJimxzvrG9wbW+sbDIv8C+tbqzyLm1uoaEc3hWbGxsbGxsbGypdYdWbGxsbGxsbGxwra+vu8G6wJWQbIlsrcHAtHRzv626r8DBuXN1eYrBv7G+dHV5iq2vr7vBusCrtbCHVmxsbGxsbGxscMG/sb5siWyhv7G+hobDtLG+sXRzra+vu8G6wKu1sHN4bHCtr6+7wbrAlZB1eYqytb6/wHR1h1ZsbGxsbGxsbLWybHRtcMG/sb51bMdWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbGxsbGynVmxsbGxsbGxsbGxsbGxsbGxsbGxsc7mxv7+ts7FzbImKbHOhv7G+bLq7wGyyu8G6sHN4VmxsbGxsbGxsbGxsbGxsbGypeFZsbGxsbGxsbGxsbGxsbGxsgHyAeFZsbGxsbGxsbGxsbGx1h1ZsbGxsbGxsbMlWVmxsbGxsbGxscMG/sb55irytv7/Du76wbIlslK2/tIaGua23sXRwvrG9wbG/wHmKvK2/v8O7vrB1h1ZsbGxsbGxsbHDBv7G+eYrBvLCtwLF0dYdWVmxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbHO5sb+/rbOxc2yJimxzob+xvmzBvLCtwLGwbL/Br6+xv7+ywbi4xXN4VmxsbGxsbGxsbGxsbGxsbGxzwb+xvnNsiYpscMG/sb54VmxsbGxsbGxsbGxsbKl4VmxsbGxsbGxsbGxsbH58fHhWbGxsbGxsbGx1h1ZsbGxsyVZsbGxsvMGuuLWvbLLBuq/Atbu6bLCxuLHAsaG/sb50nrG9wbG/wGxwvrG9wbG/wHVWbGxsbMdWbGxsbGxsbGxwvrG9wbG/wHmKwq24tbCtwLF0p1ZsbGxsbGxsbGxsbGxzra+vu8G6wKu1sHNsiYpsc76xvcG1vrGwyLmtxIaEc3hWbGxsbGxsbGypdYdWVmxsbGxsbGxscMG/sb5siWyhv7G+hobDtLG+sXRzra+vu8G6wKu1sHN4bHC+sb3Bsb/AeYqtr6+7wbrAq7WwdXmKsrW+v8B0dYdWbGxsbGxsbGy1smx0bXDBv7G+dWzHVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dFZsbGxsbGxsbGxsbGxsbGxsp1ZsbGxsbGxsbGxsbGxsbGxsbGxsbHO5sb+/rbOxc2yJimxzob+xvmy6u8BssrvBurBzeFZsbGxsbGxsbGxsbGxsbGxsqXhWbGxsbGxsbGxsbGxsbGxsbIB8gHhWbGxsbGxsbGxsbGxsdYdWbGxsbGxsbGzJVlZsbGxsbGxsbHDBv7G+eYqwsbixwLF0dYdWVmxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbKdWbGxsbGxsbGxsbGxsbGxsbHO5sb+/rbOxc2yJimxzob+xvmywsbixwLGwbL/Br6+xv7+ywbi4xXN4VmxsbGxsbGxsbGxsbKl4VmxsbGxsbGxsbGxsbH58fHhWbGxsbGxsbGx1h1ZsbGxsyVZWbGxsbHt7e2yNs7G6wFZsbGxsvMGuuLWvbLLBuq/Atbu6bMG8sK3AsY2zsbrAnK2/v8O7vrB0nrG9wbG/wGxwvrG9wbG/wHVWbGxsbMdWbGxsbGxsbGzAvsVsx1ZsbGxsbGxsbGxsbGx7e6+7sLF6elZWbGxsbGxsbGxsbGxscL6xvcGxv8B5isKtuLWwrcCxdKdWbGxsbGxsbGxsbGxsbGxsbHO8rb+/w7u+sHNsiYpsc76xvcG1vrGwyL/AvrW6s8i5tbqGhHN4VmxsbGxsbGxsbGxsbKl1h1ZsbGxsbGxsbGxsbGxwra+vu8G6wJWQbIlsrcHAtHRzv626r8DBuXN1eYrBv7G+dHV5iq2vr7vBusCrtbCHVmxsbGxsbGxsbGxsbHDBv7G+bIlsob+xvoaGw7SxvrF0c62vr7vBusCrtbBzeGxwra+vu8G6wJWQdXmKsrW+v8B0dYdWbGxsbGxsbGxsbGxstbJsdG1wwb+xvnVsx1ZsbGxsbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0VmxsbGxsbGxsbGxsbGxsbGxsbGxsp1ZsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxzubG/v62zsXNsiYpsc6G/sb5survAbLK7wbqwc3hWbGxsbGxsbGxsbGxsbGxsbGxsbGypeFZsbGxsbGxsbGxsbGxsbGxsbGxsbIB8gHhWbGxsbGxsbGxsbGxsbGxsbHWHVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbHDBv7G+eYq8rb+/w7u+sGyJbJStv7SGhrmtt7F0cL6xvcGxv8B5irytv7/Du76wdYdWbGxsbGxsbGxsbGxscMG/sb55ir+twrF0dYdWVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dMC+wbF4bH58fHWHVmxsbGxsbGxsyWyvrcCvtGx0qKC0vrvDra64sWxwwLR1bMdWbGxsbGxsbGxsbGxsqJi7s4aGtbqyu3RuoLS+u8OtrrixbHDAtG51h1ZsbGxsbGxsbMlWbGxsbMlWVmxsbGy8wa64ta9sssG6r8C1u7pswbywrcCxob+xvqKxvrWyta+twLW7up/ArcDBv3Sesb3Bsb/AbHC+sb3Bsb/AdVZsbGxsx1ZsbGxsbGxsbHC+sb3Bsb/AeYrCrbi1sK3AsXSnVmxsbGxsbGxsbGxsbHPBv7G+q7Wwc2yJimxzvrG9wbW+sbDItbrAsbOxvsixxLW/wL+Gwb+xvr94tbBzeFZsbGxsbGxsbGxsbGxztb+rwrG+tbK1sbBzbImKbHO+sb3Btb6xsMiuu7u4sa26c3hWbGxsbGxsbGypdYdWVmxsbGxsbGxswL7FbMdWbGxsbGxsbGxsbGxscMG/sb5siWyhv7G+hoaytbqwm76SrbW4dHC+sb3Bsb/AeYrBv7G+q7WwdYdWVmxsbGxsbGxsbGxsbLWybHRwwb+xvnmKvru4sWxtiYlsc8G/sb5zdWzHVmxsbGxsbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unSnc7mxv7+ts7FzbImKbHMlzSXOJANsJvUk8yT9JPQk/STzJdJsJAUk8yT7J9hsJc4k8yT0JdBsJPYk8yfYJ9gk+2wl0yT/JPYl0iT7enOpeGyAfn51h1ZsbGxsbGxsbGxsbGzJVlZsbGxsbGxsbGxsbGxwwb+xvnmKtb+rwrG+tbK1sbBsiWxwvrG9wbG/wHmKtb+rwrG+tbK1sbCHVmxsbGxsbGxsbGxsbHDBv7G+eYq/rcKxdHWHVlZsbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unSnc8G/sb5zbImKbHDBv7G+eYq4u62wdHPBv7G+k767wbxzdal4bH58fHWHVmxsbGxsbGxsyWyvrcCvtGx0qKC0vrvDra64sWxwwLR1bMdWbGxsbGxsbGxsbGxsqJi7s4aGsb6+u750p3Ohv7G+j7u6wL67uLixvozBvLCtwLGhv7G+orG+tbK1r63Atbu6n8CtwMG/c2yJimxwwLR5irOxwJmxv7+ts7F0dal1h1ZsbGxsbGxsbGxsbGy+scDBvrpsvrG/vLu6v7F0dXmKtr+7unS6wbi4eGyBfHx1h1ZsbGxsbGxsbMlWbGxsbMlWVmxsbGy8wa64ta9sssG6r8C1u7pss7HAmru+ua24ob+xvr+Su76TvrvBvLW6s3Sesb3Bsb/AbHC+sb3Bsb/AdVZsbGxsx1ZsbGxsbGxsbMC+xWzHVmxsbGxsbGxsbGxsbHC+u7ixoMW8sWyJbHC+sb3Bsb/AeYqzscB0c767uLGrwMW8sXN4bHPBv7G+c3WHVmxsbGxsbGxsbGxsbLWybHRttbqrrb6+rcV0cL67uLGgxbyxeGync8G/sb5zeGxzrbOxusBzqXV1bMdWbGxsbGxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dKdzubG/v62zsXNsiYpscyXSJc4kAGwl0iTzJdEkBST2JPQk/Wwk8yT/JPZ6c6l4bIB+fnWHVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbHC9wbG+xWyJbKG/sb6GhsO0sb6xdHO+u7ixc3hscL67uLGgxbyxdXmKw7XAtHSnc8G/sb6TvrvBvHN4bHOuu8Chv7G+c6l1h1ZWbGxsbGxsbGxsbGxstbJsdHC+u7ixoMW8sWyJiYlsc8G/sb5zbHJybHC+sb3Bsb/AeYqytbi4sbB0c8KxvrWyta+twLW7uquytbjAsb5zdXVsx1ZsbGxsbGxsbGxsbGxsbGxstbJsdHC+sb3Bsb/AeYrCsb61srWvrcC1u7qrsrW4wLG+bImJiWxzwrG+tbK1sbBzdWzHVmxsbGxsbGxsbGxsbGxsbGxsbGxscL3Bsb7FeYrDtLG+sXRztb+rwrG+tbK1sbBzeGzAvsGxdYdWbGxsbGxsbGxsbGxsbGxsbMlssbi/sbWybHRwvrG9wbG/wHmKwrG+tbK1r63Atbu6q7K1uMCxvmyJiYlsc8G6wrG+tbK1sbBzdWzHVmxsbGxsbGxsbGxsbGxsbGxsbGxscL3Bsb7FeYrDtLG+sXRztb+rwrG+tbK1sbBzeGyyrbi/sXWHVmxsbGxsbGxsbGxsbGxsbGzJVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbLWybHRwvrG9wbG/wHmKsrW4uLGwdHPBv7G+q7O+u8G8q7Wwc3V1bMdWbGxsbGxsbGxsbGxsbGxsbHC9wbG+xXmKw7SxvrF0c8G/sb6rs767wbyrtbBzeGxwvrG9wbG/wHmKwb+xvquzvrvBvKu1sHWHVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbLWybHRwvrG9wbG/wHmKsrW4uLGwdHOxxK+4wbCxq7O+u8G8q7Wwc3V1bMdWbGxsbGxsbGxsbGxsbGxsbHCxxK+4wbCxlbBsiWxwvrG9wbG/wHmKscSvuMGwsauzvrvBvKu1sIdWbGxsbGxsbGxsbGxsbGxsbHC9wbG+xXmKw7SxvrF0ssG6r8C1u7psdHC9dWzBv7FsdHCxxK+4wbCxlbB1bMdWbGxsbGxsbGxsbGxsbGxsbGxsbGxwvXmKw7SxvrF0c8G/sb6rs767wbyrtbBzeGxzbYlzeGxwscSvuMGwsZWwdVZsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGx5iru+o7SxvrGawbi4dHPBv7G+q7O+u8G8q7Wwc3WHVmxsbGxsbGxsbGxsbGxsbGzJdYdWbGxsbGxsbGxsbGxsyVZWbGxsbGxsbGxsbGxstbJsdHC+sb3Bsb/AeYqytbi4sbB0c7+xrb6vtHN1dWzHVmxsbGxsbGxsbGxsbGxsbGxwv7Gtvq+0bIlscL6xvcGxv8B5ir+xrb6vtIdWbGxsbGxsbGxsbGxsbGxsbHC9wbG+xXmKw7SxvrF0ssG6r8C1u7psdHC9dWzBv7FsdHC/sa2+r7R1bMdWbGxsbGxsbGxsbGxsbGxsbGxsbGxwvXmKw7SxvrF0c7qtubFzeGxzuLW3sXN4bG5xx3C/sa2+r7TJcW51VmxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbHmKu76jtLG+sXRzra+vu8G6wKu1sHN4bHO4tbexc3hsbnHHcL+xrb6vtMlxbnVWbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxseYq7vqO0sb6xlK2/dHOuu8Chv7G+c3hsssG6r8C1u7psdHCuu8CdwbG+xXVswb+xbHRwv7Gtvq+0dWzHVmxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxwrrvAncGxvsV5isO0sb6xdHOtsLm1uqutuLWtv3N4bHO4tbexc3hsbnHHcL+xrb6vtMlxbnWHVmxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbMl1h1ZsbGxsbGxsbGxsbGxsbGxsyXWHVmxsbGxsbGxsbGxsbMlWVmxsbGxsbGxsbGxsbHDBv7G+v2yJbHC9wbG+xXmKu76wsb6OxXRztbBzeGxzsLG/r3N1eYqzscB0dVZsbGxsbGxsbGxsbGxsbGxseYq5rbx0srpsdKG/sb5scMG/sb51bImKbHDAtLW/eYqtvLyxurCOu8Chv7G+mbHArXRwwb+xvnV1h1ZWbGxsbGxsbGxsbGxsvrHAwb66bL6xv7y7ur+xdHV5ira/u7p0p3PBv7G+v3NsiYpscMG/sb6/qXhsfnx8dYdWbGxsbGxsbGzJbK+twK+0bHSooLS+u8OtrrixbHDAtHVsx1ZsbGxsbGxsbGxsbGyomLuzhoaxvr67vnSnc6G/sb6Pu7rAvru4uLG+jLOxwJq7vrmtuKG/sb6/kru+k767wby1urNzbImKbHDAtHmKs7HAmbG/v62zsXR1qXWHVmxsbGxsbGxsbGxsbL6xwMG+umy+sb+8u7q/sXR1eYq2v7u6dLrBuLh4bIF8fHWHVmxsbGxsbGxsyVZsbGxsyVbJVg==
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Models\AccountBallance;
+use App\Models\BotUser;
+use App\Models\Product;
+use App\Models\User;
+use App\Services\PaymentAccessService;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Validation\ValidationException;
+class UserController extends Controller
+{
+    private function paymentAccessService(): PaymentAccessService
+    {
+        return app(PaymentAccessService::class);
+    }
+    public function getUsers()
+    {
+        $users = User::all();
+        return response()->json(
+            [
+                'users' => $users,
+            ],
+            200,
+        );
+    }
+    private function appendBotUserMeta(User $user): User
+    {
+        $botUser = $user->relationLoaded('botUser')
+            ? $user->botUser
+            : BotUser::where('account_id', $user->account_id)->first();
+        $user->bot_user_id = $botUser?->id;
+        $user->admin_alias = $botUser?->admin_alias;
+
+        return $user;
+    }
+
+    private function appendAgentStats(User $user): User
+    {
+        $balance = AccountBallance::where('account_id', $user->account_id)->first();
+        $user->balance_toman = $balance?->ballance ?? 0;
+        $user->balance_dollar = $balance?->account_ballance_in_dollar ?? 0;
+        $user->sales_count = Product::where('account_id', $user->account_id)->count();
+        $user->agent_products_count = $user->agent_products_count
+            ?? $user->agent_products()->count();
+
+        $agentPrCntrl = new AgentProductController();
+        $user->agent_limit_usage = $agentPrCntrl->getAgentLimitUsage($user->id);
+
+        return $this->appendBotUserMeta($user);
+    }
+
+    public function getAgents()
+    {
+        try {
+            $users = User::where('role', 'agent')
+                ->with(['userGroup', 'botUser'])
+                ->withCount('agent_products')
+                ->get()
+                ->map(fn (User $user) => $this->appendAgentStats($user));
+
+            return response()->json(
+                [
+                    'agents' => $users,
+                ],
+                200,
+            );
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function getAgentByIdWithProductsAndPremissons($id)
+    {
+        try {
+            $users = User::where('role', 'agent')
+                ->where('id', $id)
+                ->with(['agent_products.product_categories', 'agent_permisson', 'userGroup', 'botUser'])
+                ->withCount('agent_products')
+                ->get()
+                ->map(fn (User $user) => $this->appendAgentStats($user));
+
+            return response()->json($users, 200);
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function getNormalUsers()
+    {
+        try {
+            $users = User::where('role', 'user')
+                ->with(['userGroup', 'botUser'])
+                ->get()
+                ->map(fn (User $user) => $this->appendBotUserMeta($user));
+            return response()->json(
+                [
+                    'users' => $users,
+                ],
+                200,
+            );
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function get_admin_users()
+    {
+        $users = User::where('role', 'admin')->get();
+        return response()->json([
+            'admins' => $users,
+        ]);
+    }
+    public function change_user_role_to_admin($id){
+
+        $user = User::where('account_id', $id)->first();
+        if (!$user) {
+           return response()->json(null, 401);
+        }
+        $user->role = 'admin';
+        $user->update();
+        return response()->json(true, 201);
+    }
+
+    public function getUserById($id)
+    {
+        $user = User::find($id);
+        if (!$user) {
+            return response()->json(
+                [
+                    'message' => 'User not found',
+                ],
+                404,
+            );
+        }
+        return response()->json(
+            [
+                'user' => $user,
+            ],
+            200,
+        );
+    }
+    public function changeUserRoleToAgent($id)
+    {
+        $user = User::find($id);
+        if (!$user) {
+            return null;
+        }
+        $user->role = 'agent';
+        $user->update();
+        $this->paymentAccessService()->assignDefaultGroup($user);
+        return true;
+    }
+    public function changeAgentRoleToUser($id)
+    {
+        try {
+            $user = User::find($id);
+            if (!$user) {
+            return null;
+        }
+        // checl if user_account_id is not null and is not equal to TELEGRAM_ADMIN_ID in .env
+            if ($user->role != 'agent') {
+                \Log::info("user {$user->id} is  not agent");
+                return null;
+            }
+
+            $user->role = 'user';
+            $user->update();
+            $this->paymentAccessService()->assignDefaultGroup($user);
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return false;
+        }
+    }
+    public function change_user_role_to_user($id)
+    {
+        $user = User::where('account_id', $id)->first();
+        if (!$user) {
+            return response()->json(null, 401);
+        }
+        // checl if user_account_id is not null and is not equal to TELEGRAM_ADMIN_ID in .env
+        if ($user->account_id == env('TELEGRAM_ADMIN_ID')) {
+            return response()->json(null, 401);
+        }
+
+        $user->role = 'user';
+        $user->update();
+        return response()->json(true, 201);
+    }
+    public function getUserIdByTelegramID($telID)
+    {
+        $user = User::where('account_id', $telID)->first();
+        if (!$user) {
+            return null;
+        }
+        return $user->id;
+    }
+    public function createUser(Request $request)
+    {
+        $request->validate([
+            'name' => 'required|string|max:255',
+            'account_id' => 'required|max:8|unique:users',
+            'password' => 'required|string|min:8',
+            'role' => 'required|string',
+        ]);
+
+        $user = User::create([
+            'name' => $request->name,
+            'account_id' => $request->account_id,
+            'role' => $request->role,
+            'password' => Hash::make($request->password),
+        ]);
+
+        $this->paymentAccessService()->assignDefaultGroup($user);
+
+        return response()->json(
+            [
+                'message' => 'User created successfully',
+                'user' => $user,
+            ],
+            201,
+        );
+    }
+    public function updateUser(Request $request)
+    {
+        try {
+            //code..
+
+            $request->validate([
+                'name' => 'required|string|max:255',
+                'account_id' => 'required|max:8',
+                'password' => 'nullable|string|min:8',
+                'role' => 'required|string',
+            ]);
+
+            $user = User::where('account_id', $request->account_id)->first();
+            if (!$user) {
+                return response()->json(
+                    [
+                        'message' => 'User not found',
+                    ],
+                    404,
+                );
+            }
+
+            $user->name = $request->name;
+            $user->account_id = $request->account_id;
+            $user->role = $request->role;
+            if ($request->filled('password')) {
+                $user->password = Hash::make($request->password);
+            }
+            $user->save();
+
+            return response()->json(
+                [
+                    'message' => 'User updated successfully',
+                    'user' => $user,
+                ],
+                200,
+            );
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+        }
+    }
+    public function update_logged_password(Request $request)
+    {
+        $request->validate([
+            'password' => 'required|string|min:8',
+        ]);
+        $accountID = auth('sanctum')->user()->account_id;
+        $user = User::where('account_id', $accountID)->first();
+        if (!$user) {
+            return response()->json(
+                [
+                    'message' => 'User not found',
+                ],
+                404,
+            );
+        }
+
+        $user->password = Hash::make($request->password);
+        $user->update();
+
+        return response()->json(
+            [
+                'message' => 'User updated successfully',
+                'user' => $user,
+            ],
+            200,
+        );
+    }
+    public function deleteUser(Request $request)
+    {
+        $request->validate([
+            'account_id' => 'required|max:8',
+        ]);
+
+        $user = User::where('account_id', $request->account_id)->first();
+        if (!$user) {
+            return response()->json(
+                [
+                    'message' => 'User not found',
+                ],
+                404,
+            );
+        }
+
+        $user->delete();
+
+        return response()->json(
+            [
+                'message' => 'User deleted successfully',
+            ],
+            200,
+        );
+    }
+
+    /// Agent
+    public function updateAgentPassword(Request $request)
+    {
+        try {
+            //code..
+
+            $request->validate([
+                'password' => 'required|string|min:8',
+            ]);
+            $accountID = auth('sanctum')->user()->account_id;
+            $user = User::where('account_id', $accountID)->first();
+            if (!$user) {
+                return response()->json(
+                    [
+                        'message' => 'User not found',
+                    ],
+                    404,
+                );
+            }
+
+            $user->password = Hash::make($request->password);
+            $user->save();
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+        }
+    }
+
+    public function updateUserVerificationStatus(Request $request)
+    {
+        $request->validate([
+            'user_id' => 'required|integer|exists:users,id',
+            'is_verified' => 'required|boolean',
+        ]);
+
+        try {
+            $user = User::findOrFail($request->user_id);
+
+            if ($user->role !== 'user') {
+                return response()->json(['message' => 'فقط کاربران عادی قابل تایید هستند.'], 422);
+            }
+
+            $user->is_verified = $request->is_verified;
+            $user->save();
+
+            return response()->json(['user' => $user->load('userGroup')], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserController@updateUserVerificationStatus' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function getNormalUsersForGrouping(Request $request)
+    {
+        try {
+            $roleType = $request->get('role_type', 'user');
+            if (!in_array($roleType, ['user', 'agent'])) {
+                return response()->json(['message' => 'نقش نامعتبر است.'], 422);
+            }
+
+            $query = User::where('role', $roleType)->with(['userGroup', 'botUser']);
+
+            if ($roleType === 'user' && $request->filled('verification_filter')) {
+                if ($request->verification_filter === 'verified') {
+                    $query->where('is_verified', true);
+                } elseif ($request->verification_filter === 'unverified') {
+                    $query->where('is_verified', false);
+                }
+            }
+
+            if ($request->filled('user_group_id')) {
+                $query->where('user_group_id', $request->user_group_id);
+            }
+
+            if ($request->filled('exclude_group_id')) {
+                $excludeId = $request->exclude_group_id;
+                $query->where(function ($q) use ($excludeId) {
+                    $q->where('user_group_id', '!=', $excludeId)
+                        ->orWhereNull('user_group_id');
+                });
+            }
+
+            if ($request->filled('search')) {
+                $search = $request->search;
+                $query->where(function ($q) use ($search) {
+                    $q->where('name', 'like', "%{$search}%")
+                        ->orWhere('account_id', 'like', "%{$search}%")
+                        ->orWhereHas('botUser', function ($botQuery) use ($search) {
+                            $botQuery->where('admin_alias', 'like', "%{$search}%");
+                        });
+                });
+            }
+
+            $users = $query->orderBy('id', 'desc')->get()
+                ->map(fn (User $user) => $this->appendBotUserMeta($user));
+
+            return response()->json(['users' => $users], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserController@getNormalUsersForGrouping' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+}

@@ -1,3 +1,204 @@
 <?php
-bolt_decrypt( __FILE__ , 'g9iKbg'); return 0;
-##!!!##JyeLfoqCkI1+gII9Xo2NeXCCj5OGgIKQWCcnkpCCPV6NjXlqjIGCiZB5X4yRcpCCj1gnkpCCPV6NjXlqjIGCiZB5cIKRkYaLhFgnkpCCPWaJiZKKhot+kYJ5cJKNjYyPkXlwkY9YJyeAiX6QkD1gjIuDhoRrfoqCcIKPk4aAgieYJz09PT2Nkn+JhoA9gIyLkJE9YWJjXnJpcXxtb2JjZnU9Wj1Ef4yRRFgnJz09PT2Nkn+JhoA9gIyLkJE9YWJjXnJpcXxjbG9qXnE9Wj1EmI2PgoOGlZqYfoCAjJKLkXyJfn+CiZpEWCcnPT09PY2Sf4mGgD2AjIuQkT1hYmNecmlxfGpeb3dfXmt8Y2xval5xPVo9RJiNj4KDhpWamICFfpF8hoGamI2PjIGSgJF8hoGaRFgnJz09PT2Nkn+JhoA9kJF+kYaAPYOSi4CRhoyLPYSCkW2PgoOGlUVGVz2QkY+Gi4QnPT09PZgnPT09PT09PT1BjY+Cg4aVPVo9cIKRkYaLhFdXjpKCj5ZFRkpbk36JkoJFRICMi4OGhHyLfoqCfI2PgoOGlURGWCcnPT09PT09PT2Ggz1FPj2DhomJgoFFQY2PgoOGlUZGPZgnPT09PT09PT09PT09j4KRko+LPZCCiYNXV2FiY15yaXF8bW9iY2Z1WCc9PT09PT09PZonJz09PT09PT09QY2PgoOGlT1aPZGPhopFRZCRj4aLhEY9QY2PgoOGlUZYJyc9PT09PT09PY+CkZKPiz1BjY+Cg4aVPT5aWj1ERD1cPUGNj4KDhpU9Vz2QgomDV1dhYmNecmlxfG1vYmNmdVgnPT09PZonJz09PT2Nkn+JhoA9kJF+kYaAPYOSi4CRhoyLPYSCkWOMj4p+kUVGVz2QkY+Gi4QnPT09PZgnPT09PT09PT1Bg4yPin6RPVo9cIKRkYaLhFdXjpKCj5ZFRkpbk36JkoJFRICMi4OGhHyLfoqCfIOMj4p+kURGWCcnPT09PT09PT2PgpGSj4s9kIKJg1dXi4yPin6JhpeCY4yPin6RRUGDjI+KfpFGWCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9i4yPin6JhpeCbY+Cg4aVRVyQkY+Gi4Q9QY2PgoOGlUZXPZCRj4aLhCc9PT09mCc9PT09PT09PYaDPUU+PYOGiYmCgUVBjY+Cg4aVRkY9mCc9PT09PT09PT09PT2PgpGSj4s9kIKJg1dXYWJjXnJpcXxtb2JjZnVYJz09PT09PT09micnPT09PT09PT1BjY+Cg4aVPVo9jY+ChHyPgo2JfoCCRURMeHt+SpdeSndNSlZ6TERJPUREST2Rj4aKRUGNj4KDhpVGRj1cXD1ERFgnJz09PT09PT09j4KRko+LPUGNj4KDhpU9PlpaPUREPVw9QY2PgoOGlT1XPZCCiYNXV2FiY15yaXF8bW9iY2Z1WCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9i4yPin6JhpeCY4yPin6RRVyQkY+Gi4Q9QYOMj4p+kUZXPZCRj4aLhCc9PT09mCc9PT09PT09PYaDPUU+PYOGiYmCgUVBg4yPin6RRkY9mCc9PT09PT09PT09PT2PgpGSj4s9kIKJg1dXYWJjXnJpcXxjbG9qXnFYJz09PT09PT09micnPT09PT09PT1Bg4yPin6RPVo9kY+GikVFkJGPhouERj1Bg4yPin6RRlgnPT09PT09PT2Ggz1FQYOMj4p+kT1aWlo9RERGPZgnPT09PT09PT09PT09j4KRko+LPZCCiYNXV2FiY15yaXF8Y2xval5xWCc9PT09PT09PZonJz09PT09PT09QYOMj4p+kT1aPY2PgoR8j4KNiX6AgkVETHh7mJp+SpdeSndNSlZ8eUp6TERJPUREST1Bg4yPin6RRj1cXD1ERFgnJz09PT09PT09j4KRko+LPUGDjI+KfpE9PlpaPUREPVw9QYOMj4p+kT1XPZCCiYNXV2FiY15yaXF8Y2xval5xWCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9j4KQjImTgl6AgIySi5Fpfn+CiUWGi5GZkJGPhouEPUF+gICMkouRZoFJPYaLkZmQkY+Gi4SZi5KJiT1BkJKDg4aVPVo9i5KJiUZXPZCRj4aLhCc9PT09mCc9PT09PT09PUF/jJFykIKPPVo9X4yRcpCCj1dXjpKCj5ZFRkpblIWCj4JFRH6AgIySi5F8hoFEST1BfoCAjJKLkWaBRkpbg4aPkJFFRlgnPT09PT09PT1BkpCCXomGfpA9Wj2QgomDV1eSkIJegYqGi16Jhn6QZotgjIuDhoRrfoqCRUZYJz09PT09PT09QYl+f4KJPVo9RUGSkIJeiYZ+kD1DQz1Bf4yRcpCCjz1DQz2DhomJgoFFQX+MkXKQgo9KW36BioaLfH6Jhn6QRkYnPT09PT09PT09PT09XD2Rj4aKRUF/jJFykIKPSlt+gYqGi3x+iYZ+kEYnPT09PT09PT09PT09Vz1FkJGPhouERj1BfoCAjJKLkWaBWCcnPT09PT09PT2Ggz1FQZCSg4OGlT0+Wlo9i5KJiT1DQz1BkJKDg4aVPT5aWj1EREY9mCc9PT09PT09PT09PT2PgpGSj4s9P5hBiX5/gomaSphBkJKDg4aVmj9YJz09PT09PT09micnPT09PT09PT2PgpGSj4s9QYl+f4KJWCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9j4KQjImTgm1+i4KJXoCAjJKLkWl+f4KJRSc9PT09PT09PYaLkZmQkY+Gi4SZi5KJiT1BgIV+kWaBSSc9PT09PT09PYaLkZmQkY+Gi4SZi5KJiT1BjY+MgZKAkWaBPVo9i5KJiUknPT09PT09PT1ckJGPhouEPUGDfomJf36AiF6AgIySi5FmgT1aPYuSiYlJJz09PT1GVz2QkY+Gi4Q9mCc9PT09PT09PYaDPUVBgIV+kWaBPT5aWj2LkomJPUNDPUGAhX6RZoE9PlpaPURERj2YJz09PT09PT09PT09PY+CkZKPiz2QgomDV1ePgpCMiZOCXoCAjJKLkWl+f4KJRUGAhX6RZoFJPUGNj4yBkoCRZoFGWCc9PT09PT09PZonJz09PT09PT09j4KRko+LPUWQkY+Gi4RGPUVBg36JiX9+gIhegICMkouRZoE9XFw9RERGWCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9fo2NiZZjjI+KfpFFkJGPhouEPUGDjI+KfpFJPX6Pj36WPUGTfo+QRlc9kJGPhouEJz09PT2YJz09PT09PT09QY+CjYl+gIKKgouRkD1aPXgnPT09PT09PT09PT09RJiNj4KDhpWaRD1aWz1FkJGPhouERj1FQZN+j5B4RI2PgoOGlUR6PVxcPZCCiYNXV4SCkW2PgoOGlUVGRkknPT09PT09PT09PT09RJh+gICMkouRfIaBmkQ9Wls9RZCRj4aLhEY9RUGTfo+QeER+gICMkouRfIaBRHo9XFw9RERGSSc9PT09PT09PT09PT1EmH6AgIySi5F8iX5/gomaRD1aWz1FkJGPhouERj1FQZN+j5B4RH6AgIySi5F8iX5/golEej1cXD1EREZJJz09PT09PT09PT09PUSYgIV+kXyGgZpEPVpbPUWQkY+Gi4RGPUVBk36PkHhEgIV+kXyGgUR6PVxcPURERkknPT09PT09PT09PT09RJiNj4yBkoCRfIaBmkQ9Wls9RZCRj4aLhEY9RUGTfo+QeESNj4yBkoCRfIaBRHo9XFw9RERGSSc9PT09PT09PT09PT1EmI9+i4GMippEPVpbPUWQkY+Gi4RGPUVBk36PkHhEj36LgYyKRHo9XFw9RERGSSc9PT09PT09PXpYJyc9PT09PT09PY+CkZKPiz2QkY98j4KNiX6AgkV+j49+lnyIgpaQRUGPgo2JfoCCioKLkZBGST1+j49+lnyTfomSgpBFQY+CjYl+gIKKgouRkEZJPUGDjI+KfpFGWCc9PT09micnPT09PUxHRyc9PT09PUc9XY+CkZKPiz1+j49+lph+gICMkouRfIl+f4KJVz2QkY+Gi4RJPX6AgIySi5F8hoFXPZCRj4aLhEk9gIV+kXyGgVc9kJGPhouEST2Nj4yBkoCRfIaBVz2QkY+Gi4SaJz09PT09R0wnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9j4KQjImTgmt+ioJzfo+QRSc9PT09PT09PZCRj4aLhD1BfoCAjJKLkWl+f4KJSSc9PT09PT09PYaLkZmQkY+Gi4SZi5KJiT1BgIV+kWaBPVo9i5KJiUknPT09PT09PT2Gi5GZkJGPhouEmYuSiYk9QY2PjIGSgJFmgT1aPYuSiYlJJz09PT1GVz1+j49+lj2YJz09PT09PT09QX6AgIySi5FmgT1aPUGAhX6RZoE9PlpaPYuSiYk9XD1FkJGPhouERj1BgIV+kWaBPVc9RERYJz09PT09PT09QY+CkIyJk4KBbY+MgZKAkWaBPVo9QY2PjIGSgJFmgT0+Wlo9i5KJiT1cPUWQkY+Gi4RGPUGNj4yBkoCRZoE9Vz1ERFgnJz09PT09PT09hoM9RUF+gICMkouRZoE9WlpaPUREPUNDPY2PgoR8in6RgIVFREx7RUtIRkpFeHtKekhGQUxEST1BfoCAjJKLkWl+f4KJST1Bin6RgIWCkEY9WlpaPU5GPZgnPT09PT09PT09PT09QX6AgIySi5FmgT1aPUGKfpGAhYKQeE56WCc9PT09PT09PT09PT1Bj4KQjImTgoFtj4yBkoCRZoE9Wj1Bj4KQjImTgoFtj4yBkoCRZoE9PlpaPUREPVw9QY+CkIyJk4KBbY+MgZKAkWaBPVc9QYp+kYCFgpB4T3pYJz09PT09PT09micnPT09PT09PT2PgpGSj4s9eCc9PT09PT09PT09PT1EfoCAjJKLkXyJfn+CiUQ9Wls9QX6AgIySi5Fpfn+CiUknPT09PT09PT09PT09RH6AgIySi5F8hoFEPVpbPUF+gICMkouRZoFJJz09PT09PT09PT09PUSAhX6RfIaBRD1aWz1BfoCAjJKLkWaBSSc9PT09PT09PT09PT1EjY+MgZKAkXyGgUQ9Wls9QY+CkIyJk4KBbY+MgZKAkWaBSSc9PT09PT09PXpYJz09PT2aJyc9PT09jZJ/iYaAPZCRfpGGgD2DkouAkYaMiz1/koaJgWWGgYGGg5ZrfoqCRSc9PT09PT09PZCRj4aLhD1BfoCAjJKLkWl+f4KJSSc9PT09PT09PYaLkZmQkY+Gi4SZi5KJiT1BgIV+kWaBPVo9i5KJiUknPT09PT09PT2Gi5GZkJGPhouEmYuSiYk9QY2PjIGSgJFmgT1aPYuSiYlJJz09PT1GVz2QkY+Gi4Q9mCc9PT09PT09PUGTfo+QPVo9kIKJg1dXj4KQjImTgmt+ioJzfo+QRUF+gICMkouRaX5/golJPUGAhX6RZoFJPUGNj4yBkoCRZoFGWCc9PT09PT09PUGTfo+QeESNj4KDhpVEej1aPZCCiYNXV4SCkW2PgoOGlUVGWCcnPT09PT09PT2PgpGSj4s9kIKJg1dXfo2NiZZjjI+KfpFFkIKJg1dXhIKRY4yPin6RRUZJPUGTfo+QRlgnPT09PZonJz09PT2Nkn+JhoA9kJF+kYaAPYOSi4CRhoyLPX+ShomBcH6LfoKGYImGgouRZoFFJz09PT09PT09kJGPhouEPUF+gICMkouRaX5/golJJz09PT09PT09XJCRj4aLhD1Bj36LgYyKcJKDg4aVPVo9i5KJiUknPT09PT09PT2Gi5GZkJGPhouEmYuSiYk9QYCFfpFmgT1aPYuSiYlJJz09PT09PT09houRmZCRj4aLhJmLkomJPUGNj4yBkoCRZoE9Wj2LkomJSSc9PT09Rlc9kJGPhouEPZgnPT09PT09PT1Bj36LgYyKPVo9QY9+i4GMinCSg4OGlT1cXD1wkY9XV49+i4GMikVRRlgnPT09PT09PT1Bg4yPin6RPVo9kIKJg1dXhIKRY4yPin6RRUZYJz09PT09PT09QZN+j5A9Wj2QgomDV1ePgpCMiZOCa36KgnN+j5BFQX6AgIySi5Fpfn+CiUk9QYCFfpFmgUk9QY2PjIGSgJFmgUZYJz09PT09PT09QZN+j5B4RI2PgoOGlUR6PVo9kIKJg1dXhIKRbY+Cg4aVRUZYJz09PT09PT09QZN+j5B4RI9+i4GMikR6PVo9QY9+i4GMilgnJz09PT09PT09QYt+ioI9Wj2QgomDV1d+jY2JlmOMj4p+kUVBg4yPin6RST1Bk36PkEZYJz09PT09PT09hoM9RT49kJGPfICMi5F+houQRUGDjI+KfpFJPUSYj36LgYyKmkRGRj2YJz09PT09PT09PT09PUGLfoqCPUtaPURKRD1LPUGPfouBjIpYJz09PT09PT09micnPT09PT09PT2PgpGSj4s9QYt+ioJYJz09PT2aJyc9PT09jZJ/iYaAPZCRfpGGgD2DkouAkYaMiz1/koaJgWp+j5d/fotjfomJf36AiHKQgo+LfoqCRYaLkZmQkY+Gi4Q9QYCFfpFmgUk9houRmZCRj4aLhD1BjY+MgZKAkWaBRlc9kJGPhouEJz09PT2YJz09PT09PT09QZN+j5A9Wj14Jz09PT09PT09PT09PUSNj4KDhpVEPVpbPZCCiYNXV4SCkW2PgoOGlUVGSSc9PT09PT09PT09PT1EfoCAjJKLkXyJfn+CiUQ9Wls9P5hBgIV+kWaBmkqYQY2PjIGSgJFmgZo/SSc9PT09PT09PT09PT1EfoCAjJKLkXyGgUQ9Wls9RZCRj4aLhEY9QYCFfpFmgUknPT09PT09PT09PT09RICFfpF8hoFEPVpbPUWQkY+Gi4RGPUGAhX6RZoFJJz09PT09PT09PT09PUSNj4yBkoCRfIaBRD1aWz1FkJGPhouERj1BjY+MgZKAkWaBSSc9PT09PT09PXpYJyc9PT09PT09PUGDjI+KfpE9Wj2QgomDV1eEgpFjjI+KfpFFRlgnPT09PT09PT2Ggz1FkJGPfICMi5F+houQRUGDjI+KfpFJPUSYgIV+kXyGgZpERj2ZmT2QkY98gIyLkX6Gi5BFQYOMj4p+kUk9RJiNj4yBkoCRfIaBmkRGRj2YJz09PT09PT09PT09PY+CkZKPiz2QgomDV1d+jY2JlmOMj4p+kUVBg4yPin6RST1Bk36PkEZYJz09PT09PT09micnPT09PT09PT2PgpGSj4s9kIKJg1dXfo2NiZZjjI+KfpFFkIKJg1dXYWJjXnJpcXxqXm93X15rfGNsb2pecUk9QZN+j5BGWCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9f5KGiYFqfo+Xf36LcYKQkWN+iYl/foCIcpCCj4t+ioJFhouRmZCRj4aLhD1BgIV+kWaBRlc9kJGPhouEJz09PT2YJz09PT09PT09j4KRko+LPZCCiYNXV4SCkW2PgoOGlUVGPUs9P5hBgIV+kWaBmnGCkJE/WCc9PT09micnPT09PY2Sf4mGgD2QkX6RhoA9g5KLgJGGjIs9jY+Ck4aClEWQkY+Gi4Q9QYOMj4p+kUk9kJGPhouEPUGNj4KDhpVGVz2QkY+Gi4QnPT09PZgnPT09PT09PT2PgpGSj4s9kIKJg1dXfo2NiZZjjI+KfpFFkIKJg1dXi4yPin6JhpeCY4yPin6RRUGDjI+KfpFGST14Jz09PT09PT09PT09PUSNj4KDhpVEPVpbPZCCiYNXV4uMj4p+iYaXgm2PgoOGlUVBjY+Cg4aVRkknPT09PT09PT09PT09RH6AgIySi5F8hoFEPVpbPUROT1BRUlNUVVZESSc9PT09PT09PT09PT1EfoCAjJKLkXyJfn+CiUQ9Wls9RE5PUFFSU1RVVkpRT0RJJz09PT09PT09PT09PUSAhX6RfIaBRD1aWz1ETk9QUVJTVFVWREknPT09PT09PT09PT09RI2PjIGSgJF8hoFEPVpbPURRT0RJJz09PT09PT09PT09PUSPfouBjIpEPVpbPUR+f4CBREknPT09PT09PT16RlgnPT09PZonJz09PT2Nkn+JhoA9kJF+kYaAPYOSi4CRhoyLPZKQgl6BioaLXomGfpBmi2CMi4OGhGt+ioJFRlc9f4yMiSc9PT09mCc9PT09PT09PUGQgpGRhouEPVo9cIKRkYaLhFdXjpKCj5ZFRkpbg4aPkJFFRlgnPT09PT09PT2Ggz1FQZCCkZGGi4Q9WlpaPYuSiYk9mZk9QZCCkZGGi4RKW5KQgnx+gYqGi3x+iYZ+kHyGi3yAjIuDhoR8i36Kgj1aWlo9i5KJiUY9mCc9PT09PT09PT09PT2PgpGSj4s9kY+SglgnPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz1Ff4yMiUY9QZCCkZGGi4RKW5KQgnx+gYqGi3x+iYZ+kHyGi3yAjIuDhoR8i36KglgnPT09PZonmic=
+
+namespace App\Services;
+
+use App\Models\BotUser;
+use App\Models\Setting;
+use Illuminate\Support\Str;
+
+class ConfigNameService
+{
+    public const DEFAULT_PREFIX = 'bot';
+
+    public const DEFAULT_FORMAT = '{prefix}{account_label}';
+
+    public const DEFAULT_MARZBAN_FORMAT = '{prefix}{chat_id}{product_id}';
+
+    public static function getPrefix(): string
+    {
+        $prefix = Setting::query()->value('config_name_prefix');
+
+        if (! filled($prefix)) {
+            return self::DEFAULT_PREFIX;
+        }
+
+        $prefix = trim((string) $prefix);
+
+        return $prefix !== '' ? $prefix : self::DEFAULT_PREFIX;
+    }
+
+    public static function getFormat(): string
+    {
+        $format = Setting::query()->value('config_name_format');
+
+        return self::normalizeFormat($format);
+    }
+
+    public static function normalizePrefix(?string $prefix): string
+    {
+        if (! filled($prefix)) {
+            return self::DEFAULT_PREFIX;
+        }
+
+        $prefix = preg_replace('/[^a-zA-Z0-9]/', '', trim($prefix)) ?? '';
+
+        return $prefix !== '' ? $prefix : self::DEFAULT_PREFIX;
+    }
+
+    public static function normalizeFormat(?string $format): string
+    {
+        if (! filled($format)) {
+            return self::DEFAULT_FORMAT;
+        }
+
+        $format = trim((string) $format);
+        if ($format === '') {
+            return self::DEFAULT_FORMAT;
+        }
+
+        $format = preg_replace('/[^{}a-zA-Z0-9_\-]/', '', $format) ?? '';
+
+        return $format !== '' ? $format : self::DEFAULT_FORMAT;
+    }
+
+    public static function resolveAccountLabel(int|string $accountId, int|string|null $suffix = null): string
+    {
+        $botUser = BotUser::query()->where('account_id', $accountId)->first();
+        $useAlias = self::useAdminAliasInConfigName();
+        $label = ($useAlias && $botUser && filled($botUser->admin_alias))
+            ? trim($botUser->admin_alias)
+            : (string) $accountId;
+
+        if ($suffix !== null && $suffix !== '') {
+            return "{$label}-{$suffix}";
+        }
+
+        return $label;
+    }
+
+    public static function resolvePanelAccountLabel(
+        int|string|null $chatId,
+        int|string|null $productId = null,
+        ?string $fallbackAccountId = null,
+    ): string {
+        if ($chatId !== null && $chatId !== '') {
+            return self::resolveAccountLabel($chatId, $productId);
+        }
+
+        return (string) ($fallbackAccountId ?? '');
+    }
+
+    public static function applyFormat(string $format, array $vars): string
+    {
+        $replacements = [
+            '{prefix}' => (string) ($vars['prefix'] ?? self::getPrefix()),
+            '{account_id}' => (string) ($vars['account_id'] ?? ''),
+            '{account_label}' => (string) ($vars['account_label'] ?? ''),
+            '{chat_id}' => (string) ($vars['chat_id'] ?? ''),
+            '{product_id}' => (string) ($vars['product_id'] ?? ''),
+            '{random}' => (string) ($vars['random'] ?? ''),
+        ];
+
+        return str_replace(array_keys($replacements), array_values($replacements), $format);
+    }
+
+    /**
+     * @return array{account_label: string, account_id: string, chat_id: string, product_id: string}
+     */
+    public static function resolveNameVars(
+        string $accountLabel,
+        int|string|null $chatId = null,
+        int|string|null $productId = null,
+    ): array {
+        $accountId = $chatId !== null ? (string) $chatId : '';
+        $resolvedProductId = $productId !== null ? (string) $productId : '';
+
+        if ($accountId === '' && preg_match('/^(.+)-([^-]+)$/', $accountLabel, $matches) === 1) {
+            $accountId = $matches[1];
+            $resolvedProductId = $resolvedProductId !== '' ? $resolvedProductId : $matches[2];
+        }
+
+        return [
+            'account_label' => $accountLabel,
+            'account_id' => $accountId,
+            'chat_id' => $accountId,
+            'product_id' => $resolvedProductId,
+        ];
+    }
+
+    public static function buildHiddifyName(
+        string $accountLabel,
+        int|string|null $chatId = null,
+        int|string|null $productId = null,
+    ): string {
+        $vars = self::resolveNameVars($accountLabel, $chatId, $productId);
+        $vars['prefix'] = self::getPrefix();
+
+        return self::applyFormat(self::getFormat(), $vars);
+    }
+
+    public static function buildSanaeiClientId(
+        string $accountLabel,
+        ?string $randomSuffix = null,
+        int|string|null $chatId = null,
+        int|string|null $productId = null,
+    ): string {
+        $random = $randomSuffix ?? Str::random(4);
+        $format = self::getFormat();
+        $vars = self::resolveNameVars($accountLabel, $chatId, $productId);
+        $vars['prefix'] = self::getPrefix();
+        $vars['random'] = $random;
+
+        $name = self::applyFormat($format, $vars);
+        if (! str_contains($format, '{random}')) {
+            $name .= '-' . $random;
+        }
+
+        return $name;
+    }
+
+    public static function buildMarzbanFallbackUsername(int|string $chatId, int|string $productId): string
+    {
+        $vars = [
+            'prefix' => self::getPrefix(),
+            'account_label' => "{$chatId}-{$productId}",
+            'account_id' => (string) $chatId,
+            'chat_id' => (string) $chatId,
+            'product_id' => (string) $productId,
+        ];
+
+        $format = self::getFormat();
+        if (str_contains($format, '{chat_id}') || str_contains($format, '{product_id}')) {
+            return self::applyFormat($format, $vars);
+        }
+
+        return self::applyFormat(self::DEFAULT_MARZBAN_FORMAT, $vars);
+    }
+
+    public static function buildMarzbanTestFallbackUsername(int|string $chatId): string
+    {
+        return self::getPrefix() . "{$chatId}Test";
+    }
+
+    public static function preview(string $format, string $prefix): string
+    {
+        return self::applyFormat(self::normalizeFormat($format), [
+            'prefix' => self::normalizePrefix($prefix),
+            'account_id' => '123456789',
+            'account_label' => '123456789-42',
+            'chat_id' => '123456789',
+            'product_id' => '42',
+            'random' => 'abcd',
+        ]);
+    }
+
+    public static function useAdminAliasInConfigName(): bool
+    {
+        $setting = Setting::query()->first();
+        if ($setting === null || $setting->use_admin_alias_in_config_name === null) {
+            return true;
+        }
+
+        return (bool) $setting->use_admin_alias_in_config_name;
+    }
+}

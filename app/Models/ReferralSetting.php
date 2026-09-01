@@ -1,3 +1,49 @@
 <?php
-bolt_decrypt( __FILE__ , 'tj8e15'); return 0;
-##!!!##6+tPQk5GVFFCREYBIlFRPS5QRUZNVBzr61ZURgEqTU1WTkpPQlVGPSVCVUJDQlRGPSZNUFJWRk9VPSdCRFVQU0pGVD0pQlQnQkRVUFNaHOtWVEYBKk1NVk5KT0JVRj0lQlVCQ0JURj0mTVBSVkZPVT0uUEVGTRzr60RNQlRUATNGR0ZTU0JNNEZVVUpPSAFGWVVGT0VUAS5QRUZN61zrAQEBAVZURgEpQlQnQkRVUFNaHOvrAQEBAVFTUFVGRFVGRQEFR0pNTUJDTUYBHgE86wEBAQEBAQEBCEVGVERTSlFVSlBPCA3rAQEBAQEBAQEIV0pUSlVAREJTRUBVRllVCA3rAQEBAQEBAQEIU0ZHRlNTQk1AUUZTREZPVQgN6wEBAQEBAQEBCEpUQEJEVUpXRggN6wEBAQE+HOvrAQEBAVFTUFVGRFVGRQEFREJUVVQBHgE86wEBAQEBAQEBCFNGR0ZTU0JNQFFGU0RGT1UIAR4fAQhHTVBCVQgN6wEBAQEBAQEBCEpUQEJEVUpXRggBHh8BCENQUE1GQk8IDesBAQEBPhzr6wEBAQEQCwvrAQEBAQELATVTSk4BRUZESk5CTQFbRlNQVAFYSlVJUFZVAVVWU09KT0gBExEBSk9VUAETAVBTARIREQFKT1VQARIP6wEBAQEBCxDrAQEBAVFWQ01KRAFUVUJVSkQBR1ZPRFVKUE8BR1BTTkJVMUZTREZPVTdCTVZGCU5KWUZFAQVRRlNERk9VChsBVFVTSk9I6wEBAQFc6wEBAQEBAQEBBUdQU05CVVVGRQEeAU9WTkNGU0BHUFNOQlUJCUdNUEJVCgEFUUZTREZPVQ0BEw0BCA8IDQEICAoc6wEBAQEBAQEBBVVTSk5ORkUBHgFTVVNKTglTVVNKTgkFR1BTTkJVVUZFDQEIEQgKDQEIDwgKHOvrAQEBAQEBAQFTRlVWU08BBVVTSk5ORkUBHh4eAQgIASABCBEIARsBBVVTSk5ORkUc6wEBAQFe6+sBAQEBUVZDTUpEAVRVQlVKRAFHVk9EVUpQTwFEUE5OSlRUSlBPJ1NQTiJOUFZPVQlHTVBCVQEFQk5QVk9VNVBOQk8NAU5KWUZFAQVRRlNERk9VChsBR01QQlXrAQEBAVzrAQEBAQEBAQEFUUZTREZPVQEeAQlHTVBCVQoBBVFGU0RGT1Uc6wEBAQEBAQEBSkcBCQVCTlBWT1U1UE5CTwEdHgERAV1dAQVRRlNERk9VAR0eAREKAVzrAQEBAQEBAQEBAQEBU0ZVVlNPAREPERzrAQEBAQEBAQFe6+sBAQEBAQEBAVNGVVZTTwFTUFZPRQkJBUJOUFZPVTVQTkJPARABEhERCgELAQVRRlNERk9VDQETChzrAQEBAV7r6wEBAQFRVkNNSkQBR1ZPRFVKUE8BR1BTTkJVVUZFMUZTREZPVQkKGwFUVVNKT0jrAQEBAVzrAQEBAQEBAQFTRlVWU08BVEZNRxsbR1BTTkJVMUZTREZPVTdCTVZGCQVVSUpUDh9TRkdGU1NCTUBRRlNERk9VChzrAQEBAV7rXus=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ReferralSetting extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'description',
+        'visit_card_text',
+        'referral_percent',
+        'is_active',
+    ];
+
+    protected $casts = [
+        'referral_percent' => 'float',
+        'is_active' => 'boolean',
+    ];
+
+    /**
+     * Trim decimal zeros without turning 20 into 2 or 100 into 1.
+     */
+    public static function formatPercentValue(mixed $percent): string
+    {
+        $formatted = number_format((float) $percent, 2, '.', '');
+        $trimmed = rtrim(rtrim($formatted, '0'), '.');
+
+        return $trimmed === '' ? '0' : $trimmed;
+    }
+
+    public static function commissionFromAmount(float $amountToman, mixed $percent): float
+    {
+        $percent = (float) $percent;
+        if ($amountToman <= 0 || $percent <= 0) {
+            return 0.0;
+        }
+
+        return round(($amountToman / 100) * $percent, 2);
+    }
+
+    public function formattedPercent(): string
+    {
+        return self::formatPercentValue($this->referral_percent);
+    }
+}

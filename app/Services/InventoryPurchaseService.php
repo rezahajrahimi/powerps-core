@@ -1,3 +1,71 @@
 <?php
-bolt_decrypt( __FILE__ , 'L0rB3O'); return 0;
-##!!!##vLwgEx8XJSITFRfS8yIiDgUXJCgbFRcl7by8JyUX0vMiIg76JiYiDvUhICYkIR4eFyQlDgITICAXHvUhICYkIR4eFyTtvCclF9LzIiIO+iYmIg71ISAmJCEeHhckJQ4CJCEWJxUm9SEgJiQhHh4XJO28JyUX0vMiIg7/IRYXHiUOAiQhFicVJu28JyUX0vMiIg7/IRYXHiUOAiQhFicVJvUTJhcZISQr7bwnJRfS8yIiDgUXJCgbFRclDgYXHhcZJBMfBRckKBsVF+28vBUeEyUl0vsgKBcgJiEkKwInJBUaEyUXBRckKBsVF7wtvNLS0tIiJxQeGxXSGCcgFSYbISDSEREVISAlJiQnFSbavNLS0tLS0tLSIiQbKBMmF9IkFxMWISAeK9ICJCEWJxUm9SEgJiQhHh4XJNLWIiQhFicVJvUhICYkIR4eFyTS79IgFynSAiQhFicVJvUhICYkIR4eFyTa29680tLS0tLS0tIiJBsoEyYX0iQXExYhIB4r0gITICAXHvUhICYkIR4eFyTS1iITIBce9SEgJiQhHh4XJNLv0iAXKdICEyAgFx71ISAmJCEeHhck2tvevNLS0tLS0tLSIiQbKBMmF9IkFxMWISAeK9IGFx4XGSQTHwUXJCgbFRfS1iYXHhcZJBMfBRckKBsVF9Lv0iAXKdIGFx4XGSQTHwUXJCgbFRfa29680tLS0tvSLbzS0tLSL7y80tLS0iInFB4bFdIYJyAVJhshINIWFx4bKBck+yAoFyAmISQrAiQhFicVJtoCJCEWJxUm9RMmFxkhJCvS1hUTJhcZISQr3tIbICYuJSYkGyAZ0tYVGhMm+xbb7NIbICYuGBMeJRe80tLS0i280tLS0tLS0tLWIiQhFicVJtLv0tYmGhsl3/AiJCEWJxUm9SEgJiQhHh4XJN/wGRcmAiQhFicVJvUhIBgbGfMgFvUaEyAZFwUmEyYnJdrWFRMmFxkhJCvf8BsW3tLWFRoTJvsW2+280tLS0tLS0tIbGNLa1iIkIRYnFSbS7+/v0iAnHh7b0i280tLS0tLS0tLS0tLSJBcmJyQg0hgTHiUX7bzS0tLS0tLS0i+8vNLS0tLS0tLS1iYaGyXf8CUXIBb2Fx4bKBckK/8XJSUTGRcl2tYVEyYXGSEkK97S1iIkIRYnFSbe0tYVGhMm+xbb7by80tLS0tLS0tIkFyYnJCDS2hsgJtvS1iIkIRYnFSbf8BsW7bzS0tLSL7y80tLS0iInFB4bFdIYJyAVJhshINIkIR4eFBMVHfYXHhsoFyQr2hsgJtLWIiQhFicVJvsW2+zSFCEhHrzS0tLSLbzS0tLS0tLS0iQXJickINLWJhobJd/wIiQhFicVJvUhICYkIR4eFyTf8CQXHhcTJRf7ICgXICYhJCsCJCEWJxUm2tYiJCEWJxUm+xbb7bzS0tLSL7y80tLS0iIkGygTJhfSGCcgFSYbISDSJRcgFvYXHhsoFyQr/xclJRMZFyXaAiQhFicVJvUTJhcZISQr0tYVEyYXGSEkK97SAiQhFicVJtLWIiQhFicVJt7SGyAmLiUmJBsgGdLWFRoTJvsW2+zSKCEbFrzS0tLSLbzS0tLS0tLS0tYmFyom0u/S1IpgimONPoph0opmizeKWdKKWopZ0os3izqLM4s0jT6KXNKKWYs4il6KWYs30opmimEOJA4g1O28vNLS0tLS0tLSGxjS2tPSFx8iJiva1iIkIRYnFSbf8CITIBceER4bIB3b0tjY0tYVEyYXGSEkK9/wJRohKREiEyAgFx4RHhsgHdvSLbzS0tLS0tLS0tLS0tLWJhcqJtLg79LUizaNPos4jFvSi3CLOIs20opmizeKWdKKWopjilmNPtKLN4pmilmLOYphiznSilmKaYs2ilmKa4pZilzSilqKZYpciznSimCKY40+imGKWYpjjT7SimaKYYs57NIt1iIkIRYnFSbf8CITIBceER4bIB0vDiQOINTtvNLS0tLS0tLSL7y80tLS0tLS0tIbGNLa09IXHyImK9rWIiQhFicVJt/wJScUJRUkGyImGyEgER4bIB3b0tjY0tYVEyYXGSEkK9/wJRohKRElJxQlFSQbIiYbISARHhsgHdvSLbzS0tLS0tLS0tLS0tLWJScUJRUkGyImGyEg/hsgHdLv0tYiJCEWJxUm3/AlJxQlFSQbIiYbISARHhsgHe280tLS0tLS0tLS0tLS1iYXKibS4O/S1Is2jT6LOIxb0oplilmKWopljFuKY40+i3CKZos47NIt1iUnFCUVJBsiJhshIP4bIB0vDiQOINTtvNLS0tLS0tLS0tLS0tYbHxMZF9Lv0tYmGhsl3/AiEyAXHvUhICYkIR4eFyTf8BkXIBckEyYXAyT/AfXa1iUnFCUVJBsiJhshIP4bIB3b7bzS0tLS0tLS0tLS0tLWJhcqJtLg79LUizmLN4w4iziNPos40os3jT6UMj6KXIs6ilmLOI0+imHSAwT1IRYX0opZimOKZYpZizaUMj6KZophiznSimOKWdKKWYpljFuLONKLOIs3ilmNPo0+imHgDiQOINTtvNLS0tLS0tLS0tLS0tYmGhsl3/AmFx4XGSQTHwUXJCgbFRff8CUXIBYCGiEmIfgbHhfa1hUaEyb7Ft7S1hsfExkX3tLWJhcqJtvtvNLS0tLS0tLS0tLS0tYmFyom0u/S2dntvNLS0tLS0tLSL7y80tLS0tLS0tIbGNLa1hUTJhcZISQr3/AlGiEnHhYFFyAW9SEgGBsZBiEHJRck2tvS2NjS09IXHyImK9rWIiQhFicVJt/wFSEgGBsZJdvb0i280tLS0tLS0tLS0tLS1hUhIBgbGf4bIB0l0u/SAiQhFicVJvUTJhcZISQr7OwXKiYkExUm9SEgGBsZ/hsgHSXa1iIkIRYnFSbf8BUhIBgbGSXb7bzS0tLS0tLS0tLS0tIbGNLa1hUhIBgbGf4bIB0l0tPv79IND9vSLbzS0tLS0tLS0tLS0tLS0tLSGCEkFxMVGtLa1hUhIBgbGf4bIB0l0hMl0tYeGyAd29ItvNLS0tLS0tLS0tLS0tLS0tLS0tLS1hsfExkX0u/S1iYaGyXf8CITIBce9SEgJiQhHh4XJN/wGRcgFyQTJhcDJP8B9drWHhsgHdvtvNLS0tLS0tLS0tLS0tLS0tLS0tLS1iYaGyXf8CYXHhcZJBMfBRckKBsVF9/wJRcgFgIaISYh+BseF9rWFRoTJvsW3tLWGx8TGRfe0tYeGyAd2+280tLS0tLS0tLS0tLS0tLS0i+80tLS0tLS0tLS0tLS0tLS0tYmFyom0u/S2dntvNLS0tLS0tLS0tLS0i/SFx4lFxsY0tobJRElJiQbIBna1iIkIRYnFSbf8BUhIBgbGSXb29ItvNLS0tLS0tLS0tLS0tLS0tLWJhcqJtLg79LUjFuKWYs4izONPoxh7A4kDiAt1iIkIRYnFSbf8BUhIBgbGSUvDiQOINTtvNLS0tLS0tLS0tLS0i+80tLS0tLS0tIvvLzS0tLS0tLS0hsY0trWJhcqJtLT7+/S2dnb0i280tLS0tLS0tLS0tLS1iYaGyXf8CYXHhcZJBMfBRckKBsVF9/wJRcgFv8XJSUTGRfa1hUaEyb7Ft7S1iYXKibb7bzS0tLS0tLS0i+80tLS0i+8L7w=
+
+namespace App\Services;
+
+use App\Http\Controllers\PannelController;
+use App\Http\Controllers\ProductController;
+use App\Models\Product;
+use App\Models\ProductCategory;
+use App\Services\TelegramService;
+
+class InventoryPurchaseService
+{
+    public function __construct(
+        private readonly ProductController $productController = new ProductController(),
+        private readonly PannelController $panelController = new PannelController(),
+        private readonly TelegramService $telegramService = new TelegramService(),
+    ) {
+    }
+
+    public function deliverInventoryProduct(ProductCategory $category, int|string $chatId): int|false
+    {
+        $product = $this->productController->getProductConfigAndChangeStatus($category->id, $chatId);
+        if ($product === null) {
+            return false;
+        }
+
+        $this->sendDeliveryMessages($category, $product, $chatId);
+
+        return (int) $product->id;
+    }
+
+    public function rollbackDelivery(int $productId): bool
+    {
+        return $this->productController->releaseInventoryProduct($productId);
+    }
+
+    private function sendDeliveryMessages(ProductCategory $category, Product $product, int|string $chatId): void
+    {
+        $text = "خرید شما با موفقیت انجام شد\r\n";
+
+        if (! empty($product->panel_link) && $category->show_pannel_link) {
+            $text .= "لینک پنل شما برای مشاهده اطلاعات بسته خریداری شده: {$product->panel_link}\r\n";
+        }
+
+        if (! empty($product->subscription_link) && $category->show_subscription_link) {
+            $subscriptionLink = $product->subscription_link;
+            $text .= "لینک سابسکریپشن: {$subscriptionLink}\r\n";
+            $image = $this->panelController->generateQrMOC($subscriptionLink);
+            $text .= "همچنین می‌توانید QRCode ارسال‌شده را اسکن نمایید.\r\n";
+            $this->telegramService->sendPhotoFile($chatId, $image, $text);
+            $text = '';
+        }
+
+        if ($category->shouldSendConfigToUser() && ! empty($product->configs)) {
+            $configLinks = ProductCategory::extractConfigLinks($product->configs);
+            if ($configLinks !== []) {
+                foreach ($configLinks as $link) {
+                    $image = $this->panelController->generateQrMOC($link);
+                    $this->telegramService->sendPhotoFile($chatId, $image, $link);
+                }
+                $text = '';
+            } elseif (is_string($product->configs)) {
+                $text .= "کانفیگ:\r\n{$product->configs}\r\n";
+            }
+        }
+
+        if ($text !== '') {
+            $this->telegramService->sendMessage($chatId, $text);
+        }
+    }
+}

@@ -1,3 +1,157 @@
 <?php
-bolt_decrypt( __FILE__ , 'K2TtcW'); return 0;
-##!!!##CW1gbGRyb2BiZB9Ab29bR3Nzb1tCbm1zcW5ra2RxcjoJCXRyZB9Ia2t0bGhtYHNkW0dzc29bUWRwdGRyczoJCWJrYHJyH0Fuc0ZkbWRxYGtCbm1zcW5ra2RxH2R3c2RtY3IfQm5tc3Fua2tkcQl6CR8fHx9vdGFraGIfZXRtYnNobm0fXl5ibm1yc3F0YnMnKAkfHx8fegkfHx8ffAkfHx8fLi4uH2JnZGJqHx9jbmtrYHFPYHgfaHIfdWBraGMfbnEfbW5zCR8fHx9vdGFraGIfZXRtYnNobm0fYmdkYmpDbmtrYHFPYHgnKAkfHx8fegkfHx8fHx8fHyNvYHhsbWRzUmRzc2htZkJtc3FrHzwfbWR2H09geGxkbXNSZHNzaG1mQm5tc3Fua2tkcScoOgkfHx8fHx8fHyNjbmtrYHFTcWBtcmBic2hubR88HyNvYHhsbWRzUmRzc2htZkJtc3FrLD1mZHNPYHhsZG1zUmRzc2htZlJzYHN0ckF4SmR4JyZ0cmNec3FgbXJgYnNobm0mKDoJHx8fHx8fHx8JHx8fHx8fHx9oZScjY25ra2BxU3FgbXJgYnNobm0fPDwfMB97ex8jY25ra2BxU3FgbXJgYnNobm0fPDwfc3F0ZCh6HwkfHx8fHx8fHx8fHx9bS25mOTlobWVuJyFjbmtrYHEfc3FgbXJgYnNobm0faHIfc3F0ZCEoOgkfHx8fHx8fHx8fHx9xZHN0cW0fc3F0ZDoJHx8fHx8fHx98H2RrcmQfegkfHx8fHx8fHx8fHx9bS25mOTlobWVuJyFjbmtrYHEfc3FgbXJgYnNobm0faHIfZWBrcmQhKDoJHx8fHx8fHx8fHx8fcWRzdHFtH2Vga3JkOgkfHx8fHx8fH3wJHx8fH3wJHx8fH290YWtoYh9ldG1ic2hubR9nbnZec25edHJkXmxkbXQnI2JnYHNeaGMoCR8fHx96CR8fHx8fHx8fc3F4H3oJHx8fHx8fHx8fHx8fI25vcR88H1pcOgkfHx8fHx8fHx8fHx9gcXFgeF5vdHJnJyNub3ErH1oJHx8fHx8fHx8fHx8fHx8fH1oJHx8fHx8fHx8fHx8fHx8fHx8fHx8mc2R3cyYfHx8fHx8fHx8fPD0fJteh2ITYh9ex17Mf16bXstep2IDXpteu2IYmKwkfHx8fHx8fHx8fHx8fHx8fHx8fHyZiYGtrYWBial5jYHNgJh88PR8mZ2RrbyxlYHByJisJHx8fHx8fHx8fHx8fHx8fH1wrCR8fHx8fHx8fHx8fH1woOgkfHx8fHx8fHx8fHx9gcXFgeF5vdHJnJyNub3ErH1oJHx8fHx8fHx8fHx8fHx8fH1oJHx8fHx8fHx8fHx8fHx8fHx8fHx8mc2R3cyYfHx8fHx8fHx8fPD0fJten17DYhdem2ITYhh/Yhtem2osf2ITYh9ew164f2IXai9em17EmKwkfHx8fHx8fHx8fHx8fHx8fHx8fHyZiYGtrYWBial5jYHNgJh88PR8mZ2Rrbyxgb29DbnZta25gYyYrCR8fHx8fHx8fHx8fHx8fHx9cKwkfHx8fHx8fHx8fHx9cKDoJHx8fHx8fHx8fHx8fI3Nkd3MfHx88Hybai9moH9mu17Hai9iF2IYf17DXph/XptiF16nXrdem16cf2ajYhdqL164tJjoJHx8fHx8fHx8fHx8fI3FkcnRrcx88H2Bvbycmc2RrZGZxYGxeYW5zJigsPWJubGxgbWNMZHJyYGZkJyNub3ErHyNiZ2BzXmhjKx8jc2R3cyg6CQkfHx8fHx8fHx8fHx9xZHN0cW0fI3FkcnRrczoJHx8fHx8fHx98H2Jgc2JnHydbU2dxbnZgYWtkHyNzZygfegkfHx8fHx8fHx8fHx9bS25mOTlobWVuJyFnbnZec25edHJkXmxkbXQfI3NnISg6CQkfHx8fHx8fHx8fHx9xZHN0cW0fI3NnOgkfHx8fHx8fH3wJHx8fH3wJHx8fH290YWtoYh9ldG1ic2hubR9obWJxZGByZF5gYmJudG1zXmFga2tgbWJkXmxkbXRebm1ea252XmFga2BtYmQnI2JnYHNeaGMrHyNkcnNobGBzZGNPcWhiZCsfI2Ryc2hsYHNkY09xaGJkSG1DbmtrYHEoCR8fHx96CR8fHx8fHx8fc3F4H3oJHx8fHx8fHx8fHx8fI2Foa2tCbXNxax8fHx8fHx8fHx8fPB9tZHYfQWhra0JubXNxbmtrZHEnKDoJHx8fHx8fHx8fHx8fI3FkcHRkcnMfHx8fHx8fHx8fHx8fPB9tZHYfUWRwdGRycycoOgkfHx8fHx8fHx8fHx8jcWRwdGRycyw9YGJibnRtc15oYx88HyNiZ2BzXmhjOgkfHx8fHx8fHx8fHx8jcWRwdGRycyw9YGxudG1zHx8fHx88HyNkcnNobGBzZGNPcWhiZDoJHx8fHx8fHx8fHx8fI2Foa2sfHx8fHx8fHx8fHx8fHx8fPB8jYWhra0Jtc3FrLD1icWRgc2RNZHZBaGtrJyNxZHB0ZHJzKDoJCR8fHx8fHx8fHx8fHy4uH3JkbXMfbm1raG1kH29geGxkbXMJHx8fHx8fHx8fHx8fI25vcR88H1pcOgkJHx8fHx8fHx8fHx8fLi4fYmdkYmofaGUfeWBxaG1vYGsJHx8fHx8fHx8fHx8fI294bEJtc3FrHzwfbWR2H09geGxkbXNTeG9kQm5tc3Fua2tkcScoOgkJHx8fHx8fHx8fHx8fI2dgcllgcWhtT2BrHzwfI294bEJtc3FrLD1mZHNZYHFobW9ga1JzYHN0cicoOgkfHx8fHx8fHx8fHx9oZR8nI2dgcllgcWhtT2BrHzw8H3NxdGQfe3sfI2dgcllgcWhtT2BrHzw8HzAoH3oJHx8fHx8fHx8fHx8fHx8fHy4uH3JkbWMfa2htagkJHx8fHx8fHx8fHx8fHx8fHy4uHyNub2RtS2htah88HyFnc3NvcjkuLmZubmZrbm5ua2gtYm5sIToJHx8fHx8fHx8fHx8fHx8fHy4uHyNub2RtS2htah88HyNveGxCbXNxayw9ZmRzWWBxaG1vYGtLaG1qJyg6CQkfHx8fHx8fHx8fHx8fHx8fLi4uLi4JHx8fHx8fHx8fHx8fHx8fHyNzcUJtc3FrHx8fHx8fHx8fHx8fHx8fPB9tZHYfU3FgbXJgYnNobm1Cbm1zcW5ra2RxJyg6CR8fHx8fHx8fHx8fHx8fHx8jc3FRZHB0ZHJzHx8fHx8fHx8fHx8fHzwfbWR2H1FkcHRkcnMnKDoJHx8fHx8fHx8fHx8fHx8fHyNzcVFkcHRkcnMsPWhtdW5oYmRIQx8fPB8jYWhrayw9YWhra15oYzoJHx8fHx8fHx8fHx8fHx8fHyNzcVFkcHRkcnMsPWBiYm50bXNeaGMfPB8jYmdgc15oYzoJHx8fHx8fHx8fHx8fHx8fHyNzcVFkcHRkcnMsPWBsbnRtcx8fHx8fPB8jZHJzaGxgc2RjT3FoYmQ6CR8fHx8fHx8fHx8fHx8fHx8jb2B4bGRtc0tobWofHx8fHx8fHx8fHzwfI3NxQm1zcWssPWBjY15ucWNkcScjc3FRZHB0ZHJzKDoJCR8fHx8fHx8fHx8fHx8fHx8jZmRtZHFga0Jtc3FrHzwfbWR2H0ZkbWRxYGtCbm1zcW5ra2RxJyg6CR8fHx8fHx8fHx8fHx8fHx8uLh8fI3lgcWhtT2BrHzwfI2ZkbWRxYGtCbXNxayw9ZmRzXnlgcWhtb2BrXm9geGxkbXNea2htal5lcW5sXmdzbGsnI29geGxkbXNLaG1qKDoJCR8fHx8fHx8fHx8fHx8fHx8uLgkJHx8fHx8fHx8fHx8fHx8fH2BxcWB4Xm90cmcnI25vcSsfWgkfHx8fHx8fHx8fHx8fHx8fHx8fH1oJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fJnNkd3MmHzw9HyHYvdew167Xptet16kf16HYhdiD16bai9iFHyNkcnNobGBzZGNPcWhiZB/XqdiH2ITXptiFISsJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fJnRxayYfHzw9HyEjb2B4bGRtc0tobWohKwkfHx8fHx8fHx8fHx8fHx8fHx8fH1wrCR8fHx8fHx8fHx8fHx8fHx9cKDoJHx8fHx8fHx8fHx8ffAkfHx8fHx8fHx8fHx8uLh9iZ2Riah9och9jbmtrYHNvYHgfZG1gYWtkYx9ucR9tbnMJHx8fHx8fHx8fHx8faGUfJyNzZ2hyLD1iZ2RiakNua2tgcU9geCcoHzw8H3NxdGQfe3sfI3NnaHIsPWJnZGJqQ25ra2BxT2B4JygfPDwfMCgfegkfHx8fHx8fHx8fHx8fHx8fI2BsbnRtcx88HyNkcnNobGBzZGNPcWhiZEhtQ25ra2BxOgkJHx8fHx8fHx8fHx8fHx8fHyNxZHB0ZHJzHzwfbWR2H1FkcHRkcnMnKDoJCR8fHx8fHx8fHx8fHx8fHx8jcWRwdGRycyw9YGJibnRtc15oYx88HyNiZ2BzXmhjOgkfHx8fHx8fHx8fHx8fHx8fI3FkcHRkcnMsPWBsbnRtcx8fHx8fPB8jYGxudG1zOgkfHx8fHx8fHx8fHx8fHx8fI2Foa2tCbXNxax8fHx8fHx8fHx8fPB9tZHYfQWhra0JubXNxbmtrZHEnKDoJCR8fHx8fHx8fHx8fHx8fHx8jYWhrax88HyNhaGtrQm1zcWssPWJxZGBzZE1kdkFoa2tIbUNua2tgcScjcWRwdGRycyg6CQkfHx8fHx8fHx8fHx8fHx8fI25vZG1LaG1qHzwfI294bEJtc3FrLD1mZHNNbnZPYHhsZG1zcktobWonKDoJHx8fHx8fHx8fHx8fHx8fHy4uLgkfHx8fHx8fHx8fHx8fHx8fI3NxQnF4b3NuQm1zcWsfHx8fHx8fHx88H21kdh9TcWBtcmBic2hubUJxeG9zbkJubXNxbmtrZHEnKDoJHx8fHx8fHx8fHx8fHx8fHyNzcVFkcHRkcnMfHx8fHx8fHx8fHx8fPB9tZHYfUWRwdGRycycoOgkfHx8fHx8fHx8fHx8fHx8fI3NxUWRwdGRycyw9aG11bmhiZEhDHx88HyNhaGtrLD1haGtrXmhjOgkfHx8fHx8fHx8fHx8fHx8fI3NxUWRwdGRycyw9YGJibnRtc15oYx88HyNiZ2BzXmhjOgkfHx8fHx8fHx8fHx8fHx8fI3NxUWRwdGRycyw9YGxudG1zHx8fHx88HyNgbG50bXM6CR8fHx8fHx8fHx8fHx8fHx8jb2B4bGRtc0tobWofHx8fHx8fHx8fHzwfI3NxQnF4b3NuQm1zcWssPWBjY15ucWNkcV5icXhvc25eYXhebW52b2B4bGRtcycjc3FRZHB0ZHJzKDoJCR8fHx8fHx8fHx8fHx8fHx8jZmRtZHFga0Jtc3FrHx8fPB9tZHYfRmRtZHFga0JubXNxbmtrZHEnKDoJHx8fHx8fHx8fHx8fHx8fHyNtbnZvYHhsZG1zS2htah88HyNmZG1kcWBrQm1zcWssPWZkc15tbnZvYHhsZG1zXm9geGxkbXNea2htal5lcW5sXmdzbGsnI29geGxkbXNLaG1qKDoJHx8fHx8fHx8fHx8fHx8fHy4uHy4uLgkfHx8fHx8fHx8fHx8fHx8fYHFxYHheb3RyZycjbm9xKx9aCR8fHx8fHx8fHx8fHx8fHx8fHx8fWgkfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8mc2R3cyYfPD0fIdi917DXrtem163XqR/XodiF2IPXptqL2IUfI2BsbnRtcx/XrtiD16bXsCErCR8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyZ0cWsmHx88PR8hI21udm9geGxkbXNLaG1qISsJHx8fHx8fHx8fHx8fHx8fHx8fHx9cKwkfHx8fHx8fHx8fHx8fHx8fXCg6CR8fHx8fHx8fHx8fH3wJCR8fHx8fHx8fHx8fHy4uH2JnZGJqH25vcR9och9tbnMfZGxvc3gJCR8fHx8fHx8fHx8fH2hlHydibnRtcycjbm9xKB89Hy8oH3oJHx8fHx8fHx8fHx8fHx8fHyNzZHdzHx8fPB8m2ovZqNqLH9em17Ef17DYh9ez4X+L2IbXptqLH9i917DXrtem163XqR/XsNemH9em2IXXqdet16bXpx/ZqNiF2ovXri0mOgkfHx8fHx8fHx8fHx8fHx8fI3FkcnRrcx88H2Bvbycmc2RrZGZxYGxeYW5zJigsPWhta2htZEpkeGFuYHFjQXRzc25tJyNzZHdzKx8jbm9xKx8jYmdgc15oYysfJiYoOgkfHx8fHx8fHx8fHx98CQkfHx8fHx8fHx8fHx8uLh9yZG1jH25lZWtobWQfaHNkbAkfHx8fHx8fHx8fHx8jbmVla2htZE9geGxkbXMfPB8jb3hsQm1zcWssPWZkc0Bra0Bic2h1ZE5lZWtobWRPYHhsZG1zU3hvZHInKDoJHx8fHx8fHx8fHx8faGUfJyNuZWVraG1kT2B4bGRtcx8gPB9tdGtrKB96CR8fHx8fHx8fHx8fHx8fHx8jb3hsTGRtQm1zcWsfPB9tZHYfT2B4bGRtc0xkbXRIc2RsQm5tc3Fua2tkcScoOgkfHx8fHx8fHx8fHx8fHx8faGUfJyNnYHJZYHFobU9gax88PB9zcXRkH3t7HyNnYHJZYHFobU9gax88PB8wH3t7HyNzZ2hyLD1iZ2RiakNua2tgcU9geCcoHzw8H3NxdGQfe3sfI3NnaHIsPWJnZGJqQ25ra2BxT2B4JygfPDwfMCgfegkfHx8fHx8fHx8fHx8fHx8fHx8fHyNzZHdzHzwfJtiG2ITZhdiF2ovYhR/YhNqLH9ep2IfXptiF2ovXrh/Xp9emH9em2IXXqdet16bXpx/ai9mo2osf16bXsR/Zrtex2ovYhdiGH9iG16baix/XsdqL17Af2IXXsten16kf16fYhh/Yvdew167Xptet16kf16bYgdeu16bYhB/YhdiE16bai9qL164tJjoJHx8fHx8fHx8fHx8fHx8fH3wfZGtyZB96CR8fHx8fHx8fHx8fHx8fHx8fHx8fI2xgaG1MZG10HzwfI294bExkbUJtc3FrLD1mZHNPYHhsZG1zU3hvZExgaG1MZG10U2hza2QnKDoJHx8fHx8fHx8fHx8fHx8fHx8fHx8jc2R3cx8fHx8fPB8jbGBobUxkbXQsPWBraGByXm1gbGQ6CR8fHx8fHx8fHx8fHx8fHx98CQkfHx8fHx8fHx8fHx8fHx8fI25vcR88H1pcOgkJHx8fHx8fHx8fHx8fHx8fH2VucWRgYmcfJyNuZWVraG1kT2B4bGRtcx9gch8jamR4Hzw9HyN1YGt0ZCgfegkfHx8fHx8fHx8fHx8fHx8fHx8fH2BxcWB4Xm90cmcnI25vcSsfWlomc2R3cyYfPD0fISN1YGt0ZCw9bWBsZCErHyZiYGtrYWBial5jYHNgJh88PR8hcnRhQGJibnRtc0Fga2BtYmQsI3Vga3RkLD1tYGxkHyFcXCg6CR8fHx8fHx8fHx8fHx8fHx98CQkfHx8fHx8fHx8fHx8fHx8fI3FkcnRrcx88H2Bvbycmc2RrZGZxYGxeYW5zJigsPWJubGxgbWNMZHJyYGZkJyNub3ErHyNiZ2BzXmhjKx8jc2R3cyg6CR8fHx8fHx8fHx8fH3wJHx8fHx8fHx98H2Jgc2JnHydbU2dxbnZgYWtkHyNzZygfegkfHx8fHx8fHx8fHx9bS25mOTlobWVuJyFobWJxZGByZF5gYmJudG1zXmFga2tgbWJkXmxkbXRebm1ea252XmFga2BtYmQfI3NnISg6CQkfHx8fHx8fHx8fHx9xZHN0cW0fI3NnOgkfHx8fHx8fH3wJHx8fH3wJfAk=
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class BotGeneralController extends Controller
+{
+    public function __construct()
+    {
+    }
+    /// check  dollarPay is valid or not
+    public function checkDollarPay()
+    {
+        $paymnetSettingCntrl = new PaymentSettingController();
+        $dollarTransaction = $paymnetSettingCntrl->getPaymentSettingStatusByKey('usd_transaction');
+        
+        if($dollarTransaction == 1 || $dollarTransaction == true){ 
+            \Log::info("dollar transaction is true");
+            return true;
+        } else {
+            \Log::info("dollar transaction is false");
+            return false;
+        }
+    }
+    public function how_to_use_menu($chat_id)
+    {
+        try {
+            $opr = [];
+            array_push($opr, [
+                [
+                    'text'          => 'آموزش استفاده',
+                    'callback_data' => 'help-faqs',
+                ],
+            ]);
+            array_push($opr, [
+                [
+                    'text'          => 'برنامه های مورد نیاز',
+                    'callback_data' => 'help-appDownload',
+                ],
+            ]);
+            $text   = 'یک گزینه را انتخاب کنید.';
+            $result = app('telegram_bot')->commandMessage($opr, $chat_id, $text);
+
+            return $result;
+        } catch (\Throwable $th) {
+            \Log::info("how_to_use_menu $th");
+
+            return $th;
+        }
+    }
+    public function increase_account_ballance_menu_on_low_balance($chat_id, $estimatedPrice, $estimatedPriceInDollar)
+    {
+        try {
+            $billCntrl           = new BillController();
+            $request             = new Request();
+            $request->account_id = $chat_id;
+            $request->amount     = $estimatedPrice;
+            $bill                = $billCntrl->createNewBill($request);
+
+            // sent online payment
+            $opr = [];
+
+            // check if zarinpal
+            $pymCntrl = new PaymentTypeController();
+
+            $hasZarinPal = $pymCntrl->getZarinpalStatus();
+            if ($hasZarinPal == true || $hasZarinPal == 1) {
+                // send link
+
+                // $openLink = "https://googloooli.com";
+                // $openLink = $pymCntrl->getZarinpalLink();
+
+                /////
+                $trCntrl               = new TransactionController();
+                $trRequest             = new Request();
+                $trRequest->invoiceID  = $bill->bill_id;
+                $trRequest->account_id = $chat_id;
+                $trRequest->amount     = $estimatedPrice;
+                $paymentLink           = $trCntrl->add_order($trRequest);
+
+                $generalCntrl = new GeneralController();
+                //  $zarinPal = $generalCntrl->get_zarinpal_payment_link_from_html($paymentLink);
+
+                //
+
+                array_push($opr, [
+                    [
+                        'text' => "پرداخت آنلاین $estimatedPrice تومان",
+                        'url'  => "$paymentLink",
+                    ],
+                ]);
+            }
+            // check is dollatpay enabled or not
+            if ($this->checkDollarPay() == true || $this->checkDollarPay() == 1) {
+                $amount = $estimatedPriceInDollar;
+
+                $request = new Request();
+
+                $request->account_id = $chat_id;
+                $request->amount     = $amount;
+                $billCntrl           = new BillController();
+
+                $bill = $billCntrl->createNewBillInDollar($request);
+
+                $openLink = $pymCntrl->getNowPaymentsLink();
+                ///
+                $trCryptoCntrl         = new TransactionCryptoController();
+                $trRequest             = new Request();
+                $trRequest->invoiceID  = $bill->bill_id;
+                $trRequest->account_id = $chat_id;
+                $trRequest->amount     = $amount;
+                $paymentLink           = $trCryptoCntrl->add_order_crypto_by_nowpayment($trRequest);
+
+                $generalCntrl   = new GeneralController();
+                $nowpaymentLink = $generalCntrl->get_nowpayment_payment_link_from_html($paymentLink);
+                // ///
+                array_push($opr, [
+                    [
+                        'text' => "پرداخت آنلاین $amount دلار",
+                        'url'  => "$nowpaymentLink",
+                    ],
+                ]);
+            }
+
+            // check opr is not empty
+
+            if (count($opr) > 0) {
+                $text   = 'یکی از روش‌های پرداخت را انتخاب کنید.';
+                $result = app('telegram_bot')->inlineKeyboardButton($text, $opr, $chat_id, '');
+            }
+
+            // send offline item
+            $offlinePayment = $pymCntrl->getAllActiveOfflinePaymentTypes();
+            if ($offlinePayment != null) {
+                $pymMenCntrl = new PaymentMenuItemController();
+                if ($hasZarinPal == true || $hasZarinPal == 1 || $this->checkDollarPay() == true || $this->checkDollarPay() == 1) {
+                    $text = 'همچنین می توانید با انتخاب یکی از گزینه های زیر نسبت به پرداخت اقدام نمایید.';
+                } else {
+                    $mainMenu = $pymMenCntrl->getPaymentTypeMainMenuTitle();
+                    $text     = $mainMenu->alias_name;
+                }
+
+                $opr = [];
+
+                foreach ($offlinePayment as $key => $value) {
+                    array_push($opr, [['text' => "$value->name", 'callback_data' => "subAccountBalance-$value->name "]]);
+                }
+
+                $result = app('telegram_bot')->commandMessage($opr, $chat_id, $text);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("increase_account_ballance_menu_on_low_balance $th");
+
+            return $th;
+        }
+    }
+}

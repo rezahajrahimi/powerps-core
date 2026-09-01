@@ -1,3 +1,32 @@
 <?php
-bolt_decrypt( __FILE__ , 'JDLxEF'); return 0;
-##!!!##5+dLPkpCUE0+QEL9Hk1NOSpMQUJJUBjn51JQQv0mSUlSSkZLPlFCOSE+UT4/PlBCOSJJTE5SQktROSM+QFFMT0ZCUDklPlAjPkBRTE9WGOdSUEL9JklJUkpGSz5RQjkhPlE+Pz5QQjkiSUxOUkJLUTkqTEFCSRjn50BJPlBQ/S1PTFVW/UJVUUJLQVD9KkxBQknnWOf9/f39UlBC/SU+UCM+QFFMT1YY5/39/f1NT0xRQkBRQkH9AURSPk9BQkH9Gv04BEZBBAkETT5LS0JJPEZBBDoY5/39/f1NT0xRQkBRQkH9AUNGSUk+P0lC/Rr9OARNPktLQkk8RkEECf0EUVZNQgQJ/QRGUDw+QFFGU0IEOhjn/f39/QwHB+f9/f39/Qf9JEJR/VFFQv1SUEJP/VFFPlH9TFRLUP1RRUL9LU9MVVbn/f39/f0H5/39/f39B/0dT0JRUk9L/TkmSUlSSkZLPlFCOSE+UT4/PlBCOSJJTE5SQktROS9CST5RRkxLUDkfQklMS0RQMUzn/f39/f0HDOf9/f39TVI/SUZA/UNSS0BRRkxL/U0+S0tCSQUG5/39/f1Y5/39/f39/f39T0JRUk9L/QFRRUZQChs/QklMS0RQMUwFLT5LS0JJFxdAST5QUAn9BE0+S0tCSTxGQQQGGOf9/f39Wuf9/f39DAcH5/39/f39B/0kQlH9PklJ/UxD/VFFQv1ATEpKQktRUP1DTE/9UUVC/S1PTFVW5/39/f39B+f9/f39/Qf9HU9CUVJPS/05JklJUkpGSz5RQjkhPlE+Pz5QQjkiSUxOUkJLUTkvQkk+UUZMS1A5JT5QKj5LVuf9/f39/QcM5/39/f1NUj9JRkD9Q1JLQFFGTEv9Rks/TFJLQVAFBuf9/f39WOf9/f39/f39/U9CUVJPS/0BUUVGUAobRT5QKj5LVgUmSz9MUktBFxdAST5QUAn9BE1PTFVWPEZBBAYY5/39/f1a5+da5w==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Proxy extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id','pannel_id'];
+    protected $fillable = ['pannel_id', 'type', 'is_active'];
+    /**
+     * Get the user that owns the Proxy
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function pannel()
+    {
+        return $this->belongsTo(Pannel::class, 'pannel_id');
+    }
+    /**
+     * Get all of the comments for the Proxy
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function inbounds()
+    {
+        return $this->hasMany(Inbound::class, 'proxy_id');
+    }
+
+}

@@ -1,3 +1,80 @@
 <?php
-bolt_decrypt( __FILE__ , 'waevCH'); return 0;
-##!!!##SEisn6ujsa6foaNef66umpGjsLSnoaOxeUhIs7GjXn+urpqLraKjqrGajrOwoaafsaOHrLKjrLJ5SLOxo16Bn7CgrayagZ+woK2seUhIoaqfsbFejrOwoaafsaOHrLKjrLKRo7C0p6GjSLlIXl5eXq6zoKqnoV6ks6yhsqetrF6wo6GtsKJmsbKwp6ylXmKfoaGts6yyh6JqXqessl5ioZ+yo6WtsLeHompesbKwp6ylXmKxsp+lo2pefaessl5irrCtorOhsoeiXnterLOqqmd4Xo6zsKGmn7Gjh6yyo6yySF5eXl65SF5eXl5eXl5eYq2uo6xee16Os7Chpp+xo4essqOssnh4taajsKNmZZ+hoa2zrLKdp6Jlal5in6GhrbOssoeiZ0heXl5eXl5eXl5eXl5rfLWmo7CjZmWusK2is6GynaGfsqOlrbC3naeiZWpeYqGfsqOlrbC3h6JnSF5eXl5eXl5eXl5eXmt8taajsKOMs6qqZmWhrauuqqOyo6Kdn7JlZ0heXl5eXl5eXl5eXl5rfKqfsqOxsmZlp6JlZ0heXl5eXl5eXl5eXl5rfKSnsLGyZmd5SEheXl5eXl5eXqekXmZira6jrGdeuUheXl5eXl5eXl5eXl5ira6jrGt8s66in7KjZplIXl5eXl5eXl5eXl5eXl5eXmWxsp+lo2Vee3xeYrGyn6WjakheXl5eXl5eXl5eXl5eXl5eZa6wraKzobKdp6JlXnt8XmKusK2is6Gyh6JefX1eYq2uo6xrfK6wraKzobKdp6JqSF5eXl5eXl5eXl5eXptneUheXl5eXl5eXl5eXl6wo7KzsKxeYq2uo6x5SF5eXl5eXl5eu0hIXl5eXl5eXl6wo7KzsKxejrOwoaafsaOHrLKjrLJ4eKGwo5+yo2aZSF5eXl5eXl5eXl5eXmWfoaGts6yynaeiZV57fF5in6GhrbOssoeiakheXl5eXl5eXl5eXl5lrrCtorOhsp2hn7Kjpa2wt52nomVee3xeYqGfsqOlrbC3h6JqSF5eXl5eXl5eXl5eXmWusK2is6GynaeiZV57fF5irrCtorOhsoeiakheXl5eXl5eXl5eXl5lsbKfpaNlXnt8XmKxsp+lo2pIXl5eXl5eXl6bZ3lIXl5eXrtISF5eXl6us6Cqp6FepLOsobKnraxeoa2rrqqjsqOErbB/oaGts6yyZrGysKespV5in6GhrbOssoeial59p6yyXmKhn7Kjpa2wt4eiXnterLOqqmd4XrStp6JIXl5eXrlIXl5eXl5eXl5ir7OjsLdee16Os7Chpp+xo4essqOssnh4taajsKNmZZ+hoa2zrLKdp6Jlal5in6GhrbOssoeiZ2t8taajsKOMs6qqZmWhrauuqqOyo6Kdn7JlZ3lIXl5eXl5eXl6npF5mYqGfsqOlrbC3h6JeX3t7XqyzqqpnXrlIXl5eXl5eXl5eXl5eYq+zo7C3a3y1pqOwo2ZlrrCtorOhsp2hn7Kjpa2wt52nomVqXmKhn7Kjpa2wt4eiZ3lIXl5eXl5eXl67SF5eXl5eXl5eYq+zo7C3a3yzrqKfsqNmmWWhrauuqqOyo6Kdn7JlXnt8XoGfsKCtrHh4rK21ZmebZ3lIXl5eXrtISF5eXl5taGhIXl5eXl5oXn6wo7KzsKxemoeqqrOrp6yfsqOagp+yn6CfsaOag6qtr7OjrLKaga2qqqOhsqetrHqnrLJqXo6zsKGmn7Gjh6yyo6yyfEheXl5eXmhtSF5eXl6us6Cqp6FepLOsobKnraxepaOyhKewsbKQo6unrKKjsLFmsbKwp6ylXmKxsp+lo2pep6yyXmKmrbOwsZGnrKGjgbCjn7KjomdIXl5eXrlIXl5eXl5eXl6wo7KzsKxejrOwoaafsaOHrLKjrLJ4eLWmo7CjjLOqqmZloa2rrqqjsqOinZ+yZWdIXl5eXl5eXl5eXl5ea3y1pqOwo2ZlsbKfpaNlal5isbKfpaNnSF5eXl5eXl5eXl5eXmt8taajsKNmZbCjq6esoqOwnaGts6yyZWpebmdIXl5eXl5eXl5eXl5ea3y1pqOwo2ZlobCjn7Kjop2fsmVqXmV6e2VqXoGfsKCtrHh4rK21ZmdrfLGzoIats7CxZmKmrbOwsZGnrKGjgbCjn7KjomdnSF5eXl5eXl5eXl5eXmt8paOyZmd5SF5eXl67SEheXl5ebWhoSF5eXl5eaF5+sKOys7CsXpqHqqqzq6esn7KjmoKfsp+gn7GjmoOqra+zo6yymoGtqqqjobKnrax6p6yyal6Os7Chpp+xo4essqOssnxIXl5eXl5obUheXl5errOgqqehXqSzrKGyp62sXqWjsoStqqqttZOukKOrp6yio7CxZrGysKespV5isbKfpaNqXqessl5ipq2zsLGRp6yho4qfsbKQo6unrKKjsGdIXl5eXrlIXl5eXl5eXl6wo7KzsKxejrOwoaafsaOHrLKjrLJ4eLWmo7CjjLOqqmZloa2rrqqjsqOinZ+yZWdIXl5eXl5eXl5eXl5ea3y1pqOwo2ZlsbKfpaNlal5isbKfpaNnSF5eXl5eXl5eXl5eXmt8taajsKNmZbCjq6esoqOwnaGts6yyZWpeb2dIXl5eXl5eXl5eXl5ea3y1pqOwo2aks6yhsqetrF5mYq9nXrOxo15mYqats7CxkaesoaOKn7GykKOrp6yio7BnXrlIXl5eXl5eXl5eXl5eXl5eXmKva3y1pqOwo2Zlqp+xsp2wo6unrKKjsJ2fsmVqXmV6e2VqXoGfsKCtrHh4rK21ZmdrfLGzoIats7CxZmKmrbOwsZGnrKGjip+xspCjq6esoqOwZ2dIXl5eXl5eXl5eXl5eXl5eXl5eXl5rfK2wlaajsKNmpLOsobKnraxeZmKvcGdes7GjXmZipq2zsLGRp6yho4qfsbKQo6unrKKjsGdeuUheXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5ir3BrfLWmo7CjjLOqqmZlqp+xsp2wo6unrKKjsJ2fsmVnSF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5rfLWmo7CjZmWhsKOfsqOinZ+yZWpeZXp7ZWpegZ+woK2seHisrbVmZ2t8sbOghq2zsLFmYqats7CxkaesoaOKn7GykKOrp6yio7BnZ3lIXl5eXl5eXl5eXl5eXl5eXl5eXl67Z3lIXl5eXl5eXl5eXl5eu2dIXl5eXl5eXl5eXl5ea3ylo7JmZ3lIXl5eXrtISF5eXl6us6Cqp6FepLOsobKnraxeq5+wqZCjq6esoqOiZo6zsKGmn7Gjh6yyo6yyXmKnrLKjrLJneF60raeiSF5eXl65SF5eXl5eXl5eYqessqOssmt8s66in7KjZplIXl5eXl5eXl5eXl5eZbCjq6esoqOwnaGts6yyZV57fF5ip6yyo6yya3ywo6unrKKjsJ2hrbOssl5pXm9qSF5eXl5eXl5eXl5eXmWqn7GynbCjq6esoqOwnZ+yZV57fF6Bn7Cgrax4eKyttWZnakheXl5eXl5eXptneUheXl5eu0i7SA==
+
+namespace App\Services;
+
+use App\Models\PurchaseIntent;
+use Carbon\Carbon;
+
+class PurchaseIntentService
+{
+    public function record(string $accountId, int $categoryId, string $stage, ?int $productId = null): PurchaseIntent
+    {
+        $open = PurchaseIntent::where('account_id', $accountId)
+            ->where('product_category_id', $categoryId)
+            ->whereNull('completed_at')
+            ->latest('id')
+            ->first();
+
+        if ($open) {
+            $open->update([
+                'stage' => $stage,
+                'product_id' => $productId ?? $open->product_id,
+            ]);
+            return $open;
+        }
+
+        return PurchaseIntent::create([
+            'account_id' => $accountId,
+            'product_category_id' => $categoryId,
+            'product_id' => $productId,
+            'stage' => $stage,
+        ]);
+    }
+
+    public function completeForAccount(string $accountId, ?int $categoryId = null): void
+    {
+        $query = PurchaseIntent::where('account_id', $accountId)->whereNull('completed_at');
+        if ($categoryId !== null) {
+            $query->where('product_category_id', $categoryId);
+        }
+        $query->update(['completed_at' => Carbon::now()]);
+    }
+
+    /**
+     * @return \Illuminate\Database\Eloquent\Collection<int, PurchaseIntent>
+     */
+    public function getFirstReminders(string $stage, int $hoursSinceCreated)
+    {
+        return PurchaseIntent::whereNull('completed_at')
+            ->where('stage', $stage)
+            ->where('reminder_count', 0)
+            ->where('created_at', '<=', Carbon::now()->subHours($hoursSinceCreated))
+            ->get();
+    }
+
+    /**
+     * @return \Illuminate\Database\Eloquent\Collection<int, PurchaseIntent>
+     */
+    public function getFollowUpReminders(string $stage, int $hoursSinceLastReminder)
+    {
+        return PurchaseIntent::whereNull('completed_at')
+            ->where('stage', $stage)
+            ->where('reminder_count', 1)
+            ->where(function ($q) use ($hoursSinceLastReminder) {
+                $q->where('last_reminder_at', '<=', Carbon::now()->subHours($hoursSinceLastReminder))
+                    ->orWhere(function ($q2) use ($hoursSinceLastReminder) {
+                        $q2->whereNull('last_reminder_at')
+                            ->where('created_at', '<=', Carbon::now()->subHours($hoursSinceLastReminder));
+                    });
+            })
+            ->get();
+    }
+
+    public function markReminded(PurchaseIntent $intent): void
+    {
+        $intent->update([
+            'reminder_count' => $intent->reminder_count + 1,
+            'last_reminder_at' => Carbon::now(),
+        ]);
+    }
+}

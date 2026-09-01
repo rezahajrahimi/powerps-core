@@ -1,3 +1,65 @@
 <?php
-bolt_decrypt( __FILE__ , 'f1xvfr'); return 0;
-##!!!##Z2fLvsrC0M2+wMJ9ns3NuaDMy9DMycKYZ2fS0MJ9psnJ0srGy77RwrmgzMvQzMnCubDAxcLB0snGy8S5sMDFwsHSycKYZ9LQwn2mycnSysbLvtHCuaPM0svBvtHGzMu5oMzL0MzJwrmows/Lwsl9vtB9oMzL0MzJwqjCz8vCyZhnZ8DJvtDQfajCz8vCyX3C1dHCy8HQfaDMy9DMycKows/Lwsln2Gd9fX19jIeHZ319fX19h32hwsPGy8J90cXCfb7NzcnGwL7RxszLhNB9wMzKyr7LwX3QwMXCwdLJwotnfX19fX2HjGd9fX19zc/M0cLA0cLBfcPSy8DRxszLfdDAxcLB0snChbDAxcLB0snCfYHQwMXCwdLJwoaXfdPMxsFnfX19fdhnfX19fX19fX2MjH2B0MDFwsHSycKKm8DMysq+y8GFhMbL0M3Gz8KEhoqbxczSz8nWhYaYZ319fX19fX19gdDAxcLB0snCipvAzMrKvsvBhYTO0sLSwpfUzM/IfYqK0NHMzYrUxcLLisLKzdHWhIZnfX19fX19fX19fX19ipvC08LP1qrGy9LRwoWGmGdnfX19fX19fX2B0MDFwsHSycKKm8C+ycmFhJ7Nzbml0dHNuaDMy9HPzMnJws/QuaDPzMunzL+gzMvRz8zJycLPncLVwsDS0cK80MLLwbzJvtDQvNHFws/CvNHFvsu8kLzBvtbQhIZnfX19fX19fX19fX19ipvLvsrChYTAz8zLi9DCy8GKycLQ0IrRxb7LipCKwb7W0ISGZ319fX19fX19fX19fYqbwb7Gydae0YWEjo+XjY2EhphnZ319fX19fX19gdDAxcLB0snCipvAvsnJhYSezc25pdHRzbmgzMvRz8zJycLP0Lmgz8zLp8y/oMzL0c/MycnCz53C1cLA0tHCvNDCy8G8wtXNxs/CwbzNz8zB0sDR0ISGZ319fX19fX19fX19fYqby77KwoWEwM/My4vQwsvBisLVzcbPwsGKzc/MwdLA0dCEhmd9fX19fX19fX19fX2Km8LTws/Wo8bTwqrGy9LRwtCFhphnZ319fX19fX19gdDAxcLB0snCipvAvsnJhYSezc25pdHRzbmgzMvRz8zJycLP0Lmgz8zLp8y/oMzL0c/MycnCz53C1cLA0tHCvNDCy8G80tDCvsTCvMrMz8K80cW+y7yVkrzNws/AwsvRhIZnfX19fX19fX19fX19ipvLvsrChYTAz8zLi9DCy8GK0tC+xMKKyszPworRxb7LipWSis3Cz8DCy9GEhmd9fX19fX19fX19fX2Km8LTws/Wo8bD0cLCy6rGy9LRwtCFhphnZ319fX19fX19gdDAxcLB0snCipvAvsnJhYSezc25pdHRzbmgzMvRz8zJycLP0Lmgz8zLp8y/oMzL0c/MycnCz53C1cLA0tHCvMDPwr7RwrzBvsbJ1ry/vsDI0s2Ehmd9fX19fX19fX19fX2Km8u+ysKFhMDPzMuLwM/CvtHCisG+xsnWir++wMjSzYSGZ319fX19fX19fX19fYqbwtPCz9axxc/CwqXM0s/QhYaYZ2d9fX19fX19fYHQwMXCwdLJwoqbwL7JyYWEns3NuaXR0c25oMzL0c/MycnCz9C5oM/My6fMv6DMy9HPzMnJws+dwL7JwNLJvtHCvM3PzMHSwNG8wL7RwsTMz9a8zc/GwMK8v9a80cLRxcLPhIZnfX19fX19fX19fX19ipvLvsrChYTAz8zLi8C+ycDSyb7RworNz8bAwoq/1orRwtHFws+Ehmd9fX19fX19fX19fX2Km8LTws/Wo8bTwqrGy9LRwtCFhphnZ319fX19fX19gdDAxcLB0snCipvAvsnJhYSezc25pdHRzbmgzMvRz8zJycLP0Lmgz8zLp8y/oMzL0c/MycnCz53AvsnA0sm+0cK8zc/MwdLA0bzAvtHCxMzP1rzNz8bAwrzGy7zBzMnJvs+8v9a80czKvsuEhmd9fX19fX19fX19fX2Km8u+ysKFhMDPzMuLwL7JwNLJvtHCis3PxsDCisbLisHMycm+z4q/1orRzMq+y4SGZ319fX19fX19fX19fYqbwtPCz9ajxtPCqsbL0tHC0IWGmGdnfX19fX19fX2B0MDFwsHSycKKm8C+ycmFhJ7Nzbml0dHNuaDMy9HPzMnJws/QuaDPzMunzL+gzMvRz8zJycLPncLVwsDS0cK8wMzLw8bPyrzNwsvBxsvEvNDUvs3NvtaEhmd9fX19fX19fX19fX2Km8u+ysKFhMDPzMuL0NS+zc2+1orAzMvDxs/Kis3Cy8HGy8SEhmd9fX19fX19fX19fX2Km8LTws/Wo8bTwqrGy9LRwtCFhphnZ319fX19fX19gdDAxcLB0snCipvAvsnJhYSezc25pdHRzbmgzMvRz8zJycLP0Lmgz8zLp8y/oMzL0c/MycnCz53C1cLA0tHCvL7S0cy8wcLJwtHCvMLVzcbPwsG8wMzLw8bE0ISGZ319fX19fX19fX19fYqby77KwoWEwM/My4u+0tHMisHCycLRworC1c3Gz8LBisDMy8PGxNCEhmd9fX19fX19fX19fX2Km8G+xsnWntGFhI2Vl42PhIaYZ2d9fX19fX19fYHQwMXCwdLJwoqbwL7JyYWEns3NuaXR0c25oMzL0c/MycnCz9C5oM/My6fMv6DMy9HPzMnJws+dwMnCvs+8yb7PvtPCybzJzMSEhmd9fX19fX19fX19fX2Km8u+ysKFhMDPzMuLwMnCvs+Kyb7PvtPCyYrJzMSEhmd9fX19fX19fX19fX2Km8LTws/WsdTMpczSz9CFhphnfX19fdpnZ319fX2Mh4dnfX19fX2Hfa/CxMbQ0cLPfdHFwn3AzMrKvsvB0H3DzM990cXCfb7NzcnGwL7RxszLi2d9fX19fYeMZ319fX3Nz8zRwsDRwsF9w9LLwNHGzMt9wMzKyr7LwdCFhpd908zGwWd9fX192Gd9fX19fX19fYHRxcbQipvJzL7Bhby8oaavvLx9i32EjKDMysq+y8HQhIaYZ2d9fX19fX19fc/CztLGz8J9v77QwrzNvtHFhYTPzNLRwtCMwMzL0MzJwovNxc2EhphnfX19fdpn2mc=
+
+namespace App\Console;
+
+use Illuminate\Console\Scheduling\Schedule;
+use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
+
+class Kernel extends ConsoleKernel
+{
+    /**
+     * Define the application's command schedule.
+     */
+    protected function schedule(Schedule $schedule): void
+    {
+        // $schedule->command('inspire')->hourly();
+        $schedule->command('queue:work --stop-when-empty')
+            ->everyMinute();
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_send_lass_there_than_3_days')
+            ->name('cron.send-less-than-3-days')
+            ->dailyAt('12:00');
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_send_expired_products')
+            ->name('cron.send-expired-products')
+            ->everyFiveMinutes();
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_send_useage_more_than_85_percent')
+            ->name('cron.send-usage-more-than-85-percent')
+            ->everyFifteenMinutes();
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_create_daily_backup')
+            ->name('cron.create-daily-backup')
+            ->everyThreeHours();
+
+        $schedule->call('App\Http\Controllers\CronJobController@calculate_product_category_price_by_tether')
+            ->name('cron.calculate-price-by-tether')
+            ->everyFiveMinutes();
+
+        $schedule->call('App\Http\Controllers\CronJobController@calculate_product_category_price_in_dollar_by_toman')
+            ->name('cron.calculate-price-in-dollar-by-toman')
+            ->everyFiveMinutes();
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_confirm_pending_swappay')
+            ->name('cron.swappay-confirm-pending')
+            ->everyFiveMinutes();
+
+        $schedule->call('App\Http\Controllers\CronJobController@execute_auto_delete_expired_configs')
+            ->name('cron.auto-delete-expired-configs')
+            ->dailyAt('08:02');
+
+        $schedule->call('App\Http\Controllers\CronJobController@clear_laravel_log')
+            ->name('cron.clear-laravel-log')
+            ->everyTwoHours();
+    }
+
+    /**
+     * Register the commands for the application.
+     */
+    protected function commands(): void
+    {
+        $this->load(__DIR__ . '/Commands');
+
+        require base_path('routes/console.php');
+    }
+}

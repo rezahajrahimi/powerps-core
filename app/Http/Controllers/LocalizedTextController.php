@@ -1,3 +1,37 @@
 <?php
-bolt_decrypt( __FILE__ , 'OdNrVy'); return 0;
-##!!!##TEywo6+ntbKjpadig7Kynoq2trKehbGwtrSxrq6ntLV9TEy3tadig7Kyno+xpqeutZ6OsaWjrqu8p6aWp7q2fUy3tadii66ut6+rsKO2p56KtraynpSns7entbZ9TEylrqO1tWKOsaWjrqu8p6aWp7q2hbGwtrSxrq6ntGKnuransKa1YoWxsLa0sa6up7RMvUxiYmJisrekrqulYqi3sKW2q7GwYrW2sbSnapSns7entbZiZrSns7entbZrTGJiYmK9TGJiYmJiYmJiZranurZif2KOsaWjrqu8p6aWp7q2fHyltKejtqdqZrSns7entbZvgKOurmpra31MTGJiYmJiYmJitKe2t7SwYma2p7q2fUxiYmJiv0xiYmJisrekrqulYqi3sKW2q7GwYreypqO2p2qUp7O3p7W2Yma0p7O3p7W2a0xiYmJivUxiYmJiYmJiYmatp7tif2JmtKezt6e1tm+Arae7fUxiYmJiYmJiYmawp7mhtqe6tmJ/Yma0p7O3p7W2b4C2p7q2fUxiYmJiYmJiYmausaWjrmJ/Yma0p7O3p7W2b4CusaWjrqdigYFiaaijaX1MYmJiYmJiYmJmtqe6tmJ/Yo6xpaOuq7ynppanurZ8fLmqp7Snammtp7tpbmatp7trb4C5qqe0p2pprrGlo66naW5mrrGlo65rb4Coq7S1tmprfUxMYmJiYmJiYmJmtqe6tm+Atqe6tmJ/Ymawp7mhtqe6tn1MYmJiYmJiYmJmtqe6tm+AtaO4p2prfUxiYmJiYmJiYrSntre0sGJmtqe6tn1MTGJiYmK/TGJiYmKyt6Suq6ViqLewpbarsbBiqae2obanurahpLuhrae7amatp7tuZq6xpaOup39pqKNpa0xiYmJivUxiYmJiYmJiYma2p7q2Yn9ijrGlo66rvKemlqe6tnx8uaqntKdqaa2nu2luZq2nu2tMYmJiYmJiYmJvgLmqp7SnammusaWjrqdpbmausaWjrqdrTGJiYmJiYmJib4Coq7S1tmprfUxiYmJiYmJiYrSntre0sGJmtqe6tm+Atqe6tn1MYmJiYr9MTEy/TA==
+
+namespace App\Http\Controllers;
+
+use App\Models\LocalizedText;
+use Illuminate\Http\Request;
+
+class LocalizedTextController extends Controller
+{
+    public function store(Request $request)
+    {
+        $text = LocalizedText::create($request->all());
+
+        return $text;
+    }
+    public function update(Request $request)
+    {
+        $key = $request->key;
+        $new_text = $request->text;
+        $local = $request->locale ?? 'fa';
+        $text = LocalizedText::where('key',$key)->where('locale',$local)->first();
+
+        $text->text = $new_text;
+        $text->save();
+        return $text;
+
+    }
+    public function get_text_by_key($key,$locale='fa')
+    {
+        $text = LocalizedText::where('key',$key)
+        ->where('locale',$locale)
+        ->first();
+        return $text->text;
+    }
+
+
+}

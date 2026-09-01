@@ -1,3 +1,135 @@
 <?php
-bolt_decrypt( __FILE__ , '2V9dE9'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\ReferralWallet;
+use App\Models\User;
+use Illuminate\Http\Request;
+
+class ReferralWalletController extends Controller
+{
+    public function get_auth_user_wallet(Request $request)
+    {
+        try {
+            $user = $request->user();
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                $wallet = new ReferralWallet();
+                $wallet->referral_user_id = $user->id;
+                $wallet->amount = 0.0;
+                $wallet->save();
+            }
+            return $wallet;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_auth_user_wallet: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function get_amount_of_ref_wallet_by_account_id($account_id)
+    {
+        try {
+            $user = User::where('account_id', $account_id)->first();
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                $wallet = new ReferralWallet();
+                $wallet->referral_user_id = $user->id;
+                $wallet->amount = 0.0;
+                $wallet->save();
+            }
+            return $wallet->amount;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_amount_of_ref_wallet_by_account_id: $th");
+            return null;
+        }
+    }
+    public function check_user_has_ref_wallet_ballance($account_id, $amount)
+    {
+        try {
+            $user = User::where('account_id', $account_id)->first();
+            if ($user == null) {
+                return false;
+            }
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                return false;
+            }
+            if ($wallet->amount >= $amount) {
+                return true;
+            }
+            return false;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable check_user_has_ref_wallet_ballance: $th");
+            return false;
+        }
+    }
+    public function dec_user_ref_wallet_ballance($account_id, $amount)
+    {
+        try {
+            $user = User::where('account_id', $account_id)->first();
+            if ($user == null) {
+                return false;
+            }
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                return false;
+            }
+            $wallet->amount = $wallet->amount - (float) $amount;
+            $wallet->update();
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable dec_user_ref_wallet_ballance: $th");
+            return false;
+        }
+    }
+    public function inc_user_ref_wallet_ballance($account_id, $amount)
+    {
+        try {
+            $user = User::where('account_id', $account_id)->first();
+            if ($user == null) {
+                return false;
+            }
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                $wallet = new ReferralWallet();
+                $wallet->referral_user_id = $user->id;
+                $wallet->amount = 0.0;
+                $wallet->save();
+            }
+            $wallet->amount = $wallet->amount + (float) $amount;
+            $wallet->update();
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable inc_user_ref_wallet_ballance: $th");
+            return false;
+        }
+    }
+    public function edit_amount_of_ref_wallet_by_account_id(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'account_id' => 'required|integer|min:1',
+                'amount' => 'required|numeric|min:0',
+            ]);
+
+            $user = User::where('account_id', $validated['account_id'])->first();
+            if ($user == null) {
+                return response()->json(['message' => 'User not found'], 404);
+            }
+
+            $wallet = ReferralWallet::where('referral_user_id', $user->id)->first();
+            if ($wallet == null) {
+                $wallet = new ReferralWallet();
+                $wallet->referral_user_id = $user->id;
+                $wallet->amount = 0;
+                $wallet->save();
+            }
+            $wallet->amount = $validated['amount'];
+            $wallet->update();
+
+            return response()->json(['success' => true], 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable edit_amount_of_ref_wallet_by_account_id: $th");
+            return response()->json(null, 500);
+        }
+    }
+}

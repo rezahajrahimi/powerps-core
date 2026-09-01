@@ -1,3 +1,153 @@
 <?php
-bolt_decrypt( __FILE__ , 'YOqZL2'); return 0;
-##!!!##+/tfUl5WZGFSVFYRMmFhTTllZWFNNGBfZWNgXV1WY2Qs+2ZkVhEyYWFNPmBVVl1kTTNaXV0s+/tmZFYROl1dZl5aX1JlVk05ZWVhTUNWYmZWZGUs+/tUXVJkZBEzWl1dNGBfZWNgXV1WYxFWaWVWX1VkETRgX2VjYF1dVmP7bPsRERERYWZTXVpUEVdmX1RlWmBfEVpkM1pdXTpVNmlaZGUZFVNaXV06VRr7EREREWz7EREREREREREVVVJlUhEuETNaXV0rK2hZVmNWGRhTWl1dUFpVGB0RFVNaXV06VRoeL1daY2RlGRos+xERERERERERWlcRGRVVUmVSERIuEV9mXV0aEWz7ERERERERERERERERY1ZlZmNfEVdSXWRWLPsREREREREREW4RVl1kVhFs+xEREREREREREREREWNWZWZjXxFlY2ZWLPsREREREREREW77EREREW77+xERERFhZlNdWlQRV2ZfVGVaYF8RVGNWUmVWP1ZoM1pdXRlDVmJmVmRlERVjVmJmVmRlGvsRERERbPsRERERERERERVTWl1dES4RX1ZoETNaXV0ZGiz7EREREREREREVU1pdXR4vUlRUYGZfZVBaVREuERVjVmJmVmRlHi9SVFRgZl9lUFpVLPsRERERERERERVTWl1dHi9TWl1dUFpVES4RUlNkGVRjVCQjGWZfWmJaVRkaGhos+xERERERERERFVNaXV0eL1JeYGZfZREuERVjVmJmVmRlHi9SXmBmX2Us+xERERERERERFVNaXV0eL1JeYGZfZVBVYF1dUmMRLhEhHyEs+xERERERERERWlcRGRVTWl1dHi9kUmdWGRoaEWz7ERERERERERERERERY1ZlZmNfERVTWl1dLPsREREREREREW4RVl1kVhFs+xEREREREREREREREWNWZWZjXxFfZl1dLPsREREREREREW77EREREW77EREREWFmU11aVBFXZl9UZVpgXxFUY1ZSZVY/VmgzWl1dOl81YF1dUmMZQ1ZiZlZkZREVY1ZiZlZkZRr7EREREWz7EREREREREREVU1pdXREuEV9WaBEzWl1dGRos+xERERERERERFVNaXV0eL1JUVGBmX2VQWlURLhEVY1ZiZlZkZR4vUlRUYGZfZVBaVSz7EREREREREREVU1pdXR4vU1pdXVBaVREuEVJTZBlUY1QkIxlmX1piWlUZGhoaLPsRERERERERERVTWl1dHi9SXmBmX2URLhEhLPsRERERERERERVTWl1dHi9SXmBmX2VQVWBdXVJjES4RFWNWYmZWZGUeL1JeYGZfZSz7ERERERERERFaVxEZFVNaXV0eL2RSZ1YZGhoRbPsRERERERERERERERFjVmVmY18RFVNaXV0s+xERERERERERbhFWXWRWEWz7ERERERERERERERERY1ZlZmNfEV9mXV0s+xERERERERERbvsRERERbvsRERERYWZTXVpUEVdmX1RlWmBfEVhWZTNaXV0yXmBmX2UzajNaXV06VRkVU1pdXTpVGvsRERERbPsRERERERERERVVUmVSES4RM1pdXSsraFlWY1YZGFNaXV1QWlUYHREVU1pdXTpVGh4vV1pjZGUZGiz7ERERERERERFNPWBYKytaX1dgGRNTWl1dXV1dXV1dERVVUmVSExos+/sREREREREREVpXERkVVVJlUhESLhFfZl1dGhFs+xEREREREREREREREWNWZWZjXxEVVVJlUh4vUl5gZl9lLPsREREREREREW4RVl1kVhFs+xEREREREREREREREWNWZWZjXxFfZl1dLPsREREREREREW77EREREW77EREREWFmU11aVBFXZl9UZVpgXxFYVmUzWl1dMl5gZl9lNWBdXVJjM2ozWl1dOlUZFVNaXV06VRr7EREREWz7EREREREREREVVVJlUhEuETNaXV0rK2hZVmNWGRhTWl1dUFpVGB0RFVNaXV06VRoeL1daY2RlGRos+xERERERERERWlcRGRVVUmVSERIuEV9mXV0aEWz7ERERERERERERERERY1ZlZmNfERVVUmVSHi9SXmBmX2VQVWBdXVJjLPsREREREREREW4RVl1kVhFs+xEREREREREREREREWNWZWZjXxFfZl1dLPsREREREREREW77EREREW77+xEREREgICARMlhWX2URN2ZfVGVaYF9k+/sRERERYWZTXVpUEVdmX1RlWmBfEVRjVlJlVj9WaDJYVl9lRWBeUl8zWl1dRmNdGRVSXmBmX2Ua+xERERFs+xERERERERERFVJUVGBmX2VQWlURLhFSZmVZGRhkUl9UZWZeGBoeL2ZkVmMZGh4vUlRUYGZfZVBaVSz7+xERERERERERFVNaXV0RLhFfVmgRM1pdXRkaLPsRERERERERERVTWl1dHi9SVFRgZl9lUFpVES4RFVJUVGBmX2VQWlUs+xERERERERERFVNaXV0eL1NaXV1QWlURLhFSU2QZVGNUJCMZZl9aYlpVGRoaGiz7EREREREREREVU1pdXR4vUl5gZl9lES4RFVJeYGZfZSz7EREREREREREVU1pdXR4vUl5gZl9lUFVgXV1SYxEuESEfISz7ERERERERERFaVxEZFVNaXV0eL2RSZ1YZGhoRbPsREREREREREREREREVZWM0X2VjXREuEV9WaBFFY1JfZFJUZVpgXzRgX2VjYF1dVmMZGiz7ERERERERERERERERFWVjQ1ZiZlZkZREuEV9WaBFDVmJmVmRlGRos+xERERERERERERERERVlY0NWYmZWZGUeL1pfZ2BaVFY6NREuERVTWl1dHi9TWl1dUFpVLPsREREREREREREREREVZWNDVmJmVmRlHi9SVFRgZl9lUFpVES4RFVJUVGBmX2VQWlUs+xERERERERERERERERVlY0NWYmZWZGUeL1JeYGZfZREuERVSXmBmX2Us+xERERERERERERERERVhUmpeVl9lPVpfXBEuERVlYzRfZWNdHi9SVVVQYGNVVmMZFWVjQ1ZiZlZkZRos+xEREREREREREREREWNWZWZjXxEVYVJqXlZfZT1aX1ws+xERERERERERERERESAgERVhal40X2VjXREuEV9WaBFBUmpeVl9lRWphVjRgX2VjYF1dVmMZGiz7+xERERERERERERERESAgERVgYVZfPVpfXBEuERVhal40X2VjXR4vWFZlS1JjWl9hUl09Wl9cGRos+/sREREREREREREREREgIBFjVmVmY18RExVgYVZfPVpfXCAVUlRUYGZfZVBaVSAVU1pdXR4vU1pdXVBaVSAVU1pdXR4vUl5gZl9lEyz7ERERERERERFuEVZdZFYRbPsRERERERERERERERFjVmVmY18RX2ZdXSz7ERERERERERFu+xERERFu+xERERFhZlNdWlQRV2ZfVGVaYF8RVGNWUmVWP1ZoMlhWX2U1YF1dUmMzWl1dRmNdGRVSXmBmX2Ua+xERERFs+xERERERERERFVJUVGBmX2VQWlURLhFSZmVZGRhkUl9UZWZeGBoeL2ZkVmMZGh4vUlRUYGZfZVBaVSz7+xERERERERERFVNaXV0RLhFfVmgRM1pdXRkaLPsRERERERERERVTWl1dHi9SVFRgZl9lUFpVES4RFVJUVGBmX2VQWlUs+xERERERERERFVNaXV0eL1NaXV1QWlURLhFSU2QZVGNUJCMZZl9aYlpVGRoaGiz7EREREREREREVU1pdXR4vUl5gZl9lES4RISz7EREREREREREVU1pdXR4vUl5gZl9lUFVgXV1SYxEuERVSXmBmX2Us+xERERERERERWlcRGRVTWl1dHi9kUmdWGRoaEWz7ERERERERERERERERFWVjNGNqYWVgNF9lY10RLhFfVmgRRWNSX2RSVGVaYF80Y2phZWA0YF9lY2BdXVZjGRos+xEREREREREREREREREREREVZWNDVmJmVmRlES4RX1ZoEUNWYmZWZGUZGiz7ERERERERERERERERERERERVlY0NWYmZWZGUeL1pfZ2BaVFY6NREuERVTWl1dHi9TWl1dUFpVLPsRERERERERERERERERERERFWVjQ1ZiZlZkZR4vUlRUYGZfZVBaVREuERVSVFRgZl9lUFpVLPsRERERERERERERERERERERFWVjQ1ZiZlZkZR4vUl5gZl9lES4RFVJeYGZfZSz7ERERERERERERERERERERERVhUmpeVl9lPVpfXBEuERVlYzRjamFlYDRfZWNdHi9SVVVQYGNVVmNQVGNqYWVgUFNqUF9gaGFSal5WX2UZFWVjQ1ZiZlZkZRos+/sRERERERERERERERERERERFVhWX1ZjUl00X2VjXREuEV9WaBE4Vl9WY1JdNGBfZWNgXV1WYxkaLPsRERERERERERERERERERERFV9gaGFSal5WX2U9Wl9cES4RFVhWX1ZjUl00X2VjXR4vWFZlUF9gaGFSal5WX2VQYVJqXlZfZVBdWl9cUFdjYF5QWWVeXRkVYVJqXlZfZT1aX1waLPsRERERERERERERERERERERY1ZlZmNfERVfYGhhUmpeVl9lPVpfXCz7ERERERERERERERERICARFWFqXjRfZWNdES4RX1ZoEUFSal5WX2VFamFWNGBfZWNgXV1WYxkaLPv7ERERERERERERERERICARFWBhVl89Wl9cES4RFWFqXjRfZWNdHi9YVmU/YGhBUmpeVl9lZD1aX1wZGiz7+xERERERERERERERESAgEWNWZWZjXxETFWBhVl89Wl9cIBVSVFRgZl9lUFpVIBVTWl1dHi9TWl1dUFpVIBVTWl1dHi9SXmBmX2VQVWBdXVJjEyz7ERERERERERFuEVZdZFYRbPsRERERERERERERERFjVmVmY18RX2ZdXSz7ERERERERERFu+xERERFu+/sRERERYWZTXVpUEVdmX1RlWmBfEVRjVlJlVj9WaDJYVl9lRGhSYUFSajNaXV1GY10ZFVJeYGZfZRr7EREREWz7EREREREREREVUlRUYGZfZVBaVREuEVJmZVkZGGRSX1RlZl4YGh4vZmRWYxkaHi9SVFRgZl9lUFpVLPv7EREREREREREVU1pdXREuEV9WaBEzWl1dGRos+xERERERERERFVNaXV0eL1JUVGBmX2VQWlURLhEVUlRUYGZfZVBaVSz7EREREREREREVU1pdXR4vU1pdXVBaVREuEVJTZBlUY1QkIxlmX1piWlUZGhoaLPsRERERERERERVTWl1dHi9SXmBmX2URLhEhLPsRERERERERERVTWl1dHi9SXmBmX2VQVWBdXVJjES4RFVJeYGZfZSz7ERERERERERFaVxEZFVNaXV0eL2RSZ1YZGhoRbPsREREREREREREREREVZWM0Y2phZWA0X2VjXREuEV9WaBFFY1JfZFJUZVpgXzRjamFlYDRgX2VjYF1dVmMZGiz7ERERERERERERERERFWVjQ1ZiZlZkZREuEV9WaBFDVmJmVmRlGUz7ERERERERERERERERERERERhYUmVWaFJqGBEuLxEYZGhSYWFSahgd+xEREREREREREREREREREREYWl9nYFpUVjo1GBEuLxEVU1pdXR4vU1pdXVBaVR37ERERERERERERERERERERERhSVFRgZl9lUFpVGBEuLxEVUlRUYGZfZVBaVR37ERERERERERERERERERERERhhY1ZXVmNjVlVQXVpfXBgRLi8RGEg2M0Q6RTYYHfsRERERERERERERERFOGiz7ERERERERERERERERFWFSal5WX2U9Wl9cES4RFWVjNGNqYWVgNF9lY10eL1pfWmVaUmVWNGNqYWVgQVJqXlZfZRkVZWNDVmJmVmRlGiz7+xEREREREREREREREVpXERlaZFBkZWNaX1gZFWFSal5WX2U9Wl9cGhEXFxFkZWNQZGVSY2VkUGhaZVkZFWFSal5WX2U9Wl9cHREYWWVlYRgaGhFs+xERERERERERERERERERERFjVmVmY18RFWFSal5WX2U9Wl9cLPsRERERERERERERERFu+/sRERERERERERERERFjVmVmY18RX2ZdXSz7ERERERERERFu+/sREREREREREWNWZWZjXxFfZl1dLPsRERERbvtu+w==
+
+namespace App\Http\Controllers;
+use App\Models\Bill;
+
+use Illuminate\Http\Request;
+
+class BillController extends Controller
+{
+    public function isBillIdExist($billId)
+    {
+        $data = Bill::where('bill_id', $billId)->first();
+        if ($data != null) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    public function createNewBill(Request $request)
+    {
+        $bill = new Bill();
+        $bill->account_id = $request->account_id;
+        $bill->bill_id = abs(crc32(uniqid()));
+        $bill->amount = $request->amount;
+        $bill->amount_dollar = 0.0;
+        if ($bill->save()) {
+            return $bill;
+        } else {
+            return null;
+        }
+    }
+    public function createNewBillInDollar(Request $request)
+    {
+        $bill = new Bill();
+        $bill->account_id = $request->account_id;
+        $bill->bill_id = abs(crc32(uniqid()));
+        $bill->amount = 0;
+        $bill->amount_dollar = $request->amount;
+        if ($bill->save()) {
+            return $bill;
+        } else {
+            return null;
+        }
+    }
+    public function getBillAmountByBillId($billId)
+    {
+        $data = Bill::where('bill_id', $billId)->first();
+        \Log::info("billllllll $data");
+
+        if ($data != null) {
+            return $data->amount;
+        } else {
+            return null;
+        }
+    }
+    public function getBillAmountDollarByBillId($billId)
+    {
+        $data = Bill::where('bill_id', $billId)->first();
+        if ($data != null) {
+            return $data->amount_dollar;
+        } else {
+            return null;
+        }
+    }
+
+    /// Agent Functions
+
+    public function createNewAgentTomanBillUrl($amount)
+    {
+        $account_id = auth('sanctum')->user()->account_id;
+
+        $bill = new Bill();
+        $bill->account_id = $account_id;
+        $bill->bill_id = abs(crc32(uniqid()));
+        $bill->amount = $amount;
+        $bill->amount_dollar = 0.0;
+        if ($bill->save()) {
+            $trCntrl = new TransactionController();
+            $trRequest = new Request();
+            $trRequest->invoiceID = $bill->bill_id;
+            $trRequest->account_id = $account_id;
+            $trRequest->amount = $amount;
+            $paymentLink = $trCntrl->add_order($trRequest);
+            return $paymentLink;
+            // $pymCntrl = new PaymentTypeController();
+
+            // $openLink = $pymCntrl->getZarinpalLink();
+
+            // return "$openLink/$account_id/$bill->bill_id/$bill->amount";
+        } else {
+            return null;
+        }
+    }
+    public function createNewAgentDollarBillUrl($amount)
+    {
+        $account_id = auth('sanctum')->user()->account_id;
+
+        $bill = new Bill();
+        $bill->account_id = $account_id;
+        $bill->bill_id = abs(crc32(uniqid()));
+        $bill->amount = 0;
+        $bill->amount_dollar = $amount;
+        if ($bill->save()) {
+            $trCryptoCntrl = new TransactionCryptoController();
+                $trRequest = new Request();
+                $trRequest->invoiceID = $bill->bill_id;
+                $trRequest->account_id = $account_id;
+                $trRequest->amount = $amount;
+                $paymentLink = $trCryptoCntrl->add_order_crypto_by_nowpayment($trRequest);
+
+                $generalCntrl = new GeneralController();
+                $nowpaymentLink = $generalCntrl->get_nowpayment_payment_link_from_html($paymentLink);
+                return $nowpaymentLink;
+            // $pymCntrl = new PaymentTypeController();
+
+            // $openLink = $pymCntrl->getNowPaymentsLink();
+
+            // return "$openLink/$account_id/$bill->bill_id/$bill->amount_dollar";
+        } else {
+            return null;
+        }
+    }
+
+    public function createNewAgentSwapPayBillUrl($amount)
+    {
+        $account_id = auth('sanctum')->user()->account_id;
+
+        $bill = new Bill();
+        $bill->account_id = $account_id;
+        $bill->bill_id = abs(crc32(uniqid()));
+        $bill->amount = 0;
+        $bill->amount_dollar = $amount;
+        if ($bill->save()) {
+            $trCryptoCntrl = new TransactionCryptoController();
+            $trRequest = new Request([
+                'gateway' => 'swappay',
+                'invoiceID' => $bill->bill_id,
+                'account_id' => $account_id,
+                'preferred_link' => 'WEBSITE',
+            ]);
+            $paymentLink = $trCryptoCntrl->initiateCryptoPayment($trRequest);
+
+            if (is_string($paymentLink) && str_starts_with($paymentLink, 'http')) {
+                return $paymentLink;
+            }
+
+            return null;
+        }
+
+        return null;
+    }
+}

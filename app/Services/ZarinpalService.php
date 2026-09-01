@@ -1,3 +1,275 @@
 <?php
-bolt_decrypt( __FILE__ , 'j2mr3P'); return 0;
-##!!!##CAhsX2tjcW5fYWMeP25uWlFjcHRnYWNxOQgIc3FjHkdqanNrZ2xfcmNaUXNubm1wclpEX2FfYmNxWkZycm45CHNxYx5Hampza2dsX3JjWlFzbm5tcHJaRF9hX2JjcVpKbWU5CAhhal9xcR5YX3BnbG5falFjcHRnYWMIeQgeHh4ebnBtcmNhcmNiHnFycGdsZR4ia2NwYWZfbHJHYjkIHh4eHm5wbXJjYXJjYh5gbW1qHiJxX2xiYG12OQgeHh4ebnBtcmNhcmNiHnFycGdsZR4iYV9qamBfYWlTcGo5CAgeHh4eLS0eTnBtYnNhcmdtbB5jbGJubWdscnEIHh4eHm5wbXJjYXJjYh5xcnBnbGUeInBjb3NjcXJTcGoeOx4lZnJybnE4LS1fbmcseF9wZ2xuX2osYW1rLW5lLXQyLW5fd2tjbHItcGNvc2NxcixocW1sJTkIHh4eHm5wbXJjYXJjYh5xcnBnbGUeInRjcGdkd1Nwah47HiVmcnJucTgtLV9uZyx4X3BnbG5faixhbWstbmUtdDItbl93a2Nsci10Y3BnZHcsaHFtbCU5CB4eHh5ucG1yY2FyY2IecXJwZ2xlHiJxcl9wck5fd1Nwah47HiVmcnJucTgtLXV1dSx4X3BnbG5faixhbWstbmUtUXJfcHJOX3ctJTkICB4eHh4tLR5RX2xiYG12HmNsYm5tZ2xycQgeHh4ebnBtcmNhcmNiHnFycGdsZR4icV9sYmBtdlBjb3NjcXJTcGoeOx4lZnJybnE4LS1xX2xiYG12LHhfcGdsbl9qLGFtay1uZS10Mi1uX3drY2xyLXBjb3NjcXIsaHFtbCU5CB4eHh5ucG1yY2FyY2IecXJwZ2xlHiJxX2xiYG12VGNwZ2R3U3BqHjseJWZycm5xOC0tcV9sYmBtdix4X3BnbG5faixhbWstbmUtdDItbl93a2Nsci10Y3BnZHcsaHFtbCU5CB4eHh5ucG1yY2FyY2IecXJwZ2xlHiJxX2xiYG12UXJfcHJOX3dTcGoeOx4lZnJybnE4LS1xX2xiYG12LHhfcGdsbl9qLGFtay1uZS1Rcl9wck5fdy0lOQgIHh4eHm5zYGpnYR5kc2xhcmdtbB5dXWFtbHFycHNhciY9cXJwZ2xlHiJrY3BhZl9sckdiHjsebHNqaioePWBtbWoeInFfbGJgbXYeOx5sc2pqKh49cXJwZ2xlHiJhX2pqYF9haVNwah47HmxzamonCB4eHh55CB4eHh4eHh4eInJmZ3ErPGtjcGFmX2xyR2IeOx4ia2NwYWZfbHJHYh49PR5jbHQmJVg/UEdMTj9KXUtDUEFGP0xSXUdCJSoeJSUnOQgeHh4eHh4eHiJyZmdxKzxxX2xiYG12HjseInFfbGJgbXYePT0eJmNsdCYlWD9QR0xOP0pdUT9MQkBNViUqHmRfanFjJx47Ox5ycHNjHnp6HmNsdCYlWD9QR0xOP0pdS01CQyUqHiVsbXBrX2olJx47OzseJXFfbGJgbXYlJzkIHh4eHh4eHh4icmZncSs8YV9qamBfYWlTcGoeOx4iYV9qamBfYWlTcGoePT0eY2x0JiVYP1BHTE4/Sl1BP0pKQD9BSV1TUEolKh5zcGomJS1tcGJjcCUnJzkIHh4eHnsICB4eHh4tKCgIHh4eHh4oHlFjch5rY3BhZl9sch5HQh5fch5wc2xyZ2tjCB4eHh4eKC0IHh4eHm5zYGpnYR5kc2xhcmdtbB5xY3JLY3BhZl9sckdiJnFycGdsZR4ia2NwYWZfbHJHYic4HnFjamQIHh4eHnkIHh4eHh4eHh4icmZncSs8a2NwYWZfbHJHYh47HiJrY3BhZl9sckdiOQgeHh4eHh4eHnBjcnNwbB4icmZncTkIHh4eHnsICB4eHh4tKCgIHh4eHh4oHkNsX2BqYx5tcB5iZ3FfYGpjHnFfbGJgbXYea21iYwgeHh4eHigtCB4eHh5uc2BqZ2EeZHNsYXJnbWwecWNyUV9sYmBtdiZgbW1qHiJxX2xiYG12JzgecWNqZAgeHh4eeQgeHh4eHh4eHiJyZmdxKzxxX2xiYG12HjseInFfbGJgbXY5CB4eHh4eHh4ecGNyc3BsHiJyZmdxOQgeHh4eewgIHh4eHi0oKAgeHh4eHigeUWNyHmFfampgX2FpHlNQSggeHh4eHigtCB4eHh5uc2BqZ2EeZHNsYXJnbWwecWNyQV9qamBfYWlTcGomcXJwZ2xlHiJhX2pqYF9haVNwaic4HnFjamQIHh4eHnkIHh4eHh4eHh4icmZncSs8YV9qamBfYWlTcGoeOx4iYV9qamBfYWlTcGo5CB4eHh4eHh4ecGNyc3BsHiJyZmdxOQgeHh4eewgIHh4eHi0oKAgeHh4eHigeRWNyHnJmYx5fbm5wbW5wZ19yYx5wY29zY3FyHlNQSh5gX3FjYh5tbB5rbWJjCB4eHh4eKC0IHh4eHm5wbXJjYXJjYh5kc2xhcmdtbB5lY3JQY29zY3FyU3BqJic4HnFycGdsZQgeHh4eeQgeHh4eHh4eHnBjcnNwbB4icmZncSs8cV9sYmBtdh49HiJyZmdxKzxxX2xiYG12UGNvc2NxclNwah44HiJyZmdxKzxwY29zY3FyU3BqOQgeHh4eewgIHh4eHi0oKAgeHh4eHigeRWNyHnJmYx5fbm5wbW5wZ19yYx50Y3BnZHceU1BKHmBfcWNiHm1sHmttYmMIHh4eHh4oLQgeHh4ebnBtcmNhcmNiHmRzbGFyZ21sHmVjclRjcGdkd1NwaiYnOB5xcnBnbGUIHh4eHnkIHh4eHh4eHh5wY3JzcGweInJmZ3ErPHFfbGJgbXYePR4icmZncSs8cV9sYmBtdlRjcGdkd1Nwah44HiJyZmdxKzx0Y3BnZHdTcGo5CB4eHh57CAgeHh4eLSgoCB4eHh4eKB5FY3IecmZjHl9ubnBtbnBnX3JjHm5fd2tjbHIecXJfcHIeU1BKHmBfcWNiHm1sHmttYmMIHh4eHh4oLQgeHh4ebnBtcmNhcmNiHmRzbGFyZ21sHmVjclFyX3ByTl93U3BqJic4HnFycGdsZQgeHh4eeQgeHh4eHh4eHnBjcnNwbB4icmZncSs8cV9sYmBtdh49HiJyZmdxKzxxX2xiYG12UXJfcHJOX3dTcGoeOB4icmZncSs8cXJfcHJOX3dTcGo5CB4eHh57CAgeHh4eLSgoCB4eHh4eKB5QY29zY3FyHl8ebGN1Hm5fd2tjbHIIHh4eHh4oCB4eHh4eKB4+bl9wX2seZ2xyHiJfa21zbHIeP2ttc2xyHiZHbB5SbWtfbCcIHh4eHh4oHj5uX3Bfax5xcnBnbGUeImJjcWFwZ25yZ21sHk5fd2tjbHIeYmNxYXBnbnJnbWwIHh4eHh4oHj5uX3Bfax5xcnBnbGV6bHNqah4iY2tfZ2oeTW5yZ21sX2oeYXNxcm1rY3AeY2tfZ2oIHh4eHh4oHj5uX3Bfax5xcnBnbGV6bHNqah4ia21gZ2pjHk1ucmdtbF9qHmFzcXJta2NwHmttYGdqYwgeHh4eHigePnBjcnNwbB5fcHBfdx5ZJXFzYWFjcXElHjs8HmBtbWoqHiVfc3JmbXBncnclHjs8HnFycGdsZXpsc2pqKh4lc3BqJR47PB5xcnBnbGV6bHNqaioeJWNwcG1wJR47PB5xcnBnbGV6bHNqaioeJWFtYmMlHjs8Hmdscnpsc2pqWwgeHh4eHigtCB4eHh5uc2BqZ2EeZHNsYXJnbWwecGNvc2NxciZnbHIeIl9rbXNscioecXJwZ2xlHiJiY3FhcGducmdtbB47HiXXvNav1q3Wpdas1qglKh49cXJwZ2xlHiJja19nah47HmxzamoqHj1xcnBnbGUeImttYGdqYx47HmxzamonOB5fcHBfdwgeHh4eeQgeHh4eHh4eHi0tHlhfcGdsbl9qHj9ORx50Mh5jdm5jYXJxHl9rbXNsch5nbB5SbWtfbCwIHh4eHh4eHh4iYl9yXx47HlkIHh4eHh4eHh4eHh4eJWtjcGFmX2xyXWdiJR47PB4icmZncSs8a2NwYWZfbHJHYioIHh4eHh4eHh4eHh4eJV9rbXNsciUeOzweIl9rbXNscioIHh4eHh4eHh4eHh4eJWFfampgX2FpXXNwaiUeOzweInJmZ3ErPGFfampgX2FpU3BqKggeHh4eHh4eHh4eHh4lYmNxYXBnbnJnbWwlHjs8HiJiY3FhcGducmdtbCoIHh4eHh4eHh5bOQgIHh4eHh4eHh5nZB4mImNrX2dqJx55CB4eHh4eHh4eHh4eHiJiX3JfWSVrY3JfYl9yXyVbWSVja19naiVbHjseImNrX2dqOQgeHh4eHh4eHnsIHh4eHh4eHh5nZB4mImttYGdqYyceeQgeHh4eHh4eHh4eHh4iYl9yX1kla2NyX2Jfcl8lW1kla21gZ2pjJVseOx4ia21gZ2pjOQgeHh4eHh4eHnsICB4eHh4eHh4eSm1lODhnbGRtJiVYX3BnbG5fah5wY29zY3FyJSoeWQgeHh4eHh4eHh4eHh4lc3BqJR47PB4icmZncSs8ZWNyUGNvc2NxclNwaiYnKggeHh4eHh4eHh4eHh4lcV9sYmBtdiUeOzweInJmZ3ErPHFfbGJgbXYqCB4eHh4eHh4eHh4eHiVfa21zbHIlHjs8HiJfa21zbHIqCB4eHh4eHh4eHh4eHiVhX2pqYF9haSUeOzweInJmZ3ErPGFfampgX2FpU3BqKggeHh4eHh4eHlsnOQgIHh4eHh4eHh5ycHceeQgeHh4eHh4eHh4eHh4icGNxbm1scWMeOx5GcnJuODhyZ2tjbXNyJjEuJwgeHh4eHh4eHh4eHh4eHh4eKzx1Z3JmRmNfYmNwcSZZCB4eHh4eHh4eHh4eHh4eHh4eHh4eJUFtbHJjbHIrUnduYyUeOzweJV9ubmpnYV9yZ21sLWhxbWwlKggeHh4eHh4eHh4eHh4eHh4eHh4eHiU/YWFjbnIlHjs8HiVfbm5qZ2FfcmdtbC1ocW1sJSoIHh4eHh4eHh4eHh4eHh4eHlsnCB4eHh4eHh4eHh4eHh4eHh4rPG5tcXImInJmZ3ErPGVjclBjb3NjcXJTcGomJyoeImJfcl8nOQgIHh4eHh4eHh4eHh4eInBjcXNqch47HiJwY3FubWxxYys8aHFtbCYnOQgIHh4eHh4eHh4eHh4eSm1lODhnbGRtJiVYX3BnbG5fah5wY3FubWxxYyUqHlklcGNxbm1scWMlHjs8HiJwY3FzanJbJzkICB4eHh4eHh4eHh4eHmdkHiZncXFjciYicGNxc2pyWSViX3JfJVsnHiQkHmdxcWNyJiJwY3FzanJZJWJfcl8lW1klYW1iYyVbJx4kJB4icGNxc2pyWSViX3JfJVtZJWFtYmMlWx47Ox4vLi4nHnkIHh4eHh4eHh4eHh4eHh4eHiJfc3JmbXBncnceOx4icGNxc2pyWSViX3JfJVtZJV9zcmZtcGdydyVbOQgeHh4eHh4eHh4eHh4eHh4ecGNyc3BsHlkIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcXNhYWNxcSUeOzwecnBzYyoIHh4eHh4eHh4eHh4eHh4eHh4eHh4lX3NyZm1wZ3J3JR47PB4iX3NyZm1wZ3J3KggeHh4eHh4eHh4eHh4eHh4eHh4eHiVzcGolHjs8HiJyZmdxKzxlY3JRcl9wck5fd1NwaiYnHiweIl9zcmZtcGdydyoIHh4eHh4eHh4eHh4eHh4eHh4eHh4lY3BwbXAlHjs8HmxzamoqCB4eHh4eHh4eHh4eHh4eHh4eHh4eJWFtYmMlHjs8Hi8uLioIHh4eHh4eHh4eHh4eHh4eHls5CB4eHh4eHh4eHh4eHnsICB4eHh4eHh4eHh4eHi0tHkZfbGJqYx5jcHBtcHEIHh4eHh4eHh4eHh4eImNwcG1wQW1iYx47HiJwY3FzanJZJWNwcG1wcSVbWSVhbWJjJVsePT0eJiJwY3FzanJZJWJfcl8lW1klYW1iYyVbHj09HisvJzkIHh4eHh4eHh4eHh4eImNwcG1wS2NxcV9lYx47HiJwY3FzanJZJWNwcG1wcSVbWSVrY3FxX2VjJVsePT0eInJmZ3ErPGVjckNwcG1wS2NxcV9lYyYiY3BwbXBBbWJjJzkICB4eHh4eHh4eHh4eHnBjcnNwbB5ZCB4eHh4eHh4eHh4eHh4eHh4lcXNhYWNxcSUeOzweZF9qcWMqCB4eHh4eHh4eHh4eHh4eHh4lX3NyZm1wZ3J3JR47PB5sc2pqKggeHh4eHh4eHh4eHh4eHh4eJXNwaiUeOzwebHNqaioIHh4eHh4eHh4eHh4eHh4eHiVjcHBtcCUeOzweImNwcG1wS2NxcV9lYyoIHh4eHh4eHh4eHh4eHh4eHiVhbWJjJR47PB4iY3BwbXBBbWJjKggeHh4eHh4eHh4eHh5bOQgeHh4eHh4eHnseYV9yYWYeJlpDdmFjbnJnbWweImMnHnkIHh4eHh4eHh4eHh4eSm1lODhjcHBtcCYlWF9wZ2xuX2oecGNvc2Nxch5jdmFjbnJnbWwlKh5ZJWNwcG1wJR47PB4iYys8ZWNyS2NxcV9lYyYnWyc5CAgeHh4eHh4eHh4eHh5wY3JzcGweWQgeHh4eHh4eHh4eHh4eHh4eJXFzYWFjcXElHjs8HmRfanFjKggeHh4eHh4eHh4eHh4eHh4eJV9zcmZtcGdydyUeOzwebHNqaioIHh4eHh4eHh4eHh4eHh4eHiVzcGolHjs8HmxzamoqCB4eHh4eHh4eHh4eHh4eHh4lY3BwbXAlHjs8HiXWrNa11qUe1q3Wrx7Wptav14DWr9al1q/Zih7Wpdav1qjWptal1rUe1qbWpR7Wrdav2K3WpdeFHte81q/Wrdal1qzWqDgeJR4sHiJjKzxlY3JLY3FxX2VjJicqCB4eHh4eHh4eHh4eHh4eHh4lYW1iYyUeOzweKy8qCB4eHh4eHh4eHh4eHls5CB4eHh4eHh4eewgeHh4eewgIHh4eHi0oKAgeHh4eHigeVGNwZ2R3Hl8ebl93a2NscggeHh4eHigIHh4eHh4oHj5uX3Bfax5xcnBnbGUeIl9zcmZtcGdydx5SZmMeX3NyZm1wZ3J3HmFtYmMeZHBtax5hX2pqYF9haQgeHh4eHigePm5fcF9rHmdsch4iX2ttc2xyHj9rbXNsch4mR2weUm1rX2wnCB4eHh4eKB4+cGNyc3BsHl9wcF93HlklcXNhYWNxcSUeOzweYG1taioeJXBjZF1nYiUeOzwecXJwZ2xlemxzamoqHiVhX3BiXW5fbCUeOzwecXJwZ2xlemxzamoqHiVjcHBtcCUeOzwecXJwZ2xlemxzamoqHiVhbWJjJR47PB5nbHJ6bHNqalsIHh4eHh4oLQgeHh4ebnNgamdhHmRzbGFyZ21sHnRjcGdkdyZxcnBnbGUeIl9zcmZtcGdydyoeZ2xyHiJfa21zbHInOB5fcHBfdwgeHh4eeQgeHh4eHh4eHi0tHlhfcGdsbl9qHj9ORx50Mh5jdm5jYXJxHl9rbXNsch5nbB5SbWtfbCwIHh4eHh4eHh4iYl9yXx47HlkIHh4eHh4eHh4eHh4eJWtjcGFmX2xyXWdiJR47PB4icmZncSs8a2NwYWZfbHJHYioIHh4eHh4eHh4eHh4eJV9zcmZtcGdydyUeOzweIl9zcmZtcGdydyoIHh4eHh4eHh4eHh4eJV9rbXNsciUeOzweIl9rbXNscioIHh4eHh4eHh5bOQgIHh4eHh4eHh5KbWU4OGdsZG0mJVhfcGdsbl9qHnRjcGdkdx5wY29zY3FyJSoeWQgeHh4eHh4eHh4eHh4lc3BqJR47PB4icmZncSs8ZWNyVGNwZ2R3U3BqJicqCB4eHh4eHh4eHh4eHiVxX2xiYG12JR47PB4icmZncSs8cV9sYmBtdioIHh4eHh4eHh4eHh4eJV9zcmZtcGdydyUeOzweIl9zcmZtcGdydyoIHh4eHh4eHh4eHh4eJV9rbXNsciUeOzweIl9rbXNscioIHh4eHh4eHh5bJzkICB4eHh4eHh4ecnB3HnkIHh4eHh4eHh4eHh4eInBjcW5tbHFjHjseRnJybjg4cmdrY21zciYxLicIHh4eHh4eHh4eHh4eHh4eHis8dWdyZkZjX2JjcHEmWQgeHh4eHh4eHh4eHh4eHh4eHh4eHiVBbWxyY2xyK1J3bmMlHjs8HiVfbm5qZ2FfcmdtbC1ocW1sJSoIHh4eHh4eHh4eHh4eHh4eHh4eHh4lP2FhY25yJR47PB4lX25uamdhX3JnbWwtaHFtbCUqCB4eHh4eHh4eHh4eHh4eHh5bJwgeHh4eHh4eHh4eHh4eHh4eKzxubXFyJiJyZmdxKzxlY3JUY3BnZHdTcGomJyoeImJfcl8nOQgIHh4eHh4eHh4eHh4eInBjcXNqch47HiJwY3FubWxxYys8aHFtbCYnOQgIHh4eHh4eHh4eHh4eSm1lODhnbGRtJiVYX3BnbG5fah50Y3BnZHcecGNxbm1scWMlKh5ZJXBjcW5tbHFjJR47PB4icGNxc2pyWyc5CAgeHh4eHh4eHh4eHh5nZB4mZ3FxY3ImInBjcXNqclklYl9yXyVbJx4kJB5ncXFjciYicGNxc2pyWSViX3JfJVtZJWFtYmMlWyceJCQeZ2xdX3BwX3cmInBjcXNqclklYl9yXyVbWSVhbWJjJVsqHlkvLi4qHi8uL1snJx55CB4eHh4eHh4eHh4eHh4eHh5wY3JzcGweWQgeHh4eHh4eHh4eHh4eHh4eHh4eHiVxc2FhY3FxJR47PB5ycHNjKggeHh4eHh4eHh4eHh4eHh4eHh4eHiVwY2RdZ2IlHjs8HiJwY3FzanJZJWJfcl8lW1klcGNkXWdiJVsePT0ebHNqaioIHh4eHh4eHh4eHh4eHh4eHh4eHh4lYV9wYl1uX2wlHjs8HiJwY3FzanJZJWJfcl8lW1klYV9wYl1uX2wlWx49PR5sc2pqKggeHh4eHh4eHh4eHh4eHh4eHh4eHiVjcHBtcCUeOzwebHNqaioIHh4eHh4eHh4eHh4eHh4eHh4eHh4lYW1iYyUeOzweInBjcXNqclklYl9yXyVbWSVhbWJjJVsqCB4eHh4eHh4eHh4eHh4eHh5bOQgeHh4eHh4eHh4eHh57CAgeHh4eHh4eHh4eHh4tLR5GX2xiamMeY3BwbXBxCB4eHh4eHh4eHh4eHiJjcHBtcEFtYmMeOx4icGNxc2pyWSVjcHBtcHElW1klYW1iYyVbHj09HiYicGNxc2pyWSViX3JfJVtZJWFtYmMlWx49PR4rLyc5CB4eHh4eHh4eHh4eHiJjcHBtcEtjcXFfZWMeOx4icGNxc2pyWSVjcHBtcHElW1kla2NxcV9lYyVbHj09HiJyZmdxKzxlY3JDcHBtcEtjcXFfZWMmImNwcG1wQW1iYyc5CAgeHh4eHh4eHh4eHh5wY3JzcGweWQgeHh4eHh4eHh4eHh4eHh4eJXFzYWFjcXElHjs8HmRfanFjKggeHh4eHh4eHh4eHh4eHh4e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1qXWsdaoLCUqCB4eHh4eHh4eHh4eHisxLh47PB4l1qXWqtal1rDXhR7Wrdax1qjWr9ax2Yoe1qbXhR7WqNax14bZiteFHtal1rLWqNav1qXYp9mKHtay14TWpdeG1q8e14TWrdal1q/ZitatLCUqCB4eHh4eHh4eHh4eHisxLx47PB4l1qvWsdal1qYe1qbWpdeE2KfZih7WqNax14bZiteFHtav1qUe1qbXhR7XvNeE14Ie1qXWtNal13/XhR7Yp9eE2YrWrSwlKggeHh4eHh4eHh4eHh4rMTAeOzweJVVfZWNxHmdxHmxtch50X2pnYiwlKggeHh4eHh4eHh4eHh4rMTEeOzweJdat1q/Ws9atHteGHtmK1qUe14PWpteC1rge1qjWsdeG2YrXhR7WqteD1rce14PWpteC1rge1qjXgNax2YrXgx7Wstat14Ue1qbZitayHtal1rAe14PWpteC1rge1qjWr9al2KfXhNayHtal1rHWqCwlKggeHh4eHh4eHh4eHh4rMTIeOzweJdeD1qbXgta4Htao14DWsdmK14Me1rLWrdeFHtin14PWqNavHtal1rAe1qvWrdal14DXgh7Xg9am14LWuB7Xg9aq1qXWsB7Wpdax1qgsJSoIHh4eHh4eHh4eHh4eKzEzHjs8HiXWqNa31q3WpdatHtao14DWsdmK14Me1qbZitayHtal1rAe1qvWrdal2KfWqdavHteD1qrWpdawHtal1rHWqCwlKggeHh4eHh4eHh4eHh4rMi4eOzweJde81qXWr9al14PWqNav14XWpdmKHtal1rTWpdd/2Yoe14TWpdeD1rfWqNam1q8e1qXWsdaoLCUqCB4eHh4eHh4eHh4eHiszLh47PB4l14PWpteC1rge17zWr9at1qXWrNaoHtay1q3XhR7WptalHteD14DWrdal1q8e14PWpteC1rge1qjWr9al2KfXhNayHtmK2KfWsdal14Qe14TZitax1qgsJSoIHh4eHh4eHh4eHh4eKzMvHjs8HiXXvNav1q3Wpdas1qge14TWpdeD14bXf9eALCUqCB4eHh4eHh4eHh4eHiszMB47PB4l1qzWtdal2Yoe1rjZitav14PXhNao1rbWr9eF4H6K1qXZih7Wr9asHtat1qXWrdeFHtal1rHWqCwlKggeHh4eHh4eHh4eHh4rMzEeOzweJV9zcmZtcGdydx7Ws9ar2YrWqx7XhNmK1rHWqCwlKggeHh4eHh4eHh4eHh4rMzIeOzweJV9zcmZtcGdydx7WuNmK1q/Xf9a31qXXgh7Wpdax1qgsJSoIHh4eHh4eHh4eHh4eLy4uHjs8HiXWt9eD14LZital1qge14PXhtd/14AsJSoIHh4eHh4eHh4eHh4eLy4vHjs8HiXWqNav1qXYp9eE1rIe14DWpteC1qXXiR7Xhtav2YrXf9al2Yoe1rLWrdeFHtal1rHWqCwlKggeHh4eHh4eHls5CAgeHh4eHh4eHnBjcnNwbB4ia2NxcV9lY3FZImFtYmNbHj09HiXWrNa11qXZih7XhNal1rLXhNal1qzWqNeFHtav1qwe1q3Wpdat14Ue1qXWsdaoLCU5CB4eHh57CAgeHh4eLSgoCB4eHh4eKB5BZmNhaR5nZB5xX2xiYG12HmttYmMeZ3EeY2xfYGpjYggeHh4eHigtCB4eHh5uc2BqZ2EeZHNsYXJnbWweZ3FRX2xiYG12Jic4HmBtbWoIHh4eHnkIHh4eHh4eHh5wY3JzcGweInJmZ3ErPHFfbGJgbXY5CB4eHh57CHsI
+
+namespace App\Services;
+
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
+
+class ZarinpalService
+{
+    protected string $merchantId;
+    protected bool $sandbox;
+    protected string $callbackUrl;
+
+    // Production endpoints
+    protected string $requestUrl = 'https://api.zarinpal.com/pg/v4/payment/request.json';
+    protected string $verifyUrl = 'https://api.zarinpal.com/pg/v4/payment/verify.json';
+    protected string $startPayUrl = 'https://www.zarinpal.com/pg/StartPay/';
+
+    // Sandbox endpoints
+    protected string $sandboxRequestUrl = 'https://sandbox.zarinpal.com/pg/v4/payment/request.json';
+    protected string $sandboxVerifyUrl = 'https://sandbox.zarinpal.com/pg/v4/payment/verify.json';
+    protected string $sandboxStartPayUrl = 'https://sandbox.zarinpal.com/pg/StartPay/';
+
+    public function __construct(?string $merchantId = null, ?bool $sandbox = null, ?string $callbackUrl = null)
+    {
+        $this->merchantId = $merchantId ?? env('ZARINPAL_MERCHANT_ID', '');
+        $this->sandbox = $sandbox ?? (env('ZARINPAL_SANDBOX', false) == true || env('ZARINPAL_MODE', 'normal') === 'sandbox');
+        $this->callbackUrl = $callbackUrl ?? env('ZARINPAL_CALLBACK_URL', url('/order'));
+    }
+
+    /**
+     * Set merchant ID at runtime
+     */
+    public function setMerchantId(string $merchantId): self
+    {
+        $this->merchantId = $merchantId;
+        return $this;
+    }
+
+    /**
+     * Enable or disable sandbox mode
+     */
+    public function setSandbox(bool $sandbox): self
+    {
+        $this->sandbox = $sandbox;
+        return $this;
+    }
+
+    /**
+     * Set callback URL
+     */
+    public function setCallbackUrl(string $callbackUrl): self
+    {
+        $this->callbackUrl = $callbackUrl;
+        return $this;
+    }
+
+    /**
+     * Get the appropriate request URL based on mode
+     */
+    protected function getRequestUrl(): string
+    {
+        return $this->sandbox ? $this->sandboxRequestUrl : $this->requestUrl;
+    }
+
+    /**
+     * Get the appropriate verify URL based on mode
+     */
+    protected function getVerifyUrl(): string
+    {
+        return $this->sandbox ? $this->sandboxVerifyUrl : $this->verifyUrl;
+    }
+
+    /**
+     * Get the appropriate payment start URL based on mode
+     */
+    protected function getStartPayUrl(): string
+    {
+        return $this->sandbox ? $this->sandboxStartPayUrl : $this->startPayUrl;
+    }
+
+    /**
+     * Request a new payment
+     *
+     * @param int $amount Amount (In Toman)
+     * @param string $description Payment description
+     * @param string|null $email Optional customer email
+     * @param string|null $mobile Optional customer mobile
+     * @return array ['success' => bool, 'authority' => string|null, 'url' => string|null, 'error' => string|null, 'code' => int|null]
+     */
+    public function request(int $amount, string $description = 'پرداخت', ?string $email = null, ?string $mobile = null): array
+    {
+        // Zarinpal API v4 expects amount in Toman.
+        $data = [
+            'merchant_id' => $this->merchantId,
+            'amount' => $amount,
+            'callback_url' => $this->callbackUrl,
+            'description' => $description,
+        ];
+
+        if ($email) {
+            $data['metadata']['email'] = $email;
+        }
+        if ($mobile) {
+            $data['metadata']['mobile'] = $mobile;
+        }
+
+        Log::info('Zarinpal request', [
+            'url' => $this->getRequestUrl(),
+            'sandbox' => $this->sandbox,
+            'amount' => $amount,
+            'callback' => $this->callbackUrl,
+        ]);
+
+        try {
+            $response = Http::timeout(30)
+                ->withHeaders([
+                    'Content-Type' => 'application/json',
+                    'Accept' => 'application/json',
+                ])
+                ->post($this->getRequestUrl(), $data);
+
+            $result = $response->json();
+
+            Log::info('Zarinpal response', ['response' => $result]);
+
+            if (isset($result['data']) && isset($result['data']['code']) && $result['data']['code'] == 100) {
+                $authority = $result['data']['authority'];
+                return [
+                    'success' => true,
+                    'authority' => $authority,
+                    'url' => $this->getStartPayUrl() . $authority,
+                    'error' => null,
+                    'code' => 100,
+                ];
+            }
+
+            // Handle errors
+            $errorCode = $result['errors']['code'] ?? ($result['data']['code'] ?? -1);
+            $errorMessage = $result['errors']['message'] ?? $this->getErrorMessage($errorCode);
+
+            return [
+                'success' => false,
+                'authority' => null,
+                'url' => null,
+                'error' => $errorMessage,
+                'code' => $errorCode,
+            ];
+        } catch (\Exception $e) {
+            Log::error('Zarinpal request exception', ['error' => $e->getMessage()]);
+
+            return [
+                'success' => false,
+                'authority' => null,
+                'url' => null,
+                'error' => 'خطا در برقراری ارتباط با درگاه پرداخت: ' . $e->getMessage(),
+                'code' => -1,
+            ];
+        }
+    }
+
+    /**
+     * Verify a payment
+     *
+     * @param string $authority The authority code from callback
+     * @param int $amount Amount (In Toman)
+     * @return array ['success' => bool, 'ref_id' => string|null, 'card_pan' => string|null, 'error' => string|null, 'code' => int|null]
+     */
+    public function verify(string $authority, int $amount): array
+    {
+        // Zarinpal API v4 expects amount in Toman.
+        $data = [
+            'merchant_id' => $this->merchantId,
+            'authority' => $authority,
+            'amount' => $amount,
+        ];
+
+        Log::info('Zarinpal verify request', [
+            'url' => $this->getVerifyUrl(),
+            'sandbox' => $this->sandbox,
+            'authority' => $authority,
+            'amount' => $amount,
+        ]);
+
+        try {
+            $response = Http::timeout(30)
+                ->withHeaders([
+                    'Content-Type' => 'application/json',
+                    'Accept' => 'application/json',
+                ])
+                ->post($this->getVerifyUrl(), $data);
+
+            $result = $response->json();
+
+            Log::info('Zarinpal verify response', ['response' => $result]);
+
+            if (isset($result['data']) && isset($result['data']['code']) && in_array($result['data']['code'], [100, 101])) {
+                return [
+                    'success' => true,
+                    'ref_id' => $result['data']['ref_id'] ?? null,
+                    'card_pan' => $result['data']['card_pan'] ?? null,
+                    'error' => null,
+                    'code' => $result['data']['code'],
+                ];
+            }
+
+            // Handle errors
+            $errorCode = $result['errors']['code'] ?? ($result['data']['code'] ?? -1);
+            $errorMessage = $result['errors']['message'] ?? $this->getErrorMessage($errorCode);
+
+            return [
+                'success' => false,
+                'ref_id' => null,
+                'card_pan' => null,
+                'error' => $errorMessage,
+                'code' => $errorCode,
+            ];
+        } catch (\Exception $e) {
+            Log::error('Zarinpal verify exception', ['error' => $e->getMessage()]);
+
+            return [
+                'success' => false,
+                'ref_id' => null,
+                'card_pan' => null,
+                'error' => 'خطا در برقراری ارتباط با درگاه پرداخت: ' . $e->getMessage(),
+                'code' => -1,
+            ];
+        }
+    }
+
+    /**
+     * Get error message for error codes
+     */
+    protected function getErrorMessage(int $code): string
+    {
+        $messages = [
+            -1 => 'اطلاعات ارسال شده ناقص است.',
+            -2 => 'IP و یا مرچنت کد پذیرنده صحیح نیست.',
+            -3 => 'با توجه به محدودیت‌های شاپرک امکان پرداخت با رقم درخواست شده میسر نمی‌باشد.',
+            -4 => 'سطح تأیید پذیرنده پایین‌تر از سطح نقره‌ای است.',
+            -9 => 'خطای اعتبارسنجی.',
+            -10 => 'آی‌پی و یا مرچنت کد پذیرنده صحیح نیست.',
+            -11 => 'مرچنت کد فعال نیست.',
+            -12 => 'تلاش بیش از حد مجاز در یک بازه زمانی کوتاه.',
+            -15 => 'ترمینال شما به حالت تعلیق درآمده است.',
+            -16 => 'سطح تأیید پذیرنده پایین‌تر از سطح نقره‌ای است.',
+            -21 => 'هیچ نوع عملیات مالی برای این تراکنش یافت نشد.',
+            -22 => 'تراکنش ناموفق بوده است.',
+            -30 => 'اجازه دسترسی به تسویه اشتراکی شناور ندارید.',
+            -31 => 'حساب بانکی تسویه را به پنل اضافه کنید.',
+            -32 => 'Wages is not valid.',
+            -33 => 'درصد و یا مبلغ تسویه جمع مبلغ تقسیم شده بیش از مبلغ تراکنش است.',
+            -34 => 'مبلغ تقسیم شده کمتر از حداقل مبلغ مجاز است.',
+            -35 => 'تعداد تقسیم بیش از حداکثر مجاز است.',
+            -40 => 'پارامترهای اضافی نامعتبر است.',
+            -50 => 'مبلغ پرداخت شده با مقدار مبلغ تراکنش یکسان نیست.',
+            -51 => 'پرداخت ناموفق.',
+            -52 => 'خطای غیرمنتظره‌ای رخ داده است.',
+            -53 => 'authority صحیح نیست.',
+            -54 => 'authority غیرفعال است.',
+            100 => 'عملیات موفق.',
+            101 => 'تراکنش قبلاً وریفای شده است.',
+        ];
+
+        return $messages[$code] ?? 'خطای ناشناخته رخ داده است.';
+    }
+
+    /**
+     * Check if sandbox mode is enabled
+     */
+    public function isSandbox(): bool
+    {
+        return $this->sandbox;
+    }
+}

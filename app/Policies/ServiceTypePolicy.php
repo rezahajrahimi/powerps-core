@@ -1,3 +1,66 @@
 <?php
-bolt_decrypt( __FILE__ , 'OmUyjp'); return 0;
-##!!!##bm7SxdHJ19TFx8mEpdTUwLTT0M3HzcnXn25u2dfJhKXU1MCx08jJ0NfAt8nW2s3Hybjd1MmfbtnXyYSl1NTAsdPIydDXwLnXydafbtnXyYSt0NDZ0c3SxdjJwKXZ2MzApcfHydfXwLbJ19TT0tfJn25ux9DF19eEt8nW2s3Hybjd1Mm009DNx91u326EhISEk46OboSEhISEjoSoydjJ1tHN0smE28zJ2MzJ1oTYzMmE2dfJ1oTHxdKE2s3J24TF0t2E0dPIydDXkm6EhISEhI6TboSEhITU2cbQzceEytnSx9jN09KE2s3J26XS3Yy518nWhIjZ18nWjZ6ExtPT0G6EhISE326EhISEhISEhJOTboSEhIThbm6EhISEk46OboSEhISEjoSoydjJ1tHN0smE28zJ2MzJ1oTYzMmE2dfJ1oTHxdKE2s3J24TYzMmE0dPIydCSboSEhISEjpNuhISEhNTZxtDNx4TK2dLH2M3T0oTazcnbjLnXydaEiNnXydaQhLfJ1trNx8m43dTJhIjXydbazcfJuN3UyY2ehMbT09BuhISEhN9uhISEhISEhISTk26EhISE4W5uhISEhJOOjm6EhISEhI6EqMnYydbRzdLJhNvMydjMydaE2MzJhNnXydaEx8XShMfWycXYyYTR08jJ0NeSboSEhISEjpNuhISEhNTZxtDNx4TK2dLH2M3T0oTH1snF2MmMudfJ1oSI2dfJ1o2ehMbT09BuhISEhN9uhISEhISEhISTk26EhISE4W5uhISEhJOOjm6EhISEhI6EqMnYydbRzdLJhNvMydjMydaE2MzJhNnXydaEx8XShNnUyMXYyYTYzMmE0dPIydCSboSEhISEjpNuhISEhNTZxtDNx4TK2dLH2M3T0oTZ1MjF2MmMudfJ1oSI2dfJ1pCEt8nW2s3Hybjd1MmEiNfJ1trNx8m43dTJjZ6ExtPT0G6EhISE326EhISEhISEhJOTboSEhIThbm6EhISEk46OboSEhISEjoSoydjJ1tHN0smE28zJ2MzJ1oTYzMmE2dfJ1oTHxdKEyMnQydjJhNjMyYTR08jJ0JJuhISEhISOk26EhISE1NnG0M3HhMrZ0sfYzdPShMjJ0MnYyYy518nWhIjZ18nWkIS3ydbazcfJuN3UyYSI18nW2s3Hybjd1MmNnoTG09PQboSEhITfboSEhISEhISEk5NuhISEhOFuboSEhISTjo5uhISEhISOhKjJ2MnW0c3SyYTbzMnYzMnWhNjMyYTZ18nWhMfF0oTWydfY09bJhNjMyYTR08jJ0JJuhISEhISOk26EhISE1NnG0M3HhMrZ0sfYzdPShNbJ19jT1smMudfJ1oSI2dfJ1pCEt8nW2s3Hybjd1MmEiNfJ1trNx8m43dTJjZ6ExtPT0G6EhISE326EhISEhISEhJOTboSEhIThbm6EhISEk46OboSEhISEjoSoydjJ1tHN0smE28zJ2MzJ1oTYzMmE2dfJ1oTHxdKE1MnW0cXSydLY0N2EyMnQydjJhNjMyYTR08jJ0JJuhISEhISOk26EhISE1NnG0M3HhMrZ0sfYzdPShMrT1sfJqMnQydjJjLnXydaEiNnXydaQhLfJ1trNx8m43dTJhIjXydbazcfJuN3UyY2ehMbT09BuhISEhN9uhISEhISEhISTk26EhISE4W7hbg==
+
+namespace App\Policies;
+
+use App\Models\ServiceType;
+use App\Models\User;
+use Illuminate\Auth\Access\Response;
+
+class ServiceTypePolicy
+{
+    /**
+     * Determine whether the user can view any models.
+     */
+    public function viewAny(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can view the model.
+     */
+    public function view(User $user, ServiceType $serviceType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can create models.
+     */
+    public function create(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can update the model.
+     */
+    public function update(User $user, ServiceType $serviceType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can delete the model.
+     */
+    public function delete(User $user, ServiceType $serviceType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can restore the model.
+     */
+    public function restore(User $user, ServiceType $serviceType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can permanently delete the model.
+     */
+    public function forceDelete(User $user, ServiceType $serviceType): bool
+    {
+        //
+    }
+}

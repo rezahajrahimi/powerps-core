@@ -1,3 +1,170 @@
 <?php
-bolt_decrypt( __FILE__ , 'Dcsoti'); return 0;
-##!!!##cHDUx9PL2dbHycuGp9bWwq7a2tbCqdXU2tjV0tLL2NmhcHDb2cuGp9bWwrPVysvS2cK22NXT1anVysuhcNvZy4an1tbCs9XKy9LZwrbY1dPVqdXKy7vZx83LoXDb2cuGp9bWwrnL2NzPycvZwrLPycvU2cusy8fa29jLucvY3M/Jy6Fw29nLhqfW1sK5y9jcz8nL2cK22NXT1anVysu5y9jcz8nLoXDb2cuGr9LS29PP1Mfay8Ku2trWwrjL19vL2dqhcHDJ0sfZ2Ya22NXT1anVysup1dTa2NXS0svYhsve2svUytmGqdXU2tjV0tLL2HDhcIaGhobW28jSz8mGzNvUydrP1dSGxcXJ1dTZ2tjbydqO1tjP3Mfay4ayz8nL1NnLrMvH2tvYy7nL2NzPycuGitLPycvU2cuPhuHjcHCGhoaG1tvI0s/Jhszb1Mnaz9XUhs/Uysvejo9whoaGhuFwhoaGhoaGhobPzIaOitrOz9mTpNLPycvU2cuTpM/ZqNjV1ODLtdioy9LV3Y6Pj4bhcIaGhoaGhoaGhoaGhtjL2tvY1IaK2s7P2ZOk0s/Jy9TZy5Ok2c/S3MvYuMvX28/Yy8q4y9nW1dTZy46PoXCGhoaGhoaGhuNwcIaGhoaGhoaG2Mva29jUhtjL2dbV1NnLjo+TpNDZ1dSOttjV09Wp1crLoKDV2MrL2KjfqsvZyY6Nz8qNj5Okzcvajo+PoXCGhoaG43BwhoaGhtbbyNLPyYbM29TJ2s/V1IbZ2tXYy464y9fby9nahorYy9fby9naj3CGhoaG4XCGhoaGhoaGhs/Mho6K2s7P2ZOk0s/Jy9TZy5Okz9mo2NXU4Mu12KjL0tXdjo+PhuFwhoaGhoaGhoaGhoaG2Mva29jUhorazs/Zk6TSz8nL1NnLk6TZz9Lcy9i4y9fbz9jLyrjL2dbV1NnLjo+hcIaGhoaGhoaG43BwhoaGhoaGhobPzIaOh4aK2s7P2ZOk0s/Jy9TZy5Okz9mt1dLKjo+GjIyGttjV09Wp1crLoKDJ1dvU2o6PhqSjhrLPycvU2cusy8fa29jLucvY3M/Jy6Cgua+yvKu4xba4tbO1xbOnvo+G4XCGhoaGhoaGhoaGhobYy9rb2NSG2MvZ1tXU2cuOj5Ok0NnV1I7BcIaGhoaGhoaGhoaGhoaGhoaN08vZ2cfNy42Go6SGjT4VPheGP+o+DUHyPhk/7D4Zhj/sP+g+Fz/tSObyPg1B8oY+Ez4VPg1ADz4RPheGjYaUhrLPycvU2cusy8fa29jLucvY3M/Jy6Cgua+yvKu4xba4tbO1xbOnvoaUho2GQA8+FYY+ED4UP+dB8j/nhj/rPhI+DT4Yhj4NPhk+EJSNknCGhoaGhoaGhoaGhobDkoaalpmPoXCGhoaGhoaGhuNwcIaGhoaGhoaGisfS0tXdy8q639bL2Yajhorazs/Zk6TSz8nL1NnLk6TP2a3V0sqOj3CGhoaGhoaGhoaGhoalho3Wy9jJy9TakszP3svKxdrV08fUkszP3svKxcrV0tLH2I1whoaGhoaGhoaGhoaGoIaN1svYycvU2pLMz97LysXa1dPH1I2hcHCGhoaGhoaGhorKx9rHhqOGitjL19vL2dqTpNzH0s/Kx9rLjsFwhoaGhoaGhoaGhoaGjcnVysuNhqOkho3Yy9fbz9jLyuLZ2tjP1M3i08feoJuW4tvUz9fby6DW2NXT1cXJ1crL2ZLJ1crLjZJwhoaGhoaGhoaGhoaGjdrf1suNhqOkho3Yy9fbz9jLyuLP1KCNhpSGisfS0tXdy8q639bL2ZJwhoaGhoaGhoaGhoaGjdzH0tvLjYajpIaN2MvX28/Yy8ri1NvTy9jPyeLTz9Sglo2ScIaGhoaGhoaGhoaGho3Tx97F29nL2Y2Go6SGjdTb0tLHyNLL4s/U2svNy9ji08/UoJeNknCGhoaGhoaGhoaGhoaN08fexdvZy9nF1svYxdvZy9iNhqOkho3U29LSx8jSy+LP1NrLzcvY4tPP1KCXjZJwhoaGhoaGhoaGhoaGjdnax9ja2cXH2o2Go6SGjdTb0tLHyNLL4srH2suNknCGhoaGhoaGhoaGhoaNy97Wz9jL2cXH2o2Go6SGjdTb0tLHyNLL4srH2suNknCGhoaGhoaGhoaGhoaN08/UxdXYysvYxcfT1dvU2o2Go6SGjdTb0tLHyNLL4tTb08vYz8ni08/UoJaNknCGhoaGhoaGhoaGhoaNx9LS1d3LysXJx9rLzdXY38XPytmNhqOkho3U29LSx8jSy+LH2NjH342ScIaGhoaGhoaGhoaGho3H0tLV3cvKxdvZy9jFzdjV29bFz8rZjYajpIaN1NvS0sfI0svix9jYx9+NknCGhoaGhoaGhoaGhoaNz9nFx8naz9zLjYajpIaNyNXV0svH1I2ScIaGhoaGhoaGw4+hcHCGhoaGhoaGhs/Mho6Hhorazs/Zk6TSz8nL1NnLk6TP2a3V0sqOj4+G4XCGhoaGhoaGhoaGhobb1NnL2o6Kysfax8GNx9LS1d3LysXJx9rLzdXY38XPytmNw5KGisrH2sfBjcfS0tXdy8rF29nL2MXN2NXb1sXPytmNw4+hcIaGhoaGhoaG43BwhoaGhoaGhoaKysfax8GNydXKy43DhqOG2drY2tXb1tbL2I7a2M/TjorKx9rHwY3J1crLjcOPj6FwhoaGhoaGhobPzIaOjorKx9rHwY3a39bLjcOGpaWGjY2PhqOjo4aN1svYycvU2o2GjIyGjszS1cfaj4aKysfax8GN3MfS28uNw4akhpeWlo+G4XCGhoaGhoaGhoaGhobYy9rb2NSG2MvZ1tXU2cuOj5Ok0NnV1I7BcIaGhoaGhoaGhoaGhoaGhoaN08vZ2cfNy42Go6SGjT4VPhc+Gz4Vhj4QPhQ/50HyP+eGPg4+DUHyPhWGPg5B8j/shkEWhj4QPg2GQRdBFkEWhj4OPg0+Gj4VlI2ScIaGhoaGhoaGhoaGhoaGhoaNy9jY1djZjYajpIbBjdzH0tvLjYajpIbBjT4VPhc+Gz4Vhj4QPhQ/50HyP+eGPg4+DUHyPhWGPg5B8j/shkEWhj4QPg2GQRdBFkEWhj4OPg0+Gj4VlI3Dw5JwhoaGhoaGhoaGhoaGw5KGmpiYj6FwhoaGhoaGhobjcIaGhoaGhoaGitbY1dPVhqOGttjV09Wp1crLoKDJ2MvH2suOisrH2sePoXBwhoaGhoaGhobYy9rb2NSG2MvZ1tXU2cuOj5Ok0NnV1I6K1tjV09WShpiWl4+hcIaGhobjcHCGhoaG1tvI0s/Jhszb1Mnaz9XUhtvWysfay464y9fby9nahorYy9fby9nakobP1NqGis/Kj3CGhoaG4XCGhoaGhoaGhs/Mho6K2s7P2ZOk0s/Jy9TZy5Okz9mo2NXU4Mu12KjL0tXdjo+PhuFwhoaGhoaGhoaGhoaG2Mva29jUhorazs/Zk6TSz8nL1NnLk6TZz9Lcy9i4y9fbz9jLyrjL2dbV1NnLjo+hcIaGhoaGhoaG43BwhoaGhoaGhoaK1tjV09WGo4a22NXT1anVysugoMzP1Mq12KzHz9KOis/Kj6FwhoaGhoaGhoaKx9LS1d3Lyrrf1svZhqOGitrOz9mTpNLPycvU2cuTpM/ZrdXSyo6PcIaGhoaGhoaGhoaGhqWGjdbL2MnL1NqSzM/ey8rF2tXTx9SSzM/ey8rFytXS0sfYjXCGhoaGhoaGhoaGhoagho3Wy9jJy9TakszP3svKxdrV08fUjaFwcIaGhoaGhoaGisrH2seGo4aK2MvX28vZ2pOk3MfSz8rH2suOwXCGhoaGhoaGhoaGhoaNydXKy42Go6SGjdnV08vaz9PL2eLZ2tjP1M3i08feoJuW4tvUz9fby6DW2NXT1cXJ1crL2ZLJ1crLko2GlIaKz8qScIaGhoaGhoaGhoaGho3a39bLjYajpIaN2dXTy9rP08vZ4s/UoI2GlIaKx9LS1d3Lyrrf1svZknCGhoaGhoaGhoaGhoaN3MfS28uNhqOkho3Z1dPL2s/Ty9ni1NvTy9jPyeLTz9Sglo2ScIaGhoaGhoaGhoaGho3Tx97F29nL2Y2Go6SGjdTb0tLHyNLL4s/U2svNy9ji08/UoJeNknCGhoaGhoaGhoaGhoaN08fexdvZy9nF1svYxdvZy9iNhqOkho3U29LSx8jSy+LP1NrLzcvY4tPP1KCXjZJwhoaGhoaGhoaGhoaGjdnax9ja2cXH2o2Go6SGjdTb0tLHyNLL4srH2suNknCGhoaGhoaGhoaGhoaNy97Wz9jL2cXH2o2Go6SGjdTb0tLHyNLL4srH2suNknCGhoaGhoaGhoaGhoaN08/UxdXYysvYxcfT1dvU2o2Go6SGjdTb0tLHyNLL4tTb08vYz8ni08/UoJaNknCGhoaGhoaGhoaGhoaNx9LS1d3LysXJx9rLzdXY38XPytmNhqOkho3U29LSx8jSy+LH2NjH342ScIaGhoaGhoaGhoaGho3H0tLV3cvKxdvZy9jFzdjV29bFz8rZjYajpIaN1NvS0sfI0svix9jYx9+NknCGhoaGhoaGhoaGhoaNz9nFx8naz9zLjYajpIaNyNXV0svH1I2ScIaGhoaGhoaGw4+hcHCGhoaGhoaGhs/Mho6Hhorazs/Zk6TSz8nL1NnLk6TP2a3V0sqOj4+G4XCGhoaGhoaGhoaGhobb1NnL2o6Kysfax8GNx9LS1d3LysXJx9rLzdXY38XPytmNw5KGisrH2sfBjcfS0tXdy8rF29nL2MXN2NXb1sXPytmNw4+hcIaGhoaGhoaG43BwhoaGhoaGhobPzIaOz9nZy9qOisrH2sfBjcnVysuNw4+PhuFwhoaGhoaGhoaGhoaGisrH2sfBjcnVysuNw4ajhtna2NrV29bWy9iO2tjP046Kysfax8GNydXKy43Dj4+hcIaGhoaGhoaG43BwhoaGhoaGhoaK2t/Wy4ajhorKx9rHwY3a39bLjcOGpaWGitbY1dPVk6Ta39bLoXCGhoaGhoaGhs/Mho6K2t/Wy4ajo6OGjdbL2MnL1NqNhoyMhsfY2MffxdHL38XL3s/Z2tmOjdzH0tvLjZKGisrH2sePhoyMho7M0tXH2o+GisrH2sfBjdzH0tvLjcOGpIaXlpaPhuFwhoaGhoaGhoaGhoaG2Mva29jUhtjL2dbV1NnLjo+TpNDZ1dSOwXCGhoaGhoaGhoaGhoaGhoaGjdPL2dnHzcuNhqOkho0+FT4XPhs+FYY+ED4UP+dB8j/nhj4OPg1B8j4Vhj4OQfI/7IZBFoY+ED4NhkEXQRZBFoY+Dj4NPho+FZSNknCGhoaGhoaGhoaGhoaGhoaGjcvY2NXY2Y2Go6SGwY3cx9Lby42Go6SGwY0+FT4XPhs+FYY+ED4UP+dB8j/nhj4OPg1B8j4Vhj4OQfI/7IZBFoY+ED4NhkEXQRZBFoY+Dj4NPho+FZSNw8OScIaGhoaGhoaGhoaGhsOShpqYmI+hcIaGhoaGhoaG43BwhoaGhoaGhoaK1tjV09WTpNvWysfay46Kysfax4+hcHCGhoaGhoaGhtjL2tvY1IbYy9nW1dTZy46Pk6TQ2dXUjorW2NXT1Y+hcIaGhobjcHCGhoaG1tvI0s/Jhszb1Mnaz9XUhsrL2drY1d+Oz9TahorPyo9whoaGhuFwhoaGhoaGhobPzIaOitrOz9mTpNLPycvU2cuTpM/ZqNjV1ODLtdioy9LV3Y6Pj4bhcIaGhoaGhoaGhoaGhtjL2tvY1IaK2s7P2ZOk0s/Jy9TZy5Ok2c/S3MvYuMvX28/Yy8q4y9nW1dTZy46PoXCGhoaGhoaGhuNwcIaGhoaGhoaGttjV09Wp1crLoKDMz9TKtdisx8/SjorPyo+TpMrL0svay46PoXBwhoaGhoaGhobYy9rb2NSG2MvZ1tXU2cuOj5Ok0NnV1I7a2NvLj6FwhoaGhuNwcIaGhobW28jSz8mGzNvUydrP1dSG29nHzcvZjrjL19vL2dqGitjL19vL2dqShs/U2oaKz8qPcIaGhobhcIaGhoaGhoaGz8yGjoeGitrOz9mTpNLPycvU2cuTpM/ZrdXSyo6Pj4bhcIaGhoaGhoaGhoaGhtjL2tvY1IaK2s7P2ZOk0s/Jy9TZy5OkzdXSyrjL19vP2MvKuMvZ1tXU2cuOj6FwhoaGhoaGhobjcHCGhoaGhoaGhrbY1dPVqdXKy6CgzM/UyrXYrMfP0o6Kz8qPoXBwhoaGhoaGhoaK1sfNz9TH2svKhqOGttjV09Wp1crLu9nHzcugoNbHzc/Ux9rLrNXYttjV09WOcIaGhoaGhoaGhoaGhorPypJwhoaGhoaGhoaGhoaGjs/U2o+GitjL19vL2dqTpM/U1tvajo3Wx83LjZKGl4+ScIaGhoaGhoaGhoaGho7P1NqPhorYy9fby9nak6TP1Nbb2o6N1svYxdbHzcuNkoaXm49whoaGhoaGhoaPoXBwhoaGhoaGhobYy9rb2NSG2MvZ1tXU2cuOj5Ok0NnV1I7BcIaGhoaGhoaGhoaGho3Kx9rHjYajpIaK1sfNz9TH2svKk6TP2svT2Y6PknCGhoaGhoaGhoaGhoaNydvY2MvU2sXWx83LjYajpIaK1sfNz9TH2svKk6TJ29jYy9TatsfNy46PknCGhoaGhoaGhoaGhoaN0sfZ2sXWx83LjYajpIaK1sfNz9TH2svKk6TSx9natsfNy46PknCGhoaGhoaGhoaGhoaN1svYxdbHzcuNhqOkhorWx83P1Mfay8qTpNbL2LbHzcuOj5JwhoaGhoaGhoaGhoaGjdrV2sfSjYajpIaK1sfNz9TH2svKk6Ta1drH0o6PknCGhoaGhoaGhsOPoXCGhoaG43BwhoaGhtbbyNLPyYbM29TJ2s/V1Ibcx9LPysfay6nVysuOuMvX28vZ2oaK2MvX28vZ2pKGttjV09Wp1crLucvY3M/Jy4aK2cvY3M/Jy49whoaGhuFwhoaGhoaGhoaK2MvX28vZ2pOk3MfSz8rH2suOwXCGhoaGhoaGhoaGhoaNydXKy42Go6SGjdjL19vP2MvK4tna2M/UzY2ScIaGhoaGhoaGhoaGho3HycnV29Taxc/KjYajpIaN2MvX28/Yy8ri2drYz9TNjZJwhoaGhoaGhoaGhoaGjcnH2svN1djfxc/KjYajpIaN2MvX28/Yy8riz9Tay83L2I2ScIaGhoaGhoaGhoaGho3W2M/Jy8Xa1dPH1I2Go6SGjdjL19vP2MvK4tTb08vYz8mNknCGhoaGhoaGhoaGhoaN1tjPycvFytXS0sfYjYajpIaN1NvS0sfI0svi1NvTy9jPyY2ScIaGhoaGhoaGw4+hcHCGhoaGhoaGhorYy9nb0tqGo4aK2cvY3M/Jy5Ok3MfSz8rH2suOcIaGhoaGhoaGhoaGhorYy9fby9nak6TJ1crLknCGhoaGhoaGhoaGhoaK2MvX28vZ2pOkx8nJ1dvU2sXPypJwhoaGhoaGhoaGhoaGjs/U2o+GitjL19vL2dqTpMnH2svN1djfxc/KknCGhoaGhoaGhoaGhoaOzNLVx9qPhorYy9fby9nak6TW2M/Jy8Xa1dPH1JJwhoaGhoaGhoaGhoaGjszS1cfaj4aOitjL19vL2dqTpNbYz8nLxcrV0tLH2IalpYaWj3CGhoaGhoaGho+hcHCGhoaGhoaGhtjL2tvY1IbYy9nW1dTZy46Pk6TQ2dXUjorYy9nb0tqShorYy9nb0trBjdzH0s/KjcOGpYaYlpaGoIaamJiPoXCGhoaG43DjcA==
+
+namespace App\Http\Controllers;
+
+use App\Models\PromoCode;
+use App\Models\PromoCodeUsage;
+use App\Services\LicenseFeatureService;
+use App\Services\PromoCodeService;
+use Illuminate\Http\Request;
+
+class PromoCodeController extends Controller
+{
+    public function __construct(private LicenseFeatureService $license) {}
+
+    public function index()
+    {
+        if ($this->license->isBronzeOrBelow()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        return response()->json(PromoCode::orderByDesc('id')->get());
+    }
+
+    public function store(Request $request)
+    {
+        if ($this->license->isBronzeOrBelow()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        if (! $this->license->isGold() && PromoCode::count() >= LicenseFeatureService::SILVER_PROMO_MAX) {
+            return response()->json([
+                'message' => 'در لایسنس نقره‌ای حداکثر ' . LicenseFeatureService::SILVER_PROMO_MAX . ' کد تخفیف مجاز است.',
+            ], 403);
+        }
+
+        $allowedTypes = $this->license->isGold()
+            ? 'percent,fixed_toman,fixed_dollar'
+            : 'percent,fixed_toman';
+
+        $data = $request->validate([
+            'code' => 'required|string|max:50|unique:promo_codes,code',
+            'type' => 'required|in:' . $allowedTypes,
+            'value' => 'required|numeric|min:0',
+            'max_uses' => 'nullable|integer|min:1',
+            'max_uses_per_user' => 'nullable|integer|min:1',
+            'starts_at' => 'nullable|date',
+            'expires_at' => 'nullable|date',
+            'min_order_amount' => 'nullable|numeric|min:0',
+            'allowed_category_ids' => 'nullable|array',
+            'allowed_user_group_ids' => 'nullable|array',
+            'is_active' => 'boolean',
+        ]);
+
+        if (! $this->license->isGold()) {
+            unset($data['allowed_category_ids'], $data['allowed_user_group_ids']);
+        }
+
+        $data['code'] = strtoupper(trim($data['code']));
+        if (($data['type'] ?? '') === 'percent' && (float) $data['value'] > 100) {
+            return response()->json([
+                'message' => 'درصد تخفیف باید بین ۰ تا ۱۰۰ باشد.',
+                'errors' => ['value' => ['درصد تخفیف باید بین ۰ تا ۱۰۰ باشد.']],
+            ], 422);
+        }
+        $promo = PromoCode::create($data);
+
+        return response()->json($promo, 201);
+    }
+
+    public function update(Request $request, int $id)
+    {
+        if ($this->license->isBronzeOrBelow()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        $promo = PromoCode::findOrFail($id);
+        $allowedTypes = $this->license->isGold()
+            ? 'percent,fixed_toman,fixed_dollar'
+            : 'percent,fixed_toman';
+
+        $data = $request->validate([
+            'code' => 'sometimes|string|max:50|unique:promo_codes,code,' . $id,
+            'type' => 'sometimes|in:' . $allowedTypes,
+            'value' => 'sometimes|numeric|min:0',
+            'max_uses' => 'nullable|integer|min:1',
+            'max_uses_per_user' => 'nullable|integer|min:1',
+            'starts_at' => 'nullable|date',
+            'expires_at' => 'nullable|date',
+            'min_order_amount' => 'nullable|numeric|min:0',
+            'allowed_category_ids' => 'nullable|array',
+            'allowed_user_group_ids' => 'nullable|array',
+            'is_active' => 'boolean',
+        ]);
+
+        if (! $this->license->isGold()) {
+            unset($data['allowed_category_ids'], $data['allowed_user_group_ids']);
+        }
+
+        if (isset($data['code'])) {
+            $data['code'] = strtoupper(trim($data['code']));
+        }
+
+        $type = $data['type'] ?? $promo->type;
+        if ($type === 'percent' && array_key_exists('value', $data) && (float) $data['value'] > 100) {
+            return response()->json([
+                'message' => 'درصد تخفیف باید بین ۰ تا ۱۰۰ باشد.',
+                'errors' => ['value' => ['درصد تخفیف باید بین ۰ تا ۱۰۰ باشد.']],
+            ], 422);
+        }
+
+        $promo->update($data);
+
+        return response()->json($promo);
+    }
+
+    public function destroy(int $id)
+    {
+        if ($this->license->isBronzeOrBelow()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        PromoCode::findOrFail($id)->delete();
+
+        return response()->json(true);
+    }
+
+    public function usages(Request $request, int $id)
+    {
+        if (! $this->license->isGold()) {
+            return $this->license->goldRequiredResponse();
+        }
+
+        PromoCode::findOrFail($id);
+
+        $paginated = PromoCodeUsage::paginateForPromo(
+            $id,
+            (int) $request->input('page', 1),
+            (int) $request->input('per_page', 15)
+        );
+
+        return response()->json([
+            'data' => $paginated->items(),
+            'current_page' => $paginated->currentPage(),
+            'last_page' => $paginated->lastPage(),
+            'per_page' => $paginated->perPage(),
+            'total' => $paginated->total(),
+        ]);
+    }
+
+    public function validateCode(Request $request, PromoCodeService $service)
+    {
+        $request->validate([
+            'code' => 'required|string',
+            'account_id' => 'required|string',
+            'category_id' => 'required|integer',
+            'price_toman' => 'required|numeric',
+            'price_dollar' => 'nullable|numeric',
+        ]);
+
+        $result = $service->validate(
+            $request->code,
+            $request->account_id,
+            (int) $request->category_id,
+            (float) $request->price_toman,
+            (float) ($request->price_dollar ?? 0)
+        );
+
+        return response()->json($result, $result['valid'] ? 200 : 422);
+    }
+}

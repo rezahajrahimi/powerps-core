@@ -1,3 +1,309 @@
 <?php
-bolt_decrypt( __FILE__ , 'Pt2eGS'); return 0;
-##!!!##//9jVmJaaGVWWFoVNmVlUUhaZ2teWFpoMP//amhaFTZlZVFCZFlaYWhRRVZjY1phMP9qaFoVNmVlUUJkWVphaFFFZ2RZalhpMP9qaFoVNmVlUUJkWVphaFFFZ2RZalhpOFZpWlxkZ24w/2poWhU+YWFqYl5jVmlaUT1paWVRSmVhZFZZWlk7XmFaMP9qaFoVR2pjaV5iWjptWFplaV5kYzD//1hhVmhoFT5ja1pjaWRnbj5iZWRnaUhaZ2teWFr/cP8VFRUVZWpXYV5YFVtqY1hpXmRjFVRUWGRjaGlnalhpHf8VFRUVFRUVFWVnXmtWaVoVZ1pWWWRjYW4VSF5iZWFaSGVnWlZZaF1aWmlHWlZZWmcVGWdaVllaZxUyFWNabBVIXmJlYVpIZWdaVlloXVpaaUdaVllaZx0eIf8VFRUVHhVw/xUVFRVy//8VFRUVJB8f/xUVFRUVHxU1Z1ppamdjFVZnZ1ZucP8VFRUVFR8VFRUVFVhWaVpcZGdeWmhUWGdaVmlaWS9eY2kh/xUVFRUVHxUVFRUVWFZpWlxkZ15aaFRqZVlWaVpZL15jaSH/FRUVFRUfFRUVFRVYZGNbXlxoVF5iZWRnaVpZL15jaSH/FRUVFRUfFRUVFRVZamVhXlhWaVpUWGRjW15caC9eY2kh/xUVFRUVHxUVFRUVaGBeZWVaWVRnZGxoL15jaSH/FRUVFRUfFRUVFRVaZ2dkZ2gvVmdnVm4xXmNpIRVoaWdeY1wz/xUVFRUVHxVy/xUVFRUVHyT/FRUVFWVqV2FeWBVbamNYaV5kYxVeYmVkZ2kdSmVhZFZZWlk7XmFaFRlbXmFaIRVeY2kVGWVWY1phPlkeLxVWZ2dWbv8VFRUVcP8VFRUVFRUVFRllVmNaYRUyFUVWY2NaYS8vW15jWR0ZZVZjWmE+WR4w/xUVFRUVFRUVXlsVHRYVGWVWY1phFXFxFRYVGWVWY1phIjNeaD5ja1pjaWRnbkVWY1phHR4eFXD/FRUVFRUVFRUVFRUVaV1nZGwVY1psFUdqY2leYlo6bVhaZWleZGMdHM6zznvOeRXNnM57zZ/No82czZ3XdYHNqc2kznwVzZzNpxXOe859za4VznrOfc2hzn3NpNCBFR1YamhpZGJaHhXOe9CBzajNnyMcHjD/FRUVFRUVFRVy//8VFRUVFRUVFRlpWmJlRVZpXRUy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FRUVFRUVFRUcWGRjW15caFReYmVkZ2laWRwVMjMVJSH/FRUVFRUVFRUVFRUVHFlqZWFeWFZpWlRYZGNbXlxoHBUyMxUlIf8VFRUVFRUVFRUVFRUcaGBeZWVaWVRnZGxoHBUyMxUlIf8VFRUVFRUVFRUVFRUcWmdnZGdoHBUyMxVQUiH/FRUVFRUVFRVSMP//FRUVFRUVFRUZWFZpWlxkZ244VlhdWhUyFVBSMP8VFRUVFRUVFRleYmVkZ2laWThkY1teXGgVMhVQUjD//xUVFRUVFRUVW2RnWlZYXRUdVmdnVm5UaGFeWFodGWdkbGghFSYeFVZoFRlnZGxDamJXWmcVMjMVGWdkbB4VcP8VFRUVFRUVFRUVFRUZYV5jWhUyFRlnZGxDamJXWmcVIBUnMP//FRUVFRUVFRUVFRUVaWduFXD/FRUVFRUVFRUVFRUVFRUVFRlYVmlaXGRnbkNWYloVMhVpZ15iHR1oaWdeY1weFR0ZZ2RsUBlYVmlaXGRnbj5jWVptUhU0NBUcHB4eMP8VFRUVFRUVFRUVFRUVFRUVGVhkY1teXBUyFWlnXmIdHWhpZ15jXB4VHRlnZGxQGVhkY1teXD5jWVptUhU0NBUcHB4eMP//FRUVFRUVFRUVFRUVFRUVFV5bFR0ZWFZpWlxkZ25DVmJaFTIyMhUcHBVxcRUZWGRjW15cFTIyMhUcHB4VcP8VFRUVFRUVFRUVFRUVFRUVFRUVFRlnWmhqYWlQHGhgXmVlWllUZ2RsaBxSICAw/xUVFRUVFRUVFRUVFRUVFRUVFRUVWGRjaV5jalow/xUVFRUVFRUVFRUVFRUVFRVy//8VFRUVFRUVFRUVFRUVFRUVGWVnXlhaFTIVGWVnXlhaPmNZWm0VFjIyFWNqYWEVNBUZaV1eaCIzZVZnaFpFZ15YWh0ZZ2RsUBllZ15YWj5jWVptUhU0NBVjamFhHhUvFSUw/xUVFRUVFRUVFRUVFRUVFRUZZWdeWFo+YzlkYWFWZxUyFRllZ15YWj5jOWRhYVZnPmNZWm0VFjIyFWNqYWH/FRUVFRUVFRUVFRUVFRUVFRUVFRU0FRlpXV5oIjNlVmdoWkVnXlhaHRlnZGxQGWVnXlhaPmM5ZGFhVmc+Y1labVIVNDQVY2phYSEVaWdqWh7/FRUVFRUVFRUVFRUVFRUVFRUVFRUvFSUjJTD/FRUVFRUVFRUVFRUVFRUVFRloaldoWGdeZWleZGNBXmNgFTIVGWhqV2hYZ15laV5kYz5jWVptFRYyMhVjamFh/xUVFRUVFRUVFRUVFRUVFRUVFRUVNBVpZ15iHR1oaWdeY1weFR0ZZ2RsUBloaldoWGdeZWleZGM+Y1labVIVNDQVHBweHv8VFRUVFRUVFRUVFRUVFRUVFRUVFS8VHBww/xUVFRUVFRUVFRUVFRUVFRUZZVZjWmFBXmNgFTIVGWVWY1phQV5jYD5jWVptFRYyMhVjamFh/xUVFRUVFRUVFRUVFRUVFRUVFRUVNBVpZ15iHR1oaWdeY1weFR0ZZ2RsUBllVmNaYUFeY2A+Y1labVIVNDQVHBweHv8VFRUVFRUVFRUVFRUVFRUVFRUVFS8VHBww//8VFRUVFRUVFRUVFRUVFRUVXlsVHRloaldoWGdeZWleZGNBXmNgFTIyMhUcHB4VcP8VFRUVFRUVFRUVFRUVFRUVFRUVFRloaldoWGdeZWleZGNBXmNgFTIVGVhkY1teXDD/FRUVFRUVFRUVFRUVFRUVFXL/FRUVFRUVFRUVFRUVFRUVFV5bFR0ZZVZjWmFBXmNgFTIyMhUcHB4VcP8VFRUVFRUVFRUVFRUVFRUVFRUVFRllVmNaYUFeY2AVMhUZWGRjW15cMP8VFRUVFRUVFRUVFRUVFRUVcv//FRUVFRUVFRUVFRUVFRUVFRlYVmlaXGRnbhUyFRlpXV5oIjNnWmhkYWtaOFZpWlxkZ24d/xUVFRUVFRUVFRUVFRUVFRUVFRUVGWVWY1phIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRlYVmlaXGRnbkNWYloh/xUVFRUVFRUVFRUVFRUVFRUVFRUVGWVnXlhaIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRllZ15YWj5jOWRhYVZnIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRlYVmlaXGRnbjhWWF1aIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRlnWmhqYWn/FRUVFRUVFRUVFRUVFRUVFR4w//8VFRUVFRUVFRUVFRUVFRUVGVhkY1teXEBabhUyFRlpXV5oIjNYZGNbXlw7XmNcWmdlZ15jaR0ZWGRjW15cHjD/FRUVFRUVFRUVFRUVFRUVFRlZamVhXlhWaVo+YzteYVoVMhVeaGhaaR0ZXmJlZGdpWlk4ZGNbXlxoUBlYZGNbXlxAWm5SHjD/FRUVFRUVFRUVFRUVFRUVFRlZamVhXlhWaVo+YzlWaVZXVmhaFTIVGWldXmgiM1hkY1teXDptXmhpaERjRVZjWmEdGWVWY1phIjNeWSEVGVhkY1teXB4w//8VFRUVFRUVFRUVFRUVFRUVXlsVHRlZamVhXlhWaVo+YzteYVoVcXEVGVlqZWFeWFZpWj5jOVZpVldWaFoeFXD/FRUVFRUVFRUVFRUVFRUVFRUVFRUZZ1poamFpUBxZamVhXlhWaVpUWGRjW15caBxSICAw/xUVFRUVFRUVFRUVFRUVFRUVFRUVGWdaaGphaVAcWmdnZGdoHFJQUhUyFRfNps2k0IHOdhVwGWFeY1pyLxXPns2cznvOdtCBz6QVzZ/Pns2mzZzNptCBFc2dzn3NpM2QFc2kzajNn85813WBzZ3Oe82k0IEVzZ3OfNd1gc2mzn3Np82mzajNnM570IEVzanNpCMXMP8VFRUVFRUVFRUVFRUVFRUVFRUVFVhkY2leY2paMP8VFRUVFRUVFRUVFRUVFRUVcv//FRUVFRUVFRUVFRUVFRUVFUVnZFlqWGkvL1hnWlZpWh1Q/xUVFRUVFRUVFRUVFRUVFRUVFRUVHGVnZFlqWGlUWFZpWlxkZ15aaFReWRwVMjMVGVhWaVpcZGduIjNeWSH/FRUVFRUVFRUVFRUVFRUVFRUVFRUcWGRjW15caBwVMjMVGVhkY1teXCH/FRUVFRUVFRUVFRUVFRUVFRUVFRUcaGpXaFhnXmVpXmRjVGFeY2AcFTIzFRloaldoWGdeZWleZGNBXmNgIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRxlVmNaYVRhXmNgHBUyMxUZZVZjWmFBXmNgIf8VFRUVFRUVFRUVFRUVFRUVFRUVFRxeaDZYaV5rWhwVMjMVaWdqWiH/FRUVFRUVFRUVFRUVFRUVFRUVFRUcWVpWWGlea1pUV25UVlliXmMcFTIzFVtWYWhaIf8VFRUVFRUVFRUVFRUVFRUVUh4w//8VFRUVFRUVFRUVFRUVFRUVGV5iZWRnaVpZOGRjW15caFAZWGRjW15cQFpuUhUyFWlnalow/xUVFRUVFRUVFRUVFRUVFRUZZ1poamFpUBxYZGNbXlxoVF5iZWRnaVpZHFIgIDD/FRUVFRUVFRUVFRUVchVYVmlYXRUdUUldZ2RsVldhWhUZaV0eFXD/FRUVFRUVFRUVFRUVFRUVFRlnWmhqYWlQHGhgXmVlWllUZ2RsaBxSICAw/xUVFRUVFRUVFRUVFRUVFRUZZ1poamFpUBxaZ2dkZ2gcUlBSFTIVF82mzaTQgc52FXAZYV5jWnIvFXAZaV0iM1xaaUJaaGhWXFodHnIXMP8VFRUVFRUVFRUVFRUVFRUVUUFkXC8vbFZnY15jXB0XPmNrWmNpZGduFV5iZWRnaRVnZGwVcBlhXmNachVbVl5hWlkvFXAZaV0iM1xaaUJaaGhWXFodHnIXHjD/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFXL//xUVFRUVFRUVZ1ppamdjFRlnWmhqYWkw/xUVFRVy//8VFRUVJB8f/xUVFRUVHxU1ZVZnVmIVVmdnVm4xaGlnXmNcIRVFZ2RZalhpOFZpWlxkZ24zFRlYVmlaXGRnbjhWWF1a/xUVFRUVHxU1ZVZnVmIVVmdnVm4xaGlnXmNcIRViXm1aWTMVGWdaaGphaf8VFRUVFR8k/xUVFRVlZ15rVmlaFVtqY1hpXmRjFWdaaGRha1o4VmlaXGRnbh3/FRUVFRUVFRVFVmNjWmEVGWVWY1phIf8VFRUVFRUVFWhpZ15jXBUZWFZpWlxkZ25DVmJaIf8VFRUVFRUVFV5jaRUZZWdeWFoh/xUVFRUVFRUVW2FkVmkVGWVnXlhaPmM5ZGFhVmch/xUVFRUVFRUVVmdnVm4VGxlYVmlaXGRnbjhWWF1aIf8VFRUVFRUVFVZnZ1ZuFRsZZ1poamFp/xUVFRUeLxVFZ2RZalhpOFZpWlxkZ24VcP8VFRUVFRUVFRlYVlhdWkBabhUyFWJXVGhpZ2lkYWRsWmcdGVhWaVpcZGduQ1ZiWh4w//8VFRUVFRUVFV5bFR1eaGhaaR0ZWFZpWlxkZ244VlhdWlAZWFZYXVpAWm5SHh4VcP8VFRUVFRUVFRUVFRUZWFZpWlxkZ24VMhUZWFZpWlxkZ244VlhdWlAZWFZYXVpAWm5SMP8VFRUVFRUVFRUVFRVeWxUdGWldXmgiM2plWVZpWjhWaVpcZGduRWdeWF5jXB0ZWFZpWlxkZ24hFRllZ15YWiEVGWVnXlhaPmM5ZGFhVmceHhVw/xUVFRUVFRUVFRUVFRUVFRUZZ1poamFpUBxYVmlaXGRnXlpoVGplWVZpWlkcUiAgMP8VFRUVFRUVFRUVFRVy//8VFRUVFRUVFRUVFRVnWmlqZ2MVGVhWaVpcZGduMP8VFRUVFRUVFXL//xUVFRUVFRUVGVhWaVpcZGduFTIVRWdkWWpYaThWaVpcZGduLy9malpnbh0e/xUVFRUVFRUVFRUVFSIzbF1aZ1odHGVWY2NaYVReWRwhFRllVmNaYSIzXlke/xUVFRUVFRUVFRUVFSIzbF1aZ1odHFhWaVpcZGduVGNWYlocIRUZWFZpWlxkZ25DVmJaHv8VFRUVFRUVFRUVFRUiM1teZ2hpHR4w//8VFRUVFRUVFV5bFR0ZWFZpWlxkZ24VMjIyFWNqYWEeFXD/FRUVFRUVFRUVFRUVGVhWaVpcZGduFTIVRWdkWWpYaThWaVpcZGduLy9YZ1pWaVodUP8VFRUVFRUVFRUVFRUVFRUVHGVWY2NaYVReWRwVMjMVGWVWY1phIjNeWSH/FRUVFRUVFRUVFRUVFRUVFRxYVmlaXGRnblRjVmJaHBUyMxUZWFZpWlxkZ25DVmJaIf8VFRUVFRUVFRUVFRUVFRUVHGVnXlhaHBUyMxUZZWdeWFoh/xUVFRUVFRUVFRUVFRUVFRUcZWdeWFpUXmNUWWRhYVZnHBUyMxUZZWdeWFo+YzlkYWFWZyH/FRUVFRUVFRUVFRUVFRUVFRxabWVeZ1pUWVZuHBUyMxUoJSH/FRUVFRUVFRUVFRUVFRUVFRxrZGFqYlocFTIzFSUh/xUVFRUVFRUVFRUVFRUVFRUcZ1pYXVZnXFZXYVocFTIzFVtWYWhaIf8VFRUVFRUVFRUVFRUVFRUVHGhdZGxUaGpXaFhnXmVpXmRjVGFeY2AcFTIzFVtWYWhaIf8VFRUVFRUVFRUVFRUVFRUVHGhdZGxUZVZjY1phVGFeY2AcFTIzFVtWYWhaIf8VFRUVFRUVFRUVFRUVFRUVHGhaY1lUWGRjW15cVGlkVGpoWmccFTIzFWlnaloh/xUVFRUVFRUVFRUVFRUVFRUcXmhUVlhpXmtaHBUyMxVpZ2paIf8VFRUVFRUVFRUVFRUVFRUVHF5lVGFeYl5pHBUyMxUlIf8VFRUVFRUVFRUVFRVSHjD/FRUVFRUVFRUVFRUVGWdaaGphaVAcWFZpWlxkZ15aaFRYZ1pWaVpZHFIgIDD/FRUVFRUVFRVyFVphaFpeWxUdGWldXmgiM2plWVZpWjhWaVpcZGduRWdeWF5jXB0ZWFZpWlxkZ24hFRllZ15YWiEVGWVnXlhaPmM5ZGFhVmceHhVw/xUVFRUVFRUVFRUVFRlnWmhqYWlQHFhWaVpcZGdeWmhUamVZVmlaWRxSICAw/xUVFRUVFRUVcv//FRUVFRUVFRUZWFZpWlxkZ244VlhdWlAZWFZYXVpAWm5SFTIVGVhWaVpcZGduMP//FRUVFRUVFRVnWmlqZ2MVGVhWaVpcZGduMP8VFRUVcv//FRUVFWVnXmtWaVoVW2pjWGleZGMVamVZVmlaOFZpWlxkZ25FZ15YXmNcHf8VFRUVFRUVFUVnZFlqWGk4VmlaXGRnbhUZWFZpWlxkZ24h/xUVFRUVFRUVXmNpFRllZ15YWiH/FRUVFRUVFRVbYWRWaRUZZWdeWFo+YzlkYWFWZ/8VFRUVHi8VV2RkYRVw/xUVFRUVFRUVGWplWVZpWlkVMhVbVmFoWjD//xUVFRUVFRUVXlsVHRllZ15YWhUzFSUVGxsVHV5jaR4VGVhWaVpcZGduIjNlZ15YWhUWMjIVGWVnXlhaHhVw/xUVFRUVFRUVFRUVFRlYVmlaXGRnbiIzZWdeWFoVMhUZZWdeWFow/xUVFRUVFRUVFRUVFRlqZVlWaVpZFTIVaWdqWjD/FRUVFRUVFRVy//8VFRUVFRUVFV5bFR0ZZWdeWFo+YzlkYWFWZxUzFSUVGxsVHVthZFZpHhUZWFZpWlxkZ24iM2VnXlhaVF5jVFlkYWFWZxUWMjIVGWVnXlhaPmM5ZGFhVmceFXD/FRUVFRUVFRUVFRUVGVhWaVpcZGduIjNlZ15YWlReY1RZZGFhVmcVMhUZZWdeWFo+YzlkYWFWZzD/FRUVFRUVFRUVFRUVGWplWVZpWlkVMhVpZ2paMP8VFRUVFRUVFXL//xUVFRUVFRUVXlsVHRlYVmlaXGRnbiIzZ1pYXVZnXFZXYVoeFXD/FRUVFRUVFRUVFRUVGVhWaVpcZGduIjNnWlhdVmdcVldhWhUyFVtWYWhaMP8VFRUVFRUVFRUVFRUZamVZVmlaWRUyFWlnalow/xUVFRUVFRUVcv//FRUVFRUVFRVeWxUdGWplWVZpWlkeFXD/FRUVFRUVFRUVFRUVGVhWaVpcZGduIjNoVmtaHR4w/xUVFRUVFRUVcv//FRUVFRUVFRVnWmlqZ2MVGWplWVZpWlkw/xUVFRVy//8VFRUVZWdea1ZpWhVbamNYaV5kYxVYZGNbXlw6bV5oaWhEY0VWY1phHV5jaRUZZVZjWmE+WSEVaGlnXmNcFRlYZGNbXlweLxVXZGRh/xUVFRVw/xUVFRUVFRUVZ1ppamdjFUVnZFlqWGkvL2ZqWmduHR7/FRUVFRUVFRUVFRUVIjNsXVpnWh0cWGRjW15caBwhFRlYZGNbXlwe/xUVFRUVFRUVFRUVFSIzbF1aZ1o9VmgdHGVnZFlqWGlUWFZpWlxkZ24cIRVbamNYaV5kYxUdGWZqWmduHhVqaFoVHRllVmNaYT5ZHhVw/xUVFRUVFRUVFRUVFRUVFRUZZmpaZ24iM2xdWmdaHRxlVmNjWmFUXlkcIRUZZVZjWmE+WR4w/xUVFRUVFRUVFRUVFXIe/xUVFRUVFRUVFRUVFSIzWm1eaGloHR4w/xUVFRVy//8VFRUVZWdea1ZpWhVbamNYaV5kYxVYZGNbXlw7XmNcWmdlZ15jaR1oaWdeY1wVGVhkY1teXB4vFWhpZ15jXP8VFRUVcP8VFRUVFRUVFWdaaWpnYxVdVmhdHRxoXVYnKiscIRVpZ15iHRlYZGNbXlweHjD/FRUVFXL//xUVFRVlaldhXlgVW2pjWGleZGMVV2peYVlJWmJlYVZpWkdkbGgdHi8VVmdnVm7/FRUVFXD/FRUVFRUVFRVnWmlqZ2MVUP8VFRUVFRUVFRUVFRVQHM2kzajNn85813WBzZ3Oe82k0IEcIRUcznfQgc56zZ8VHc2fzn3Oes2cznseHCEVHM+ezZzOe8520IHPpBxSIf8VFRUVFRUVFRUVFRVQHM2XznnOes2cznsV0KYVznrNnM58znwcIRUcKiUlJSUcIRUca2FaaGgvJCRabVZiZWFaIlhkY1teXBxSIf8VFRUVFRUVFRUVFRVQHM2fzabPntCBznwV0KgVznrNnM58znwcIRUcJiclJSUlHCEVHGtiWmhoLyQkWm1WYmVhWiJYZGNbXlwcUiH/FRUVFRUVFRVSMP8VFRUVcv//FRUVFWVqV2FeWBVbamNYaV5kYxVXal5hWUlaYmVhVmlaOGhrHR4vFWhpZ15jXP8VFRUVcP8VFRUVFRUVFRldVmNZYVoVMhVbZGVaYx0cZV1lLyQkaVpiZRwhFRxnIBweMP8VFRUVFRUVFVtkZ1pWWF0VHRlpXV5oIjNXal5hWUlaYmVhVmlaR2RsaB0eFVZoFRlnZGweFXD/FRUVFRUVFRUVFRUVW2VqaVhoax0ZXVZjWWFaIRUZZ2RsHjD/FRUVFRUVFRVy/xUVFRUVFRUVZ1psXmNZHRldVmNZYVoeMP8VFRUVFRUVFRlYZGNpWmNpFTIVaGlnWlZiVFxaaVRYZGNpWmNpaB0ZXVZjWWFaHjD/FRUVFRUVFRVbWGFkaFodGV1WY1lhWh4w//8VFRUVFRUVFWdaaWpnYxUXUW06O1FtNzdRbTc7FyMZWGRjaVpjaTD/FRUVFXL//xUVFRVlZ15rVmlaFVtqY1hpXmRjFWNkZ2JWYV5vWj1aVllaZx1oaWdeY1wVGWtWYWpaHi8VaGlnXmNc/xUVFRVw/xUVFRUVFRUVGWtWYWpaFTIVaWdeYh0Za1ZhaloeMP8VFRUVFRUVFRlrVmFqWhUyFWVnWlxUZ1plYVZYWh0cJFNRbTo7UW03N1FtNzskHCEVHBwhFRlrVmFqWh4VNDQVGWtWYWpaMP8VFRUVFRUVFRlrVmFqWhUyFWhpZ1RnWmVhVlhaHVAc13WBHCEVHBUcUiEVHFQcIRUZa1ZhaloeMP8VFRUVFRUVFRlrVmFqWhUyFWJXVGhpZ2lkYWRsWmcdGWtWYWpaHjD//xUVFRUVFRUVZ1ppamdjFWhpZ1RnWmVhVlhaHVAcHRwhFRweHCEVHOSxfRwhFRzksX4cUiEVHBwhFRlrVmFqWh4w/xUVFRVy//8VFRUVJB8f/xUVFRUVHxU1ZVZnVmIVVmdnVm4xXmNpIRVoaWdeY1xxY2phYTMVGV1aVllaZ/8VFRUVFR8VNWVWZ1ZiFVZnZ1ZuMV5jaSEVaGlnXmNcMxUZVmFeVmhaaP8VFRUVFR8k/xUVFRVlZ15rVmlaFVtqY1hpXmRjFVteY1k4ZGFqYmM+Y1labR1WZ2dWbhUZXVpWWVpnIRVWZ2dWbhUZVmFeVmhaaB4vFTReY2n/FRUVFXD/FRUVFRUVFRVbZGdaVlhdFR0ZXVpWWVpnFVZoFRleY1labRUyMxUZWGRhamJjHhVw/xUVFRUVFRUVFRUVFV5bFR0ZWGRhamJjFTIyMhVjamFhHhVw/xUVFRUVFRUVFRUVFRUVFRVYZGNpXmNqWjD/FRUVFRUVFRUVFRUVcv//FRUVFRUVFRUVFRUVW2RnWlZYXRUdGVZhXlZoWmgVVmgVGVZhXlZoHhVw/xUVFRUVFRUVFRUVFRUVFRVeWxUdGVhkYWpiYxUyMjIVGWldXmgiM2NkZ2JWYV5vWj1aVllaZx0ZVmFeVmgeHhVw/xUVFRUVFRUVFRUVFRUVFRUVFRUVZ1ppamdjFRleY1labTD/FRUVFRUVFRUVFRUVFRUVFXL/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFXL//xUVFRUVFRUVZ1ppamdjFWNqYWEw/xUVFRVy//8VFRUVZWdea1ZpWhVbamNYaV5kYxVlVmdoWkVnXlhaHWJebVpZFRlrVmFqWiEVV2RkYRUZVmFhZGw7YWRWaRUyFVtWYWhaHi8VXmNpcVthZFZp/xUVFRVw/xUVFRUVFRUVXlsVHRlrVmFqWhUyMjIVY2phYRVxcRUZa1ZhaloVMjIyFRwcHhVw/xUVFRUVFRUVFRUVFWdaaWpnYxUZVmFhZGw7YWRWaRU0FSUjJRUvFSUw/xUVFRUVFRUVcv//FRUVFRUVFRUZY2RnYlZhXm9aWRUyFWhpZ1RnWmVhVlhaHVAcIRwhFRwVHFIhFRwcIRUdaGlnXmNcHhUZa1ZhaloeMP8VFRUVFRUVFV5bFR0ZVmFhZGw7YWRWaR4VcP8VFRUVFRUVFRUVFRVnWmlqZ2MVHVthZFZpHhUZY2RnYlZhXm9aWTD/FRUVFRUVFRVy//8VFRUVFRUVFWdaaWpnYxUdXmNpHhUZY2RnYlZhXm9aWTD/FRUVFXL/cv8=
+
+namespace App\Services;
+
+use App\Models\Pannel;
+use App\Models\Product;
+use App\Models\ProductCategory;
+use Illuminate\Http\UploadedFile;
+use RuntimeException;
+
+class InventoryImportService
+{
+    public function __construct(
+        private readonly SimpleSpreadsheetReader $reader = new SimpleSpreadsheetReader(),
+    ) {
+    }
+
+    /**
+     * @return array{
+     *     categories_created:int,
+     *     categories_updated:int,
+     *     configs_imported:int,
+     *     duplicate_configs:int,
+     *     skipped_rows:int,
+     *     errors:array<int, string>
+     * }
+     */
+    public function import(UploadedFile $file, int $panelId): array
+    {
+        $panel = Pannel::find($panelId);
+        if (! $panel || ! $panel->isInventoryPanel()) {
+            throw new RuntimeException('پنل انتخاب‌شده از نوع موجودی (custome) نیست.');
+        }
+
+        $tempPath = $file->getRealPath();
+        if ($tempPath === false) {
+            throw new RuntimeException('فایل آپلود شده قابل خواندن نیست.');
+        }
+
+        $extension = strtolower($file->getClientOriginalExtension() ?: $file->guessExtension() ?: '');
+        $rows = $this->reader->read($tempPath, $extension !== '' ? $extension : null);
+        if ($rows === []) {
+            throw new RuntimeException('فایل خالی است.');
+        }
+
+        $header = array_map(fn ($value) => $this->normalizeHeader((string) $value), $rows[0]);
+        $categoryIndex = $this->findColumnIndex($header, ['category_name', 'category', 'دسته_بندی', 'دسته بندی', 'دسته']);
+        $priceIndex = $this->findColumnIndex($header, [
+            'price',
+            'قیمت',
+            'قیمت_تومان',
+            'قیمت__تومان',
+            'قیمت(تومان)',
+        ]);
+        $configIndex = $this->findColumnIndex($header, ['config', 'configs', 'کانفیگ', 'کانفیگها', 'کانفیگ ها']);
+        $priceInDollarIndex = $this->findColumnIndex($header, ['price_in_dollar', 'dollar_price', 'قیمت_دلار', 'قیمت دلار']);
+        $subscriptionIndex = $this->findColumnIndex($header, ['subscription_link', 'subscription', 'لینک_سابسکریپشن', 'لینک سابسکریپشن']);
+        $panelLinkIndex = $this->findColumnIndex($header, ['panel_link', 'panel', 'لینک_پنل', 'لینک پنل']);
+
+        if ($categoryIndex === null || $configIndex === null) {
+            throw new RuntimeException('ستون‌های دسته‌بندی و کانفیگ در فایل یافت نشد.');
+        }
+
+        $result = [
+            'categories_created' => 0,
+            'categories_updated' => 0,
+            'configs_imported' => 0,
+            'duplicate_configs' => 0,
+            'skipped_rows' => 0,
+            'errors' => [],
+        ];
+
+        $categoryCache = [];
+        $importedConfigs = [];
+
+        foreach (array_slice($rows, 1) as $rowNumber => $row) {
+            $line = $rowNumber + 2;
+
+            try {
+                $categoryName = trim((string) ($row[$categoryIndex] ?? ''));
+                $config = trim((string) ($row[$configIndex] ?? ''));
+
+                if ($categoryName === '' || $config === '') {
+                    $result['skipped_rows']++;
+                    continue;
+                }
+
+                $price = $priceIndex !== null ? $this->parsePrice($row[$priceIndex] ?? null) : 0;
+                $priceInDollar = $priceInDollarIndex !== null
+                    ? $this->parsePrice($row[$priceInDollarIndex] ?? null, true)
+                    : 0.0;
+                $subscriptionLink = $subscriptionIndex !== null
+                    ? trim((string) ($row[$subscriptionIndex] ?? ''))
+                    : '';
+                $panelLink = $panelLinkIndex !== null
+                    ? trim((string) ($row[$panelLinkIndex] ?? ''))
+                    : '';
+
+                if ($subscriptionLink === '') {
+                    $subscriptionLink = $config;
+                }
+                if ($panelLink === '') {
+                    $panelLink = $config;
+                }
+
+                $category = $this->resolveCategory(
+                    $panel,
+                    $categoryName,
+                    $price,
+                    $priceInDollar,
+                    $categoryCache,
+                    $result
+                );
+
+                $configKey = $this->configFingerprint($config);
+                $duplicateInFile = isset($importedConfigs[$configKey]);
+                $duplicateInDatabase = $this->configExistsOnPanel($panel->id, $config);
+
+                if ($duplicateInFile || $duplicateInDatabase) {
+                    $result['duplicate_configs']++;
+                    $result['errors'][] = "ردیف {$line}: کانفیگ تکراری بود؛ دسته‌بندی به‌روزرسانی شد.";
+                    continue;
+                }
+
+                Product::create([
+                    'product_categories_id' => $category->id,
+                    'configs' => $config,
+                    'subscription_link' => $subscriptionLink,
+                    'panel_link' => $panelLink,
+                    'isActive' => true,
+                    'deactive_by_admin' => false,
+                ]);
+
+                $importedConfigs[$configKey] = true;
+                $result['configs_imported']++;
+            } catch (\Throwable $th) {
+                $result['skipped_rows']++;
+                $result['errors'][] = "ردیف {$line}: {$th->getMessage()}";
+                \Log::warning("Inventory import row {$line} failed: {$th->getMessage()}");
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @param array<string, ProductCategory> $categoryCache
+     * @param array<string, mixed> $result
+     */
+    private function resolveCategory(
+        Pannel $panel,
+        string $categoryName,
+        int $price,
+        float $priceInDollar,
+        array &$categoryCache,
+        array &$result
+    ): ProductCategory {
+        $cacheKey = mb_strtolower($categoryName);
+
+        if (isset($categoryCache[$cacheKey])) {
+            $category = $categoryCache[$cacheKey];
+            if ($this->updateCategoryPricing($category, $price, $priceInDollar)) {
+                $result['categories_updated']++;
+            }
+
+            return $category;
+        }
+
+        $category = ProductCategory::query()
+            ->where('pannel_id', $panel->id)
+            ->where('category_name', $categoryName)
+            ->first();
+
+        if ($category === null) {
+            $category = ProductCategory::create([
+                'pannel_id' => $panel->id,
+                'category_name' => $categoryName,
+                'price' => $price,
+                'price_in_dollar' => $priceInDollar,
+                'expire_day' => 30,
+                'volume' => 0,
+                'rechargable' => false,
+                'show_subscription_link' => false,
+                'show_pannel_link' => false,
+                'send_config_to_user' => true,
+                'is_active' => true,
+                'ip_limit' => 0,
+            ]);
+            $result['categories_created']++;
+        } elseif ($this->updateCategoryPricing($category, $price, $priceInDollar)) {
+            $result['categories_updated']++;
+        }
+
+        $categoryCache[$cacheKey] = $category;
+
+        return $category;
+    }
+
+    private function updateCategoryPricing(
+        ProductCategory $category,
+        int $price,
+        float $priceInDollar
+    ): bool {
+        $updated = false;
+
+        if ($price > 0 && (int) $category->price !== $price) {
+            $category->price = $price;
+            $updated = true;
+        }
+
+        if ($priceInDollar > 0 && (float) $category->price_in_dollar !== $priceInDollar) {
+            $category->price_in_dollar = $priceInDollar;
+            $updated = true;
+        }
+
+        if ($category->rechargable) {
+            $category->rechargable = false;
+            $updated = true;
+        }
+
+        if ($updated) {
+            $category->save();
+        }
+
+        return $updated;
+    }
+
+    private function configExistsOnPanel(int $panelId, string $config): bool
+    {
+        return Product::query()
+            ->where('configs', $config)
+            ->whereHas('product_category', function ($query) use ($panelId) {
+                $query->where('pannel_id', $panelId);
+            })
+            ->exists();
+    }
+
+    private function configFingerprint(string $config): string
+    {
+        return hash('sha256', trim($config));
+    }
+
+    public function buildTemplateRows(): array
+    {
+        return [
+            ['دسته‌بندی', 'قیمت (تومان)', 'کانفیگ'],
+            ['آلمان ۱ ماهه', '50000', 'vless://example-config'],
+            ['ترکیه ۳ ماهه', '120000', 'vmess://example-config'],
+        ];
+    }
+
+    public function buildTemplateCsv(): string
+    {
+        $handle = fopen('php://temp', 'r+');
+        foreach ($this->buildTemplateRows() as $row) {
+            fputcsv($handle, $row);
+        }
+        rewind($handle);
+        $content = stream_get_contents($handle);
+        fclose($handle);
+
+        return "\xEF\xBB\xBF".$content;
+    }
+
+    private function normalizeHeader(string $value): string
+    {
+        $value = trim($value);
+        $value = preg_replace('/^\xEF\xBB\xBF/', '', $value) ?? $value;
+        $value = str_replace(['‌', ' '], '_', $value);
+        $value = mb_strtolower($value);
+
+        return str_replace(['(', ')', '（', '）'], '', $value);
+    }
+
+    /**
+     * @param array<int, string|null> $header
+     * @param array<int, string> $aliases
+     */
+    private function findColumnIndex(array $header, array $aliases): ?int
+    {
+        foreach ($header as $index => $column) {
+            if ($column === null) {
+                continue;
+            }
+
+            foreach ($aliases as $alias) {
+                if ($column === $this->normalizeHeader($alias)) {
+                    return $index;
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private function parsePrice(mixed $value, bool $allowFloat = false): int|float
+    {
+        if ($value === null || $value === '') {
+            return $allowFloat ? 0.0 : 0;
+        }
+
+        $normalized = str_replace([',', ' '], '', (string) $value);
+        if ($allowFloat) {
+            return (float) $normalized;
+        }
+
+        return (int) $normalized;
+    }
+}

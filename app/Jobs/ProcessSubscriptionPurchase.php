@@ -1,3 +1,363 @@
 <?php
-bolt_decrypt( __FILE__ , 'fAO08v'); return 0;
-##!!!##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9PT09PT09PT9D9709PT09PT09PT09PQ9OvT8+EA9QT1IITlHRzU7OfT1ERH0QklAQP30T9709PT09PT09PT09PT09PT0+Eg5QDk7RjVBJzlGSj03OQESRzlCOCE5R0c1Ozn8+Eg8PUcBEjc8NUgdOAD0+EA9QT1IITlHRzU7Of0P3vT09PT09PT09PT09PT09PRGOUhJRkIP3vT09PT09PT09PT09FHe3vT09PT09PT09PT09DAgQzsODj1COkP89ic5QDk3SDk49CRGQzhJN0j0FzVIOTtDRk0O9AUFBQUFBfb0AvT4RzlAOTdIOTgkRhc1SAESNzVIOTtDRk0zQjVBOf0P3vT09PT09PT09PT09PhERkM4STdIJEY9Nzn0EfT4REY9Nz1COy/7REY9Nzn7MQ/e9PT09PT09PT09PT0+ERGQzhJN0gkRj03OR1CGENAQDVG9BH0+ERGPTc9Qjsv+0RGPTc5Mz1CMzhDQEA1RvsxD9709PT09PT09PT09PT4REZDQUMYPUc3Q0lCSChDQTVC9BH0BAIED9709PT09PT09PT09PT4NUREQD05OCRGQ0FD9BH0QklAQA/e3vT09PT09PT09PT09D069Pz4SDw9RwESREZDQUMXQzg5/fRP3vT09PT09PT09PT09PT09PT4REZDQUMnOUZKPTc59BH0QjlL9CRGQ0FDF0M4OSc5Rko9Nzn8/Q/e9PT09PT09PT09PT09PT09PhERkNBQyY5R0lASPQR9PhERkNBQyc5Rko9NzkBEko1QD04NUg5/N709PT09PT09PT09PT09PT09PT09PhIPD1HARJERkNBQxdDODkA3vT09PT09PT09PT09PT09PT09PT0+Eg8PUcBEjc8NUgdOADe9PT09PT09PT09PT09PT09PT09PT8PUJI/fT4SDw9RwESREZDOEk3SBc1SDk7Q0ZNHTgA3vT09PT09PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5AN709PT09PT09PT09PT09PT09PT09Pw6QEM1SP30+ERGQzhJN0gkRj03OR1CGENAQDVG3vT09PT09PT09PT09PT09PT9D9709PT09PT09PT09PT09PT0PTr0/PX0/PhERkNBQyY5R0lASC/7SjVAPTj7MfQTE/Q6NUBHOf399E/e9PT09PT09PT09PT09PT09PT09PT4SDlAOTtGNUEnOUZKPTc5ARJHOUI4ITlHRzU7Ofz4SDw9RwESNzw1SB04APT4REZDQUMmOUdJQEgv+0E5R0c1Ozn7MfQTE/T7rn2sg/SsfqyCrVWvYK1V9K1arHutWayNrH6sfKyF9Kx7rIesfgL7/Q/e9PT09PT09PT09PT09PT09PT09PRGOUhJRkIP3vT09PT09PT09PT09PT09PRR3vT09PT09PT09PT09PT09PT4REZDOEk3SCRGPTc59BH0/DpAQzVI/fT8+ERGQ0FDJjlHSUBIL/s6PUI1QDNERj03OTNIQ0E1Qvsx9BMT9PhERkM4STdIJEY9Nzn9D9709PT09PT09PT09PT09PT0+ERGQzhJN0gkRj03OR1CGENAQDVG9BH0/DpAQzVI/fT8+ERGQ0FDJjlHSUBIL/s6PUI1QDNERj03OTM4Q0BANUb7MfQTE/T4REZDOEk3SCRGPTc5HUIYQ0BANUb9D9709PT09PT09PT09PT09PT0+ERGQ0FDGD1HN0NJQkgoQ0E1QvQR9Pw6QEM1SP30/PhERkNBQyY5R0lASC/7OD1HN0NJQkgzSENBNUL7MfQTE/QE/Q/e9PT09PT09PT09PT09PT09Pg1RERAPTk4JEZDQUP0EfT4REZDQUMmOUdJQEgv+0RGQ0FD+zH0ExP0QklAQA/e9PT09PT09PT09PT0Ud7e9PT09PT09PT09PT0+ENGPTs9QjVAJEZDOEk3SCRGPTc59BH0/DpAQzVI/fT4REZDOEk3SCRGPTc5D9709PT09PT09PT09PT4QENNNUBITRc8OTc/Q0lI9BH0+EBDTTVASE0nOUZKPTc5ARJGOUdDQEo5Fzw5Nz9DSUj83vT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5AN709PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5HUIYQ0BANUYA3vT09PT09PT09PT09PT09PQ6QvT8+DU3N0NJQkgdOAD0+ERGPTc5APT4REY9NzkYQ0BANUb99BES9Pg1NzcWQBdIRkABEjc8OTc/KUc5Rhw1RxY1QDVCNzn8+DU3N0NJQkgdOAD0+ERGPTc5APT4REY9NzkYQ0BANUb9AN709PT09PT09PT09PT09PT0OkL0/Pg1NzdDSUJIHTgA9PhERj03Of30ERL0+EY5OjlGRjVAF0JIRkABEjc8OTc/M0lHOUYzPDVHM0Y5OjNLNUBAOUgzNjVAQDVCNzn8+DU3N0NJQkgdOAD0+ERGPTc5/QDe9PT09PT09PT09PT0/Q/e9PT09PT09PT09PT0+ERGQzhJN0gkRj03OfQR9PhAQ001QEhNFzw5Nz9DSUgv+zc8NUY7OTNERj03OTNIQ0E1QvsxD9709PT09PT09PT09PT4QENNNUBITSRDPUJIRyY5ODk5QTk49BH0+EBDTTVASE0XPDk3P0NJSC/7REM9QkhHM0hDM0Y5ODk5QfsxD9709PT09PT09PT09PT4PDVHFjVAQDVCNzn0EfT4QENNNUBITRc8OTc/Q0lIL/s8NUczNjVANUI3OfsxD9709PT09PT09PT09PT4PDVHJjk6NjVAQDVCNzn0EfT4QENNNUBITRc8OTc/Q0lIL/s8NUczRjk6MzY1QDVCNzn7MQ/e3vT09PT09PT09PT09D069Pz19PhAQ001QEhNFzw5Nz9DSUgv+zc1QjNERkM3OTk4+zH99E/e9PT09PT09PT09PT09PT09Pg7OUI5RjVAF0JIRkABEkc5QjgzPUJHSTo6PTc9OUJIMzY1QDVCNzkzQTlHRzU7Ofze9PT09PT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT09PT09PhHOUA5N0g5OCRGFzVIARI9OADe9PT09PT09PT09PT09PT09PT09PT8OkBDNUj99PhERkM4STdIJEY9NzkA3vT09PT09PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5HUIYQ0BANUYA3vT09PT09PT09PT09PT09PT09PT0+Eg8PUcBEkRGQ0FDF0M4Od709PT09PT09PT09PT09PT0/Q/e9PT09PT09PT09PT09PT09EY5SElGQg/e9PT09PT09PT09PT0Ud7e9PT09PT09PT09PT0+EQ1QkI5QPQR9PhENUI5QBdCSEZAARI7OUgkNUJCOUAWTR04/PhHOUA5N0g5OCRGFzVIARJENUJCOUAzPTj9D9709PT09PT09PT09PT4ODVN9BH0+Ec5QDk3SDk4JEYXNUgBEjlMRD1GOTM4NU0P3vT09PT09PT09PT09PhKQ0BJQTn0EfT4RzlAOTdIOTgkRhc1SAESSkNASUE5D9709PT09PT09PT09PT4RjlHSTVASPQR9Do1QEc5D97e9PT09PT09PT09PT0PTr0/PhENUJCOUABEj1HHUJKOUJIQ0ZNJDVCOUD8/f30T9709PT09PT09PT09PT09PT0PTr0/PhERhdCSEZAARI3Q0lCSBU3SD1KOR1CSjlCSENGTfz4RzlAOTdIOTgkRhc1SAESPTj99BD0Bf30T9709PT09PT09PT09PT09PT09PT09PhIOUA5O0Y1QSc5Rko9NzkBEkc5QjghOUdHNTs5/PhIPD1HARI3PDVIHTgA9PutWa1crICtXKyDr2D0rHuvYK1a9Kx8rIesfq1b9Kx+rVmse61Z9KyIrIOtW/Sse6yHrH4C+/0P3vT09PT09PT09PT09PT09PT09PT0RjlISUZCD9709PT09PT09PT09PT09PT0Ud7e9PT09PT09PT09PT09PT09Pg3PDVGOzkmOUdJQEj0EfT4RDVNQTlCSCc5Rko9NzkBEjc8NUY7Ofze9PT09PT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT09PT09Pw6QEM1SP30+ERGQzhJN0gkRj03OQDe9PT09PT09PT09PT09PT09PT09PT8OkBDNUj99PhERkM4STdIJEY9NzkdQhhDQEA1RgDe9PT09PT09PT09PT09PT09PT09PT8NkNDQP30+Dw1RyY5OjY1QEA1Qjc5AN709PT09PT09PT09PT09PT09PT09PhJRzlGQjVBOd709PT09PT09PT09PT09PT0/Q/e9PT09PT09PT09PT09PT09DAgQzsODj1COkP8+0Q1TUE5QkgnSTc3OUdHDvT79AL0/Pg3PDVGOzkmOUdJQEgv+0dJNzc5R0f7MfQT9PsF+/QO9PsE+/39D97e9PT09PT09PT09PT09PT09D069Pz4QENNNUBITRc8OTc/Q0lIL/tEQz1CSEczQ0JATfsx/fRP3vT09PT09PT09PT09PT09PT09PT0+Dc8NUY7OSY5R0lASPQR9C/e9PT09PT09PT09PT09PT09PT09PT09PT0+0dJNzc5R0f79BES9EhGSTkA3vT09PT09PT09PT09PT09PT09PT09PT09PtHQ0lGNzn79BES9PtAQ001QEhN+wDe9PT09PT09PT09PT09PT09PT09PT09PT0+zVBQ0lCSDNIQ0E1Qvv0ERL0BAIEAN709PT09PT09PT09PT09PT09PT09PT09PT7NUFDSUJIMzhDQEA1Rvv0ERL0BAIEAN709PT09PT09PT09PT09PT09PT09DEP3vT09PT09PT09PT09PT09PRR9DlARzk9OvT89fT4RDVNQTlCSCc5Rko9NzkBEks1Rxc8NUY7OTj8+Dc8NUY7OSY5R0lASP399E/e9PT09PT09PT09PT09PT09PT09PT4OzlCOUY1QBdCSEZAARJHOUI4Mz1CR0k6Oj03PTlCSDM2NUA1Qjc5M0E5R0c1Ozn83vT09PT09PT09PT09PT09PT09PT09PT09PhIPD1HARI3PDVIHTgA3vT09PT09PT09PT09PT09PT09PT09PT09PhHOUA5N0g5OCRGFzVIARI9OADe9PT09PT09PT09PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5AN709PT09PT09PT09PT09PT09PT09PT09PT8OkBDNUj99PhERkM4STdIJEY9NzkdQhhDQEA1RgDe9PT09PT09PT09PT09PT09PT09PT09PT0+Eg8PUcBEkRGQ0FDF0M4Od709PT09PT09PT09PT09PT09PT09P0P3vT09PT09PT09PT09PT09PT09PT0RjlISUZCD9709PT09PT09PT09PT09PT0Ud7e9PT09PT09PT09PT09PT09D069Pz4QENNNUBITSRDPUJIRyY5ODk5QTk49BL0BP30T9709PT09PT09PT09PT09PT09PT09PhAQ001QEhNJzlGSj03OQESRjk4OTlBJEM9QkhH/N709PT09PT09PT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT09PT09PT09PT4QENNNUBITSRDPUJIRyY5ODk5QTk4AN709PT09PT09PT09PT09PT09PT09PT09PT7RElGNzw1Rzn7AN709PT09PT09PT09PT09PT09PT09PT09PT7REZDOEk3SDM3NUg5O0NGTfsA3vT09PT09PT09PT09PT09PT09PT09PT09PhHOUA5N0g5OCRGFzVIARI9OADe9PT09PT09PT09PT09PT09PT09PT09PT0+6x7rIesfq1VrHusg61b9Kx7rIb0rHutWax+r2Cse6yG9KyDrIX0rIKsha9grIP0rHusiKx+rIWse659+9709PT09PT09PT09PT09PT09PT09P0P3vT09PT09PT09PT09PT09PRR3t709PT09PT09PT09PT09PT0+EdDQDgdQko5QkhDRk0kRkM4STdIHTj0EfT4PUJKOUJIQ0ZNJElGNzw1RzknOUZKPTc5ARI4OUA9SjlGHUJKOUJIQ0ZNJEZDOEk3SPz4RzlAOTdIOTgkRhc1SAD0+Eg8PUcBEjc8NUgdOP0P3vT09PT09PT09PT09PT09PT4RjlHSTVASPQR9PhHQ0A4HUJKOUJIQ0ZNJEZDOEk3SB049PUREfQ6NUBHOfQT9PhHQ0A4HUJKOUJIQ0ZNJEZDOEk3SB049A70OjVARzkP3t709PT09PT09PT09PT09PT0PTr0/PhGOUdJNUBI9BER9Do1QEc59FBQ9PhGOUdJNUBI9BER9EJJQED99E/e9PT09PT09PT09PT09PT09PT09PT4RDVNQTlCSCc5Rko9NzkBEkY5OklCOPz4SDw9RwESNzw1SB04APT4Nzw1Rjs5JjlHSUBIAPT4SUc5RkI1QTn9D9709PT09PT09PT09PT09PT09PT09D069Pz4QENNNUBITSRDPUJIRyY5ODk5QTk49BL0BP30T9709PT09PT09PT09PT09PT09PT09PT09PT4QENNNUBITSc5Rko9NzkBEkY5OklCOCY5ODk5QTk4JEM9QkhH/PhIPD1HARI3PDVIHTgA9PhAQ001QEhNJEM9QkhHJjk4OTlBOTj9D9709PT09PT09PT09PT09PT09PT09FHe9PT09PT09PT09PT09PT09PT09PT4QEM7F0hGQAESNTg4IjlLIEM7/PtHSTZHN0Y9REg9Q0L7APT7rIKsha9grIP0rHusiKx+rIWse6599Kx8rHv0rIiufayHrH70rVmtXKx7rICtW/SsiKyDAvsA9PhIPD1HARI3PDVIHTgA9PhJRzlGQjVBOQD0+zo1PUA5OPv9D9709PT09PT09PT09PT09PT09PT09PhIOUA5O0Y1QSc5Rko9NzkBEkc5QjghOUdHNTs5/PhIPD1HARI3PDVIHTgA9PutWa1crICtXKyDr2D0rHuvYK1a9Kx8rIesfq1b9Kx+rVmse61Z9KyIrIOtW/Sse6yHrH4C+/0P3vT09PT09PT09PT09PT09PT09PT0RjlISUZCD9709PT09PT09PT09PT09PT0Ud709PT09PT09PT09PRR9DlARzn0T9709PT09PT09PT09PT09PT0+EY5RzlGSjk4JEZDOEk3SB049BH0+ERGF0JIRkABEkY5RzlGSjkkRkM4STdIHTj8+Eg8PUcBEjc8NUgdOAD0+Ec5QDk3SDk4JEYXNUgBEj04/Q/e9PT09PT09PT09PT09PT09D069Pz4RjlHOUZKOTgkRkM4STdIHTj0ERER9EJJQED99E/e9PT09PT09PT09PT09PT09PT09PT4SDlAOTtGNUEnOUZKPTc5ARJHOUI4ITlHRzU7Ofz4SDw9RwESNzw1SB04APT4N0lHSENBKDlMSBdIRkABEjs5SCg5TEj8+zU3SD1DQgJERkM3OUdHAjo1PUA5ODM2SU37/f0P3vT09PT09PT09PT09PT09PT09PT0RjlISUZCD9709PT09PT09PT09PT09PT0Ud7e9PT09PT09PT09PT09PT09Pg3PDVGOzkmOUdJQEj0EfT4RDVNQTlCSCc5Rko9NzkBEjc8NUY7Ofze9PT09PT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT09PT09Pw6QEM1SP30+ERGQzhJN0gkRj03OQDe9PT09PT09PT09PT09PT09PT09PT8OkBDNUj99PhERkM4STdIJEY9NzkdQhhDQEA1RgDe9PT09PT09PT09PT09PT09PT09PT8NkNDQP30+Dw1RyY5OjY1QEA1Qjc5AN709PT09PT09PT09PT09PT09PT09PhJRzlGQjVBOd709PT09PT09PT09PT09PT0/Q/e9PT09PT09PT09PT09PT09DAgQzsODj1COkP8+0Q1TUE5QkgnSTc3OUdHDvT79AL0/Pg3PDVGOzkmOUdJQEgv+0dJNzc5R0f7MfQT9PsF+/QO9PsE+/39D97e9PT09PT09PT09PT09PT09D069Pz4QENNNUBITRc8OTc/Q0lIL/tEQz1CSEczQ0JATfsx/fRP3vT09PT09PT09PT09PT09PT09PT0+Dc8NUY7OSY5R0lASPQR9C/e9PT09PT09PT09PT09PT09PT09PT09PT0+0dJNzc5R0f79BES9EhGSTkA3vT09PT09PT09PT09PT09PT09PT09PT09PtHQ0lGNzn79BES9PtAQ001QEhN+wDe9PT09PT09PT09PT09PT09PT09PT09PT0+zVBQ0lCSDNIQ0E1Qvv0ERL0BAIEAN709PT09PT09PT09PT09PT09PT09PT09PT7NUFDSUJIMzhDQEA1Rvv0ERL0BAIEAN709PT09PT09PT09PT09PT09PT09DEP3vT09PT09PT09PT09PT09PRR9DlARzk9OvT89fT4RDVNQTlCSCc5Rko9NzkBEks1Rxc8NUY7OTj8+Dc8NUY7OSY5R0lASP399E/e9PT09PT09PT09PT09PT09PT09PT4REYXQkhGQAESODlAOUg5JDlCOD1COyRGQzhJN0j8+EY5RzlGSjk4JEZDOEk3SB04/Q/e9PT09PT09PT09PT09PT09PT09PT4OzlCOUY1QBdCSEZAARJHOUI4Mz1CR0k6Oj03PTlCSDM2NUA1Qjc5M0E5R0c1Ozn83vT09PT09PT09PT09PT09PT09PT09PT09PhIPD1HARI3PDVIHTgA3vT09PT09PT09PT09PT09PT09PT09PT09PhHOUA5N0g5OCRGFzVIARI9OADe9PT09PT09PT09PT09PT09PT09PT09PT0/DpAQzVI/fT4REZDOEk3SCRGPTc5AN709PT09PT09PT09PT09PT09PT09PT09PT8OkBDNUj99PhERkM4STdIJEY9NzkdQhhDQEA1RgDe9PT09PT09PT09PT09PT09PT09PT09PT0+Eg8PUcBEkRGQ0FDF0M4Od709PT09PT09PT09PT09PT09PT09P0P3vT09PT09PT09PT09PT09PT09PT0RjlISUZCD9709PT09PT09PT09PT09PT0Ud7e9PT09PT09PT09PT09PT09D069Pz4QENNNUBITSRDPUJIRyY5ODk5QTk49BL0BP30T9709PT09PT09PT09PT09PT09PT09PhAQ001QEhNJzlGSj03OQESRjk4OTlBJEM9QkhH/N709PT09PT09PT09PT09PT09PT09PT09PT4SDw9RwESNzw1SB04AN709PT09PT09PT09PT09PT09PT09PT09PT4QENNNUBITSRDPUJIRyY5ODk5QTk4AN709PT09PT09PT09PT09PT09PT09PT09PT7RElGNzw1Rzn7AN709PT09PT09PT09PT09PT09PT09PT09PT7REZDOEk3SDM3NUg5O0NGTfsA3vT09PT09PT09PT09PT09PT09PT09PT09PhHOUA5N0g5OCRGFzVIARI9OADe9PT09PT09PT09PT09PT09PT09PT09PT0+6x7rIesfq1VrHusg61b9Kx7rIb0rHutWax+r2Cse6yG9KyDrIX0rIKsha9grIP0rHusiKx+rIWse659+9709PT09PT09PT09PT09PT09PT09P0P3vT09PT09PT09PT09PT09PRR3t709PT09PT09PT09PT09PT0PTr0/PhENUJCOUABEkhNRDn0ERH0+zw9ODg9Ok37/fRP3vT09PT09PT09PT09PT09PT09PT0+EY5R0k1QEj0EfT4OzlCOUY1QBdCSEZAARJCOUszPD04OD06TTM3Q0I6PTszSDlAOTtGNUEzSDlMSPz4RzlAOTdIOTgkRhc1SAD0+EQ1QkI5QAD0+EpDQElBOQD0+Dg1TQD0+Eg8PUcBEjc8NUgdOAD0+EY5RzlGSjk4JEZDOEk3SB04/Q/e9PT09PT09PT09PT09PT09FH0OUBHOT069Pz4RDVCQjlAARI9RyE1Rk42NUIXQ0FENUg9NkA5/P399E/e9PT09PT09PT09PT09PT09PT09PT4RjlHSTVASPQR9Pg7OUI5RjVAF0JIRkABEkI5SzNBNUZONjVCMzdDQjo9OzNIOUA5O0Y1QTNIOUxI/N709PT09PT09PT09PT09PT09PT09PT09PT4RzlAOTdIOTgkRhc1SADe9PT09PT09PT09PT09PT09PT09PT09PT0+EQ1QkI5QADe9PT09PT09PT09PT09PT09PT09PT09PT0+EpDQElBOQDe9PT09PT09PT09PT09PT09PT09PT09PT0+Dg1TQDe9PT09PT09PT09PT09PT09PT09PT09PT0+Eg8PUcBEjc8NUgdOADe9PT09PT09PT09PT09PT09PT09PT09PT0+EY5RzlGSjk4JEZDOEk3SB043vT09PT09PT09PT09PT09PT09PT0/Q/e9PT09PT09PT09PT09PT09FH0OUBHOT069Pz4RDVCQjlAARJITUQ59BER9PtHNUI1OT37/fRP3vT09PT09PT09PT09PT09PT09PT0MCBDOw4OPUI6Q/z2RzVCNTk99EQ1QkI5QPb9D9709PT09PT09PT09PT09PT09PT09PhGOUdJNUBI9BH0+Ds5QjlGNUAXQkhGQAESQjlLM0c1QjU5PTM3Q0I6PTszSDlAOTtGNUEzSDlMSPze9PT09PT09PT09PT09PT09PT09PT09PT0+Ec5QDk3SDk4JEYXNUgA3vT09PT09PT09PT09PT09PT09PT09PT09PhENUJCOUAA3vT09PT09PT09PT09PT09PT09PT09PT09PhKQ0BJQTkA3vT09PT09PT09PT09PT09PT09PT09PT09Pg4NU0A3vT09PT09PT09PT09PT09PT09PT09PT09PhIPD1HARI3PDVIHTgA3vT09PT09PT09PT09PT09PT09PT09PT09PhGOUc5Rko5OCRGQzhJN0gdON709PT09PT09PT09PT09PT09PT09P0P3vT09PT09PT09PT09PT09PRR3t709PT09PT09PT09PT09PT0PTr0/PhGOUdJNUBI9BER9Do1QEc59FBQ9PhGOUdJNUBI9BER9EJJQED99E/e9PT09PT09PT09PT09PT09PT09PQwIEM7Dg45RkZDRvz7J0k2RzdGPURIPUNC9ERJRjc8NUc59Dg5QD1KOUZN9Do1PUA5OPsA9C/e9PT09PT09PT09PT09PT09PT09PT09PT0+zc8NUgzPTj79BES9PhIPD1HARI3PDVIHTgA3vT09PT09PT09PT09PT09PT09PT09PT09PtERkM4STdIMzc1SDk7Q0ZNMz04+/QREvT4SDw9RwESREZDOEk3SBc1SDk7Q0ZNHTgA3vT09PT09PT09PT09PT09PT09PT09PT09PtENUI5QDNITUQ5+/QREvT4RDVCQjlAARJITUQ59BMT9EJJQEAA3vT09PT09PT09PT09PT09PT09PT09PT09PtENUI5QDM9OPv0ERL0+Ec5QDk3SDk4JEYXNUgBEkQ1QkI5QDM9OPQTE/RCSUBAAN709PT09PT09PT09PT09PT09PT09PT09PT7RjlHOUZKOTgzREZDOEk3SDM9OPv0ERL0+EY5RzlGSjk4JEZDOEk3SB04AN709PT09PT09PT09PT09PT09PT09DH9D9709PT09PT09PT09PT09PT09PT0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
+
+namespace App\Jobs;
+
+use App\Http\Controllers\AgentProductController;
+use App\Http\Controllers\AccountBallanceController;
+use App\Http\Controllers\CustomTextController;
+use App\Http\Controllers\GeneralController;
+use App\Http\Controllers\HiddifyPannelController;
+use App\Http\Controllers\LogController;
+use App\Http\Controllers\PannelController;
+use App\Http\Controllers\PaymentSettingController;
+use App\Http\Controllers\ProductController;
+use App\Http\Controllers\ReferralWalletController;
+use App\Http\Controllers\MarzbanPannelController;
+use App\Http\Controllers\SanaeiPannelController;
+use App\Models\BotUser;
+use App\Services\TelegramService;
+use App\Services\SubscriptionPurchaseLock;
+use App\Services\InventoryPurchaseService;
+use App\Services\PromoCodeService;
+use App\Services\PurchaseIntentService;
+use App\Services\SubscriptionPaymentService;
+use App\Services\LoyaltyPointsService;
+use App\Services\MobileVerificationService;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+
+class ProcessSubscriptionPurchase implements ShouldQueue
+{
+    use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
+
+    /** Sanaei panel login + add client can exceed 60s on slow/unstable links. */
+    public int $timeout = 600;
+
+    public int $tries = 1;
+
+    protected $chatId;
+    protected $productCategoryId;
+    protected ?string $promoCode;
+
+    /**
+     * Create a new job instance.
+     */
+    public function __construct($chatId, $productCategoryId, ?string $promoCode = null)
+    {
+        $this->chatId = $chatId;
+        $this->productCategoryId = $productCategoryId;
+        $this->promoCode = $promoCode;
+    }
+
+    /**
+     * Execute the job.
+     */
+    public function handle(): void
+    {
+        $lock = SubscriptionPurchaseLock::acquire($this->chatId);
+        if (! $lock) {
+            \Log::warning('Duplicate subscription purchase job skipped', [
+                'chat_id' => $this->chatId,
+                'product_category_id' => $this->productCategoryId,
+            ]);
+
+            return;
+        }
+
+        $generalCntrl = new GeneralController();
+        $customTextCtrl = new CustomTextController();
+        $accBlCtrl = new AccountBallanceController();
+        $referralCntrl = new ReferralWalletController();
+        $panelCntrl = new PannelController();
+        $logCtrl = new LogController();
+        $paymnetSettingCntrl = new PaymentSettingController();
+        $agentProductCtrl = new AgentProductController();
+        $telegramService = new TelegramService();
+        $prCntrl = new ProductController();
+        $inventoryPurchaseService = new InventoryPurchaseService();
+        $paymentService = new SubscriptionPaymentService($accBlCtrl, $paymnetSettingCntrl, $referralCntrl, $logCtrl);
+        $loyaltyService = new LoyaltyPointsService();
+        $reservedProductId = null;
+        $soldInventoryProductId = null;
+        $chargeResult = null;
+        $purchaseDelivered = false;
+        $loyaltyPointsRedeemed = 0;
+        $originalProductPrice = 0.0;
+
+        // Fetch user for logging
+        $botUser = BotUser::where('account_id', $this->chatId)->first();
+        $username = $botUser ? $botUser->username : 'Unknown';
+        try {
+            $mobileBlock = (new MobileVerificationService())->purchaseBlockResponse($this->chatId);
+            if ($mobileBlock['blocked'] ?? false) {
+                $telegramService->sendMessage($this->chatId, $mobileBlock['message'] ?? 'تایید موبایل لازم است.');
+                (new MobileVerificationService())->promptVerification($this->chatId);
+
+                return;
+            }
+
+            $pricing = $agentProductCtrl->resolveProductPricingForAccount($this->chatId, $this->productCategoryId);
+            if ($pricing === null) {
+                $telegramService->sendMessage($this->chatId, 'این بسته برای شما در دسترس نیست.');
+                return;
+            }
+
+            $selectedPrCat = $pricing['category'];
+            $selectedPrCat->refresh();
+            if (! $selectedPrCat) {
+                \Log::error("Product Category not found: " . $this->productCategoryId);
+                return;
+            }
+
+            $limitMessage = $agentProductCtrl->checkAgentPurchaseLimits(
+                $this->chatId,
+                (float) ($selectedPrCat->volume ?? 0),
+                1
+            );
+            if ($limitMessage !== null) {
+                $telegramService->sendMessage($this->chatId, $limitMessage);
+                return;
+            }
+
+            \Log::info("Selected Product Category: 111111" . $selectedPrCat->category_name);
+            $productPrice = $pricing['price'];
+            $productPriceInDollar = $pricing['price_in_dollar'];
+            $promoDiscountToman = 0.0;
+            $appliedPromo = null;
+
+            if ($this->promoCode) {
+                $promoService = new PromoCodeService();
+                $promoResult = $promoService->validate(
+                    $this->promoCode,
+                    $this->chatId,
+                    (int) $this->productCategoryId,
+                    (float) $productPrice,
+                    (float) $productPriceInDollar
+                );
+                if (! ($promoResult['valid'] ?? false)) {
+                    $telegramService->sendMessage($this->chatId, $promoResult['message'] ?? 'کد تخفیف نامعتبر است.');
+                    return;
+                }
+                $productPrice = (float) ($promoResult['final_price_toman'] ?? $productPrice);
+                $productPriceInDollar = (float) ($promoResult['final_price_dollar'] ?? $productPriceInDollar);
+                $promoDiscountToman = (float) ($promoResult['discount_toman'] ?? 0);
+                $appliedPromo = $promoResult['promo'] ?? null;
+            }
+
+            $originalProductPrice = (float) $productPrice;
+            $loyaltyCheckout = $loyaltyService->resolveCheckout(
+                $this->chatId,
+                (float) $productPrice,
+                (float) $productPriceInDollar,
+                fn ($accountId, $price, $priceDollar) => $accBlCtrl->checkUserHasBalance($accountId, $price, $priceDollar),
+                fn ($accountId, $price) => $referralCntrl->check_user_has_ref_wallet_ballance($accountId, $price),
+            );
+            $productPrice = $loyaltyCheckout['charge_price_toman'];
+            $loyaltyPointsRedeemed = $loyaltyCheckout['points_to_redeem'];
+            $hasBallance = $loyaltyCheckout['has_balance'];
+            $hasRefballance = $loyaltyCheckout['has_ref_balance'];
+
+            if (! $loyaltyCheckout['can_proceed']) {
+                $generalCntrl->send_insufficient_balance_message(
+                    $this->chatId,
+                    $selectedPrCat->id,
+                    (float) $productPrice,
+                    (float) $productPriceInDollar,
+                    $this->promoCode
+                );
+                return;
+            }
+
+            $pannel = $panelCntrl->getPannelById($selectedPrCat->pannel_id);
+            $day = $selectedPrCat->expire_day;
+            $volume = $selectedPrCat->volume;
+            $resualt = false;
+
+            if ($pannel->isInventoryPanel()) {
+                if ($prCntrl->countActiveInventory($selectedPrCat->id) < 1) {
+                    $telegramService->sendMessage($this->chatId, 'موجودی این بسته تمام شده است.');
+                    return;
+                }
+
+                $chargeResult = $paymentService->charge(
+                    $this->chatId,
+                    (float) $productPrice,
+                    (float) $productPriceInDollar,
+                    (bool) $hasRefballance,
+                    $username
+                );
+                \Log::info('paymentSuccess: ' . ($chargeResult['success'] ? '1' : '0'));
+
+                if ($loyaltyCheckout['points_only']) {
+                    $chargeResult = [
+                        'success' => true,
+                        'source' => 'loyalty',
+                        'amount_toman' => 0.0,
+                        'amount_dollar' => 0.0,
+                    ];
+                } elseif (! $paymentService->wasCharged($chargeResult)) {
+                    $generalCntrl->send_insufficient_balance_message(
+                        $this->chatId,
+                        $selectedPrCat->id,
+                        (float) $productPrice,
+                        (float) $productPriceInDollar,
+                        $this->promoCode
+                    );
+                    return;
+                }
+
+                if ($loyaltyPointsRedeemed > 0) {
+                    $loyaltyService->redeemPoints(
+                        $this->chatId,
+                        $loyaltyPointsRedeemed,
+                        'purchase',
+                        'product_category',
+                        $selectedPrCat->id,
+                        'استفاده از امتیاز در خرید اشتراک'
+                    );
+                }
+
+                $soldInventoryProductId = $inventoryPurchaseService->deliverInventoryProduct($selectedPrCat, $this->chatId);
+                $resualt = $soldInventoryProductId !== false ? $soldInventoryProductId : false;
+
+                if ($resualt == false || $resualt == null) {
+                    $paymentService->refund($this->chatId, $chargeResult, $username);
+                    if ($loyaltyPointsRedeemed > 0) {
+                        $loyaltyService->refundRedeemedPoints($this->chatId, $loyaltyPointsRedeemed);
+                    }
+                    $logCtrl->addNewLog('subscription', 'خرید اشتراک با شکست مواجه شد.', $this->chatId, $username, 'failed');
+                    $telegramService->sendMessage($this->chatId, 'موجودی این بسته تمام شده است.');
+                    return;
+                }
+            } else {
+                $reservedProductId = $prCntrl->reserveProductId($this->chatId, $selectedPrCat->id);
+                if ($reservedProductId === null) {
+                    $telegramService->sendMessage($this->chatId, $customTextCtrl->getText('action.process.failed_buy'));
+                    return;
+                }
+
+                $chargeResult = $paymentService->charge(
+                    $this->chatId,
+                    (float) $productPrice,
+                    (float) $productPriceInDollar,
+                    (bool) $hasRefballance,
+                    $username
+                );
+                \Log::info('paymentSuccess: ' . ($chargeResult['success'] ? '1' : '0'));
+
+                if ($loyaltyCheckout['points_only']) {
+                    $chargeResult = [
+                        'success' => true,
+                        'source' => 'loyalty',
+                        'amount_toman' => 0.0,
+                        'amount_dollar' => 0.0,
+                    ];
+                } elseif (! $paymentService->wasCharged($chargeResult)) {
+                    $prCntrl->deletePendingProduct($reservedProductId);
+                    $generalCntrl->send_insufficient_balance_message(
+                        $this->chatId,
+                        $selectedPrCat->id,
+                        (float) $productPrice,
+                        (float) $productPriceInDollar,
+                        $this->promoCode
+                    );
+                    return;
+                }
+
+                if ($loyaltyPointsRedeemed > 0) {
+                    $loyaltyService->redeemPoints(
+                        $this->chatId,
+                        $loyaltyPointsRedeemed,
+                        'purchase',
+                        'product_category',
+                        $selectedPrCat->id,
+                        'استفاده از امتیاز در خرید اشتراک'
+                    );
+                }
+
+                if ($pannel->type == 'hiddify') {
+                    $resualt = $generalCntrl->new_hiddify_config_telegram_text($selectedPrCat, $pannel, $volume, $day, $this->chatId, $reservedProductId);
+                } elseif ($pannel->isMarzbanCompatible()) {
+                    $resualt = $generalCntrl->new_marzban_config_telegram_text(
+                        $selectedPrCat,
+                        $pannel,
+                        $volume,
+                        $day,
+                        $this->chatId,
+                        $reservedProductId
+                    );
+                } elseif ($pannel->type == 'sanaei') {
+                    \Log::info("sanaei pannel");
+                    $resualt = $generalCntrl->new_sanaei_config_telegram_text(
+                        $selectedPrCat,
+                        $pannel,
+                        $volume,
+                        $day,
+                        $this->chatId,
+                        $reservedProductId
+                    );
+                }
+
+                if ($resualt == false || $resualt == null) {
+                    \Log::error('Subscription purchase delivery failed', [
+                        'chat_id' => $this->chatId,
+                        'product_category_id' => $this->productCategoryId,
+                        'panel_type' => $pannel->type ?? null,
+                        'panel_id' => $selectedPrCat->pannel_id ?? null,
+                        'reserved_product_id' => $reservedProductId,
+                    ]);
+                    $paymentService->refund($this->chatId, $chargeResult, $username);
+                    if ($loyaltyPointsRedeemed > 0) {
+                        $loyaltyService->refundRedeemedPoints($this->chatId, $loyaltyPointsRedeemed);
+                    }
+                    $prCntrl->deletePendingProduct($reservedProductId);
+                    $logCtrl->addNewLog('subscription', 'خرید اشتراک با شکست مواجه شد.', $this->chatId, $username, 'failed');
+                    $telegramService->sendMessage($this->chatId, $customTextCtrl->getText('action.process.failed_buy'));
+                    return;
+                }
+            }
+
+            \Log::info("resualt response buoght from sanaei: " . $resualt);
+            $purchaseDelivered = true;
+
+            $generalCntrl->send_using_subscription_manual_message($this->chatId, null, null, $pannel->isInventoryPanel());
+            $logCtrl->addNewLog('subscription', 'خرید اشتراک با موفقیت انجام شد.', $this->chatId, $username, 'success');
+
+            if ($appliedPromo !== null) {
+                $soldProductId = is_numeric($resualt) ? (int) $resualt : null;
+                (new PromoCodeService())->recordUsage($appliedPromo, $this->chatId, $promoDiscountToman, $soldProductId);
+            }
+
+            $loyaltyService->awardPurchasePoints($this->chatId, $originalProductPrice, $selectedPrCat->id);
+
+            (new PurchaseIntentService())->completeForAccount($this->chatId, (int) $this->productCategoryId);
+
+        } catch (\Throwable $th) {
+            \Log::error("خطا در خرید بسته (Job): " . $th->getMessage());
+
+            if (! $purchaseDelivered && $chargeResult !== null && $paymentService->wasCharged($chargeResult)) {
+                $paymentService->refund($this->chatId, $chargeResult, $username);
+            }
+
+            if (! $purchaseDelivered && $loyaltyPointsRedeemed > 0) {
+                $loyaltyService->refundRedeemedPoints($this->chatId, $loyaltyPointsRedeemed);
+            }
+
+            if (! $purchaseDelivered && $reservedProductId !== null) {
+                $prCntrl->deletePendingProduct($reservedProductId);
+            }
+
+            if (! $purchaseDelivered && $soldInventoryProductId !== null) {
+                $inventoryPurchaseService->rollbackDelivery($soldInventoryProductId);
+            }
+
+            $telegramService->sendMessage($this->chatId, $customTextCtrl->getText('action.process.failed_buy'));
+        } finally {
+            SubscriptionPurchaseLock::clear($this->chatId);
+            $lock->release();
+        }
+    }
+}

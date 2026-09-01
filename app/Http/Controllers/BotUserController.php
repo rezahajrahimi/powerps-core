@@ -1,3 +1,519 @@
 <?php
-bolt_decrypt( __FILE__ , 'pbKsDI'); return 0;
-##!!!##JyeLfoqCkI1+gII9Xo2NeWWRkY15YIyLkY+MiYmCj5BYJ5KQgj1ejY15aoyBgomQeV+MkXKQgo9YJ5KQgj1ejY15aoyBgomQeXKQgo9YJ5KQgj1ejY15aoyBgomQeV6BioaLaoKQkH6EglgnkpCCPWaJiZKKhot+kYJ5cJKNjYyPkXljfoB+gYKQeWV+kIVYJ5KQgj1ejY15cIKPk4aAgpB5cYKJgoSPfopwgo+ThoCCWCeSkII9Xo2NeWeMf5B5X36RgIVqgpCQfoSCZ4x/WCeSkII9YH6Pf4yLeWB+j3+Mi1gnkpCCPWaJiZKKhot+kYJ5ZZGRjXlvgo6SgpCRWCcngIl+kJA9X4yRcpCCj2CMi5GPjImJgo89gpWRgouBkD1gjIuRj4yJiYKPJ5gnPT09PY2Sf4mGgD2DkouAkYaMiz2Aj4J+kYJrgpRykIKPX4yRRUF+gICMkouRfIaBST1BkpCCj2t+ioJJPUGDho+QkWt+ioJJPUGJfpCRa36KgkYnPT09PZgnPT09PT09PT1BiYyEYJGPiT1aPYuClD1pjIRgjIuRj4yJiYKPRUZYJz09PT09PT09QYmMhGCRj4lKW36BgWuClGmMhEVEkpCCj0RJPUT3xvXE9c71xfXOPfXJ9cz4qfXMPfal9cT1zvXMPfXO9cX1xPXHPfXR9cxLREk9QX6AgIySi5F8hoFJPUGSkIKPa36Kgkk9RIuClD2SkIKPREZYJz09PT09PT09QX+MkXKQgo89Wj1fjJFykIKPV1eDho+QkWyPYI+CfpGCRXgnPT09PT09PT09PT09RH6AgIySi5F8hoFEPVpbPUF+gICMkouRfIaBSSc9PT09PT09PT09PT1EkpCCj4t+ioJEPVpbPUGSkIKPa36KgkknPT09PT09PT09PT09RIOGj5CRfIt+ioJEPVpbPUGDho+QkWt+ioJJJz09PT09PT09PT09PUSJfpCRfIt+ioJEPVpbPUGJfpCRa36KgkknPT09PT09PT16RlgnPT09PT09PT1BkpCCjz1aPYuClD1ykIKPWCc9PT09PT09PUGSkIKPSluLfoqCPVo9QZKQgo9rfoqCWCc9PT09PT09PUGSkIKPSlt+gICMkouRfIaBPVo9QX6AgIySi5F8hoFYJz09PT09PT09QZKQgo9KW41+kJCUjI+BPVo9ZX6QhVdXin6IgkU/Tk9QUVJTVFU/RlgnPT09PT09PT1BkpCCj0pbj4yJgj1aPT+SkIKPP1gnPT09PT09PT1BkpCCj0pbkH6TgkVGWCc9PT09PT09PY+CkZKPiz1Bf4yRcpCCj1gnJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hX6Qb4KEhpCRj4KBRUF+gICMkouRfIaBST1BkpCCj2t+ioJJPUGDho+QkWt+ioJJPUGJfpCRa36KgkYnPT09PZgnPT09PT09PT1BkpCCjz1aPV+MkXKQgo9XV5SFgo+CRUR+gICMkouRfIaBREk9QX6AgIySi5F8hoFGSluDho+QkUVGWCc9PT09PT09PYaDPUVBkpCCjz0+Wj2LkomJRj2YJz09PT09PT09PT09PY+CkZKPiz2Rj5KCWCc9PT09PT09PZo9gomQgj2YJz09PT09PT09PT09PUGRhYaQSluAj4J+kYJrgpRykIKPX4yRRUF+gICMkouRfIaBST1BkpCCj2t+ioJJPUGDho+QkWt+ioJJPUGJfpCRa36KgkZYJz09PT09PT09PT09PY+CkZKPiz2DfomQglgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRX4yRcpCCj2mGkJFFRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXfomJRUZYJz09PT09PT09PT09PYaDPUVBgX6Rfj0+Wj2LkomJRj2YJz09PT09PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VBgX6Rfkk9T01NRlgnPT09PT09PT09PT09mj2CiZCCPZgnPT09PT09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRURrjD1hfpF+REk9UU1RRlgnPT09PT09PT09PT09mic9PT09PT09PZo9gH6RgIU9RXlxhY+MlH5/iYI9QZGFRj2YJz09PT09PT09PT09PXlpjIRXV4aLg4xFP3GFj4yUfn+Jglc9PUGRhT9GWCcnPT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFRHCCj5OCjz1ij4+Mj0RJPVJNTUZYJz09PT09PT09mic9PT09mic9PT09jZJ/iYaAPYOSi4CRhoyLPYSCkV+MkXKQgo9phpCRX5ZtfoSGi36RhoyLRUYnPT09PZgnPT09PT09PT2Rj5Y9mCc9PT09PT09PT09PT1BgX6Rfj1aPV+MkXKQgo9XV5SGkYVFRJKQgo9LkpCCj2SPjJKNREZKW41+hIaLfpGCRU5TST14REdEekk9RI1+hIJERlgnPT09PT09PT09PT09j4KRko+LPUGBfpF+WCc9PT09PT09PZo9gH6RgIU9RXlxhY+MlH5/iYI9QZGFRj2YJz09PT09PT09PT09PXlpjIRXV4aLg4xFP3GFj4yUfn+Jglc9PUGRhT9GWCcnPT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFRHCCj5OCjz1ij4+Mj0RJPVJNTUZYJz09PT09PT09mic9PT09mic9PT09jZJ/iYaAPYOSi4CRhoyLPYSCkXyJfpCRfE5NfH+MkXySkIKPRUYnPT09PZgnPT09PT09PT2Rj5Y9mCc9PT09PT09PT09PT2PgpGSj4s9X4yRcpCCj1dXjI+Bgo9flkVEhoFEST1EgYKQgERGSluRfoiCRU5NRkpbhIKRRUZYJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXhouDjEU/cYWPjJR+f4mCVz09QZGFP0ZYJyc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VEcIKPk4KPPWKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRfJKQgo+QfH+WfI1+kJF8gX6WkEVBgX6WkEYnPT09PZgnPT09PT09PT2Rj5Y9mCc9PT09PT09PT09PT1BkJF+j5FhfpY9Wj1gfo9/jItXV4uMlEVGSluQkn9hfpaQRUGBfpaQRkpbkJF+j5Fsg2F+lkVGWCc9PT09PT09PT09PT1BgouBYX6WPVo9YH6Pf4yLV1eLjJRFRkpbgouBbINhfpZFRlgnPT09PT09PT09PT09QYF+kX49Wj1fjJFykIKPV1eUhYKPgl+CkZSCgotFRICPgn6RgoF8fpFEST14QZCRfo+RYX6WST1BgouBYX6WekZKW4yPgYKPX5ZFRIaBREk9RIGCkIBERkpbhIKRRUZYJz09PT09PT09PT09PY+CkZKPiz1BgX6RflgnPT09PT09PT2aPYB+kYCFPUV5cYWPjJR+f4mCPUGRhUY9mCc9PT09PT09PT09PT15aYyEV1eBgn+ShEVEhIKRfJKQgo+QfH+WfI1+kJF8gX6WkEQ9Sz1BkYVKW4SCkWqCkJB+hIJFRkZYJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRUSEgpF8kpCCj5B8f5Z8jX6QkXyBfpaQPYKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRfJKQgo+QfJSGkYV8l4KPjHyAjIuDhoSQRUYnPT09PZgnPT09PT09PT2Rj5Y9mCc9PT09PT09PT09PT1BgX6Rfj1aPV+MkXKQgo9XV5SGkYVFRI2PjIGSgJGQREZKW4SCkUVGWCc9PT09PT09PT09PT1MTD2EgpE9fomJPUGBfpF+PZSFhoCFPYV+k4I9l4KPjD2AjJKLkT2Mgz2Nj4yBkoCRkCc9PT09PT09PT09PT1BgX6Rfj1aPUGBfpF+SluDhomRgo9Fg5KLgJGGjIs9RUGSkIKPRj2YJz09PT09PT09PT09PT09PT2PgpGSj4s9QZKQgo9KW42PjIGSgJGQSluAjJKLkUVGPVpaWj1NWCc9PT09PT09PT09PT2aRkpbk36JkoKQRUZYJz09PT09PT09PT09PY+CkZKPiz1BgX6RflgnPT09PT09PT2aPYB+kYCFPUV5cYWPjJR+f4mCPUGRhUY9mCc9PT09PT09PT09PT15aYyEV1eBgn+ShEVEhIKRfJKQgo+QfH+WfI1+kJF8gX6WkEQ9Sz1BkYVKW4SCkWqCkJB+hIJFRkZYJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRUSEgpF8kpCCj5B8f5Z8jX6QkXyBfpaQPYKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRfJKQgo+QfJSGkYV8l4KPjHx/fomJfouAgkVGJz09PT2YJz09PT09PT09kY+WPZgnPT09PT09PT09PT09QYF+kX49Wj1fjJFykIKPV1eUhpGFRUR/fomJfouAgkRGSluEgpFFRlgnPT09PT09PT09PT09TEw9hIKRPX6JiT1BgX6Rfj2UhYaAhT2FfpOCPZeCj4w9gIySi5E9jIM9jY+MgZKAkZAnPT09PT09PT09PT09QYF+kX49Wj1BgX6Rfkpbg4aJkYKPRYOSi4CRhoyLPUVBkpCCj0Y9mCc9PT09PT09PT09PT09PT09hoM9RYaQkIKRRUGSkIKPSlt/fomJfouAgkZGPZgnPT09PT09PT09PT09PT09PT09PT2PgpGSj4s9houRk36JRZN+iZKCVz1BkpCCj0pbf36JiX6LgIJKW39+iYl+i4CCRj1aWlo9TVgnPT09PT09PT09PT09PT09PZonPT09PT09PT09PT09mkZKW5N+iZKCkEVGWCc9PT09PT09PT09PT2PgpGSj4s9QYF+kX5YJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXgYJ/koRFRISCkXySkIKPkHyUhpGFfJeCj4x8f36JiX6LgIJEPUs9QZGFSluEgpFqgpCQfoSCRUZGWCc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VEhIKRfJKQgo+QfJSGkYV8l4KPjHx/fomJfouAgj2Cj4+Mj0RJPVJNTUZYJz09PT09PT09mic9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2EgpF8foSCi5F8j4yJgnx/jJF8kpCCj5BFRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXlIaRhUVEkpCCj0RGJz09PT09PT09PT09PT09PT1KW4SCkUVGWCc9PT09PT09PT09PT1BgX6Rfj1aPUGBfpF+SluDhomRgo9Fg5KLgJGGjIs9RUGSkIKPRj2YJz09PT09PT09PT09PT09PT2Ggz1FhpCQgpFFQZKQgo9KW5KQgo9GRj2YJz09PT09PT09PT09PT09PT09PT09j4KRko+LPUGSkIKPSluSkIKPSluPjImCPVpaWj1EfoSCi5FEWCc9PT09PT09PT09PT09PT09mic9PT09PT09PT09PT2aRkpbk36JkoKQRUZYJz09PT09PT09PT09PYaDPUVBgX6Rfj0+Wj2LkomJRj2YJz09PT09PT09PT09PT09PT2PgpGSj4s9QYF+kX5YJz09PT09PT09PT09PZo9gomQgj2YJz09PT09PT09PT09PT09PT2PgpGSj4s9i5KJiVgnPT09PT09PT09PT09mic9PT09PT09PZo9gH6RgIU9RXlxhY+MlH5/iYI9QZGFRj2YJz09PT09PT09PT09PXlpjIRXV4aLg4xFP3GFj4yUfn+Jglc9PUGRhT9GWCc9PT09PT09PZonPT09PZonJz09PT2Nkn+JhoA9g5KLgJGGjIs9kIJ+j4CFfH+MkXySkIKPkEVvgo6SgpCRPUGPgo6SgpCRRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXlIWCj4JFRJKQgo+LfoqCREk9RImGiIJEST1EQkQ9Sz1Bj4KOkoKQkUpbkIJ+j4CFPUs9REJERic9PT09PT09PT09PT09PT09SluMj3SFgo+CRUSDho+QkXyLfoqCREk9RImGiIJEST1EQkQ9Sz1Bj4KOkoKQkUpbkIJ+j4CFPUs9REJERic9PT09PT09PT09PT09PT09SluMj3SFgo+CRUSJfpCRfIt+ioJEST1EiYaIgkRJPURCRD1LPUGPgo6SgpCRSluQgn6PgIU9Sz1EQkRGJz09PT09PT09PT09PT09PT1KW4yPdIWCj4JFRH6BioaLfH6Jhn6QREk9RImGiIJEST1EQkQ9Sz1Bj4KOkoKQkUpbkIJ+j4CFPUs9REJERic9PT09PT09PT09PT09PT09SluMj3SFgo+CRUR+gICMkouRfIaBREk9RImGiIJEST1EQkQ9Sz1Bj4KOkoKQkUpbkIJ+j4CFPUs9REJERic9PT09PT09PT09PT09PT09SluEgpFFRlgnJz09PT09PT09PT09PY+CkZKPiz1BgX6RflgnPT09PT09PT2aPYB+kYCFPUV5cYWPjJR+f4mCPUGRhUY9mCc9PT09PT09PT09PT15aYyEV1eGi4OMRT+Qgn6PgIV8f4yRfJKQgo+QVz09QZGFP0ZYJyc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VEcIKPk4KPPWKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRX4yRcpCCj1+WZmFFQYaBRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXlIWCj4JFRIaBREk9QYaBRic9PT09PT09PT09PT09PT09SluUhpGFRXhEjY+MgZKAkZBEST1EkY9+i5B+gJGGjItEST1Ef36JiX6LgIJEST1EiYyEkERJPUSSkIKPS5KQgo9kj4ySjURJPUR/iYyAiIKBfJKQgo9EekYnPT09PT09PT09PT09PT09PUpbg4aPkJFFRlgnPT09PT09PT09PT09hoM9RUGBfpF+PT5aPYuSiYlGPZgnPT09PT09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRUGBfpF+ST1PTU1GWCc9PT09PT09PT09PT2aPYKJkII9mCc9PT09PT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFRGuMPWF+kX5EST1RTVFGWCc9PT09PT09PT09PT2aJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXhouDjEU/cYWPjJR+f4mCVz09QZGFP0ZYJyc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VEcIKPk4KPPWKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJyc9PT09jZJ/iYaAPYOSi4CRhoyLPZKNgX6Rgl+MkXKQgo9egYqGi16Jhn6QRW+CjpKCkJE9QY+CjpKCkJFGJz09PT2YJz09PT09PT09kY+WPZgnPT09PT09PT09PT09QZN+iYaBfpGCgT1aPUGPgo6SgpCRSluTfomGgX6RgkV4Jz09PT09PT09PT09PT09PT1Ef4yRfJKQgo98hoFEPVpbPUSPgo6Sho+CgXyUhpGFjJKRV36AgIySi5F8hoGZhouRgoSCj5mClYaQkZBXf4yRfJKQgo+QSYaBREknPT09PT09PT09PT09PT09PUR+gICMkouRfIaBRD1aWz1Ej4KOkoaPgoF8lIaRhYySkVd/jJF8kpCCj3yGgZmGi5GChIKPmYKVhpCRkFd/jJF8kpCCj5BJfoCAjJKLkXyGgURJJz09PT09PT09PT09PT09PT1EfoGKhot8fomGfpBEPVpbPUSLkomJfn+JgpmQkY+Gi4SZin6VV05NTURJJz09PT09PT09PT09PXpGWCcnPT09PT09PT09PT09QX+MkXKQgo89Wj2GkJCCkUVBk36JhoF+kYKBeER/jJF8kpCCj3yGgUR6Ric9PT09PT09PT09PT09PT09XD1fjJFykIKPV1eDhouBbI9jfoaJRUGTfomGgX6RgoF4RH+MkXySkIKPfIaBRHpGJz09PT09PT09PT09PT09PT1XPV+MkXKQgo9XV5SFgo+CRUR+gICMkouRfIaBREk9QZN+iYaBfpGCgXhEfoCAjJKLkXyGgUR6Rkpbg4aPkJFsj2N+holFRlgnPT09PT09PT09PT09QX6Jhn6QPVo9hpCQgpFFQZN+iYaBfpGCgXhEfoGKhot8fomGfpBEekYnPT09PT09PT09PT09PT09PVw9kY+GikVBk36JhoF+kYKBeER+gYqGi3x+iYZ+kER6Ric9PT09PT09PT09PT09PT09Vz2LkomJWCc9PT09PT09PT09PT1Bf4yRcpCCj0pbfoGKhot8fomGfpA9Wj1BfomGfpA9WlpaPUREPVw9i5KJiT1XPUF+iYZ+kFgnPT09PT09PT09PT09QX+MkXKQgo9KW5B+k4JFRlgnJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRXhEf4yRfJKQgo9EPVpbPUF/jJFykIKPekk9T01NRlgnPT09PT09PT2aPYB+kYCFPUV5cYWPjJR+f4mCPUGRhUY9mCc9PT09PT09PT09PT15aYyEV1eGi4OMRT+SjYF+kYJfjJFykIKPXoGKhoteiYZ+kFc9QZGFP0ZYJyc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0VEcIKPk4KPPWKPj4yPREk9Uk1NRlgnPT09PT09PT2aJz09PT2aJz09PT2Nkn+JhoA9g5KLgJGGjIs9hIKRaX6QkU5NcpCCj5BFRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXjI+Bgo9flkVEhoFEST1EgYKQgERGJz09PT09PT09PT09PT09PT1KW4mGioaRRU5NRic9PT09PT09PT09PT09PT09SluEgpFFRlgnPT09PT09PT09PT09hoM9RUGBfpF+PT5aPYuSiYlGPZgnPT09PT09PT09PT09PT09PY+CkZKPiz1BgX6RflgnPT09PT09PT09PT09mj2CiZCCPZgnPT09PT09PT09PT09PT09PY+CkZKPiz2LkomJWCc9PT09PT09PT09PT2aJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXhouDjEU/cYWPjJR+f4mCVz09QZGFP0ZYJz09PT09PT09mic9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2EgpFykIKPZmFfll6AgIySi5FmYUVBfoCAjJKLkWZhRic9PT09mCc9PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXlIWCj4JFRH6AgIySi5F8hoFEST1BfoCAjJKLkWZhRkpbg4aPkJFFRlgnPT09PT09PT2Ggz1FQYF+kX49Plo9i5KJiUY9mCc9PT09PT09PT09PT2PgpGSj4s9QYF+kX5KW4aBWCc9PT09PT09PZo9gomQgj2YJz09PT09PT09PT09PY+CkZKPiz2LkomJWCc9PT09PT09PZonPT09PZonPT09PY2Sf4mGgD2DkouAkYaMiz2QgouBfF6BioaLfIqCkJB+hIJ8kYx8XomJfJKQgo+QRW+CjpKCkJE9QY+CjpKCkJFGJz09PT2YJz09PT09PT09kY+WPZgnPT09PT09PT09PT09QYqCkJB+hII9Wj1Bj4KOkoKQkUpbioKQkH6EglgnPT09PT09PT09PT09QZCAhYKBkomCgV6RPVo9QY+CjpKCkJFKW5CAhYKBkomCgXx+kVg9TEw9bI2RhoyLfolXPWZwbD1VU01OPYF+kYI9kJGPhouEJz09PT09PT09PT09PUGGin6Egm1+kYU9Wj2LkomJWCcnPT09PT09PT09PT09hoM9RUGPgo6SgpCRSluFfpBjhomCRUSGin6EgkRGRj2YJz09PT09PT09PT09PT09PT1Bg4aJgj1aPUGPgo6SgpCRSluDhomCRUSGin6EgkRGWCc9PT09PT09PT09PT09PT09QYOGiYKLfoqCPVo9kYaKgkVGPUs9RHxEPUs9QYOGiYJKW4SCkWCJhoKLkWyPhoSGi36Ja36KgkVGWCc9PT09PT09PT09PT09PT09QYGGj4KAkYyPlj1aPY2Sf4mGgHyNfpGFRUSQkYyPfoSCTH6BioaLfIqCkJB+hIKQREZYJz09PT09PT09PT09PT09PT2Ggz1FPoOGiYJ8gpWGkJGQRUGBho+CgJGMj5ZGRj2YJz09PT09PT09PT09PT09PT09PT09ioiBho9FQYGGj4KAkYyPlkk9TVRUVEk9kY+SgkZYJz09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PT09PT1Bg4aJgkpbioyTgkVBgYaPgoCRjI+WST1Bg4aJgot+ioJGWCc9PT09PT09PT09PT09PT09QYaKfoSCbX6RhT1aPUSQkYyPfoSCTH6BioaLfIqCkJB+hIKQTEQ9Sz1Bg4aJgot+ioJYJz09PT09PT09PT09PZonJz09PT09PT09PT09PUGSkIKPZoGQPVo9X4yRcpCCj1dXjYmSgIhFRH6AgIySi5F8hoFERkpbkYxej49+lkVGWCcnPT09PT09PT09PT09hoM9RYKKjZGWRUGSkIKPZoGQRkY9mCc9PT09PT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFeESKgpCQfoSCRD1aWz1Ea4w9kpCCj5A9g4ySi4FEekk9UU1RRlgnPT09PT09PT09PT09micnPT09PT09PT09PT09QX6BioaLaoKQkH6Egj1aPV6BioaLaoKQkH6EgldXgI+CfpGCRXgnPT09PT09PT09PT09PT09PUSKgpCQfoSCRD1aWz1BioKQkH6EgkknPT09PT09PT09PT09PT09PUSGin6EgnyNfpGFRD1aWz1Bhop+hIJtfpGFSSc9PT09PT09PT09PT09PT09RJGWjYJEPVpbPUGGin6Egm1+kYU9XD1EjYWMkYxEPVc9RJGClZFESSc9PT09PT09PT09PT09PT09RJCRfpGSkEQ9Wls9RI2Ci4GGi4RESSc9PT09PT09PT09PT09PT09RJGMkX6JfJKQgo+QRD1aWz2AjJKLkUVBkpCCj2aBkEZJJz09PT09PT09PT09PT09PT1Ej4KAho2GgouRfIaBkEQ9Wls9QZKQgo9mgZBJJz09PT09PT09PT09PT09PT1EkICFgoGSiYKBfH6RRD1aWz1BkICFgoGSiYKBXpE9XD1gfo9/jItXV41+j5CCRUGQgIWCgZKJgoFekUY9Vz2LkomJSSc9PT09PT09PT09PT16RlgnJz09PT09PT09PT09PUGHjH89Wj2LgpQ9X36RgIVqgpCQfoSCZ4x/RUSQgouBfJGMfH6JiURJPUGSkIKPZoGQST1BioKQkH6Egkk9eHpJPUF+gYqGi2qCkJB+hIJKW4aBRlgnJz09PT09PT09PT09PYaDPUVBkICFgoGSiYKBXpFGPZgnPT09PT09PT09PT09PT09PUGBgol+lj1aPWB+j3+Mi1dXjX6PkIJFQZCAhYKBkomCgV6RRlgnPT09PT09PT09PT09PT09PYaDPUVBgYKJfpZKW4aQY5KRko+CRUZGPZgnPT09PT09PT09PT09PT09PT09PT1Bh4x/SluBgol+lkVBgYKJfpZGWCc9PT09PT09PT09PT09PT09mic9PT09PT09PT09PT2aJyc9PT09PT09PT09PT2BhpCNfpGAhUVBh4x/RlgnJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRZGPkoJJPU9NTUZYJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXgo+PjI9FRJCCi4F8XoGKhot8ioKQkH6EgnyRjHxeiYl8kpCCj5BXPUQ9Sz1BkYVKW4SCkWqCkJB+hIJFRkZYJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRXhEioKQkH6EgkQ9Wls9RHCCj5OCjz1ij4+Mj1c9RD1LPUGRhUpbhIKRaoKQkH6EgkVGekk9Uk1NRlgnPT09PT09PT2aJz09PT2aJyc9PT09jZJ/iYaAPYOSi4CRhoyLPZCCi4F8XoGKhot8ioKQkH6EgnyRjHxwgomCgJGCgXySkIKPkEVvgo6SgpCRPUGPgo6SgpCRRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGKgpCQfoSCPVo9QY+CjpKCkJFKW4qCkJB+hIJYJz09PT09PT09PT09PUGSkIKPZoGQPVo9QY+CjpKCkJFKW5KQgo98hoGQWD1MTD1ej49+lj2Mgz1+gICMkouRfIaBkCc9PT09PT09PT09PT2Ggz1FhpB8kJGPhouERUGSkIKPZoGQRkY9mCc9PT09PT09PT09PT09PT09QZKQgo9mgZA9Wj2HkIyLfIGCgIyBgkVBkpCCj2aBkEk9kY+SgkZYJz09PT09PT09PT09PZonPT09PT09PT09PT09QZCAhYKBkomCgV6RPVo9QY+CjpKCkJFKW5CAhYKBkomCgXx+kVg9TEw9bI2RhoyLfoknPT09PT09PT09PT09QYaKfoSCbX6RhT1aPYuSiYlYJyc9PT09PT09PT09PT2Ggz1FQY+CjpKCkJFKW4V+kGOGiYJFRIaKfoSCREZGPZgnPT09PT09PT09PT09PT09PUGDhomCPVo9QY+CjpKCkJFKW4OGiYJFRIaKfoSCREZYJz09PT09PT09PT09PT09PT1Bg4aJgot+ioI9Wj2RhoqCRUY9Sz1EfEQ9Sz1Bg4aJgkpbhIKRYImGgouRbI+GhIaLfolrfoqCRUZYJz09PT09PT09PT09PT09PT1BgYaPgoCRjI+WPVo9jZJ/iYaAfI1+kYVFRJCRjI9+hIJMfoGKhot8ioKQkH6EgpBERlgnPT09PT09PT09PT09PT09PYaDPUU+g4aJgnyClYaQkZBFQYGGj4KAkYyPlkZGPZgnPT09PT09PT09PT09PT09PT09PT2KiIGGj0VBgYaPgoCRjI+WST1NVFRUST2Rj5KCRlgnPT09PT09PT09PT09PT09PZonPT09PT09PT09PT09PT09PUGDhomCSluKjJOCRUGBho+CgJGMj5ZJPUGDhomCi36KgkZYJz09PT09PT09PT09PT09PT1Bhop+hIJtfpGFPVo9RJCRjI9+hIJMfoGKhot8ioKQkH6EgpBMRD1LPUGDhomCi36KglgnPT09PT09PT09PT09micnPT09PT09PT09PT09hoM9RYKKjZGWRUGSkIKPZoGQRkY9mCc9PT09PT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFeESKgpCQfoSCRD1aWz1Ea4w9kpCCj5A9kIKJgoCRgoFEekk9UU1NRlgnPT09PT09PT09PT09micnPT09PT09PT09PT09QX6BioaLaoKQkH6Egj1aPV6BioaLaoKQkH6EgldXgI+CfpGCRXgnPT09PT09PT09PT09PT09PUSKgpCQfoSCRD1aWz1BioKQkH6EgkknPT09PT09PT09PT09PT09PUSGin6EgnyNfpGFRD1aWz1Bhop+hIJtfpGFSSc9PT09PT09PT09PT09PT09RJGWjYJEPVpbPUGGin6Egm1+kYU9XD1EjYWMkYxEPVc9RJGClZFESSc9PT09PT09PT09PT09PT09RJCRfpGSkEQ9Wls9RI2Ci4GGi4RESSc9PT09PT09PT09PT09PT09RJGMkX6JfJKQgo+QRD1aWz2AjJKLkUVBkpCCj2aBkEZJJz09PT09PT09PT09PT09PT1Ej4KAho2GgouRfIaBkEQ9Wls9QZKQgo9mgZBJJz09PT09PT09PT09PT09PT1EkICFgoGSiYKBfH6RRD1aWz1BkICFgoGSiYKBXpE9XD1gfo9/jItXV41+j5CCRUGQgIWCgZKJgoFekUY9Vz2LkomJSSc9PT09PT09PT09PT16RlgnJz09PT09PT09PT09PUGHjH89Wj2LgpQ9X36RgIVqgpCQfoSCZ4x/RUSQgouBfJGMfJCCiYKAkYKBREk9QZKQgo9mgZBJPUGKgpCQfoSCST14ekk9QX6BioaLaoKQkH6EgkpbhoFGWCcnPT09PT09PT09PT09hoM9RUGQgIWCgZKJgoFekUY9mCc9PT09PT09PT09PT09PT09QYGCiX6WPVo9YH6Pf4yLV1eNfo+QgkVBkICFgoGSiYKBXpFGWCc9PT09PT09PT09PT09PT09hoM9RUGBgol+lkpbhpBjkpGSj4JFRkY9mCc9PT09PT09PT09PT09PT09PT09PUGHjH9KW4GCiX6WRUGBgol+lkZYJz09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PZonJz09PT09PT09PT09PYGGkI1+kYCFRUGHjH9GWCcnPT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFkY+Sgkk9T01NRlgnPT09PT09PT2aPYB+kYCFPUV5cYWPjJR+f4mCPUGRhUY9mCc9PT09PT09PT09PT15aYyEV1eCj4+Mj0VEkIKLgXxegYqGi3yKgpCQfoSCfJGMfHCCiYKAkYKBfJKQgo+QVz1EPUs9QZGFSluEgpFqgpCQfoSCRUZGWCc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0V4RIqCkJB+hIJEPVpbPURwgo+Tgo89Yo+PjI9XPUQ9Sz1BkYVKW4SCkWqCkJB+hIJFRnpJPVJNTUZYJz09PT09PT09mic9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2QgouBfH6BioaLfIqCkJB+hIJ8kYx8fomJfJKQgo+QfJSGkYWMkpF8gIyLg4aEkEVvgo6SgpCRPUGPgo6SgpCRRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGBfpF+PVo9X4yRcpCCj1dXlIaRhUVEjY+MgZKAkZBERkpbhIKRRUZYJz09PT09PT09PT09PUxMPYSCkT1+iYk9QYF+kX49lIWGgIU9hX6Tgj2Xgo+MPYCMkouRPYyDPY2PjIGSgJGQJz09PT09PT09PT09PUGSkIKPZoGQPVo9QYF+kX5KW4OGiZGCj0WDkouAkYaMiz1FQZKQgo9GPZgnPT09PT09PT09PT09PT09PY+CkZKPiz1BkpCCj0pbjY+MgZKAkZBKW4CMkouRRUY9WlpaPU1YJz09PT09PT09PT09PZpGSluNiZKAiEVEfoCAjJKLkXyGgURGSluRjF6Pj36WRUZYJyc9PT09PT09PT09PT2Ggz1FgoqNkZZFQZKQgo9mgZBGRj2YJz09PT09PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0V4RIqCkJB+hIJEPVpbPURrjD2SkIKPkD2DjJKLgUR6ST1RTVFGWCc9PT09PT09PT09PT2aJyc9PT09PT09PT09PT1BioKQkH6Egj1aPUGPgo6SgpCRSluKgpCQfoSCWCc9PT09PT09PT09PT1BkICFgoGSiYKBXpE9Wj1Bj4KOkoKQkUpbkICFgoGSiYKBfH6RWCc9PT09PT09PT09PT1Bhop+hIJtfpGFPVo9i5KJiVgnJz09PT09PT09PT09PYaDPUVBj4KOkoKQkUpbhX6QY4aJgkVEhop+hIJERkY9mCc9PT09PT09PT09PT09PT09QYOGiYI9Wj1Bj4KOkoKQkUpbg4aJgkVEhop+hIJERlgnPT09PT09PT09PT09PT09PUGDhomCi36Kgj1aPZGGioJFRj1LPUR8RD1LPUGDhomCSluEgpFgiYaCi5Fsj4aEhot+iWt+ioJFRlgnPT09PT09PT09PT09PT09PUGBho+CgJGMj5Y9Wj2Nkn+JhoB8jX6RhUVEkJGMj36Egkx+gYqGi3yKgpCQfoSCkERGWCc9PT09PT09PT09PT09PT09hoM9RT6DhomCfIKVhpCRkEVBgYaPgoCRjI+WRkY9mCc9PT09PT09PT09PT09PT09PT09PYqIgYaPRUGBho+CgJGMj5ZJPU1UVFRJPZGPkoJGWCc9PT09PT09PT09PT09PT09mic9PT09PT09PT09PT09PT09QYOGiYJKW4qMk4JFQYGGj4KAkYyPlkk9QYOGiYKLfoqCRlgnPT09PT09PT09PT09PT09PUGGin6Egm1+kYU9Wj1EkJGMj36Egkx+gYqGi3yKgpCQfoSCkExEPUs9QYOGiYKLfoqCWCc9PT09PT09PT09PT2aJyc9PT09PT09PT09PT1BfoGKhotqgpCQfoSCPVo9XoGKhotqgpCQfoSCV1eAj4J+kYJFeCc9PT09PT09PT09PT09PT09RIqCkJB+hIJEPVpbPUGKgpCQfoSCSSc9PT09PT09PT09PT09PT09RIaKfoSCfI1+kYVEPVpbPUGGin6Egm1+kYVJJz09PT09PT09PT09PT09PT1EkZaNgkQ9Wls9QYaKfoSCbX6RhT1cPUSNhYyRjEQ9Vz1EkYKVkURJJz09PT09PT09PT09PT09PT1EkJF+kZKQRD1aWz1EjYKLgYaLhERJJz09PT09PT09PT09PT09PT1EkYyRfol8kpCCj5BEPVpbPYCMkouRRUGSkIKPZoGQRkknPT09PT09PT09PT09PT09PUSPgoCGjYaCi5F8hoGQRD1aWz1BkpCCj2aBkEknPT09PT09PT09PT09PT09PUSQgIWCgZKJgoF8fpFEPVpbPUGQgIWCgZKJgoFekT1cPWB+j3+Mi1dXjX6PkIJFQZCAhYKBkomCgV6RRj1XPYuSiYlJJz09PT09PT09PT09PXpGWCcnPT09PT09PT09PT09QYeMfz1aPYuClD1ffpGAhWqCkJB+hIJnjH9FRJCCi4F8kYx8i4x8gIyLg4aEkERJPUGSkIKPZoGQST1BioKQkH6Egkk9eHpJPUF+gYqGi2qCkJB+hIJKW4aBRlgnJz09PT09PT09PT09PYaDPUVBkICFgoGSiYKBXpFGPZgnPT09PT09PT09PT09PT09PUGBgol+lj1aPWB+j3+Mi1dXjX6PkIJFQZCAhYKBkomCgV6RRlgnPT09PT09PT09PT09PT09PYaDPUVBgYKJfpZKW4aQY5KRko+CRUZGPZgnPT09PT09PT09PT09PT09PT09PT1Bh4x/SluBgol+lkVBgYKJfpZGWCc9PT09PT09PT09PT09PT09mic9PT09PT09PT09PT2aJyc9PT09PT09PT09PT2BhpCNfpGAhUVBh4x/RlgnJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRZGPkoJJPU9NTUZYJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09eWmMhFdXgo+PjI9FRJCCi4F8foGKhot8ioKQkH6EgnyRjHx+iYl8kpCCj5B8lIaRhYySkXyAjIuDhoSQVz1EPUs9QZGFSluEgpFqgpCQfoSCRUZGWCc9PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0V4RIqCkJB+hIJEPVpbPURwgo+Tgo89Yo+PjI9XPUQ9Sz1BkYVKW4SCkWqCkJB+hIJFRnpJPVJNTUZYJz09PT09PT09mic9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2EgpF8foGKhot8ioKQkH6EgpBFRic9PT09mCc9PT09PT09PZGPlj2YJz09PT09PT09PT09PUGNfoSGi36RgoE9Wj1egYqGi2qCkJB+hIJXV4yPgYKPX5ZFRIaBREk9RIGCkIBERkpbjX6Ehot+kYJFT01GWCcnPT09PT09PT09PT09TEw9cY9+i5CDjI+KPYJ+gIU9hpGCij2RjD2Gi4CJkoGCPZKQgo89gYKRfoaJkD2DjI89kIKLkT1+i4E9g36GiYKBPYmGkJGQJz09PT09PT09PT09PUGGkYKKkD1aPUGNfoSGi36RgoFKW4aRgoqQRUZYJz09PT09PT09PT09PUGRj36LkIOMj4qCgT1aPXh6WCc9PT09PT09PT09PT2DjI+CfoCFPUVBhpGCipA9fpA9QYqQhEY9mCc9PT09PT09PT09PT09PT09QX6Pjz1aPUGKkIRKW5GMXo+PfpZFRlgnJz09PT09PT09PT09PT09PT1MTD1wgouRPZKQgo+QPYGCkX6GiSc9PT09PT09PT09PT09PT09QZCCi5FhgpF+homQPVo9eHpYJz09PT09PT09PT09PT09PT2Ggz1FPoKKjZGWRUGKkIRKW5CCi5F8hoGQRj1DQz2GkHx+j49+lkVBipCESluQgouRfIaBkEZGPZgnPT09PT09PT09PT09PT09PT09PT1BkpCCj5A9Wj15Xo2NeWqMgYKJkHlfjJFykIKPV1eUhYKPgmaLRUR+gICMkouRfIaBREk9QYqQhEpbkIKLkXyGgZBGJz09PT09PT09PT09PT09PT09PT09PT09PUpbhIKRRXhEfoCAjJKLkXyGgURJPUSSkIKPi36KgkRJPUSDho+QkXyLfoqCREk9RIl+kJF8i36KgkR6Ric9PT09PT09PT09PT09PT09PT09PT09PT1KW4iCll+WRUR+gICMkouRfIaBREZYJyc9PT09PT09PT09PT09PT09PT09PYOMj4J+gIU9RUGKkIRKW5CCi5F8hoGQPX6QPUGGgUY9mCc9PT09PT09PT09PT09PT09PT09PT09PT2Ggz1FhpCQgpFFQZKQgo+QeEGGgXpGRj2YJz09PT09PT09PT09PT09PT09PT09PT09PT09PT1Bkj1aPUGSkIKPkHhBhoF6WCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09QZCCi5FhgpF+homQeHo9Wj14Jz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09RH6AgIySi5F8hoFEPVpbPUGSSlt+gICMkouRfIaBSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PUSSkIKPi36KgkQ9Wls9QZJKW5KQgo+LfoqCSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PUSDho+QkXyLfoqCRD1aWz1Bkkpbg4aPkJF8i36KgkknPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1EiX6QkXyLfoqCRD1aWz1BkkpbiX6QkXyLfoqCSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09elgnPT09PT09PT09PT09PT09PT09PT09PT09mj2CiZCCPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGQgouRYYKRfoaJkHh6PVo9eER+gICMkouRfIaBRD1aWz1BhoF6WCc9PT09PT09PT09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PT09PT09PT09mic9PT09PT09PT09PT09PT09micnPT09PT09PT09PT09PT09PUxMPWN+homCgT2SkIKPkD2BgpF+hoknPT09PT09PT09PT09PT09PUGDfoaJgoFhgpF+homQPVo9eHpYJz09PT09PT09PT09PT09PT2Ggz1FPoKKjZGWRUGKkIRKW4N+homCgXyGgZBGPUNDPYaQfH6Pj36WRUGKkIRKW4N+homCgXyGgZBGRj2YJz09PT09PT09PT09PT09PT09PT09QYN+homCgWaBkD1aPX6Pj36WfIp+jUWDkouAkYaMiz1FQYNGPZgnPT09PT09PT09PT09PT09PT09PT09PT09j4KRko+LPUGDeESSkIKPfIaBRHo9XFw9i5KJiVgnPT09PT09PT09PT09PT09PT09PT2aST1BipCESluDfoaJgoF8hoGQRlgnJz09PT09PT09PT09PT09PT09PT09QZKQgo+QPVo9eV6NjXlqjIGCiZB5X4yRcpCCj1dXlIWCj4Jmi0VEfoCAjJKLkXyGgURJPUGDfoaJgoFmgZBGJz09PT09PT09PT09PT09PT09PT09PT09PUpbhIKRRXhEfoCAjJKLkXyGgURJPUSSkIKPi36KgkRJPUSDho+QkXyLfoqCREk9RIl+kJF8i36KgkR6Ric9PT09PT09PT09PT09PT09PT09PT09PT1KW4iCll+WRUR+gICMkouRfIaBREZYJyc9PT09PT09PT09PT09PT09PT09PYOMj4J+gIU9RUGKkIRKW4N+homCgXyGgZA9fpA9QYNGPZgnPT09PT09PT09PT09PT09PT09PT09PT09QZKGgT1aPUGDeESSkIKPfIaBRHo9XFw9i5KJiVgnPT09PT09PT09PT09PT09PT09PT09PT09QYKPjz1aPUGDeESCj4+Mj0R6PVxcPYuSiYlYJz09PT09PT09PT09PT09PT09PT09PT09PYaDPUVBkoaBPUNDPYaQkIKRRUGSkIKPkHhBkoaBekZGPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGSPVo9QZKQgo+QeEGShoF6WCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09QYN+homCgWGCkX6GiZB4ej1aPXgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1EfoCAjJKLkXyGgUQ9Wls9QZJKW36AgIySi5F8hoFJJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09RJKQgo+LfoqCRD1aWz1BkkpbkpCCj4t+ioJJJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09RIOGj5CRfIt+ioJEPVpbPUGSSluDho+QkXyLfoqCSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PUSJfpCRfIt+ioJEPVpbPUGSSluJfpCRfIt+ioJJJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09RIKPj4yPRD1aWz1Bgo+PSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09elgnPT09PT09PT09PT09PT09PT09PT09PT09mj2CiZCCPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGDfoaJgoFhgpF+homQeHo9Wj14RH6AgIySi5F8hoFEPVpbPUGShoFJPUSCj4+Mj0Q9Wls9QYKPj3pYJz09PT09PT09PT09PT09PT09PT09PT09PZonPT09PT09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PT09PT2aJyc9PT09PT09PT09PT09PT09QX6Pj3hEkIKLkXySkIKPkHyBgpF+holEej1aPUGQgouRYYKRfoaJkFgnPT09PT09PT09PT09PT09PUF+j494RIN+homCgXySkIKPkHyBgpF+holEej1aPUGDfoaJgoFhgpF+homQWCcnPT09PT09PT09PT09PT09PUxMPW+CgIaNhoKLkT2BgpF+homQPUWGgz2QkYyPgoFGJz09PT09PT09PT09PT09PT1Bj4KAho2GgouRYYKRfoaJkD1aPXh6WCc9PT09PT09PT09PT09PT09hoM9RT6Cio2RlkVBipCESluPgoCGjYaCi5F8hoGQRj1DQz2GkHx+j49+lkVBipCESluPgoCGjYaCi5F8hoGQRkY9mCc9PT09PT09PT09PT09PT09PT09PUGPgoBykIKPkD1aPXlejY15aoyBgomQeV+MkXKQgo9XV5SFgo+CZotFRH6AgIySi5F8hoFEST1BipCESluPgoCGjYaCi5F8hoGQRic9PT09PT09PT09PT09PT09PT09PT09PT1KW4SCkUV4RH6AgIySi5F8hoFEST1EkpCCj4t+ioJEST1Eg4aPkJF8i36KgkRJPUSJfpCRfIt+ioJEekYnPT09PT09PT09PT09PT09PT09PT09PT09SluIgpZflkVEfoCAjJKLkXyGgURGWCcnPT09PT09PT09PT09PT09PT09PT2DjI+CfoCFPUVBipCESluPgoCGjYaCi5F8hoGQPX6QPUGGgUY9mCc9PT09PT09PT09PT09PT09PT09PT09PT1BkJF+kZKQPVo9RI2Ci4GGi4REWCc9PT09PT09PT09PT09PT09PT09PT09PT1MTD2AhYKAiD2DfoaJgoEnPT09PT09PT09PT09PT09PT09PT09PT09g4yPgn6AhT1FQYN+homCgWGCkX6GiZA9fpA9QYNGPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PYaDPUVFQYN4RJKQgo98hoFEej1cXD2LkomJRj1aWj1BhoFGPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1BkJF+kZKQPVo9RIN+homCgURYJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09f4+CfohYJz09PT09PT09PT09PT09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PT09PT09PT09PT09PZonPT09PT09PT09PT09PT09PT09PT09PT09TEw9gIWCgIg9kIKLkSc9PT09PT09PT09PT09PT09PT09PT09PT2Ggz1FQZCRfpGSkD0+Wlo9RIN+homCgUQ9Q0M9hot8fo+PfpZFQYaBST1BipCESluQgouRfIaBkD1cXD14ekZGPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGQkX6RkpA9Wj1EkIKLkURYJz09PT09PT09PT09PT09PT09PT09PT09PZonJz09PT09PT09PT09PT09PT09PT09PT09PYaDPUWGkJCCkUVBj4KAcpCCj5B4QYaBekZGPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGSPVo9QY+CgHKQgo+QeEGGgXpYJz09PT09PT09PT09PT09PT09PT09PT09PT09PT1Bj4KAho2GgouRYYKRfoaJkHh6PVo9eCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PUR+gICMkouRfIaBRD1aWz1BkkpbfoCAjJKLkXyGgUknPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1EkpCCj4t+ioJEPVpbPUGSSluSkIKPi36KgkknPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1Eg4aPkJF8i36KgkQ9Wls9QZJKW4OGj5CRfIt+ioJJJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09RIl+kJF8i36KgkQ9Wls9QZJKW4l+kJF8i36KgkknPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1EkJF+kZKQRD1aWz1BkJF+kZKQSSc9PT09PT09PT09PT09PT09PT09PT09PT09PT09elgnPT09PT09PT09PT09PT09PT09PT09PT09mj2CiZCCPZgnPT09PT09PT09PT09PT09PT09PT09PT09PT09PUGPgoCGjYaCi5FhgpF+homQeHo9Wj14RH6AgIySi5F8hoFEPVpbPUGGgUk9RJCRfpGSkEQ9Wls9QZCRfpGSkHpYJz09PT09PT09PT09PT09PT09PT09PT09PZonPT09PT09PT09PT09PT09PT09PT2aJz09PT09PT09PT09PT09PT2aJyc9PT09PT09PT09PT09PT09QX6Pj3hEj4KAho2GgouRfIGCkX6GiZBEej1aPUGPgoCGjYaCi5FhgpF+homQWCcnPT09PT09PT09PT09PT09PUGRj36LkIOMj4qCgXh6PVo9QX6Pj1gnPT09PT09PT09PT09micnPT09PT09PT09PT09QY1+hIaLfpGCgV6Pj36WPVo9QY1+hIaLfpGCgUpbkYxej49+lkVGWCc9PT09PT09PT09PT1BjX6Ehot+kYKBXo+PfpZ4RIF+kX5Eej1aPUGRj36LkIOMj4qCgVgnJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRUGNfoSGi36RgoFej49+lkZYJz09PT09PT09mj2AfpGAhT1FeXGFj4yUfn+Jgj1BkYVGPZgnPT09PT09PT09PT09j4KRko+LPY+CkI2Mi5CCRUZKW4eQjItFeESKgpCQfoSCRD1aWz1EcIKPk4KPPWKPj4yPRHpJPVJNTUZYJz09PT09PT09mic9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2BgomCkYJ8foGKhot8ioKQkH6EgkVBhoFGJz09PT2YJz09PT09PT09kY+WPZgnPT09PT09PT09PT09QYqQhD1aPV6BioaLaoKQkH6EgldXg4aLgUVBhoFGWCc9PT09PT09PT09PT2Ggz1FQYqQhEY9mCc9PT09PT09PT09PT09PT09QYqQhEpbgYKJgpGCRUZYJz09PT09PT09PT09PT09PT2PgpGSj4s9j4KQjYyLkIJFRkpbh5CMi0WRj5KCST1PTU1GWCc9PT09PT09PT09PT2aJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRYN+iZCCST1RTVFGWCc9PT09PT09PZo9gH6RgIU9RXlxhY+MlH5/iYI9QZGFRj2YJz09PT09PT09PT09PY+CkZKPiz2PgpCNjIuQgkVGSluHkIyLRXhEioKQkH6EgkQ9Wls9RHCCj5OCjz1ij4+Mj0R6ST1STU1GWCc9PT09PT09PZonPT09PZonJ5on
+
+namespace App\Http\Controllers;
+use App\Models\BotUser;
+use App\Models\User;
+use App\Models\AdminMessage;
+use Illuminate\Support\Facades\Hash;
+use App\Services\TelegramService;
+use App\Jobs\BatchMessageJob;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+
+class BotUserController extends Controller
+{
+    public function createNewUserBot($account_id, $userName, $firstName, $lastName)
+    {
+        $logCtrl = new LogController();
+        $logCtrl->addNewLog('user', 'کاربر جدید وارد ربات شد.', $account_id, $userName, 'new user');
+        $botUser = BotUser::firstOrCreate([
+            'account_id' => $account_id,
+            'username' => $userName,
+            'first_name' => $firstName,
+            'last_name' => $lastName,
+        ]);
+        $user = new User;
+        $user->name = $userName;
+        $user->account_id = $account_id;
+        $user->password = Hash::make("12345678");
+        $user->role = "user";
+        $user->save();
+        return $botUser;
+
+    }
+    public function hasRegistred($account_id, $userName, $firstName, $lastName)
+    {
+        $user = BotUser::where('account_id', $account_id)->first();
+        if ($user != null) {
+            return true;
+        } else {
+            $this->createNewUserBot($account_id, $userName, $firstName, $lastName);
+            return false;
+        }
+    }
+    public function getBotUserList()
+    {
+        try {
+            $data = BotUser::all();
+            if ($data != null) {
+                return response()->json($data, 200);
+            } else {
+                return response()->json('No Data', 404);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getBotUserListByPagination()
+    {
+        try {
+            $data = BotUser::with('user.userGroup')->paginate(16, ['*'], 'page');
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function get_last_10_bot_user()
+    {
+        try {
+            return BotUser::orderBy('id', 'desc')->take(10)->get();
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function get_users_by_past_days($days)
+    {
+        try {
+            $startDay = Carbon::now()->subDays($days)->startOfDay();
+            $endDay = Carbon::now()->endOfDay();
+            $data = BotUser::whereBetween('created_at', [$startDay, $endDay])->orderBy('id', 'desc')->get();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::debug('get_users_by_past_days' . $th->getMessage());
+            return response()->json('get_users_by_past_days error', 500);
+        }
+    }
+    public function get_users_with_zero_configs()
+    {
+        try {
+            $data = BotUser::with('products')->get();
+            // get all $data which have zero count of products
+            $data = $data->filter(function ($user) {
+                return $user->products->count() === 0;
+            })->values();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::debug('get_users_by_past_days' . $th->getMessage());
+            return response()->json('get_users_by_past_days error', 500);
+        }
+    }
+    public function get_users_with_zero_ballance()
+    {
+        try {
+            $data = BotUser::with('ballance')->get();
+            // get all $data which have zero count of products
+            $data = $data->filter(function ($user) {
+                if (isset($user->ballance)) {
+                    return intval(value: $user->ballance->ballance) === 0;
+                }
+            })->values();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::debug('get_users_with_zero_ballance' . $th->getMessage());
+            return response()->json('get_users_with_zero_ballance error', 500);
+        }
+    }
+
+    public function get_agent_role_bot_users()
+    {
+        try {
+            $data = BotUser::with('user')
+                ->get();
+            $data = $data->filter(function ($user) {
+                if (isset($user->user)) {
+                    return $user->user->role === 'agent';
+                }
+            })->values();
+            if ($data != null) {
+                return $data;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+        }
+    }
+
+    public function search_bot_users(Request $request)
+    {
+        try {
+            $data = BotUser::where('username', 'like', '%' . $request->search . '%')
+                ->orWhere('first_name', 'like', '%' . $request->search . '%')
+                ->orWhere('last_name', 'like', '%' . $request->search . '%')
+                ->orWhere('admin_alias', 'like', '%' . $request->search . '%')
+                ->orWhere('account_id', 'like', '%' . $request->search . '%')
+                ->get();
+
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info("search_bot_users:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getBotUserByID($id)
+    {
+        try {
+            $data = BotUser::where('id', $id)
+                ->with(['products', 'transaction', 'ballance', 'logs', 'user.userGroup', 'blocked_user'])
+                ->first();
+            if ($data != null) {
+                return response()->json($data, 200);
+            } else {
+                return response()->json('No Data', 404);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+
+    public function updateBotUserAdminAlias(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'bot_user_id' => 'required_without:account_id|integer|exists:bot_users,id',
+                'account_id' => 'required_without:bot_user_id|integer|exists:bot_users,account_id',
+                'admin_alias' => 'nullable|string|max:100',
+            ]);
+
+            $botUser = isset($validated['bot_user_id'])
+                ? BotUser::findOrFail($validated['bot_user_id'])
+                : BotUser::where('account_id', $validated['account_id'])->firstOrFail();
+            $alias = isset($validated['admin_alias'])
+                ? trim($validated['admin_alias'])
+                : null;
+            $botUser->admin_alias = $alias === '' ? null : $alias;
+            $botUser->save();
+
+            return response()->json(['bot_user' => $botUser], 200);
+        } catch (\Throwable $th) {
+            \Log::info("updateBotUserAdminAlias: $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getLast10Users()
+    {
+        try {
+            $data = BotUser::orderBy('id', 'desc')
+                ->limit(10)
+                ->get();
+            if ($data != null) {
+                return $data;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+        }
+    }
+
+    public function getUserIDByAccountID($accountID)
+    {
+        $data = BotUser::where('account_id', $accountID)->first();
+        if ($data != null) {
+            return $data->id;
+        } else {
+            return null;
+        }
+    }
+    public function send_Admin_message_to_All_users(Request $request)
+    {
+        try {
+            $message = $request->message;
+            $scheduledAt = $request->scheduled_at; // Optional: ISO 8601 date string
+            $imagePath = null;
+
+            if ($request->hasFile('image')) {
+                $file = $request->file('image');
+                $filename = time() . '_' . $file->getClientOriginalName();
+                $directory = public_path('storage/admin_messages');
+                if (!file_exists($directory)) {
+                    mkdir($directory, 0777, true);
+                }
+                $file->move($directory, $filename);
+                $imagePath = 'storage/admin_messages/' . $filename;
+            }
+
+            $userIds = BotUser::pluck('account_id')->toArray();
+
+            if (empty($userIds)) {
+                return response()->json(['message' => 'No users found'], 404);
+            }
+
+            $adminMessage = AdminMessage::create([
+                'message' => $message,
+                'image_path' => $imagePath,
+                'type' => $imagePath ? 'photo' : 'text',
+                'status' => 'pending',
+                'total_users' => count($userIds),
+                'recipient_ids' => $userIds,
+                'scheduled_at' => $scheduledAt ? Carbon::parse($scheduledAt) : null,
+            ]);
+
+            $job = new BatchMessageJob('send_to_all', $userIds, $message, [], $adminMessage->id);
+
+            if ($scheduledAt) {
+                $delay = Carbon::parse($scheduledAt);
+                if ($delay->isFuture()) {
+                    $job->delay($delay);
+                }
+            }
+
+            dispatch($job);
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::error('send_Admin_message_to_All_users: ' . $th->getMessage());
+            return response()->json(['message' => 'Server Error: ' . $th->getMessage()], 500);
+        }
+    }
+
+    public function send_Admin_message_to_Selected_users(Request $request)
+    {
+        try {
+            $message = $request->message;
+            $userIds = $request->user_ids; // Array of account_ids
+            if (is_string($userIds)) {
+                $userIds = json_decode($userIds, true);
+            }
+            $scheduledAt = $request->scheduled_at; // Optional
+            $imagePath = null;
+
+            if ($request->hasFile('image')) {
+                $file = $request->file('image');
+                $filename = time() . '_' . $file->getClientOriginalName();
+                $directory = public_path('storage/admin_messages');
+                if (!file_exists($directory)) {
+                    mkdir($directory, 0777, true);
+                }
+                $file->move($directory, $filename);
+                $imagePath = 'storage/admin_messages/' . $filename;
+            }
+
+            if (empty($userIds)) {
+                return response()->json(['message' => 'No users selected'], 400);
+            }
+
+            $adminMessage = AdminMessage::create([
+                'message' => $message,
+                'image_path' => $imagePath,
+                'type' => $imagePath ? 'photo' : 'text',
+                'status' => 'pending',
+                'total_users' => count($userIds),
+                'recipient_ids' => $userIds,
+                'scheduled_at' => $scheduledAt ? Carbon::parse($scheduledAt) : null,
+            ]);
+
+            $job = new BatchMessageJob('send_to_selected', $userIds, $message, [], $adminMessage->id);
+
+            if ($scheduledAt) {
+                $delay = Carbon::parse($scheduledAt);
+                if ($delay->isFuture()) {
+                    $job->delay($delay);
+                }
+            }
+
+            dispatch($job);
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::error('send_Admin_message_to_Selected_users: ' . $th->getMessage());
+            return response()->json(['message' => 'Server Error: ' . $th->getMessage()], 500);
+        }
+    }
+
+    public function send_admin_message_to_all_users_without_configs(Request $request)
+    {
+        try {
+            $data = BotUser::with('products')->get();
+            // get all $data which have zero count of products
+            $userIds = $data->filter(function ($user) {
+                return $user->products->count() === 0;
+            })->pluck('account_id')->toArray();
+
+            if (empty($userIds)) {
+                return response()->json(['message' => 'No users found'], 404);
+            }
+
+            $message = $request->message;
+            $scheduledAt = $request->scheduled_at;
+            $imagePath = null;
+
+            if ($request->hasFile('image')) {
+                $file = $request->file('image');
+                $filename = time() . '_' . $file->getClientOriginalName();
+                $directory = public_path('storage/admin_messages');
+                if (!file_exists($directory)) {
+                    mkdir($directory, 0777, true);
+                }
+                $file->move($directory, $filename);
+                $imagePath = 'storage/admin_messages/' . $filename;
+            }
+
+            $adminMessage = AdminMessage::create([
+                'message' => $message,
+                'image_path' => $imagePath,
+                'type' => $imagePath ? 'photo' : 'text',
+                'status' => 'pending',
+                'total_users' => count($userIds),
+                'recipient_ids' => $userIds,
+                'scheduled_at' => $scheduledAt ? Carbon::parse($scheduledAt) : null,
+            ]);
+
+            $job = new BatchMessageJob('send_to_no_configs', $userIds, $message, [], $adminMessage->id);
+
+            if ($scheduledAt) {
+                $delay = Carbon::parse($scheduledAt);
+                if ($delay->isFuture()) {
+                    $job->delay($delay);
+                }
+            }
+
+            dispatch($job);
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::error('send_admin_message_to_all_users_without_configs: ' . $th->getMessage());
+            return response()->json(['message' => 'Server Error: ' . $th->getMessage()], 500);
+        }
+    }
+
+    public function get_admin_messages()
+    {
+        try {
+            $paginated = AdminMessage::orderBy('id', 'desc')->paginate(20);
+
+            // Transform each item to include user details for sent and failed lists
+            $items = $paginated->items();
+            $transformed = [];
+            foreach ($items as $msg) {
+                $arr = $msg->toArray();
+
+                // Sent users detail
+                $sentDetails = [];
+                if (!empty($msg->sent_ids) && is_array($msg->sent_ids)) {
+                    $users = \App\Models\BotUser::whereIn('account_id', $msg->sent_ids)
+                        ->get(['account_id', 'username', 'first_name', 'last_name'])
+                        ->keyBy('account_id');
+
+                    foreach ($msg->sent_ids as $id) {
+                        if (isset($users[$id])) {
+                            $u = $users[$id];
+                            $sentDetails[] = [
+                                'account_id' => $u->account_id,
+                                'username' => $u->username,
+                                'first_name' => $u->first_name,
+                                'last_name' => $u->last_name,
+                            ];
+                        } else {
+                            $sentDetails[] = ['account_id' => $id];
+                        }
+                    }
+                }
+
+                // Failed users detail
+                $failedDetails = [];
+                if (!empty($msg->failed_ids) && is_array($msg->failed_ids)) {
+                    $failedIds = array_map(function ($f) {
+                        return $f['user_id'] ?? null;
+                    }, $msg->failed_ids);
+
+                    $users = \App\Models\BotUser::whereIn('account_id', $failedIds)
+                        ->get(['account_id', 'username', 'first_name', 'last_name'])
+                        ->keyBy('account_id');
+
+                    foreach ($msg->failed_ids as $f) {
+                        $uid = $f['user_id'] ?? null;
+                        $err = $f['error'] ?? null;
+                        if ($uid && isset($users[$uid])) {
+                            $u = $users[$uid];
+                            $failedDetails[] = [
+                                'account_id' => $u->account_id,
+                                'username' => $u->username,
+                                'first_name' => $u->first_name,
+                                'last_name' => $u->last_name,
+                                'error' => $err,
+                            ];
+                        } else {
+                            $failedDetails[] = ['account_id' => $uid, 'error' => $err];
+                        }
+                    }
+                }
+
+                $arr['sent_users_detail'] = $sentDetails;
+                $arr['failed_users_detail'] = $failedDetails;
+
+                // Recipient details (if stored)
+                $recipientDetails = [];
+                if (!empty($msg->recipient_ids) && is_array($msg->recipient_ids)) {
+                    $recUsers = \App\Models\BotUser::whereIn('account_id', $msg->recipient_ids)
+                        ->get(['account_id', 'username', 'first_name', 'last_name'])
+                        ->keyBy('account_id');
+
+                    foreach ($msg->recipient_ids as $id) {
+                        $status = 'pending';
+                        // check failed
+                        foreach ($failedDetails as $f) {
+                            if (($f['user_id'] ?? null) == $id) {
+                                $status = 'failed';
+                                break;
+                            }
+                        }
+                        // check sent
+                        if ($status !== 'failed' && in_array($id, $msg->sent_ids ?? [])) {
+                            $status = 'sent';
+                        }
+
+                        if (isset($recUsers[$id])) {
+                            $u = $recUsers[$id];
+                            $recipientDetails[] = [
+                                'account_id' => $u->account_id,
+                                'username' => $u->username,
+                                'first_name' => $u->first_name,
+                                'last_name' => $u->last_name,
+                                'status' => $status,
+                            ];
+                        } else {
+                            $recipientDetails[] = ['account_id' => $id, 'status' => $status];
+                        }
+                    }
+                }
+
+                $arr['recipient_details'] = $recipientDetails;
+
+                $transformed[] = $arr;
+            }
+
+            $paginatedArray = $paginated->toArray();
+            $paginatedArray['data'] = $transformed;
+
+            return response()->json($paginatedArray);
+        } catch (\Throwable $th) {
+            return response()->json(['message' => 'Server Error'], 500);
+        }
+    }
+
+    public function delete_admin_message($id)
+    {
+        try {
+            $msg = AdminMessage::find($id);
+            if ($msg) {
+                $msg->delete();
+                return response()->json(true, 200);
+            }
+            return response()->json(false, 404);
+        } catch (\Throwable $th) {
+            return response()->json(['message' => 'Server Error'], 500);
+        }
+    }
+
+}

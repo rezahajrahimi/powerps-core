@@ -1,3 +1,474 @@
 <?php
-bolt_decrypt( __FILE__ , 'Pf6zz3'); return 0;
-##!!!##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MzMzMzMzMzM3dHZ2VXR/f3SBdnhAUYiDd3SHeDs8Th0zMzMzMzMzMzMzMzMzMzMzMzMzMzd/gnpWh4V/M1AzgXiKM1+CelaCgYeFgn9/eIU7PE4dMzMzMzMzMzMzMzMzMzMzMzMzMzM3f4J6VoeFf0BRdHd3YXiKX4J6Ozp1dH9/dIF2eDo/MzrsmO6f68XruuyZM+yY7Jvrv+yb68LunzPtvOu668Tru+vEM+u77Joz7JjslevC67rrxDM6M0EzN4V4hIh4hodAUXV0f390gXZ4M0EzOjPrveyb7JjruuyZM+2867rsmuvHM+6f67rslOu9Oj8zN4iGeIVUdnaCiIGHXFc/Mzo6PzM6eHd8hzo8Th0zMzMzMzMzMzMzMzMzMzMzMzMzMzeFeIYzUDM3dHZ2VXR/f3SBdnhAUXV0f390gXZ4Th0zMzMzMzMzMzMzMzMzMzMzMzMzM3x5Mzs3hXiGM1BQM0M8M44dMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzhXiHiIWBM4eFiHhOHTMzMzMzMzMzMzMzMzMzMzMzMzMzkB0zMzMzMzMzMzMzMzMzMzMzMzMzM4V4h4iFgTM3hXiGTh0zMzMzMzMzMzMzMzMzMzMzkDN4f4Z4M44dMzMzMzMzMzMzMzMzMzMzMzMzMzNCQjN6eIczdIiHezOIhniFM4WCf3gzeYKFM3Z7eHZ+fIF6M4d7fIYzhXiEiHiFhoczhniBhzN1jDN0d4B8gR0zMzMzMzMzMzMzMzMzMzMzMzMzM3x5Mzs3fIZydHeAfIEzj48zN4B8gYiGcnV0f390gXZ4coN4hYB8hoZ8goEzj48zN3yGZXiEVYxUd4B8gTwzjh0zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzN8eTM7N4B8gYiGcnV0f390gXZ4coN4hYB8hoZ8goEzOTkzNDM3fIZydHeAfIEzOTkzNDM3fIZleIRVjFR3gHyBPDOOHTMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzN8eTM7NDM3h3t8hkBRdnSBVHp4gYdWe3SFenhgfIGIhlV0f3SBdng7N3R6eIGHcoN4hYB8hoZ8goEzUlIzgYh/fz8zO3l/gnSHPDM3dHZ2VXR/f3SBdnhAUXV0f390gXZ4PzM7eX+CdIc8Mzd1dH9/dIF2eDw8M44dMzMzMzMzMzMzMzMz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
+namespace App\Http\Controllers;
+
+use App\Http\Controllers\AgentPermissonController;
+use App\Http\Controllers\LogController;
+use App\Http\Controllers\TransactionSettingController;
+use App\Models\AccountBallance;
+use App\Models\AgentPermisson;
+use App\Models\BotUser;
+use App\Models\User;
+use Illuminate\Http\Request;
+
+class AccountBallanceController extends Controller
+{
+    private function canAgentChargeMinusBalance(?AgentPermisson $agentPr, float $currentBalance, float $chargeAmount): bool
+    {
+        if ($agentPr === null) {
+            return false;
+        }
+
+        if ($agentPr->minus_ballance !== 1 && $agentPr->minus_ballance !== true) {
+            return false;
+        }
+
+        $limit = $agentPr->minus_ballance_limit;
+        if ($limit === null || (float) $limit <= 0) {
+            return true;
+        }
+
+        return ($currentBalance - $chargeAmount) >= (-1 * (float) $limit);
+    }
+
+    public function checkUserHasBalance($userID, $price, $parice_in_dollar)
+    {
+        try {
+            // for test account
+            if ($price == 0 && $parice_in_dollar == 0) {
+                return true;
+            }
+            // get user
+            $user = User::where('account_id', $userID)->first();
+            if ($user == null) {
+                return false;
+            }
+            // check user is admin
+            if ($user->role == 'admin') {
+                return true;
+            }
+            // check agent
+            if ($user->role == 'agent') {
+                $agentPremissionCntrl = new AgentPermissonController();
+                $agentPr = $agentPremissionCntrl->getUserPremissionByAgentID($user->id);
+                if ($agentPr != null) {
+                    if ($agentPr->minus_ballance === 1 || $agentPr->minus_ballance === true) {
+                        $data = AccountBallance::where('account_id', $userID)->first();
+                        $currentBalance = $data ? (float) $data->ballance : 0;
+                        $currentDollarBalance = $data ? (float) $data->account_ballance_in_dollar : 0;
+
+                        if ($currentBalance >= $price) {
+                            return true;
+                        }
+
+                        if ($currentDollarBalance >= $parice_in_dollar) {
+                            if ($this->checkDollarPay() == true || $this->checkDollarPay() == 1 && $parice_in_dollar > 0) {
+                                return true;
+                            }
+                        }
+
+                        return $this->canAgentChargeMinusBalance($agentPr, $currentBalance, (float) $price);
+                    }
+                }
+            }
+
+            // common product categorey check
+            $data = AccountBallance::where('account_id', $userID)->first();
+
+            if ($data != null) {
+                if ($data->ballance >= $price) {
+                    return true;
+                } elseif ($data->account_ballance_in_dollar >= $parice_in_dollar) {
+                    if ($this->checkDollarPay() == true || $this->checkDollarPay() == 1 && $parice_in_dollar > 0) {
+                        return true;
+                    }
+                    return false;
+                }
+                return false;
+            } else {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $userID;
+                $newAcc->ballance = 0;
+                $newAcc->account_ballance_in_dollar = 0;
+                $newAcc->save();
+                return false;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return false;
+        }
+    }
+    public function getUserAccuntBalance($userID)
+    {
+        $data = AccountBallance::where('account_id', $userID)->first();
+        if ($data != null) {
+            return $data->ballance;
+        } else {
+            $newAcc = new AccountBallance();
+            $newAcc->account_id = $userID;
+            $newAcc->ballance = 0;
+            $newAcc->account_ballance_in_dollar = 0;
+            $newAcc->save();
+
+            return 0;
+        }
+    }
+    public function getUserAccuntBalanceInDollar($userID)
+    {
+        $data = AccountBallance::where('account_id', $userID)->first();
+        if ($data != null) {
+            return $data->account_ballance_in_dollar;
+        } else {
+            $newAcc = new AccountBallance();
+            $newAcc->account_id = $userID;
+            $newAcc->ballance = 0;
+            $newAcc->account_ballance_in_dollar = 0;
+            $newAcc->save();
+
+            return 0;
+        }
+    }
+    public function incUserAccuntBalance($userID, $ballance)
+    {
+        try {
+            $data = AccountBallance::where('account_id', $userID)->first();
+            if ($data != null) {
+                $data->ballance += $ballance;
+
+                $data->update();
+                return true;
+            } else {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $userID;
+                $newAcc->ballance = $ballance;
+                $newAcc->account_ballance_in_dollar = 0;
+                $newAcc->save();
+
+                return true;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return false;
+        }
+    }
+    public function increaseUserAccuntBalanceByUserID(Request $request)
+    {
+        try {
+            $user = BotUser::where('id', $request->userID)->first();
+
+            if ($user != null) {
+                $userAccountID = $user->account_id;
+                $ballance = $request->ballance;
+                $type = $request->type;
+
+                if ($type == 'toman') {
+                    $this->incUserAccuntBalance($userAccountID, $ballance);
+
+                    $logCtrl = new LogController();
+                    $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' تومان افزایش یافت', $userAccountID, '', 'edit');
+                    return $this->getUserAccuntBalance($userAccountID);
+                } else {
+                    $this->incUserAccuntBalanceInDollar($userAccountID, $ballance);
+                    $logCtrl = new LogController();
+
+                    $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' دلار افزایش یافت', $userAccountID, '', 'edit');
+                    return $this->getUserAccuntBalanceInDollar($userAccountID);
+                }
+            }
+            return response()->json(null, 404);
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function decreaseUserAccuntBalanceByUserID(Request $request)
+    {
+        try {
+            $user = BotUser::where('id', $request->userID)->first();
+            $is_admin = false;
+            $is_agent = false;
+            $minus_ballance_permission = false;
+            $agent_permission = null;
+            $minus_ballance_permission = $request->is_request_by_admin ?? false;
+            $isReqByAdmin = $request->is_request_by_admin ?? false;
+            if ($user == null) {
+                $user = BotUser::where('account_id', $request->userID)->first();
+                if ($user == null) {
+                    return false;
+                }
+            }
+            $user_role = User::where('account_id', $user->account_id)->first();
+            if ($user_role != null) {
+                if ($user_role->role == 'admin') {
+                    $is_admin = true;
+                }
+                if ($user_role->role == 'agent') {
+                    $is_agent = true;
+                    $agent_permission = AgentPermisson::where('user_id', $user_role->id)->first();
+                    if (isset($agent_permission)) {
+                        if ($agent_permission->minus_ballance == 1 || $agent_permission->minus_ballance == true) {
+                            $minus_ballance_permission = true;
+                        }
+                    }
+                }
+            } else {
+                \Log::info("user_role $user_role->id");
+                return false;
+            }
+
+            $userAccountID = $user->account_id;
+            $ballance = $request->ballance;
+
+            $type = $request->type;
+            $accBallance = AccountBallance::where('account_id', $userAccountID)->first();
+            if (!isset($accBallance)) {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $request->userID;
+                $newAcc->ballance = 0;
+                $newAcc->account_ballance_in_dollar = 0;
+                $newAcc->save();
+                if ($is_admin) {
+                    return true;
+                }
+                return false;
+            }
+
+            if ($type == 'toman') {
+                if ($ballance <= $accBallance->ballance) {
+                    $accBallance->ballance -= $ballance;
+                    $accBallance->update();
+                    $logCtrl = new LogController();
+                    $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' تومان کاهش یافت', $userAccountID, '', 'edit');
+                    $res = $accBallance->ballance;
+                    if ($res == 0) {
+                        return true;
+                    }
+                    return $res;
+                } else {
+                    // get auth user role for checking this requerst sent by admin
+                    if ($is_admin || $minus_ballance_permission || $isReqByAdmin) {
+                        if ($minus_ballance_permission && ! $is_admin && ! $isReqByAdmin) {
+                            if (! $this->canAgentChargeMinusBalance($agent_permission ?? null, (float) $accBallance->ballance, (float) $ballance)) {
+                                return false;
+                            }
+                        }
+                        $accBallance->ballance -= $ballance;
+                        $accBallance->update();
+                        $logCtrl = new LogController();
+                        $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' تومان کاهش یافت', $userAccountID, '', 'edit');
+                        $res = $accBallance->ballance;
+                        if ($res == 0) {
+                            return true;
+                        }
+                        return $res;
+                    }
+                    \Log::info("message 555555555555");
+
+                }
+            } else {
+                \Log::info("type is dollar");
+                \Log::info("accBallance->account_ballance_in_dollar $accBallance->account_ballance_in_dollar");
+                \Log::info("ballance $ballance");
+                \Log::info("is_admin $is_admin");
+                \Log::info("minus_ballance_permission $minus_ballance_permission");
+                \Log::info("isReqByAdmin $isReqByAdmin");
+                $ballance = doubleval($ballance);
+                $currentUserDollarBalance = doubleval($accBallance->account_ballance_in_dollar);
+                \Log::info("currentUserDollarBalance $currentUserDollarBalance");
+                \Log::info("ballance $ballance");
+                if ($ballance <= $currentUserDollarBalance) {
+                    \Log::info("ballance is less than currentUserDollarBalance");
+                    $accBallance->account_ballance_in_dollar -= doubleval($ballance);
+                    $accBallance->update();
+                    $logCtrl = new LogController();
+                    $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' دلار کاهش یافت', $userAccountID, '', 'edit');
+                    $res = $accBallance->account_ballance_in_dollar;
+                    if ($res == 0) {
+                        return true;
+                    }
+                    return $res;
+                } else {
+                    if ($is_admin || $minus_ballance_permission) {
+                        if ($minus_ballance_permission && ! $is_admin) {
+                            if (! $this->canAgentChargeMinusBalance($agent_permission ?? null, $currentUserDollarBalance, $ballance)) {
+                                return false;
+                            }
+                        }
+                        $accBallance->account_ballance_in_dollar -= doubleval($ballance);
+                        $accBallance->update();
+                        $logCtrl = new LogController();
+                        $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر به مقدار ' . $request->ballance . ' دلار کاهش یافت', $userAccountID, '', 'edit');
+                        $res = $accBallance->account_ballance_in_dollar;
+                        if ($res == 0) {
+                            return true;
+                        }
+                        return $res;
+                    }
+                    \Log::info("message 233333333333");
+
+                    return false;
+                }
+            }
+            \Log::info("message 4444444444444444");
+
+            return false;
+        } catch (\Throwable $th) {
+            \Log::info("message 2222222222222222222");
+
+            \Log::info("message $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function incUserAccuntBalanceInDollar($userID, $ballance)
+    {
+        try {
+            $data = AccountBallance::where('account_id', $userID)->first();
+            if ($data != null) {
+                $data->account_ballance_in_dollar += $ballance;
+
+                $data->update();
+                return true;
+            } else {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $userID;
+                $newAcc->account_ballance_in_dollar = $ballance;
+                $newAcc->ballance = 0;
+                $newAcc->save();
+
+                return true;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("message $th");
+            return false;
+        }
+    }
+    public function decUserAccuntBalance($userID, $ballance, $parice_in_dollar)
+    {
+        $data = AccountBallance::where('account_id', $userID)->first();
+        if ($data != null) {
+            if ($data->ballance >= $ballance) {
+                $data->ballance -= $ballance;
+                $data->update();
+                return true;
+            } elseif ($data->account_ballance_in_dollar >= $parice_in_dollar) {
+                $data->account_ballance_in_dollar -= doubleval($parice_in_dollar);
+                $data->update();
+                return true;
+            } else {
+                $user = User::where('account_id', $userID)->first();
+                if ($user != null && $user->role == 'agent') {
+                    $agentPr = AgentPermisson::where('user_id', $user->id)->first();
+                    if ($agentPr != null && ($agentPr->minus_ballance == 1 || $agentPr->minus_ballance == true)) {
+                        if ($this->canAgentChargeMinusBalance($agentPr, (float) $data->ballance, (float) $ballance)) {
+                            $data->ballance -= $ballance;
+                            $data->update();
+                            return true;
+                        }
+
+                        return false;
+                    }
+                }
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
+    public function setNewAccountBallance(Request $request)
+    {
+        try {
+            $data = AccountBallance::where('account_id', $request->userID)->first();
+            $logCtrl = new LogController();
+
+            if ($data != null) {
+                $data->ballance = $request->ballance;
+
+                $data->update();
+
+                $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر بصورت دستی به ' . $request->ballance . ' تومان تغییر کرد', $request->userID, '', 'edit');
+
+                return true;
+            } else {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $request->userID;
+                $newAcc->ballance = $request->ballance;
+                $newAcc->save();
+                $logCtrl->addNewLog('ballance', 'میزان موجودی کاربر بصورت دستی به ' . $request->ballance . ' تومان تغییر کرد', $request->userID, '', 'edit');
+
+                return true;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function setNewDollarAccountBallance(Request $request)
+    {
+        try {
+            $data = AccountBallance::where('account_id', $request->userID)->first();
+            $logCtrl = new LogController();
+
+            if ($data != null) {
+                $data->account_ballance_in_dollar = $request->ballance;
+
+                $data->update();
+
+                $logCtrl = new LogController();
+                $logCtrl->addNewLog('ballance', 'میزان موجودی دلاری کاربر بصورت دستی به ' . $request->ballance . ' دلار تغییر کرد', $request->userID, '', 'edit');
+
+                return true;
+            } else {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $request->userID;
+                $newAcc->account_ballance_in_dollar = $request->ballance;
+                $newAcc->save();
+                $logCtrl->addNewLog('ballance', 'میزان موجودی دلاری کاربر بصورت دستی به ' . $request->ballance . ' دلار تغییر کرد', $request->userID, '', 'edit');
+
+                return true;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    /// Agent Functions
+    public function getLoggedUserBallancce($account_id = null)
+    {
+        try {
+            $userId = null;
+            if ($account_id == null) {
+                $userId = auth('sanctum')->user()->account_id;
+            } else {
+                $userId = $account_id;
+            }
+            $data = AccountBallance::where('account_id', $userId)->first();
+            if (!$data) {
+                $newAcc = new AccountBallance();
+                $newAcc->account_id = $userId;
+                $newAcc->account_ballance_in_dollar = 0;
+                $newAcc->ballance = 0;
+                $newAcc->save();
+                return $newAcc;
+            }
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info("$th");
+            return response()->json(false, 500);
+        }
+    }
+    /// check  dollarPay is valid or not
+    public function checkDollarPay()
+    {
+        $paymnetSettingCntrl = new PaymentSettingController();
+        $dollarTransaction = $paymnetSettingCntrl->getPaymentSettingStatusByKey('usd_transaction');
+
+        if ($dollarTransaction == 1 || $dollarTransaction == true) {
+            \Log::info("dollar transaction is true");
+            return true;
+        } else {
+            \Log::info("dollar transaction is false");
+            return false;
+        }
+
+
+    }
+}

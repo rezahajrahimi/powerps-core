@@ -1,3 +1,70 @@
 <?php
-bolt_decrypt( __FILE__ , 'ARTTqG'); return 0;
-##!!!##/f1hVGBYZmNUVlgTNGNjTztnZ2NPNmJhZ2ViX19YZWYu/WhmWBM0Y2NPQGJXWF9mTzxhVWJoYVcu/f1oZlgTPF9faGBcYVRnWE87Z2djT0VYZGhYZmcu/f1WX1RmZhM8YVViaGFXNmJhZ2ViX19YZRNYa2dYYVdmEzZiYWdlYl9fWGX9bv0TExMTY2hVX1xWE1loYVZnXGJhE1RXVzxhVWJoYVcbRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXXGFVYmhhVxMwE2FYahM8YVViaGFXGxwu/RMTExMTExMTExMTExdcYVViaGFXIDFhVGBYEzATF2VYZGhYZmcgMWFUYFgu/RMTExMTExMTExMTExdcYVViaGFXIDFXVGdUEzATF2VYZGhYZmcgMVdUZ1Qu/RMTExMTExMTExMTExdcYVViaGFXIDFjZWJrbFJcVxMTMBMXZVhkaFhmZyAxY2Via2xSXFcTLv0TExMTExMTExMTExMXXGFVYmhhVyAxXGZSVFZnXGlYEzATZ2VoWC79ExMTExMTExMTExMTF1xhVWJoYVcgMWZUaVgbHC79ExMTExMTExMTExMTZVhnaGVhE2dlaFgu/RMTExMTExMTcBNWVGdWWxMbT0dbZWJqVFVfWBMXZ1scE279ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEygjIxwu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE2hjV1RnWDxhVWJoYVcbRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXXGFVYmhhVxMwEzxhVWJoYVctLWpbWGVYGxpcVxofExdlWGRoWGZnIDFcVxwgMVlcZWZnGxwu/RMTExMTExMTExMTExdcYVViaGFXIDFhVGBYEzATF2VYZGhYZmcgMWFUYFgu/RMTExMTExMTExMTExdcYVViaGFXIDFXVGdUEzATF2VYZGhYZmcgMVdUZ1Qu/RMTExMTExMTExMTExdcYVViaGFXIDFXVGdUEzATF2VYZGhYZmcgMWNlYmtsUlxXEy79ExMTExMTExMTExMTF1xhVWJoYVcgMVxmUlRWZ1xpWBMwExdlWGRoWGZnIDFcZlJUVmdcaVgu/RMTExMTExMTExMTExdcYVViaGFXIDFoY1dUZ1gbHC79ExMTExMTExMTExMTZVhnaGVhE2dlaFgu/RMTExMTExMTcBNWVGdWWxMbT0dbZWJqVFVfWBMXZ1scE279ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEygjIxwu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1dYX1hnWDxhVWJoYVcbF1xXHP0TExMTbv0TExMTExMTE2dlbBNu/RMTExMTExMTExMTExdcYVViaGFXEzATPGFVYmhhVy0taltYZVgbGlxXGh8TF1xXHCAxWVxlZmcbHC79ExMTExMTExMTExMTF1xhVWJoYVcgMVdYX1hnWBscLv0TExMTExMTExMTExNlWGdoZWETZ2VoWC79ExMTExMTExNwE1ZUZ1ZbExtPR1tlYmpUVV9YExdnWxwTbv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWB8TKCMjHC79ExMTExMTExNw/RMTExNw/RMTExNjaFVfXFYTWWhhVmdcYmETZVg0VmdcaVg8YVViaGFXGxdcVxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXXGFVYmhhVxMwEzxhVWJoYVctLWpbWGVYGxpcVxofExdcVxwgMVlcZWZnGxwu/RMTExMTExMTExMTExdcYVViaGFXIDFcZlJUVmdcaVgTMBNnZWhYLv0TExMTExMTExMTExMXXGFVYmhhVyAxaGNXVGdYGxwu/RMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG1lUX2ZYHxMoIyMcLv0TExMTExMTE3D9ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNXWDRWZ1xpWDxhVWJoYVcbF1xXHP0TExMTbv0TExMTExMTE2dlbBNu/RMTExMTExMTExMTExdcYVViaGFXEzATPGFVYmhhVy0taltYZVgbGlxXGh8TF1xXHCAxWVxlZmcbHC79ExMTExMTExMTExMTF1xhVWJoYVcgMVxmUlRWZ1xpWBMwE1lUX2ZYLv0TExMTExMTExMTExMXXGFVYmhhVyAxaGNXVGdYGxwu/RMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG1lUX2ZYHxMoIyMcLv0TExMTExMTE3D9ExMTE3D9cP0=
+
+namespace App\Http\Controllers;
+use App\Models\Inbound;
+
+use Illuminate\Http\Request;
+
+class InboundController extends Controller
+{
+    public function addInbound(Request $request)
+    {
+        try {
+            $inbound = new Inbound();
+            $inbound->name = $request->name;
+            $inbound->data = $request->data;
+            $inbound->proxy_id  = $request->proxy_id ;
+            $inbound->is_active = true;
+            $inbound->save();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function updateInbound(Request $request)
+    {
+        try {
+            $inbound = Inbound::where('id', $request->id)->first();
+            $inbound->name = $request->name;
+            $inbound->data = $request->data;
+            $inbound->data = $request->proxy_id ;
+            $inbound->is_active = $request->is_active;
+            $inbound->update();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function deleteInbound($id)
+    {
+        try {
+            $inbound = Inbound::where('id', $id)->first();
+            $inbound->delete();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function reActiveInbound($id)
+    {
+        try {
+            $inbound = Inbound::where('id', $id)->first();
+            $inbound->is_active = true;
+            $inbound->update();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function deActiveInbound($id)
+    {
+        try {
+            $inbound = Inbound::where('id', $id)->first();
+            $inbound->is_active = false;
+            $inbound->update();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+}

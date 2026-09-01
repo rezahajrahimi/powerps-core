@@ -1,3 +1,268 @@
 <?php
-bolt_decrypt( __FILE__ , 'p2rJ4p'); return 0;
-##!!!##DAxwY29ndXJjZWciQ3JyXlVndHhrZWd1PQwMd3VnIkNycl5KdnZyXkVxcHZ0cW5uZ3R1XkNmeGNwZWdVZ3Z2a3BpTnFxbXdyRXFwdnRxbm5ndD0Md3VnIkNycl5KdnZyXkVxcHZ0cW5uZ3R1XkV3dXZxb1ZnenZFcXB2dHFubmd0PQx3dWciQ3JyXkp2dnJeRXFwdnRxbm5ndHVeTnFpRXFwdnRxbm5ndD0Md3VnIkNycl5KdnZyXkVxcHZ0cW5uZ3R1XlVndnZrcGlFcXB2dHFubmd0PQx3dWciQ3JyXk9xZmdudV5EcXZXdWd0PQx3dWciQ3JyXk9xZmdudV5XdWd0PQx3dWciS25ud29rcGN2Z15Vd3JycXR2XkhjZWNmZ3VeRWNlamc9DAxlbmN1dSJPcWRrbmdYZ3RraGtlY3ZrcXBVZ3R4a2VnDH0MIiIiInJ3ZG5rZSJlcXB1diJVR1ZWS1BJYU1HWyI/IilkcXZhdGdzd2t0Z2FvcWRrbmdheGd0a2hrZWN2a3FwKT0MDCIiIiJyd2Rua2UiZXFwdXYiS1RDUGFRUE5bYVVHVlZLUElhTUdbIj8iKWRxdmFvcWRrbmdheGd0a2hrZWN2a3FwYWt0Y3BhcXBueyk9DAwiIiIicndkbmtlImVxcHV2IkNZQ0tWS1BJYUVDRUpHYVJUR0hLWiI/IiljeWNrdmtwaWF0Z3Jue2EpPQwMIiIiInJ3ZG5rZSJlcXB1diJSR1BGS1BJYVVWQ1ZHIj8iKW9xZGtuZ2F4Z3RraGtlY3ZrcXBhcmdwZmtwaSk9DAwiIiIicndkbmtlImh3cGV2a3FwImFhZXFwdXZ0d2V2KgwiIiIiIiIiInJ0a3hjdmcidGdjZnFwbnsiQ2Z4Y3BlZ1VndnZrcGlOcXFtd3JFcXB2dHFubmd0IiZ1Z3Z2a3BpdSI/InBneSJDZnhjcGVnVWd2dmtwaU5xcW13ckVxcHZ0cW5uZ3QqKy4MIiIiIiIiIiJydGt4Y3ZnInRnY2ZxcG57IkV3dXZxb1ZnenZFcXB2dHFubmd0IiZld3V2cW9WZ3p2Ij8icGd5IkV3dXZxb1ZnenZFcXB2dHFubmd0KisuDCIiIiIiIiIicnRreGN2ZyJ0Z2NmcXBueyJWZ25naXRjb1VndHhrZWciJnZnbmdpdGNvIj8icGd5IlZnbmdpdGNvVWd0eGtlZyorLgwiIiIiIiIiInJ0a3hjdmcidGdjZnFwbnsiTnFpRXFwdnRxbm5ndCImbnFpIj8icGd5Ik5xaUVxcHZ0cW5uZ3QqKy4MIiIiIisifX8MDCIiIiJyd2Rua2UiaHdwZXZrcXAia3VUZ3N3a3RnZiorPCJkcXFuDCIiIiJ9DCIiIiIiIiIidGd2d3RwIipkcXFuKyImdmprdS9AdWd2dmtwaXUvQGlndlhjbndnRHtQY29nWWt2akRxcW5nY3BYY253Zyp1Z25oPDxVR1ZWS1BJYU1HWys9DCIiIiJ/DAwiIiIicndkbmtlImh3cGV2a3FwImt1S3RjcFFwbntHcGNkbmdmKis8ImRxcW4MIiIiIn0MIiIiIiIiIiJ0Z3Z3dHAiKmRxcW4rIiZ2amt1L0B1Z3Z2a3BpdS9AaWd2WGNud2dEe1Bjb2dZa3ZqRHFxbmdjcFhjbndnKnVnbmg8PEtUQ1BhUVBOW2FVR1ZWS1BJYU1HWys9DCIiIiJ/DAwiIiIicndkbmtlImh3cGV2a3FwImt1S3RjcGtjcFJqcXBnUHdvZGd0KnV2dGtwaSImcmpxcGdQd29kZ3QrPCJkcXFuDCIiIiJ9DCIiIiIiIiIiJmZraWt2dSI/InJ0Z2lhdGdybmNlZyopMV5GLTEpLiIpKS4iJnJqcXBnUHdvZGd0KyJBQSIpKT0MIiIiIiIiIiJraCIqJmZraWt2dSI/Pz8iKSkrIn0MIiIiIiIiIiIiIiIidGd2d3RwImhjbnVnPQwiIiIiIiIiIn8MDCIiIiIiIiIia2giKnV2dGF1dmN0dnVheWt2aiomZmtpa3Z1LiIpMjI7OikrKyJ9DCIiIiIiIiIiIiIiIiZma2lrdnUiPyJ1d2R1dnQqJmZraWt2dS4iNCs9DCIiIiIiIiIifwwMIiIiIiIiIiJraCIqcnRnaWFvY3ZlaiopMWA7Oio7XmZ9O38rJjEpLiImZmtpa3Z1KysifQwiIiIiIiIiIiIiIiJ0Z3Z3dHAidnR3Zz0MIiIiIiIiIiJ/DAwiIiIiIiIiImtoIipydGdpYW9jdmVqKikxYDI7XmZ9O38mMSkuIiZma2lrdnUrKyJ9DCIiIiIiIiIiIiIiInRndnd0cCJ2dHdnPQwiIiIiIiIiIn8MDCIiIiIiIiIia2giKnJ0Z2lhb2N2ZWoqKTFgO15mfTt/JjEpLiImZmtpa3Z1KysifQwiIiIiIiIiIiIiIiJ0Z3Z3dHAidnR3Zz0MIiIiIiIiIiJ/DAwiIiIiIiIiInRndnd0cCJoY251Zz0MIiIiIn8MDCIiIiJyd2Rua2UiaHdwZXZrcXAiaGtwZld1Z3REe0NlZXF3cHZLZiprcHZ+dXZ0a3BpIiZjZWVxd3B2S2YrPCJBV3VndAwiIiIifQwiIiIiIiIiInRndnd0cCJXdWd0PDx5amd0ZyopY2VlcXdwdmFrZikuIiZjZWVxd3B2S2YrL0Boa3R1diorPQwiIiIifwwMIiIiInJ3ZG5rZSJod3BldmtxcCJwZ2dmdVhndGtoa2VjdmtxcCprcHZ+dXZ0a3BpIiZjZWVxd3B2S2YrPCJkcXFuDCIiIiJ9DCIiIiIiIiIia2giKiMiJnZqa3UvQGt1VGdzd2t0Z2YqKysifQwiIiIiIiIiIiIiIiJ0Z3Z3dHAiaGNudWc9DCIiIiIiIiIifwwMIiIiIiIiIiImd3VndCI/IiZ2amt1L0Boa3BmV3VndER7Q2VlcXdwdktmKiZjZWVxd3B2S2YrPQwiIiIiIiIiImtoIiomd3VndCI/Pz8icHdubiJ+fiImd3VndC9AdHFuZyIjPz8iKXd1Z3QpKyJ9DCIiIiIiIiIiIiIiInRndnd0cCJoY251Zz0MIiIiIiIiIiJ/DAwiIiIiIiIiInRndnd0cCIjIipkcXFuKyImd3VndC9Aa3VheGd0a2hrZ2Y9DCIiIiJ/DAwiIiIiMSwsDCIiIiIiLCJCdGd2d3RwImN0dGN7fWRucWVtZ2Y8ImRxcW4uIm9ndXVjaWdBPCJ1dnRrcGl/DCIiIiIiLDEMIiIiInJ3ZG5rZSJod3BldmtxcCJyd3RlamN1Z0RucWVtVGd1cnFwdWcqa3B2fnV2dGtwaSImY2VlcXdwdktmKzwiY3R0Y3sMIiIiIn0MIiIiIiIiIiJraCIqIyImdmprdS9AcGdnZnVYZ3RraGtlY3ZrcXAqJmNlZXF3cHZLZisrIn0MIiIiIiIiIiIiIiIidGd2d3RwIl0pZG5xZW1nZikiP0AiaGNudWdfPQwiIiIiIiIiIn8MDCIiIiIiIiIiJnVndnZrcGlFdnRuIj8icGd5IlVndnZrcGlFcXB2dHFubmd0Kis9DAwiIiIiIiIiInRndnd0cCJdDCIiIiIiIiIiIiIiIilkbnFlbWdmKSI/QCJ2dHdnLgwiIiIiIiIiIiIiIiIpZXFmZykiP0AiKW9xZGtuZ2F4Z3RraGtlY3ZrcXBhdGdzd2t0Z2YpLgwiIiIiIiIiIiIiIiIpb2d1dWNpZykiP0AiJnZqa3UvQGV3dXZxb1ZnenYvQGlndlZnenYqKWd0dHF0MG9xZGtuZ2F4Z3RraGtlY3ZrcXAwdGdzd2t0Z2YpKy4MIiIiIiIiIiIiIiIiKWRxdmF3dWd0cGNvZykiP0AiJnVndnZrcGlFdnRuL0BpZ3ZhZHF2YXBjb2cqKy4MIiIiIiIiIiJfPQwiIiIifwwMIiIiInJ3ZG5rZSJod3BldmtxcCJkbnFlbURxdlJ3dGVqY3VnS2hQZ2dmZ2Yqa3B2fnV2dGtwaSImZWpjdktmKzwiZHFxbgwiIiIifQwiIiIiIiIiImtoIiojIiZ2amt1L0BwZ2dmdVhndGtoa2VjdmtxcComZWpjdktmKysifQwiIiIiIiIiIiIiIiJ0Z3Z3dHAiaGNudWc9DCIiIiIiIiIifwwMIiIiIiIiIiImdmprdS9AcnRxb3J2WGd0a2hrZWN2a3FwKiZlamN2S2YrPQwMIiIiIiIiIiJ0Z3Z3dHAidnR3Zz0MIiIiIn8MDCIiIiJyd2Rua2UiaHdwZXZrcXAicnRxb3J2WGd0a2hrZWN2a3FwKmtwdn51dnRrcGkiJmVqY3ZLZis8Inhxa2YMIiIiIn0MIiIiIiIiIiImdmd6dk1neyI/IiZ2amt1L0BrdUt0Y3BRcG57R3BjZG5nZiorDCIiIiIiIiIiIiIiIkEiKWNldmtxcDBvcWRrbmdheGd0a2hrZWN2a3FwMHJ0cW9ydmFrdGNwYXFwbnspDCIiIiIiIiIiIiIiIjwiKWNldmtxcDBvcWRrbmdheGd0a2hrZWN2a3FwMHJ0cW9ydik9DCIiIiIiIiIiJnZnenYiPyImdmprdS9AZXd1dnFvVmd6di9AaWd2Vmd6diomdmd6dk1neys9DCIiIiIiIiIia2giKmt1YWN0dGN7KiZ2Z3p2KysifQwiIiIiIiIiIiIiIiImdmd6diI/IiZ2amt1L0B2Z25naXRjby9AaHF0b2N2Vmd6diomdmd6dis9DCIiIiIiIiIifwwMIiIiIiIiIiImZHd2dnFwTmNkZ24iPyImdmprdS9AZXd1dnFvVmd6di9AaWd2Vmd6diopY2V2a3FwMG9xZGtuZ2F4Z3RraGtlY3ZrcXAwZHd2dnFwKSs9DCIiIiIiIiIia2giKmt1YWN0dGN7KiZkd3Z2cXBOY2RnbisrIn0MIiIiIiIiIiIiIiIiJmR3dnZxcE5jZGduIj8iJnZqa3UvQHZnbmdpdGNvL0BocXRvY3ZWZ3p2KiZkd3Z2cXBOY2Rnbis9DCIiIiIiIiIifwwMIiIiIiIiIiImZHd2dnFwdSI/Il1dXSl2Z3p2KSI/QCIqdXZ0a3BpKyImZHd2dnFwTmNkZ24uIil0Z3N3Z3V2YWVxcHZjZXYpIj9AInZ0d2dfX189DAwiIiIiIiIiIiZ2amt1L0B2Z25naXRjby9AdWdwZk9ndXVjaWcqJmVqY3ZLZi4iKnV2dGtwaSsiJnZnenYuIl0MIiIiIiIiIiIiIiIiKXRncm57YW9jdG13cikiP0AibHVxcGFncGVxZmcqXQwiIiIiIiIiIiIiIiIiIiIiKW1ne2RxY3RmKSI/QCImZHd2dnFwdS4MIiIiIiIiIiIiIiIiIiIiIil0Z3VrfGdhbWd7ZHFjdGYpIj9AInZ0d2cuDCIiIiIiIiIiIiIiIiIiIiIpcXBnYXZrb2dhbWd7ZHFjdGYpIj9AInZ0d2cuDCIiIiIiIiIiIiIiIl8uIkxVUVBhV1BHVUVDUkdGYVdQS0VRRkcrLgwiIiIiIiIiIl8rPQwMIiIiIiIiIiJFY2VqZzw8cnd2KnVnbmg8PENZQ0tWS1BJYUVDRUpHYVJUR0hLWjAmZWpjdktmLiJ1Z25oPDxSR1BGS1BJYVVWQ1ZHLiJwcXkqKy9AY2ZmT2twd3ZndSozNysrPQwiIiIifwwMIiIiIjEsLAwiIiIiIiwiQnJjdGNvIiJjdHRjez51dnRrcGkuIm9remdmQCIiJmVxcHZjZXYMIiIiIiIsIkJyY3RjbyIiY3R0Y3s+dXZ0a3BpLiJva3pnZkAiIiZodHFvDCIiIiIiLCJCdGd2d3RwImN0dGN7fXV3ZWVndXU8ImRxcW4uIm9ndXVjaWc8InV2dGtwaX8MIiIiIiIsMQwiIiIicndkbmtlImh3cGV2a3FwInhndGtoe0h0cW9FcXB2Y2V2Kmtwdn51dnRrcGkiJmVqY3ZLZi4iY3R0Y3siJmVxcHZjZXYuImN0dGN7IiZodHFvKzwiY3R0Y3sMIiIiIn0MIiIiIiIiIiJraCIqIyImdmprdS9Aa3VUZ3N3a3RnZiorKyJ9DCIiIiIiIiIiIiIiInRndnd0cCJdDCIiIiIiIiIiIiIiIiIiIiIpdXdlZWd1dSkiP0AiaGNudWcuDCIiIiIiIiIiIiIiIiIiIiIpb2d1dWNpZykiP0AiJnZqa3UvQGV3dXZxb1ZnenYvQGlndlZnenYqKWd0dHF0MG9xZGtuZ2F4Z3RraGtlY3ZrcXAwZmt1Y2RuZ2YpKy4MIiIiIiIiIiIiIiIiXz0MIiIiIiIiIiJ/DAwiIiIiIiIiIiZ3dWd0Ij8iJnZqa3UvQGhrcGZXdWd0RHtDZWVxd3B2S2YqJmVqY3ZLZis9DCIiIiIiIiIia2giKiZ3dWd0Ij8/PyJwd25uIn5+IiZ3dWd0L0B0cW5nIiM/PyIpd3VndCkrIn0MIiIiIiIiIiIiIiIidGd2d3RwIl0MIiIiIiIiIiIiIiIiIiIiIil1d2VlZ3V1KSI/QCJoY251Zy4MIiIiIiIiIiIiIiIiIiIiIilvZ3V1Y2lnKSI/QCImdmprdS9AZXd1dnFvVmd6di9AaWd2Vmd6diopZ3R0cXQwb3Fka25nYXhndGtoa2VjdmtxcDBwcXZhY3JybmtlY2RuZykrLgwiIiIiIiIiIiIiIiJfPQwiIiIiIiIiIn8MDCIiIiIiIiIia2giKipkcXFuKyImd3VndC9Aa3VheGd0a2hrZ2YrIn0MIiIiIiIiIiIiIiIiJnZqa3UvQGVuZ2N0UmdwZmtwaVV2Y3ZnKiZlamN2S2YrPQwMIiIiIiIiIiIiIiIidGd2d3RwIl0MIiIiIiIiIiIiIiIiIiIiIil1d2VlZ3V1KSI/QCJ2dHdnLgwiIiIiIiIiIiIiIiIiIiIiKW9ndXVjaWcpIj9AIiZ2amt1L0Bld3V2cW9WZ3p2L0BpZ3ZWZ3p2KiljZXZrcXAwb3Fka25nYXhndGtoa2VjdmtxcDBjbnRnY2Z7YXhndGtoa2dmKSsuDCIiIiIiIiIiIiIiIl89DCIiIiIiIiIifwwMIiIiIiIiIiImZXFwdmNldld1Z3RLZiI/IiZlcXB2Y2V2XSl3dWd0YWtmKV8iQUEicHdubj0MIiIiIiIiIiImdWdwZmd0S2YiPyImaHRxb10pa2YpXyJBQSJwd25uPQwMIiIiIiIiIiJraCIqJmVxcHZjZXZXdWd0S2YiPz8/InB3bm4ifn4iJnVncGZndEtmIj8/PyJwd25uIn5+IiprcHYrIiZlcXB2Y2V2V3VndEtmIiM/PyIqa3B2KyImdWdwZmd0S2YrIn0MIiIiIiIiIiIiIiIidGd2d3RwIl0MIiIiIiIiIiIiIiIiIiIiIil1d2VlZ3V1KSI/QCJoY251Zy4MIiIiIiIiIiIiIiIiIiIiIilvZ3V1Y2lnKSI/QCImdmprdS9AZXd1dnFvVmd6di9AaWd2Vmd6diopZ3R0cXQwb3Fka25nYXhndGtoa2VjdmtxcDBrcHhjbmtmYWVxcHZjZXYpKy4MIiIiIiIiIiIiIiIiXz0MIiIiIiIiIiJ/DAwiIiIiIiIiIiZyanFwZ1B3b2RndCI/InZ0a28qKnV2dGtwaSsiKiZlcXB2Y2V2XSlyanFwZ2Fwd29kZ3QpXyJBQSIpKSsrPQwiIiIiIiIiImtoIiomcmpxcGdQd29kZ3QiPz8/IikpKyJ9DCIiIiIiIiIiIiIiInRndnd0cCJdDCIiIiIiIiIiIiIiIiIiIiIpdXdlZWd1dSkiP0AiaGNudWcuDCIiIiIiIiIiIiIiIiIiIiIpb2d1dWNpZykiP0AiJnZqa3UvQGV3dXZxb1ZnenYvQGlndlZnenYqKWd0dHF0MG9xZGtuZ2F4Z3RraGtlY3ZrcXAwa3B4Y25rZmFlcXB2Y2V2KSsuDCIiIiIiIiIiIiIiIl89DCIiIiIiIiIifwwMIiIiIiIiIiJraCIqJnZqa3UvQGt1S3RjcFFwbntHcGNkbmdmKisiKCgiIyImdmprdS9Aa3VLdGNwa2NwUmpxcGdQd29kZ3QqJnJqcXBnUHdvZGd0KysifQwiIiIiIiIiIiIiIiJ0Z3Z3dHAiXQwiIiIiIiIiIiIiIiIiIiIiKXV3ZWVndXUpIj9AImhjbnVnLgwiIiIiIiIiIiIiIiIiIiIiKW9ndXVjaWcpIj9AIiZ2amt1L0Bld3V2cW9WZ3p2L0BpZ3ZWZ3p2KilndHRxdDBvcWRrbmdheGd0a2hrZWN2a3FwMGt0Y3BhcXBueykrLgwiIiIiIiIiIiIiIiJfPQwiIiIiIiIiIn8MDCIiIiIiIiIiJmRxdld1Z3QiPyJEcXZXdWd0PDx5amd0ZyopY2VlcXdwdmFrZikuIiZlamN2S2YrL0Boa3R1diorPQwiIiIiIiIiImtoIiomZHF2V3VndCIjPz8icHdubisifQwiIiIiIiIiIiIiIiImZHF2V3VndC9AcmpxcGdhcHdvZGd0Ij8iJnJqcXBnUHdvZGd0PQwiIiIiIiIiIiIiIiJraCIqIyJnb3J2eyomZXFwdmNldl0paGt0dXZhcGNvZylfKysifQwiIiIiIiIiIiIiIiIiIiIiJmRxdld1Z3QvQGhrdHV2YXBjb2ciPyIqdXZ0a3BpKyImZXFwdmNldl0paGt0dXZhcGNvZylfPQwiIiIiIiIiIiIiIiJ/DCIiIiIiIiIiIiIiImtoIipjdHRje2FtZ3thZ3prdXZ1KiluY3V2YXBjb2cpLiImZXFwdmNldisrIn0MIiIiIiIiIiIiIiIiIiIiIiZkcXZXdWd0L0BuY3V2YXBjb2ciPyIqdXZ0a3BpKyIqJmVxcHZjZXZdKW5jdXZhcGNvZylfIkFBIikpKz0MIiIiIiIiIiIiIiIifwwiIiIiIiIiIiIiIiImZHF2V3VndC9AdWN4ZyorPQwiIiIiIiIiIn8MDCIiIiIiIiIiJnd1Z3QvQGt1YXhndGtoa2dmIj8idnR3Zz0MIiIiIiIiIiImd3VndC9AdWN4ZyorPQwMIiIiIiIiIiImdmprdS9AZW5nY3RSZ3Bma3BpVXZjdmcqJmVqY3ZLZis9DAwiIiIiIiIiIiZ3dWd0cGNvZyI/IiZkcXZXdWd0QS9Ad3VndHBjb2ciQUEiKSk9DCIiIiIiIiIiJnZqa3UvQG5xaS9AY2ZmUGd5TnFpKgwiIiIiIiIiIiIiIiIpd3VndCkuDCIiIiIiIiIiIiIiIiTarNqp3Y7djtqxItuH24raqtqp3Y7bhiLbh9uK24PbhCIvItq224faqdqz24k8In0mcmpxcGdQd29kZ3R/JC4MIiIiIiIiIiIiIiIiKnV2dGtwaSsiJmVqY3ZLZi4MIiIiIiIiIiIiIiIiJnd1Z3RwY29nLgwiIiIiIiIiIiIiIiIpb3Fka25nYXhndGtoa2dmKQwiIiIiIiIiIis9DAwiIiIiIiIiInRndnd0cCJdDCIiIiIiIiIiIiIiIil1d2VlZ3V1KSI/QCJ2dHdnLgwiIiIiIiIiIiIiIiIpb2d1dWNpZykiP0AiJnZqa3UvQGV3dXZxb1ZnenYvQGlndlZnenYqKWNldmtxcDBvcWRrbmdheGd0a2hrZWN2a3FwMHV3ZWVndXUpKy4MIiIiIiIiIiJfPQwiIiIifwwMIiIiIjEsLAwiIiIiIiwiQnRndnd0cCJjdHRje310Z3N3a3RnZjwiZHFxbi4ieGd0a2hrZ2Y8ImRxcW4uInJqcXBnYXB3b2RndDwiQXV2dGtwaS4iZHF2YXd1Z3RwY29nPCJBdXZ0a3BpLiJvZ3V1Y2lnQTwidXZ0a3BpfwwiIiIiIiwxDCIiIiJyd2Rua2UiaHdwZXZrcXAidXZjdnd1SHF0Q2VlcXdwdiprcHZ+dXZ0a3BpIiZjZWVxd3B2S2YrPCJjdHRjewwiIiIifQwiIiIiIiIiIiZ3dWd0Ij8iJnZqa3UvQGhrcGZXdWd0RHtDZWVxd3B2S2YqJmNlZXF3cHZLZis9DCIiIiIiIiIiJnRnc3drdGdmIj8iJnZqa3UvQGt1VGdzd2t0Z2YqKyIoKCImd3VndCIjPz8icHdubiIoKCImd3VndC9AdHFuZyI/Pz8iKXd1Z3QpPQwiIiIiIiIiIiZ4Z3RraGtnZiI/IiZ3dWd0IkEiKmRxcW4rIiZ3dWd0L0BrdWF4Z3RraGtnZiI8ImhjbnVnPQwiIiIiIiIiIiZkcXZXdWd0Ij8iRHF2V3VndDw8eWpndGcqKWNlZXF3cHZha2YpLiImY2VlcXdwdktmKy9AaGt0dXYqKz0MIiIiIiIiIiImdWd2dmtwaUV2dG4iPyJwZ3kiVWd2dmtwaUVxcHZ0cW5uZ3QqKz0MDCIiIiIiIiIiJnRndXJxcHVnIj8iXQwiIiIiIiIiIiIiIiIpdGdzd2t0Z2YpIj9AIiZ0Z3N3a3RnZi4MIiIiIiIiIiIiIiIiKXhndGtoa2dmKSI/QCImeGd0a2hrZ2YuDCIiIiIiIiIiIiIiIilrdGNwYXFwbnspIj9AIiZ0Z3N3a3RnZiIoKCImdmprdS9Aa3VLdGNwUXBue0dwY2RuZ2YqKy4MIiIiIiIiIiIiIiIiKXJqcXBnYXB3b2RndCkiP0AiJmRxdld1Z3RBL0ByanFwZ2Fwd29kZ3QuDCIiIiIiIiIiIiIiIilkcXZhd3VndHBjb2cpIj9AIiZ1Z3Z2a3BpRXZ0bi9AaWd2YWRxdmFwY29nKisuDCIiIiIiIiIiXz0MDCIiIiIiIiIia2giKiZ0Z3N3a3RnZiIoKCIjIiZ4Z3RraGtnZisifQwiIiIiIiIiIiIiIiImdGd1cnFwdWddKW9ndXVjaWcpXyI/IiZ2amt1L0BrdUt0Y3BRcG57R3BjZG5nZiorDCIiIiIiIiIiIiIiIiIiIiJBIiZ2amt1L0Bld3V2cW9WZ3p2L0BpZ3ZWZ3p2KilndHRxdDBvcWRrbmdheGd0a2hrZWN2a3FwMHRnc3drdGdmYWt0Y3BhcXBueykrDCIiIiIiIiIiIiIiIiIiIiI8IiZ2amt1L0Bld3V2cW9WZ3p2L0BpZ3ZWZ3p2KilndHRxdDBvcWRrbmdheGd0a2hrZWN2a3FwMHRnc3drdGdmKSs9DCIiIiIiIiIifwwMIiIiIiIiIiJ0Z3Z3dHAiJnRndXJxcHVnPQwiIiIifwwMIiIiInJ3ZG5rZSJod3BldmtxcCJlbmdjdFJncGZrcGlVdmN2ZyprcHZ+dXZ0a3BpIiZlamN2S2YrPCJ4cWtmDCIiIiJ9DCIiIiIiIiIiRWNlamc8PGhxdGlndip1Z25oPDxDWUNLVktQSWFFQ0VKR2FSVEdIS1owJmVqY3ZLZis9DCIiIiJ/DAwiIiIicndkbmtlImh3cGV2a3FwImt1UmdwZmtwaVV2Y3ZnKkF1dnRrcGkiJmN5Y2t2a3BpVntyZys8ImRxcW4MIiIiIn0MIiIiIiIiIiJ0Z3Z3dHAiJmN5Y2t2a3BpVntyZyI/Pz8idWduaDw8UkdQRktQSWFVVkNWRz0MIiIiIn8Mfww=
+
+namespace App\Services;
+
+use App\Http\Controllers\AdvanceSettingLookupController;
+use App\Http\Controllers\CustomTextController;
+use App\Http\Controllers\LogController;
+use App\Http\Controllers\SettingController;
+use App\Models\BotUser;
+use App\Models\User;
+use Illuminate\Support\Facades\Cache;
+
+class MobileVerificationService
+{
+    public const SETTING_KEY = 'bot_require_mobile_verification';
+
+    public const IRAN_ONLY_SETTING_KEY = 'bot_mobile_verification_iran_only';
+
+    public const AWAITING_CACHE_PREFIX = 'awaiting_reply_';
+
+    public const PENDING_STATE = 'mobile_verification_pending';
+
+    public function __construct(
+        private readonly AdvanceSettingLookupController $settings = new AdvanceSettingLookupController(),
+        private readonly CustomTextController $customText = new CustomTextController(),
+        private readonly TelegramService $telegram = new TelegramService(),
+        private readonly LogController $log = new LogController(),
+    ) {}
+
+    public function isRequired(): bool
+    {
+        return (bool) $this->settings->getValueByNameWithBooleanValue(self::SETTING_KEY);
+    }
+
+    public function isIranOnlyEnabled(): bool
+    {
+        return (bool) $this->settings->getValueByNameWithBooleanValue(self::IRAN_ONLY_SETTING_KEY);
+    }
+
+    public function isIranianPhoneNumber(string $phoneNumber): bool
+    {
+        $digits = preg_replace('/\D+/', '', $phoneNumber) ?? '';
+        if ($digits === '') {
+            return false;
+        }
+
+        if (str_starts_with($digits, '0098')) {
+            $digits = substr($digits, 2);
+        }
+
+        if (preg_match('/^98(9\d{9})$/', $digits)) {
+            return true;
+        }
+
+        if (preg_match('/^09\d{9}$/', $digits)) {
+            return true;
+        }
+
+        if (preg_match('/^9\d{9}$/', $digits)) {
+            return true;
+        }
+
+        return false;
+    }
+
+    public function findUserByAccountId(int|string $accountId): ?User
+    {
+        return User::where('account_id', $accountId)->first();
+    }
+
+    public function needsVerification(int|string $accountId): bool
+    {
+        if (! $this->isRequired()) {
+            return false;
+        }
+
+        $user = $this->findUserByAccountId($accountId);
+        if ($user === null || $user->role !== 'user') {
+            return false;
+        }
+
+        return ! (bool) $user->is_verified;
+    }
+
+    /**
+     * @return array{blocked: bool, message?: string}
+     */
+    public function purchaseBlockResponse(int|string $accountId): array
+    {
+        if (! $this->needsVerification($accountId)) {
+            return ['blocked' => false];
+        }
+
+        $settingCtrl = new SettingController();
+
+        return [
+            'blocked' => true,
+            'code' => 'mobile_verification_required',
+            'message' => $this->customText->getText('error.mobile_verification.required'),
+            'bot_username' => $settingCtrl->get_bot_name(),
+        ];
+    }
+
+    public function blockBotPurchaseIfNeeded(int|string $chatId): bool
+    {
+        if (! $this->needsVerification($chatId)) {
+            return false;
+        }
+
+        $this->promptVerification($chatId);
+
+        return true;
+    }
+
+    public function promptVerification(int|string $chatId): void
+    {
+        $textKey = $this->isIranOnlyEnabled()
+            ? 'action.mobile_verification.prompt_iran_only'
+            : 'action.mobile_verification.prompt';
+        $text = $this->customText->getText($textKey);
+        if (is_array($text)) {
+            $text = $this->telegram->formatText($text);
+        }
+
+        $buttonLabel = $this->customText->getText('action.mobile_verification.button');
+        if (is_array($buttonLabel)) {
+            $buttonLabel = $this->telegram->formatText($buttonLabel);
+        }
+
+        $buttons = [[['text' => (string) $buttonLabel, 'request_contact' => true]]];
+
+        $this->telegram->sendMessage($chatId, (string) $text, [
+            'reply_markup' => json_encode([
+                'keyboard' => $buttons,
+                'resize_keyboard' => true,
+                'one_time_keyboard' => true,
+            ], JSON_UNESCAPED_UNICODE),
+        ]);
+
+        Cache::put(self::AWAITING_CACHE_PREFIX.$chatId, self::PENDING_STATE, now()->addMinutes(15));
+    }
+
+    /**
+     * @param  array<string, mixed>  $contact
+     * @param  array<string, mixed>  $from
+     * @return array{success: bool, message: string}
+     */
+    public function verifyFromContact(int|string $chatId, array $contact, array $from): array
+    {
+        if (! $this->isRequired()) {
+            return [
+                'success' => false,
+                'message' => $this->customText->getText('error.mobile_verification.disabled'),
+            ];
+        }
+
+        $user = $this->findUserByAccountId($chatId);
+        if ($user === null || $user->role !== 'user') {
+            return [
+                'success' => false,
+                'message' => $this->customText->getText('error.mobile_verification.not_applicable'),
+            ];
+        }
+
+        if ((bool) $user->is_verified) {
+            $this->clearPendingState($chatId);
+
+            return [
+                'success' => true,
+                'message' => $this->customText->getText('action.mobile_verification.already_verified'),
+            ];
+        }
+
+        $contactUserId = $contact['user_id'] ?? null;
+        $senderId = $from['id'] ?? null;
+
+        if ($contactUserId === null || $senderId === null || (int) $contactUserId !== (int) $senderId) {
+            return [
+                'success' => false,
+                'message' => $this->customText->getText('error.mobile_verification.invalid_contact'),
+            ];
+        }
+
+        $phoneNumber = trim((string) ($contact['phone_number'] ?? ''));
+        if ($phoneNumber === '') {
+            return [
+                'success' => false,
+                'message' => $this->customText->getText('error.mobile_verification.invalid_contact'),
+            ];
+        }
+
+        if ($this->isIranOnlyEnabled() && ! $this->isIranianPhoneNumber($phoneNumber)) {
+            return [
+                'success' => false,
+                'message' => $this->customText->getText('error.mobile_verification.iran_only'),
+            ];
+        }
+
+        $botUser = BotUser::where('account_id', $chatId)->first();
+        if ($botUser !== null) {
+            $botUser->phone_number = $phoneNumber;
+            if (! empty($contact['first_name'])) {
+                $botUser->first_name = (string) $contact['first_name'];
+            }
+            if (array_key_exists('last_name', $contact)) {
+                $botUser->last_name = (string) ($contact['last_name'] ?? '');
+            }
+            $botUser->save();
+        }
+
+        $user->is_verified = true;
+        $user->save();
+
+        $this->clearPendingState($chatId);
+
+        $username = $botUser?->username ?? '';
+        $this->log->addNewLog(
+            'user',
+            "تایید موبایل موفق - شماره: {$phoneNumber}",
+            (string) $chatId,
+            $username,
+            'mobile_verified'
+        );
+
+        return [
+            'success' => true,
+            'message' => $this->customText->getText('action.mobile_verification.success'),
+        ];
+    }
+
+    /**
+     * @return array{required: bool, verified: bool, phone_number: ?string, bot_username: ?string, message?: string}
+     */
+    public function statusForAccount(int|string $accountId): array
+    {
+        $user = $this->findUserByAccountId($accountId);
+        $required = $this->isRequired() && $user !== null && $user->role === 'user';
+        $verified = $user ? (bool) $user->is_verified : false;
+        $botUser = BotUser::where('account_id', $accountId)->first();
+        $settingCtrl = new SettingController();
+
+        $response = [
+            'required' => $required,
+            'verified' => $verified,
+            'iran_only' => $required && $this->isIranOnlyEnabled(),
+            'phone_number' => $botUser?->phone_number,
+            'bot_username' => $settingCtrl->get_bot_name(),
+        ];
+
+        if ($required && ! $verified) {
+            $response['message'] = $this->isIranOnlyEnabled()
+                ? $this->customText->getText('error.mobile_verification.required_iran_only')
+                : $this->customText->getText('error.mobile_verification.required');
+        }
+
+        return $response;
+    }
+
+    public function clearPendingState(int|string $chatId): void
+    {
+        Cache::forget(self::AWAITING_CACHE_PREFIX.$chatId);
+    }
+
+    public function isPendingState(?string $awaitingType): bool
+    {
+        return $awaitingType === self::PENDING_STATE;
+    }
+}

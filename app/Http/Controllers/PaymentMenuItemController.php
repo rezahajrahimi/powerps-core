@@ -1,3 +1,90 @@
 <?php
-bolt_decrypt( __FILE__ , 'bgN4Q6'); return 0;
-##!!!##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
+namespace App\Http\Controllers;
+
+use App\Models\PaymentMenuItem;
+use Illuminate\Http\Request;
+
+class PaymentMenuItemController extends Controller
+{
+    public function seed()
+    {
+        if (PaymentMenuItem::all()->isEmpty()) {
+            $payment             = new PaymentMenuItem();
+            $payment->name       = 'main';
+            $payment->alias_name = 'گزینه پرداخت را انتخاب کنید.';
+            $payment->level      = 1;
+            $payment->save();
+            $response             = new PaymentMenuItem();
+            $response->name       = 'response';
+            $response->alias_name = 'لطفا مبلغ را به شماره زیر واریز کنید و تصویر رسید را در ربات ارسال کنید.';
+            $response->level      = 2;
+            $response->save();
+
+            return true;
+        }
+        return false;
+    }
+    public function getPaymentTypeMainMenuTitle()
+    {
+        $data = PaymentMenuItem::where('name', 'main')->first();
+        if ($data != null) {
+            return $data;
+        } else {
+            $this->seed();
+            $data = PaymentMenuItem::where('name', 'main')->first();
+            return $data;
+        }
+    }
+    public function getPaymentTypeMainMenuAliasText()
+    {
+        $data = PaymentMenuItem::where('name', 'main')->first();
+        if ($data != null) {
+            return $data->alias_name;
+        } else {
+            $this->seed();
+            $data = PaymentMenuItem::where('name', 'main')->first();
+            return $data->alias_name;
+        }
+    }
+    public function getAllPaymentTypeMenues()
+    {
+        $data = PaymentMenuItem::first();
+        // \Log::info($data);
+
+        if ($data != null) {
+            $data = PaymentMenuItem::all();
+
+            return $data;
+        } else {
+            $this->getPaymentTypeMainMenuTitle();
+            $data = PaymentMenuItem::all();
+
+            return $data;
+        }
+    }
+    public function getResponseOfSelectedOfflineMenu()
+    {
+        $data = PaymentMenuItem::where('name', 'reponse')->first();
+        if ($data != null) {
+            return $data->alias_name;
+        } else {
+            $this->seed();
+            $data = PaymentMenuItem::where('name', 'reponse')->first();
+            return $data->alias_name;
+        }
+    }
+
+    public function updatePaymentMenuAlisNameByLevel(Request $request)
+    {
+        $data = PaymentMenuItem::where('level', $request->level)->first();
+        if ($data != null) {
+            // \Log::info($request->alias_name);
+
+            $data->alias_name = $request->alias_name;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+}

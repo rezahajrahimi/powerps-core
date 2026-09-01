@@ -1,3 +1,345 @@
 <?php
-bolt_decrypt( __FILE__ , 'Zp5Kp3'); return 0;
-##!!!##91tOWlJgXU5QUg0uXV1JNWFhXUkwXFthX1xZWVJfYCj392JgUg0uXV1JN1xPYEk9X1xQUmBgQGJPYFBfVl1hVlxbPWJfUFVOYFIo92JgUg0uXV1JOlxRUllgSS9cYUJgUl8o92JgUg0uXV1JOlxRUllgST1OZlpSW2FAUmFhVltUKPdiYFINLl1dSTpcUVJZYEk9TmZaUlthQWZdUij3YmBSDS5dXUk6XFFSWWBJPV9cUWJQYTBOYVJUXF9mKPdiYFINLl1dSTpcUVJZYElAVVJhTk9DUl9WU2Yo92JgUg0uXV1JOlxRUllgSUFfTltgTlBhVlxbKPdiYFINLl1dSTpcUVJZYElCYFJfKPdiYFINLl1dSUBSX2NWUFJgSTlcZk5ZYWY9XFZbYWBAUl9jVlBSKPdiYFINNllZYlpWW05hUkk1YWFdST9SXmJSYGEo92JgUg0uXV1JQFJfY1ZQUmBJQVJZUlRfTlpAUl9jVlBSKPdiYFINLl1dSUBSX2NWUFJgSUBiT2BQX1ZdYVZcWz1iX1BVTmBSOVxQWCj3YmBSDTZZWWJaVltOYVJJQGJdXVxfYUkzTlBOUVJgSTlcVCj391BZTmBgDUBVUmFOT0NSX1ZTZjBcW2FfXFlZUl8NUmVhUltRYA0wXFthX1xZWVJf92j3DQ0NDV1fVmNOYVINPU5mWlJbYUBSYWFWW1QwXFthX1xZWVJfDRFdTmZaW1JhQFJhYVZbVDBbYV9ZKPcNDQ0NXV9WY05hUg0wYmBhXFpBUmVhMFxbYV9cWVlSXw0RUGJgYVxaQVJlYTBhX1ko9/cNDQ0NXWJPWVZQDVNiW1BhVlxbDUxMUFxbYGFfYlBhFRb3DQ0NDWj3DQ0NDQ0NDQ0RYVVWYBorXU5mWltSYUBSYWFWW1QwW2FfWQ0qDVtSZA09TmZaUlthQFJhYVZbVDBcW2FfXFlZUl8VFij3DQ0NDQ0NDQ0RYVVWYBorUGJgYVxaQVJlYTBhX1kNKg1bUmQNMGJgYVxaQVJlYTBcW2FfXFlZUl8VFij3DQ0NDWr39w0NDQ1dYk9ZVlANU2JbUGFWXFsNUFVSUFhMYFVSYU5PTGNSX1ZTZkxgYU5hYmAVFvcNDQ0NaPcNDQ0NDQ0NDV9SYWJfWw0RYVVWYBorXU5mWltSYUBSYWFWW1QwW2FfWRorVFJhPU5mWlJbYUBSYWFWW1RAYU5hYmAvZjhSZhUUYFVSYU5PTGNSX1ZTZhQWKPcNDQ0Navf3DQ0NDV1iT1lWUA1TYltQYVZcWw1QX1JOYVJMW1JkTGBVUmFOT0xjUl9WU2YVP1JeYlJgYQ0RX1JeYlJgYRb3DQ0NDWj3DQ0NDQ0NDQ0RT05gUi5aXGJbYQ0qDRVWW2EWDVBSVlkVFVNZXE5hFg0RX1JeYlJgYRorTlpcYlthFij3DQ0NDQ0NDQ0RXV9cUWJQYTBOYVJUXF9mNlENKg0RX1JeYlJgYRorXV9cUWJQYUxQTmFSVFxfZkxWUQ0sDRVWW2EWDRFfUl5iUmBhGitdX1xRYlBhTFBOYVJUXF9mTFZRDScNW2JZWSj39w0NDQ0NDQ0NVlMNFRFPTmBSLlpcYlthDSkqDR0WDWj3DQ0NDQ0NDQ0NDQ0NOVxUJydkTl9bVltUFRRAVVJhTk8NY1JfVlNmDVBfUk5hUg1fUldSUGFSUScNVltjTllWUQ1PTmBSDU5aXGJbYRQZDUj3DQ0NDQ0NDQ0NDQ0NDQ0NDRRiYFJfTFZRFA0qKw0RX1JeYlJgYRorYmBSX0xWUQ0sLA1bYllZGfcNDQ0NDQ0NDQ0NDQ0NDQ0NFE5aXGJbYRQNKisNEV9SXmJSYGEaK05aXGJbYRn3DQ0NDQ0NDQ0NDQ0NShYo9/cNDQ0NDQ0NDQ0NDQ1fUmFiX1sNW2JZWSj3DQ0NDQ0NDQ1q9/cNDQ0NDQ0NDRFSZVZgYVZbVD1SW1FWW1QNKg1AVVJhTk9DUl9WU2YnJ2RVUl9SFRRiYFJfTFZRFBkNEV9SXmJSYGEaK2JgUl9MVlEW9w0NDQ0NDQ0NDQ0NDRorZFVSX1IVFGBhTmFiYBQZDRRdUltRVltUFBb3DQ0NDQ0NDQ0NDQ0NGitkVVJfUhUUUF9STmFSUUxOYRQZDRQrFBkNW1xkFRYaK2BiTzpWW2JhUmAVHh0WFvcNDQ0NDQ0NDQ0NDQ0aK1NWX2BhFRYo9/cNDQ0NDQ0NDVZTDRURUmVWYGFWW1Q9UltRVltUDRMTDRFhVVZgGitdUltRVltUNlthUlthOk5hUFVSYBURUmVWYGFWW1Q9UltRVltUGQ0RT05gUi5aXGJbYRkNEV1fXFFiUGEwTmFSVFxfZjZRFhYNaPcNDQ0NDQ0NDQ0NDQ05XFQnJ1ZbU1wVFEBVUmFOTw1jUl9WU2YNX1Ji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VltUGQ1WW2ENEU9OYFIuWlxiW2EZDSxWW2ENEV1fXFFiUGEwTmFSVFxfZjZRFicNT1xcWfcNDQ0NaPcNDQ0NDQ0NDV9SYWJfWw0VVlthFg0VEV1SW1FWW1QaK09OYFJMTlpcYlthDSwsDR0WDSoqKg0RT05gUi5aXGJbYfcNDQ0NDQ0NDQ0NDQ0TEw0VVlthFg0VEV1SW1FWW1QaK11fXFFiUGFMUE5hUlRcX2ZMVlENLCwNHRYNKioqDRVWW2EWDRURXV9cUWJQYTBOYVJUXF9mNlENLCwNHRYo9w0NDQ1q9/cNDQ0NXWJPWVZQDVNiW1BhVlxbDVBfUk5hUkxiW1ZeUkxOWlxiW2EVVlthDRFPTmBSLlpcYlthFicNVlth9w0NDQ1o9w0NDQ0NDQ0NEU9OYFIuWlxiW2ENKg1aTmUVHhkNEU9OYFIuWlxiW2EWKPf3DQ0NDQ0NDQ1TXF8NFRFOYWFSWl1hDSoNHSgNEU5hYVJaXWENKQ0iHSgNEU5hYVJaXWEYGBYNaPcNDQ0NDQ0NDQ0NDQ0RXV9SU1ZlDSoNVlthUVZjFRFPTmBSLlpcYlthGQ0eHR0WKPcNDQ0NDQ0NDQ0NDQ0RYGJTU1ZlDSoNX05bUVxaTFZbYRUdGQ0mJhYo9w0NDQ0NDQ0NDQ0NDRFQTltRVlFOYVINKg0VEV1fUlNWZQ0XDR4dHRYNGA0RYGJTU1ZlKPf3DQ0NDQ0NDQ0NDQ0NVlMNFRFQTltRVlFOYVINKQ0RT05gUi5aXGJbYRYNaPcNDQ0NDQ0NDQ0NDQ0NDQ0NEVBOW1FWUU5hUg0qDRFPTmBSLlpcYlthDRgNX05bUVxaTFZbYRUeGQ0mJhYo9w0NDQ0NDQ0NDQ0NDWr39w0NDQ0NDQ0NDQ0NDRFSZVZgYWANKg1AVVJhTk9DUl9WU2YnJ2RVUl9SFRROWlxiW2EUGQ0VYGFfVltUFg0RUE5bUVZRTmFSFvcNDQ0NDQ0NDQ0NDQ0NDQ0NGitkVVJfUhUUYGFOYWJgFBkNFF1SW1FWW1QUFvcNDQ0NDQ0NDQ0NDQ0NDQ0NGitSZVZgYWAVFij39w0NDQ0NDQ0NDQ0NDVZTDRUODRFSZVZgYWAWDWj3DQ0NDQ0NDQ0NDQ0NDQ0NDV9SYWJfWw0RUE5bUVZRTmFSKPcNDQ0NDQ0NDQ0NDQ1q9w0NDQ0NDQ0Navf3DQ0NDQ0NDQ0RU05ZWU9OUFgNKg0RT05gUi5aXGJbYQ0YDV9OW1FcWkxWW2EVHh0dGQ0mJiYWKPcNDQ0NDQ0NDWRVVllSDRVAVVJhTk9DUl9WU2YnJ2RVUl9SFRROWlxiW2EUGQ0VYGFfVltUFg0RU05ZWU9OUFgWGitkVVJfUhUUYGFOYWJgFBkNFF1SW1FWW1QUFhorUmVWYGFgFRYWDWj3DQ0NDQ0NDQ0NDQ0NEVNOWVlPTlBYGBgo9w0NDQ0NDQ0Navf3DQ0NDQ0NDQ1fUmFiX1sNEVNOWVlPTlBYKPcNDQ0Navf3DQ0NDV1iT1lWUA1TYltQYVZcWw1jTllWUU5hUkxgVVJhTk9MY1JfVlNmFT9SXmJSYGENEV9SXmJSYGEW9w0NDQ1o9w0NDQ0NDQ0NEV9OZC5aXGJbYQ0qDV1fUlRMX1JdWU5QUhUUHEhLHRomShwUGQ0UFBkNFWBhX1ZbVBYNFRFfUl5iUmBhGitOWlxiW2ENLCwNFBQWFij3DQ0NDQ0NDQ0RTlpcYlthQVxaTlsNKg0RX05kLlpcYlthDQ4qKg0UFA0sDRVWW2EWDV9cYltRFRUVVlthFg0RX05kLlpcYlthFg0cDR4dFg0nDR0o9/cNDQ0NDQ0NDTlcVCcnVltTXBUUQFVSYU5PDWNSX1ZTZg1QTllZT05QWA1fUlBSVmNSURQZDUj3DQ0NDQ0NDQ0NDQ0NFFNfXFoUDSorDRFfUl5iUmBhGitTX1xaGfcNDQ0NDQ0NDQ0NDQ0UTlpcYlthTF9WTllgFA0qKw0RX05kLlpcYlthGfcNDQ0NDQ0NDQ0NDQ0UTlpcYlthTGFcWk5bFA0qKw0RTlpcYlthQVxaTlsZ9w0NDQ0NDQ0NDQ0NDRRRTmFSFA0qKw0RX1JeYlJgYRorUU5hUhn3DQ0NDQ0NDQ1KFij39w0NDQ0NDQ0NEU5dVjhSZjVSTlFSXw0qDWFfVloVFWBhX1ZbVBYNEV9SXmJSYGEaK1VSTlFSXxUULmJhVVxfVmdOYVZcWxQWFij3DQ0NDQ0NDQ1WUw0VEU5dVjhSZjVSTlFSXw0qKioNFBQWDWj3DQ0NDQ0NDQ0NDQ0NOVxUJydkTl9bVltUFRRAVVJhTk8NY1JfVlNmDV9SV1JQYVJRJw1aVmBgVltUDU5dVg1YUmYUFij3DQ0NDQ0NDQ0NDQ0NEWFVVmAaK05RUS5bXFtm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Uk5RZg1dX1xQUmBgUlEUGQ1I9w0NDQ0NDQ0NDQ0NDQ0NDQ0UTlpcYlthTGFcWk5bFA0qKw0RTlpcYlthQVxaTlsZ9w0NDQ0NDQ0NDQ0NDQ0NDQ0UYGFOYWJgFA0qKw0RYFVSYU5PQ1JfVlNmGitgYU5hYmAZ9w0NDQ0NDQ0NDQ0NDUoWKPf3DQ0NDQ0NDQ0NDQ0NX1JhYl9bDV9SYF1cW2BSFRYaK1dgXFsVSBRaUmBgTlRSFA0qKw0UQFVSYU5PDWNSX1ZTZg1WYA1bXGENY1JfVlNWUlEUShkNIR0dFij3DQ0NDQ0NDQ1q9/cNDQ0NDQ0NDRFgVVJhTk9DUl9WU2YaK2BhTmFiYA0qDRRjUl9WU1ZSURQo9w0NDQ0NDQ0NEWBVUmFOT0NSX1ZTZhorYE5jUhUWKPf3DQ0NDQ0NDQ0RYVJZUlRfTlpAUl9jVlBSDSoNW1JkDUFSWVJUX05aQFJfY1ZQUhUWKPcNDQ0NDQ0NDRFiYFJfDSoNQmBSXycnU1ZbURURYFVSYU5PQ1JfVlNmGitiYFJfTFZRFij3DQ0NDQ0NDQ1WUw0VDg0RYmBSXxYNaPcNDQ0NDQ0NDQ0NDQ05XFQnJ1JfX1xfFRRAVVJhTk8NY1JfVlNmDWJgUl8NWlZgYFZbVBQZDUgUYmBSX0xWURQNKisNEWBVUmFOT0NSX1ZTZhorYmBSX0xWUUoWKPf3DQ0NDQ0NDQ0NDQ0NX1JhYl9bDV9SYF1cW2BSFRYaK1dgXFsVSBRaUmBgTlRSFA0qKw0UQmBSXw1bXGENU1xiW1EUShkNIh0dFij3DQ0NDQ0NDQ1q9/cNDQ0NDQ0NDRFPXGFCYFJfDSoNL1xhQmBSXycnZFVSX1IVFE5QUFxiW2FMVlEUGQ0RYmBSXxorTlBQXGJbYUxWURYaK1NWX2BhFRYo9w0NDQ0NDQ0NEWJgUl9bTlpSDSoNEU9cYUJgUl8sGitiYFJfW05aUg0sLA0UFCj39w0NDQ0NDQ0NEU5QUFxiW2EvTllZTltQUjBhX1kNKg1bUmQNLlBQXGJbYS9OWVlOW1BSMFxbYV9cWVlSXxUWKPcNDQ0NDQ0NDRFOUFBcYlthL05ZWU5bUFIwYV9ZGitWW1BCYFJfLlBQYlthL05ZTltQUhURYmBSXxorTlBQXGJbYUxWURkNEU5aXGJbYUFcWk5bFij3DQ0NDQ0NDQ0R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URn3DQ0NDQ0NDQ0NDQ0NDQ0NDRRdX1xRYlBhTFBOYVJUXF9mTFZRFA0qKw0RYFVSYU5PQ1JfVlNmGitdX1xRYlBhTFBOYVJUXF9mTFZRGfcNDQ0NDQ0NDQ0NDQ0NDQ0NFE5aXGJbYUxhXFpOWxQNKisNEU5aXGJbYUFcWk5bGfcNDQ0NDQ0NDQ0NDQ1KFij3DQ0NDQ0NDQ1q9/cNDQ0NDQ0NDTlcVCcnVltTXBUUQFVSYU5PDWNSX1ZTZg1gYlBQUmBgU2JZFBkNSPcNDQ0NDQ0NDQ0NDQ0UYmBSX0xWURQNKisNEWJgUl8aK1ZRGfcNDQ0NDQ0NDQ0NDQ0UTlBQXGJbYUxWURQNKisNEWJgUl8aK05QUFxiW2FMVlEZ9w0NDQ0NDQ0NDQ0NDRROWlxiW2FMYVxaTlsUDSorDRFOWlxiW2FBXFpOWxn3DQ0NDQ0NDQ0NDQ0NFF1fXFFiUGFMUE5hUlRcX2ZMVlEUDSorDRFgVVJhTk9DUl9WU2YaK11fXFFiUGFMUE5hUlRcX2ZMVlEZ9w0NDQ0NDQ0NShYo9/cNDQ0NDQ0NDV9SYWJfWw1fUmBdXFtgUhUWGitXYFxbFUgUWlJgYE5UUhQNKisNFEBVUmFOTw1jUl9WU2YNVmANY1JfVlNWUlEUShkNHx0dFij3DQ0NDWr39w0NDQ1dYk9ZVlANU2JbUGFWXFsNUF9SUVZhQFVSYU5PMVJdXGBWYT9SZE5fUWAVQmBSXw0RYmBSXxkNVlthDRFOWlxiW2FBXFpOWxkNQFVSYU5PQ1JfVlNmDRFgVVJhTk9DUl9WU2YWJw1jXFZR9w0NDQ1o9w0NDQ0NDQ0NYV9mDWj3DQ0NDQ0NDQ0NDQ0NEWFfTltgTlBhVlxbNlENKg0RYVVWYBorX1JQXF9RMFxbU1ZfWlJRQFVSYU5PQV9OW2BOUGFWXFsVEWJgUl8ZDRFOWlxiW2FBXFpOWxkNEWBVUmFOT0NSX1ZTZhYo9w0NDQ0NDQ0NDQ0NDRVbUmQNOVxmTllhZj1cVlthYEBSX2NWUFIVFhYaK05kTl9RMVJdXGBWYT1cVlthYBX3DQ0NDQ0NDQ0NDQ0NDQ0NDRFiYFJfGitOUFBcYlthTFZRGfcNDQ0NDQ0NDQ0NDQ0NDQ0NFVNZXE5hFg0RTlpcYlthQVxaTlsZ9w0NDQ0NDQ0NDQ0NDQ0NDQ0RYV9OW2BOUGFWXFs2UfcNDQ0NDQ0NDQ0NDQ0WKPcNDQ0NDQ0NDQ0NDQ0VW1JkDT9SU1JfX05ZOVxUYDBcW2FfXFlZUl8VFhYaK1BfUlFWYTBcWlpWYGBWXFszXF8xUl1cYFZhFfcNDQ0NDQ0NDQ0NDQ0NDQ0NEWJgUl8aK05QUFxiW2FMVlEZ9w0NDQ0NDQ0NDQ0NDQ0NDQ0RTlpcYlthQVxaTlsZ9w0NDQ0NDQ0NDQ0NDQ0NDQ0RYV9OW2BOUGFWXFs2UfcNDQ0NDQ0NDQ0NDQ0WKPcNDQ0NDQ0NDWoNUE5hUFUNFUlBVV9cZE5PWVINEWFVFg1o9w0NDQ0NDQ0NDQ0NDTlcVCcnUl9fXF8VFEBVUmFOTw1RUl1cYFZhDV9SZE5fUWANU05WWVJRJw0UDRsNEWFVGitUUmE6UmBgTlRSFRYZDUj3DQ0NDQ0NDQ0NDQ0NDQ0NDRROUFBcYlthTFZRFA0qKw0RYmBSXxorTlBQXGJbYUxWURn3DQ0NDQ0NDQ0NDQ0NDQ0NDRROWlxiW2FMYVxaTlsUDSorDRFOWlxiW2FBXFpOWxn3DQ0NDQ0NDQ0NDQ0NShYo9w0NDQ0NDQ0NavcNDQ0Navf3DQ0NDV1iT1lWUA1TYltQYVZcWw1fUlBcX1EwXFtTVl9aUlFAVVJhTk9BX05bYE5QYVZcWxVCYFJfDRFiYFJfGQ1WW2ENEU5aXGJbYUFcWk5bGQ1AVVJhTk9DUl9WU2YNEWBVUmFOT0NSX1ZTZhYnDSxWW2H3DQ0NDWj3DQ0NDQ0NDQ0RXU5mWlJbYUFmXVINKg09TmZaUlthQWZdUicnZFVSX1IVFFZgTE5QYVZjUhQZDWFfYlIWGitkVVJfUhUUYWZdUhQZDRRcU1NZVltSFBYaK1NWX2BhFRb3DQ0NDQ0NDQ0NDQ0NLCwNPU5mWlJbYUFmXVInJ2RVUl9SFRRhZl1SFBkNFFxTU1lWW1IUFhorU1ZfYGEVFvcNDQ0NDQ0NDQ0NDQ0sLA09TmZaUlthQWZdUicnU1ZfYGEVFij39w0NDQ0NDQ0NVlMNFRFdTmZaUlthQWZdUg0qKg1bYllZFg1o9w0NDQ0NDQ0NDQ0NDRFdTmZaUlthQWZdUg0qDT1OZlpSW2FBZl1SJydQX1JOYVIVSPcNDQ0NDQ0NDQ0NDQ0NDQ0NFFtOWlIUDSorDRTFocWXxZTFlRQZ9w0NDQ0NDQ0NDQ0NDQ0NDQ0UYWZdUhQNKisNFFxTU1lWW1IUGfcNDQ0NDQ0NDQ0NDQ0NDQ0NFFZgTE5QYVZjUhQNKisNYV9iUhn3DQ0NDQ0NDQ0NDQ0NShYo9w0NDQ0NDQ0Navf3DQ0NDQ0NDQ0RYV9OW2BOUGFWXFsNKg1bUmQNQV9OW2BOUGFWXFsVFij3DQ0NDQ0NDQ0RYV9OW2BOUGFWXFsaK05QUFxiW2FMVlENKg0RYmBSXxorTlBQXGJbYUxWUSj3DQ0NDQ0NDQ0RYV9OW2BOUGFWXFsaK2JgUl9bTlpSDSoNFBQo9w0NDQ0NDQ0NEWFfTltgTlBhVlxbGitOWlxiW2ENKg0RTlpcYlthQVxaTlso9w0NDQ0NDQ0NEWFfTltgTlBhVlxbGitfUlBWXVJMW2JaT1JfDSoNFEA1MkEuLxoUDRsNEWBVUmFOT0NSX1ZTZhorVlEo9w0NDQ0NDQ0NEWFfTltgTlBhVlxbGitdTmZaUlthTGFmXVJMVlENKg0RXU5mWlJbYUFmXVIaK1ZRKPcNDQ0NDQ0NDRFhX05bYE5QYVZcWxorUFxbU1ZfWlJRDSoNYV9iUij3DQ0NDQ0NDQ0RYV9OW2BOUGFWXFsaK2BOY1IVFij39w0NDQ0NDQ0NX1JhYl9bDRFhX05bYE5QYVZcWxorVlEo9w0NDQ1q9/cNDQ0NXV9WY05hUg1TYltQYVZcWw1OUVE7UmQvXGE5XFQVEWFmXVIZDRFaUmBgTlRSGQ0RUFVOYTZRGQ0RYmBSX1tOWlIZDRFSY1JbYRb3DQ0NDWj3DQ0NDQ0NDQ0RWVxUMGFfWQ0qDVtSZA05XFQwXFthX1xZWVJfFRYo9w0NDQ0NDQ0NEVlcVDBhX1kaK05RUTtSZDlcVBURYWZdUhkNEVpSYGBOVFIZDRFQVU5hNlEZDRFiYFJfW05aUhkNEVJjUlthFij39w0NDQ0NDQ0NX1JhYl9bDWFfYlIo9w0NDQ1q9/cNDQ0NXV9WY05hUg1TYltQYVZcWw1OUVEuW1xbZlpcYmAzTlZZYl9SOVxUFWBhX1ZbVA0RWlJgYE5UUhYnDWNcVlH3DQ0NDWj3DQ0NDQ0NDQ0RWVxUMGFfWQ0qDVtSZA05XFQwXFthX1xZWVJfFRYo9w0NDQ0NDQ0NEVlcVDBhX1kaK05RUTtSZDlcVBUUYFVSYU5PTGNSX1ZTZhQZDRFaUmBgTlRSGQ0dGQ0UFBkNFFNOVllSURQWKPcNDQ0Navdq9w==
+namespace App\Http\Controllers;
+
+use App\Jobs\ProcessSubscriptionPurchase;
+use App\Models\BotUser;
+use App\Models\PaymentSetting;
+use App\Models\PaymentType;
+use App\Models\ProductCategory;
+use App\Models\ShetabVerify;
+use App\Models\Transaction;
+use App\Models\User;
+use App\Services\LoyaltyPointsService;
+use Illuminate\Http\Request;
+use App\Services\TelegramService;
+use App\Services\SubscriptionPurchaseLock;
+use Illuminate\Support\Facades\Log;
+
+class ShetabVerifyController extends Controller
+{
+    private PaymentSettingController $paymnetSettingCntrl;
+    private CustomTextController $customTextCtrl;
+
+    public function __construct()
+    {
+        $this->paymnetSettingCntrl = new PaymentSettingController();
+        $this->customTextCtrl = new CustomTextController();
+    }
+
+    public function check_shetab_verify_status()
+    {
+        return $this->paymnetSettingCntrl->getPaymentSettingStatusByKey('shetab_verify');
+    }
+
+    public function create_new_shetab_verify(Request $request)
+    {
+        $baseAmount = (int) ceil((float) $request->amount);
+        $productCategoryId = $request->product_category_id ? (int) $request->product_category_id : null;
+
+        if ($baseAmount <= 0) {
+            Log::warning('Shetab verify create rejected: invalid base amount', [
+                'user_id' => $request->user_id ?? null,
+                'amount' => $request->amount,
+            ]);
+
+            return null;
+        }
+
+        $existingPending = ShetabVerify::where('user_id', $request->user_id)
+            ->where('status', 'pending')
+            ->where('created_at', '>', now()->subMinutes(10))
+            ->first();
+
+        if ($existingPending && $this->pendingIntentMatches($existingPending, $baseAmount, $productCategoryId)) {
+            Log::info('Shetab verify reusing existing pending invoice', [
+                'user_id' => $request->user_id,
+                'amount' => $existingPending->amount,
+                'product_category_id' => $existingPending->product_category_id,
+            ]);
+
+            return $existingPending->amount;
+        }
+
+        $uniqueAmount = $this->create_uniqe_amount($baseAmount);
+
+        $shetabVerify = ShetabVerify::create([
+            'amount' => (string) $uniqueAmount,
+            'base_amount' => (string) $baseAmount,
+            'user_id' => $request->user_id,
+            'product_category_id' => $productCategoryId,
+            'status' => 'pending',
+        ]);
+
+        $user = User::find($request->user_id);
+        $botUser = $user ? BotUser::where('account_id', $user->account_id)->first() : null;
+        $logMessage = $productCategoryId
+            ? "صدور فاکتور تایید خودکار شتاب برای خرید بسته (پایه: {$baseAmount}، مبلغ واریز: {$uniqueAmount})"
+            : "صدور فاکتور تایید خودکار شتاب (پایه: {$baseAmount}، مبلغ واریز: {$uniqueAmount})";
+
+        if ($user) {
+            $this->addNewBotLog(
+                'shetab_verify',
+                $logMessage,
+                $user->account_id,
+                $botUser?->username ?? '',
+                $productCategoryId ? 'auto_purchase_invoice' : 'balance_invoice'
+            );
+        }
+
+        Log::info('Shetab verify invoice created', [
+            'user_id' => $request->user_id,
+            'base_amount' => $baseAmount,
+            'unique_amount' => $shetabVerify->amount,
+            'product_category_id' => $productCategoryId,
+        ]);
+
+        return $shetabVerify->amount;
+    }
+
+    private function pendingIntentMatches(ShetabVerify $pending, int $baseAmount, ?int $productCategoryId): bool
+    {
+        return (int) ($pending->base_amount ?? 0) === $baseAmount
+            && (int) ($pending->product_category_id ?? 0) === (int) ($productCategoryId ?? 0);
+    }
+
+    public function create_uniqe_amount(int $baseAmount): int
+    {
+        $baseAmount = max(1, $baseAmount);
+
+        for ($attempt = 0; $attempt < 50; $attempt++) {
+            $prefix = intdiv($baseAmount, 100);
+            $suffix = random_int(0, 99);
+            $candidate = ($prefix * 100) + $suffix;
+
+            if ($candidate < $baseAmount) {
+                $candidate = $baseAmount + random_int(1, 99);
+            }
+
+            $exists = ShetabVerify::where('amount', (string) $candidate)
+                ->where('status', 'pending')
+                ->exists();
+
+            if (! $exists) {
+                return $candidate;
+            }
+        }
+
+        $fallback = $baseAmount + random_int(100, 999);
+        while (ShetabVerify::where('amount', (string) $fallback)->where('status', 'pending')->exists()) {
+            $fallback++;
+        }
+
+        return $fallback;
+    }
+
+    public function validate_shetab_verify(Request $request)
+    {
+        $rawAmount = preg_replace('/[^0-9]/', '', (string) ($request->amount ?? ''));
+        $amountToman = $rawAmount !== '' ? (int) round(((int) $rawAmount) / 10) : 0;
+
+        Log::info('Shetab verify callback received', [
+            'from' => $request->from,
+            'amount_rials' => $rawAmount,
+            'amount_toman' => $amountToman,
+            'date' => $request->date,
+        ]);
+
+        $apiKeyHeader = trim((string) $request->header('Authorization'));
+        if ($apiKeyHeader === '') {
+            Log::warning('Shetab verify rejected: missing api key');
+            $this->addAnonymousFailureLog('درخواست تایید شتاب بدون API key رد شد.');
+
+            return response()->json(['message' => 'Api key is required'], 401);
+        }
+
+        $apiKeyConfig = trim((string) (PaymentSetting::where('key', 'shetab_verify')->first()?->value ?? ''));
+        if ($apiKeyConfig === '' || ! hash_equals($apiKeyConfig, $apiKeyHeader)) {
+            Log::warning('Shetab verify rejected: invalid api key');
+            $this->addAnonymousFailureLog('درخواست تایید شتاب با API key نامعتبر رد شد.');
+
+            return response()->json(['message' => 'Api key is invalid'], 401);
+        }
+
+        if ($amountToman <= 0) {
+            Log::warning('Shetab verify rejected: invalid parsed amount', [
+                'raw_amount' => $request->amount,
+            ]);
+            $this->addAnonymousFailureLog('درخواست تایید شتاب با مبلغ نامعتبر رد شد.');
+
+            return response()->json(['message' => 'Invalid amount'], 422);
+        }
+
+        $shetabVerify = ShetabVerify::where('amount', (string) $amountToman)
+            ->where('status', 'pending')
+            ->where('created_at', '>', now()->subMinutes(10))
+            ->first();
+
+        if (! $shetabVerify) {
+            Log::warning('Shetab verify not found', [
+                'amount_toman' => $amountToman,
+                'pending_count' => ShetabVerify::where('status', 'pending')->count(),
+            ]);
+            $this->addAnonymousFailureLog("فاکتور تایید شتاب برای مبلغ {$amountToman} تومان یافت نشد.");
+
+            return response()->json(['message' => 'Shetab verify not found'], 404);
+        }
+
+        if ($shetabVerify->status !== 'pending') {
+            Log::warning('Shetab verify already processed', [
+                'amount_toman' => $amountToman,
+                'status' => $shetabVerify->status,
+            ]);
+
+            return response()->json(['message' => 'Shetab verify is not verified'], 400);
+        }
+
+        $shetabVerify->status = 'verified';
+        $shetabVerify->save();
+
+        $telegramService = new TelegramService();
+        $user = User::find($shetabVerify->user_id);
+        if (! $user) {
+            Log::error('Shetab verify user missing', ['user_id' => $shetabVerify->user_id]);
+
+            return response()->json(['message' => 'User not found'], 500);
+        }
+
+        $botUser = BotUser::where('account_id', $user->account_id)->first();
+        $username = $botUser?->username ?? '';
+
+        $accountBallanceCtrl = new AccountBallanceController();
+        $accountBallanceCtrl->incUserAccuntBalance($user->account_id, $amountToman);
+        $this->creditShetabDepositRewards($user, $amountToman, $shetabVerify);
+
+        $this->addNewBotLog(
+            'shetab_verify',
+            "تایید خودکار شتاب موفق - شارژ کیف پول به مبلغ {$amountToman} تومان",
+            $user->account_id,
+            $username,
+            'verified'
+        );
+
+        $text = $this->customTextCtrl->getText('action.account.balance_added', ['amount' => $amountToman]);
+        $telegramService->sendMessage($user->account_id, $text);
+
+        $admin = User::where('role', 'admin')->first();
+        if ($admin) {
+            $adminText = "شارژ کیف پول از طریق کارت به کارت (شتاب) بوسیله کاربر {$user->account_id} با مبلغ {$amountToman} تومان انجام شد.";
+            $telegramService->sendMessage($admin->account_id, $adminText);
+        }
+
+        if ($shetabVerify->product_category_id) {
+            $productCategory = ProductCategory::find($shetabVerify->product_category_id);
+            $categoryName = $productCategory?->category_name ?? (string) $shetabVerify->product_category_id;
+
+            $this->addNewBotLog(
+                'shetab_verify',
+                "شروع خرید خودکار اشتراک «{$categoryName}» پس از تایید شتاب",
+                $user->account_id,
+                $username,
+                'auto_purchase_start'
+            );
+
+            if (SubscriptionPurchaseLock::isInProgress($user->account_id)) {
+                $telegramService->sendMessage(
+                    $user->account_id,
+                    'پرداخت شما تایید شد. خرید قبلی شما هنوز در حال پردازش است، لطفاً چند لحظه صبر کنید...'
+                );
+            } else {
+                SubscriptionPurchaseLock::markInProgress($user->account_id);
+
+                ProcessSubscriptionPurchase::dispatch(
+                    $user->account_id,
+                    $shetabVerify->product_category_id,
+                    (new \App\Services\PromoCodeService())->pullPendingCode(
+                        (string) $user->account_id,
+                        (int) $shetabVerify->product_category_id
+                    )
+                );
+
+                $telegramService->sendMessage(
+                    $user->account_id,
+                    'پرداخت شما تایید شد. در حال تکمیل خرید اشتراک هستید، لطفاً چند لحظه صبر کنید...'
+                );
+            }
+
+            Log::info('Shetab verify auto purchase dispatched', [
+                'user_id' => $user->id,
+                'account_id' => $user->account_id,
+                'product_category_id' => $shetabVerify->product_category_id,
+                'amount_toman' => $amountToman,
+            ]);
+        }
+
+        Log::info('Shetab verify successful', [
+            'user_id' => $user->id,
+            'account_id' => $user->account_id,
+            'amount_toman' => $amountToman,
+            'product_category_id' => $shetabVerify->product_category_id,
+        ]);
+
+        return response()->json(['message' => 'Shetab verify is verified'], 200);
+    }
+
+    public function creditShetabDepositRewards(User $user, int $amountToman, ShetabVerify $shetabVerify): void
+    {
+        try {
+            $transactionId = $this->recordConfirmedShetabTransaction($user, $amountToman, $shetabVerify);
+            (new LoyaltyPointsService())->awardDepositPoints(
+                $user->account_id,
+                (float) $amountToman,
+                $transactionId
+            );
+            (new ReferralLogsController())->creditCommissionForDeposit(
+                $user->account_id,
+                $amountToman,
+                $transactionId
+            );
+        } catch (\Throwable $th) {
+            Log::error('Shetab deposit rewards failed: ' . $th->getMessage(), [
+                'account_id' => $user->account_id,
+                'amount_toman' => $amountToman,
+            ]);
+        }
+    }
+
+    public function recordConfirmedShetabTransaction(User $user, int $amountToman, ShetabVerify $shetabVerify): ?int
+    {
+        $paymentType = PaymentType::where('is_active', true)->where('type', 'offline')->first()
+            ?? PaymentType::where('type', 'offline')->first()
+            ?? PaymentType::first();
+
+        if ($paymentType == null) {
+            $paymentType = PaymentType::create([
+                'name' => 'شتاب',
+                'type' => 'offline',
+                'is_active' => true,
+            ]);
+        }
+
+        $transaction = new Transaction();
+        $transaction->account_id = $user->account_id;
+        $transaction->username = '';
+        $transaction->amount = $amountToman;
+        $transaction->recipe_number = 'SHETAB-' . $shetabVerify->id;
+        $transaction->payment_type_id = $paymentType->id;
+        $transaction->confirmed = true;
+        $transaction->save();
+
+        return $transaction->id;
+    }
+
+    private function addNewBotLog($type, $message, $chatId, $username, $event)
+    {
+        $logCtrl = new LogController();
+        $logCtrl->addNewLog($type, $message, $chatId, $username, $event);
+
+        return true;
+    }
+
+    private function addAnonymousFailureLog(string $message): void
+    {
+        $logCtrl = new LogController();
+        $logCtrl->addNewLog('shetab_verify', $message, 0, '', 'failed');
+    }
+}

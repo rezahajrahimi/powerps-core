@@ -1,3 +1,22 @@
 <?php
-bolt_decrypt( __FILE__ , '0Wku0B'); return 0;
-##!!!##4+NHOkY+TEk6PD75GklJNSZIPT5FTBTj405MPvkiRUVORkJHOk0+NR06TTo7Okw+NR5FSEpOPkdNNR86PE1IS0I+TDUhOkwfOjxNSEtSFONOTD75IkVFTkZCRzpNPjUdOk06OzpMPjUeRUhKTj5HTTUmSD0+RRTj4zxFOkxM+S5MPksgS0hOSSk6UkY+R00mPk1BSD35PlFNPkc9TPkmSD0+ReNU4/n5+flOTD75ITpMHzo8TUhLUhTj4/n5+flJS0hNPjxNPj35/T9CRUU6O0U++Rb5NABOTD5LOEBLSE5JOEI9AAX5AEk6UkY+R004RD5SAAX5AEJMOD5HOjtFPj0ANhTj4/n5+flJS0hNPjxNPj35/Tw6TE1M+Rb5NOP5+fn5+fn5+QBCTDg+Rzo7RT49APkWF/kAO0hIRT46RwAF4/n5+fk2FOPj+fn5+UlOO0VCPPk/Tkc8TUJIR/lOTD5LIEtITkkBAuP5+fn5VOP5+fn5+fn5+Us+TU5LR/n9TUFCTAYXOz5FSEdATC1IAS5MPksgS0hOSRMTPEU6TEwCFOP5+fn5VuNW4w==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class UserGroupPaymentMethod extends Model
+{
+    use HasFactory;
+
+    protected $fillable = ['user_group_id', 'payment_key', 'is_enabled'];
+
+    protected $casts = [
+        'is_enabled' => 'boolean',
+    ];
+
+    public function userGroup()
+    {
+        return $this->belongsTo(UserGroup::class);
+    }
+}

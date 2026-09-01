@@ -1,3 +1,66 @@
 <?php
-bolt_decrypt( __FILE__ , 'f546J9'); return 0;
-##!!!##kpL26fXt+/jp6+2oyfj45Nj39PHr8e37w5KS/fvtqMn4+OTV9+zt9Pvk3fvt+sOS/fvtqMn4+OTV9+zt9Pvk3+3qyfj41e32/dH87fXDkv377ajR9PT99fH26fzt5Mn9/PDkyevr7fv75Nrt+/j39vvtw5KS6/Tp+/uo3+3qyfj41e32/dH87fXY9/Tx6wGSA5KoqKiot7KykqioqKiosqjM7fzt+vXx9u2o//Dt/PDt+qj88O2o/fvt+qjr6fao/vHt/6jp9gGo9ffs7fT7tpKoqKioqLK3kqioqKj4/er08euo7v326/zx9/ao/vHt/8n2AbDd++36qKz9++36scKo6vf39JKoqKioA5KoqKioqKioqLe3kqioqKgFkpKoqKiot7KykqioqKiosqjM7fzt+vXx9u2o//Dt/PDt+qj88O2o/fvt+qjr6fao/vHt/6j88O2o9ffs7fS2kqioqKiosreSqKioqPj96vTx66ju/fbr/PH39qj+8e3/sN377fqorP377fq0qN/t6sn4+NXt9v3R/O31qKz/7erJ+PjV7fb90fzt9bHCqOr39/SSqKioqAOSqKioqKioqKi3t5KoqKioBZKSqKioqLeyspKoqKioqLKozO387fr18fbtqP/w7fzw7fqo/PDtqP377fqo6+n2qOv67en87aj19+zt9Pu2kqioqKiosreSqKioqPj96vTx66ju/fbr/PH39qjr+u3p/O2w3fvt+qis/fvt+rHCqOr39/SSqKioqAOSqKioqKioqKi3t5KoqKioBZKSqKioqLeyspKoqKioqLKozO387fr18fbtqP/w7fzw7fqo/PDtqP377fqo6+n2qP347On87aj88O2o9ffs7fS2kqioqKiosreSqKioqPj96vTx66ju/fbr/PH39qj9+Ozp/O2w3fvt+qis/fvt+rSo3+3qyfj41e32/dH87fWorP/t6sn4+NXt9v3R/O31scKo6vf39JKoqKioA5KoqKioqKioqLe3kqioqKgFkpKoqKiot7KykqioqKiosqjM7fzt+vXx9u2o//Dt/PDt+qj88O2o/fvt+qjr6fao7O307fztqPzw7aj19+zt9LaSqKioqKiyt5KoqKio+P3q9PHrqO799uv88ff2qOzt9O387bDd++36qKz9++36tKjf7erJ+PjV7fb90fzt9ais/+3qyfj41e32/dH87fWxwqjq9/f0kqioqKgDkqioqKioqKiot7eSqKioqAWSkqioqKi3srKSqKioqKiyqMzt/O369fH27aj/8O388O36qPzw7aj9++36qOvp9qj67fv89/rtqPzw7aj19+zt9LaSqKioqKiyt5KoqKio+P3q9PHrqO799uv88ff2qPrt+/z3+u2w3fvt+qis/fvt+rSo3+3qyfj41e32/dH87fWorP/t6sn4+NXt9v3R/O31scKo6vf39JKoqKioA5KoqKioqKioqLe3kqioqKgFkpKoqKiot7KykqioqKiosqjM7fzt+vXx9u2o//Dt/PDt+qj88O2o/fvt+qjr6fao+O369en27fb89AGo7O307fztqPzw7aj19+zt9LaSqKioqKiyt5KoqKio+P3q9PHrqO799uv88ff2qO73+uvtzO307fztsN377fqorP377fq0qN/t6sn4+NXt9v3R/O31qKz/7erJ+PjV7fb90fzt9bHCqOr39/SSqKioqAOSqKioqKioqKi3t5KoqKioBZIFkg==
+
+namespace App\Policies;
+
+use App\Models\User;
+use App\Models\WebAppMenuItem;
+use Illuminate\Auth\Access\Response;
+
+class WebAppMenuItemPolicy
+{
+    /**
+     * Determine whether the user can view any models.
+     */
+    public function viewAny(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can view the model.
+     */
+    public function view(User $user, WebAppMenuItem $webAppMenuItem): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can create models.
+     */
+    public function create(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can update the model.
+     */
+    public function update(User $user, WebAppMenuItem $webAppMenuItem): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can delete the model.
+     */
+    public function delete(User $user, WebAppMenuItem $webAppMenuItem): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can restore the model.
+     */
+    public function restore(User $user, WebAppMenuItem $webAppMenuItem): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can permanently delete the model.
+     */
+    public function forceDelete(User $user, WebAppMenuItem $webAppMenuItem): bool
+    {
+        //
+    }
+}

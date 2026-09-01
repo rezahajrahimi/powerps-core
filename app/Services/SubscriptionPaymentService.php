@@ -1,3 +1,202 @@
 <?php
-bolt_decrypt( __FILE__ , 'nXmzxK'); return 0;
-##!!!##enre0d3V4+DR09WQseDgzMPV4ubZ09Xjq3p65ePVkLHg4My45OTgzLPf3uTi39zc1eLjzLHT09/l3uSy0dzc0d7T1bPf3uTi39zc1eKreuXj1ZCx4ODMuOTk4Myz397k4t/c3NXi48y839ez397k4t/c3NXiq3rl49WQseDgzLjk5ODMs9/e5OLf3NzV4uPMwNHp3dXe5MPV5OTZ3tez397k4t/c3NXiq3rl49WQseDgzLjk5ODMs9/e5OLf3NzV4uPMwtXW1eLi0dzH0dzc1eSz397k4t/c3NXiq3rl49WQudzc5d3Z3tHk1cy45OTgzLrj397C1ePg397j1at65ePVkLnc3OXd2d7R5NXMuOTk4MzC1eHl1ePkq3p609zR4+OQw+XS49Pi2eDk2d/ewNHp3dXe5MPV4ubZ09V663qQkJCQ4OXS3NnTkNPf3uPkkMO/xcKztc/Ev72xvpCtkJfk393R3perenqQkJCQ4OXS3NnTkNPf3uPkkMO/xcKztc+0v7y8scKQrZCX1N/c3NHil6t6epCQkJDg5dLc2dOQ09/e4+SQw7/FwrO1z8K1trXCwrG8kK2Ql+LV1tXi4tHcl6t6epCQkJDg5dLc2dOQ1uXe0+TZ396Qz8/T397j5OLl0+SYepCQkJCQkJCQ4OLZ5tHk1ZDi1dHU397c6ZCx09Pf5d7kstHc3NHe09Wz397k4t/c3NXikJTR09Oy3LPk4tyQrZDe1eeQsdPT3+Xe5LLR3NzR3tPVs9/e5OLf3NzV4piZnHqQkJCQkJCQkODi2ebR5NWQ4tXR1N/e3OmQwNHp3dXe5MPV5OTZ3tez397k4t/c3NXikJTg0end1d7kw9Xk5Nne17Pk4tyQrZDe1eeQwNHp3dXe5MPV5OTZ3tez397k4t/c3NXimJmcepCQkJCQkJCQ4OLZ5tHk1ZDi1dHU397c6ZDC1dbV4uLR3MfR3NzV5LPf3uTi39zc1eKQlOLV1tXi4tHcs+Ti3JCtkN7V55DC1dbV4uLR3MfR3NzV5LPf3uTi39zc1eKYmZx6kJCQkJCQkJDg4tnm0eTVkOLV0dTf3tzpkLzf17Pf3uTi39zc1eKQlNzf17Pk4tyQrZDe1eeQvN/Xs9/e5OLf3NzV4piZnHqQkJCQmZDrepCQkJDtenqQkJCQn5qaepCQkJCQmpCw4tXk5eLekNHi4tHp6+Pl09PV4+OqkNLf39yckOPf5eLT1aqQr+Pk4tne15yQ0d3f5d7kz+Tf3dHeqpDW3N/R5JyQ0d3f5d7kz9Tf3NzR4qqQ1tzf0eTtepCQkJCQmp96kJCQkODl0tzZ05DW5d7T5Nnf3pDT2NHi19WYepCQkJCQkJCQ2d7k7OPk4tne15CU09jR5LnUnHqQkJCQkJCQkNbc39HkkJTg4t/U5dPkwOLZ09XE393R3px6kJCQkJCQkJDW3N/R5JCU4OLf1OXT5MDi2dPVtN/c3NHinHqQkJCQkJCQkNLf39yQlNjR48LV1tXi4tHcstHc0d7T1Zx6kJCQkJCQkJDj5OLZ3teQlOXj1eLe0d3VkK2Ql5ecepCQkJCQkJCQ4+Ti2d7XkJTc39ez397k1ejkkK2Ql+Pl0uPT4tng5Nnf3pecepCQkJCZqpDR4uLR6ZDrepCQkJCQkJCQlOLV4eXV4+SQrZDe1eeQwtXh5dXj5JiZq3qQkJCQkJCQkJTi1eHl1ePkna7l49XiubSQrZCU09jR5LnUq3qQkJCQkJCQkJTi1eHl1ePkna7S0dzc0d7T1ZCtkJTg4t/U5dPkwOLZ09XE393R3qt6kJCQkJCQkJCU4tXh5dXj5J2u5Ong1ZCtkOPV3NaqqsO/xcKztc/Ev72xvqt6epCQkJCQkJCQlNLR3NHe09WQrZCU5NjZ452u0dPTstyz5OLcna7U1dPi1dHj1cXj1eKx09Pl3uSy0dzR3tPVsunF49XiubSYlOLV4eXV4+SZq3qQkJCQkJCQkMy839eqqtne1t+Yl+Di39PV4+PA0end1d7kkNLR3NHe09WqkJeQnpDm0eLP1ejg3+LkmJTS0dzR3tPVnJDk4uXVmZmrenqQkJCQkJCQkNnWkJiU5NjZ452u2eO01dPi1dHj1cPl09PV4+PW5dyYlNLR3NHe09WZmZDrepCQkJCQkJCQkJCQkJTk2Nnjna7c39ez5OLcna7R1NS+1ee839eYepCQkJCQkJCQkJCQkJCQkJCU3N/Xs9/e5NXo5Jx6kJCQkJCQkJCQkJCQkJCQkJdKGUgjSCGQSfVJ+EgcSfhIH0v8kEgXSCKQShlL/EnxkEkuSfhJ9JBKGUgXSCFIGEghkEgYSfeQSfVJ8kgfSBdIIZCXkJ6QlODi39Tl0+TA4tnT1cTf3dHekJ6Ql5BIGkn4SfVIF0n2l5x6kJCQkJCQkJCQkJCQkJCQkJTT2NHkudScepCQkJCQkJCQkJCQkJCQkJCU5ePV4t7R3dWcepCQkJCQkJCQkJCQkJCQkJCX4+XT09Xj45d6kJCQkJCQkJCQkJCQmat6epCQkJCQkJCQkJCQkOLV5OXi3pCU5NjZ452u09jR4tfVwtXj5dzkmOTi5dWckOPV3NaqqsO/xcKztc/Ev72xvpyQlODi39Tl0+TA4tnT1cTf3dHenJCgnqCZq3qQkJCQkJCQkO16epCQkJCQkJCQlNTf3NzR4sTi0d7j0dPk2d/ekK2QlOTY2eOdruDR6d3V3uTD1eTk2d7Xs+Ti3J2u19XkwNHp3dXe5MPV5OTZ3tfD5NHk5eOy6bvV6ZiX5ePUz+Ti0d7j0dPk2d/el5mrepCQkJCQkJCQzLzf16qq2d7W35iX1N/c3NHixOLR3uPR0+TZ396qkJeQnpDm0eLP1ejg3+LkmJTU39zc0eLE4tHe49HT5Nnf3pyQ5OLl1ZmZq3p6kJCQkJCQkJDZ1pCYlNTf3NzR4sTi0d7j0dPk2d/ekK2tkOTi5dWQ7OyQlNTf3NzR4sTi0d7j0dPk2d/ekK2tkKGZkOt6kJCQkJCQkJCQkJCQlOLV4eXV4+SdrtLR3NzR3tPVkK2QlODi39Tl0+TA4tnT1bTf3NzR4qt6kJCQkJCQkJCQkJCQlOLV4eXV4+SdruTp4NWQrZDj1dzWqqrDv8XCs7XPtL+8vLHCq3qQkJCQkJCQkJCQkJCU0tHc0d7T1ZCtkJTk2Nnjna7R09Oy3LPk4tydrtTV0+LV0ePVxePV4rHT0+Xe5LLR3NHe09Wy6cXj1eK5tJiU4tXh5dXj5JmrenqQkJCQkJCQkJCQkJDZ1pCYlOTY2eOdrtnjtNXT4tXR49XD5dPT1ePj1uXcmJTS0dzR3tPVmZmQ63qQkJCQkJCQkJCQkJCQkJCQlOTY2eOdrtzf17Pk4tydrtHU1L7V57zf15h6kJCQkJCQkJCQkJCQkJCQkJCQkJCU3N/Xs9/e5NXo5Jx6kJCQkJCQkJCQkJCQkJCQkJCQkJCXShlII0ghkEn1SfhIHEn4SB9L/JBIF0gikEoZS/xJ8ZBJLkn4SfSQShlIF0ghSBhIIZBIGEn3kEn1SfJIH0gXSCGQl5CekJTg4t/U5dPkwOLZ09W039zc0eKQnpCXkEgfSfRIF0ghl5x6kJCQkJCQkJCQkJCQkJCQkJCQkJCU09jR5LnUnHqQkJCQkJCQkJCQkJCQkJCQkJCQkJTl49Xi3tHd1Zx6kJCQkJCQkJCQkJCQkJCQkJCQkJCX4+XT09Xj45d6kJCQkJCQkJCQkJCQkJCQkJmrenqQkJCQkJCQkJCQkJCQkJCQ4tXk5eLekJTk2Nnjna7T2NHi19XC1ePl3OSY5OLl1ZyQ49Xc1qqqw7/FwrO1z7S/vLyxwpyQoJ6gnJCU4OLf1OXT5MDi2dPVtN/c3NHimat6kJCQkJCQkJCQkJCQ7XqQkJCQkJCQkO16epCQkJCQkJCQ2daQmJTY0ePC1dbV4uLR3LLR3NHe09WQra2Q5OLl1ZDs7JCU2NHjwtXW1eLi0dyy0dzR3tPVkK2tkKGZkOt6kJCQkJCQkJCQkJCQlNLR3NHe09WQrZCU5NjZ452u4tXW1eLi0dyz5OLcna7U1dPP5ePV4s/i1dbP59Hc3NXkz9LR3NzR3tPVmJTT2NHkudSckJTg4t/U5dPkwOLZ09XE393R3pmrepCQkJCQkJCQkJCQkMy839eqqtne1t+Yl+Di39PV4+PA0end1d7kkOLV1tXi4tHckNLR3NHe09WqkJeQnpDm0eLP1ejg3+LkmJTS0dzR3tPVnJDk4uXVmZmrenqQkJCQkJCQkJCQkJDZ1pCYlNLR3NHe09WQra2tkOTi5dWZkOt6kJCQkJCQkJCQkJCQkJCQkJTk2Nnjna7c39ez5OLcna7R1NS+1ee839eYepCQkJCQkJCQkJCQkJCQkJCQkJCQlNzf17Pf3uTV6OScepCQkJCQkJCQkJCQkJCQkJCQkJCQl0oZSCNIIZBJ9Un4SBxJ+EgfS/yQSBdIIpBKGUv8SfGQSS5J+En0kEn3SfVKGUgXSCFL/JBIGEn3kEn1SfJIH0gXSCGQl5CekJTg4t/U5dPkwOLZ09XE393R3pCekJeQSBpJ+En1SBdJ9pecepCQkJCQkJCQkJCQkJCQkJCQkJCQlNPY0eS51Jx6kJCQkJCQkJCQkJCQkJCQkJCQkJCU5ePV4t7R3dWcepCQkJCQkJCQkJCQkJCQkJCQkJCQl+Pl09PV4+OXepCQkJCQkJCQkJCQkJCQkJCZq3p6kJCQkJCQkJCQkJCQkJCQkOLV5OXi3pCU5NjZ452u09jR4tfVwtXj5dzkmOTi5dWckOPV3NaqqsO/xcKztc/Ctba1wsKxvJyQlODi39Tl0+TA4tnT1cTf3dHenJCgnqCZq3qQkJCQkJCQkJCQkJDtepCQkJCQkJCQ7Xp6kJCQkJCQkJDi1eTl4t6QlOTY2eOdrtPY0eLX1cLV4+Xc5JjW0dzj1ZyQ3uXc3JyQoJ6gnJCgnqCZq3qQkJCQ7Xp6kJCQkJ+amnqQkJCQkJqQsODR4tHdkJDR4uLR6evj5dPT1ePjqpDS39/cnJDj3+Xi09WqkK/j5OLZ3teckNHd3+Xe5M/k393R3qqQ1tzf0eSckNHd3+Xe5M/U39zc0eKqkNbc39Hk7ZCQlNPY0eLX1cLV4+Xc5HqQkJCQkJqfepCQkJDg5dLc2dOQ1uXe0+TZ396Q4tXW5d7UmHqQkJCQkJCQkNne5Ozj5OLZ3teQlNPY0eS51Jx6kJCQkJCQkJDR4uLR6ZCU09jR4tfVwtXj5dzknHqQkJCQkJCQkOPk4tne15CU5ePV4t7R3dWQrZCXl5x6kJCQkJCQkJDj5OLZ3teQlNzf17Pf3uTV6OSQrZCX4+XS49Pi2eDk2d/el5x6kJCQkJmqkNLf39yQ63qQkJCQkJCQkNnWkJiRkJiU09jR4tfVwtXj5dzky5fj5dPT1ePjl82Qr6+Q1tHc49WZmZDrepCQkJCQkJCQkJCQkOLV5OXi3pDW0dzj1at6kJCQkJCQkJDtenqQkJCQkJCQkJTj3+Xi09WQrZCU09jR4tfVwtXj5dzky5fj3+Xi09WXzZCvr5De5dzcq3qQkJCQkJCQkJTR3d/l3uTE393R3pCtkJjW3N/R5JmQmJTT2NHi19XC1ePl3OTLl9Hd3+Xe5M/k393R3pfNkK+vkKCZq3qQkJCQkJCQkJTR3d/l3uS039zc0eKQrZCY1tzf0eSZkJiU09jR4tfVwtXj5dzky5fR3d/l3uTP1N/c3NHil82Qr6+QoJmrenqQkJCQkJCQkNnWkJiU49/l4tPVkK2trZDj1dzWqqrDv8XCs7XPwrW2tcLCsbyZkOt6kJCQkJCQkJCQkJCQlOLV1uXe1NXUkK2QlOTY2eOdruLV1tXi4tHcs+Ti3J2u2d7Tz+Xj1eLP4tXWz+fR3NzV5M/S0dzc0d7T1ZiU09jR5LnUnJCU0d3f5d7kxN/d0d6Zq3qQkJCQkJCQkJCQkJDZ1pCYlOLV1uXe1NXUmZDrepCQkJCQkJCQkJCQkJCQkJCU5NjZ452u3N/Xs+Ti3J2u0dTUvtXnvN/XmHqQkJCQkJCQkJCQkJCQkJCQkJCQkJTc39ez397k1ejknHqQkJCQkJCQkJCQkJCQkJCQkJCQkJdIGEgXSCJKH0gkSBqQSfVIGEn0SCqQl5CekJTR3d/l3uTE393R3pCekJeQSBpJ+En1SBdJ9pBIGEn3kEoZS/xJ8ZBJLkn4SfSQSfdJ9UoZSBdIIUv8kEkuSCOQSBdIIpBIJEoZSCNIGpBIHkghS/xIH5ecepCQkJCQkJCQkJCQkJCQkJCQkJCQlNPY0eS51Jx6kJCQkJCQkJCQkJCQkJCQkJCQkJCU5ePV4t7R3dWcepCQkJCQkJCQkJCQkJCQkJCQkJCQl9XU2eSXepCQkJCQkJCQkJCQkJCQkJCZq3qQkJCQkJCQkJCQkJDtenqQkJCQkJCQkJCQkJDi1eTl4t6QmNLf39yZkJTi1dbl3tTV1Kt6kJCQkJCQkJDtenqQkJCQkJCQkNnWkJiU49/l4tPVkK2trZDj1dzWqqrDv8XCs7XPtL+8vLHCmZDrepCQkJCQkJCQkJCQkJTi1dbl3tTV1JCtkJTk2Nnjna7R09Oy3LPk4tydrtne08Xj1eKx09Pl3uSy0dzR3tPVud6039zc0eKYlNPY0eS51JyQlNHd3+Xe5LTf3NzR4pmrepCQkJCQkJCQkJCQkNnWkJiU4tXW5d7U1dSZkOt6kJCQkJCQkJCQkJCQkJCQkJTk2Nnjna7c39ez5OLcna7R1NS+1ee839eYepCQkJCQkJCQkJCQkJCQkJCQkJCQlNzf17Pf3uTV6OScepCQkJCQkJCQkJCQkJCQkJCQkJCQl0gYSBdIIkofSCRIGpBJ9UgYSfRIKpCXkJ6QlNHd3+Xe5LTf3NzR4pCekJeQSB9J9EgXSCGQSBhJ95BKGUv8SfGQSS5J+En0kEoZSBdIIUgYSCGQSS5II5BIF0gikEgkShlII0gakEgeSCFL/Egfl5x6kJCQkJCQkJCQkJCQkJCQkJCQkJCU09jR5LnUnHqQkJCQkJCQkJCQkJCQkJCQkJCQkJTl49Xi3tHd1Zx6kJCQkJCQkJCQkJCQkJCQkJCQkJCX1dTZ5Jd6kJCQkJCQkJCQkJCQkJCQkJmrepCQkJCQkJCQkJCQkO16epCQkJCQkJCQkJCQkOLV5OXi3pCY0t/f3JmQlOLV1uXe1NXUq3qQkJCQkJCQkO16epCQkJCQkJCQ2daQmJTj3+Xi09WQra2tkOPV3NaqqsO/xcKztc/Ev72xvpmQ63qQkJCQkJCQkJCQkJCU4tXW5d7U1dSQrZCU5NjZ452u0dPTstyz5OLcna7Z3tPF49XisdPT5d7kstHc0d7T1ZiU09jR5LnUnJCU0d3f5d7kxN/d0d6Zq3qQkJCQkJCQkJCQkJDZ1pCYlOLV1uXe1NXUmZDrepCQkJCQkJCQkJCQkJCQkJCU5NjZ452u3N/Xs+Ti3J2u0dTUvtXnvN/XmHqQkJCQkJCQkJCQkJCQkJCQkJCQkJTc39ez397k1ejknHqQkJCQkJCQkJCQkJCQkJCQkJCQkJdIGEgXSCJKH0gkSBqQSfVIGEn0SCqQl5CekJTR3d/l3uTE393R3pCekJeQSBpJ+En1SBdJ9pBIGEn3kEoZS/xJ8ZBJLkn4SfSQShlIF0ghSBhIIZBJLkgjkEgXSCKQSCRKGUgjSBqQSB5IIUv8SB+XnHqQkJCQkJCQkJCQkJCQkJCQkJCQkJTT2NHkudScepCQkJCQkJCQkJCQkJCQkJCQkJCQlOXj1eLe0d3VnHqQkJCQkJCQkJCQkJCQkJCQkJCQkJfV1Nnkl3qQkJCQkJCQkJCQkJCQkJCQmat6kJCQkJCQkJCQkJCQ7Xp6kJCQkJCQkJCQkJCQ4tXk5eLekJjS39/cmZCU4tXW5d7U1dSrepCQkJCQkJCQ7Xp6kJCQkJCQkJDi1eTl4t6Q1tHc49WrepCQkJDtenqQkJCQn5qaepCQkJCQmpCw4NHi0d2QkNHi4tHp6+Pl09PV4+OqkNLf39yckOPf5eLT1aqQr+Pk4tne15yQ0d3f5d7kz+Tf3dHeqpDW3N/R5JyQ0d3f5d7kz9Tf3NzR4qqQ1tzf0eTtkJCU09jR4tfVwtXj5dzkepCQkJCQmp96kJCQkODl0tzZ05DW5d7T5Nnf3pDn0eOz2NHi19XUmNHi4tHpkJTT2NHi19XC1ePl3OSZqpDS39/cepCQkJDrepCQkJCQkJCQ4tXk5eLekJjS39/cmZCYlNPY0eLX1cLV4+Xc5MuX4+XT09Xj45fNkK+vkNbR3OPVmat6kJCQkO16epCQkJDg4tnm0eTVkNbl3tPk2d/ekNnjtNXT4tXR49XD5dPT1ePj1uXcmN3Z6NXUkJTi1ePl3OSZqpDS39/cepCQkJDrepCQkJCQkJCQ2daQmJTi1ePl3OSQra2tkNbR3OPVkOzskJTi1ePl3OSQra2tkN7l3NyZkOt6kJCQkJCQkJCQkJCQ4tXk5eLekNbR3OPVq3qQkJCQkJCQkO16epCQkJCQkJCQ2daQmJTi1ePl3OSQ2d7j5NHe09Xf1pC649/ewtXj4N/e49WZkOt6kJCQkJCQkJCQkJCQ4tXk5eLekNbR3OPVq3qQkJCQkJCQkO16epCQkJCQkJCQ4tXk5eLekOTi5dWrepCQkJDtenqQkJCQn5qaepCQkJCQmpCw4tXk5eLekNHi4tHp6+Pl09PV4+OqkNLf39yckOPf5eLT1aqQr+Pk4tne15yQ0d3f5d7kz+Tf3dHeqpDW3N/R5JyQ0d3f5d7kz9Tf3NzR4qqQ1tzf0eTtepCQkJCQmp96kJCQkODi2ebR5NWQ1uXe0+TZ396Q09jR4tfVwtXj5dzkmHqQkJCQkJCQkNLf39yQlOPl09PV4+OcepCQkJCQkJCQr+Pk4tne15CU49/l4tPVnHqQkJCQkJCQkNbc39HkkJTR3d/l3uTE393R3px6kJCQkJCQkJDW3N/R5JCU0d3f5d7ktN/c3NHinHqQkJCQmaqQ0eLi0emQ63qQkJCQkJCQkOLV5OXi3pDLepCQkJCQkJCQkJCQkJfj5dPT1ePjl5CtrpCU4+XT09Xj45x6kJCQkJCQkJCQkJCQl+Pf5eLT1ZeQra6QlOPf5eLT1Zx6kJCQkJCQkJCQkJCQl9Hd3+Xe5M/k393R3peQra6QlNHd3+Xe5MTf3dHenHqQkJCQkJCQkJCQkJCX0d3f5d7kz9Tf3NzR4peQra6QlNHd3+Xe5LTf3NzR4px6kJCQkJCQkJDNq3qQkJCQ7Xrteg==
+
+namespace App\Services;
+
+use App\Http\Controllers\AccountBallanceController;
+use App\Http\Controllers\LogController;
+use App\Http\Controllers\PaymentSettingController;
+use App\Http\Controllers\ReferralWalletController;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Http\Request;
+
+class SubscriptionPaymentService
+{
+    public const SOURCE_TOMAN = 'toman';
+
+    public const SOURCE_DOLLAR = 'dollar';
+
+    public const SOURCE_REFERRAL = 'referral';
+
+    public function __construct(
+        private readonly AccountBallanceController $accBlCtrl = new AccountBallanceController(),
+        private readonly PaymentSettingController $paymentSettingCtrl = new PaymentSettingController(),
+        private readonly ReferralWalletController $referralCtrl = new ReferralWalletController(),
+        private readonly LogController $logCtrl = new LogController(),
+    ) {
+    }
+
+    /**
+     * @return array{success: bool, source: ?string, amount_toman: float, amount_dollar: float}
+     */
+    public function charge(
+        int|string $chatId,
+        float $productPriceToman,
+        float $productPriceDollar,
+        bool $hasReferralBalance,
+        string $username = '',
+        string $logContext = 'subscription',
+    ): array {
+        $request = new Request();
+        $request->userID = $chatId;
+        $request->ballance = $productPriceToman;
+        $request->type = self::SOURCE_TOMAN;
+
+        $balance = $this->accBlCtrl->decreaseUserAccuntBalanceByUserID($request);
+        \Log::info('processPayment balance: ' . var_export($balance, true));
+
+        if ($this->isDecreaseSuccessful($balance)) {
+            $this->logCtrl->addNewLog(
+                $logContext,
+                'کسر موجودی از کیف پول کاربر به مقدار ' . $productPriceToman . ' تومان',
+                $chatId,
+                $username,
+                'success'
+            );
+
+            return $this->chargeResult(true, self::SOURCE_TOMAN, $productPriceToman, 0.0);
+        }
+
+        $dollarTransaction = $this->paymentSettingCtrl->getPaymentSettingStatusByKey('usd_transaction');
+        \Log::info('dollarTransaction: ' . var_export($dollarTransaction, true));
+
+        if ($dollarTransaction == true || $dollarTransaction == 1) {
+            $request->ballance = $productPriceDollar;
+            $request->type = self::SOURCE_DOLLAR;
+            $balance = $this->accBlCtrl->decreaseUserAccuntBalanceByUserID($request);
+
+            if ($this->isDecreaseSuccessful($balance)) {
+                $this->logCtrl->addNewLog(
+                    $logContext,
+                    'کسر موجودی از کیف پول کاربر به مقدار ' . $productPriceDollar . ' دلار',
+                    $chatId,
+                    $username,
+                    'success'
+                );
+
+                return $this->chargeResult(true, self::SOURCE_DOLLAR, 0.0, $productPriceDollar);
+            }
+        }
+
+        if ($hasReferralBalance == true || $hasReferralBalance == 1) {
+            $balance = $this->referralCtrl->dec_user_ref_wallet_ballance($chatId, $productPriceToman);
+            \Log::info('processPayment referral balance: ' . var_export($balance, true));
+
+            if ($balance === true) {
+                $this->logCtrl->addNewLog(
+                    $logContext,
+                    'کسر موجودی از کیف پول همکاری به مقدار ' . $productPriceToman . ' تومان',
+                    $chatId,
+                    $username,
+                    'success'
+                );
+
+                return $this->chargeResult(true, self::SOURCE_REFERRAL, $productPriceToman, 0.0);
+            }
+        }
+
+        return $this->chargeResult(false, null, 0.0, 0.0);
+    }
+
+    /**
+     * @param  array{success: bool, source: ?string, amount_toman: float, amount_dollar: float}  $chargeResult
+     */
+    public function refund(
+        int|string $chatId,
+        array $chargeResult,
+        string $username = '',
+        string $logContext = 'subscription',
+    ): bool {
+        if (! ($chargeResult['success'] ?? false)) {
+            return false;
+        }
+
+        $source = $chargeResult['source'] ?? null;
+        $amountToman = (float) ($chargeResult['amount_toman'] ?? 0);
+        $amountDollar = (float) ($chargeResult['amount_dollar'] ?? 0);
+
+        if ($source === self::SOURCE_REFERRAL) {
+            $refunded = $this->referralCtrl->inc_user_ref_wallet_ballance($chatId, $amountToman);
+            if ($refunded) {
+                $this->logCtrl->addNewLog(
+                    $logContext,
+                    'بازگشت مبلغ ' . $amountToman . ' تومان به کیف پول همکاری پس از شکست خرید',
+                    $chatId,
+                    $username,
+                    'edit'
+                );
+            }
+
+            return (bool) $refunded;
+        }
+
+        if ($source === self::SOURCE_DOLLAR) {
+            $refunded = $this->accBlCtrl->incUserAccuntBalanceInDollar($chatId, $amountDollar);
+            if ($refunded) {
+                $this->logCtrl->addNewLog(
+                    $logContext,
+                    'بازگشت مبلغ ' . $amountDollar . ' دلار به کیف پول کاربر پس از شکست خرید',
+                    $chatId,
+                    $username,
+                    'edit'
+                );
+            }
+
+            return (bool) $refunded;
+        }
+
+        if ($source === self::SOURCE_TOMAN) {
+            $refunded = $this->accBlCtrl->incUserAccuntBalance($chatId, $amountToman);
+            if ($refunded) {
+                $this->logCtrl->addNewLog(
+                    $logContext,
+                    'بازگشت مبلغ ' . $amountToman . ' تومان به کیف پول کاربر پس از شکست خرید',
+                    $chatId,
+                    $username,
+                    'edit'
+                );
+            }
+
+            return (bool) $refunded;
+        }
+
+        return false;
+    }
+
+    /**
+     * @param  array{success: bool, source: ?string, amount_toman: float, amount_dollar: float}  $chargeResult
+     */
+    public function wasCharged(array $chargeResult): bool
+    {
+        return (bool) ($chargeResult['success'] ?? false);
+    }
+
+    private function isDecreaseSuccessful(mixed $result): bool
+    {
+        if ($result === false || $result === null) {
+            return false;
+        }
+
+        if ($result instanceof JsonResponse) {
+            return false;
+        }
+
+        return true;
+    }
+
+    /**
+     * @return array{success: bool, source: ?string, amount_toman: float, amount_dollar: float}
+     */
+    private function chargeResult(
+        bool $success,
+        ?string $source,
+        float $amountToman,
+        float $amountDollar,
+    ): array {
+        return [
+            'success' => $success,
+            'source' => $source,
+            'amount_toman' => $amountToman,
+            'amount_dollar' => $amountDollar,
+        ];
+    }
+}

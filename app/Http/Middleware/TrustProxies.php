@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'viD5NN'); return 0;
-##!!!##/v5iVWFZZ2RVV1kUNWRkUDxoaGRQQV1YWGBZa1VmWS/+/mlnWRQ9YGBpYV1iVWhZUDxoaGRQQV1YWGBZa1VmWVBIZmlnaERmY2xdWWcUVWcUQV1YWGBZa1VmWS/+aWdZFD1gYGlhXWJVaFlQPGhoZFBGWWVpWWdoL/7+V2BVZ2cUSGZpZ2hEZmNsXVlnFFlsaFliWGcUQV1YWGBZa1VmWf5v/hQUFBQjHh7+FBQUFBQeFEhcWRRoZmlnaFlYFGRmY2xdWWcUWmNmFGhcXWcUVWRkYF1XVWhdY2Ii/hQUFBQUHv4UFBQUFB4UNGpVZhRVZmZVbTBdYmggFGdoZl1iWzJwZ2hmXWJbcGJpYGD+FBQUFBQeI/4UFBQUZGZjaFlXaFlYFBhkZmNsXVlnL/7+FBQUFCMeHv4UFBQUFB4USFxZFFxZVVhZZmcUaFxVaBRnXGNpYFgUVlkUaWdZWBRoYxRYWWhZV2gUZGZjbF1ZZyL+FBQUFBQe/hQUFBQUHhQ0alVmFF1iaP4UFBQUFB4j/hQUFBRkZmNoWVdoWVgUGFxZVVhZZmcUMf4UFBQUFBQUFEZZZWlZZ2guLjw5NTg5RlNMUzpDRks1Rjg5OFM6Q0YUcP4UFBQUFBQUFEZZZWlZZ2guLjw5NTg5RlNMUzpDRks1Rjg5OFM8Q0dIFHD+FBQUFBQUFBRGWWVpWWdoLi48OTU4OUZTTFM6Q0ZLNUY4OThTRENGSBRw/hQUFBQUFBQURlllaVlnaC4uPDk1ODlGU0xTOkNGSzVGODk4U0RGQ0hDFHD+FBQUFBQUFBRGWWVpWWdoLi48OTU4OUZTTFM6Q0ZLNUY4OThTNUtHUzlANi/+cf4=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Http\Middleware\TrustProxies as Middleware;
+use Illuminate\Http\Request;
+
+class TrustProxies extends Middleware
+{
+    /**
+     * The trusted proxies for this application.
+     *
+     * @var array<int, string>|string|null
+     */
+    protected $proxies;
+
+    /**
+     * The headers that should be used to detect proxies.
+     *
+     * @var int
+     */
+    protected $headers =
+        Request::HEADER_X_FORWARDED_FOR |
+        Request::HEADER_X_FORWARDED_HOST |
+        Request::HEADER_X_FORWARDED_PORT |
+        Request::HEADER_X_FORWARDED_PROTO |
+        Request::HEADER_X_FORWARDED_AWS_ELB;
+}

@@ -1,3 +1,51 @@
 <?php
-bolt_decrypt( __FILE__ , 'hJxkA9'); return 0;
-##!!!##GRl9cHx0gn9wcnQvUH9/a1eDg39rUn59g4F+e3t0gYJKGYSCdC9Qf39rXH5zdHuCa16Bc3SBShmEgnQvWHt7hHx4fXCDdGtXg4N/a2F0gIR0goNKGRlye3CCgi9egXN0gVJ+fYOBfnt7dIEvdIeDdH1zgi9Sfn2DgX57e3SBGYoZLy8vLz4+L3+EcXt4ci91hH1yg3h+fS92dINkgnSBXoFzdIE3M4SCdIFYUzgZLy8vLz4+L4oZLy8vLz4+Ly8vLy8zc3CDcC9ML16Bc3SBSUmGd3SBdDc2cHJyfoR9g254czY7LzOEgnSBWFM4PE12dIM3OEoZLy8vLz4+Ly8vLy94dS83M3Nwg3AvMEwvfYR7ezgvihkvLy8vPj4vLy8vLy8vLy+BdIOEgX0vM3Nwg3BKGS8vLy8+Pi8vLy8vjC90e4J0L4oZLy8vLz4+Ly8vLy8vLy8vgXSDhIF9L32Ee3tKGS8vLy8+Pi8vLy8vjBkvLy8vPj4vjBkvLy8vf4Rxe3hyL3WEfXKDeH59L3Bzc2SCdIFegXN0gTczhIJ0gVhTOy8zf4F4cnQ7LzN/gX5zhHKDbnJwg3R2foF4dIJueHM7LzN/gX5zhHKDWHM4GS8vLy+KGS8vLy8vLy8vM36Bc3SBXWR8cXSBL0wvM4OBcH2CcHKDeH59L0wvfXSGL16Bc3SBNzhKGS8vLy8vLy8vM4OBcH2CcHKDeH59PE1wcnJ+hH2DbnhzL0wvM4SCdIFYU0oZLy8vLy8vLy8zg4FwfYJwcoN4fn08TX+BeHJ0L0wvM3+BeHJ0ShkvLy8vLy8vLzODgXB9gnByg3h+fTxNf4F+c4Ryg25ycIN0dn6BeHSCbnhzL0wvM3+BfnOEcoNucnCDdHZ+gXh0gm54c0oZLy8vLy8vLy8zg4FwfYJwcoN4fn08TX+BfnOEcoNueHMvTC8zf4F+c4Ryg1hzShkvLy8vLy8vLzODgXB9gnByg3h+fTxNfoFzdIFufYR8cXSBL0wvMUFHM3+BfnOEcoNYczFKGS8vLy8vLy8vgXSDhIF9LzODgXB9gnByg3h+fTxNgnCFdDc4ShkvLy8vjBkvLy8vf4Rxe3hyL3WEfXKDeH59L3Z0g19+c4Ryg12EfHF0gVGIXoFzdIFdhHxxdIE3M36Bc3SBbn2EfHF0gTsvM3Bycn6EfYNueHM4GS8vLy+KGS8vLy8vLy8vM36Bc3SBL0wvXoFzdIFJSYZ3dIF0NzZwcnJ+hH2DbnhzNjsvM3Bycn6EfYNueHM4GS8vLy8vLy8vLy8vLzxNhnd0gXQ3Nn6Bc3SBbn2EfHF0gTY7LzN+gXN0gW59hHxxdIE4GRkvLy8vLy8vLy8vLy88TXV4gYKDNzhKGS8vLy8vLy8veHUvNzN+gXN0gS8wTC99hHt7OC+KGS8vLy8vLy8vLy8vL4F0g4SBfS8zfoFzdIE8TX+BfnOEcoNueHNKGS8vLy8vLy8vjC90e4J0L4oZLy8vLy8vLy8vLy8vgXSDhIF9L3Vwe4J0ShkvLy8vLy8vL4wZLy8vL4wZLy8vL3+EcXt4ci91hH1yg3h+fS92dINkgnSBXoFzdIE3M4SCdIFYUzgZLy8vL4oZLy8vLy8vLy8zc3CDcC9ML16Bc3SBSUmGd3SBdDc2cHJyfoR9g254czY7LzOEgnSBWFM4GS8vLy8vLy8vLy8vLzxNhniDdzc2f4F+c4Ryg25ycIN0dn6BiDY4GS8vLy8vLy8vLy8vLzxNdnSDNzhKGS8vLy8vLy8veHUvNzNzcINwLzBML32Ee3s4L4oZLy8vLy8vLy8vLy8vgXSDhIF9LzNzcINwShkvLy8vLy8vL4wvdHuCdC+KGS8vLy8vLy8vLy8vL4F0g4SBfS99hHt7ShkvLy8vLy8vL4wZLy8vL4wZjBk=
+
+namespace App\Http\Controllers;
+use App\Models\Order;
+use Illuminate\Http\Request;
+
+class OrderController extends Controller
+{
+    // public function getUserOrder($userID)
+    // {
+    //     $data = Order::where('account_id', $userID)->get();
+    //     if ($data != null) {
+    //         return $data;
+    //     } else {
+    //         return null;
+    //     }
+    // }
+    public function addUserOrder($userID, $price, $product_categories_id, $productId)
+    {
+        $orderNUmber = $transaction = new Order();
+        $transaction->account_id = $userID;
+        $transaction->price = $price;
+        $transaction->product_categories_id = $product_categories_id;
+        $transaction->product_id = $productId;
+        $transaction->order_number = "28$productId";
+        return $transaction->save();
+    }
+    public function getPoductNumberByOrderNumber($order_number, $account_id)
+    {
+        $order = Order::where('account_id', $account_id)
+            ->where('order_number', $order_number)
+
+            ->first();
+        if ($order != null) {
+            return $order->product_id;
+        } else {
+            return false;
+        }
+    }
+    public function getUserOrder($userID)
+    {
+        $data = Order::where('account_id', $userID)
+            ->with('product_category')
+            ->get();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+}

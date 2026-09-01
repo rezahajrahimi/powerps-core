@@ -1,3 +1,218 @@
 <?php
-bolt_decrypt( __FILE__ , 'd2oHOO'); return 0;
-##!!!##9fVZTFhQXltMTlALLFtbRz5QXWFUTlBeJvX1YF5QCyxbW0c4Wk9QV15HO0xZWVBXJvVgXlALLFtbRzhaT1BXXkc7XVpPYE5fJvVgXlALNFdXYFhUWUxfUEcuWllfXUxOX15HO0xSVFlMX1RaWUc3UFlSX1MsYkxdUDtMUlRZTF9aXSb1YF5QCzRXV2BYVFlMX1BHL0xfTE1MXlBHMFdaXGBQWV9HLWBUV09QXSb1YF5QCz1gWV9UWFAwY05QW19UWlkm9fVOV0xeXgs0WWFQWV9aXWQ+X1pOVj5QXWFUTlD1ZvULCwsLW2BNV1ROC1FgWU5fVFpZC1JQXz5gWFhMXWQTVFlfCw9bTFlQVzRPFCULTF1dTGT1CwsLC2b1CwsLCwsLCwsPX1NUXhgpTF5eUF1fNFlhUFlfWl1kO0xZUFcTD1tMWVBXNE8UJvX1CwsLCwsLCwsPTUxeUAsoCw9fU1ReGClNTF5QPGBQXWQTD1tMWVBXNE8UJvX1CwsLCwsLCwtdUF9gXVkLRvULCwsLCwsLCwsLCwsSTE5fVGFQEgsoKQsTTldaWVALD01MXlAUGCliU1BdUBMSVF4sTl9UYVASFwtfXWBQFBgpTlpgWV8TFBf1CwsLCwsLCwsLCwsLEl5aV08SCygpCxNOV1pZUAsPTUxeUBQYKWJTUF1QExJUXixOX1RhUBIXC1FMV15QFBgpYlNQXVA5Wl85YFdXExJMTk5aYFlfSlRPEhQYKU5aYFlfExQX9QsLCwsLCwsLCwsLCxJfWl9MVxILKCkLE05XWllQCw9NTF5QFBgpTlpgWV8TFBf1CwsLCwsLCwtIJvULCwsLaPX1CwsLC1tgTVdUTgtRYFlOX1RaWQtXVF5fPl9aTlYT9QsLCwsLCwsLVFlfCw9bTFlQVzRPF/ULCwsLCwsLCypeX11UWVILD15fTF9gXgsoCxJMV1cSF/ULCwsLCwsLCypeX11UWVILD15aXV8LKAsSTl1QTF9QT0pMX0pPUF5OEhf1CwsLCwsLCwsqXl9dVFlSCw9eUExdTlMLKAtZYFdXF/ULCwsLCwsLC1RZXwsPW1BdO0xSUAsoCx0b9QsLCwsUJQs3UFlSX1MsYkxdUDtMUlRZTF9aXQtm9QsLCwsLCwsLD19TVF4YKUxeXlBdXzRZYVBZX1pdZDtMWVBXEw9bTFlQVzRPFCb19QsLCwsLCwsLD1xgUF1kCygLD19TVF4YKU1MXlA8YFBdZBMPW0xZUFc0TxT1CwsLCwsLCwsLCwsLGCliVF9TE0b1CwsLCwsLCwsLCwsLCwsLCxJbXVpPYE5fSk5MX1BSWl1kJVRPF05MX1BSWl1kSllMWFAXW11UTlAXW11UTlBKVFlKT1pXV0xdF1tMWVlQV0pUTxIX9QsLCwsLCwsLCwsLCwsLCwsSYF5QXSVMTk5aYFlfSlRPF2BeUF1ZTFhQF1FUXV5fSllMWFAXV0xeX0pZTFhQEhf1CwsLCwsLCwsLCwsLSBQm9fULCwsLCwsLCw9fU1ReGClMW1tXZD5fTF9gXjFUV19QXRMPXGBQXWQXCw9eX0xfYF4UJvULCwsLCwsLCw9fU1ReGClMW1tXZD5QTF1OUxMPXGBQXWQXCw9eUExdTlMUJvULCwsLCwsLCw9fU1ReGClMW1tXZD5aXV8TD1xgUF1kFwsPXlpdXxQm9fULCwsLCwsLC11QX2BdWQsPXGBQXWQYKVtMUlRZTF9QEw9bUF07TFJQFCb1CwsLC2j19QsLCwtbYE1XVE4LUWBZTl9UWlkLYFtPTF9QPl9aTlY0X1BYE/ULCwsLCwsLC1RZXwsPW11aT2BOXzRPF/ULCwsLCwsLC1RZXwsPW0xZUFc0Txf1CwsLCwsLCwteX11UWVILD05aWVFUUl4X9QsLCwsLCwsLXl9dVFlSCw9eYE1eTl1UW19UWlk3VFlWF/ULCwsLCwsLC15fXVRZUgsPW0xZUFc3VFlW9QsLCwsUJQs7XVpPYE5fC2b1CwsLCwsLCwsPW11aT2BOXwsoCw9fU1ReGClRVFlPNFlhUFlfWl1kO11aT2BOXxMPW11aT2BOXzRPFwsPW0xZUFc0TxQm9fULCwsLCwsLC1RRCxMPW11aT2BOXxgpXVBYTF1WCygoKAsSW1BZT1RZUhIUC2b1CwsLCwsLCwsLCwsLX1NdWmILWVBiCz1gWV9UWFAwY05QW19UWlkTEsOSxnfEcQvDnMWUxHPDnMOaC8Rtw5LDk8RvC8RzxnfDnMOSxnfDnwvEccZ3w57DlRkSFCb1CwsLCwsLCwto9fULCwsLCwsLCw9OWllRVFJeCygLX11UWBMPTlpZUVRSXhQm9QsLCwsLCwsLD15gTV5OXVRbX1RaWTdUWVYLKAtfXVRYEw9eYE1eTl1UW19UWlk3VFlWFCb1CwsLCwsLCwsPW0xZUFc3VFlWCygLX11UWBMPW0xZUFc3VFlWFCb19QsLCwsLCwsLVFELEw9OWllRVFJeCygoKAsSEhQLZvULCwsLCwsLCwsLCwtfU11aYgtZUGILPWBZX1RYUDBjTlBbX1RaWRMSxZTDksRxxGzGd8WaC8RxxHDGd81rd8OVxHPDksRxw5oLw5nDksRvxncLw5PDksOfw5oZEhQm9QsLCwsLCwsLaPX1CwsLCwsLCwtUUQsTD15gTV5OXVRbX1RaWTdUWVYLKCgoCxISFAtm9QsLCwsLCwsLCwsLCw9eYE1eTl1UW19UWlk3VFlWCygLD05aWVFUUl4m9QsLCwsLCwsLaPULCwsLCwsLC1RRCxMPW0xZUFc3VFlWCygoKAsSEhQLZvULCwsLCwsLCwsLCwsPW0xZUFc3VFlWCygLD05aWVFUUl4m9QsLCwsLCwsLaPX1CwsLCwsLCwsPVF4+WldPCygLDAsPW11aT2BOXxgpVF4sTl9UYVALERELD1tdWk9gTl8YKUxOTlpgWV9KVE8LDCgoC1lgV1cm9fULCwsLCwsLC1RRCxMPVF4+WldPCxERCw9OWllRVFJeCwwoKAtfXVRYExNeX11UWVIUCw9bXVpPYE5fGClOWllRVFJeFBQLZvULCwsLCwsLCwsLCwtfU11aYgtZUGILPWBZX1RYUDBjTlBbX1RaWRMSxZTDksRxxGzGd8WaC8Rsw5zEc8OZw5XEcs1rd8Ofw5rEcgvEbcOSw5PEbwvDlcOlxnfGd8OcC8RxxnfDnsOVGRIUJvULCwsLCwsLC2j19QsLCwsLCwsLVFELEwwLD1RePlpXTwsREQsPX1NUXhgpTlpZUVRSMGNUXl9eOlk7TFlQVxMPW0xZUFc0TxcLD05aWVFUUl4XCw9bXVpPYE5fNE8UFAtm9QsLCwsLCwsLCwsLC19TXVpiC1lQYgs9YFlfVFhQMGNOUFtfVFpZExLDksZ3xHELxZTDksRxxGzGd8WaC8Rtw5PEb8OSxHYLw5rDnAvEcMRzw5fEc8OaxncLw5bDk8OVC8Ofw5rEcgvDksOew5UZEhQm9QsLCwsLCwsLaPX1CwsLCwsLCwsPW11aT2BOXxgpTlpZUVRSXgsoCw9OWllRVFJeJvULCwsLCwsLCw9bXVpPYE5fGCleYE1eTl1UW19UWllKV1RZVgsoCw9eYE1eTl1UW19UWlk3VFlWJvULCwsLCwsLCw9bXVpPYE5fGClbTFlQV0pXVFlWCygLD1tMWVBXN1RZVib1CwsLCwsLCwsPW11aT2BOXxgpXkxhUBMUJvX1CwsLCwsLCwtdUF9gXVkLD1tdWk9gTl8YKVdaTE8TRvULCwsLCwsLCwsLCwsSW11aT2BOX0pOTF9QUlpdZCVUTxdOTF9QUlpdZEpZTFhQF1tdVE5QF1tdVE5QSlRZSk9aV1dMXRdbTFlZUFdKVE8SF/ULCwsLCwsLCwsLCwsSYF5QXSVMTk5aYFlfSlRPF2BeUF1ZTFhQF1FUXV5fSllMWFAXV0xeX0pZTFhQEhf1CwsLCwsLCwtIFCb1CwsLC2j19QsLCwtbYE1XVE4LUWBZTl9UWlkLT1BXUF9QPl9aTlY0X1BYE1RZXwsPW11aT2BOXzRPFwtUWV8LD1tMWVBXNE8UJQthWlRP9QsLCwtm9QsLCwsLCwsLD1tdWk9gTl8LKAsPX1NUXhgpUVRZTzRZYVBZX1pdZDtdWk9gTl8TD1tdWk9gTl80TxcLD1tMWVBXNE8UJvX1CwsLCwsLCwtUUQsTD1tdWk9gTl8YKV1QWExdVgsoKCgLEltQWU9UWVISFAtm9QsLCwsLCwsLCwsLC19TXVpiC1lQYgs9YFlfVFhQMGNOUFtfVFpZExLDksZ3xHELw5zFlMRzw5zDmgvEbcOSw5PEbwvDmMObxGwLxHHGd8Oew5UZEhQm9QsLCwsLCwsLaPX1CwsLCwsLCwsPW11aT2BOXxgpT1BXUF9QExQm9QsLCwto9fULCwsLW2BNV1ROC1FgWU5fVFpZC1FUWU80WWFQWV9aXWQ7XVpPYE5fE1RZXwsPW11aT2BOXzRPFwtUWV8LD1tMWVBXNE8UJQs7XVpPYE5f9QsLCwtm9QsLCwsLCwsLD19TVF4YKUxeXlBdXzRZYVBZX1pdZDtMWVBXEw9bTFlQVzRPFCb19QsLCwsLCwsLD1tdWk9gTl8LKAsPX1NUXhgpTUxeUDxgUF1kEw9bTFlQVzRPFPULCwsLCwsLCwsLCwsYKWJTUF1QExJUTxIXCw9bXVpPYE5fNE8U9QsLCwsLCwsLCwsLCxgpUVRdXl8TFCb19QsLCwsLCwsLVFELEw9bXVpPYE5fCygoKAtZYFdXFAtm9QsLCwsLCwsLCwsLC19TXVpiC1lQYgs9YFlfVFhQMGNOUFtfVFpZExLFlMOSxHHEbMZ3xZoLxHDEc8Ocw5oLxHHDo8OcC8Z3w5LEbMOVC8Rxw5/DmhkSFCb1CwsLCwsLCwto9fULCwsLCwsLC11QX2BdWQsPW11aT2BOXyb1CwsLC2j19QsLCwtbXVRhTF9QC1FgWU5fVFpZC05aWVFUUjBjVF5fXjpZO0xZUFcTVFlfCw9bTFlQVzRPFwteX11UWVILD05aWVFUUhcLKlRZXwsPUGNOUFtfO11aT2BOXzRPCygLWWBXVxQlC01aWlf1CwsLC2b1CwsLCwsLCwtdUF9gXVkLD19TVF4YKU1MXlA8YFBdZBMPW0xZUFc0TxT1CwsLCwsLCwsLCwsLGCliU1BdUBMSTlpZUVRSXhIXCw9OWllRVFIU9QsLCwsLCwsLCwsLCxgpYlNQWRMPUGNOUFtfO11aT2BOXzRPCwwoKAtZYFdXFwtRWQsTLWBUV09QXQsPXGBQXWQUCygpCw9cYFBdZBgpYlNQXVATElRPEhcLEgwoEhcLD1BjTlBbXztdWk9gTl80TxQU9QsLCwsLCwsLCwsLCxgpUGNUXl9eExQm9QsLCwto9fULCwsLW11UYUxfUAtRYFlOX1RaWQtMXl5QXV80WWFQWV9aXWQ7TFlQVxNUWV8LD1tMWVBXNE8UJQthWlRP9QsLCwtm9QsLCwsLCwsLD1tMWVBXCygLO0xZWVBXJSVRVFlPEw9bTFlQVzRPFCb1CwsLCwsLCwtUUQsTDAsPW0xZUFcLZ2cLDAsPW0xZUFcYKVReNFlhUFlfWl1kO0xZUFcTFBQLZvULCwsLCwsLCwsLCwtfU11aYgtZUGILPWBZX1RYUDBjTlBbX1RaWRMSxKnEccRvC8OSxHHDlcOZw5LDk81rd8Ofw5rEcgvDksOdC8RxxHPDpAvEcMRzw5fEc8OaxncLE05gXl9aWFAUC8RxxnfDnsOVGRIUJvULCwsLCwsLC2j1CwsLC2j19QsLCwtbXVRhTF9QC1FgWU5fVFpZC01MXlA8YFBdZBNUWV8LD1tMWVBXNE8UJQstYFRXT1Bd9QsLCwtm9QsLCwsLCwsLXVBfYF1ZCztdWk9gTl8lJVxgUF1kExT1CwsLCwsLCwsLCwsLGCliU1BdUDNMXhMSW11aT2BOX0pOTF9QUlpdZBIXC1FgWU5fVFpZCxMtYFRXT1BdCw9cYFBdZBQLYF5QCxMPW0xZUFc0TxQLZvULCwsLCwsLCwsLCwsLCwsLD1xgUF1kGCliU1BdUBMSW0xZWVBXSlRPEhcLD1tMWVBXNE8UJvULCwsLCwsLCwsLCwtoFPULCwsLCwsLCwsLCwsYKWJTUF1QE1FgWU5fVFpZCxMtYFRXT1BdCw9cYFBdZBQLZvULCwsLCwsLCwsLCwsLCwsLD1xgUF1kGCliU1BdUDlgV1cTEl1QWExdVhIU9QsLCwsLCwsLCwsLCwsLCwsLCwsLGClaXUJTUF1QExJdUFhMXVYSFwsSDCgSFwsSW1BZT1RZUhIUJvULCwsLCwsLCwsLCwtoFCb1CwsLC2j19QsLCwtbXVRhTF9QC1FgWU5fVFpZC2JUX1MuTF9QUlpdZDVaVFkTLWBUV09QXQsPXGBQXWQUJQstYFRXT1Bd9QsLCwtm9QsLCwsLCwsLVFELEwwLD19TVF4YKVxgUF1kM0xeNVpUWRMPXGBQXWQXCxJbXVpPYE5fSk5MX1BSWl1UUF4SFBQLZvULCwsLCwsLCwsLCwsPXGBQXWQYKVVaVFkT9QsLCwsLCwsLCwsLCwsLCwsSW11aT2BOX0pOTF9QUlpdVFBeEhf1CwsLCwsLCwsLCwsLCwsLCxJbXVpPYE5fXhlbXVpPYE5fSk5MX1BSWl1UUF5KVE8SF/ULCwsLCwsLCwsLCwsLCwsLEigSF/ULCwsLCwsLCwsLCwsLCwsLEltdWk9gTl9KTkxfUFJaXVRQXhlUTxL1CwsLCwsLCwsLCwsLFCb1CwsLCwsLCwto9fULCwsLCwsLC11QX2BdWQsPXGBQXWQYKV5QV1BOXxMSW11aT2BOX14ZFRIUJvULCwsLaPX1CwsLC1tdVGFMX1ALUWBZTl9UWlkLXGBQXWQzTF41WlRZEy1gVFdPUF0LD1xgUF1kFwteX11UWVILD19MTVdQFCULTVpaV/ULCwsLZvULCwsLCwsLCw9VWlRZXgsoCw9cYFBdZBgpUlBfPGBQXWQTFBgpVVpUWV4LKioLRkgm9fULCwsLCwsLC1FaXVBMTlMLEw9VWlRZXgtMXgsPVVpUWRQLZvULCwsLCwsLCwsLCwtUUQsTD1VaVFkYKV9MTVdQCygoKAsPX0xNV1AUC2b1CwsLCwsLCwsLCwsLCwsLC11QX2BdWQtfXWBQJvULCwsLCwsLCwsLCwto9QsLCwsLCwsLaPX1CwsLCwsLCwtdUF9gXVkLUUxXXlAm9QsLCwto9fULCwsLW11UYUxfUAtRYFlOX1RaWQtMW1tXZD5fTF9gXjFUV19QXRMtYFRXT1BdCw9cYFBdZBcLKl5fXVRZUgsPXl9MX2BeFCULYVpUT/ULCwsLZvULCwsLCwsLC1hMX05TCxMPXl9MX2BeFAtm9QsLCwsLCwsLCwsLCxJMTl9UYVASCygpCw9cYFBdZBgpYlNQXVATElReLE5fVGFQEhcLX11gUBQX9QsLCwsLCwsLCwsLCxJeWldPEgsoKQsPXGBQXWQYKWJTUF1QExJUXixOX1RhUBIXC1FMV15QFBgpYlNQXVA5Wl85YFdXExJMTk5aYFlfSlRPEhQX9QsLCwsLCwsLCwsLC09QUUxgV18LKCkLWWBXVxf1CwsLCwsLCwtoJvULCwsLaPX1CwsLC1tdVGFMX1ALUWBZTl9UWlkLTFtbV2Q+UExdTlMTLWBUV09QXQsPXGBQXWQXCypeX11UWVILD15QTF1OUxQlC2FaVE/1CwsLC2b1CwsLCwsLCwsPXlBMXU5TCygLX11UWBMTXl9dVFlSFAsPXlBMXU5TFCb1CwsLCwsLCwtUUQsTD15QTF1OUwsoKCgLEhIUC2b1CwsLCwsLCwsLCwsLXVBfYF1ZJvULCwsLCwsLC2j19QsLCwsLCwsLD1xgUF1kGCliU1BdUBNRYFlOX1RaWQsTLWBUV09QXQsPVFlZUF0UC2BeUAsTD15QTF1OUxQLZvULCwsLCwsLCwsLCwsPVFlZUF0YKWJTUF1QExJOWllRVFJeEhcLEldUVlASFwsNEGYPXlBMXU5TaBANFPULCwsLCwsLCwsLCwsLCwsLGClaXUJTUF1QExJeYE1eTl1UW19UWllKV1RZVhIXCxJXVFZQEhcLDRBmD15QTF1OU2gQDRT1CwsLCwsLCwsLCwsLCwsLCxgpWl1CU1BdUBMSXVBYTF1WEhcLEldUVlASFwsNEGYPXlBMXU5TaBANFPULCwsLCwsLCwsLCwsLCwsLGClaXUJTUF1QM0xeExJbXVpPYE5fSk5MX1BSWl1kEhcLUWBZTl9UWlkLEy1gVFdPUF0LD05MX1BSWl1kPGBQXWQUC2BeUAsTD15QTF1OUxQLZvULCwsLCwsLCwsLCwsLCwsLCwsLCw9OTF9QUlpdZDxgUF1kGCliU1BdUBMSTkxfUFJaXWRKWUxYUBIXCxJXVFZQEhcLDRBmD15QTF1OU2gQDRQm9QsLCwsLCwsLCwsLCwsLCwtoFCb1CwsLCwsLCwtoFCb1CwsLC2j19QsLCwtbXVRhTF9QC1FgWU5fVFpZC0xbW1dkPlpdXxMtYFRXT1BdCw9cYFBdZBcLKl5fXVRZUgsPXlpdXxQlC2FaVE/1CwsLC2b1CwsLCwsLCwtYTF9OUwsTD15aXV8UC2b1CwsLCwsLCwsLCwsLEk5dUExfUE9KTF9KTF5OEgsoKQsPXGBQXWQYKVpdT1BdLWQTEk5dUExfUE9KTF8SFBf1CwsLCwsLCwsLCwsLEmBbT0xfUE9KTF9KT1BeThILKCkLD1xgUF1kGClaXU9QXS1kL1BeThMSYFtPTF9QT0pMXxIUF/ULCwsLCwsLCwsLCwsSYFtPTF9QT0pMX0pMXk4SCygpCw9cYFBdZBgpWl1PUF0tZBMSYFtPTF9QT0pMXxIUF/ULCwsLCwsLCwsLCwsSTkxfUFJaXWRKTF5OEgsoKQsPX1NUXhgpYlRfUy5MX1BSWl1kNVpUWRMPXGBQXWQUGClaXU9QXS1kExJbXVpPYE5fSk5MX1BSWl1UUF4ZTkxfUFJaXWRKWUxYUBIUF/ULCwsLCwsLCwsLCwsSTkxfUFJaXWRKT1BeThILKCkLD19TVF4YKWJUX1MuTF9QUlpdZDVaVFkTD1xgUF1kFBgpWl1PUF0tZC9QXk4TEltdWk9gTl9KTkxfUFJaXVRQXhlOTF9QUlpdZEpZTFhQEhQX9QsLCwsLCwsLCwsLCxJbXVROUEpMXk4SCygpCw9fU1ReGCliVF9TLkxfUFJaXWQ1WlRZEw9cYFBdZBQYKVpdT1BdLWQTEltdWk9gTl9KTkxfUFJaXVRQXhlbXVROUBIUF/ULCwsLCwsLCwsLCwsSW11UTlBKT1BeThILKCkLD19TVF4YKWJUX1MuTF9QUlpdZDVaVFkTD1xgUF1kFBgpWl1PUF0tZC9QXk4TEltdWk9gTl9KTkxfUFJaXVRQXhlbXVROUBIUF/ULCwsLCwsLCwsLCwsSXl9MX2BeEgsoKQsPXGBQXWQYKVpdT1BdLWQvUF5OExJUXixOX1RhUBIUGClaXU9QXS1kL1BeThMSVE8SFBf1CwsLCwsLCwsLCwsLT1BRTGBXXwsoKQsPXGBQXWQYKVpdT1BdLWQvUF5OExJOXVBMX1BPSkxfEhQX9QsLCwsLCwsLaCb1CwsLC2j1aPU=
+
+namespace App\Services;
+
+use App\Models\Pannel;
+use App\Models\Product;
+use Illuminate\Contracts\Pagination\LengthAwarePaginator;
+use Illuminate\Database\Eloquent\Builder;
+use RuntimeException;
+
+class InventoryStockService
+{
+    public function getSummary(int $panelId): array
+    {
+        $this->assertInventoryPanel($panelId);
+
+        $base = $this->baseQuery($panelId);
+
+        return [
+            'active' => (clone $base)->where('isActive', true)->count(),
+            'sold' => (clone $base)->where('isActive', false)->whereNotNull('account_id')->count(),
+            'total' => (clone $base)->count(),
+        ];
+    }
+
+    public function listStock(
+        int $panelId,
+        ?string $status = 'all',
+        ?string $sort = 'created_at_desc',
+        ?string $search = null,
+        int $perPage = 20
+    ): LengthAwarePaginator {
+        $this->assertInventoryPanel($panelId);
+
+        $query = $this->baseQuery($panelId)
+            ->with([
+                'product_category:id,category_name,price,price_in_dollar,pannel_id',
+                'user:account_id,username,first_name,last_name',
+            ]);
+
+        $this->applyStatusFilter($query, $status);
+        $this->applySearch($query, $search);
+        $this->applySort($query, $sort);
+
+        return $query->paginate($perPage);
+    }
+
+    public function updateStockItem(
+        int $productId,
+        int $panelId,
+        string $configs,
+        string $subscriptionLink,
+        string $panelLink
+    ): Product {
+        $product = $this->findInventoryProduct($productId, $panelId);
+
+        if ($product->remark === 'pending') {
+            throw new RuntimeException('این رکورد قابل ویرایش نیست.');
+        }
+
+        $configs = trim($configs);
+        $subscriptionLink = trim($subscriptionLink);
+        $panelLink = trim($panelLink);
+
+        if ($configs === '') {
+            throw new RuntimeException('کانفیگ نمی‌تواند خالی باشد.');
+        }
+
+        if ($subscriptionLink === '') {
+            $subscriptionLink = $configs;
+        }
+        if ($panelLink === '') {
+            $panelLink = $configs;
+        }
+
+        $isSold = ! $product->isActive && $product->account_id !== null;
+
+        if ($isSold && $configs !== trim((string) $product->configs)) {
+            throw new RuntimeException('کانفیگ فروخته‌شده قابل تغییر نیست.');
+        }
+
+        if (! $isSold && $this->configExistsOnPanel($panelId, $configs, $productId)) {
+            throw new RuntimeException('این کانفیگ قبلاً در موجودی ثبت شده است.');
+        }
+
+        $product->configs = $configs;
+        $product->subscription_link = $subscriptionLink;
+        $product->panel_link = $panelLink;
+        $product->save();
+
+        return $product->load([
+            'product_category:id,category_name,price,price_in_dollar,pannel_id',
+            'user:account_id,username,first_name,last_name',
+        ]);
+    }
+
+    public function deleteStockItem(int $productId, int $panelId): void
+    {
+        $product = $this->findInventoryProduct($productId, $panelId);
+
+        if ($product->remark === 'pending') {
+            throw new RuntimeException('این رکورد قابل حذف نیست.');
+        }
+
+        $product->delete();
+    }
+
+    public function findInventoryProduct(int $productId, int $panelId): Product
+    {
+        $this->assertInventoryPanel($panelId);
+
+        $product = $this->baseQuery($panelId)
+            ->where('id', $productId)
+            ->first();
+
+        if ($product === null) {
+            throw new RuntimeException('کانفیگ مورد نظر یافت نشد.');
+        }
+
+        return $product;
+    }
+
+    private function configExistsOnPanel(int $panelId, string $config, ?int $exceptProductId = null): bool
+    {
+        return $this->baseQuery($panelId)
+            ->where('configs', $config)
+            ->when($exceptProductId !== null, fn (Builder $query) => $query->where('id', '!=', $exceptProductId))
+            ->exists();
+    }
+
+    private function assertInventoryPanel(int $panelId): void
+    {
+        $panel = Pannel::find($panelId);
+        if (! $panel || ! $panel->isInventoryPanel()) {
+            throw new RuntimeException('پنل انتخاب‌شده از نوع موجودی (custome) نیست.');
+        }
+    }
+
+    private function baseQuery(int $panelId): Builder
+    {
+        return Product::query()
+            ->whereHas('product_category', function (Builder $query) use ($panelId) {
+                $query->where('pannel_id', $panelId);
+            })
+            ->where(function (Builder $query) {
+                $query->whereNull('remark')
+                    ->orWhere('remark', '!=', 'pending');
+            });
+    }
+
+    private function withCategoryJoin(Builder $query): Builder
+    {
+        if (! $this->queryHasJoin($query, 'product_categories')) {
+            $query->join(
+                'product_categories',
+                'products.product_categories_id',
+                '=',
+                'product_categories.id'
+            );
+        }
+
+        return $query->select('products.*');
+    }
+
+    private function queryHasJoin(Builder $query, string $table): bool
+    {
+        $joins = $query->getQuery()->joins ?? [];
+
+        foreach ($joins as $join) {
+            if ($join->table === $table) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    private function applyStatusFilter(Builder $query, ?string $status): void
+    {
+        match ($status) {
+            'active' => $query->where('isActive', true),
+            'sold' => $query->where('isActive', false)->whereNotNull('account_id'),
+            default => null,
+        };
+    }
+
+    private function applySearch(Builder $query, ?string $search): void
+    {
+        $search = trim((string) $search);
+        if ($search === '') {
+            return;
+        }
+
+        $query->where(function (Builder $inner) use ($search) {
+            $inner->where('configs', 'like', "%{$search}%")
+                ->orWhere('subscription_link', 'like', "%{$search}%")
+                ->orWhere('remark', 'like', "%{$search}%")
+                ->orWhereHas('product_category', function (Builder $categoryQuery) use ($search) {
+                    $categoryQuery->where('category_name', 'like', "%{$search}%");
+                });
+        });
+    }
+
+    private function applySort(Builder $query, ?string $sort): void
+    {
+        match ($sort) {
+            'created_at_asc' => $query->orderBy('created_at'),
+            'updated_at_desc' => $query->orderByDesc('updated_at'),
+            'updated_at_asc' => $query->orderBy('updated_at'),
+            'category_asc' => $this->withCategoryJoin($query)->orderBy('product_categories.category_name'),
+            'category_desc' => $this->withCategoryJoin($query)->orderByDesc('product_categories.category_name'),
+            'price_asc' => $this->withCategoryJoin($query)->orderBy('product_categories.price'),
+            'price_desc' => $this->withCategoryJoin($query)->orderByDesc('product_categories.price'),
+            'status' => $query->orderByDesc('isActive')->orderByDesc('id'),
+            default => $query->orderByDesc('created_at'),
+        };
+    }
+}

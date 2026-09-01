@@ -1,3 +1,52 @@
 <?php
-bolt_decrypt( __FILE__ , 'gzgHjC'); return 0;
-##!!!##R6ueqqKwrZ6gol1+ra2ZiqyhoqmweEdHsrCiXYapqbKqpquesaKZgZ6xnp+esKKZgqmsrrKiq7GZg56gsayvpqKwmYWesIOeoLGsr7Z4R7Kwol2GqamyqqarnrGimYGesZ6fnrCimYKprK6yoquxmYqsoaKpeEdHoKmesLBdf6msoKiioZKwoq9dorWxoquhsF2KrKGiqUe4R11dXV2ysKJdhZ6wg56gsayvtnhHXV1dXa2vrLGioLGioV1ho6apqZ6fqaJdXV16XZhknqCgrLKrsZymoWRpXWSvop6wrKtkmnhHXV1dXa2vrLGioLGioV1hsZ6fqaJdXV1dXV16XWSfqaygqKKhnLKwoq+wZHhHXV1dXa2vrLGioLGioV1hra+mqp6vtoiitl16XWSmoWR4R11dXV2tsp+ppqBdYbGmqqKwsZ6qrbBdXV1del2xr7KieEddXV1dra+ssaKgsaKhXWGesbGvpp+ysaKwXXpdmEddXV1dXV1dXWSvop6wrKtkXXp7XWSyq6irrLSrZGlHXV1dXZp4R11dXV2tsp+ppqBdo7KroLGmrKtdpKKxf6msoKiioZKwoq+wZWZHXV1dXbhHXV1dXV1dXV2vorGyr6tdYbGlprBqe56pqWVmeEddXV1dukddXV1drbKfqaagXaOyq6CxpqyrXZ6hoX+prKCooqGSsKKvZWGeoKCssquxnKahaV1hr6KesKyrZkddXV1duEddXV1dXV1dXWGfqaygqKKhkrCir116XWGxpaawanu0paKvomVknqCgrLKrsZymoWRpXWGeoKCssquxnKahZmp7o6avsLFlZnhHXV1dXV1dXV2mo11lYZ+prKCooqGSsKKvZl24R11dXV1dXV1dXV1dXWGfqaygqKKhkrCir2p7r6KesKyrXXpdYa+inrCsq3hHXV1dXV1dXV1dXV1dYZ+prKCooqGSsKKvanuwnrOiZWZ4R11dXV1dXV1dul2iqbCiXbhHXV1dXV1dXV1dXV1dYbGlprBqe56goKyyq7GcpqFdel1hnqCgrLKrsZymoXhHXV1dXV1dXV1dXV1dYbGlprBqe6+inrCsq11dXV1del1hr6KesKyreEddXV1dXV1dXV1dXV1hsaWmsGp7sJ6zomVmeEddXV1dXV1dXbpHXV1dXbpHXV1dXa2yn6mmoF2jsqugsaasq12voqqss6J/qaygqKKhkrCir2VhnqCgrLKrsZymoWZHXV1dXbhHXV1dXV1dXV1hn6msoKiioZKwoq9del1hsaWmsGp7tKWir6JlZJ6goKyyq7GcpqFkaV1hnqCgrLKrsZymoWZqe6Omr7CxZWZ4R11dXV1dXV1dpqNdZWGfqaygqKKhkrCir2ZduEddXV1dXV1dXV1dXV1hn6msoKiioZKwoq9qe6GiqaKxomVmeEddXV1dXV1dXbpHXV1dXbpHXV1dXa2yn6mmoF2jsqugsaasq12korF/qaygqKKhkrCir2VhnqCgrLKrsZymoWZHXV1dXbhHXV1dXV1dXV2vorGyr6tdYbGlprBqe7Sloq+iZWSeoKCssquxnKahZGldYZ6goKyyq7GcpqFmanujpq+wsWVmeEddXV1dukddXV1drbKfqaagXaOyq6CxpqyrXaawf6msoKiioWVhnqCgrLKrsZymoWZHXV1dXbhHXV1dXV1dXV2vorGyr6tdYbGlprBqe7Sloq+iZWSeoKCssquxnKahZGldYZ6goKyyq7GcpqFmanuitaawsbBlZnhHXV1dXbpHXV1dXa2yn6mmoF2jsqugsaasq12korF/qaygqKKhkrCir4CssquxZWZHXV1dXbhHXV1dXV1dXV2vorGyr6tdYbGlprBqe6CssquxZWZ4R11dXV26R7pH
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class BlockedUser extends Model
+{
+    use HasFactory;
+    protected $fillable   = ['account_id', 'reason'];
+    protected $table      = 'blocked_users';
+    protected $primaryKey = 'id';
+    public $timestamps    = true;
+    protected $attributes = [
+        'reason' => 'unknown',
+    ];
+    public function getBlockedUsers()
+    {
+        return $this->all();
+    }
+    public function addBlockedUser($account_id, $reason)
+    {
+        $blockedUser = $this->where('account_id', $account_id)->first();
+        if ($blockedUser) {
+            $blockedUser->reason = $reason;
+            $blockedUser->save();
+        } else {
+            $this->account_id = $account_id;
+            $this->reason     = $reason;
+            $this->save();
+        }
+    }
+    public function removeBlockedUser($account_id)
+    {
+        $blockedUser = $this->where('account_id', $account_id)->first();
+        if ($blockedUser) {
+            $blockedUser->delete();
+        }
+    }
+    public function getBlockedUser($account_id)
+    {
+        return $this->where('account_id', $account_id)->first();
+    }
+    public function isBlocked($account_id)
+    {
+        return $this->where('account_id', $account_id)->exists();
+    }
+    public function getBlockedUserCount()
+    {
+        return $this->count();
+    }
+}

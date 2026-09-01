@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'glr2nY'); return 0;
-##!!!##SEisn6ujsa6foaNef66umoO2oaOusqetrLF5SEizsaNeh6qqs6unrJ+yo5qErbOsop+yp62smoO2oaOusqetrLGahp+soqqjsF6fsV6DtqGjrrKnrayGn6yiqqOweUizsaNekqawrbWfoKqjeUhIoaqfsbFehp+soqqjsF6jtrKjrKKxXoO2oaOusqetrIafrKKqo7BIuUheXl5ebWhoSF5eXl5eaF6SpqNeqqexsl6tpF6ypqNep6yus7KxXrKmn7Jen7CjXqyjtKOwXqSqn7Gmo6Jesq1esqajXrGjsbGnraxeraxetJ+qp6KfsqetrF6jtqGjrrKnrayxbEheXl5eXmhIXl5eXl5oXn60n7Ben7Cwn7d6p6yyal6xsrCnrKV8SF5eXl5eaG1IXl5eXq6wrbKjobKjol5ioq2ssoSqn7GmXntemUheXl5eXl5eXmWhs7Cwo6yyna6fsbG1rbCiZWpIXl5eXl5eXl5lrp+xsbWtsKJlakheXl5eXl5eXmWun7Gxta2wop2hraykp7Crn7KnraxlakheXl5em3lISF5eXl5taGhIXl5eXl5oXpCjpaexsqOwXrKmo16jtqGjrrKnraxepp+soqqnrKVeoZ+qqqCfoamxXqStsF6ypqNen66uqqehn7KnraxsSF5eXl5eaG1IXl5eXq6zoKqnoV6ks6yhsqetrF6wo6WnsbKjsGZneF60raeiSF5eXl65SF5eXl5eXl5eYrKmp7FrfLCjrq2wsp+gqqNmpLOsobKnraxeZpKmsK21n6Cqo15io2deuUheXl5eXl5eXl5eXl5tbUheXl5eXl5eXrtneUheXl5eu0i7SA==
+
+namespace App\Exceptions;
+
+use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Throwable;
+
+class Handler extends ExceptionHandler
+{
+    /**
+     * The list of the inputs that are never flashed to the session on validation exceptions.
+     *
+     * @var array<int, string>
+     */
+    protected $dontFlash = [
+        'current_password',
+        'password',
+        'password_confirmation',
+    ];
+
+    /**
+     * Register the exception handling callbacks for the application.
+     */
+    public function register(): void
+    {
+        $this->reportable(function (Throwable $e) {
+            //
+        });
+    }
+}

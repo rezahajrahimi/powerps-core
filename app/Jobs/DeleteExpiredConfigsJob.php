@@ -1,3 +1,126 @@
 <?php
-bolt_decrypt( __FILE__ , 'GcxEHP'); return 0;
-##!!!##CQltYGxkcm9gYmQfQG9vW0luYXI6CQl0cmQfQG9vW0dzc29bQm5tc3Fua2tkcXJbR2hjY2hleE9gbW1ka0JubXNxbmtrZHE6CXRyZB9Ab29bR3Nzb1tCbm1zcW5ra2RxcltMYHF5YWBtT2BtbWRrQm5tc3Fua2tkcToJdHJkH0Bvb1tHc3NvW0JubXNxbmtrZHFyW1JgbWBkaE9gbW1ka0JubXNxbmtrZHE6CXRyZB9Ab29bTG5jZGtyW0ZxbnRvTm9kcWBzaG5tSW5hOgl0cmQfQG9vW0xuY2RrcltPYG1tZGs6CXRyZB9Ab29bTG5jZGtyW09xbmN0YnM6CXRyZB9Ia2t0bGhtYHNkW0F0cltQdGR0ZGBha2Q6CXRyZB9Ia2t0bGhtYHNkW0JubXNxYGJzcltQdGR0ZFtSZ250a2NQdGR0ZDoJdHJkH0hra3RsaG1gc2RbRW50bWNgc2hubVtBdHJbQ2hyb2BzYmdgYWtkOgl0cmQfSGtrdGxobWBzZFtQdGR0ZFtIbXNkcWBic3JWaHNnUHRkdGQ6CXRyZB9Ia2t0bGhtYHNkW1B0ZHRkW1JkcWhga2h5ZHJMbmNka3I6CXRyZB9Ia2t0bGhtYHNkW1J0b29ucXNbRWBiYGNkcltLbmY6CQlia2Bych9DZGtkc2REd29ocWRjQm5tZWhmckluYR9obG9rZGxkbXNyH1JnbnRrY1B0ZHRkCXoJHx8fH3RyZB9DaHJvYHNiZ2Bha2QrH0htc2RxYGJzclZoc2dQdGR0ZCsfUHRkdGRgYWtkKx9SZHFoYGtoeWRyTG5jZGtyOgkJHx8fH290YWtoYh9obXMfI3NobGRudHMfPB8yNS8vOgkJHx8fHy4pKR8/dWBxH2tocnM7YHFxYHg7cnNxaG1mKx9saHdkYz09HykuCR8fHx9vcW5zZGJzZGMfYHFxYHgfI2hzZGxyOgkJHx8fH29xbnNkYnNkYx8+aG1zHyNpbmFRZGJucWNIYzoJCR8fHx8uKSkJHx8fHx8pHz9vYHFgbB8fa2hycztgcXFgeDtyc3FobWYrH2xod2RjPT0fHyNoc2RscgkfHx8fHykuCR8fHx9vdGFraGIfZXRtYnNobm0fXl5ibm1yc3F0YnMnYHFxYHgfI2hzZGxyKx8+aG1zHyNpbmFRZGJucWNIYx88H210a2soCR8fHx96CR8fHx8fHx8fI3NnaHIsPWhzZGxyHzwfI2hzZGxyOgkfHx8fHx8fHyNzZ2hyLD1pbmFRZGJucWNIYx88HyNpbmFRZGJucWNIYzoJHx8fH3wJCR8fHx9vdGFraGIfZXRtYnNobm0fZ2BtY2tkJyg5H3VuaGMJHx8fH3oJHx8fHx8fHx8jaW5hUWRibnFjHzwfI3NnaHIsPWluYVFkYm5xY0hjCR8fHx8fHx8fHx8fHz4fRnFudG9Ob2RxYHNobm1JbmE5OWVobWMnI3NnaHIsPWluYVFkYm5xY0hjKAkfHx8fHx8fHx8fHx85H210a2s6CQkfHx8fHx8fHyNydGJiZHJySHNkbHIfPB9aXDoJHx8fHx8fHx8jZWBoa2RjSHNkbHIfPB9aXDoJHx8fHx8fHx8jb3FuYmRycmRjHzwfLzoJCR8fHx8fHx8faGUfJyNpbmFRZGJucWMoH3oJHx8fHx8fHx8fHx8fI2luYVFkYm5xYyw9dG9jYHNkJ1omcnNgc3RyJh88PR8mb3FuYmRycmhtZiZcKDoJHx8fHx8fHx98CQkfHx8fHx8fH3NxeB96CR8fHx8fHx8fHx8fH2VucWRgYmcfJyNzZ2hyLD1oc2Rsch9gch8jaHNkbCgfegkfHx8fHx8fHx8fHx8fHx8fI29xbmN0YnNIYx88HydobXMoHycjaHNkbFomb3FuY3Ric15oYyZcHz4+Hy8oOgkfHx8fHx8fHx8fHx8fHx8fI29gbWRrSGMfPB8naG1zKB8nI2hzZGxaJm9gbWRrXmhjJlwfPj4fLyg6CR8fHx8fHx8fHx8fHx8fHx8jdHRoYx88Hydyc3FobWYoHycjaHNkbFomdHRoYyZcHz4+HyYmKDoJHx8fHx8fHx8fHx8fHx8fHyNtYGxkHzwfJ3JzcWhtZigfJycjaHNkbFomcWRsYHFqJlwfPj4fJiYoHyA8PB8mJh8+HyNoc2RsWiZxZGxgcWomXB85HycjdHRoYx8gPDwfJiYfPh8jdHRoYx85HybYhdem2ITXs9et17QmKCg6CQkfHx8fHx8fHx8fHx8fHx8fc3F4H3oJHx8fHx8fHx8fHx8fHx8fHx8fHx9oZR8nI29xbmN0YnNIYx89Hy8oH3oJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fT3FuY3Riczk5dmdkcWQnJmhjJisfI29xbmN0YnNIYygsPWNka2RzZCcoOgkfHx8fHx8fHx8fHx8fHx8fHx8fH3wJCR8fHx8fHx8fHx8fHx8fHx8fHx8fI29gbWRrHzwfT2BtbWRrOTllaG1jJyNvYG1ka0hjKDoJHx8fHx8fHx8fHx8fHx8fHx8fHx9oZR8nI29gbWRrHyA8H210a2sfJSUfI3R0aGMfIDw8HyYmKB96CR8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyNzZ2hyLD1jZGtkc2RPYG1ka1RyZHEnI29gbWRrKx8jdHRoYyg6CR8fHx8fHx8fHx8fHx8fHx8fHx8ffAkJHx8fHx8fHx8fHx8fHx8fHx8fHx8jcnRiYmRyckhzZGxyWlwfPB9aJm1gbGQmHzw9HyNtYGxkXDoJHx8fHx8fHx8fHx8fHx8fH3wfYmBzYmcfJ1tTZ3FudmBha2QfI3NnKB96CR8fHx8fHx8fHx8fHx8fHx8fHx8fS25mOTlkcXFucScmQ2RrZHNkRHdvaHFkY0JubWVoZnJJbmEfaHNkbB9lYGhrZGMmKx9aCR8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyZoc2RsJh88PR8jaHNkbCsJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fJmRxcW5xJh88PR8jc2csPWZkc0xkcnJgZmQnKCsJHx8fHx8fHx8fHx8fHx8fHx8fHx9cKDoJHx8fHx8fHx8fHx8fHx8fHx8fHx8jZWBoa2RjSHNkbHJaXB88H1oJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fJm1gbGQmHzw9HyNtYGxkKwkfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8mZHFxbnEmHzw9HyNzZyw9ZmRzTGRycmBmZCcoKwkfHx8fHx8fHx8fHx8fHx8fHx8fH1w6CR8fHx8fHx8fHx8fHx8fHx98CQkfHx8fHx8fHx8fHx8fHx8fI29xbmJkcnJkYyoqOgkfHx8fHx8fHx8fHx8fHx8faGUfJyNpbmFRZGJucWMoH3oJHx8fHx8fHx8fHx8fHx8fHx8fHx8jaW5hUWRibnFjLD10b2Ngc2QnWgkfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8mb3FuYmRycmRjXmJubWVoZnImHzw9HyNvcW5iZHJyZGMrCR8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyZydGJiZHJyXmhzZGxyJh88PR8jcnRiYmRyckhzZGxyKwkfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8mZWBoa2RjXmhzZGxyJh88PR8jZWBoa2RjSHNkbHIrCR8fHx8fHx8fHx8fHx8fHx8fHx8fXCg6CR8fHx8fHx8fHx8fHx8fHx98CR8fHx8fHx8fHx8fH3wJCR8fHx8fHx8fHx8fH2hlHycjaW5hUWRibnFjKB96CR8fHx8fHx8fHx8fHx8fHx8jYGtrRWBoa2RjHzwfI3J0YmJkcnJIc2Rsch88PDwfWlwfJSUfI2VgaGtkY0hzZGxyHyA8PB9aXDoJHx8fHx8fHx8fHx8fHx8fHyNpbmFRZGJucWMsPXRvY2BzZCdaCR8fHx8fHx8fHx8fHx8fHx8fHx8fJnJzYHN0ciYfPD0fI2Bra0VgaGtkYx8+HyZlYGhrZGMmHzkfJmJubG9rZHNkYyYrCR8fHx8fHx8fHx8fHx8fHx8fHx8fJmRxcW5xXmxkcnJgZmQmHzw9HyNlYGhrZGNIc2Rsch88PDwfWlwJHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fPh9tdGtrCR8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHzkfYm50bXMnI2VgaGtkY0hzZGxyKB8tHyYf2ITYh9ew164f16fXph/Xrde216Yf16zXr9iAH9iF17PXri0mKwkfHx8fHx8fHx8fHx8fHx8fHx8fHyZydGJiZHJyXmhzZGxyJh88PR8jcnRiYmRyckhzZGxyKwkfHx8fHx8fHx8fHx8fHx8fHx8fHyZlYGhrZGNeaHNkbHImHzw9HyNlYGhrZGNIc2RscisJHx8fHx8fHx8fHx8fHx8fH1woOgkfHx8fHx8fHx8fHx98CR8fHx8fHx8ffB9iYHNiZx8nW1NncW52YGFrZB8jc2coH3oJHx8fHx8fHx8fHx8fS25mOTlkcXFucScmQ2RrZHNkRHdvaHFkY0JubWVoZnJJbmE5HyYfLR8jc2csPWZkc0xkcnJgZmQnKCg6CR8fHx8fHx8fHx8fH2hlHycjaW5hUWRibnFjKB96CR8fHx8fHx8fHx8fHx8fHx8jaW5hUWRibnFjLD10b2Ngc2QnWgkfHx8fHx8fHx8fHx8fHx8fHx8fHyZyc2BzdHImHzw9HyZlYGhrZGMmKwkfHx8fHx8fHx8fHx8fHx8fHx8fHyZkcXFucV5sZHJyYGZkJh88PR8jc2csPWZkc0xkcnJgZmQnKCsJHx8fHx8fHx8fHx8fHx8fHx8fHx8mb3FuYmRycmRjXmJubWVoZnImHzw9HyNvcW5iZHJyZGMrCR8fHx8fHx8fHx8fHx8fHx8fHx8fJnJ0YmJkcnJeaHNkbHImHzw9HyNydGJiZHJySHNkbHIrCR8fHx8fHx8fHx8fHx8fHx8fHx8fJmVgaGtkY15oc2RsciYfPD0fI2VgaGtkY0hzZGxyKwkfHx8fHx8fHx8fHx8fHx8fXCg6CR8fHx8fHx8fHx8fH3wJHx8fHx8fHx98CR8fHx98CQkfHx8fb3FodWBzZB9ldG1ic2hubR9jZGtkc2RPYG1ka1RyZHEnT2BtbWRrHyNvYG1kaysfcnNxaG1mHyN0dGhjKDkfdW5oYwkfHx8fegkfHx8fHx8fH2hlHycjb2BtZGssPXN4b2QfPDw8HyZnaGNjaGV4JigfegkfHx8fHx8fHx8fHx8nbWR2H0doY2NoZXhPYG1tZGtCbm1zcW5ra2RxJygoLD1jZGtkc2RUcmRxTmVHaGNjaGV4T2BtZGsnI29gbWRrLD1oYysfI3R0aGMoOgkfHx8fHx8fH3wfZGtyZGhlHycjb2BtZGssPXN4b2QfPDw8HyZyYG1gZGgmKB96CR8fHx8fHx8fHx8fHydtZHYfUmBtYGRoT2BtbWRrQm5tc3Fua2tkcScoKCw9Y2RrZHNkVHJkcScjb2BtZGsrHyN0dGhjKDoJHx8fHx8fHx98H2RrcmRoZR8nI29gbWRrLD1ockxgcXlhYG1CbmxvYHNoYWtkJygoH3oJHx8fHx8fHx8fHx8fTGBxeWFgbU9gbW1ka0JubXNxbmtrZHE5OXFkcm5rdWQnI29gbWRrKCw9Y2RrZHNkVHJkcScjb2BtZGsrHyN0dGhjKDoJHx8fHx8fHx98CR8fHx98CXwJ
+
+namespace App\Jobs;
+
+use App\Http\Controllers\HiddifyPannelController;
+use App\Http\Controllers\MarzbanPannelController;
+use App\Http\Controllers\SanaeiPannelController;
+use App\Models\GroupOperationJob;
+use App\Models\Pannel;
+use App\Models\Product;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Log;
+
+class DeleteExpiredConfigsJob implements ShouldQueue
+{
+    use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
+
+    public int $timeout = 3600;
+
+    /** @var list<array<string, mixed>> */
+    protected array $items;
+
+    protected ?int $jobRecordId;
+
+    /**
+     * @param  list<array<string, mixed>>  $items
+     */
+    public function __construct(array $items, ?int $jobRecordId = null)
+    {
+        $this->items = $items;
+        $this->jobRecordId = $jobRecordId;
+    }
+
+    public function handle(): void
+    {
+        $jobRecord = $this->jobRecordId
+            ? GroupOperationJob::find($this->jobRecordId)
+            : null;
+
+        $successItems = [];
+        $failedItems = [];
+        $processed = 0;
+
+        if ($jobRecord) {
+            $jobRecord->update(['status' => 'processing']);
+        }
+
+        try {
+            foreach ($this->items as $item) {
+                $productId = (int) ($item['product_id'] ?? 0);
+                $panelId = (int) ($item['panel_id'] ?? 0);
+                $uuid = (string) ($item['uuid'] ?? '');
+                $name = (string) (($item['remark'] ?? '') !== '' ? $item['remark'] : ($uuid !== '' ? $uuid : 'نامشخص'));
+
+                try {
+                    if ($productId > 0) {
+                        Product::where('id', $productId)->delete();
+                    }
+
+                    $panel = Pannel::find($panelId);
+                    if ($panel != null && $uuid !== '') {
+                        $this->deletePanelUser($panel, $uuid);
+                    }
+
+                    $successItems[] = ['name' => $name];
+                } catch (\Throwable $th) {
+                    Log::error('DeleteExpiredConfigsJob item failed', [
+                        'item' => $item,
+                        'error' => $th->getMessage(),
+                    ]);
+                    $failedItems[] = [
+                        'name' => $name,
+                        'error' => $th->getMessage(),
+                    ];
+                }
+
+                $processed++;
+                if ($jobRecord) {
+                    $jobRecord->update([
+                        'processed_configs' => $processed,
+                        'success_items' => $successItems,
+                        'failed_items' => $failedItems,
+                    ]);
+                }
+            }
+
+            if ($jobRecord) {
+                $allFailed = $successItems === [] && $failedItems !== [];
+                $jobRecord->update([
+                    'status' => $allFailed ? 'failed' : 'completed',
+                    'error_message' => $failedItems === []
+                        ? null
+                        : count($failedItems) . ' مورد با خطا حذف نشد.',
+                    'success_items' => $successItems,
+                    'failed_items' => $failedItems,
+                ]);
+            }
+        } catch (\Throwable $th) {
+            Log::error('DeleteExpiredConfigsJob: ' . $th->getMessage());
+            if ($jobRecord) {
+                $jobRecord->update([
+                    'status' => 'failed',
+                    'error_message' => $th->getMessage(),
+                    'processed_configs' => $processed,
+                    'success_items' => $successItems,
+                    'failed_items' => $failedItems,
+                ]);
+            }
+        }
+    }
+
+    private function deletePanelUser(Pannel $panel, string $uuid): void
+    {
+        if ($panel->type === 'hiddify') {
+            (new HiddifyPannelController())->deleteUserOfHiddifyPanel($panel->id, $uuid);
+        } elseif ($panel->type === 'sanaei') {
+            (new SanaeiPannelController())->deleteUser($panel, $uuid);
+        } elseif ($panel->isMarzbanCompatible()) {
+            MarzbanPannelController::resolve($panel)->deleteUser($panel, $uuid);
+        }
+    }
+}

@@ -1,3 +1,176 @@
 <?php
-bolt_decrypt( __FILE__ , 'CWI9e3'); return 0;
-##!!!##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HSgXHNTc2BojJiEVKA/bKC0kGdsR3dQvvtTU1NTU1NTU1NTU1NTU1NQXFScZ1NsWIyAY2+6+1NTU1NTU1NTU1NTU1NTU1NTU1NTYKBwdJ+HyFRgY9iMgGNzYGiMmIRUoD9soGSwo2xHd777U1NTU1NTU1NTU1NTU1NTU1NTU1BYmGRUf777U1NTU1NTU1NTU1NTU1NTUFxUnGdTbHSgVIB0X2+6+1NTU1NTU1NTU1NTU1NTU1NTU1NTYKBwdJ+HyFRgY/SgVIB0X3NgaIyYhFSgP2ygZLCjbEd3vvtTU1NTU1NTU1NTU1NTU1NTU1NTUFiYZFR/vvtTU1NTU1NTU1NTU1NTU1NQXFScZ1NsoGSwo2+6+1NTU1NTU1NTU1NTU1NTU1NTU1NTYKBwdJ+HyFRgYCBksKNzYGiMmIRUoD9soGSwo2xHd777U1NTU1NTU1NTU1NTU1NTU1NTU1BYmGRUf777U1NTU1NTU1NTU1NTU1NTUFxUnGdTbFyMYGdvuvtTU1NTU1NTU1NTU1NTU1NTU1NTU2CgcHSfh8hUYGPcjGBnc2BojJiEVKA/bKBksKNsR3e++1NTU1NTU1NTU1NTU1NTU1NTU1NQWJhkVH+++1NTU1NTU1NTU1NTU1NTU1BcVJxnU2yAdIh/b7r7U1NTU1NTU1NTU1NTU1NTU1NTU1NgoHB0n4fIVGBgAHSIf3NgaIyYhFSgP2ygZLCjbEeDU2BojJiEVKA/bKSYg2xHd777U1NTU1NTU1NTU1NTU1NTU1NTU1BYmGRUf777U1NTU1NTU1NTU1NTU1NTUFxUnGdTbIhkrIB0iGdvuvtTU1NTU1NTU1NTU1NTU1NTU1NTU2CgcHSfh8hUYGAIZKwAdIhnc3e++1NTU1NTU1NTU1NTU1NTU1NTU1NQWJhkVH+++1NTU1NTU1NTU1NTUMb7U1NTU1NTU1DG+1NTU1NTU1NQmGSgpJiLU2CgcHSfvvtTU1NQxvr7U1NTU497evtTU1NTU3tSMW4xljGeMW4041I1yj0CMW4051I01jGWNOYxeljRAjGiMY4071IxcjTvUjF6NOI5jjGWMW405vtTU1NTU3r7U1NTU1N7U9CQVJhUh1CcoJh0iG9TYFxwVKP0Y1IxojTqMW4xnjTvUjjqMXr7U1NTU1N7U9CQVJhUh1BUmJhUt1NgjJCgdIyIn1IxejTqMbI9AjTmMW4xe1IxbjGqMW401j0C+1NTU1NTe1PQmGSgpJiLUFSYmFS3UjXKMW4xnjGLUjF6NOI5jjGWMW405vtTU1NTU3uO+1NTU1CQpFiAdF9QaKSIXKB0jItQnGSIY3CcoJh0iG9TYFxwVKP0Y4NQVJiYVLdTYIyQoHSMiJ9Tx1A8R3e7UFSYmFS2+1NTU1C++1NTU1NTU1NQdGtTc2CgcHSfh8hojJiEVKNTx8fHU2/wIAQDb3dQvvtTU1NTU1NTU1NTU1CYZKCkmItTYKBwdJ+HyKBkgGRsmFSHh8icZIhj8CAEAARknJxUbGdzYFxwVKP0Y4NTYKBwdJ+HyIRknJxUbGeDU2CMkKB0jIifd777U1NTU1NTU1DG+1NTU1NTU1NQmGSgpJiLU2CgcHSfh8igZIBkbJhUh4fInGSIYARUmHxgjKyIBGScnFRsZ3NgXHBUo/Rjg1NgoHB0n4fIhGScnFRsZ4NTYIyQoHSMiJ93vvtTU1NQxvr7U1NTU497evtTU1NTU3tSMY4xlj0CMW401jF7UjTmMXo061I5djFuNOY041I1yj0CMW4051I01jGWNOYxeljRAjGiMY407vtTU1NTU3r7U1NTU1N7U9CYZKCkmItQnKCYdIhvUjTmMXo061I1yj0CMW405vtTU1NTU3uO+1NTU1CQpFiAdF9QaKSIXKB0jItQbGSgBGScnFRsZ3N3u1CcoJh0iG77U1NTUL77U1NTU1NTU1CYZKCkmItTYKBwdJ+HyIRknJxUbGe++1NTU1DG+Mb4=
+
+namespace App\Services;
+
+/**
+ * کلاس کمکی برای ساخت پیام‌های فرمت‌شده در تلگرام
+ * این کلاس امکان ساخت پیام‌های پیچیده با فرمت HTML یا Markdown را فراهم می‌کند
+ */
+class TelegramMessageFormatter
+{
+    private string $message = '';
+    private string $format;
+    private TelegramService $telegram;
+
+    public function __construct(TelegramService $telegram, string $format = 'HTML')
+    {
+        $this->telegram = $telegram;
+        $this->format = $format;
+    }
+
+    /**
+     * افزودن متن ساده به پیام
+     *
+     * @param string $text متن مورد نظر
+     * @return self
+     */
+    public function addText(string $text): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->formatHTML($text)
+            : $this->telegram->formatMarkdown($text);
+        return $this;
+    }
+
+    /**
+     * افزودن متن پررنگ به پیام
+     *
+     * @param string $text متن مورد نظر
+     * @return self
+     */
+    public function addBold(string $text): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->boldHTML($text)
+            : $this->telegram->boldMarkdown($text);
+        return $this;
+    }
+
+    /**
+     * افزودن متن کج (ایتالیک) به پیام
+     *
+     * @param string $text متن مورد نظر
+     * @return self
+     */
+    public function addItalic(string $text): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->italicHTML($text)
+            : $this->telegram->italicMarkdown($text);
+        return $this;
+    }
+
+    /**
+     * افزودن لینک به پیام
+     *
+     * @param string $text متن لینک
+     * @param string $url آدرس لینک
+     * @return self
+     */
+    public function addLink(string $text, string $url): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->createHTMLLink($text, $url)
+            : $this->telegram->createMarkdownLink($text, $url);
+        return $this;
+    }
+
+    /**
+     * افزودن متن با فرمت کد به پیام
+     *
+     * @param string $text متن کد
+     * @return self
+     */
+    public function addCode(string $text): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->codeHTML($text)
+            : $this->telegram->codeMarkdown($text);
+        return $this;
+    }
+
+    /**
+     * افزودن بلوک کد به پیام
+     *
+     * @param string $text متن کد
+     * @param string $language زبان برنامه‌نویسی (اختیاری)
+     * @return self
+     */
+    public function addPre(string $text, string $language = ''): self
+    {
+        $this->message .= $this->format === 'HTML'
+            ? $this->telegram->preHTML($text, $language)
+            : $this->telegram->preMarkdown($text, $language);
+        return $this;
+    }
+
+    /**
+     * افزودن خط جدید به پیام
+     *
+     * @return self
+     */
+    public function addNewLine(): self
+    {
+        $this->message .= "\n";
+        return $this;
+    }
+
+    /**
+     * افزودن متن از CustomText با فرمت‌های مختلف
+     *
+     * @param string $text متن اصلی
+     * @param array $formats آرایه‌ای از فرمت‌ها و متن‌ها
+     * @return self
+     */
+    public function addFormattedText(string $text, array $formats): self
+    {
+        foreach ($formats as $format) {
+            switch ($format['type']) {
+                case 'bold':
+                    $this->addBold($format['text']);
+                    break;
+                case 'italic':
+                    $this->addItalic($format['text']);
+                    break;
+                case 'text':
+                    $this->addText($format['text']);
+                    break;
+                case 'code':
+                    $this->addCode($format['text']);
+                    break;
+                case 'link':
+                    $this->addLink($format['text'], $format['url']);
+                    break;
+                case 'newline':
+                    $this->addNewLine();
+                    break;
+            }
+        }
+        return $this;
+    }
+
+    /**
+     * ارسال پیام فرمت‌شده به تلگرام
+     *
+     * @param string $chatId شناسه چت
+     * @param array $options تنظیمات اضافی
+     * @return array پاسخ تلگرام
+     */
+    public function send(string $chatId, array $options = []): array
+    {
+        if ($this->format === 'HTML') {
+            return $this->telegram->sendHTMLMessage($chatId, $this->message, $options);
+        }
+        return $this->telegram->sendMarkdownMessage($chatId, $this->message, $options);
+    }
+
+    /**
+     * دریافت متن کامل پیام فرمت‌شده
+     *
+     * @return string متن پیام
+     */
+    public function getMessage(): string
+    {
+        return $this->message;
+    }
+}

@@ -1,3 +1,75 @@
 <?php
-bolt_decrypt( __FILE__ , 'Vr3xeW'); return 0;
-##!!!##OTmdkJyUop+QkpRPcJ+fi3yek5Sbomo5OaSilE94m5uknJidkKOUi3OQo5CRkKKUi3SbnqCklJ2ji3WQkqOeoZiUoot3kKJ1kJKjnqGoajmkopRPeJubpJyYnZCjlItzkKOQkZCilIt0m56gpJSdo4t8npOUm2o5OZKbkKKiT3+QqJyUnaODqJ+UT5Sno5Sdk6JPfJ6TlJs5qjlPT09PpKKUT3eQonWQkqOeoahqOU9PT0+foZ6jlJKjlJNPU5akkKGTlJNPbE+KVpiTVoxqOU9PT0+foZ6jlJKjlJNPU5WYm5uQkZuUT2xPiladkJyUVltPVpyUoZKXkJ2jjpiTVltPVpKQm5uRkJKajqShm1ZbT1ajqJ+UVltPVpiijpCSo5illFZbT1aYoo6ikJ2TkZ6nVoxqOTlPT09Pn6Geo5SSo5STT1OSkKKjok9sT4o5T09PT09PT09WmKKOkJKjmKWUVk9sbU9WkZ6em5SQnVZbOU9PT09PT09PVpiijqKQnZORnqdWT2xtT1aRnp6blJCdVls5T09PT4xqOTlPT09PXllZOU9PT09PWU99nqGckJuYqZRPkE+SkJubkZCSmk+TnpyQmJ1PV6KSl5SclE9aT5eeoqOKWp+eoaOMW0+dnk+fkKOXWF05T09PT09ZT3CSkpSfo6JPpZCbpJSiT5uYmpRPUZSnkJyfm5Rdkp6cUVtPUZejo5+iaV5elKeQnJ+blF2SnpxeUVtPUZejo5+iaV5elKeQnJ+blF2SnpxenqGTlKFRXTlPT09PT1leOU9PT0+fpJGbmJJPoqOQo5iST5WknZKjmJ6dT52eoZyQm5iplHKQm5uRkJKac56ckJidV26io6GYnZZPU6KjnqGUk1hpT26io6GYnZY5T09PT6o5T09PT09PT09ToqOeoZSTT2xPo6GYnFdXoqOhmJ2WWE9ToqOeoZSTWGo5T09PT09PT0+YlU9XU6KjnqGUk09sbGxPVlZYT6o5T09PT09PT09PT09PoZSjpKGdT52km5tqOU9PT09PT09PrDk5T09PT09PT0+YlU9Xn6GUlo6ckKOSl1dWUo2Xo6Ofom5pXl5SmFZbT1Oio56hlJNYT1BsbE9gWE+qOU9PT09PT09PT09PT1Oio56hlJNPbE9Wl6Ojn6JpXl5WT11Pm6OhmJxXU6KjnqGUk1tPVl5WWGo5T09PT09PT0+sOTlPT09PT09PT1OfkKGjok9sT5+QoaKUjqShm1dToqOeoZSTWGo5T09PT09PT0+YlU9XUE+Yoo6QoaGQqFdTn5Cho6JYT6urT5Scn6OoV1OfkKGjoopWl56io1aMWFhPqjlPT09PT09PT09PT0+hlKOkoZ1PnaSbm2o5T09PT09PT0+sOTlPT09PT09PT1OikpeUnJRPbE+io6GjnpueppShV1eio6GYnZZYT1dTn5Cho6KKVqKSl5SclFaMT25uT1aXo6OfolZYWGo5T09PT09PT0+YlU9XUE+YnY6QoaGQqFdTopKXlJyUW0+KVpejo59WW09Wl6Ojn6JWjFtPo6GklFhYT6o5T09PT09PT09PT09PU6KSl5SclE9sT1aXo6OfolZqOU9PT09PT09PrDk5T09PT09PT09Tk56ckJidT2xPU6KSl5SclE9dT1ZpXl5WT11PU5+QoaOiilaXnqKjVoxqOU9PT09PT09PmJVPV1BPlJyfo6hXU5+QoaOiilafnqGjVoxYWE+qOU9PT09PT09PT09PT1OTnpyQmJ1PXWxPVmlWT11PU5+QoaOiilafnqGjVoxqOU9PT09PT09PrDk5T09PT09PT0+hlKOkoZ1PU5OenJCYnWo5T09PT6w5OU9PT09eWVk5T09PT09ZT4GUop6bpZRPkJGinpuko5RPiZChmJ2fkJtPkpCbm5GQkppPhIF7XTlPT09PT1lPfp2bqE+jl5RPk56ckJidT5iiT5KenZWYlqShkJGblGpPn5Cjl0+Yok+Qm6aQqKJPXp6hk5ShXTlPT09PT1leOU9PT0+fpJGbmJJPoqOQo5iST5WknZKjmJ6dT6GUop6bpZSJkKGYnZ+Qm3KQm5uRkJKahKGbV26io6GYnZZPU5KQm5uRkJKac56ckJidW0+io6GYnZZPU5yQmJ2EoZtYaU+io6GYnZY5T09PT6o5T09PT09PT09Tk56ckJidT2xPopSblWlpnZ6hnJCbmKmUcpCbm5GQkppznpyQmJ1XU5KQm5uRkJKac56ckJidWGo5T09PT09PT0+YlU9XU5OenJCYnU9sbGxPnaSbm1hPqjlPT09PT09PT09PT09Tk56ckJidT2xPoaOhmJxXU5yQmJ2EoZtbT1ZeVlhqOU9PT09PT09PrDk5T09PT09PT0+hlKOkoZ1PU5OenJCYnU9dT1ZenqGTlKFWajlPT09PrDk5T09PT15ZWTlPT09PT1lPdpSjT5Cbm0+elU+jl5RPkp6cnJSdo6JPlZ6hT6OXlE9/kKiclJ2jg6iflDlPT09PT1k5T09PT09ZT2+hlKOkoZ1Pi3ibm6ScmJ2Qo5SLc5CjkJGQopSLdJueoKSUnaOLgZSbkKOYnp2ii3eQonyQnag5T09PT09ZXjlPT09Pn6SRm5iST5WknZKjmJ6dT6OhkJ2ikJKjmJ6doldYOU9PT0+qOU9PT09PT09PoZSjpKGdT1Ojl5iiXG2XkKJ8kJ2oV4OhkJ2ikJKjmJ6daWmSm5CioltPVp+QqJyUnaOOo6iflI6Yk1ZYajlPT09PrDmsOQ==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class PaymentType extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'merchant_id', 'callback_url', 'type', 'is_active', 'is_sandbox'];
+
+    protected $casts = [
+        'is_active' => 'boolean',
+        'is_sandbox' => 'boolean',
+    ];
+
+    /**
+     * Normalize a callback domain (scheme + host[+port], no path).
+     * Accepts values like "example.com", "https://example.com/", "https://example.com/order".
+     */
+    public static function normalizeCallbackDomain(?string $stored): ?string
+    {
+        $stored = trim((string) $stored);
+        if ($stored === '') {
+            return null;
+        }
+
+        if (preg_match('#^https?://#i', $stored) !== 1) {
+            $stored = 'https://' . ltrim($stored, '/');
+        }
+
+        $parts = parse_url($stored);
+        if (! is_array($parts) || empty($parts['host'])) {
+            return null;
+        }
+
+        $scheme = strtolower((string) ($parts['scheme'] ?? 'https'));
+        if (! in_array($scheme, ['http', 'https'], true)) {
+            $scheme = 'https';
+        }
+
+        $domain = $scheme . '://' . $parts['host'];
+        if (! empty($parts['port'])) {
+            $domain .= ':' . $parts['port'];
+        }
+
+        return $domain;
+    }
+
+    /**
+     * Resolve absolute Zarinpal callback URL.
+     * Only the domain is configurable; path is always /order.
+     */
+    public static function resolveZarinpalCallbackUrl(?string $callbackDomain, string $mainUrl): string
+    {
+        $domain = self::normalizeCallbackDomain($callbackDomain);
+        if ($domain === null) {
+            $domain = rtrim($mainUrl, '/');
+        }
+
+        return $domain . '/order';
+    }
+
+    /**
+     * Get all of the comments for the PaymentType
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function transactions()
+    {
+        return $this->hasMany(Transaction::class, 'payment_type_id');
+    }
+}

@@ -1,3 +1,27 @@
 <?php
-bolt_decrypt( __FILE__ , 'YblfRr'); return 0;
-##!!!##W1u/sr62xMGytLZxksHBrZ7Atba9xIxbW8bEtnGavb3Gvrq/ssW2rZWyxbKzssS2rZa9wMLGtr/FrZeytMXAw7q2xK2ZssSXsrTFwMPKjFvGxLZxmr29xr66v7LFtq2VssWys7LEtq2WvcDCxra/xa2ewLW2vYxbW7S9ssTEcaW2xMWStLTAxr/FcbbJxba/tcRxnsC1tr1bzFtxcXFxxsS2cZmyxJeytMXAw8qMW3FxcXHBw8DFtrTFtrVxdbjGssO1trVxjnGseLq1eK6MW3FxcXHBw8DFtrTFtrVxdbe6vb2ys722cY5xrHjBsr+/tr2wurV4fXF4x8C9xr62eH1xeLbJwbrDtrC1ssp4roxbcXFxccHGs726tHG3xr+0xbrAv3HGxLa1pbbEw5K0tMDGv8XEeXpbcXFxccxbcXFxcXFxcXHDtsXGw79xdcW5usR+j7myxJ6yv8p5psS2taW2xMWStLTAxr/Fi4u0vbLExH1xeMW2xMWwsrS0wMa/xbC6tXh9cXi6tXh6jFtxcXFxzltxcXFxgHt7W3FxcXFxe3GYtsVxxbm2ccbEtsNxxbmyxXHAyL/EccW5tnGltsTFkrS0wMa/xVtxcXFxcXtbcXFxcXF7cZHDtsXGw79xrZq9vca+ur+yxbatlbLFsrOyxLatlr3Awsa2v8Wto7a9ssW6wL/ErZO2vcC/uMSlwFtxcXFxcXuAW3FxcXHBxrO9urRxt8a/tMW6wL9xwbK/tr15eotxk7a9wL+4xKXAW3FxcXHMW3FxcXFxcXFxw7bFxsO/cXXFubrEfo+ztr3Av7jEpcB5psS2w4uLtL2yxMR9cXjBsr+/tr2wurV4eoxbcXFxcc5bW85b
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class TestAccount extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['pannel_id', 'volume', 'expire_day'];
+    public function usedTesrAccounts()
+    {
+        return $this->hasMany(UsedTestAccount::class, 'test_account_id', 'id');
+    }
+    /**
+     * Get the user that owns the TestAccount
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function panel(): BelongsTo
+    {
+        return $this->belongsTo(User::class, 'pannel_id');
+    }
+
+}

@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '3EoOZN'); return 0;
-##!!!##6OhMP0tDUU4/QUP+H05OOitNQkNKURno6FNRQ/4nSkpTS0dMP1JDOiI/Uj9AP1FDOiNKTU9TQ0xSOiQ/QVJNUEdDUTomP1EkP0FSTVBXGehTUUP+J0pKU0tHTD9SQzoiP1I/QD9RQzojSk1PU0NMUjorTUJDShno6EFKP1FR/h9CVD9MQUMxQ1JSR0xFKk1NSVNO/kNWUkNMQlH+K01CQ0roWej+/v7+U1FD/iY/USQ/QVJNUFcZ6Oj+/v7+TlBNUkNBUkNC/gJER0pKP0BKQ/4b/jkFTD9LQwUK/gVUP0pTQwUK/gVCQ1FBUEdOUkdNTAU7Gejo/v7+/k5TQEpHQf5EU0xBUkdNTP5RQU1OQyVDUiBXLD9LQwYCT1NDUFcK/gJMP0tDB+j+/v7+Wej+/v7+/v7+/lBDUlNQTP4CT1NDUFcLHFVGQ1BDBgVMP0tDBQr+Akw/S0MHCxxER1BRUgYHGej+/v7+W+j+/v7+TlNASkdB/kRTTEFSR01M/lFBTU5DJUNSIFcsP0tDH0xCND9KU0MGAk9TQ1BXCv4CTD9LQwr+AlQ/SlNDB+j+/v7+Wej+/v7+/v7+/lBDUlNQTP4CT1NDUFcLHFVGQ1BDBgVMP0tDBQr+Akw/S0MHCxxVRkNQQwYFVD9KU0MFCv4CVD9KU0MHCxxER1BRUgYHGej+/v7+W+j+/v7+DQ3+RUNS/kBNTUpDP0z+VD9KU0Po/v7+/k5TQEpHQf5EU0xBUkdNTP5FQ1IgTU1KQz9MND9KU0MfUlJQR0BTUkMGB+j+/v7+Wej+/v7+/v7+/lBDUlNQTP4CUkZHUQscVD9KU0P+Gxsb/gVSUFNDBRno6P7+/v5b6Fvo
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AdvanceSettingLookup extends Model
+{
+    use HasFactory;
+
+    protected $fillable = ['name', 'value', 'description'];
+
+    public function scopeGetByName($query, $name)
+    {
+        return $query->where('name', $name)->first();
+    }
+    public function scopeGetByNameAndValue($query, $name, $value)
+    {
+        return $query->where('name', $name)->where('value', $value)->first();
+    }
+    // get boolean value
+    public function getBooleanValueAttribute()
+    {
+        return $this->value === 'true';
+
+    }
+}

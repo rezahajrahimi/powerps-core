@@ -1,3 +1,151 @@
 <?php
-bolt_decrypt( __FILE__ , '1rX175'); return 0;
-##!!!##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
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class InboundTemplate extends Model
+{
+    use HasFactory;
+    
+    protected $guarded = ['id'];
+    protected $fillable = [
+        'pannel_id',
+        'name',
+        'description',
+        'inbound_config',
+        'protocol',
+        'port',
+        'stream_settings',
+        'settings',
+        'is_active',
+        'created_by',
+        'listen',
+        'server_info',
+        'config_type', // v2ray, hysteria2, custom, etc.
+        'dns_info',
+        'routing_info',
+        'remarks'
+    ];
+
+    protected $casts = [
+        'inbound_config' => 'array',
+        'stream_settings' => 'array',
+        'settings' => 'array',
+        'server_info' => 'array',
+        'dns_info' => 'array',
+        'routing_info' => 'array',
+        'is_active' => 'boolean',
+        'port' => 'integer'
+    ];
+
+    /**
+     * Get the panel that owns the template
+     */
+    public function panel()
+    {
+        return $this->belongsTo(Pannel::class, 'pannel_id');
+    }
+
+    /**
+     * Get the user who created this template
+     */
+    public function creator()
+    {
+        return $this->belongsTo(User::class, 'created_by');
+    }
+
+    /**
+     * Get parsed inbound configuration
+     */
+    public function getParsedConfigAttribute()
+    {
+        if (is_string($this->inbound_config)) {
+            return json_decode($this->inbound_config, true) ?: [];
+        }
+        return $this->inbound_config ?: [];
+    }
+
+    /**
+     * Get parsed stream settings
+     */
+    public function getParsedStreamSettingsAttribute()
+    {
+        if (is_string($this->stream_settings)) {
+            return json_decode($this->stream_settings, true) ?: [];
+        }
+        return $this->stream_settings ?: [];
+    }
+
+    /**
+     * Get parsed settings
+     */
+    public function getParsedSettingsAttribute()
+    {
+        if (is_string($this->settings)) {
+            return json_decode($this->settings, true) ?: [];
+        }
+        return $this->settings ?: [];
+    }
+
+    /**
+     * Check if template supports specific protocol
+     */
+    public function supportsProtocol($protocol): bool
+    {
+        return strtolower($this->protocol) === strtolower($protocol);
+    }
+
+    /**
+     * Get template as inbound configuration for Sanaei
+     */
+    public function toInboundConfig(): array
+    {
+        return [
+            'id' => $this->id,
+            'protocol' => $this->protocol,
+            'port' => $this->port,
+            'settings' => $this->parsed_settings,
+            'streamSettings' => $this->parsed_stream_settings,
+            'tag' => $this->name,
+            'remark' => $this->description
+        ];
+    }
+
+    /**
+     * Validate template configuration
+     */
+    public function isValid(): bool
+    {
+        return !empty($this->protocol) && 
+               !empty($this->port) && 
+               $this->port > 0 && 
+               $this->port <= 65535 &&
+               !empty($this->inbound_config);
+    }
+
+    /**
+     * Scope for active templates
+     */
+    public function scopeActive($query)
+    {
+        return $query->where('is_active', true);
+    }
+
+    /**
+     * Scope for specific protocol
+     */
+    public function scopeProtocol($query, $protocol)
+    {
+        return $query->where('protocol', strtolower($protocol));
+    }
+
+    /**
+     * Scope for specific panel
+     */
+    public function scopeForPanel($query, $panelId)
+    {
+        return $query->where('pannel_id', $panelId);
+    }
+}

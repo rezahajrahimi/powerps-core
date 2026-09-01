@@ -1,3 +1,139 @@
 <?php
-bolt_decrypt( __FILE__ , 'HhUwMi'); return 0;
-##!!!##PDygk5+XpaKTlZdSc6KijnqmpqKOdaGgpqShnp6XpKVtPDynpZdSc6Kijn+hlpeepY6Gl6Wmc5WVoaegpm08p6WXUnOioo5/oZaXnqWOgpOgoJeebTynpZdSc6Kijn+hlpeepY6CpKGWp5WmdZOml5mhpKttPKell1JzoqKOf6GWl56ljoell5aGl6Wmc5WVoaegpm08p6WXUnuenqefm6CTppeOeqamoo6El6Onl6WmbTw8lZ6TpaVShpelpnOVlaGnoKZ1oaCmpKGenpekUpeqppeglqVSdaGgpqShnp6XpDytPFJSUlKip5Sem5VSlaGgpaZSdXOGd3mBhIuRgHN/d1JvUlkK2QzbCtkLuArcUgrUCuQLtwrZDb4K5g2+WW08PFJSUlKip5Sem5VSmKeglaaboaBSmZemhpelpnOVlaGnoKZ2l6aTm56lWls8UlJSUq08UlJSUlJSUlKmpKtSrTxSUlJSUlJSUlJSUlJWlpOmk1JvUoaXpaZzlZWhp6CmbGyYm6SlplpbbTxSUlJSUlJSUlJSUlKbmFJaVpaTppNSb29SoKeenltSrTxSUlJSUlJSUlJSUlJSUlJSVqKToKCXnlJvUoKToKCXnmxsmJukpaZaW208UlJSUlJSUlJSUlJSUlJSUpuYUlpWopOgoJeeUm9vUqCnnp5bUq08UlJSUlJSUlJSUlJSUlJSUlJSUlKOfqGZbGyXpKShpFpZmZemhpelpnOVlaGnoKZ2l6aTm56lbFKgoVKik6CXnlKTqJObnpOUnpdZW208PFJSUlJSUlJSUlJSUlJSUlJSUlJSpJemp6SgUqCnnp5tPFJSUlJSUlJSUlJSUlJSUlKvPDxSUlJSUlJSUlJSUlJSUlJSVpaTppNSb1Kgl6lShpelpnOVlaGnoKZaW208UlJSUlJSUlJSUlJSUlJSUlaWk6aTX3Cik6Cgl56Rm5ZSb1JWopOgoJeeX3Cblm08UlJSUlJSUlJSUlJSUlJSUlaWk6aTX3CXqqKbpJeRlpOrUm9SZWJtPFJSUlJSUlJSUlJSUlJSUlJWlpOmk19wqKGep5+XUm9SYmBnbTxSUlJSUlJSUlJSUlJSUlJSVpaTppNfcKWTqJdaW208UlJSUlJSUlJSUlJSrzw8UlJSUlJSUlJSUlJSVqaam6VfcJegpaekl4aXpaaCpKGWp5WmdZOml5mhpKtaVpaTppNbbTw8UlJSUlJSUlJSUlJSpJemp6SgUlaWk6aTbTxSUlJSUlJSUq9SlZOmlZpSWo6GmqShqZOUnpdSVqaaW1KtPFJSUlJSUlJSUlJSUo5+oZlsbJekpKGkWlmZl6aGl6Wmc5WVoaegpnaXppObnqVsUllSYFJWpppfcJmXpn+XpaWTmZdaW1ttPDxSUlJSUlJSUlJSUlKkl6anpKBSoKeenm08UlJSUlJSUlKvPFJSUlKvPDxSUlJSoqeUnpuVUpinoJWmm6GgUqeilpOml4aXpaZzlZWhp6Cmdpemk5uepVqEl6Onl6WmUlakl6Onl6WmWzxSUlJSrTxSUlJSUlJSUqakq1KtPFJSUlJSUlJSUlJSUlaml6Wmc5WVoaegplJvUoaXpaZzlZWhp6CmbGyYm6SlplpbbTxSUlJSUlJSUlJSUlKbmFJaVqaXpaZzlZWhp6CmUm9vUqCnnp5bUq08UlJSUlJSUlJSUlJSUlJSUlaml6Wmc5WVoaegplJvUlammpulX3CZl6aGl6Wmc5WVoaegpnaXppObnqVaW208UlJSUlJSUlJSUlJSUlJSUpuYUlpWppelpnOVlaGnoKZSb29SoKeenltSrTxSUlJSUlJSUlJSUlJSUlJSUlJSUqSXpqekoFKkl6WioaCll1pbX3CcpaGgWpiTnqWXXlJnYmJbbTxSUlJSUlJSUlJSUlJSUlJSrzxSUlJSUlJSUlJSUlKvPDxSUlJSUlJSUlJSUlJWppelpnOVlaGnoKZfcKKToKCXnpGbllJvUlakl6Onl6WmX3Cik6Cgl56Rm5ZtPFJSUlJSUlJSUlJSUlaml6Wmc5WVoaegpl9wl6qim6SXkZaTq1JvUlakl6Onl6WmX3CXqqKbpJeRlpOrbTxSUlJSUlJSUlJSUlJWppelpnOVlaGnoKZfcKihnqefl1JvUlakl6Onl6WmX3CooZ6nn5dtPFJSUlJSUlJSUlJSUlaml6Wmc5WVoaegpl9wpZOol1pbbTw8UlJSUlJSUlJSUlJSVqaam6VfcJegpaekl4aXpaaCpKGWp5WmdZOml5mhpKtaVqaXpaZzlZWhp6CmW208PFJSUlJSUlJSUlJSUqSXpqekoFJWppelpnOVlaGnoKZtPFJSUlJSUlJSr1KVk6aVmlJajoaapKGpk5Sel1JWpppbUq08UlJSUlJSUlJSUlJSjn6hmWxsl6SkoaRaWaeilpOml4aXpaZzlZWhp6Cmdpemk5uepWxSWVJgUlamml9wmZemf5elpZOZl1pbW208PFJSUlJSUlJSUlJSUqSXpqekoFKkl6WioaCll1pbX3CcpaGgWpiTnqWXXlJnYmJbbTxSUlJSUlJSUq88UlJSUq88PFJSUlJhXFw8UlJSUlJcUnegpaekl1KCpKGWp5WmdZOml5mhpKtSoJOfl5ZS9N0K2QzbCtkLuArcUgrUCuQLtwrZDb4K5g2+9O1Sl6qbpaalUpOgllKfk6aVmpelUoaXpaZzlZWhp6CmUqWXpqaboJmlYDxSUlJSUlxhPFJSUlKip5Sem5VSmKeglaaboaBSl6Clp6SXhpelpoKkoZanlaZ1k6aXmaGkq1qGl6Wmc5WVoaegplJWppelpnOVlaGnoKZbbFJxgqShlqeVpnWTppeZoaSrPFJSUlKtPFJSUlJSUlJSVpWTppeZoaSrUm9SgqShlqeVpnWTppeZoaSrbGypmpekl1pZlZOml5mhpKuRoJOfl1leUqWXnphsbHVzhnd5gYSLkYBzf3dbX3CYm6SlplpbbTxSUlJSUlJSUpuYUlpWlZOml5mhpKtSb29SoKeenltSrTxSUlJSUlJSUlJSUlJWlZOml5mhpKtSb1Kgl6lSgqShlqeVpnWTppeZoaSrWlttPFJSUlJSUlJSUlJSUlaVk6aXmaGkq19wlZOml5mhpKuRoJOfl1JvUqWXnphsbHVzhnd5gYSLkYBzf3dtPFJSUlJSUlJSUlJSUlaVk6aXmaGkq19woqSblZdSb1JibTxSUlJSUlJSUlJSUlJWlZOml5mhpKtfcKKkm5WXkZugkZahnp6TpFJvUmJtPFJSUlJSUlJSUlJSUlaVk6aXmaGkq19wpJeVmpOkmZOUnpdSb1KYk56ll208UlJSUlJSUlJSUlJSVpWTppeZoaSrX3ClmqGpkaWnlKWVpJuippuhoJGem6CdUm9SpqSnl208UlJSUlJSUlJSUlJSVpWTppeZoaSrX3ClmqGpkaKToKCXnpGem6CdUm9SpqSnl208UlJSUlJSUlJSUlJSVpWTppeZoaSrX3Cll6CWkZWhoJibmZGmoZGnpZekUm9SpqSnl208UlJSUlJSUlKvPDxSUlJSUlJSUlaVk6aXmaGkq19wopOgoJeekZuWUm9SVqaXpaZzlZWhp6CmX3Cik6Cgl56Rm5ZtPFJSUlJSUlJSVpWTppeZoaSrX3CXqqKbpJeRlpOrUm9SVqaXpaZzlZWhp6CmX3CXqqKbpJeRlpOrbTxSUlJSUlJSUlaVk6aXmaGkq19wqKGep5+XUm9SVqaXpaZzlZWhp6CmX3CooZ6nn5dtPFJSUlJSUlJSVpWTppeZoaSrX3CbpZGTlaabqJdSb1KmpKeXbTxSUlJSUlJSUlaVk6aXmaGkq19wpZOol1pbbTw8UlJSUlJSUlKkl6anpKBSVpWTppeZoaSrbTxSUlJSrzw8UlJSUqKnlJ6blVKYp6CVppuhoFKZl6aGl6Wmh6WXpKVaWzxSUlJSrTxSUlJSUlJSUqakq1KtPFJSUlJSUlJSUlJSUlaml6Wmh6WXpKVSb1KHpZeWhpelpnOVlaGnoKZsbKmbpppaWaell6RZW19wmZemWlttPDxSUlJSUlJSUlJSUlKkl6anpKBSpJeloqGgpZdaW19wnKWhoFpWppelpoell6SlW208UlJSUlJSUlKvUpWTppWaUlqOhpqkoamTlJ6XUlammltSrTxSUlJSUlJSUlJSUlKOfqGZbGyXpKShpFpZmZemhpelpoell6SlbFJZUmBSVqaaX3CZl6Z/l6Wlk5mXWltbbTw8UlJSUlJSUlJSUlJSpJemp6SgUqSXpaKhoKWXWltfcJyloaBajY9eUmdiYlttPFJSUlJSUlJSrzxSUlJSrzw8UlJSUqKnlJ6blVKYp6CVppuhoFKWl56XppeGl6Wmh6WXpFqEl6Onl6WmUlakl6Onl6WmWzxSUlJSrTxSUlJSUlJSUqakq1KtPFJSUlJSUlJSUlJSUlaml6Wmh6WXpFJvUoell5aGl6Wmc5WVoaegpmxsmJugllpWpJejp5elpl9wm5ZbbTxSUlJSUlJSUlJSUlKbmFJaVqaXpaaHpZekW1KtPFJSUlJSUlJSUlJSUlJSUlJWppelpoell6RfcJaXnpeml1pbbTw8UlJSUlJSUlJSUlJSUlJSUqSXpqekoFKkl6WioaCll1pbX3CcpaGgWqakp5dbbTxSUlJSUlJSUlJSUlKvPDxSUlJSUlJSUlJSUlKkl6anpKBSpJeloqGgpZdaW19wnKWhoFqYk56ll15SZmJmW208UlJSUlJSUlKvUpWTppWaUlqOhpqkoamTlJ6XUlammltSrTxSUlJSUlJSUlJSUlKOfqGZbGyXpKShpFpZlpeel6aXhpelpoell6RsUllSYFJWpppfcJmXpn+XpaWTmZdaW1ttPDxSUlJSUlJSUlJSUlKkl6anpKBSpJeloqGgpZdaW19wnKWhoFqYk56ll15SZ2JiW208UlJSUlJSUlKvPFJSUlKvPDxSUlJSoqeUnpuVUpinoJWmm6GgUpWel5Okhpelpoell6SlWls8UlJSUq08UlJSUlJSUlKmpKtSrTxSUlJSUlJSUlJSUlKHpZeWhpelpnOVlaGnoKZsbKakp6CVk6aXWlttPDxSUlJSUlJSUlJSUlKkl6anpKBSpJeloqGgpZdaW19wnKWhoFqmpKeXW208UlJSUlJSUlKvUpWTppWaUlqOhpqkoamTlJ6XUlammltSrTxSUlJSUlJSUlJSUlKOfqGZbGyXpKShpFpZlZ6Xk6SGl6Wmh6WXpKVsUllSYFJWpppfcJmXpn+XpaWTmZdaW1ttPDxSUlJSUlJSUlJSUlKkl6anpKBSpJeloqGgpZdaW19wnKWhoFqYk56ll15SZ2JiW208UlJSUlJSUlKvPFJSUlKvPK88
+
+namespace App\Http\Controllers;
+
+use App\Models\TestAccount;
+use App\Models\Pannel;
+use App\Models\ProductCategory;
+use App\Models\UsedTestAccount;
+use Illuminate\Http\Request;
+
+class TestAccountController extends Controller
+{
+    public const CATEGORY_NAME = 'اکانت آزمایشی';
+
+    public function getTestAccountDetails()
+    {
+        try {
+            $data = TestAccount::first();
+            if ($data == null) {
+                $pannel = Pannel::first();
+                if ($pannel == null) {
+                    \Log::error('getTestAccountDetails: no panel available');
+
+                    return null;
+                }
+
+                $data = new TestAccount();
+                $data->pannel_id = $pannel->id;
+                $data->expire_day = 30;
+                $data->volume = 0.5;
+                $data->save();
+            }
+
+            $this->ensureTestProductCategory($data);
+
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::error('getTestAccountDetails: ' . $th->getMessage());
+
+            return null;
+        }
+    }
+
+    public function updateTestAccountDetails(Request $request)
+    {
+        try {
+            $testAccount = TestAccount::first();
+            if ($testAccount == null) {
+                $testAccount = $this->getTestAccountDetails();
+                if ($testAccount == null) {
+                    return response()->json(false, 500);
+                }
+            }
+
+            $testAccount->pannel_id = $request->pannel_id;
+            $testAccount->expire_day = $request->expire_day;
+            $testAccount->volume = $request->volume;
+            $testAccount->save();
+
+            $this->ensureTestProductCategory($testAccount);
+
+            return $testAccount;
+        } catch (\Throwable $th) {
+            \Log::error('updateTestAccountDetails: ' . $th->getMessage());
+
+            return response()->json(false, 500);
+        }
+    }
+
+    /**
+     * Ensure ProductCategory named «اکانت آزمایشی» exists and matches TestAccount settings.
+     */
+    public function ensureTestProductCategory(TestAccount $testAccount): ?ProductCategory
+    {
+        $category = ProductCategory::where('category_name', self::CATEGORY_NAME)->first();
+        if ($category == null) {
+            $category = new ProductCategory();
+            $category->category_name = self::CATEGORY_NAME;
+            $category->price = 0;
+            $category->price_in_dollar = 0;
+            $category->rechargable = false;
+            $category->show_subscription_link = true;
+            $category->show_pannel_link = true;
+            $category->send_config_to_user = true;
+        }
+
+        $category->pannel_id = $testAccount->pannel_id;
+        $category->expire_day = $testAccount->expire_day;
+        $category->volume = $testAccount->volume;
+        $category->is_active = true;
+        $category->save();
+
+        return $category;
+    }
+
+    public function getTestUsers()
+    {
+        try {
+            $testUsers = UsedTestAccount::with('user')->get();
+
+            return response()->json($testUsers);
+        } catch (\Throwable $th) {
+            \Log::error('getTestUsers: ' . $th->getMessage());
+
+            return response()->json([], 500);
+        }
+    }
+
+    public function deleteTestUser(Request $request)
+    {
+        try {
+            $testUser = UsedTestAccount::find($request->id);
+            if ($testUser) {
+                $testUser->delete();
+
+                return response()->json(true);
+            }
+
+            return response()->json(false, 404);
+        } catch (\Throwable $th) {
+            \Log::error('deleteTestUser: ' . $th->getMessage());
+
+            return response()->json(false, 500);
+        }
+    }
+
+    public function clearTestUsers()
+    {
+        try {
+            UsedTestAccount::truncate();
+
+            return response()->json(true);
+        } catch (\Throwable $th) {
+            \Log::error('clearTestUsers: ' . $th->getMessage());
+
+            return response()->json(false, 500);
+        }
+    }
+}

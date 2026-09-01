@@ -1,3 +1,282 @@
 <?php
-bolt_decrypt( __FILE__ , '4EBrwQ'); return 0;
-##!!!##//9jVmJaaGVWWFoVNmVlUT1paWVROGRjaWdkYWFaZ2gw//9qaFoVNmVlUUJkWVphaFFFVm5iWmNpSW5lWjD/amhaFTZlZVFCZFlaYWhRSWdWY2hWWGleZGMw/2poWhU2ZWVRQmRZWmFoUUlnVmNoVlhpXmRjPmJWXFow/2poWhU+YWFqYl5jVmlaUT1paWVRR1pmalpoaTD//1hhVmhoFUVWbmJaY2lJbmVaOGRjaWdkYWFaZxVabWlaY1loFThkY2lnZGFhWmf/cP8VFRUVZWpXYV5YFVtqY1hpXmRjFWhaWlkdHnD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9WYWEdHjD/FRUVFRUVFRVeWx0ZWVZpViIzWGRqY2kdHhUyMhUlHnD/FRUVFRUVFRUVFRUVGVlWaVYVMhVjWmwVRVZuYlpjaUluZVodHjD/FRUVFRUVFRUVFRUVGVlWaVYiM2NWYloVMhUczafNptCBznsVzrPNnM55HDD/FRUVFRUVFRUVFRUVGVlWaVYiM2luZVoVMhUcZGNhXmNaHDD/FRUVFRUVFRUVFRUVGVlWaVYiM2JaZ1hdVmNpVF5ZFTIVWmNrHRxPNkc+Q0U2QVRCOkc4PTZDSVQ+ORweFTQ0FRxtbW1tbW1tbSJtbW1tIm1tbW0ibW1tbSJtbW1tbW1tbW1tbW0cMP8VFRUVFRUVFRUVFRUZWVZpViIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZWVZpVhUyFWNabBVFVm5iWmNpSW5lWh0eMP8VFRUVFRUVFRUVFRUZWVZpViIzY1ZiWhUyFRzOe859zrPQgc56znvNnxww/xUVFRUVFRUVFRUVFRlZVmlWIjNpbmVaFTIVHGRjYV5jWhww/xUVFRUVFRUVFRUVFRlZVmlWIjNiWmdYXVZjaVReWRUyFVpjax0cQ0RMRTZOQjpDSVRCOkc4PTZDSVQ+ORweFTQ0FRxtbW1tbW1tbSJtbW1tIm1tbW0ibW1tbSJtbW1tbW1tbW1tHDD/FRUVFRUVFRUVFRUVGVlWaVYiM2hWa1odHjD/FRUVFRUVFRUVFRUVGVlWaVYVMhVjWmwVRVZuYlpjaUluZVodHjD/FRUVFRUVFRUVFRUVGVlWaVYiM2NWYloVMhUcz57NnM2mzZ8VzZ3OfBXPns2czabNnxww/xUVFRUVFRUVFRUVFRlZVmlWIjNpbmVaFTIVHGRbW2FeY1ocMP8VFRUVFRUVFRUVFRUZWVZpViIzYlpnWF1WY2lUXlkVMhUcJSUlJSIlJSUlIiUlJSUiJSUlJRww/xUVFRUVFRUVFRUVFRlZVmlWIjNoVmtaHR4w/xUVFRUVFRUVFRUVFRlZVmlWFTIVY1psFUVWbmJaY2lJbmVaHR4w/xUVFRUVFRUVFRUVFRlZVmlWIjNjVmJaFTIVHFhnbmVpZGJqaBww/xUVFRUVFRUVFRUVFRlZVmlWIjNpbmVaFTIVHGRjYV5jWhww/xUVFRUVFRUVFRUVFRlZVmlWIjNiWmdYXVZjaVReWRUyFRwlJSUlIiUlJSUiJSUlJSIlJSUlHDD/FRUVFRUVFRUVFRUVGVlWaVYiM2hWa1odHjD/FRUVFRUVFRVy//8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaUVWbmJaY2lJbmVaaB0e/xUVFRVw/xUVFRUVFRUVZ1ppamdjFUVWbmJaY2lJbmVaLy9WYWEdHjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmk2YWE2WGlea1pFVm5iWmNpSW5lWmgdHv8VFRUVcP8VFRUVFRUVFWdaaWpnYxVFVm5iWmNpSW5lWi8vbF1aZ1odHF5oVFZYaV5rWhwhFWlnaloeIjNcWmkdHjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmk2YWE2WGlea1pFVm5iWmNpSW5lWmhMXmldT1ZnXmNlVmFCWmdYXVpjaT45O15haVpnHR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cXmhUVlhpXmtaHCEVaWdqWh4iM1xaaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhHhVw/xUVFRUVFRUVFRUVFVtkZ1pWWF0VHRlZVmlWFVZoFRlgWm4VMjMVGWtWYWpaHhVw/xUVFRUVFRUVFRUVFRUVFRVeWx0Za1ZhaloiM2NWYloVMjIVHM2nzabQgc57Fc6zzZzOeRweFXD/FRUVFRUVFRUVFRUVFRUVFRUVFRUZa1ZhaloiM2JaZ1hdVmNpVF5ZFTIVF21tbW0ibW1tbW1tbW0ibW1tbW1tbW0ibW1tbW1tFzD/FRUVFRUVFRUVFRUVFRUVFXL/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFRUVFRVnWmlqZ2MVGVlWaVYw/xUVFRUVFRUVchVaYWhaFXD/FRUVFRUVFRUVFRUVZ1ppamdjFWNqYWEw/xUVFRUVFRUVcv8VFRUVcv//FRUVFWVqV2FeWBVbamNYaV5kYxVcWmk2YWE2WGlea1pEW1thXmNaRVZuYlpjaUluZVpoHR7/FRUVFXD/FRUVFRUVFRVnWmlqZ2MVRVZuYlpjaUluZVovL2xdWmdaHRxeaFRWWGlea1ocIRVpZ2paHiIzbF1aZ1odHGluZVocIRUcZFtbYV5jWhweIjNcWmkdHjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlFVm5iWmNpNllZZ1poaDduRVZuYlpjaUNWYlodGWNWYloe/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVFVm5iWmNpSW5lWi8vbF1aZ1odHGNWYlocIRUZY1ZiWh4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWIjNiWmdYXVZjaVReWTD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRVnWmlqZ2MVY2phYTD/FRUVFRUVFRVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXmhFVm5iWmNpSW5lWh0ZY1ZiWh7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cY1ZiWhwhFRljVmJaHiIzW15naGkdHjD/FRUVFRUVFRVeWxUdGVlWaVYVFjIVY2phYR4VcP8VFRUVFRUVFRUVFRVnWmlqZ2MVaWdqWjD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRVnWmlqZ2MVW1ZhaFow/xUVFRUVFRUVcv8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaTZhYURjYV5jWkVWbmJaY2loHR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0caW5lWhwhFRxkY2FeY1ocHiIzXFppHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVjamFhMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmk2YWFEW1thXmNaRVZuYlpjaWgdHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVRVZuYlpjaUluZVovL2xdWmdaHRxpbmVaHCEVHGRbW2FeY1ocHiIzXFppHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFRlpXV5oIjNoWlpZHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVjamFhMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlPVmdeY2VWYUVWbmJaY2k5WmlWXmFoHR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cY1ZiWhwhFRzNp82m0IHOexXOs82cznkcHiIzW15naGkdHjD/FRUVFRUVFRVeWxUdGVlWaVYVMjIVY2phYR4VcP8VFRUVFRUVFRUVFRUZaV1eaCIzaFpaWR0eMP8VFRUVFRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cY1ZiWhwhFRzNp82m0IHOexXOs82cznkcHiIzW15naGkdHjD/FRUVFRUVFRVy//8VFRUVFRUVFV5bFR0ZWVZpVhUyMhVjamFhHhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVnWmhlZGNoWh0eIjNfaGRjHWNqYWEhFSklKR4w/xUVFRUVFRUVcv//FRUVFRUVFRUZaFppaV5jXDhjaWdhFTIVY1psFUhaaWleY1w4ZGNpZ2RhYVpnHR4w/xUVFRUVFRUVGWJWXmNKZ2EVMhUZaFppaV5jXDhjaWdhIjNcWmlCVl5jSmdhHR4w/xUVFRUVFRUVGWVWbmFkVlkVMhUZWVZpViIzaWQ2Z2dWbh0eMP8VFRUVFRUVFRllVm5hZFZZUBxYVmFhV1ZYYFRZZGJWXmMcUhUyFUVWbmJaY2lJbmVaLy9jZGdiVmFeb1o4VmFhV1ZYYDlkYlZeYx0ZWVZpViIzWFZhYVdWWGBUamdhFTQ0FWNqYWEeMP8VFRUVFRUVFRllVm5hZFZZUBxZWltWamFpVFhWYWFXVlhgVGpnYRxSFTIVRVZuYlpjaUluZVovL2daaGRha1pPVmdeY2VWYThWYWFXVlhgSmdhHWNqYWEhFRliVl5jSmdhHjD/FRUVFRUVFRUZZVZuYWRWWVAcZ1poZGFrWllUWFZhYVdWWGBUamdhHFIVMhVFVm5iWmNpSW5lWi8vZ1poZGFrWk9WZ15jZVZhOFZhYVdWWGBKZ2Ed/xUVFRUVFRUVFRUVFRlZVmlWIjNYVmFhV1ZYYFRqZ2EVNDQVY2phYSH/FRUVFRUVFRUVFRUVGWJWXmNKZ2H/FRUVFRUVFRUeMP8VFRUVFRUVFRllVm5hZFZZUBxeaFRoVmNZV2RtHFIVMhUdV2RkYR4VHRlZVmlWIjNeaFRoVmNZV2RtFTQ0FVtWYWhaHjD//xUVFRUVFRUVZ1ppamdjFWdaaGVkY2haHR4iM19oZGMdGWVWbmFkVlkhFSclJR4w/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXFppT1ZnXmNlVmFIaVZpamgdHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVRVZuYlpjaUluZVovL2xdWmdaHRxjVmJaHCEVHM2nzabQgc57Fc6zzZzOeRweIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhHhVw/xUVFRUVFRUVFRUVFV5bFR0ZWVZpViIzXmhUVlhpXmtaFTIyFSYVcXEVGVlWaVYiM15oVFZYaV5rWhUyMhVpZ2paHhVw/xUVFRUVFRUVFRUVFRUVFRVnWmlqZ2MVaWdqWjD/FRUVFRUVFRUVFRUVchVaYWhaFXD/FRUVFRUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXFppT1ZnXmNlVmFCWmdYXVZjaT45HR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cY1ZiWhwhFRzNp82m0IHOexXOs82cznkcHiIzW15naGkdHjD/FRUVFRUVFRVeWxUdGVlWaVYVFjIVY2phYR4VcP8VFRUVFRUVFRUVFRVnWmlqZ2MVGVlWaVYiM2JaZ1hdVmNpVF5ZMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFRlpXV5oIjNoWlpZHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxUZWVZpViIzYlpnWF1WY2lUXlkw/xUVFRUVFRUVcv8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaU9WZ15jZVZhSVZXYVo+OR0e/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVFVm5iWmNpSW5lWi8vbF1aZ1odHGNWYlocIRUczafNptCBznsVzrPNnM55HB4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWIjNeWTD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRUZaV1eaCIzaFpaWR0eMP8VFRUVFRUVFRUVFRVnWmlqZ2MVGVlWaVYiM15ZMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlPVmdeY2VWYUFeY2AdHv8VFRUVcP8VFRUVFRUVFRloWmlpXmNcOGNpZ2EVMhVjWmwVSFppaV5jXDhkY2lnZGFhWmcdHjD/FRUVFRUVFRUZYlZeY0pnYRUyFRloWmlpXmNcOGNpZ2EiM1xaaUJWXmNKZ2EdHjD/FRUVFRUVFRVnWmlqZ2MVFxliVl5jSmdhJFdqbhcw/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXFppQ2RsRVZuYlpjaWhBXmNgHR7/FRUVFXD/FRUVFRUVFRUZaFppaV5jXDhjaWdhFTIVY1psFUhaaWleY1w4ZGNpZ2RhYVpnHR4w/xUVFRUVFRUVGWJWXmNKZ2EVMhUZaFppaV5jXDhjaWdhIjNcWmlCVl5jSmdhHR4w/xUVFRUVFRUVZ1ppamdjFRcZYlZeY0pnYSRYZ25laWRlVm5iWmNpFzD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVYZ1pWaVpDWmxFVm5iWmNpSW5lWh1HWmZqWmhpFRlnWmZqWmhpHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVY1psFUVWbmJaY2lJbmVaHR4w/xUVFRUVFRUVGVlWaVYiM2NWYloVMhUZZ1pmalpoaSIzY1ZiWjD/FRUVFRUVFRUZWVZpViIzaW5lWhUyFRlnWmZqWmhpIjNpbmVaMP8VFRUVFRUVFRlZVmlWIjNiWmdYXVZjaVReWRUyFRlnWmZqWmhpIjNiWmdYXVZjaVReWTD/FRUVFRUVFRUZWVZpViIzXmhUVlhpXmtaFTIVaWdqWjD/FRUVFRUVFRUZWVZpViIzaFZrWh0eMP8VFRUVFRUVFWdaaWpnYxUZWVZpVjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVYXVZjWlxaQlpnOF1WY2k+WTduRVZuYlpjaUluZVpDVmJaHUdaZmpaaGkVGWdaZmpaaGke/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVFVm5iWmNpSW5lWi8vbF1aZ1odHGNWYlocIRUZZ1pmalpoaSIzY1ZiWh4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVGVlWaVYiM2JaZ1hdVmNpVF5ZFTIVGWdaZmpaaGkiM2JaZ1hdVmNpVF5ZMP8VFRUVFRUVFRUVFRVeWxUdGWdaZmpaaGkiM11WaB0cWFZhYVdWWGBUamdhHB4VcXEVGWdaZmpaaGkiM11WaB0cWFZhYVdWWGBUWWRiVl5jHB4eFXD/FRUVFRUVFRUVFRUVFRUVFRlnVmw5ZGJWXmMVMhUZZ1pmalpoaSIzXmNlamkdHFhWYWFXVlhgVFlkYlZeYxwhFRlnWmZqWmhpIjNeY2VqaR0cWFZhYVdWWGBUamdhHB4eMP8VFRUVFRUVFRUVFRUVFRUVGVlWaVYiM1hWYWFXVlhgVGpnYRUyFUVWbmJaY2lJbmVaLy9jZGdiVmFeb1o4VmFhV1ZYYDlkYlZeYx0ZZ1ZsOWRiVl5jHjD/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFRUVFRVeWxUdGWdaZmpaaGkiM11WaB0cXmhUaFZjWVdkbRweHhVw/xUVFRUVFRUVFRUVFRUVFRUZWVZpViIzXmhUaFZjWVdkbRUyFVteYWlaZ1RrVmcdGWdaZmpaaGkiM15oVGhWY1lXZG0hFTs+QUk6R1RLNkE+OTZJOlQ3RERBOjZDHjD/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFRUVFRUZWVZpViIzamVZVmlaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxUZWVZpVjD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRVnWmlqZ2MVW1ZhaFow/xUVFRUVFRUVcv8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFWplWVZpWlRkW1thXmNaVGVWbmJaY2lUaW5lWh1HWmZqWmhpFRlnWmZqWmhpHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVRVZuYlpjaUluZVovL1teY1kdGWdaZmpaaGkiM15ZHjD/FRUVFRUVFRVeWxUdGVlWaVYVFjIVY2phYR4VcP8VFRUVFRUVFRUVFRUZWVZpViIzY1ZiWhUyFRlnWmZqWmhpIjNjVmJaMP8VFRUVFRUVFRUVFRUZWVZpViIzYlpnWF1WY2lUXlkVMhUZZ1pmalpoaSIzYlpnWF1WY2lUXlkw/xUVFRUVFRUVFRUVFRlZVmlWIjNoVmtaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxUZWVZpVjD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRVnWmlqZ2MVW1ZhaFow/xUVFRUVFRUVcv8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFWdaYmRrWkVWbmJaY2lJbmVaHRljVmJaHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVRVZuYlpjaUluZVovL2xdWmdaHRxjVmJaHCEVGWNWYloeIjNbXmdoaR0eMP8VFRUVFRUVFRlZVmlWIjNZWmFaaVodHjD/FRUVFRUVFRVnWmlqZ2MVaWdqWjD/FRUVFRUVFRUkJBVeWxUdGVlWaVYVFjIVY2phYR4VcP8VFRUVFRUVFSQkFRUVFRUZaWcVMhVJZ1ZjaFZYaV5kYy8vbF1aZ1odHGVWbmJaY2lUaW5lWlReWRwhFRlZVmlWIjNeWR4iM1hkamNpHR4w//8VFRUVFRUVFSQkFRUVFRVeWxUdGWlnFTIyFSUeFXD/FRUVFRUVFRUkJBUVFRUVFRUVFRlZVmlWIjNZWmFaaVodHjD/FRUVFRUVFRUkJBUVFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVFRUVFSQkFRUVFRVyFVphaFoVcP8VFRUVFRUVFSQkFRUVFRUVFRUVZ1ppamdjFWdaaGVkY2haHR4iM19oZGMdHM2c0IHOexXPpM2n0IHOe858Fc2kzZzNps2c0IEVzZ/Nps2cz57Oe82pFc560IEVzZ3NnM2pzaQjHCEVJyUnHjD/FRUVFRUVFRUkJBUVFRUVcv8VFRUVFRUVFSQkFXIVWmFoWhVw/xUVFRUVFRUVJCQVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRUkJBVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVWVo2WGlea1pFVm5iWmNpSW5lWh0ZY1ZiWh7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9sXVpnWh0cY1ZiWhwhFRljVmJaHiIzW15naGkdHjD/FRUVFRUVFRVeWxUdGVlWaVYVFjIVY2phYR4VcP8VFRUVFRUVFRUVFRUZWVZpViIzXmhUVlhpXmtaFTIVW1ZhaFow/xUVFRUVFRUVFRUVFRlZVmlWIjNqZVlWaVodHjD/FRUVFRUVFRUVFRUVZ1ppamdjFWlnalow/xUVFRUVFRUVchVaYWhaFXD/FRUVFRUVFRUVFRUVZ1ppamdjFVtWYWhaMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlUZVZuYlpjaVRpbmVaVFduVGNWYlodGWNWYloe/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVFVm5iWmNpSW5lWi8vbF1aZ1odHGNWYlocIRUZY1ZiWh4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVjamFhMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlUZVZuYlpjaVRpbmVaVFduVF5ZHRleWR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUVWbmJaY2lJbmVaLy9bXmNZHRleWR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVZ1ppamdjFRlZVmlWMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVjamFhMP8VFRUVFRUVFXL/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVnWjZYaV5rWkVWbmJaY2lJbmVaHRljVmJaHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVRVZuYlpjaUluZVovL2xdWmdaHRxjVmJaHCEVGWNWYloeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhHhVw/xUVFRUVFRUVFRUVFRlZVmlWIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZWVZpViIzamVZVmlaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXFppNmFhSW5lWmhEW2VWbmJaY2k5VmlWHR7/FRUVFXD/FRUVFRUVFRVpZ24VcP8VFRUVFRUVFRUVFRUZb1ZnXmNFVmEVMhUZaV1eaCIzXFppT1ZnXmNlVmFFVm5iWmNpOVppVl5haB0eMP8VFRUVFRUVFRUVFRUZZFtbYV5jWhUyFRlpXV5oIjNcWmk2YWFEW1thXmNaRVZuYlpjaWgdHjD/FRUVFRUVFRUVFRUVGVhnbmVpZEVWbmJaY244Y2lnYRUyFWNabBU4Z25laWRFVm5iWmNpOGRjaWdkYWFaZx0eMP8VFRUVFRUVFRUVFRUZY2RsZVZuYlpjaRUyFRlYZ25laWRFVm5iWmNuOGNpZ2EiM1xaaUNka0VWbmJaY2k5VmlWHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVnWmhlZGNoWh0eIjNfaGRjHVAZZFtbYV5jWiEVGW9WZ15jRVZhIRUZWGduZWlkRVZuYlpjbjhjaWdhUiEVJyUlHjD/FRUVFRUVFRVyFVhWaVhdFR1RSV1nZGxWV2FaFRlpXR4VcP8VFRUVFRUVFRUVFRVnWmlqZ2MVZ1poZWRjaFodHiIzX2hkYx1jamFhIRUqJSUeMP8VFRUVFRUVFXL/FRUVFXL/cv8=
+
+namespace App\Http\Controllers;
+
+use App\Models\PaymentType;
+use App\Models\Transaction;
+use App\Models\TransactionImage;
+use Illuminate\Http\Request;
+
+class PaymentTypeController extends Controller
+{
+    public function seed(){
+        $data = PaymentType::all();
+        if($data->count() == 0){
+            $data = new PaymentType();
+            $data->name = 'زرین پال';
+            $data->type = 'online';
+            $data->merchant_id = env('ZARINPAL_MERCHANT_ID') ?? 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
+            $data->save();
+            $data = new PaymentType();
+            $data->name = 'نوپیمنت';
+            $data->type = 'online';
+            $data->merchant_id = env('NOWPAYMENT_MERCHANT_ID') ?? 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx';
+            $data->save();
+            $data = new PaymentType();
+            $data->name = 'کارت به کارت';
+            $data->type = 'offline';
+            $data->merchant_id = '0000-0000-0000-0000';
+            $data->save();
+            $data = new PaymentType();
+            $data->name = 'cryptomus';
+            $data->type = 'online';
+            $data->merchant_id = '0000-0000-0000-0000';
+            $data->save();
+        }
+
+    }
+    public function getPaymentTypes()
+    {
+        return PaymentType::all();
+    }
+    public function getAllActivePaymentTypes()
+    {
+        return PaymentType::where('is_active', true)->get();
+    }
+    public function getAllActivePaymentTypesWithZarinpalMerchentIDFilter()
+    {
+        $data = PaymentType::where('is_active', true)->get();
+        if ($data != null) {
+            foreach ($data as $key => $value) {
+                if($value->name == 'زرین پال') {
+                    $value->merchant_id = "xxxx-xxxxxxxx-xxxxxxxx-xxxxxx";
+                }
+            }
+            return $data;
+        } else {
+            return null;
+        }
+    }
+
+    public function getAllActiveOfflinePaymentTypes()
+    {
+        return PaymentType::where('is_active', true)->where('type', 'offline')->get();
+    }
+    public function getPaymentAddressByPaymentName($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        if ($data != null) {
+            return $data->merchant_id;
+        } else {
+            return null;
+        }
+    }
+    public function isPaymentType($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        if ($data != null) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function getAllOnlinePayments()
+    {
+        $data = PaymentType::where('type', 'online')->get();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function getAllOfflinePayments()
+    {
+        $data = PaymentType::where('type', 'offline')->get();
+        if ($data != null) {
+            return $data;
+        } else {
+            $this->seed();
+            return null;
+        }
+    }
+    public function getZarinpalPaymentDetails()
+    {
+        $data = PaymentType::where('name', 'زرین پال')->first();
+        if ($data == null) {
+            $this->seed();
+            $data = PaymentType::where('name', 'زرین پال')->first();
+        }
+
+        if ($data == null) {
+            return response()->json(null, 404);
+        }
+
+        $settingCntrl = new SettingController();
+        $mainUrl = $settingCntrl->getMainUrl();
+        $payload = $data->toArray();
+        $payload['callback_domain'] = PaymentType::normalizeCallbackDomain($data->callback_url ?? null);
+        $payload['default_callback_url'] = PaymentType::resolveZarinpalCallbackUrl(null, $mainUrl);
+        $payload['resolved_callback_url'] = PaymentType::resolveZarinpalCallbackUrl(
+            $data->callback_url ?? null,
+            $mainUrl
+        );
+        $payload['is_sandbox'] = (bool) ($data->is_sandbox ?? false);
+
+        return response()->json($payload, 200);
+    }
+    public function getZarinpalStatus()
+    {
+        $data = PaymentType::where('name', 'زرین پال')->first();
+        if ($data != null) {
+            if ($data->is_active == 1 || $data->is_active == true) {
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
+    public function getZarinpalMerchantID()
+    {
+        $data = PaymentType::where('name', 'زرین پال')->first();
+        if ($data != null) {
+            return $data->merchant_id;
+        } else {
+            $this->seed();
+            return $data->merchant_id;
+        }
+    }
+    public function getZarinpalTableID()
+    {
+        $data = PaymentType::where('name', 'زرین پال')->first();
+        if ($data != null) {
+            return $data->id;
+        } else {
+            $this->seed();
+            return $data->id;
+        }
+    }
+    public function getZarinpalLink()
+    {
+        $settingCntrl = new SettingController();
+        $mainUrl = $settingCntrl->getMainUrl();
+        return "$mainUrl/buy";
+    }
+    public function getNowPaymentsLink()
+    {
+        $settingCntrl = new SettingController();
+        $mainUrl = $settingCntrl->getMainUrl();
+        return "$mainUrl/cryptopayment";
+    }
+    public function createNewPaymentType(Request $request)
+    {
+        $data = new PaymentType();
+        $data->name = $request->name;
+        $data->type = $request->type;
+        $data->merchant_id = $request->merchant_id;
+        $data->is_active = true;
+        $data->save();
+        return $data;
+    }
+    public function chanegeMerChantIdByPaymentTypeName(Request $request)
+    {
+        $data = PaymentType::where('name', $request->name)->first();
+        if ($data != null) {
+            $data->merchant_id = $request->merchant_id;
+            if ($request->has('callback_url') || $request->has('callback_domain')) {
+                $rawDomain = $request->input('callback_domain', $request->input('callback_url'));
+                $data->callback_url = PaymentType::normalizeCallbackDomain($rawDomain);
+            }
+            if ($request->has('is_sandbox')) {
+                $data->is_sandbox = filter_var($request->is_sandbox, FILTER_VALIDATE_BOOLEAN);
+            }
+            $data->update();
+            return $data;
+        } else {
+            return false;
+        }
+    }
+    public function update_offline_payment_type(Request $request)
+    {
+        $data = PaymentType::find($request->id);
+        if ($data != null) {
+            $data->name = $request->name;
+            $data->merchant_id = $request->merchant_id;
+            $data->save();
+            return $data;
+        } else {
+            return false;
+        }
+    }
+    public function removePaymentType($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        $data->delete();
+        return true;
+        // if ($data != null) {
+        //     $tr = Transaction::where('payment_type_id', $data->id)->count();
+
+        //     if ($tr == 0) {
+        //         $data->delete();
+        //         return true;
+        //     } else {
+        //         return response()->json('این گزینه دارای تراکنش می باشد.', 202);
+        //     }
+        // } else {
+        //     return false;
+        // }
+    }
+    public function deActivePaymentType($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        if ($data != null) {
+            $data->is_active = false;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function get_payment_type_by_name($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function get_payment_type_by_id($id)
+    {
+        $data = PaymentType::find($id);
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function reActivePaymentType($name)
+    {
+        $data = PaymentType::where('name', $name)->first();
+        if ($data != null) {
+            $data->is_active = true;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function getAllTypesOfpaymentData()
+    {
+        try {
+            $zarinPal = $this->getZarinpalPaymentDetails();
+            $offline = $this->getAllOfflinePayments();
+            $cryptoPaymenyCntrl = new CryptoPaymentController();
+            $nowpayment = $cryptoPaymenyCntrl->getNovPaymentData();
+            return response()->json([$offline, $zarinPal, $cryptoPaymenyCntrl], 200);
+        } catch (\Throwable $th) {
+            return response()->json(null, 500);
+        }
+    }
+}

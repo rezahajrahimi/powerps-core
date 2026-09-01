@@ -1,3 +1,20 @@
 <?php
-bolt_decrypt( __FILE__ , 'uO5LGA'); return 0;
-##!!!##19c7LjoyQD0uMDLtDj09KRo8MTI5QAjX10JAMu0WOTlCOjY7LkEyKREuQS4vLkAyKRI5PD5CMjtBKRMuMEE8PzYyQCkVLkATLjBBPD9GCNdCQDLtFjk5Qjo2Oy5BMikRLkEuLy5AMikSOTw+QjI7QSkaPDEyOQjX1zA5LkBA7SE/LjtALjBBNjw7IDJBQTY7NO0yRUEyOzFA7Ro8MTI510jX7e3t7UJAMu0VLkATLjBBPD9GCNft7e3tPT88QTIwQTIx7fEzNjk5Li85Mu0K7Sj0MTw5OS4/LEE/LjtALjBBNjw79CoI1+3t7e09PzxBMjBBMjHt8TRCLj8xMjHtCu0o9DYx9CoI1+3t7e09PzxBMjBBMjHt8UM2QDYvOTLtCu0o9DE8OTkuPyxBPy47QC4wQTY8O/QqCNft7e3tPUIvOTYw7TNCOzBBNjw77TQyQRE8OTkuPyE/LjtALjBBNjw7IDJBQTY7NPX21+3t7e1I1+3t7e3t7e3t8TEuQS7tCu0hPy47QC4wQTY8OyAyQUE2OzQHBzM2P0BB9fYI1+3t7e3t7e3tPzJBQj877fExLkEu+gsxPDk5Lj8sQT8uO0AuMEE2PDsI1+3t7e1K19dK1w==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class TransactionSetting extends Model
+{
+    use HasFactory;
+    protected $fillable = ['dollar_transaction'];
+    protected $guarded = ['id'];
+    protected $visible = ['dollar_transaction'];
+    public function getDollarTransactionSetting()
+    {
+        $data = TransactionSetting::first();
+        return $data->dollar_transaction;
+    }
+
+}

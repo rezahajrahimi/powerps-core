@@ -1,3 +1,45 @@
 <?php
-bolt_decrypt( __FILE__ , 'h7yYRG'); return 0;
-##!!!##FBR4a3dvfXprbW8qS3p6Zld5bm92fUUUFH99bypTdnZ/d3N4a35vZk5rfmtsa31vZk92eXt/b3h+Zld5bm92RRR/fW8qU3Z2f3dzeGt+b2ZOa35rbGt9b2ZPdnl7f294fmZcb3ZrfnN5eH1mTG92eXhxfV55RRQUbXZrfX0qWnx5d3lNeW5vX31rcW8qb4J+b3hufSpXeW5vdhSFFCoqKip6f2x2c20qLn5zd299fmt3en0qRypwa3Z9b0UUFCoqKip6fHl+b21+b24qLnBzdnZrbHZvKkcqZRQqKioqKioqKjF6fHl3eWlteW5vaXNuMTYUKioqKioqKioxa21teX94fmlzbjE2FCoqKioqKioqMXp8eW5/bX5pc24xNhQqKioqKioqKjFuc31teX94fmlrd3l/eH4xNhQqKioqKioqKjFrenp2c29uaWt+MTYUKioqKmdFFBQqKioqenx5fm9tfm9uKi5ta31+fSpHKmUUKioqKioqKioxbnN9bXl/eH5pa3d5f3h+MSpHSCoxcHZ5a34xNhQqKioqKioqKjFrenp2c29uaWt+MSpHSCoxbmt+b35zd28xNhQqKioqZ0UUFCoqKip6f2x2c20qcH94bX5zeXgqenx5d3lNeW5vMjNEKkxvdnl4cX1eeRQqKioqhRQqKioqKioqKnxvfn98eCoufnJzfTdIbG92eXhxfV55Mlp8eXd5TXlub0REbXZrfX0zRRQqKioqhxQUKioqKnp/bHZzbSp9fmt+c20qcH94bX5zeXgqemtxc3hrfm9QeXxafHl3eTJzeH4qLnp8eXd5TXlub1NuNipzeH4qLnprcW8qRyo7NipzeH4qLnpvfFprcW8qRyo7PzMUKioqKoUUKioqKioqKiouem98WmtxbypHKndzeDI/OjYqd2uCMj82Ki56b3xaa3FvMzNFFCoqKioqKioqLnprcW8qRyp3a4IyOzYqLnprcW8zRRQUKioqKioqKip8b35/fHgqfW92cEREe39vfIMyMxQqKioqKioqKioqKio3SIFyb3xvMjF6fHl3eWlteW5vaXNuMTYqLnp8eXd5TXlub1NuMxQqKioqKioqKioqKio3SHl8bm98TINOb31tMjFzbjEzFCoqKioqKioqKioqKjdIemtxc3hrfm8yFCoqKioqKioqKioqKioqKiouem98WmtxbzYUKioqKioqKioqKioqKioqKmUxc24xNioxa21teX94fmlzbjE2KjF6fHluf21+aXNuMTYqMW5zfW15f3h+aWt3eX94fjE2KjFrenp2c29uaWt+MWc2FCoqKioqKioqKioqKioqKioxemtxbzE2FCoqKioqKioqKioqKioqKiouemtxbxQqKioqKioqKioqKiozRRQqKioqhxSHFA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+
+class PromoCodeUsage extends Model
+{
+    public $timestamps = false;
+
+    protected $fillable = [
+        'promo_code_id',
+        'account_id',
+        'product_id',
+        'discount_amount',
+        'applied_at',
+    ];
+
+    protected $casts = [
+        'discount_amount' => 'float',
+        'applied_at' => 'datetime',
+    ];
+
+    public function promoCode(): BelongsTo
+    {
+        return $this->belongsTo(PromoCode::class);
+    }
+
+    public static function paginateForPromo(int $promoCodeId, int $page = 1, int $perPage = 15)
+    {
+        $perPage = min(50, max(5, $perPage));
+        $page = max(1, $page);
+
+        return self::query()
+            ->where('promo_code_id', $promoCodeId)
+            ->orderByDesc('id')
+            ->paginate(
+                $perPage,
+                ['id', 'account_id', 'product_id', 'discount_amount', 'applied_at'],
+                'page',
+                $page
+            );
+    }
+}

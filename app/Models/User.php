@@ -1,3 +1,109 @@
 <?php
-bolt_decrypt( __FILE__ , '5hplFx'); return 0;
-##!!!##QUGlmKScqqeYmpxXeKenk4Smm5yjqnJBQWZmV6yqnFeAo6OspKClmKuck3qmpaupmJqrqpN4rKufk4SsqquNnKmgnbB8pJigo3JBrKqcV4Cjo6ykoKWYq5yTe5irmJmYqpyTfKOmqKycpauTfZiaq6apoJyqk3+Yqn2YmqumqbByQayqnFeAo6OspKClmKuck32mrKWbmKugpqWTeKyrn5OMqpypV5iqV3isq5+cpaugmpirmJmjnHJBrKqcV4Cjo6ykoKWYq5yThaaroJ2gmpiroKalqpOFpqugnaCYmaOcckGsqpxXgKOjrKSgpZirnJOKrKenpqmrk32YmpibnKqTipqfnKSYckGsqpxXg5ipmK2co5OKmKWaq6ykk3+YqninoIumopylqnJBQZqjmKqqV4yqnKlXnK+rnKWbqld4rKufnKWroJqYq5iZo5xBskFXV1dXrKqcV3+YqninoIumopylqmNXf5iqfZiaq6apsGNXhaaroJ2gmJmjnHJBQVdXV1dmYWFBV1dXV1dhV4ufnFeYq6upoJmsq5yqV6ufmKtXmKmcV6SYqqpXmKqqoJ6lmJmjnGVBV1dXV1dhQVdXV1dXYVd3rZipV5ipqZiwc6Clq2NXqqupoKWedUFXV1dXV2FmQVdXV1enqaarnJqrnJtXW52go6OYmaOcV3RXkl6lmKScXmNXXpiamqaspauWoJteY1deqaajnF5jV16nmKqqrqapm15jV16sqpyplp6ppqynlqCbXmNXXqCqlq2cqaCdoJybXpRyQUFXV1dXZmFhQVdXV1dXYVeLn5xXmKurqaCZrKucqlern5irV6qfpqyjm1eZnFefoJubnKVXnaapV6qcqaCYo6CxmKugpqVlQVdXV1dXYUFXV1dXV2FXd62YqVeYqamYsHOgpatjV6qrqaClnnVBV1dXV1dhZkFXV1dXp6mmq5yaq5ybV1ufoJubnKVXdFeSXqeYqqqupqmbXmNXXqmcpJykmZyplqumopylXpRyQUFXV1dXZmFhQVdXV1dXYVeLn5xXmKurqaCZrKucqlern5irV6qfpqyjm1eZnFeamKqrZUFXV1dXV2FBV1dXV1dhV3etmKlXmKmpmLBzqqupoKWeY1eqq6mgpZ51QVdXV1dXYWZBV1dXV6eppqucmqucm1dbmpiqq6pXdFeSQVdXV1dXV1dXXqeYqqqupqmbXld0dVden5iqn5ybXmNBV1dXV1dXV1deoKqWrZypoJ2gnJteV3R1V16ZpqajnJilXmNBV1dXV5RyQVdXV1enrJmjoJpXnaylmqugpqVXnpyrlqmmo5yWmbCWmJqapqylq5agm19bmJqapqylq5agm2CyQVdXV1dXV1dXW6yqnKlXdFdbq5+gqmR1rp+cqZxfXpiamqaspauWoJteY1dbmJqapqylq5agm2BkdZ2gqaqrX2ByQVdXV1dXV1dXoJ1XX1usqpypYFeyQVdXV1dXV1dXV1dXV6mcq6yppVdbrKqcqWR1qaajnHJBV1dXV1dXV1e0QVdXV1dXV1dXqZyrrKmlV6Wso6NyQVdXV1e0QUFXV1dXZmFhQVdXV1dXYVd+nKtXq5+cV6yqnKlXmKqqppqgmKucm1euoKufV6ufnFeMqpypQVdXV1dXYUFXV1dXV2FXd6mcq6yppVeTgKOjrKSgpZirnJN7mKuYmZiqnJN8o6aorJylq5OJnKOYq6CmpaqTf5iqhqWcQVdXV1dXYWZBV1dXV6esmaOgmledrKWaq6CmpVeYnpylq5anqaabrJqrql9gQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1urn6CqZHWfmKqEmKWwX3ienKWrh6mmm6yaq3FxmqOYqqpjV16sqpyplqCbXmNXXqCbXmByQVdXV1e0QVdXV1enrJmjoJpXnaylmqugpqVXmJ6cpauWp5yppKCqqqalX2BBV1dXV7JBV1dXV1dXV1epnKusqaVXW6ufoKpkdZ+YqoalnF94npylq4ecqaSgqqqmpXFxmqOYqqpjV16sqpyplqCbXmNXXqCbXmByQVdXV1e0QVdXV1enrJmjoJpXnaylmqugpqVXqZyqnKmtnJuWp6mmm6yaq6pfYEFXV1dXskFXV1dXV1dXV6mcq6yppVdbq5+gqmR1n5iqhJilsF+JnKqcqa2cqZt6pqWdoJ5xcZqjmKqqY1derKqcqZagm15jV16gm15gckFXV1dXtEFXV1dXp6yZo6CaV52spZqroKalV6mcnZypqZijlq6Yo6Ocq19gQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1urn6CqZHWfmKqGpZxfiZydnKmpmKOOmKOjnKtxcZqjmKqqY1deqZydnKmpmKOWrKqcqZagm15jV16gm15gckFXV1dXtEFBV1dXV6esmaOgmledrKWaq6CmpVejprCYo6uwlq6Yo6Ocq19gQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1urn6CqZHWfmKqGpZxfg6awmKOrsI6Yo6Ocq3FxmqOYqqpjV16sqpyplqCbXmNXXqCbXmByQVdXV1e0QVdXV1enrJmjoJpXnaylmqugpqVXqp+cq5iZlq2cqaCdoJyqX2BBV1dXV7JBV1dXV1dXV1epnKusqaVXW6ufoKpkdZ+YqoSYpbBfip+cq5iZjZypoJ2wcXGao5iqqmNXXqyqnKmWoJteY1deoJteYHJBV1dXV7RBQVdXV1enrJmjoJpXqquYq6CaV52spZqroKalV5+YqoyqnKl+qaasp3qmo6ykpV9gcVeZpqajQVdXV1eyQVdXV1dXV1dXqquYq6CaV1ufmKp6pqOspKVXdFelrKOjckFBV1dXV1dXV1egnVdfW5+Yqnqmo6ykpVd0dHRXpayjo2BXskFXV1dXV1dXV1dXV1dbn5iqeqajrKSlV3RXipqfnKSYcXGfmKp6pqOspKVfX6Wcrleqq5iroJpgZHWenKuLmJmjnF9gY1derKqcqZaeqaasp5agm15gckFXV1dXV1dXV7RBQVdXV1dXV1dXqZyrrKmlV1ufmKp6pqOspKVyQVdXV1e0QUFXV1dXp6yZo6CaV6qrmKugmledrKWaq6CmpVepnKqmo62cjKqcqX6ppqyngJt9pql4mpqmrKWrX1uYmpqmrKWrgJtgcVd2oKWrQVdXV1eyQVdXV1dXV1dXoJ1XX1hXqquYq6CacXGfmKqMqpypfqmmrKd6pqOspKVfYGBXskFXV1dXV1dXV1dXV1epnKusqaVXpayjo3JBV1dXV1dXV1e0QUFXV1dXV1dXV1ueqaasp4CbV3RXqquYq6CacXGun5ypnF9emJqapqylq5agm15jV1uYmpqmrKWrgJtgZHWtmKOsnF9erKqcqZaeqaasp5agm15gckFBV1dXV1dXV1epnKusqaVXW56ppqyngJtXWHR0V6Wso6NXdldfoKWrYFdbnqmmrKeAm1dxV6Wso6NyQVdXV1e0QUFXV1dXp6yZo6CaV52spZqroKalV6yqnKl+qaasp19gQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1urn6CqZHWZnKOmpZ6qi6ZfjKqcqX6ppqyncXGao5iqqmNXXqyqnKmWnqmmrKeWoJteYHJBV1dXV7RBQVdXV1enrJmjoJpXnaylmqugpqVXmaarjKqcqV9gQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1urn6CqZHWfmKqGpZxfeaarjKqcqXFxmqOYqqpjV16YmpqmrKWrlqCbXmNXXpiamqaspauWoJteYHJBV1dXV7RBtEE=
+
+namespace App\Models;
+
+// use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Notifications\Notifiable;
+use Illuminate\Support\Facades\Schema;
+use Laravel\Sanctum\HasApiTokens;
+
+class User extends Authenticatable
+{
+    use HasApiTokens, HasFactory, Notifiable;
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array<int, string>
+     */
+    protected $fillable = ['name', 'account_id', 'role', 'password', 'user_group_id', 'is_verified'];
+
+    /**
+     * The attributes that should be hidden for serialization.
+     *
+     * @var array<int, string>
+     */
+    protected $hidden = ['password', 'remember_token'];
+
+    /**
+     * The attributes that should be cast.
+     *
+     * @var array<string, string>
+     */
+    protected $casts = [
+        'password' => 'hashed',
+        'is_verified' => 'boolean',
+    ];
+    public function get_role_by_account_id($account_id){
+        $user = $this->where('account_id', $account_id)->first();
+        if ($user) {
+            return $user->role;
+        }
+        return null;
+    }
+
+    /**
+     * Get the user associated with the User
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasOne
+     */
+    public function agent_products()
+    {
+        return $this->hasMany(AgentProduct::class, 'user_id', 'id');
+    }
+    public function agent_permisson()
+    {
+        return $this->hasOne(AgentPermisson::class, 'user_id', 'id');
+    }
+    public function reserved_products()
+    {
+        return $this->hasMany(ReserverdConfig::class, 'user_id', 'id');
+    }
+    public function referral_wallet()
+    {
+        return $this->hasOne(ReferralWallet::class, 'referral_user_id', 'id');
+    }
+
+    public function loyalty_wallet()
+    {
+        return $this->hasOne(LoyaltyWallet::class, 'user_id', 'id');
+    }
+    public function shetab_verifies()
+    {
+        return $this->hasMany(ShetabVerify::class, 'user_id', 'id');
+    }
+
+    public static function hasUserGroupColumn(): bool
+    {
+        static $hasColumn = null;
+
+        if ($hasColumn === null) {
+            $hasColumn = Schema::hasColumn((new static)->getTable(), 'user_group_id');
+        }
+
+        return $hasColumn;
+    }
+
+    public static function resolveUserGroupIdForAccount($accountId): ?int
+    {
+        if (! static::hasUserGroupColumn()) {
+            return null;
+        }
+
+        $groupId = static::where('account_id', $accountId)->value('user_group_id');
+
+        return $groupId !== null ? (int) $groupId : null;
+    }
+
+    public function userGroup()
+    {
+        return $this->belongsTo(UserGroup::class, 'user_group_id');
+    }
+
+    public function botUser()
+    {
+        return $this->hasOne(BotUser::class, 'account_id', 'account_id');
+    }
+}

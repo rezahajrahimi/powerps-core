@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , 'L8ex9I'); return 0;
-##!!!##7e1RRFBIVlNERkgDJFNTPytXV1M/JlJRV1VST09IVVYe7VhWSAMkU1M/MFJHSE9WPzhWSEcqTElXJkRVRx7t7VhWSAMsT09YUExRRFdIPytXV1M/NUhUWEhWVx7t7UZPRFZWAzhWSEcqTElXJkRVRyZSUVdVUk9PSFUDSFtXSFFHVgMmUlFXVVJPT0hV7V7tAwMDA1NYRU9MRgNJWFFGV0xSUQNER0cqTElXJkRVRzdSOFZIVSRGRlJYUVcLB0pMSVcmRFVHVixHDwMHREZGUlhRV0JMRw8DB0ZSR0gM7QMDAwNe7e0DAwMDAwMDAwdXUldETzhWSEcmUlhRVwMgAzhWSEcqTElXJkRVRx0dWktIVUgLCkpMSVdCRkRVR1ZCTEcKDwMHSkxJVyZEVUdWLEcM7QMDAwMDAwMDAwMDAxAhRlJYUVcLDB7tAwMDAwMDAwMHSkxJVyZSUVdVUk9PSFUDIANRSFoDKkxJVyZEVUcmUlFXVVJPT0hVCwwe7QMDAwMDAwMDTEkDCwdKTElXJlJRV1VST09IVRAhRktIRk4qTElXJkRVRyRGV0xZSAsHRlJHSA8DB1dSV0RPOFZIRyZSWFFXDAwDXu0DAwMDAwMDAwMDAwMHSkxJVyZEVUcDIANRSFoDOFZIRypMSVcmRFVHCwwe7QMDAwMDAwMDAwMDAwdKTElXJkRVRxAhSkxJV0JGRFVHVkJMRwMgAwdKTElXJkRVR1YsRx7tAwMDAwMDAwMDAwMDB0pMSVcmRFVHECFERkZSWFFXQkxHAyADB0RGRlJYUVdCTEce7QMDAwMDAwMDAwMDAwdKTElXJkRVRxAhVkRZSAsMHu0DAwMDAwMDAwMDAwMHREZGUlhRJURPRFFGSCZRV1VPAyADUUhaAyRGRlJYUVclRE9PRFFGSCZSUVdVUk9PSFULDB7tAwMDAwMDAwMDAwMDB0RGRlJYUSVET0RRRkgmUVdVTxAhTFFGOFZIVSRGRlhRVyVET0RRRkgLB0RGRlJYUVdCTEcPAwdKTElXJlJRV1VST09IVRAhSkhXKkxJRkRVRydMVkZSWFFXCwdGUkdIDAwe7QMDAwMDAwMDAwMDA1VIV1hVUQNXVVhIHu0DAwMDAwMDA2DtAwMDAwMDAwNVSFdYVVEDSURPVkge7e0DAwMDYO0DAwMDU1hFT0xGA0lYUUZXTFJRA0pIVyZSWFFXMkk4VkgzSFU4VkhVCwdKTElXJkRVR1YsRw8DB0RGRlJYUVdCTEcM7QMDAwNe7QMDAwMDAwMDB0pMSVcmRFVHAyADOFZIRypMSVcmRFVHHR1aS0hVSAsKSkxJV0JGRFVHVkJMRwoPAwdKTElXJkRVR1YsRwwQIVpLSFVICwpERkZSWFFXQkxHCg8DB0RGRlJYUVdCTEcMECFGUlhRVwsMHu0DAwMDAwMDA1VIV1hVUQMHSkxJVyZEVUce7QMDAwNg7WDt
+
+namespace App\Http\Controllers;
+use App\Models\UsedGiftCard;
+
+use Illuminate\Http\Request;
+
+class UsedGiftCardController extends Controller
+{
+    public function addGiftCardToUserAccount($giftCardsId, $account_id, $code)
+    {
+
+        $totalUsedCount = UsedGiftCard::where('gift_cards_id', $giftCardsId)
+            ->count();
+        $giftController = new GiftCardController();
+        if ($giftController->checkGiftCardActive($code, $totalUsedCount)) {
+            $giftCard = new UsedGiftCard();
+            $giftCard->gift_cards_id = $giftCardsId;
+            $giftCard->account_id = $account_id;
+            $giftCard->save();
+            $accounBalanceCntrl = new AccountBallanceController();
+            $accounBalanceCntrl->incUserAccuntBalance($account_id, $giftController->getGifcardDiscount($code));
+            return true;
+        }
+        return false;
+
+    }
+    public function getCountOfUsePerUser($giftCardsId, $account_id)
+    {
+        $giftCard = UsedGiftCard::where('gift_cards_id', $giftCardsId)->where('account_id', $account_id)->count();
+        return $giftCard;
+    }
+}

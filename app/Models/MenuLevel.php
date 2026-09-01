@@ -1,3 +1,14 @@
 <?php
-bolt_decrypt( __FILE__ , 'ydHnPx'); return 0;
-##!!!##ZWXJvMjAzsu8vsB7nMvLt6jKv8DHzpZlZdDOwHukx8fQyMTJvM/At5+8z7y9vM7At6DHyszQwMnPt6G8vs/KzcTAzrejvM6hvL7Pys3UlmXQzsB7pMfH0MjEybzPwLefvM+8vbzOwLegx8rM0MDJz7eoyr/Ax5ZlZb7HvM7Oe6jAydCnwNHAx3vA08/Ayb/Oe6jKv8DHZdZle3t7e9DOwHujvM6hvL7Pys3UlmV7e3t7y83Kz8C+z8C/e3/C0LzNv8C/e5h7toLEv4K4lmV7e3t7y83Kz8C+z8C/e3/BxMfHvL3HwHuYe7aCvL6+ytDJz7rEv4KHe4LHwNHAx4K4lmVl2GU=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class MenuLevel extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['account_id', 'level'];
+
+}

@@ -1,3 +1,394 @@
 <?php
-bolt_decrypt( __FILE__ , 'pB96u8'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\User;
+use App\Models\UserGroup;
+use App\Models\UserGroupPaymentMethod;
+use App\Models\UserGroupVerificationPaymentMethod;
+use App\Models\GlobalVerificationPaymentMethod;
+use App\Services\PaymentAccessService;
+use Illuminate\Http\Request;
+
+class UserGroupController extends Controller
+{
+    private function paymentAccessService(): PaymentAccessService
+    {
+        return app(PaymentAccessService::class);
+    }
+
+    public function index(Request $request)
+    {
+        try {
+            $query = UserGroup::with(['paymentMethods', 'verificationPaymentMethods'])->withCount('users');
+
+            if ($request->filled('role_type')) {
+                $query->where('role_type', $request->role_type);
+                if ($request->role_type === 'user') {
+                    $query->where('is_default', false);
+                }
+            }
+
+            if ($request->role_type === 'user') {
+                $query->withCount([
+                    'users as verified_users_count' => function ($q) {
+                        $q->where('is_verified', true);
+                    },
+                    'users as unverified_users_count' => function ($q) {
+                        $q->where('is_verified', false);
+                    },
+                ]);
+            }
+
+            $response = [
+                'groups' => $query->orderBy('id')->get(),
+                'payment_keys' => UserGroup::PAYMENT_KEY_LABELS,
+            ];
+
+            if ($request->role_type === 'user') {
+                $this->paymentAccessService()->syncGlobalVerificationPayments();
+                $response['verification_stats'] = [
+                    'verified' => User::where('role', 'user')->where('is_verified', true)->whereNull('user_group_id')->count(),
+                    'unverified' => User::where('role', 'user')->where('is_verified', false)->whereNull('user_group_id')->count(),
+                    'without_group' => User::where('role', 'user')->whereNull('user_group_id')->count(),
+                ];
+                $response['global_verification_payments'] = GlobalVerificationPaymentMethod::orderBy('is_verified')
+                    ->orderBy('payment_key')
+                    ->get();
+            }
+
+            return response()->json($response, 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@index' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function store(Request $request)
+    {
+        $request->validate([
+            'name' => 'required|string|max:100',
+            'role_type' => 'required|in:user,agent',
+        ]);
+
+        try {
+            $group = UserGroup::create([
+                'name' => $request->name,
+                'role_type' => $request->role_type,
+                'is_default' => false,
+            ]);
+
+            foreach (UserGroup::PAYMENT_KEYS as $key) {
+                UserGroupPaymentMethod::create([
+                    'user_group_id' => $group->id,
+                    'payment_key' => $key,
+                    'is_enabled' => true,
+                ]);
+            }
+
+            return response()->json(['group' => $group->load('paymentMethods')], 201);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@store' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function update(Request $request, $id)
+    {
+        $request->validate([
+            'name' => 'required|string|max:100',
+        ]);
+
+        try {
+            $group = UserGroup::findOrFail($id);
+            $group->name = $request->name;
+            $group->save();
+
+            return response()->json(['group' => $group->load('paymentMethods')], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@update' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function destroy($id)
+    {
+        try {
+            $group = UserGroup::findOrFail($id);
+
+            if ($group->is_default) {
+                return response()->json(['message' => 'گروه پیش‌فرض قابل حذف نیست.'], 422);
+            }
+
+            if ($group->role_type === 'agent') {
+                $defaultGroup = UserGroup::where('role_type', 'agent')
+                    ->where('is_default', true)
+                    ->first();
+
+                if ($defaultGroup) {
+                    User::where('user_group_id', $group->id)->update(['user_group_id' => $defaultGroup->id]);
+                } else {
+                    User::where('user_group_id', $group->id)->update(['user_group_id' => null]);
+                }
+            } else {
+                User::where('user_group_id', $group->id)->update(['user_group_id' => null]);
+            }
+
+            $group->delete();
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@destroy' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function updatePaymentMethods(Request $request, $id)
+    {
+        $request->validate([
+            'payment_methods' => 'required|array',
+            'payment_methods.*.payment_key' => 'required|string|in:' . implode(',', UserGroup::PAYMENT_KEYS),
+            'payment_methods.*.is_enabled' => 'required|boolean',
+        ]);
+
+        try {
+            $group = UserGroup::findOrFail($id);
+
+            foreach ($request->payment_methods as $item) {
+                UserGroupPaymentMethod::updateOrCreate(
+                    [
+                        'user_group_id' => $group->id,
+                        'payment_key' => $item['payment_key'],
+                    ],
+                    [
+                        'is_enabled' => $item['is_enabled'],
+                    ]
+                );
+            }
+
+            return response()->json(['group' => $group->load('paymentMethods')], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@updatePaymentMethods' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function assignUserToGroup(Request $request)
+    {
+        $request->validate([
+            'user_id' => 'required|integer|exists:users,id',
+            'user_group_id' => 'nullable|integer|exists:user_groups,id',
+        ]);
+
+        try {
+            $user = User::findOrFail($request->user_id);
+
+            if (!in_array($user->role, ['user', 'agent'])) {
+                return response()->json(['message' => 'فقط کاربران عادی و نمایندگان قابل دسته‌بندی هستند.'], 422);
+            }
+
+            if ($request->user_group_id) {
+                $group = UserGroup::findOrFail($request->user_group_id);
+                if ($group->role_type !== $user->role) {
+                    return response()->json(['message' => 'نوع گروه با نقش کاربر مطابقت ندارد.'], 422);
+                }
+                $user->user_group_id = $group->id;
+            } else {
+                $this->paymentAccessService()->assignDefaultGroup($user);
+                return response()->json(['user' => $user->fresh()->load('userGroup')], 200);
+            }
+
+            $user->save();
+
+            return response()->json(['user' => $user->load('userGroup')], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@assignUserToGroup' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function seedDefaults()
+    {
+        try {
+            $this->paymentAccessService()->syncDefaultGroups();
+
+            $legacyUserDefault = UserGroup::where('role_type', 'user')->where('is_default', true)->first();
+            if ($legacyUserDefault) {
+                User::where('user_group_id', $legacyUserDefault->id)->update(['user_group_id' => null]);
+                $legacyUserDefault->delete();
+            }
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@seedDefaults' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function updateGlobalVerificationPaymentMethods(Request $request)
+    {
+        $request->validate([
+            'is_verified' => 'required|boolean',
+            'payment_methods' => 'required|array',
+            'payment_methods.*.payment_key' => 'required|string|in:' . implode(',', UserGroup::PAYMENT_KEYS),
+            'payment_methods.*.is_enabled' => 'required|boolean',
+        ]);
+
+        try {
+            foreach ($request->payment_methods as $item) {
+                GlobalVerificationPaymentMethod::updateOrCreate(
+                    [
+                        'is_verified' => $request->is_verified,
+                        'payment_key' => $item['payment_key'],
+                    ],
+                    [
+                        'is_enabled' => $item['is_enabled'],
+                    ]
+                );
+            }
+
+            return response()->json([
+                'global_verification_payments' => GlobalVerificationPaymentMethod::orderBy('is_verified')
+                    ->orderBy('payment_key')
+                    ->get(),
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@updateGlobalVerificationPaymentMethods' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function getGroupUsers($id)
+    {
+        try {
+            $group = UserGroup::findOrFail($id);
+            $users = User::where('user_group_id', $group->id)
+                ->where('role', $group->role_type)
+                ->with(['userGroup', 'botUser'])
+                ->orderBy('id', 'desc')
+                ->get()
+                ->map(function (User $user) {
+                    $user->bot_user_id = $user->botUser?->id;
+                    $user->admin_alias = $user->botUser?->admin_alias;
+
+                    return $user;
+                });
+
+            return response()->json(['users' => $users, 'group' => $group], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@getGroupUsers' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function addUsersToGroup(Request $request)
+    {
+        $request->validate([
+            'user_group_id' => 'required|integer|exists:user_groups,id',
+            'user_ids' => 'required|array|min:1',
+            'user_ids.*' => 'integer|exists:users,id',
+        ]);
+
+        try {
+            $group = UserGroup::findOrFail($request->user_group_id);
+            $users = User::whereIn('id', $request->user_ids)->get();
+            $added = [];
+
+            foreach ($users as $user) {
+                if ($user->role !== $group->role_type) {
+                    continue;
+                }
+                $user->user_group_id = $group->id;
+                $user->save();
+                $added[] = $user->load('userGroup');
+            }
+
+            return response()->json(['users' => $added], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@addUsersToGroup' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function updateVerificationPaymentMethods(Request $request, $id)
+    {
+        $request->validate([
+            'is_verified' => 'required|boolean',
+            'payment_methods' => 'required|array',
+            'payment_methods.*.payment_key' => 'required|string|in:' . implode(',', UserGroup::PAYMENT_KEYS),
+            'payment_methods.*.is_enabled' => 'required|boolean',
+        ]);
+
+        try {
+            $group = UserGroup::findOrFail($id);
+
+            if ($group->role_type !== 'user') {
+                return response()->json(['message' => 'تنظیم تایید فقط برای گروه‌های کاربران عادی است.'], 422);
+            }
+
+            foreach ($request->payment_methods as $item) {
+                UserGroupVerificationPaymentMethod::updateOrCreate(
+                    [
+                        'user_group_id' => $group->id,
+                        'is_verified' => $request->is_verified,
+                        'payment_key' => $item['payment_key'],
+                    ],
+                    [
+                        'is_enabled' => $item['is_enabled'],
+                    ]
+                );
+            }
+
+            return response()->json([
+                'group' => $group->load(['paymentMethods', 'verificationPaymentMethods']),
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@updateVerificationPaymentMethods' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function clearVerificationPaymentMethods(Request $request, $id)
+    {
+        $request->validate([
+            'is_verified' => 'required|boolean',
+        ]);
+
+        try {
+            $group = UserGroup::findOrFail($id);
+
+            UserGroupVerificationPaymentMethod::where('user_group_id', $group->id)
+                ->where('is_verified', $request->is_verified)
+                ->delete();
+
+            return response()->json([
+                'group' => $group->load(['paymentMethods', 'verificationPaymentMethods']),
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@clearVerificationPaymentMethods' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+
+    public function removeUserFromGroup(Request $request)
+    {
+        $request->validate([
+            'user_id' => 'required|integer|exists:users,id',
+        ]);
+
+        try {
+            $user = User::findOrFail($request->user_id);
+
+            if (!in_array($user->role, ['user', 'agent'])) {
+                return response()->json(['message' => 'کاربر قابل حذف از گروه نیست.'], 422);
+            }
+
+            $this->paymentAccessService()->assignDefaultGroup($user);
+
+            return response()->json(['user' => $user->load('userGroup')], 200);
+        } catch (\Throwable $th) {
+            \Log::error(['UserGroupController@removeUserFromGroup' => $th->getMessage()]);
+            return response()->json(null, 500);
+        }
+    }
+}

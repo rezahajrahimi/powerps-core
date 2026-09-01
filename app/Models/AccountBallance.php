@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'rYTFWA'); return 0;
-##!!!##BwdrXmpicG1eYGIdPm1tWUpsYWJpcDgHB3JwYh1GaWlyamZrXnFiWUFecV5fXnBiWUJpbG5yYmtxWUNeYHFsb2ZicFlFXnBDXmBxbG92OAdycGIdRmlpcmpma15xYllBXnFeX15wYllCaWxucmJrcVlKbGFiaTgHB2BpXnBwHT5gYGxya3E/XmlpXmtgYh1idXFia2FwHUpsYWJpB3gHHR0dHXJwYh1FXnBDXmBxbG92OAcdHR0dbW9scWJgcWJhHSFkcl5vYWJhHTodWCRmYSRaOAcdHR0dbW9scWJgcWJhHSFjZmlpXl9pYh06HVgkXmBgbHJrcVxmYSQpHSRfXmlpXmtgYiRaOAcdHR0dbXJfaWZgHWNya2BxZmxrHXJwYm8lJgcdHR0deAcdHR0dHR0dHW9icXJvax0hcWVmcCo7ZV5wTGtiJT9scVJwYm83N2BpXnBwKR0kXmBgbHJrcVxmYSQpHSReYGBscmtxXGZhJCY4Bx0dHR16B3oH
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AccountBallance extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['account_id', 'ballance'];
+    public function user()
+    {
+        return $this->hasOne(BotUser::class, 'account_id', 'account_id');
+    }
+}

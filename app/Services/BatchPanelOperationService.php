@@ -1,3 +1,384 @@
 <?php
-bolt_decrypt( __FILE__ , 'ut0rSG'); return 0;
-##!!!##Ly+ThpKKmJWGiIpFZpWVgXiKl5uOiIqYYC8vmpiKRWaVlYFtmZmVgWiUk5mXlJGRipeYgW2OiYmOi551hpOTipFolJOZl5SRkYqXYC+amIpFZpWVgW2ZmZWBaJSTmZeUkZGKl5iBcoaXn4eGk3WGk5OKkWiUk5mXlJGRipdgL5qYikVmlZWBbZmZlYFolJOZl5SRkYqXmIF4hpOGio51hpOTipFolJOZl5SRkYqXYC+amIpFZpWVgXKUiYqRmIF1hpOTipFgL5qYikVmlZWBcpSJipGYgXWXlImaiJlgL5qYikVohpeHlJOBaIaXh5STYC+amIpFbYqQkoaZjpOGmJiKl4F7ipeZhoF7ipeZhmAvmpiKRW6RkZqSjpOGmYqBbZmZlYF3ipaaipiZYC8viJGGmJhFZ4aZiI11hpOKkXSVipeGmY6Uk3iKl5uOiIovoC9FRUVFlZqHkY6IRYuak4iZjpSTRZialZWUl5mYdYaTipFNZHWGk5OKkUVJlYaTipFOX0WHlJSRL0VFRUWgL0VFRUVFRUVFjotFTUmVhpOKkUViYmJFk5qRkUWhoUVJlYaTipFSY46YbpObipOZlJeedYaTipFNTk5FoC9FRUVFRUVFRUVFRUWXipmal5NFi4aRmIpgL0VFRUVFRUVFoi8vRUVFRUVFRUWXipmal5NFSZWGk4qRUmOZnpWKRWJiYkVMjY6JiY6LnkwvRUVFRUVFRUVFRUVFoaFFSZWGk4qRUmOZnpWKRWJiYkVMmIaThoqOTC9FRUVFRUVFRUVFRUWhoUVJlYaTipFSY46YcoaXn4eGk2iUkpWGmY6HkYpNTmAvRUVFRaIvL0VFRUWVmoeRjohFi5qTiJmOlJNFip2KiJqZik2YmZeOk4xFSYaImY6Uk1FFhpeXhp5FSYiUk4uOjFFFdYaTk4qRRUmVhpOKkVFFhpeXhp5FSYqdmZeGTl9Fh5SUkS9FRUVFoC9FRUVFRUVFRUmIlJOLjoxFYkVJmY2OmFJjk5SXkoaRjp+KaJSTi46MTUmIlJOLjoxOYC8vRUVFRUVFRUWOi0VNSZWGk4qRUmOZnpWKRWJiYkVMmIaThoqOTE5FoC9FRUVFRUVFRUVFRUWXipmal5NFSZmNjphSY4qdioiamYp4hpOGio5NSYaImY6Uk1FFSYiUk4uOjFFFSZWGk4qRUUVJip2Zl4ZOYC9FRUVFRUVFRaIvL0VFRUVFRUVFjotFTUmVhpOKkVJjjphyhpefh4aTaJSSlYaZjoeRik1OTkWgL0VFRUVFRUVFRUVFRZeKmZqXk0VJmY2OmFJjip2KiJqZinKGl5+HhpNNSYaImY6Uk1FFSYiUk4uOjFFFSZWGk4qRUUVJip2Zl4ZOYC9FRUVFRUVFRaIvL0VFRUVFRUVFl4qZmpeTRUmZjY6YUmOKnYqImpmKbY6JiY6Lnk1JhoiZjpSTUUVJiJSTi46MUUVJlYaTipFSY46JUUVJip2Zl4ZOYC9FRUVFoi8vRUVFRZWXjpuGmYpFi5qTiJmOlJNFk5SXkoaRjp+KaJSTi46MTYaXl4aeRUmIlJOLjoxOX0WGl5eGni9FRUVFoC9FRUVFRUVFRZeKmZqXk0WAL0VFRUVFRUVFRUVFRUyamo6JTEViY0VNmJmXjpOMTkVNSYiUk4uOjIBMmpqOiUyCRWRkRUxMTlEvRUVFRUVFRUVFRUVFTJOGkopMRWJjRU2YmZeOk4xORU1JiJSTi46MgEyThpKKTIJFZGRFSYiUk4uOjIBMmpqOiUyCRWRkRUxMTlEvRUVFRUVFRUVFRUVFTJWGiJCGjIpphp6YTEViY0VNjpOZTkVNSYiUk4uOjIBMlYaIkIaMimmGnphMgkVkZEVJiJSTi46MgEyVhoiQhoyKhImGnphMgkVkZEVVTlEvRUVFRUVFRUVFRUVFTJqYhoyKcY6SjplsZ0xFYmNFTYuRlIaZTkVNSYiUk4uOjIBMmpiGjIpxjpKOmWxnTIJFZGRFSYiUk4uOjIBMmpiGjIqEkY6SjpmEbGdMgkVkZEVVTlEvRUVFRUVFRUVFRUVFTIial5eKk5l6mIaMimxnTEViY0VNi5GUhplORU1JiJSTi46MgEyImpeXipOZepiGjIpsZ0yCRWRkRUmIlJOLjoyATIial5eKk5mEmpiGjIqEbGdMgkVkZEVVTlEvRUVFRUVFRUWCYC9FRUVFoi8vRUVFRZWXjpuGmYpFi5qTiJmOlJNFip2KiJqZim2OiYmOi55NmJmXjpOMRUmGiJmOlJNRRYaXl4aeRUmIlJOLjoxRRY6TmUVJlYaTipFuiVFFhpeXhp5FSYqdmZeGTl9Fh5SUkS9FRUVFoC9FRUVFRUVFRUmNjomJjoueRWJFhpWVTW2OiYmOi551hpOTipFolJOZl5SRkYqXX1+IkYaYmE5gL0VFRUVFRUVFSZqajolFYkVJiJSTi46MgEyamo6JTIJgL0VFRUVFRUVFSZOGkopFYkVJiJSTi46MgEyThpKKTIJgLy9FRUVFRUVFRZicjpmIjUVNSYaImY6Uk05FoC9FRUVFRUVFRUVFRUWIhpiKRUyOk4iEiYaemExfL0VFRUVFRUVFRUVFRUVFRUVJiYaemEViRU2Ok5lORU1Jip2Zl4aATImGnphMgkVkZEVVTmAvRUVFRUVFRUVFRUVFRUVFRUmVhpeGkphFYkWAL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJqajolMRWJjRUmamo6JUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyThpKKTEViY0VJk4aSilEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMlYaIkIaMioSJhp6YTEViY0VJiJSTi46MgEyVhoiQhoyKaYaemEyCRVBFSYmGnphRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJKUiYpMRWJjRUyTlISXipiKmUxRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTIiUkpKKk5lMRWJjRUz9zP6m/df9zACx/dlF/db+rf3X/qz9zEX91P3WRUxFU0V7ipeZhl9fk5ScTU5FU0VHRf3N/qxF/qr91P3PRaBJiYaemKJF/db+rf3XR1EvRUVFRUVFRUVFRUVFRUVFRYJgLy9FRUVFRUVFRUVFRUVFRUVFl4qZmpeTRUmNjomJjoueUmOYipOJdYaZiI13ipaaipiZeZRtjomJjouedYaTk4qRTUmVhpOKkW6JUUVHVIaVjlSbV1SGiZKOk1SamIqXVKBJmpqOiaJUR1FFSZWGl4aSmE5FRmJiRYuGkZiKYC8vRUVFRUVFRUVFRUVFiIaYikVMiYqIhImGnphMXy9FRUVFRUVFRUVFRUVFRUVFSYmGnphFYkVNjpOZTkVNSYqdmZeGgEyJhp6YTIJFZGRFVU5gL0VFRUVFRUVFRUVFRUVFRUVJlYaXhpKYRWJFgC9FRUVFRUVFRUVFRUVFRUVFRUVFRUyamo6JTEViY0VJmpqOiVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMk4aSikxFYmNFSZOGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJWGiJCGjIqEiYaemExFYmNFSYiUk4uOjIBMlYaIkIaMimmGnphMgkVSRUmJhp6YUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUySlImKTEViY0VMk5SEl4qYiplMUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyIlJKSipOZTEViY0VM/879zP6s/dlF/db+rf3X/qz9zEX91P3WRUxFU0V7ipeZhl9fk5ScTU5FU0VHRf3N/qxF/qr91P3PRaBJiYaemKJF/db+rf3XR1EvRUVFRUVFRUVFRUVFRUVFRYJgLy9FRUVFRUVFRUVFRUVFRUVFl4qZmpeTRUmNjomJjoueUmOYipOJdYaZiI13ipaaipiZeZRtjomJjouedYaTk4qRTUmVhpOKkW6JUUVHVIaVjlSbV1SGiZKOk1SamIqXVKBJmpqOiaJUR1FFSZWGl4aSmE5FRmJiRYuGkZiKYC8vRUVFRUVFRUVFRUVFiIaYikVMkpSJjouehImGnphMXy9FRUVFRUVFRUVFRUVFRUVFSYmGnphFYkVNjpOZTkVNSYqdmZeGgEyJhp6YTIJFZGRFVU5gL0VFRUVFRUVFRUVFRUVFRUVJlYaXhpKYRWJFgC9FRUVFRUVFRUVFRUVFRUVFRUVFRUyamo6JTEViY0VJmpqOiVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMk4aSikxFYmNFSZOGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJWGiJCGjIqEiYaemExFYmNFSYmGnphRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJKUiYpMRWJjRUyTlISXipiKmUxRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTIiUkpKKk5lMRWJjRUz9z/3fALEAsf3WRf3W/q391/6s/cxF/dT91kVMRVNFe4qXmYZfX5OUnE1ORVNFR0X9zf6sRf6qALH91/3M/qtFoEmJhp6YokX91v6t/ddHUS9FRUVFRUVFRUVFRUVFRUVFgmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSY2OiYmOi55SY5iKk4l1hpmIjXeKlpqKmJl5lG2OiYmOi551hpOTipFNSZWGk4qRbolRRUdUhpWOVJtXVIaJko6TVJqYipdUoEmamo6JolRHUUVJlYaXhpKYTkVGYmJFi4aRmIpgLy9FRUVFRUVFRUVFRUWIhpiKRUyOk4iEm5SRTF8vRUVFRUVFRUVFRUVFRUVFRUmblJFFYkVNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOYC9FRUVFRUVFRUVFRUVFRUVFSZWGl4aSmEViRYAvRUVFRUVFRUVFRUVFRUVFRUVFRUVMmpqOiUxFYmNFSZqajolRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJOGkopMRWJjRUmThpKKUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyamIaMioSRjpKOmYRsZ0xFYmNFSYiUk4uOjIBMmpiGjIpxjpKOmWxnTIJFUEVJm5SRUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUySlImKTEViY0VMk5SEl4qYiplMUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyIlJKSipOZTEViY0VM/cz+pv3X/cwAsf3ZRf3S/dH+qkX91P3WRUxFU0V7ipeZhl9fk5ScTU5FU0VHRf3N/qxF/qoAsf3X/cz+q0WgSZuUkaJFbGdHUS9FRUVFRUVFRUVFRUVFRUVFgmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSY2OiYmOi55SY5iKk4l1hpmIjXeKlpqKmJl5lG2OiYmOi551hpOTipFNSZWGk4qRbolRRUdUhpWOVJtXVIaJko6TVJqYipdUoEmamo6JolRHUUVJlYaXhpKYTkVGYmJFi4aRmIpgLy9FRUVFRUVFRUVFRUWIhpiKRUyJioiEm5SRTF8vRUVFRUVFRUVFRUVFRUVFRUmblJFFYkVNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOYC9FRUVFRUVFRUVFRUVFRUVFSZWGl4aSmEViRYAvRUVFRUVFRUVFRUVFRUVFRUVFRUVMmpqOiUxFYmNFSZqajolRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJOGkopMRWJjRUmThpKKUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyamIaMioSRjpKOmYRsZ0xFYmNFkoadTVVRRUmIlJOLjoyATJqYhoyKcY6SjplsZ0yCRVJFSZuUkU5RL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJKUiYpMRWJjRUyTlISXipiKmUxRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTIiUkpKKk5lMRWJjRUz/zv3M/qz92UX90v3R/qpF/dT91kVMRVNFe4qXmYZfX5OUnE1ORVNFR0X9zf6sRf6qALH91/3M/qtFoEmblJGiRWxnR1EvRUVFRUVFRUVFRUVFRUVFRYJgLy9FRUVFRUVFRUVFRUVFRUVFl4qZmpeTRUmNjomJjoueUmOYipOJdYaZiI13ipaaipiZeZRtjomJjouedYaTk4qRTUmVhpOKkW6JUUVHVIaVjlSbV1SGiZKOk1SamIqXVKBJmpqOiaJUR1FFSZWGl4aSmE5FRmJiRYuGkZiKYC8vRUVFRUVFRUVFRUVFiIaYikVMkpSJjouehJuUkUxfL0VFRUVFRUVFRUVFRUVFRUVJm5SRRWJFTYuRlIaZTkVNSYqdmZeGgEyblJFMgkVkZEVVTmAvRUVFRUVFRUVFRUVFRUVFRUmVhpeGkphFYkWAL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJqajolMRWJjRUmamo6JUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyThpKKTEViY0VJk4aSilEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMmpiGjIqEkY6SjpmEbGdMRWJjRUmblJFRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJKUiYpMRWJjRUyTlISXipiKmUxRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTIiUkpKKk5lMRWJjRUz9z/3fALEAsf3WRf3S/dH+qkX91P3WRUxFU0V7ipeZhl9fk5ScTU5FU0VHRf3N/qxF/qoAsf3X/cz+q0WgSZuUkaJFbGdHUS9FRUVFRUVFRUVFRUVFRUVFgmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSY2OiYmOi55SY5iKk4l1hpmIjXeKlpqKmJl5lG2OiYmOi551hpOTipFNSZWGk4qRbolRRUdUhpWOVJtXVIaJko6TVJqYipdUoEmamo6JolRHUUVJlYaXhpKYTkVGYmJFi4aRmIpgLy9FRUVFRUVFRUVFRUWIhpiKRUyXipiKmUxfL0VFRUVFRUVFRUVFRUVFRUVJmZSJhp5FYkWJhpmKTUx+UpJSiUxOYC9FRUVFRUVFRUVFRUVFRUVFSZWGl4aSmEViRYAvRUVFRUVFRUVFRUVFRUVFRUVFRUVMmpqOiUxFYmNFSZqajolRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJOGkopMRWJjRUmThpKKUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyImpeXipOZhJqYhoyKhGxnTEViY0VVUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyamIaMioSRjpKOmYRsZ0xFYmNFSYiUk4uOjIBMmpiGjIpxjpKOmWxnTIJRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTJWGiJCGjIqEiYaemExFYmNFSYiUk4uOjIBMlYaIkIaMimmGnphMglEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMkpSJikxFYmNFTJOUhJeKmIqZTFEvRUVFRUVFRUVFRUVFRUVFRUVFRUVMmJmGl5mEiYaZikxFYmNFSZmUiYaeUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUyIlJKSipOZTEViY0VM/dYAsf3Y/c9F/dT91kVMRVNFe4qXmYZfX5OUnE1OUS9FRUVFRUVFRUVFRUVFRUVFgmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSY2OiYmOi55SY5iKk4l1hpmIjXeKlpqKmJl5lG2OiYmOi551hpOTipFNSZWGk4qRbolRRUdUhpWOVJtXVIaJko6TVJqYipdUoEmamo6JolRHUUVJlYaXhpKYTkVGYmJFi4aRmIpgLy9FRUVFRUVFRUVFRUWIhpiKRUyGiJmOm4pMXy9FRUVFRUVFRUVFRUWIhpiKRUyJioaImY6bikxfL0VFRUVFRUVFRUVFRUVFRUVJl4qWRWJFk4qcRXeKlpqKmJlNTmAvRUVFRUVFRUVFRUVFRUVFRUmXipZSY5WGk5OKkW5pRWJFSZWGk4qRbolgL0VFRUVFRUVFRUVFRUVFRUVJl4qWUmOamo6JRWJFSZqajolgL0VFRUVFRUVFRUVFRUVFRUVJl4qWUmOKk4aHkYpFYkVJhoiZjpSTRWJiYkVMhoiZjpuKTGAvRUVFRUVFRUVFRUVFRUVFRUmXipZSY4iUkpKKk5lFYkVNSYaImY6Uk0ViYmJFTIaImY6bikxFZEVM/qb93v3M/qn92P3M/dcAsUxFX0VM/d8Asf3W/qb93v3M/qlF/dj9zP3XALFMTkVTRUxF/dT91kVMRVNFe4qXmYZfX5OUnE1OYC9FRUVFRUVFRUVFRUVFRUVFSZeKmJqRmUViRUmNjomJjoueUmOIjYaTjIp6mIqXZoiZjpuGmY6Uk3SLbY6JiY6LnnWGk4qRZpWOTUmXipZOYC8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJl4qYmpGZRUZiYkWLhpGYimAvL0VFRUVFRUVFRUVFRYiGmIpFTImKkYqZikxfL0VFRUVFRUVFRUVFRUVFRUVJl4qYmpGZRWJFSY2OiYmOi55SY4mKkYqZinqYipd0i22OiYmOi551hpOKkU1JlYaTipFuiVFFSZqajolOYC9FRUVFRUVFRUVFRUVFRUVFjotFTUmXipiakZlFYmJiRYuGkZiKTkWgL0VFRUVFRUVFRUVFRUVFRUVFRUVFl4qZmpeTRYuGkZiKYC9FRUVFRUVFRUVFRUVFRUVFoi9FRUVFRUVFRUVFRUVFRUVFSZWXlImaiJlFYkV1l5SJmoiZX1+cjYqXik1MmJqHmIiXjpWZjpSThJGOk5BMUUVHVKBJmpqOiaJUhpGRU5mdmWSThpKKYpiah5GOk5BSmpOQk5Sck0uGmJNimpOQk5Sck0uSlImKYpOKnEdOUmOLjpeYmU1OYC9FRUVFRUVFRUVFRUVFRUVFjotFTUmVl5SJmoiZRUZiYkWTmpGRTkWgL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZWXlImaiJlSY4mKkYqZik1OYC9FRUVFRUVFRUVFRUVFRUVFoi8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0WZl5qKYC8vRUVFRUVFRUVFRUVFiYqLhpqRmV8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0WLhpGYimAvRUVFRUVFRUWiL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WKnYqImpmKeIaThoqOTZiZl46TjEVJhoiZjpSTUUWGl5eGnkVJiJSTi46MUUV1hpOTipFFSZWGk4qRUUWGl5eGnkVJip2Zl4ZOX0WHlJSRL0VFRUWgL0VFRUVFRUVFSZiTRWJFk4qcRXiGk4aKjnWGk5OKkWiUk5mXlJGRipdNTmAvRUVFRUVFRUVJmpqOiUViRUmIlJOLjoyATJqajolMgmAvRUVFRUVFRUWOi0VNSZqajolFYmJiRUxMTkWgL0VFRUVFRUVFRUVFRZeKmZqXk0WLhpGYimAvRUVFRUVFRUWiLy9FRUVFRUVFRZicjpmIjUVNSYaImY6Uk05FoC9FRUVFRUVFRUVFRUWIhpiKRUyOk4iEiYaemExfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFTYeUlJFORUmYk1Jjl4qIjYaXjIpokY6Kk5lNSZWGk4qRUUVJmpqOiVFFTY6TmU5FTUmKnZmXhoBMiYaemEyCRWRkRVVOUUVVTmAvL0VFRUVFRUVFRUVFRYiGmIpFTImKiISJhp6YTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJmY2OmFJjhomPmpiZeIaThoqOaYaemE1JmJNRRUmVhpOKkVFFSZqajolRRVJWRU9FTY6TmU5FTUmKnZmXhoBMiYaemEyCRWRkRVVOTmAvL0VFRUVFRUVFRUVFRYiGmIpFTJKUiY6LnoSJhp6YTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJmY2OmFJjmIqZeIaThoqOaYaemE1JmJNRRUmVhpOKkVFFSZqajolRRU2Ok5lORU1Jip2Zl4aATImGnphMgkVkZEVVTk5gLy9FRUVFRUVFRUVFRUWIhpiKRUyOk4iEm5SRTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VNh5SUkU5FSZiTUmOXioiNhpeMimiRjoqTmU1JlYaTipFRRUmamo6JUUVVUUVNjpOZTkVNSYqdmZeGgEyblJFMgkVkZEVVTk5gLy9FRUVFRUVFRUVFRUWIhpiKRUyJioiEm5SRTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJmY2OmFJjhomPmpiZeIaThoqOe5SRmpKKTUmYk1FFSZWGk4qRUUVJmpqOiVFFUlZFT0VNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOTmAvL0VFRUVFRUVFRUVFRYiGmIpFTJKUiY6LnoSblJFMXy9FRUVFRUVFRUVFRUVFRUVFl4qZmpeTRUmZjY6YUmOYipl4hpOGio57lJGakopNSZiTUUVJlYaTipFRRUmamo6JUUVNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOTmAvL0VFRUVFRUVFRUVFRYiGmIpFTJeKmIqZTF8vRUVFRUVFRUVFRUVFRUVFRUmLlJqTiUViRUmYk1Jji46TiWiRjoqTmWeeenpuaU1JlYaTipFRRUmamo6JTmAvRUVFRUVFRUVFRUVFRUVFRY6LRU1GRUmLlJqTiU5FoC9FRUVFRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0WLhpGYimAvRUVFRUVFRUVFRUVFRUVFRaIvRUVFRUVFRUVFRUVFRUVFRUmOk4eUmpOJbolFYkVJi5Sak4mATI6Th5Sak4lMgoBMjolMgkVkZEVWYC9FRUVFRUVFRUVFRUVFRUVFSYqSho6RRWJFSYuUmpOJgEyIkY6Kk5lMgoBMipKGjpFMgkVkZEVMTGAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFTYeUlJFORUmYk1Jjl4qYiplokY6Kk5l5l4aLi46ITUmVhpOKkVFFSY6Th5Sak4luiVFFSYqSho6RTmAvL0VFRUVFRUVFRUVFRYiGmIpFTIaImY6bikxfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFTYeUlJFORUmYk1JjiI2Gk4yKepiKl2aImY6bhpmOlJNNSZWGk4qRUUVJmpqOiVFFmZeaik5gLy9FRUVFRUVFRUVFRUWIhpiKRUyJioaImY6bikxfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFTYeUlJFORUmYk1JjiI2Gk4yKepiKl2aImY6bhpmOlJNNSZWGk4qRUUVJmpqOiVFFi4aRmIpOYC8vRUVFRUVFRUVFRUVFiIaYikVMiYqRipmKTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VNh5SUkU5FSZiTUmOJipGKmYp6mIqXTUmVhpOKkVFFSZqajolOYC8vRUVFRUVFRUVFRUVFiYqLhpqRmV8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0WLhpGYimAvRUVFRUVFRUWiL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WKnYqImpmKcoaXn4eGk02YmZeOk4xFSYaImY6Uk1FFhpeXhp5FSYiUk4uOjFFFdYaTk4qRRUmVhpOKkVFFhpeXhp5FSYqdmZeGTl9Fh5SUkS9FRUVFoC9FRUVFRUVFRUmSh0ViRXKGl5+HhpN1hpOTipFolJOZl5SRkYqXX1+XipiUkZuKTUmVhpOKkU5gL0VFRUVFRUVFSZqYipeThpKKRWJFSYiUk4uOjIBMk4aSikyCRUZiYkVMTEVkRUmIlJOLjoyATJOGkopMgkVfRUmIlJOLjoyATJqajolMgmAvRUVFRUVFRUWOi0VNSZqYipeThpKKRWJiYkVMTE5FoC9FRUVFRUVFRUVFRUWXipmal5NFi4aRmIpgL0VFRUVFRUVFoi8vRUVFRUVFRUVJmpiKl0ViRUmSh1JjjIqZepiKl01JlYaTipFRRUmamIqXk4aSik5gL0VFRUVFRUVFjotFTUZFjpiEhpeXhp5NSZqYipdORUtLRUZFjpOEhpeXhp5NSYaImY6Uk1FFgEyJipGKmYpMglFFmZeaik5ORaAvRUVFRUVFRUVFRUVFl4qZmpeTRYuGkZiKYC9FRUVFRUVFRaIvL0VFRUVFRUVFmJyOmYiNRU1JhoiZjpSTTkWgL0VFRUVFRUVFRUVFRYiGmIpFTI6TiISJhp6YTF8vRUVFRUVFRUVFRUVFRUVFRUmJhp6YRWJFTY6TmU5FTUmKnZmXhoBMiYaemEyCRWRkRVVOYC8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJkodSY5KUiY6LnnqYipdNL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZWGk4qRUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmamIqXk4aSilEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmY2OmFJjkoaXn4eGk3eKkoaOk46TjGmGnphNSZqYipdORVBFSYmGnphRL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZmNjphSY5KGl5+HhpN7lJFsh01JmpiKl05RL0VFRUVFRUVFRUVFRUVFRUVFRUVFi4aRmIovRUVFRUVFRUVFRUVFRUVFRU5gLy9FRUVFRUVFRUVFRUWIhpiKRUyJioiEiYaemExfL0VFRUVFRUVFRUVFRUVFRUVJiYaemEViRU2Ok5lORU1Jip2Zl4aATImGnphMgkVkZEVVTmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOSlImOi556mIqXTS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmVhpOKkVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmpiKl5OGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFkoadTVVRRUmZjY6YUmOShpefh4aTd4qSho6TjpOMaYaemE1JmpiKl05FUkVJiYaemE5RL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZmNjphSY5KGl5+HhpN7lJFsh01JmpiKl05RL0VFRUVFRUVFRUVFRUVFRUVFRUVFi4aRmIovRUVFRUVFRUVFRUVFRUVFRU5gLy9FRUVFRUVFRUVFRUWIhpiKRUySlImOi56EiYaemExfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOSlImOi556mIqXTS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmVhpOKkVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmpiKl5OGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFTY6TmU5FTUmKnZmXhoBMiYaemEyCRWRkRVVOUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmZjY6YUmOShpefh4aTe5SRbIdNSZqYipdOUS9FRUVFRUVFRUVFRUVFRUVFRUVFRYuGkZiKL0VFRUVFRUVFRUVFRUVFRUVOYC8vRUVFRUVFRUVFRUVFiIaYikVMjpOIhJuUkUxfL0VFRUVFRUVFRUVFRUVFRUVJm5SRRWJFTYuRlIaZTkVNSYqdmZeGgEyblJFMgkVkZEVVTmAvL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOSlImOi556mIqXTS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmVhpOKkVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmpiKl5OGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZmNjphSY5KGl5+HhpN3ipKGjpOOk4xphp6YTUmamIqXTlEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmY2OmFJjkoaXn4eGk3uUkWyHTUmamIqXTkVQRUmblJFRL0VFRUVFRUVFRUVFRUVFRUVFRUVFi4aRmIovRUVFRUVFRUVFRUVFRUVFRU5gLy9FRUVFRUVFRUVFRUWIhpiKRUyJioiEm5SRTF8vRUVFRUVFRUVFRUVFRUVFRUmblJFFYkVNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOYC8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJkodSY5KUiY6LnnqYipdNL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZWGk4qRUS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmamIqXk4aSilEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmY2OmFJjkoaXn4eGk3eKkoaOk46TjGmGnphNSZqYipdOUS9FRUVFRUVFRUVFRUVFRUVFRUVFRZKGnU1VUUVJmY2OmFJjkoaXn4eGk3uUkWyHTUmamIqXTkVSRUmblJFOUS9FRUVFRUVFRUVFRUVFRUVFRUVFRYuGkZiKL0VFRUVFRUVFRUVFRUVFRUVOYC8vRUVFRUVFRUVFRUVFiIaYikVMkpSJjouehJuUkUxfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOSlImOi556mIqXTS9FRUVFRUVFRUVFRUVFRUVFRUVFRUmVhpOKkVEvRUVFRUVFRUVFRUVFRUVFRUVFRUVJmpiKl5OGkopRL0VFRUVFRUVFRUVFRUVFRUVFRUVFSZmNjphSY5KGl5+HhpN3ipKGjpOOk4xphp6YTUmamIqXTlEvRUVFRUVFRUVFRUVFRUVFRUVFRUVNi5GUhplORU1Jip2Zl4aATJuUkUyCRWRkRVVOUS9FRUVFRUVFRUVFRUVFRUVFRUVFRYuGkZiKL0VFRUVFRUVFRUVFRUVFRUVOYC8vRUVFRUVFRUVFRUVFiIaYikVMl4qYiplMXy9FRUVFRUVFRUVFRUVFRUVFl4qZmpeTRUmSh1Jjl4qYipl5l4aLi46ITUmVhpOKkVFFSZqYipeThpKKTmAvL0VFRUVFRUVFRUVFRYiGmIpFTIaImY6bikxfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOIjYaTjIp6mIqXZoiZjpuGmY6Uk01JlYaTipFRRUmamIqXk4aSilFFmZeaik5gLy9FRUVFRUVFRUVFRUWIhpiKRUyJioaImY6bikxfL0VFRUVFRUVFRUVFRUVFRUWXipmal5NFSZKHUmOIjYaTjIp6mIqXZoiZjpuGmY6Uk01JlYaTipFRRUmamIqXk4aSilFFi4aRmIpOYC8vRUVFRUVFRUVFRUVFiIaYikVMiYqRipmKTF8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0VJkodSY4mKkYqZinqYipdNSZWGk4qRUUVJmpiKl5OGkopOYC8vRUVFRUVFRUVFRUVFiYqLhpqRmV8vRUVFRUVFRUVFRUVFRUVFRZeKmZqXk0WLhpGYimAvRUVFRUVFRUWiL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WGiY+amJl4hpOGio5php6YTXiGk4aKjnWGk5OKkWiUk5mXlJGRipdFSZiTUUV1hpOTipFFSZWGk4qRUUWYmZeOk4xFSZqajolRRY6TmUVJiYqRmYZphp6YTl9Fh5SUkS9FRUVFoC9FRUVFRUVFRUmLlJqTiUViRUmYk1Jji46TiWiRjoqTmWeeenpuaU1JlYaTipFRRUmamo6JTmAvRUVFRUVFRUWOi0VNRkVJi5Sak4lORaAvRUVFRUVFRUVFRUVFl4qZmpeTRYuGkZiKYC9FRUVFRUVFRaIvL0VFRUVFRUVFSYiRjoqTmUViRUmLlJqTiYBMiJGOipOZTIJgL0VFRUVFRUVFSZOUnHKYRWJFk5ScTUx6eWhMTlJjmY6SipiZhpKVRU9FVlVVVWAvRUVFRUVFRUVJiJqXl4qTmWqdlY6XnkViRU2Ok5lORU1JiJGOipOZgEyKnZWOl555jpKKTIJFZGRFVU5gL0VFRUVFRUVFjotFTUmImpeXipOZap2VjpeeRWFiRVVORaAvRUVFRUVFRUVFRUVFSYial5eKk5lqnZWOl55FYkVJk5SccphgL0VFRUVFRUVFoi9FRUVFRUVFRUmTipxqnZWOl55FYkVJiJqXl4qTmWqdlY6XnkVQRU1JiYqRmYZphp6YRU9FXVtZVVVFT0VWVVVVTmAvL0VFRUVFRUVFl4qZmpeTRU2HlJSRTkVJmJNSY5qViYaZimiRjoqTmU1JlYaTipFRRUmamo6JUUWATIqdlY6XnnmOkopMRWJjRZKGnU1Jk5SccphRRUmTipxqnZWOl55Ogk5gL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WYipl4hpOGio5php6YTXiGk4aKjnWGk5OKkWiUk5mXlJGRipdFSZiTUUV1hpOTipFFSZWGk4qRUUWYmZeOk4xFSZqajolRRY6TmUVJiYaemE5fRYeUlJEvRUVFRaAvRUVFRUVFRUVJk4qcap2VjpeeRWJFk5ScTUx6eWhMTlJjhomJaYaemE1JiYaemE5SY5mOkoqYmYaSlUVPRVZVVVVgLy9FRUVFRUVFRZeKmZqXk0VNh5SUkU5FSZiTUmOalYmGmYpokY6Kk5lNSZWGk4qRUUVJmpqOiVFFgEyKnZWOl555jpKKTEViY0VJk4qcap2Vjpeegk5gL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WGiY+amJl4hpOGio57lJGakopNeIaThoqOdYaTk4qRaJSTmZeUkZGKl0VJmJNRRXWGk5OKkUVJlYaTipFRRZiZl46TjEVJmpqOiVFFi5GUhplFSYmKkZmGbIdOX0WHlJSRL0VFRUWgL0VFRUVFRUVFSYuUmpOJRWJFSZiTUmOLjpOJaJGOipOZZ556em5pTUmVhpOKkVFFSZqajolOYC9FRUVFRUVFRY6LRU1GRUmLlJqTiU5FoC9FRUVFRUVFRUVFRUWXipmal5NFi4aRmIpgL0VFRUVFRUVFoi8vRUVFRUVFRUVJiJqXl4qTmXmUmYaRRWJFTY6TmU5FTUmLlJqTiYBMiJGOipOZTIKATJmUmYaRbGdMgkVkZEVVTmAvRUVFRUVFRUVJiYqRmYZnnpmKmEViRU2Ok5lORZeUmpOJTUmJipGZhmyHRU9FVlVXWUVPRVZVV1lFT0VWVVdZTmAvRUVFRUVFRUVJk4qceZSZhpFFYkWShp1NVVFFSYial5eKk5l5lJmGkUVQRUmJipGZhmeemYqYTmAvL0VFRUVFRUVFl4qZmpeTRU2HlJSRTkVJmJNSY5qViYaZimiRjoqTmU1JlYaTipFRRUmamo6JUUWATJmUmYaRbGdMRWJjRUmTipx5lJmGkYJOYC9FRUVFoi8vRUVFRZWXjpuGmYpFi5qTiJmOlJNFmIqZeIaThoqOe5SRmpKKTXiGk4aKjnWGk5OKkWiUk5mXlJGRipdFSZiTUUV1hpOTipFFSZWGk4qRUUWYmZeOk4xFSZqajolRRYuRlIaZRUmMh05fRYeUlJEvRUVFRaAvRUVFRUVFRUVJk4qceZSZhpFFYkVNjpOZTkWXlJqTiU1JjIdFT0VWVVdZRU9FVlVXWUVPRVZVV1lOYC8vRUVFRUVFRUWXipmal5NFTYeUlJFORUmYk1JjmpWJhpmKaJGOipOZTUmVhpOKkVFFSZqajolRRYBMmZSZhpFsZ0xFYmNFSZOKnHmUmYaRgk5gL0VFRUWiLy9FRUVFlZeOm4aZikWLmpOImY6Uk0WShpefh4aTd4qSho6TjpOMaYaemE2Gl5eGnkVJmpiKl05fRY6TmS9FRUVFoC9FRUVFRUVFRUmKnZWOl4p5mEViRU2Ok5lORU1JmpiKl4BMip2VjpeKTIJFZGRFVU5gL0VFRUVFRUVFjotFTUmKnZWOl4p5mEVhYkVVTkWgL0VFRUVFRUVFRUVFRZeKmZqXk0VVYC9FRUVFRUVFRaIvL0VFRUVFRUVFl4qZmpeTRZKGnU1VUUVNjpOZTkVohpeHlJNfX5OUnE1MenloTE5SY4mOi4tuk2mGnphNaIaXh5STX1+Il4qGmYprl5SSeY6SipiZhpKVTUmKnZWOl4p5mFFFTHp5aExOUUWLhpGYik5OYC9FRUVFoi8vRUVFRZWXjpuGmYpFi5qTiJmOlJNFkoaXn4eGk3uUkWyHTYaXl4aeRUmamIqXTl9Fi5GUhpkvRUVFRaAvRUVFRUVFRUVJkY6SjplnnpmKmEViRU2Ok5lORU1JmpiKl4BMiYaZhoSRjpKOmUyCRWRkRVVOYC9FRUVFRUVFRY6LRU1JkY6SjplnnpmKmEVhYkVVTkWgL0VFRUVFRUVFRUVFRZeKmZqXk0VVYC9FRUVFRUVFRaIvL0VFRUVFRUVFl4qZmpeTRZeUmpOJTUmRjpKOmWeemYqYRVRFVlVXWUVURVZVV1lFVEVWVVdZUUVXTmAvRUVFRaIvoi8=
+
+namespace App\Services;
+
+use App\Http\Controllers\HiddifyPannelController;
+use App\Http\Controllers\MarzbanPannelController;
+use App\Http\Controllers\SanaeiPannelController;
+use App\Models\Pannel;
+use App\Models\Product;
+use Carbon\Carbon;
+use Hekmatinasser\Verta\Verta;
+use Illuminate\Http\Request;
+
+class BatchPanelOperationService
+{
+    public function supportsPanel(?Pannel $panel): bool
+    {
+        if ($panel === null || $panel->isInventoryPanel()) {
+            return false;
+        }
+
+        return $panel->type === 'hiddify'
+            || $panel->type === 'sanaei'
+            || $panel->isMarzbanCompatible();
+    }
+
+    public function execute(string $action, array $config, Pannel $panel, array $extra): bool
+    {
+        $config = $this->normalizeConfig($config);
+
+        if ($panel->type === 'sanaei') {
+            return $this->executeSanaei($action, $config, $panel, $extra);
+        }
+
+        if ($panel->isMarzbanCompatible()) {
+            return $this->executeMarzban($action, $config, $panel, $extra);
+        }
+
+        return $this->executeHiddify($action, $config, $panel->id, $extra);
+    }
+
+    private function normalizeConfig(array $config): array
+    {
+        return [
+            'uuid' => (string) ($config['uuid'] ?? ''),
+            'name' => (string) ($config['name'] ?? $config['uuid'] ?? ''),
+            'packageDays' => (int) ($config['packageDays'] ?? $config['package_days'] ?? 0),
+            'usageLimitGB' => (float) ($config['usageLimitGB'] ?? $config['usage_limit_GB'] ?? 0),
+            'currentUsageGB' => (float) ($config['currentUsageGB'] ?? $config['current_usage_GB'] ?? 0),
+        ];
+    }
+
+    private function executeHiddify(string $action, array $config, int $panelId, array $extra): bool
+    {
+        $hiddify = app(HiddifyPannelController::class);
+        $uuid = $config['uuid'];
+        $name = $config['name'];
+
+        switch ($action) {
+            case 'inc_days':
+                $days = (int) ($extra['days'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'package_days' => $config['packageDays'] + $days,
+                    'mode' => 'no_reset',
+                    'comment' => 'افزایش روزها در ' . Verta::now() . " به مدت {$days} روز",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'dec_days':
+                $days = (int) ($extra['days'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'package_days' => $config['packageDays'] - $days,
+                    'mode' => 'no_reset',
+                    'comment' => 'کاهش روزها در ' . Verta::now() . " به مدت {$days} روز",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'modify_days':
+                $days = (int) ($extra['days'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'package_days' => $days,
+                    'mode' => 'no_reset',
+                    'comment' => 'تغییر روزها در ' . Verta::now() . " به میزان {$days} روز",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'inc_vol':
+                $vol = (float) ($extra['vol'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'usage_limit_GB' => $config['usageLimitGB'] + $vol,
+                    'mode' => 'no_reset',
+                    'comment' => 'افزایش حجم در ' . Verta::now() . " به میزان {$vol} GB",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'dec_vol':
+                $vol = (float) ($extra['vol'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'usage_limit_GB' => max(0, $config['usageLimitGB'] - $vol),
+                    'mode' => 'no_reset',
+                    'comment' => 'کاهش حجم در ' . Verta::now() . " به میزان {$vol} GB",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'modify_vol':
+                $vol = (float) ($extra['vol'] ?? 0);
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'usage_limit_GB' => $vol,
+                    'mode' => 'no_reset',
+                    'comment' => 'تغییر حجم در ' . Verta::now() . " به میزان {$vol} GB",
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'reset':
+                $today = date('Y-m-d');
+                $params = [
+                    'uuid' => $uuid,
+                    'name' => $name,
+                    'current_usage_GB' => 0,
+                    'usage_limit_GB' => $config['usageLimitGB'],
+                    'package_days' => $config['packageDays'],
+                    'mode' => 'no_reset',
+                    'start_date' => $today,
+                    'comment' => 'ریست در ' . Verta::now(),
+                ];
+
+                return $hiddify->sendPatchRequestToHiddifyPannel($panelId, "/api/v2/admin/user/{$uuid}/", $params) !== false;
+
+            case 'active':
+            case 'deactive':
+                $req = new Request();
+                $req->pannelID = $panelId;
+                $req->uuid = $uuid;
+                $req->enable = $action === 'active';
+                $req->comment = ($action === 'active' ? 'فعالسازی' : 'غیرفعال سازی') . ' در ' . Verta::now();
+                $result = $hiddify->changeUserActivationOfHiddifyPanelApi($req);
+
+                return $result !== false;
+
+            case 'delete':
+                $result = $hiddify->deleteUserOfHiddifyPanel($panelId, $uuid);
+                if ($result === false) {
+                    return false;
+                }
+                $product = Product::where('subscription_link', "/{$uuid}/all.txt?name=sublink-unknown&asn=unknown&mode=new")->first();
+                if ($product !== null) {
+                    $product->delete();
+                }
+
+                return true;
+
+            default:
+                return false;
+        }
+    }
+
+    private function executeSanaei(string $action, array $config, Pannel $panel, array $extra): bool
+    {
+        $sn = new SanaeiPannelController();
+        $uuid = $config['uuid'];
+        if ($uuid === '') {
+            return false;
+        }
+
+        switch ($action) {
+            case 'inc_days':
+                return (bool) $sn->rechargeClient($panel, $uuid, (int) ($extra['days'] ?? 0), 0);
+
+            case 'dec_days':
+                return $this->adjustSanaeiDays($sn, $panel, $uuid, -1 * (int) ($extra['days'] ?? 0));
+
+            case 'modify_days':
+                return $this->setSanaeiDays($sn, $panel, $uuid, (int) ($extra['days'] ?? 0));
+
+            case 'inc_vol':
+                return (bool) $sn->rechargeClient($panel, $uuid, 0, (int) ($extra['vol'] ?? 0));
+
+            case 'dec_vol':
+                return $this->adjustSanaeiVolume($sn, $panel, $uuid, -1 * (float) ($extra['vol'] ?? 0));
+
+            case 'modify_vol':
+                return $this->setSanaeiVolume($sn, $panel, $uuid, (float) ($extra['vol'] ?? 0));
+
+            case 'reset':
+                $found = $sn->findClientByUUID($panel, $uuid);
+                if (! $found) {
+                    return false;
+                }
+                $inboundId = $found['inbound']['id'] ?? 1;
+                $email = $found['client']['email'] ?? '';
+
+                return (bool) $sn->resetClientTraffic($panel, $inboundId, $email);
+
+            case 'active':
+                return (bool) $sn->changeUserActivation($panel, $uuid, true);
+
+            case 'deactive':
+                return (bool) $sn->changeUserActivation($panel, $uuid, false);
+
+            case 'delete':
+                return (bool) $sn->deleteUser($panel, $uuid);
+
+            default:
+                return false;
+        }
+    }
+
+    private function executeMarzban(string $action, array $config, Pannel $panel, array $extra): bool
+    {
+        $mb = MarzbanPannelController::resolve($panel);
+        $username = $config['name'] !== '' ? $config['name'] : $config['uuid'];
+        if ($username === '') {
+            return false;
+        }
+
+        $user = $mb->getUser($panel, $username);
+        if (! is_array($user) && ! in_array($action, ['delete'], true)) {
+            return false;
+        }
+
+        switch ($action) {
+            case 'inc_days':
+                $days = (int) ($extra['days'] ?? 0);
+
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    $this->marzbanRemainingDays($user) + $days,
+                    $this->marzbanVolGb($user),
+                    false
+                );
+
+            case 'dec_days':
+                $days = (int) ($extra['days'] ?? 0);
+
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    max(0, $this->marzbanRemainingDays($user) - $days),
+                    $this->marzbanVolGb($user),
+                    false
+                );
+
+            case 'modify_days':
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    (int) ($extra['days'] ?? 0),
+                    $this->marzbanVolGb($user),
+                    false
+                );
+
+            case 'inc_vol':
+                $vol = (float) ($extra['vol'] ?? 0);
+
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    $this->marzbanRemainingDays($user),
+                    $this->marzbanVolGb($user) + $vol,
+                    false
+                );
+
+            case 'dec_vol':
+                $vol = (float) ($extra['vol'] ?? 0);
+
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    $this->marzbanRemainingDays($user),
+                    max(0, $this->marzbanVolGb($user) - $vol),
+                    false
+                );
+
+            case 'modify_vol':
+                return $mb->modifyUser(
+                    $panel,
+                    $username,
+                    $this->marzbanRemainingDays($user),
+                    (float) ($extra['vol'] ?? 0),
+                    false
+                );
+
+            case 'reset':
+                return $mb->resetTraffic($panel, $username);
+
+            case 'active':
+                return $mb->changeUserActivation($panel, $username, true);
+
+            case 'deactive':
+                return $mb->changeUserActivation($panel, $username, false);
+
+            case 'delete':
+                return $mb->deleteUser($panel, $username);
+
+            default:
+                return false;
+        }
+    }
+
+    private function adjustSanaeiDays(SanaeiPannelController $sn, Pannel $panel, string $uuid, int $deltaDays): bool
+    {
+        $found = $sn->findClientByUUID($panel, $uuid);
+        if (! $found) {
+            return false;
+        }
+
+        $client = $found['client'];
+        $nowMs = now('UTC')->timestamp * 1000;
+        $currentExpiry = (int) ($client['expiryTime'] ?? 0);
+        if ($currentExpiry <= 0) {
+            $currentExpiry = $nowMs;
+        }
+        $newExpiry = $currentExpiry + ($deltaDays * 86400 * 1000);
+
+        return (bool) $sn->updateClient($panel, $uuid, ['expiryTime' => max($nowMs, $newExpiry)]);
+    }
+
+    private function setSanaeiDays(SanaeiPannelController $sn, Pannel $panel, string $uuid, int $days): bool
+    {
+        $newExpiry = now('UTC')->addDays($days)->timestamp * 1000;
+
+        return (bool) $sn->updateClient($panel, $uuid, ['expiryTime' => $newExpiry]);
+    }
+
+    private function adjustSanaeiVolume(SanaeiPannelController $sn, Pannel $panel, string $uuid, float $deltaGb): bool
+    {
+        $found = $sn->findClientByUUID($panel, $uuid);
+        if (! $found) {
+            return false;
+        }
+
+        $currentTotal = (int) ($found['client']['totalGB'] ?? 0);
+        $deltaBytes = (int) round($deltaGb * 1024 * 1024 * 1024);
+        $newTotal = max(0, $currentTotal + $deltaBytes);
+
+        return (bool) $sn->updateClient($panel, $uuid, ['totalGB' => $newTotal]);
+    }
+
+    private function setSanaeiVolume(SanaeiPannelController $sn, Pannel $panel, string $uuid, float $gb): bool
+    {
+        $newTotal = (int) round($gb * 1024 * 1024 * 1024);
+
+        return (bool) $sn->updateClient($panel, $uuid, ['totalGB' => $newTotal]);
+    }
+
+    private function marzbanRemainingDays(array $user): int
+    {
+        $expireTs = (int) ($user['expire'] ?? 0);
+        if ($expireTs <= 0) {
+            return 0;
+        }
+
+        return max(0, (int) Carbon::now('UTC')->diffInDays(Carbon::createFromTimestamp($expireTs, 'UTC'), false));
+    }
+
+    private function marzbanVolGb(array $user): float
+    {
+        $limitBytes = (int) ($user['data_limit'] ?? 0);
+        if ($limitBytes <= 0) {
+            return 0;
+        }
+
+        return round($limitBytes / 1024 / 1024 / 1024, 2);
+    }
+}

@@ -1,3 +1,16 @@
 <?php
-bolt_decrypt( __FILE__ , 'qspFeP'); return 0;
-##!!!##WVm9sLy0wr+wsrRvkL+/q5y+s7S7wopZWcTCtG+Yu7vEvLi9sMO0q5Oww7CxsMK0q5S7vsDEtL3Dq5WwssO+wbi0wquXsMKVsLLDvsHIilnEwrRvmLu7xLy4vbDDtKuTsMOwsbDCtKuUu77AxLS9w6ucvrO0u4pZWbK7sMLCb6LEv7++wcNvtMfDtL2zwm+cvrO0u1nKWW9vb2/EwrRvl7DClbCyw77ByIpZb29vb7/BvsO0ssO0s29ztsSwwbO0s2+Mb6p2uLN2rIpZb29vb7/BvsO0ssO0s29ztbi7u7Cxu7RvjG+qdsDEtMLDuL69dnt2sL3CxrTBdnt2wbTCv769wrSuw8i/tHasillZWVnMWQ==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Support extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['question','answer','response_type'];
+
+
+
+}

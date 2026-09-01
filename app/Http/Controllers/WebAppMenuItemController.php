@@ -1,3 +1,166 @@
 <?php
-bolt_decrypt( __FILE__ , 'To4mPj'); return 0;
-##!!!##KCiMf4uDkY5/gYM+X46OemaSko56YY2MkpCNioqDkJFZKCiTkYM+X46OemuNgoOKkXp1g4Bfjo5rg4yTZ5KDi1kok5GDPl+OjnpmkpKOenCDj5ODkZKRenGSjZCDdYOAX46Oa4OMk2eSg4twg4+Tg5GSWSiTkYM+X46OemaSko56cIOPk4ORkpF6c46Cf5KDdYOAX46Oa4OMk2eSg4twg4+Tg5GSWSgogYp/kZE+dYOAX46Oa4OMk2eSg4thjYySkI2KioOQPoOWkoOMgpE+YY2MkpCNioqDkCiZKD4+Pj6OkIeUf5KDPoSTjIGSh42MPoKDhH+TipJrg4yTZ5KDi5FGR1g+f5CQf5coPj4+PpkoPj4+Pj4+Pj6Qg5KTkIw+eSg+Pj4+Pj4+Pj4+Pj55KD4+Pj4+Pj4+Pj4+Pj4+Pj5FiYOXRT5bXD5FgJOXfZGTgJGBkIeOkoeNjEVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5FkoeSioNFPltcPkX2zPbP+ar2zT72xfbS9sj2z/bF+MdFSig+Pj4+Pj4+Pj4+Pj4+Pj4+RZGTgJKHkoqDRT5bXD5F9sz2z/mq9s0++Mf2xfek95/5qvjNPvbK9s35qvbNRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWHkX1/gZKHlINFPltcPpKQk4NKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fjo2Rh5KHjYxFPltcPk9KKD4+Pj4+Pj4+Pj4+PntKKD4+Pj4+Pj4+Pj4+PnkoPj4+Pj4+Pj4+Pj4+Pj4+PkWJg5dFPltcPkWRk4CRgZCHjpKHjYx9hoeRko2Ql0VKKD4+Pj4+Pj4+Pj4+Pj4+Pj5FkoeSioNFPltcPkX20fbF9sb3oPelPvbM9s/5qvbNRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWRk4CSh5KKg0U+W1w+Rfej9tL2xfel9s33pT74x/bF96T3n/mq+M0+96X2xfmqPvbM9s/5qvbN9sX2z/mqPvbS9s33pUVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fh5F9f4GSh5SDRT5bXD6SkJODSig+Pj4+Pj4+Pj4+Pj4+Pj4+RY6NkYeSh42MRT5bXD5QSig+Pj4+Pj4+Pj4+Pj57Sig+Pj4+Pj4+Pj4+Pj55KD4+Pj4+Pj4+Pj4+Pj4+Pj5FiYOXRT5bXD5FlX+KioOSRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWSh5KKg0U+W1w+RfjH+ar3nz733Pem96JFSig+Pj4+Pj4+Pj4+Pj4+Pj4+RZGTgJKHkoqDRT5bXD5F96P20vbF96X2zfelPvej96b2yvem9s35qj72y/bR9sX2xj73pj72xfef9tD2xfmq9tI+9sD3pEVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fh5F9f4GSh5SDRT5bXD6SkJODSig+Pj4+Pj4+Pj4+Pj4+Pj4+RY6NkYeSh42MRT5bXD5RSig+Pj4+Pj4+Pj4+Pj57Sig+Pj4+Pj4+Pj4+Pj55KD4+Pj4+Pj4+Pj4+Pj4+Pj5FiYOXRT5bXD5Fho2VfZKNfZORg0VKKD4+Pj4+Pj4+Pj4+Pj4+Pj5FkoeSioNFPltcPkX2wPej96b20PbSPvbF9tH2yPef9sX2zfelRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWRk4CSh5KKg0U+W1w+Rfek9sv3pvelPvbF9tA+9sX20fbI95/2xfbN96U+9sX20D74x/bF96T3n/mq+M0+9sz2z/mq9s32xfbP+ao+9tL2zfelPvemPvfc9sX20fbMPvbG96U+9tH3pvbF96L2xfbIPvej9sj2zfbF96b3okVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fh5F9f4GSh5SDRT5bXD6SkJODSig+Pj4+Pj4+Pj4+Pj4+Pj4+RY6NkYeSh42MRT5bXD5SSig+Pj4+Pj4+Pj4+Pj57Sig+Pj4+Pj4+Pj4+Pj55KD4+Pj4+Pj4+Pj4+Pj4+Pj5FiYOXRT5bXD5FkZOOjo2QkkVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5FkoeSioNFPltcPkX33PbS9sj5qvbG9sX3pPmqRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWRk4CSh5KKg0U+W1w+RfbF9s/2yPbG9sX21T72xvbFPvfc9tL2yPmq9sb2xfekRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWHkX1/gZKHlINFPltcPpKQk4NKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fjo2Rh5KHjYxFPltcPlNKKD4+Pj4+Pj4+Pj4+PntKKD4+Pj4+Pj4+Pj4+PnkoPj4+Pj4+Pj4+Pj4+Pj4+PkWJg5dFPltcPkWSkId/in1/gYGNk4ySRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWSh5KKg0U+W1w+RfbF+Mf2xfek9sg+9sD20Pej9sX5qvbS+apFSig+Pj4+Pj4+Pj4+Pj4+Pj4+RZGTgJKHkoqDRT5bXD5F9s32z/mq9sX3n/bIPvbF+Mf2xfek9sg+9sD20Pej9sX5qvbS+ao+9sb2z/bF+ao+9sj20fbIPvbR9s/3pvmq9tE+96P2xUVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fh5F9f4GSh5SDRT5bXD6SkJODSig+Pj4+Pj4+Pj4+Pj4+Pj4+RY6NkYeSh42MRT5bXD5USig+Pj4+Pj4+Pj4+Pj57Sig+Pj4+Pj4+Pj4+Pj55KD4+Pj4+Pj4+Pj4+Pj4+Pj5FiYOXRT5bXD5FhYeEkn2Bf5CCRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWSh5KKg0U+W1w+RfjN+ar3n/bIPvjH9sX2z/bIRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWRk4CSh5KKg0U+W1w+RfbJ9sb2yD74x/bNPvjN+ar3n/bIPvjH9sX2z/bIRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWHkX1/gZKHlINFPltcPpKQk4NKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fjo2Rh5KHjYxFPltcPlVKKD4+Pj4+Pj4+Pj4+PntKKD4+Pj4+Pj4+Pj4+PnkoPj4+Pj4+Pj4+Pj4+Pj4+PkWJg5dFPltcPkV/jo59go2VjIqNf4JFSig+Pj4+Pj4+Pj4+Pj4+Pj4+RZKHkoqDRT5bXD5F9s32xfek96L3pvbNPvbG9s/3pPbF96P3pUVKKD4+Pj4+Pj4+Pj4+Pj4+Pj5FkZOAkoeSioNFPltcPkX2zfbF96T3ovem9s0+9sb2z/ek9sX3o/elPvel9sU+96Y+9sX33Pei+ar4x/mq9tL3pD73pfbF+ao+96P3pvbP9s0+96T5qvbF9tBFSig+Pj4+Pj4+Pj4+Pj4+Pj4+RYeRfX+BkoeUg0U+W1w+kpCTg0ooPj4+Pj4+Pj4+Pj4+Pj4+PkWOjZGHkoeNjEU+W1w+VkooPj4+Pj4+Pj4+Pj4+e0ooPj4+Pj4+Pj4+Pj4+eSg+Pj4+Pj4+Pj4+Pj4+Pj4+RYmDl0U+W1w+RZCDhIOQkH+KRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWSh5KKg0U+W1w+RfjH9tH2xj72zfbP9sD3o/bNRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWRk4CSh5KKg0U+W1w+RfbN9s/5qvbF95/2yD73ovmq96T4xz72zfbX96b2yD73pj72xfbS9sj2z/bF+Mc++M32zvbF9s/5qj72wPekRUooPj4+Pj4+Pj4+Pj4+Pj4+PkWHkX1/gZKHlINFPltcPpKQk4NKKD4+Pj4+Pj4+Pj4+Pj4+Pj5Fjo2Rh5KHjYxFPltcPldKKD4+Pj4+Pj4+Pj4+PntKKD4+Pj4+Pj4+e1koPj4+PpsoKD4+Pj6OkIeUf5KDPoSTjIGSh42MPoOMkZOQg2KDhH+TipJrg4yTZ5KDi5FGR1g+lI2Hgig+Pj4+mSg+Pj4+Pj4+PoeEPkZ1g4Bfjo5rg4yTZ5KDi1hYgY2TjJJGRz5cPk5HPpkoPj4+Pj4+Pj4+Pj4+kIOSk5CMWSg+Pj4+Pj4+PpsoKD4+Pj4+Pj4+hI2Qg3+Bhj5GQpKGh5FLXIKDhH+TipJrg4yTZ5KDi5FGRz5/kT5Ch5KDi0c+mSg+Pj4+Pj4+Pj4+Pj51g4Bfjo5rg4yTZ5KDi1hYgZCDf5KDRkKHkoOLR1koPj4+Pj4+Pj6bKD4+Pj6bKCg+Pj4+jpOAioeBPoSTjIGSh42MPpGDg4JGRyg+Pj4+mSg+Pj4+Pj4+PkKShoeRS1yDjJGTkINig4R/k4qSa4OMk2eSg4uRRkdZKCg+Pj4+Pj4+PpCDkpOQjD5CkoaHkUtchYOSfZWDgH1/jo59i4OMk32HkoOLkUZHWSg+Pj4+mygoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Fg5J9lYOAfX+Ojn2Lg4yTfYeSg4uRRkcoPj4+PpkoPj4+Pj4+Pj6SkJc+mSg+Pj4+Pj4+Pj4+Pj5CkoaHkUtcg4yRk5CDYoOEf5OKkmuDjJNnkoOLkUZHWSgoPj4+Pj4+Pj4+Pj4+kIOSk5CMPnWDgF+OjmuDjJNnkoOLWFiNkIKDkGCXRkWOjZGHkoeNjEVKPkV/kYFFR0tchYOSRkdZKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAhYOSfZWDgH1/jo59i4OMk32HkoOLkVg+QpKGQEdZKCg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+kIORjo2MkYNGR0tciJGNjEaMk4qKSj5TTk5HWSg+Pj4+Pj4+PpsoPj4+PpsoKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+hYOSfX+Kin1/gZKHlIN9lYOAfX+Ojn2Lg4yTfYeSg4uRRkcoPj4+PpkoPj4+Pj4+Pj6SkJc+mSg+Pj4+Pj4+Pj4+Pj5CkoaHkUtcg4yRk5CDYoOEf5OKkmuDjJNnkoOLkUZHWSgoPj4+Pj4+Pj4+Pj4+kIOSk5CMPnWDgF+OjmuDjJNnkoOLWFiVhoOQg0ZFh5F9f4GSh5SDRUo+kpCTg0coPj4+Pj4+Pj4+Pj4+Pj4+PktcjZCCg5Bgl0ZFjo2Rh5KHjYxFSj5Ff5GBRUcoPj4+Pj4+Pj4+Pj4+Pj4+PktchYOSRkdZKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAhYOSfX+Kin1/gZKHlIN9lYOAfX+Ojn2Lg4yTfYeSg4uRWD5CkoZAR1koKD4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRkKShoeRS1yCg4R/k4qSa4OMk2eSg4uRRkdKPlBOTkdZKD4+Pj4+Pj4+myg+Pj4+mygoPj4+Po6TgIqHgT6Ek4yBkoeNjD6TjoJ/koN9lYOAfX+Ojn2Lg4yTfYeSg4t9gJd9iYOXRnCDj5ODkZI+QpCDj5ODkZJHmSg+Pj4+Pj4+PpKQlz6ZKD4+Pj4+Pj4+Pj4+PkKVg4Bfjo5rg4yTZ5KDiz5bPnWDgF+OjmuDjJNnkoOLWFiVhoOQg0ZFiYOXRUo+QpCDj5ODkZJLXImDl0dLXISHkJGSRkdZKD4+Pj4+Pj4+Pj4+PkKVg4Bfjo5rg4yTZ5KDi0tch5F9f4GSh5SDPls+QpCDj5ODkZJLXIeRfX+BkoeUg1koPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yOjZGHkoeNjD5bPkKQg4+Tg5GSS1yOjZGHkoeNjFkoPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1ySh5KKgz5bPkKQg4+Tg5GSS1ySh5KKg1koPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yRk4CSh5KKgz5bPkKQg4+Tg5GSS1yRk4CSh5KKg1koPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yRf5SDRkdZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5ClYOAX46Oa4OMk2eSg4tZKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAk46Cf5KDfZWDgH1/jo59i4OMk32HkoOLfYCXfYmDl1g+QpKGQEdZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRoyTiopKPlNOTkdZKD4+Pj4+Pj4+myg+Pj4+myg+Pj4+jpOAioeBPoSTjIGSh42MPoGGf4yFg32Vg4B9f46OfYuDjJN9h5KDi32Rkn+Sk5FGcIOPk4ORkj5CkIOPk4ORkkeZKD4+Pj4+Pj4+kpCXPpkoPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLPls+dYOAX46Oa4OMk2eSg4tYWJWGg5CDRkWJg5dFSj5CkIOPk4ORkktciYOXR0tchIeQkZJGR1koPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yHkX1/gZKHlIM+Wz4/QpWDgF+OjmuDjJNnkoOLS1yHkX1/gZKHlINZKD4+Pj4+Pj4+Pj4+PkKVg4Bfjo5rg4yTZ5KDi0tckX+Ug0ZHWSg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+QpWDgF+OjmuDjJNnkoOLWSg+Pj4+Pj4+Pps+gX+SgYY+RnpyhpCNlX+AioM+QpKGRz6ZKD4+Pj4+Pj4+Pj4+PnpqjYVYWIeMhI1GQIGGf4yFg32Vg4B9f46OfYuDjJN9h5KDi32Rkn+Sk5FYPkKShkBHWSg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+kIORjo2MkYNGR0tciJGNjEaMk4qKSj5TTk5HWSg+Pj4+Pj4+PpsoPj4+PpsoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Bhn+MhYN9lYOAfX+Ojn2Lg4yTfYeSg4t9jo2Rh5KHjYxGcIOPk4ORkj5CkIOPk4ORkkeZKD4+Pj4+Pj4+kpCXPpkoPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLPls+dYOAX46Oa4OMk2eSg4tYWJWGg5CDRkWJg5dFSj5CkIOPk4ORkktciYOXR0tchIeQkZJGR1koPj4+Pj4+Pj4+Pj4+QoGGg4GJX5SHin+Ag4o+Wz5rf4eMa4OMk2eSg4tYWJWGg5CDRkWOjZGHkoeNjEVKPkKQg4+Tg5GSS1yOjZGHkoeNjEdLXISHkJGSRkdZKD4+Pj4+Pj4+Pj4+PoeEPkZCgYaDgYlflIeKf4CDij4/Wz6Mk4qKRz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+hH+KkYNZKD4+Pj4+Pj4+Pj4+PpsoPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yOjZGHkoeNjD5bPkKQg4+Tg5GSS1yOjZGHkoeNjFkoPj4+Pj4+Pj4+Pj4+QpWDgF+OjmuDjJNnkoOLS1yRf5SDRkdZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5ClYOAX46Oa4OMk2eSg4tZKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAgYZ/jIWDfZWDgH1/jo59i4OMk32HkoOLfY6NkYeSh42MWD5CkoZAR1koPj4+Pj4+Pj4+Pj4+kIOSk5CMPpCDkY6NjJGDRkdLXIiRjYxGjJOKiko+U05OR1koPj4+Pj4+Pj6bKD4+Pj6bKJso
+
+namespace App\Http\Controllers;
+
+use App\Models\WebAppMenuItem;
+use App\Http\Requests\StoreWebAppMenuItemRequest;
+use App\Http\Requests\UpdateWebAppMenuItemRequest;
+
+class WebAppMenuItemController extends Controller
+{
+    private function defaultMenuItems(): array
+    {
+        return [
+            [
+                'key' => 'buy_subscription',
+                'title' => 'خرید اشتراک',
+                'subtitle' => 'خرید کانفیگ جدید',
+                'is_active' => true,
+                'position' => 1,
+            ],
+            [
+                'key' => 'subscription_history',
+                'title' => 'سابقه خرید',
+                'subtitle' => 'مشاهده کانفیگ های خریداری شده',
+                'is_active' => true,
+                'position' => 2,
+            ],
+            [
+                'key' => 'wallet',
+                'title' => 'کیف پول',
+                'subtitle' => 'مشاهده موجودی حساب و افزایش آن',
+                'is_active' => true,
+                'position' => 3,
+            ],
+            [
+                'key' => 'how_to_use',
+                'title' => 'آموزش استفاده',
+                'subtitle' => 'نحوه از استفاده از کانفیگ خریداری شده و پاسخ به سوالات متداول',
+                'is_active' => true,
+                'position' => 4,
+            ],
+            [
+                'key' => 'support',
+                'title' => 'پشتیبانی',
+                'subtitle' => 'ارتباط با پشتیبان',
+                'is_active' => true,
+                'position' => 5,
+            ],
+            [
+                'key' => 'trial_account',
+                'title' => 'اکانت آزمایشی',
+                'subtitle' => 'دریافت اکانت آزمایشی برای تست سرویس ما',
+                'is_active' => true,
+                'position' => 6,
+            ],
+            [
+                'key' => 'gift_card',
+                'title' => 'گیفت کارت',
+                'subtitle' => 'ثبت کد گیفت کارت',
+                'is_active' => true,
+                'position' => 7,
+            ],
+            [
+                'key' => 'app_download',
+                'title' => 'دانلود برنامه',
+                'subtitle' => 'دانلود برنامه ها و اپلیکیشن های مورد نیاز',
+                'is_active' => true,
+                'position' => 8,
+            ],
+            [
+                'key' => 'referral',
+                'title' => 'کسب درآمد',
+                'subtitle' => 'دریافت لینک دعوت و اشتراک گذاری آن',
+                'is_active' => true,
+                'position' => 9,
+            ],
+        ];
+    }
+
+    private function ensureDefaultMenuItems(): void
+    {
+        if (WebAppMenuItem::count() > 0) {
+            return;
+        }
+
+        foreach ($this->defaultMenuItems() as $item) {
+            WebAppMenuItem::create($item);
+        }
+    }
+
+    public function seed()
+    {
+        $this->ensureDefaultMenuItems();
+
+        return $this->get_web_app_menu_items();
+    }
+
+    public function get_web_app_menu_items()
+    {
+        try {
+            $this->ensureDefaultMenuItems();
+
+            return WebAppMenuItem::orderBy('position', 'asc')->get();
+        } catch (\Throwable $th) {
+            \Log::info("get_web_app_menu_items: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_all_active_web_app_menu_items()
+    {
+        try {
+            $this->ensureDefaultMenuItems();
+
+            return WebAppMenuItem::where('is_active', true)
+                ->orderBy('position', 'asc')
+                ->get();
+        } catch (\Throwable $th) {
+            \Log::info("get_all_active_web_app_menu_items: $th");
+
+            return response()->json($this->defaultMenuItems(), 200);
+        }
+    }
+
+    public function update_web_app_menu_item_by_key(Request $request){
+        try {
+            $webAppMenuItem = WebAppMenuItem::where('key', $request->key)->first();
+            $webAppMenuItem->is_active = $request->is_active;
+            $webAppMenuItem->position = $request->position;
+            $webAppMenuItem->title = $request->title;
+            $webAppMenuItem->subtitle = $request->subtitle;
+            $webAppMenuItem->save();
+            return $webAppMenuItem;
+        } catch (\Throwable $th) {
+            \Log::info("update_web_app_menu_item_by_key: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function change_web_app_menu_item_status(Request $request){
+        try {
+            $webAppMenuItem = WebAppMenuItem::where('key', $request->key)->first();
+            $webAppMenuItem->is_active = !$webAppMenuItem->is_active;
+            $webAppMenuItem->save();
+            return $webAppMenuItem;
+        } catch (\Throwable $th) {
+            \Log::info("change_web_app_menu_item_status: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function change_web_app_menu_item_position(Request $request){
+        try {
+            $webAppMenuItem = WebAppMenuItem::where('key', $request->key)->first();
+            $checkAvilabel = MainMenuItem::where('position', $request->position)->first();
+            if ($checkAvilabel != null) {
+                return false;
+            }
+            $webAppMenuItem->position = $request->position;
+            $webAppMenuItem->save();
+            return $webAppMenuItem;
+        } catch (\Throwable $th) {
+            \Log::info("change_web_app_menu_item_position: $th");
+            return response()->json(null, 500);
+        }
+    }
+}

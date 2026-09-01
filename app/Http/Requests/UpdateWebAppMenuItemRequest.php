@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '5lO6Eq'); return 0;
-##!!!##5uZKPUlBT0w9P0H8HUxMOCRQUEw4LkFNUUFPUE8X5uZRT0H8JUhIUUlFSj1QQTgiS1FKQD1QRUtKOCRQUEw4IktOSS5BTVFBT1AX5uY/SD1PT/wxTEA9UEEzQT4dTEwpQUpRJVBBSS5BTVFBT1D8QVRQQUpAT/wiS05JLkFNUUFPUOZX5vz8/PwLBgbm/Pz8/PwG/CBBUEFOSUVKQfxFQvxQREH8UU9BTvxFT/w9UVBES05FVkFA/FBL/Ek9R0H8UERFT/xOQU1RQU9QCub8/Pz8/AYL5vz8/PxMUT5IRT/8QlFKP1BFS0r8PVFQREtORVZBBAUW/D5LS0jm/Pz8/Ffm/Pz8/Pz8/PxOQVBRTkr8Qj1IT0EX5vz8/PxZ5ub8/Pz8CwYG5vz8/Pz8BvwjQVD8UERB/FI9SEVAPVBFS0r8TlFIQU/8UEQ9UPw9TExIVfxQS/xQREH8TkFNUUFPUArm/Pz8/PwG5vz8/Pz8BvwcTkFQUU5K/D1OTj1VGE9QTkVKQwj8OCVISFFJRUo9UEE4H0tKUE49P1BPODI9SEVAPVBFS0o4Mj1IRUA9UEVLSi5RSEFYPU5OPVVYT1BORUpDGub8/Pz8/AYL5vz8/PxMUT5IRT/8QlFKP1BFS0r8TlFIQU8EBRb8PU5OPVXm/Pz8/Ffm/Pz8/Pz8/PxOQVBRTkr8N+b8/Pz8/Pz8/Pz8/PwLC+b8/Pz8/Pz8/DkX5vz8/PxZ5lnm
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class UpdateWebAppMenuItemRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return false;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
+     */
+    public function rules(): array
+    {
+        return [
+            //
+        ];
+    }
+}

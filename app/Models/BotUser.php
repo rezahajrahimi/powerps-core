@@ -1,3 +1,85 @@
 <?php
-bolt_decrypt( __FILE__ , 'j1KoUf'); return 0;
-##!!!##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
+
+namespace App\Models;
+
+use App\Services\ConfigNameService;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Verta;
+
+class BotUser extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['account_id', 'username', 'first_name', 'last_name', 'phone_number', 'admin_alias'];
+
+    // get user by account_id
+    public function getUserByAccountID($accountId)
+    {
+        return $this->where('account_id', $accountId)->first();
+    }
+
+    public static function resolveConfigAccountLabel(int|string $accountId, int|string|null $suffix = null): string
+    {
+        return ConfigNameService::resolveAccountLabel($accountId, $suffix);
+    }
+
+    public function getUserNameByAccountID($accountId)
+    {
+        return $this->where('account_id', $accountId)->first()->username;
+    }
+
+
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    /**
+     * Get all of the comments for the BotUser
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function products()
+    {
+        return $this->hasMany(Product::class, 'account_id', 'account_id')
+            ->with('product_category')
+            ->orderBy('id', 'desc');
+    }
+    public function transaction()
+    {
+        return $this->hasMany(Transaction::class, 'account_id', 'account_id')
+            ->with('payment_types', 'transaction_image', 'user')
+            ->orderBy('id', 'desc');
+    }
+    /**
+     * Get the user associated with the BotUser
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasOne
+     */
+    public function ballance()
+    {
+        return $this->hasOne(AccountBallance::class, 'account_id', 'account_id');
+    }
+    public function logs()
+    {
+        return $this->hasMany(Log::class, 'account_id', 'account_id')->orderBy('id', 'desc');
+    }
+    // public function referral_logs()
+    // {
+    //     return $this->hasMany(ReferralLogs::class, 'referral_to_id', 'account_id')->orderBy('id', 'desc');
+    // }
+    public function user()
+    {
+        return $this->hasOne(User::class, 'account_id', 'account_id')->with(['referral_wallet', 'loyalty_wallet']);
+    }
+    public function blocked_user()
+    {
+        return $this->hasOne(BlockedUser::class, 'account_id', 'account_id');
+    }
+    
+
+    // public function referral_wallet()
+    // {
+    //     return $this->hasOne(ReferralWallet::class, 'referral_user_id', 'id');
+    // }
+}

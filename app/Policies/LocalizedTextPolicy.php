@@ -1,3 +1,66 @@
 <?php
-bolt_decrypt( __FILE__ , 'hDu679'); return 0;
-##!!!##0dE1KDQsOjcoKiznCDc3Ixc2MzAqMCw6AtHRPDos5wg3NyMUNissMzojEzYqKDMwQSwrGyw/OwLRPDos5wg3NyMUNissMzojHDosOQLRPDos5xAzMzw0MDUoOywjCDw7LyMIKiosOjojGSw6NzY1OiwC0dEqMyg6OucTNiooMzBBLCsbLD87FzYzMCpA0ULR5+fn5/bx8dHn5+fn5/HnCyw7LDk0MDUs5z4vLDsvLDnnOy8s5zw6LDnnKig15z0wLD7nKDVA5zQ2KywzOvXR5+fn5+fx9tHn5+fnNzwpMzAq5y08NSo7MDY15z0wLD4INUDvHDosOefrPDosOfAB5yk2NjPR5+fn50LR5+fn5+fn5+f29tHn5+fnRNHR5+fn5/bx8dHn5+fn5/HnCyw7LDk0MDUs5z4vLDsvLDnnOy8s5zw6LDnnKig15z0wLD7nOy8s5zQ2Kywz9dHn5+fn5/H20efn5+c3PCkzMCrnLTw1KjswNjXnPTAsPu8cOiw55+s8Oiw58+cTNiooMzBBLCsbLD875+szNiooMzBBLCsbLD878AHnKTY2M9Hn5+fnQtHn5+fn5+fn5/b20efn5+dE0dHn5+fn9vHx0efn5+fn8ecLLDssOTQwNSznPi8sOy8sOec7LyznPDosOecqKDXnKjksKDss5zQ2KywzOvXR5+fn5+fx9tHn5+fnNzwpMzAq5y08NSo7MDY15yo5LCg7LO8cOiw55+s8Oiw58AHnKTY2M9Hn5+fnQtHn5+fn5+fn5/b20efn5+dE0dHn5+fn9vHx0efn5+fn8ecLLDssOTQwNSznPi8sOy8sOec7LyznPDosOecqKDXnPDcrKDss5zsvLOc0NissM/XR5+fn5+fx9tHn5+fnNzwpMzAq5y08NSo7MDY15zw3Kyg7LO8cOiw55+s8Oiw58+cTNiooMzBBLCsbLD875+szNiooMzBBLCsbLD878AHnKTY2M9Hn5+fnQtHn5+fn5+fn5/b20efn5+dE0dHn5+fn9vHx0efn5+fn8ecLLDssOTQwNSznPi8sOy8sOec7LyznPDosOecqKDXnKywzLDss5zsvLOc0NissM/XR5+fn5+fx9tHn5+fnNzwpMzAq5y08NSo7MDY15yssMyw7LO8cOiw55+s8Oiw58+cTNiooMzBBLCsbLD875+szNiooMzBBLCsbLD878AHnKTY2M9Hn5+fnQtHn5+fn5+fn5/b20efn5+dE0dHn5+fn9vHx0efn5+fn8ecLLDssOTQwNSznPi8sOy8sOec7LyznPDosOecqKDXnOSw6OzY5LOc7LyznNDYrLDP10efn5+fn8fbR5+fn5zc8KTMwKuctPDUqOzA2Nec5LDo7Njks7xw6LDnn6zw6LDnz5xM2KigzMEEsKxssPzvn6zM2KigzMEEsKxssPzvwAecpNjYz0efn5+dC0efn5+fn5+fn9vbR5+fn50TR0efn5+f28fHR5+fn5+fx5wssOyw5NDA1LOc+Lyw7Lyw55zsvLOc8Oiw55yooNec3LDk0KDUsNTszQOcrLDMsOyznOy8s5zQ2Kywz9dHn5+fn5/H20efn5+c3PCkzMCrnLTw1KjswNjXnLTY5KiwLLDMsOyzvHDosOefrPDosOfPnEzYqKDMwQSwrGyw/O+frMzYqKDMwQSwrGyw/O/AB5yk2NjPR5+fn50LR5+fn5+fn5+f29tHn5+fnRNFE0Q==
+
+namespace App\Policies;
+
+use App\Models\LocalizedText;
+use App\Models\User;
+use Illuminate\Auth\Access\Response;
+
+class LocalizedTextPolicy
+{
+    /**
+     * Determine whether the user can view any models.
+     */
+    public function viewAny(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can view the model.
+     */
+    public function view(User $user, LocalizedText $localizedText): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can create models.
+     */
+    public function create(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can update the model.
+     */
+    public function update(User $user, LocalizedText $localizedText): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can delete the model.
+     */
+    public function delete(User $user, LocalizedText $localizedText): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can restore the model.
+     */
+    public function restore(User $user, LocalizedText $localizedText): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can permanently delete the model.
+     */
+    public function forceDelete(User $user, LocalizedText $localizedText): bool
+    {
+        //
+    }
+}

@@ -1,3 +1,96 @@
 <?php
-bolt_decrypt( __FILE__ , 'ZbxfGA'); return 0;
-##!!!##LJCDj4eVkoOFh0JjkpJ+apaWkn5lkZCWlJGOjoeUlV0sLJeVh0JjkpJ+b5GGh46VfmOJh5CWcoeUj4uVlZGQXSyXlYdCa46Ol4+LkIOWh35qlpaSfnSHk5eHlZZdLCyFjoOVlUJjiYeQlnKHlI+LlZWRkGWRkJaUkY6Oh5RCh5qWh5CGlUJlkZCWlJGOjoeULJ0sQkJCQpKXhI6LhUKIl5CFlouRkEKJh5Z3lYeUcpSHj4uVlYuRkEpLLEJCQkKdLEJCQkJCQkJClpSbQp0sQkJCQkJCQkJCQkJCRpeVh5RrhkJfQoOXlopKS09gl5WHlEpLT2CLhl0sLEJCQkJCQkJCQkJCQkaGg5aDQl9CY4mHkJZyh5SPi5WVkZBcXJmKh5SHSkmXlYeUgYuGSU5CRpeVh5RrhktPYIiLlJWWSktdLEJCQkJCQkJCQkJCQouISouVlYeWSkaGg5aDS0tCnSxCQkJCQkJCQkJCQkJCQkJClIeWl5SQQkaGg5aDXSxCQkJCQkJCQkJCQkKfLEJCQkJCQkJCQkJCQpSHlpeUkEKQl46OXSxCQkJCQkJCQp9ChYOWhYpCSn52ipSRmYOEjodCRpaKS0KdLEJCQkJCQkJCQkJCQpSHlpeUkEKQl46OXSxCQkJCQkJCQp8sQkJCQp8sQkJCQpKXhI6LhUKIl5CFlouRkEKJh5Z3lYeUcpSHj4uVlYuRkGSbY4mHkJZrZkpGl5WHlGuGSyxCQkJCnSxCQkJCQkJCQkaGg5aDQl9CY4mHkJZyh5SPi5WVkZBcXJmKh5SHSkmXlYeUgYuGSU5CRpeVh5RrhktPYIiLlJWWSktdLEJCQkJCQkJCi4hCSkaGg5aDQkNfQpCXjo5LQp0sQkJCQkJCQkJCQkJClIeWl5SQQkaGg5aDXSxCQkJCQkJCQp8sQkJCQkJCQkKUh5aXlJBCkJeOjl0sQkJCQp8sLEJCQkKSl4SOi4VCiJeQhZaLkZBChZSHg5aHY3CHmWOJh5CWcoeUj4uVlZGQSnSHk5eHlZZCRpSHk5eHlZZLLEJCQkKdLEJCQkJCQkJClpSbQp0sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCX0KQh5lCY4mHkJZyh5SPi5WVkZBKS10sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CXlYeUgYuGQkJCQkJCQkJCQkJCQkJCX0JGlIeTl4eVlk9gl5WHlIGLhl0sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CPi5CXlYGEg46Og5CFh0JCQkJCQkJCX0JGlIeTl4eVlk9gj4uQl5WBhIOOjoOQhYdCX19CSYiDjpWHSUKenkJGlIeTl4eVlk9gj4uQl5WBhIOOjoOQhYdCX19CiIOOlYdCnp5CRpSHk5eHlZZPYI+LkJeVgYSDjo6DkIWHQl9fQlJCYUJSQlxCU10sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CPi5CXlYGEg46Og5CFh4GOi4+LlkJCX0JGloqLlU9glIeVkY6Yh2+LkJeVZIOOjoOQhYdui4+LlkpGlIeTl4eVlk9gj4uQl5WBhIOOjoOQhYeBjouPi5ZLXSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYIWUh4OWh4GSlJGGl4WWlUJCQkJCQkJfQkaUh5OXh5WWT2CFlIeDloeBkpSRhpeFlpVCX19CSYiDjpWHSUKenkJGlIeTl4eVlk9ghZSHg5aHgZKUkYaXhZaVQl9fQoiDjpWHQp6eQkaUh5OXh5WWT2CFlIeDloeBkpSRhpeFlpVCX19CUkJhQlJCXEJTXSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYIaHjoeWh4GSlJGGl4WWlUJCQkJCQkJfQkaUh5OXh5WWT2CGh46HloeBkpSRhpeFlpVCX19CSYiDjpWHSUKenkJGlIeTl4eVlk9ghoeOh5aHgZKUkYaXhZaVQl9fQoiDjpWHQp6eQkaUh5OXh5WWT2CGh46HloeBkpSRhpeFlpVCX19CUkJhQlJCXEJTXSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYJaUg4iIi4WBjouPi5aDlouRkIGWhEJfQkaUh5OXh5WWT2CWlIOIiIuFgY6Lj4uWg5aLkZCBloRCYUJGlIeTl4eVlk9glpSDiIiLhYGOi4+LloOWi5GQgZaEQlxCU1JdLEJCQkJCQkJCQkJCQkaDiYeQlnKHlI+LlZWRkE9gkpSRhpeFloGOi4+LloOWi5GQQkJCQl9CRpSHk5eHlZZPYJKUkYaXhZaBjouPi5aDlouRkEJhQkaUh5OXh5WWT2CSlJGGl4WWgY6Lj4uWg5aLkZBCXEJTUlJSXSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYJWDmIdKS10sQkJCQkJCQkJCQkJClIeWl5SQQpSHlZKRkJWHSktPYIyVkZBKRoOJh5CWcoeUj4uVlZGQTkJUUlJLXSxCQkJCQkJCQp9ChYOWhYpCSn52ipSRmYOEjodCRpaKS0KdLEJCQkJCQkJCQkJCQn5ukYlcXIuQiJFKRJaKlJGZQkaWikRLXSxCQkJCQkJCQkJCQkKUh5aXlJBClIeVkpGQlYdKS09gjJWRkEqIg46Vh05CV1JSS10sQkJCQkJCQkKfLEJCQkKfLEJCQkKSl4SOi4VCiJeQhZaLkZBCl5KGg5aHY4mHkJZylIePi5WVkZBKdIeTl4eVlkJGlIeTl4eVlkssQkJCQp0sQkJCQkJCQkKWlJtCnSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBCX0JjiYeQlnKHlI+LlZWRkFxcmYqHlIdKSZeVh5SBi4ZJTkJGlIeTl4eVlk9gl5WHlIGLhktPYIiLlJWWSktdLEJCQkJCQkJCQkJCQouIQkpGg4mHkJZyh5SPi5WVkZBCX19CkJeOjktCnSxCQkJCQkJCQkJCQkJCQkJClIeWl5SQQkaWiouVT2CFlIeDlodjcIeZY4mHkJZyh5SPi5WVkZBKRpSHk5eHlZZLXSxCQkJCQkJCQkJCQkKfLEJCQkJCQkJCQkJCQkaDiYeQlnKHlI+LlZWRkE9gj4uQl5WBhIOOjoOQhYdCQkJCQkJCQl9CRpSHk5eHlZZPYI+LkJeVgYSDjo6DkIWHQl9fQkmIg46Vh0lCnp5CRpSHk5eHlZZPYI+LkJeVgYSDjo6DkIWHQl9fQlJCYUJSQlxCU10sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CPi5CXlYGEg46Og5CFh4GOi4+LlkJCX0JGloqLlU9glIeVkY6Yh2+LkJeVZIOOjoOQhYdui4+LlkpGlIeTl4eVlk9gj4uQl5WBhIOOjoOQhYeBjouPi5ZLXSxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYIWUh4OWh4GSlJGGl4WWlUJCQkJCQkJfQkaUh5OXh5WWT2CFlIeDloeBkpSRhpeFlpVCX19CSYiDjpWHSUKenkJGlIeTl4eVlk9ghZSHg5aHgZKUkYaXhZaVQl9fQlJCYUJSQlxCU10sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CGh46HloeBkpSRhpeFlpVCQkJCQkJCX0JGlIeTl4eVlk9ghoeOh5aHgZKUkYaXhZaVQl9fQkmIg46Vh0lCnp5CRpSHk5eHlZZPYIaHjoeWh4GSlJGGl4WWlUJfX0JSQmFCUkJcQlNdLEJCQkJCQkJCQkJCQkaDiYeQlnKHlI+LlZWRkE9glpSDiIiLhYGOi4+LloOWi5GQgZaEQl9CRpSHk5eHlZZPYJaUg4iIi4WBjouPi5aDlouRkIGWhEJhQkaUh5OXh5WWT2CWlIOIiIuFgY6Lj4uWg5aLkZCBloRCXEJTUl0sQkJCQkJCQkJCQkJCRoOJh5CWcoeUj4uVlZGQT2CSlJGGl4WWgY6Lj4uWg5aLkZBCQkJCX0JGlIeTl4eVlk9gkpSRhpeFloGOi4+LloOWi5GQQmFCRpSHk5eHlZZPYJKUkYaXhZaBjouPi5aDlouRkEJcQlNSUlJdLCxCQkJCQkJCQkJCQkJGg4mHkJZyh5SPi5WVkZBPYJeShoOWh0pLXSxCQkJCQkJCQkJCQkKUh5aXlJBClIeVkpGQlYdKS09gjJWRkEpGg4mHkJZyh5SPi5WVkZBOQlRSUktdLEJCQkJCQkJCn0KFg5aFikJKfnaKlJGZg4SOh0JGlopLQp0sQkJCQkJCQkJCQkJCfm6RiVxci5CIkUpEloqUkZlCRpaKREtdLEJCQkJCQkJCQkJCQpSHlpeUkEKUh5WSkZCVh0pLT2CMlZGQSoiDjpWHTkJXUlJLXSxCQkJCQkJCQp8sQkJCQp8sQkJCQpKUi5iDlodCiJeQhZaLkZBClIeVkY6Yh2+LkJeVZIOOjoOQhYdui4+LlkpGmIOOl4dLXEJhiI6Rg5YsQkJCQp0sQkJCQkJCQkKLiEJKRpiDjpeHQl9fX0KQl46OQp6eQkaYg46Xh0JfX19CSUlCnp5CRpiDjpeHQl9fX0JJkJeOjklLQp0sQkJCQkJCQkJCQkJClIeWl5SQQpCXjo5dLEJCQkJCQkJCnywsQkJCQkJCQkJGjouPi5ZCX0JKiI6Rg5ZLQkaYg46Xh10sLEJCQkJCQkJClIeWl5SQQkaOi4+LlkJgQlJCYUJGjouPi5ZCXEKQl46OXSxCQkJCnywsQkJCQpKXhI6LhUKIl5CFlouRkEKGh46HlodjiYeQlnKUh4+LlZWRkEpGl5WHlGtmSyxCQkJCnSxCQkJCQkJCQpaUm0KdLEJCQkJCQkJCQkJCQkaDiYeQlnKHlI+LlZWRkEJfQmOJh5CWcoeUj4uVlZGQXFyZioeUh0pJl5WHlIGLhklOQkaXlYeUa2ZLT2CIi5SVlkpLXSxCQkJCQkJCQkJCQkKLiEJKRoOJh5CWcoeUj4uVlZGQQl9fQpCXjo5LQp0sQkJCQkJCQkJCQkJCQkJCQpSHlpeUkEKUh5WSkZCVh0pLT2CMlZGQSoiDjpWHTkJWUlZLXSxCQkJCQkJCQkJCQkKfLEJCQkJCQkJCQkJCQkaDiYeQlnKHlI+LlZWRkE9ghoeOh5aHSktdLEJCQkJCQkJCQkJCQpSHlpeUkEKUh5WSkZCVh0pLT2CMlZGQSpaUl4dOQlRSUktdLEJCQkJCQkJCn0KFg5aFikJKfnaKlJGZg4SOh0JGlopLQp0sQkJCQkJCQkJCQkJCfm6RiVxci5CIkUpEloqUkZlCRpaKREtdLEJCQkJCQkJCQkJCQpSHlpeUkEKUh5WSkZCVh0pLT2CMlZGQSoiDjpWHTkJXUlJLXSxCQkJCQkJCQp8sQkJCQp8snyw=
+namespace App\Http\Controllers;
+
+use App\Models\AgentPermisson;
+use Illuminate\Http\Request;
+
+class AgentPermissonController extends Controller
+{
+    public function getUserPremission()
+    {
+        try {
+            $userId = auth()->user()->id;
+
+            $data = AgentPermisson::where('user_id', $userId)->first();
+            if(isset($data)) {
+                return $data;
+            }
+            return null;
+        } catch (\Throwable $th) {
+            return null;
+        }
+    }
+    public function getUserPremissionByAgentID($userId)
+    {
+        $data = AgentPermisson::where('user_id', $userId)->first();
+        if ($data != null) {
+            return $data;
+        }
+        return null;
+    }
+
+    public function createANewAgentPermisson(Request $request)
+    {
+        try {
+            $agentPermisson                        = new AgentPermisson();
+            $agentPermisson->user_id               = $request->user_id;
+            $agentPermisson->minus_ballance        = $request->minus_ballance == 'false' || $request->minus_ballance == false || $request->minus_ballance == 0 ? 0 : 1;
+            $agentPermisson->minus_ballance_limit  = $this->resolveMinusBallanceLimit($request->minus_ballance_limit);
+            $agentPermisson->create_products       = $request->create_products == 'false' || $request->create_products == false || $request->create_products == 0 ? 0 : 1;
+            $agentPermisson->delete_products       = $request->delete_products == 'false' || $request->delete_products == false || $request->delete_products == 0 ? 0 : 1;
+            $agentPermisson->traffic_limitation_tb = $request->traffic_limitation_tb ? $request->traffic_limitation_tb : 10;
+            $agentPermisson->product_limitation    = $request->product_limitation ? $request->product_limitation : 1000;
+            $agentPermisson->save();
+            return response()->json($agentPermisson, 200);
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(false, 500);
+        }
+    }
+    public function updateAgentPremisson(Request $request)
+    {
+        try {
+            $agentPermisson = AgentPermisson::where('user_id', $request->user_id)->first();
+            if ($agentPermisson == null) {
+                return $this->createANewAgentPermisson($request);
+            }
+            $agentPermisson->minus_ballance        = $request->minus_ballance == 'false' || $request->minus_ballance == 0 ? 0 : 1;
+            $agentPermisson->minus_ballance_limit  = $this->resolveMinusBallanceLimit($request->minus_ballance_limit);
+            $agentPermisson->create_products       = $request->create_products == 'false' || $request->create_products == 0 ? 0 : 1;
+            $agentPermisson->delete_products       = $request->delete_products == 'false' || $request->delete_products == 0 ? 0 : 1;
+            $agentPermisson->traffic_limitation_tb = $request->traffic_limitation_tb ? $request->traffic_limitation_tb : 10;
+            $agentPermisson->product_limitation    = $request->product_limitation ? $request->product_limitation : 1000;
+
+            $agentPermisson->update();
+            return response()->json($agentPermisson, 200);
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(false, 500);
+        }
+    }
+    private function resolveMinusBallanceLimit($value): ?float
+    {
+        if ($value === null || $value === '' || $value === 'null') {
+            return null;
+        }
+
+        $limit = (float) $value;
+
+        return $limit > 0 ? $limit : null;
+    }
+
+    public function deleteAgentPremisson($userID)
+    {
+        try {
+            $agentPermisson = AgentPermisson::where('user_id', $userID)->first();
+            if ($agentPermisson == null) {
+                return response()->json(false, 404);
+            }
+            $agentPermisson->delete();
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::info("throw $th");
+            return response()->json(false, 500);
+        }
+    }
+}

@@ -1,3 +1,22 @@
 <?php
-bolt_decrypt( __FILE__ , 'pMBAcU'); return 0;
-##!!!##AgJmWWVda2hZW10YOWhoVEBsbGhURWFcXGRdb1lqXTMCAm1rXRhBZGRtZWFmWWxdVEpnbWxhZl9URWFcXGRdb1lqXVROWWRhXFlsXUthX2ZZbG1qXRhZaxhFYVxcZF1vWWpdMwICW2RZa2sYTllkYVxZbF1LYV9mWWxtal0YXXBsXWZcaxhFYVxcZF1vWWpdAnMCGBgYGCciIgIYGBgYGCIYTGBdGGZZZV1rGGdeGGxgXRhpbV1qcRhrbGphZl8YaFlqWWVdbF1qaxhsYFlsGGtgZ21kXBhaXRhhX2Znal1cJgIYGBgYGCICGBgYGBgiGDhuWWoYWWpqWXE0YWZsJBhrbGphZl82AhgYGBgYIicCGBgYGGhqZ2xdW2xdXBgcXXBbXWhsGDUYUwIYGBgYGBgYGCcnGB9eWltkYVwfJAIYGBgYGBgYGCcnGB9tbGVXW1llaFlhX2YfJAIYGBgYGBgYGCcnGB9tbGVXW2dmbF1mbB8kAhgYGBgYGBgYJycYH21sZVdlXVxhbWUfJAIYGBgYGBgYGCcnGB9tbGVXa2dtaltdHyQCGBgYGBgYGBgnJxgfbWxlV2xdamUfJAIYGBgYVTMCdQI=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Routing\Middleware\ValidateSignature as Middleware;
+
+class ValidateSignature extends Middleware
+{
+    /**
+     * The names of the query string parameters that should be ignored.
+     *
+     * @var array<int, string>
+     */
+    protected $except = [
+        // 'fbclid',
+        // 'utm_campaign',
+        // 'utm_content',
+        // 'utm_medium',
+        // 'utm_source',
+        // 'utm_term',
+    ];
+}

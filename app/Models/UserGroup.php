@@ -1,3 +1,50 @@
 <?php
-bolt_decrypt( __FILE__ , 'EwjJIo'); return 0;
-##!!!##MjKWiZWNm5iJi41IaZiYhHWXjI2Um2MyMp2bjUhxlJSdlZGWiZyNhGyJnImKiZuNhG2Ul5mdjZachG6Ji5yXmpGNm4RwiZtuiYucl5qhYzKdm41IcZSUnZWRlomcjYRsiZyJiombjYRtlJeZnY2WnIR1l4yNlGMyMouUiZubSH2bjZpvmpedmEiNoJyNloybSHWXjI2UMqMySEhISJ2bjUhwiZtuiYucl5qhYzIySEhISJidipSRi0iLl5abnEh4aYF1bXZ8h3NtgXtIZUiDMkhISEhISEhIT6KJmpGWmImUT1QySEhISEhISEhPl46OlJGWjU9UMkhISEhISEhIT5aXn5iJoZWNlpybT1QySEhISEhISEhPi5qhmJyXlZ2bT1QySEhISEhISEhPm5+JmJiJoU9UMkhISEhISEhIT52bjIecmomWm4mLnJGXlk9UMkhISEiFYzIySEhISJidipSRi0iLl5abnEh4aYF1bXZ8h3NtgYd0aWptdHtIZUiDMkhISEhISEhIT6KJmpGWmImUT0hlZkhPANoA2QO0Aa4KqLQB5gDPAaxPVDJISEhISEhISE+Xjo6UkZaNT0hlZkhPAeYA2QDXAM8A1gDSSADKAakBrADPA7QBrkhQAtEAzwDZANJIANABr0gC0QDPANkA0kgBsEhWVlZRT1QySEhISEhISEhPlpefmImhlY2WnJtPSGVmSE92d394iaGVjZacm09UMkhISEhISEhIT4uaoZicl5Wdm09IZWZIT2uaoZicl5Wdm09UMkhISEhISEhIT5ufiZiYiaFPSGVmSE97n4mYeImhSFAA2wGwAM8B5gqotAGwAawA0lFPVDJISEhISEhISE+dm4yHnJqJlpuJi5yRl5ZPSGVmSE8B5gDZANcAzwDWANJIANcBrADPANkDtEhXSADPANkA2gO0T1QySEhISIVjMjJISEhImJqXnI2LnI2MSEyOkZSUiYqUjUhlSINPlomVjU9USE+al5SNh5yhmI1PVEhPkZuHjI2OiZ2UnE+FYzIySEhISJial5yNi5yNjEhMi4mbnJtIZUiDMkhISEhISEhIT5Gbh4yNjomdlJxPSGVmSE+Kl5eUjYmWT1QySEhISIVjMjJISEhImJ2KlJGLSI6dlouckZeWSJiJoZWNlpx1jZyQl4ybUFEySEhISKMySEhISEhISEiajZydmpZITJyQkZtVZpCJm3WJlqFQfZuNmm+al52YeImhlY2WnHWNnJCXjGJii5SJm5tRYzJISEhIpTIySEhISJidipSRi0iOnZaLnJGXlkidm42am1BRMkhISEijMkhISEhISEhImo2cnZqWSEyckJGbVWaQiZt1iZahUH2bjZpiYouUiZubUWMySEhISKUyMkhISEiYnYqUkYtIjp2Wi5yRl5ZIno2akY6Ri4mckZeWeImhlY2WnHWNnJCXjJtQUTJISEhIozJISEhISEhISJqNnJ2alkhMnJCRm1VmkImbdYmWoVB9m42ab5qXnZh+jZqRjpGLiZyRl5Z4iaGVjZacdY2ckJeMYmKLlImbm1FjMkhISEilMqUy
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class UserGroup extends Model
+{
+    use HasFactory;
+
+    public const PAYMENT_KEYS = [
+        'zarinpal',
+        'offline',
+        'nowpayments',
+        'cryptomus',
+        'swappay',
+        'usd_transaction',
+    ];
+
+    public const PAYMENT_KEY_LABELS = [
+        'zarinpal' => 'زرین‌پال',
+        'offline' => 'پرداخت آفلاین (کارت به کارت و ...)',
+        'nowpayments' => 'NOWPayments',
+        'cryptomus' => 'Cryptomus',
+        'swappay' => 'SwapPay (سواپ‌ولت)',
+        'usd_transaction' => 'پرداخت دلاری / ارزی',
+    ];
+
+    protected $fillable = ['name', 'role_type', 'is_default'];
+
+    protected $casts = [
+        'is_default' => 'boolean',
+    ];
+
+    public function paymentMethods()
+    {
+        return $this->hasMany(UserGroupPaymentMethod::class);
+    }
+
+    public function users()
+    {
+        return $this->hasMany(User::class);
+    }
+
+    public function verificationPaymentMethods()
+    {
+        return $this->hasMany(UserGroupVerificationPaymentMethod::class);
+    }
+}

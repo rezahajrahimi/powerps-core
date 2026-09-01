@@ -1,3 +1,99 @@
 <?php
-bolt_decrypt( __FILE__ , 'tHzXFC'); return 0;
-##!!!##ISGFeIR8iod4enw3WIeHc1+Li4dzWoaFi4mGg4N8iYpSISGMinw3WIeHc2SGe3yDinNYh4dghX2GUiGMinw3WIeHc2p8iY2AenyKc2OAenyFinxdfHiLjIl8anyJjYB6fFIhjIp8N2CDg4yEgIV4i3xzX4uLh3NpfIiMfIqLUiGMinw3YIODjISAhXiLfHNqjIeHhomLc114enh7fIpzaouGiXh+fFIhjIp8N2CDg4yEgIV4i3xzaoyHh4aJi3NdeHp4e3yKc2OGflIhIXqDeIqKN1iHh2CFfYZahoWLiYaDg3yJN3yPi3yFe4o3WoaFi4mGg4N8iSGSITc3NzeHiYCNeIt8N32MhXqLgIaFN36Gg3tjgHp8hYp8aXyIjICJfHs/QCE3Nzc3kiE3Nzc3Nzc3NzuDgHp8hYp8N1Q3hXyON2OAenyFinxdfHiLjIl8anyJjYB6fD9AUiE3Nzc3Nzc3N4B9Nz84NzuDgHp8hYp8RFWAil6Gg3s/QEA3kiE3Nzc3Nzc3Nzc3NzeJfIuMiYU3O4OAenyFinxEVX6Gg3tpfIiMgIl8e2l8ioeGhYp8P0BSITc3Nzc3Nzc3lCEhNzc3Nzc3NzeJfIuMiYU3hYyDg1IhNzc3N5QhITc3NzeHjHmDgHo3fYyFeouAhoU3gIV7fI8/QCE3Nzc3kiE3Nzc3Nzc3Nzt4h4dghX2GN1Q3WIeHYIV9hlFRfYCJios/QFIhNzc3Nzc3NzeAfTc/fISHi5A/O3iHh2CFfYZAQDeSITc3Nzc3Nzc3Nzc3N0ZGN4p8fHs3eIeHgIV9hiE3Nzc3Nzc3Nzc3Nzc7e3iLeDdUN4V8jjdYh4dghX2GP0BSITc3Nzc3Nzc3Nzc3Nzt7eIt4RFWFeIR8N1Q3PmeGjnyJN2dqPlIhNzc3Nzc3Nzc3Nzc3O3t4i3hEVY18iYqAhoU3VDc+SEVHRUc+UiE3Nzc3Nzc3Nzc3Nzc7e3iLeERVgIR4fnw3VDc+e3x9eIyDi0WHhX4+UjdGRjdqfIs3eDd7fH14jIOLN4CEeH58N4aJN394hXuDfDeAizd4ijeFfHx7fHshNzc3Nzc3Nzc3Nzc3O3t4i3hEVYp4jXw/QFIhNzc3Nzc3Nzc3Nzc3O3iHh2CFfYY3VDc7e3iLeFI3RkY3aXx4ioqAfoU3i4Y3i398N4V8joOQN3qJfHiLfHs3WIeHYIV9hjeAhYqLeIV6fCE3Nzc3Nzc3N5QhNzc3Nzc3NzeJfIuMiYU3iXyKh4aFinw/QERVgYqGhT87eIeHYIV9hkRVfnyLWIeHYIV9hj9AQFIhNzc3N5QhITc3NzeHjHmDgHo3fYyFeouAhoU3jId7eIt8P2l8iIx8ios3O4l8iIx8iotAITc3NzeSITc3Nzc3Nzc3gH03Pzt7fIWAfHs3VDc7i3+AikRVfoaDe2OAenyFinxpfIiMgIl8ez9AQDeSITc3Nzc3Nzc3Nzc3N4l8i4yJhTc7e3yFgHx7UiE3Nzc3Nzc3N5QhITc3Nzc3Nzc3O3t4i3g3VDc7iXyIjHyKi0RVjXiDgHt4i3w/ciE3Nzc3Nzc3Nzc3Nzc+hXiEfD43VFU3Pol8iIyAiXx7k4qLiYCFfpOEeI9RSUxMPkMhNzc3Nzc3Nzc3Nzc3Po18iYqAhoU+N1RVNz6FjIODeHmDfJOKi4mAhX6ThHiPUUxHPkMhNzc3Nzc3Nzc3Nzc3PoeJgIR4iZB2eoaDhok+N1RVNz6FjIODeHmDfJOKi4mAhX6ThHiPUUlHPkMhNzc3Nzc3Nzc3Nzc3Pop8eoaFe3iJkHZ6hoOGiT43VFU3PoWMg4N4eYN8k4qLiYCFfpOEeI9RSUc+QyE3Nzc3Nzc3Nzc3Nzc+eXh6gn6JhoyFe3Z6hoOGiT43VFU3PoWMg4N4eYN8k4qLiYCFfpOEeI9RSUc+QyE3Nzc3Nzc3Nzc3Nzc+h3iFfIN2i4CLg3w+N1RVNz6FjIODeHmDfJOKi4mAhX6ThHiPUUlMTD5DITc3Nzc3Nzc3Nzc3Nz59hoaLfIl2i3yPiz43VFU3PoWMg4N4eYN8k4qLiYCFfpOEeI9RTEdHPkMhNzc3Nzc3Nzc3Nzc3Pop/ho52h4aOfImHinZ6iXx7gIs+N1RVNz6FjIODeHmDfJN5hoaDfHiFPkMhNzc3Nzc3Nzd0QFIhITc3Nzc3Nzc3O3iHh2CFfYY3VDdYh4dghX2GUVF9gImKiz9AUiE3Nzc3Nzc3Nzt4h4dghX2GRFWKfItYh4dghX2GPzt7eIt4QFIhITc3Nzc3Nzc3iXyLjImFN4l8ioeGhYp8P0BEVYGKhoU/cj6EfIqKeH58PjdUVTc+WIeHN4CFfYY3jId7eIt8ezeKjHp6fIqKfYyDg5A+dEBSITc3NzeUITc3NzeHjHmDgHo3fYyFeouAhoU3iniNfHaAhHh+fD9pfIiMfIqLNzuJfIiMfIqLQCE3Nzc3kiE3Nzc3Nzc3N4B9Nz87e3yFgHx7N1Q3O4t/gIpEVX6Gg3tjgHp8hYp8aXyIjICJfHs/QEA3kiE3Nzc3Nzc3Nzc3NzeJfIuMiYU3O3t8hYB8e1IhNzc3Nzc3NzeUISE3Nzc3Nzc3NzuAhHh+fDdUNzuJfIiMfIqLRFV9gIN8Pz6AhHh+fD5AUiE3Nzc3Nzc3NzuAhHh+fGd4i383VDc+gIR4fnyKRniHh4CFfYZGPlIhNzc3Nzc3Nzc7gIR4fnxleIR8N1Q3i4CEfD9AN0U3PkU+N0U3O4CEeH58RFV+fItag4B8hYtmiYB+gIV4g1yPi3yFioCGhT9AUjdGRjfwne++8Jw38qPxwO/B774377/vvjfw1e/K8J/wne/GITc3Nzc3Nzc3i4mQN5IhNzc3Nzc3Nzc3Nzc3RkY3777yo+/D777vxjfvxu++8qPvyPHA78Hwn+/I8qM3777xxu/IN/Cf78Pwn+/GN/Cd78bvvu/I78YhNzc3Nzc3Nzc3Nzc3aouGiXh+fFFRe4CKgj8+h4x5g4B6PkBEVYR4gnxbgIl8eouGiZA/O4CEeH58Z3iLf0BSISE3Nzc3Nzc3Nzc3NzdGRjfvx+/F8qPvyPCeN/CY777yo/CbN++/77438J3vvvCcN/Kj8cDvwe++N/CfN/DV78rwn/Cd78Y378zvxPKj78Q378bvyDfvxvKj78rxwDeHjHmDgHohNzc3Nzc3Nzc3Nzc3aouGiXh+fFFRe4CKgj8+h4x5g4B6PkBEVYeMi12Ag3xYij87gIR4fnxneIt/Qzc7gIR4fnxDNzuAhHh+fGV4hHxAUiEhNzc3Nzc3Nzc3Nzc3O3iHh2CFfYY3VDdYh4dghX2GUVF9gImKiz9AUiE3Nzc3Nzc3Nzc3Nzc7eIeHYIV9hkRVgIR4fnw3VDc+RoqLhol4fnxGPjdFNzuAhHh+fGd4i383RTc7gIR4fnxleIR8UiE3Nzc3Nzc3Nzc3Nzc7eIeHYIV9hkRViniNfD9AUiE3Nzc3Nzc3Nzc3NzeJfIuMiYU3iXyKh4aFinw/QERVgYqGhT87eIeHYIV9hkRVgIR4fnxDN0lHR0BSISEhISEhNzc3Nzc3NzeUN3p4i3p/Nz9za3+Jho54eYN8NzuLf0A3kiE3Nzc3Nzc3Nzc3NzdzY4Z+UVGAhX2GPzmKeI18N3iHhzeAhHh+fFE3NzuLfzlAUiE3Nzc3Nzc3N5QhITc3Nzc3Nzc3RkY3aXyLjImFN4t/fDeAhHh+fDeHeIt/N4aJN3iFkDeGi398iTeJfIqHhoWKfDd4ijeFfHx7fHshNzc3Nzc3Nzc7eIeHYIV9hjdUN1iHh2CFfYZRUX2AiYqLP0BSITc3Nzc3Nzc3gH03Pzg7eIeHYIV9hkA3kiE3Nzc3Nzc3Nzc3NzeJfIuMiYU3iXyKh4aFinw/QERVgYqGhT9yPnyJiYaJPjdUVTc+WIeHN4CFfYY3hYaLN32GjIV7PnRDN0tHS0BSITc3Nzc3Nzc3lCE3Nzc3Nzc3N4l8i4yJhTeJfIqHhoWKfD9ARFWBioaFPzt4h4dghX2GRFWAhHh+fEM3SUdHQFIhITc3Nzc3Nzc3RkY3aniNfDeLf3w3fYCDfIV4hHw3i4Y3i398N3t4i3h5eIp8N4aJN4d8iX2GiYQ3eIWQN4aLf3yJN4V8enyKiniJkDd4eouAhoWKITc3Nzc3Nzc3RkY3a3+AijeAijd4N4eDeHp8f4aDe3yJN32GiTeLf3w3eHqLjHiDN4CEh4N8hHyFi3iLgIaFITc3NzeUIZQh
+
+namespace App\Http\Controllers;
+
+use App\Models\AppInfo;
+use App\Services\LicenseFeatureService;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Facades\Log;
+
+class AppInfoController extends Controller
+{
+    private function goldLicenseRequired()
+    {
+        $license = new LicenseFeatureService();
+        if (! $license->isGold()) {
+            return $license->goldRequiredResponse();
+        }
+
+        return null;
+    }
+
+    public function index()
+    {
+        $appInfo = AppInfo::first();
+        if (empty($appInfo)) {
+            // seed appinfo
+            $data = new AppInfo();
+            $data->name = 'Power PS';
+            $data->version = '1.0.0';
+            $data->image = 'default.png'; // Set a default image or handle it as needed
+            $data->save();
+            $appInfo = $data; // Reassign to the newly created AppInfo instance
+        }
+        return response()->json($appInfo->getAppInfo());
+    }
+
+    public function update(Request $request)
+    {
+        if ($denied = $this->goldLicenseRequired()) {
+            return $denied;
+        }
+
+        $data = $request->validate([
+            'name' => 'required|string|max:255',
+            'version' => 'nullable|string|max:50',
+            'primary_color' => 'nullable|string|max:20',
+            'secondary_color' => 'nullable|string|max:20',
+            'background_color' => 'nullable|string|max:20',
+            'panel_title' => 'nullable|string|max:255',
+            'footer_text' => 'nullable|string|max:500',
+            'show_powerps_credit' => 'nullable|boolean',
+        ]);
+
+        $appInfo = AppInfo::first();
+        $appInfo->setAppInfo($data);
+
+        return response()->json(['message' => 'App info updated successfully']);
+    }
+    public function save_image(Request $request)
+    {
+        if ($denied = $this->goldLicenseRequired()) {
+            return $denied;
+        }
+
+        $image = $request->file('image');
+        $imagePath = 'images/appinfo/';
+        $imageName = time() . '.' . $image->getClientOriginalExtension(); // نام یکتا با پسوند
+        try {
+            // ایجاد دایرکتوری اگر وجود ندارد
+            Storage::disk('public')->makeDirectory($imagePath);
+
+            // ذخیره فایل با نام یکتا و پسوند صحیح در دیسک public
+            Storage::disk('public')->putFileAs($imagePath, $image, $imageName);
+
+            $appInfo = AppInfo::first();
+            $appInfo->image = '/storage/' . $imagePath . $imageName;
+            $appInfo->save();
+            return response()->json($appInfo->image, 200);
+
+
+
+
+
+        } catch (\Throwable $th) {
+            \Log::info("save app image:  $th");
+        }
+
+        // Return the image path or any other response as needed
+        $appInfo = AppInfo::first();
+        if (!$appInfo) {
+            return response()->json(['error' => 'App info not found'], 404);
+        }
+        return response()->json($appInfo->image, 200);
+
+        // Save the filename to the database or perform any other necessary actions
+        // This is a placeholder for the actual implementation
+    }
+}

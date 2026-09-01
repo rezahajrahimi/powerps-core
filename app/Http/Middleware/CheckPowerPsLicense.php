@@ -1,3 +1,22 @@
 <?php
-bolt_decrypt( __FILE__ , 'SeeReb'); return 0;
-##!!!##QKSXo5upppeZm1Z3pqaSfqqqppKDn5qaoputl6ibcUBAq6mbVnemppKJm6isn5mbqZKCn5mbpKmbeZ6bmaGJm6isn5mbcUCrqZtWeaKlqauom3FAq6mbVn+ioqujn6SXqpuSfqqqppKIm6erm6mqcUBAmaKXqalWeZ6bmaGGpa2bqIapgp+Zm6Spm0CxQFZWVlamq5iin5lWnKukmaqfpaRWlZWZpaSpqqirmapepqifrJeqm1aCn5mbpKmbeZ6bmaGJm6isn5mbVlqin5mbpKmbeZ6bmaGJm6isn5mbX0BWVlZWsUBWVlZWs0BAVlZWVqarmKKfmVacq6SZqp+lpFael6SaopteiJunq5upqlZaqJunq5upqmJWeaKlqauom1ZapJuuql9AVlZWVrFAVlZWVlZWVlafnFZeV1Zaqp6fqWN0op+Zm6Spm3mem5mhiZuorJ+Zm2N0n6mDn5qaoputl6ibgp+Zm6Spm4yXop+aXl9fVrFAVlZWVlZWVlZWVlZWqJuqq6ikVqibqaalpKmbXl9jdKCppaRekV2bqKilqF1Wc3RWXYKfmZukqZtWn6lWpKWqVqyXop+aZF2TYlZqZmlfcUBWVlZWVlZWVrNAQFZWVlZWVlZWqJuqq6ikVlqkm66qXlqom6erm6mqX3FAVlZWVrNAs0A=
+namespace App\Http\Middleware;
+
+use App\Services\LicenseCheckService;
+use Closure;
+use Illuminate\Http\Request;
+
+class CheckPowerPsLicense
+{
+    public function __construct(private LicenseCheckService $licenseCheckService)
+    {
+    }
+
+    public function handle(Request $request, Closure $next)
+    {
+        if (! $this->licenseCheckService->isMiddlewareLicenseValid()) {
+            return response()->json(['error' => 'License is not valid.'], 403);
+        }
+
+        return $next($request);
+    }
+}

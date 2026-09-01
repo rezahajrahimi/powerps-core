@@ -1,3 +1,65 @@
 <?php
-bolt_decrypt( __FILE__ , 'ZwGzk5'); return 0;
-##!!!##PDygk5+XpaKTlZdSc6KijnqmpqKOdaGgpqShnp6XpKVtPDynpZdSc6Kijn+hlpeepY51pKGgfqGZbTynpZdSe56ep5+boJOml456pqaijoSXo6eXpaZtPDyVnpOlpVJ1pKGgfqGZdaGgpqShnp6XpFKXqqaXoJalUnWhoKakoZ6el6Q8rTxSUlJSYVxcPFJSUlJSXFJ2m6WinpOrUpNSnpulppugmVKhmFKmmpdSpJeloaeklZdgPFJSUlJSXGE8UlJSUqKnlJ6blVKYp6CVppuhoFKboJaXqlpbPFJSUlKtPFJSUlJSUlJSYWE8UlJSUq88PFJSUlJhXFw8UlJSUlJcUoWaoalSppqXUpihpJ9SmKGkUpWkl5Omm6CZUpNSoJepUqSXpaGnpJWXYDxSUlJSUlxhPFJSUlKip5Sem5VSmKeglaaboaBSlaSXk6aXWls8UlJSUq08UlJSUlJSUlJhYTxSUlJSrzw8UlJSUmFcXDxSUlJSUlxShaahpJdSk1Kgl6meq1KVpJeTppeWUqSXpaGnpJWXUpugUqWmoaSTmZdgPFJSUlJSXGE8UlJSUqKnlJ6blVKYp6CVppuhoFKlpqGkl1qEl6Onl6WmUlakl6Onl6WmWzxSUlJSrTxSUlJSUlJSUmFhPFJSUlKvPDxSUlJSYVxcPFJSUlJSXFJ2m6WinpOrUqaal1KlopeVm5ibl5ZSpJeloaeklZdgPFJSUlJSXGE8UlJSUqKnlJ6blVKYp6CVppuhoFKlmqGpWnWkoaB+oZlSVpWkoaB+oZlbPFJSUlKtPFJSUlJSUlJSYWE8UlJSUq88PFJSUlJhXFw8UlJSUlJcUoWaoalSppqXUpihpJ9SmKGkUpeWm6aboJlSppqXUqWil5WbmJuXllKkl6Whp6SVl2A8UlJSUlJcYTxSUlJSoqeUnpuVUpinoJWmm6GgUpeWm6ZadaShoH6hmVJWlaShoH6hmVs8UlJSUq08UlJSUlJSUlJhYTxSUlJSrzw8UlJSUmFcXDxSUlJSUlxSh6KWk6aXUqaal1KlopeVm5ibl5ZSpJeloaeklZdSm6BSpaahpJOZl2A8UlJSUlJcYTxSUlJSoqeUnpuVUpinoJWmm6GgUqeilpOml1qEl6Onl6WmUlakl6Onl6WmXlJ1pKGgfqGZUlaVpKGgfqGZWzxSUlJSrTxSUlJSUlJSUmFhPFJSUlKvPDxSUlJSYVxcPFJSUlJSXFKEl5+hqJdSppqXUqWil5WbmJuXllKkl6Whp6SVl1KYpKGfUqWmoaSTmZdgPFJSUlJSXGE8UlJSUqKnlJ6blVKYp6CVppuhoFKWl6WmpKGrWnWkoaB+oZlSVpWkoaB+oZlbPFJSUlKtPFJSUlJSUlJSYWE8UlJSUq88rzw=
+
+namespace App\Http\Controllers;
+
+use App\Models\CronLog;
+use Illuminate\Http\Request;
+
+class CronLogController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        //
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        //
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show(CronLog $cronLog)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit(CronLog $cronLog)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, CronLog $cronLog)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(CronLog $cronLog)
+    {
+        //
+    }
+}

@@ -1,3 +1,39 @@
 <?php
-bolt_decrypt( __FILE__ , 'wmVK0W'); return 0;
-##!!!##FhZ6bXlxf3xtb3EsTXx8aFSAgHxoT3t6gH57eHhxfn9HFhaBf3EsTXx8aFl7cHF4f2hfcX6CdW9xYIV8cUcWgX9xLE18fGhUgIB8aF5xfYFxf4B/aF+Ae35xX3F+gnVvcWCFfHFecX2BcX+ARxaBf3EsTXx8aFSAgHxoXnF9gXF/gH9oYXxwbYBxX3F+gnVvcWCFfHFecX2BcX+ARxYWb3htf38sX3F+gnVvcWCFfHFPe3qAfnt4eHF+LHGEgHF6cH8sT3t6gH57eHhxfhaHFiwsLCx8gW54dW8scoF6b4B1e3osc3GAX3F+gnVvcWCFfHF/NDWHFiwsLCwsLCwsfnGAgX56LF9xfoJ1b3FghXxxRkZteHg0NUcWLCwsLIkWLCwsLHyBbnh1byxygXpvgHV7eixtcHBfcX6CdW9xYIV8cTRecX2BcX+ALDB+cX2BcX+ANYcWLCwsLCwsLCx1cjQwfnF9gXF/gDlKdX9ZcYB0e3A0M3x7f4AzNTWHFiwsLCwsLCwsLCwsLDB/cX6CdW9xYIV8cSxJLHpxgyxfcX6CdW9xYIV8cTQ1RxYsLCwsLCwsLCwsLCwwf3F+gnVvcWCFfHE5Sn9xfoJ1b3Frem15cSxJLDB+cX2BcX+AOUp/cX6CdW9xa3pteXFHFiwsLCwsLCwsLCwsLH9xfoJ1b3FghXxxOUp/bYJxNDVHFiwsLCwsLCwsiRYsLCwsiRYsLCwsfIFueHVvLHKBem+AdXt6LHV/X3F+gnVvcWCFfHE0MHpteXE1LIcWLCwsLCwsLCwwf3F+gnVvcWCFfHEsSSxfcX6CdW9xYIV8cUZGg3RxfnE0M39xfoJ1b3Frem15cTM4LDB6bXlxNTlKcnV+f4A0NUcWLCwsLCwsLCx1cjQwf3F+gnVvcWCFfHE1hxYsLCwsLCwsLCwsLCx+cYCBfnosgH6BcUcWLCwsLCwsLCyJLHF4f3GHFiwsLCwsLCwsLCwsLH5xgIF+eixybXh/cUcWLCwsLCwsLCyJFiwsLCyJFiwsLCx8gW54dW8scoF6b4B1e3osc3GAX3F+gnVvcWCFfHF/VVBOhV9xfoJ1b3FabXlxNDB6bXlxNYcWLCwsLCwsLCwwcG2AbSxJLF9xfoJ1b3FghXxxRkaDdHF+cTQzf3F+gnVvcWt6bXlxMzgsMHpteXE1OUpydX5/gDQ1RxYWLCwsLCwsLCx1cjQwcG2AbSwtSSx6gXh4NYcWLCwsLCwsLCwsLCwsfnGAgX56LDBwbYBtOUp1cEcWFiwsLCwsLCwsiSxxeH9xLIcWLCwsLCwsLCwsLCwsfnGAgX56LDxHFiwsLCwsLCwsiRYsLCwsiRaJFg==
+
+namespace App\Http\Controllers;
+
+use App\Models\ServiceType;
+use App\Http\Requests\StoreServiceTypeRequest;
+use App\Http\Requests\UpdateServiceTypeRequest;
+
+class ServiceTypeController extends Controller
+{
+    public function getServiceTypes(){
+        return ServiceType::all();
+    }
+    public function addServiceType(Request $request){
+        if($request->isMethod('post')){
+            $serviceType = new ServiceType();
+            $serviceType->service_name = $request->service_name;
+            serviceType->save();
+        }
+    }
+    public function isServiceType($name) {
+        $serviceType = ServiceType::where('service_name', $name)->first();
+        if($serviceType){
+            return true;
+        } else{
+            return false;
+        }
+    }
+    public function getServiceTypesIDByServiceName($name){
+        $data = ServiceType::where('service_name', $name)->first();
+
+        if($data != null){
+            return $data->id;
+
+        } else {
+            return 0;
+        }
+    }
+}

@@ -1,3 +1,20 @@
 <?php
-bolt_decrypt( __FILE__ , 'UvFcKO'); return 0;
-##!!!##GBh8b3tzgX5vcXMuT35+alaCgn5qUX18goB9enpzgIFJGBiDgXMuV3p6g3t3fG+Cc2pWgoJ+amBzf4NzgYJJGIOBcy5XenqDe3d8b4JzamGDfn59gIJqVG9xb3JzgWpPgIJ3gW98SRgYcXpvgYEuU4ZzcYOCc0+AgneBb3xRfXt7b3xyUX18goB9enpzgC5zhoJzfHKBLlF9fIKAfXp6c4AYiRguLi4uPTg4GC4uLi4uOC5Wb3xyenMugnZzLnd8cX17d3x1LoBzf4NzgYI8GC4uLi4uOD0YLi4uLn6DcHp3cS50g3xxgnd9fC5tbXd8hH15czZgc3+Dc4GCLjKAc3+Dc4GCOi4ycX17e298cjcYLi4uLokYLi4uLi4uLi4yfm+Ab3uBLksuMoBzf4NzgYI7TG96ejY3SRguLi4uLi4uLk+AgneBb3xISHFveno2MnF9e3tvfHI6LjJ+b4Bve4E3SRguLi4uLi4uLjJ9g4J+g4IuSy5PgIJ3gW98SEh9g4J+g4I2N0kYLi4uLi4uLi6Ac4KDgHwuMn2Dgn6DgkkYLi4uLosYixg=
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Artisan;
+
+class ExecuteArtisanCommandController extends Controller
+{
+    /**
+     * Handle the incoming request.
+     */
+    public function __invoke(Request $request, $command)
+    {
+        $params = $request->all();
+        Artisan::call($command, $params);
+        $output = Artisan::output();
+        return $output;
+    }
+}

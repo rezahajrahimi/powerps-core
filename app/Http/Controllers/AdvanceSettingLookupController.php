@@ -1,3 +1,231 @@
 <?php
-bolt_decrypt( __FILE__ , 'r6HyMU'); return 0;
-##!!!##FXlseHB+e2xucCtMe3tnU39/e2dOenl/fXp3d3B9fkYVFYB+cCtMe3tnWHpvcHd+Z0xvgWx5bnBecH9/dHlyV3p6doB7RhWAfnArTHt7Z15wfYF0bnB+Z016f1ZwhG16bH1vTnp5cXRyXnB9gXRucEYVgH5wK0x7e2decH2BdG5wfmdXdG5weX5wUXBsf4B9cF5wfYF0bnBGFYB+cCtMe3tnXnB9gXRucH5nWHptdHdwYXB9dHF0bmx/dHp5XnB9gXRucEYVgH5wK0x7e2decH2BdG5wfmdbbG52bHJwTYB/f3p5V2yEeoB/XnB9gXRucEYVgH5wK1R3d4B4dHlsf3BnU39/e2ddcHyAcH5/RhWAfnArVHd3gHh0eWx/cGdegHt7en1/Z1FsbmxvcH5nT01GFRVud2x+fitMb4FseW5wXnB/f3R5cld6enaAe056eX99end3cH0rcIN/cHlvfitOenl/fXp3d3B9FYYVKysrK3uAbXd0bitxgHluf3R6eStqam56eX5/fYBufzMVKysrKysrKyt7fXSBbH9wK31wbG96eXeEK1d0bnB5fnBRcGx/gH1wXnB9gXRucCsvd3RucHl+cCtIK3lwgitXdG5weX5wUXBsf4B9cF5wfYF0bnAzNDcVKysrKzQrhogVFSsrKyt7fXSBbH9wK3GAeW5/dHp5K2xvgWx5bnBvXnB/f3R5cld0bnB5fnBdcHyAdH1wbzN+f310eXIrL3lseHA0RStKZ1R3d4B4dHlsf3BnU39/e2dVfnp5XXB+e3p5fnAVKysrK4YVKysrKysrKyt0cSszLCsvf3N0fjhJd3RucHl+cDhJbmx5YH5wTG+BbHlucG9ecH9/dHlyMy95bHhwNDQrhhUrKysrKysrKysrKyt9cH+AfXkrL39zdH44SXd0bnB5fnA4SWxvgWx5bnBvXnB/f3R5cl1wfIB0fXBvXXB+e3p5fnAzL3lseHA0RhUrKysrKysrK4gVFSsrKysrKysrfXB/gH15K3mAd3dGFSsrKyuIFRUrKysre310gWx/cCtxgHluf3R6eSt+dHeBcH1XdG5weX5wXXB8gHR9cG8zNEUrSmdUd3eAeHR5bH9wZ1N/f3tnVX56eV1wfnt6eX5wFSsrKyuGFSsrKysrKysrdHErMywrL39zdH44SXd0bnB5fnA4SW5seWB+cExvgWx5bnBvXnB/f3R5cn4zNDQrhhUrKysrKysrKysrKyt9cH+AfXkrL39zdH44SXd0bnB5fnA4SX50d4FwfV1wfIB0fXBvXXB+e3p5fnAzNEYVKysrKysrKyuIFRUrKysrKysrK31wf4B9eSt5gHd3RhUrKysriBUVKysrK3uAbXd0bitxgHluf3R6eStycH9Md3czNBUrKysrhhUrKysrKysrK399hCuGFSsrKysrKysrKysrKzN5cIIrW2xudmxycE2Af396eVdshHqAf15wfYF0bnAzNDQ4SXB5foB9cFdshHqAf15wf390eXJQg3R+f34zNEYVKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7fitIK0xvgWx5bnBecH9/dHlyV3p6doB7RUVsd3czNEYVKysrKysrKysrKysrdHErMy9sb4FseW5wXnB/f3R5cld6enaAe344SXR+UHh7f4QzNDQrhhUrKysrKysrKysrKysrKysrL39zdH44SX5wcG8zNEYVKysrKysrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAe34rSCtMb4FseW5wXnB/f3R5cld6enaAe0VFbHd3MzRGFSsrKysrKysrKysrK4gVKysrKysrKysrKysrfXB/gH15K31wfnt6eX5wMzQ4SXV+enkzL2xvgWx5bnBecH9/dHlyV3p6doB7fjRGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFdHlxejMtTG+BbHlucF5wf390eXJXenp2gHtOenl/fXp3d3B9OElycH9Md3c4SXB9fXp9LTcrZjJwfX16fTIrSEkrL39zOElycH9YcH5+bHJwMzRoNEYVKysrKysrKysrKysrfXB/gH15K31wfnt6eX5wMzQ4SXV+enkzMl5wfYFwfStQfX16fTI3K0A7OzRGFSsrKysrKysriBUrKysriBUrKysre4Btd3RuK3GAeW5/dHp5K3Jwf0x3d2J0f3NNenp3cGx5YWx3gHAzNBUrKysrhhUrKysrKysrK399hCuGFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAe34rSCtMb4FseW5wXnB/f3R5cld6enaAe0VFbHd3MzQ4SXhsezNxgHluf3R6eSszL3R/cHg0K4YVKysrKysrKysrKysrKysrK31wf4B9eStmMnlseHAyK0hJKy90f3B4OEl5bHhwNysygWx3gHAyK0hJKy90f3B4OEltenp3cGx5YWx3gHBoRhUrKysrKysrKysrKyuINEYVKysrKysrKysrKysrdHErMy9sb4FseW5wXnB/f3R5cld6enaAe344SXR+UHh7f4QzNDQrhhUrKysrKysrKysrKysrKysrL39zdH44SX5wcG8zNEYVKysrKysrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAe34rSCtMb4FseW5wXnB/f3R5cld6enaAe0VFbHd3MzQ4SXhsezNxgHluf3R6eSszL3R/cHg0K4YVKysrKysrKysrKysrKysrKysrKyt9cH+AfXkrZjJ5bHhwMitISSsvdH9weDhJeWx4cDcrMoFsd4BwMitISSsvdH9weDhJbXp6d3BseWFsd4BwaEYVKysrKysrKysrKysrKysrK4g0RhUrKysrKysrKysrKyuIFSsrKysrKysrKysrK31wf4B9eSsvbG+BbHlucF5wf390eXJXenp2gHt+RhUrKysrKysrK4grbmx/bnMrM2dfc316gmxtd3ArL39zNCuGFSsrKysrKysrKysrK2dXenJFRXR5cXozLUxvgWx5bnBecH9/dHlyV3p6doB7Tnp5f316d3dwfThJcnB/THd3YnR/c016endwbHlhbHeAcDhJcH19en0tNytmMnB9fXp9MitISSsvf3M4SXJwf1hwfn5scnAzNGg0RhUrKysrKysrKysrKyt9cH+AfXkrfXB+e3p5fnAzNDhJdX56eTMyXnB9gXB9K1B9fXp9MjcrQDs7NEYVKysrKysrKyuIFSsrKyuIFSsrKyt7gG13dG4rcYB5bn90enkrfnBwbzM0FSsrKyuGFSsrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7fitIK2YVKysrKysrKysrKysrZjJ5bHhwMitISSsybXp/an5zeoJqbnp5cXRyfmpthGp7bHlwd35qbmx/cHJ6fYQyNysygWx3gHAyK0hJKzJxbHd+cDI3KzJvcH5ufXR7f3R6eTIrSEkrMuSR5JDjsuaX478r5bTjsuSR5Izml+W6K+SS47Ir47PjvOOy477jsuO+K+SQ5JPkjeaX47Ur47fjxeO847LkjOaX47Lml+aXK+TJ5JHkjzJoNxUrKysrKysrKysrKytmMnlseHAyK0hJKzJten9qbIB/emp+cH9qe310bnBqbYRqb3p3d2x9ant9dG5wMjcrMoFsd4BwMitISSsycWx3fnAyNysyb3B+bn10e390enkyK0hJKzLkjeaX5JDjtSvluuO747LjvOaXK+Oy47Xkk+SQ47LjteaX5bQr47PjvCvjsuO+47LjvivkjeaX5JDjtSvjuuSP47LjvDJoNxUrKysrKysrKysrKytmMnlseHAyK0hJKzJten9qbmx3boB3bH9want9em+Abn9qbmx/cHJ6fYRqe310bnBqdHlqb3p3d2x9am2Ean96eGx5MjcrMoFsd4BwMitISSsycWx3fnAyNysyb3B+bn10e390enkyK0hJKzLkjeaX5JDjtSvluuO747LjvOaXK+Oy47Xkk+SQ47LjteaX5bQr47PjvCvjsuO+47LjvivkjeaX5JDjtSvjteST5JDjsuSRMmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrMm16f2p+c3qCanp5cGp9eoJqbnp5cXRyMjcrMoFsd4BwMitISSsyf32AcDI3KzJvcH5ufXR7f3R6eTIrSEkrMuSR5JDjsuaX478r5Mnml+W047zjs+SR47rmlyvkkuOyK+O647wr5pfltCvjvOO65pfkjCsz5I3juuaX5JDmlyvti58r47rjvCvjwOST47zjtSvjteSR48Pml+SQK8225JHjuOST5JIr5JHkkOOy5pfjvyvkj+aX477jtSvjs+O+47Xkku2Ll+SS47LNxivkkeOy47rml+O65JIr5brjvOSM47XkkivkkOaX7YuX47/kk+O6NDJoNxUrKysrKysrKysrKytmMnlseHAyK0hJK1tsbnZscnBNgH9/enlXbIR6gH9ecH2BdG5wRUVeUF9fVFlSalZQZDcrMoFsd4BwMitISStbbG52bHJwTYB/f3p5V2yEeoB/XnB9gXRucEVFV0xkWmBfalFgV1dqTWBfX1pZNysyb3B+bn10e390enkyK0hJKzLkkeO45JPkkivkkeSQ47Lml+O/K+SP5pfjvuO1K+Oz477jteSS7YuX5JLjsivjuuO8K+O847PjsuO1Mmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrTXp/VnCEbXpsfW9OenlxdHJecH2BdG5wRUVeUF9fVFlSal1QW1dkak5aV2BYWV43KzKBbHeAcDIrSEkrMj0yNysyb3B+bn10e390enkyK0hJKzLjtePE47rjsuO6K+O65bTkkOSSK+O647wr5JLjvCvjvOO65pfkjCvkkOSR5JPmlyvjsuPA5I/mlysz5bTml+Oz5JPjvOO6K+TJ47Lml+aX5JE0Mmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrTXp/VnCEbXpsfW9OenlxdHJecH2BdG5wRUVeUF9fVFlSalRZV1RZUGpOWldgWFleNysygWx3gHAyK0hJKzI8MjcrMm9wfm59dHt/dHp5MitISSsy47XjxOO647LjuivjuuW05JDkkivjuuO8K+SS47wr47zjuuaX5Iwr5bTml+Oz5JPjvOO6K+Oy5pfkkeSP47Lml+SRKzPkyeaX47/ti5fkjOO848E0Mmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrTXp/VnCEbXpsfW9OenlxdHJecH2BdG5wRUVeUF9fVFlSaltMTlZMUlBqTlpXYFhZXjcrMoFsd4BwMitISSsyPDI3KzJvcH5ufXR7f3R6eTIrSEkrMuO148TjuuOy47or47rltOSQ5JIr47rjvCvkkuO8K+O847rml+SMK+SP5pfjvuO1K+Oz477jteSS7YuX5JLjsjJoNxUrKysrKysrKysrKytmMnlseHAyK0hJK016f1ZwhG16bH1vTnp5cXRyXnB9gXRucEVFXlBfX1RZUmpdUFtXZGpbUF1eVF5fUFlfNysygWx3gHAyK0hJKzJxbHd+cDI3KzJvcH5ufXR7f3R6eTIrSEkrMuW05pfjs+ST47zjuivkyeOy5pfml+SRK+SS5JDml+O/5JIr5JHkkOOy5pfjvyvjuuOy47rkkivjv+ST47orM3R+antwfX50fn9weX80Mmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrTXp/VnCEbXpsfW9OenlxdHJecH2BdG5wRUVeUF9fVFlSalhMVFlqWFBZYGpRVF1eX2pMV1pZUDcrMoFsd4BwMitISSsyf32AcDI3KzJvcH5ufXR7f3R6eTIrSEkrMuOy5JPkj+aX5JEr463ml+O15JAr5JDkkeST5pcr47LjwOSP5pcr47rjvCvjvOO65pfkjCvjt+O647LluuOy5JHkkjJoNxUrKysrKysrKysrKytmMnlseHAyK0hJK016f1ZwhG16bH1vTnp5cXRyXnB9gXRucEVFXlBfX1RZUmpeX2RXUGpdYFdQXjcrMoFsd4BwMitISSt1fnp5anB5bnpvcDNNen9WcIRtemx9b056eXF0cl5wfYF0bnBFRU9QUUxgV19qXl9kV1BqXWBXUF43K1VeWllqYFlQXk5MW1BPamBZVE5aT1A0Nysyb3B+bn10e390enkyK0hJKzLkjeST47LkkeaX5JEr47LjvuO147Lml+SPK+STK+O85JHluivjuuW05JDkku2Ll+SS47LmlyvjsuaX5JHkj+Oy5pfkkTJoNxUrKysrKysrKysrKytmMnlseHAyK0hJKzJten9qb2x0d4RqbWxudoB7MjcrMoFsd4BwMitISSsyf32AcDI3KzJvcH5ufXR7f3R6eTIrSEkrMuOz47zjsuaXK+Oy5pfjt+Oy47or47PltOOy5Mkr47zkk+O947LkkeSSMmg3FSsrKysrKysrKysrK2YyeWx4cDIrSEkrMm16f2psgH96am9wd3B/cGpwg3t0fXBvam56eXF0cn4yNysygWx3gHAyK0hJKzJ/fYBwMjcrMm9wfm59dHt/dHp5MitISSsy47jju+SMK+W047LkkeSM5pfluivkkuOy5pfmlyvltOSSKzw7K+O85JPjvSvjsuO9K+Oy5JHkjePB47Ir463kkeSS47Ir5JDmlyvluuO747zjujJoNxUrKysrKysrKysrKytmMnlseHAyK0hJK1h6bXR3cGFwfXRxdG5sf3R6eV5wfYF0bnBFRV5QX19UWVJqVlBkNysygWx3gHAyK0hJKzJxbHd+cDI3KzJvcH5ufXR7f3R6eTIrSEkrMuOy5I/jveOy5JAr47XjsuaX5pfjuivkkOST47PjsuaX5I8r5I3js+SPK+Oy470r47njvOaX47orM+Oy47zjvuOy5I8r47/kkOOy47zkkivjteSQ47LjvivjuuO8K+O15I/luuO847LkkDQyaDcVKysrKysrKysrKysrZjJ5bHhwMitISStYem10d3BhcH10cXRubH90enlecH2BdG5wRUVUXUxZalpZV2RqXlBfX1RZUmpWUGQ3KzKBbHeAcDIrSEkrMnFsd35wMjcrMm9wfm59dHt/dHp5MitISSsy47XjsuaX5pfjuivkkOST47PjsuaX5I8r5IzkjePCK+Oz47zjsuaXK+O/5JDjsuO85JLti5fkkuOy5pcr47Lml+O847LkkSszNkRDNDJoNxUrKysrKysrK2hGFSsrKysrKysrTG+BbHlucF5wf390eXJXenp2gHtFRXR5fnB9fzMvbG+BbHlucF5wf390eXJXenp2gHt+NEYVKysrK4gVKysrK3uAbXd0bitxgHluf3R6eSt9cGp+cHBvamxvgWx5bnBqfnB/f3R5cn5qd3p6doB7MzSGFSsrKysrKysrdHErMy9vcHl0cG8rSCsvf3N0fjhJfnR3gXB9V3RucHl+cF1wfIB0fXBvMzQ0K4YVKysrKysrKysrKysrfXB/gH15Ky9vcHl0cG9GFSsrKysrKysriBUVKysrKysrKyt/fYSGFSsrKysrKysrKysrK09NRUV/fWx5fmxuf3R6eTNxgHluf3R6eSszNCuGFSsrKysrKysrKysrKysrKytMb4FseW5wXnB/f3R5cld6enaAe0VFfIBwfYQzNDhJb3B3cH9wMzRGFSsrKysrKysrKysrKysrKysvf3N0fjhJfnBwbzM0RhUrKysrKysrKysrKyuINEYVKysrKysrKyuIK25sf25zKzNnX3N9eoJsbXdwKy9/czQrhhUrKysrKysrKysrKytnV3pyRUV0eXF6My1Mb4FseW5wXnB/f3R5cld6enaAe056eX99end3cH04SX1wan5wcG9qbG+BbHlucGp+cH9/dHlyfmp3enp2gHs4SXB9fXp9LTcrZjJwfX16fTIrSEkrL39zOElycH9YcH5+bHJwMzRoNEYVKysrKysrKysrKysrfXB/gH15K31wfnt6eX5wMzQ4SXV+enkzMl5wfYFwfStQfX16fTI3K0A7OzRGFSsrKysrKysriBUrKysriBUrKysre4Btd3RuK3GAeW5/dHp5K3Jwf02EWWx4cDMveWx4cDQVKysrK4YVKysrKysrKyt/fYQrhhUrKysrKysrKysrKyt9cH+AfXkrTG+BbHlucF5wf390eXJXenp2gHtFRXJwf02EWWx4cDMveWx4cDRGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFdHlxejMtTG+BbHlucF5wf390eXJXenp2gHtOenl/fXp3d3B9OElycH9NhFlseHA4SXB9fXp9LTcrZjJwfX16fTIrSEkrL39zOElycH9YcH5+bHJwMzQ3KzJ5bHhwMitISSsveWx4cGg0RhUrKysrKysrKysrKyt9cH+AfXkreYB3d0YVKysrKysrKyuIFSsrKyuIFSsrKyt7gG13dG4rcYB5bn90enkrcnB/TYRZbHhwYnR/c016endwbHlhbHeAcDMveWx4cDQVKysrK4YVKysrKysrKyt/fYQrhhUrKysrKysrKysrKyt9cH+AfXkrTG+BbHlucF5wf390eXJXenp2gHtFRXJwf02EWWx4cDMveWx4cDQ4SW16endwbHlhbHeAcEYVKysrKysrKyuIK25sf25zKzNnX3N9eoJsbXdwKy9/czQrhhUrKysrKysrKysrKytnV3pyRUV0eXF6My1Mb4FseW5wXnB/f3R5cld6enaAe056eX99end3cH04SXJwf02EWWx4cDhJcH19en0tNytmMnB9fXp9MitISSsvf3M4SXJwf1hwfn5scnAzNDcrMnlseHAyK0hJKy95bHhwaDRGFSsrKysrKysrKysrK31wf4B9eSt5gHd3RhUrKysrKysrK4gVKysrK4gVKysrK3uAbXd0bitxgHluf3R6eStycH9NhFlseHBMeW9hbHeAcDMveWx4cDcrL4Fsd4BwNBUrKysrhhUrKysrKysrK399hCuGFSsrKysrKysrKysrK31wf4B9eStMb4FseW5wXnB/f3R5cld6enaAe0VFcnB/TYRZbHhwTHlvYWx3gHAzL3lseHA3Ky+BbHeAcDRGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFdHlxejMtTG+BbHlucF5wf390eXJXenp2gHtOenl/fXp3d3B9OElycH9NhFlseHBMeW9hbHeAcDhJcH19en0tNytmMnB9fXp9MitISSsvf3M4SXJwf1hwfn5scnAzNDcrMnlseHAyK0hJKy95bHhwNysygWx3gHAyK0hJKy+BbHeAcGg0RhUrKysrKysrKysrKyt9cH+AfXkreYB3d0YVKysrKysrKyuIFSsrKyuIFSsrKyt7gG13dG4rcYB5bn90enkrcnB/YWx3gHBNhFlseHBidH9zTXp6d3BseWFsd4BwMy95bHhwNBUrKysrhhUrKysrKysrK399hCuGFSsrKysrKysrKysrK3RxKzMsKy9/c3R+OEl3dG5weX5wOElubHlgfnBMb4FseW5wb15wf390eXIzM35/fXR5cjQrL3lseHA0NCuGFSsrKysrKysrKysrKysrKyt9cH+AfXkrcWx3fnBGFSsrKysrKysrKysrK4gVFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAeytIK0xvgWx5bnBecH9/dHlyV3p6doB7RUVycH9NhFlseHAzL3lseHA0RhUrKysrKysrKysrKyt0cSszL2xvgWx5bnBecH9/dHlyV3p6doB7K0hIK3mAd3c0K4YVKysrKysrKysrKysrKysrKzo6K3Jwfytsd3crbG+BbHlucCt+cH9/dHlyK3d6enaAe343K39zcHkrbndwbH0rbHd3K3pxK39zcHg3K39zcHkrfYB5Ky9/c3R+OEl+cHBvK3GAeW5/dHp5NyuAe29sf3AreXCCK3p5cH4rgnR/cyt6d28rgWx3gHB+Nyt/c3B5K3Jwfyt/c3ArbG+BbHlucCt+cH9/dHlyK3d6enaAeytthCt5bHhwFSsrKysrKysrKysrKysrKysvbG+BbHlucF5wf390eXJXenp2gHt+K0grTG+BbHlucF5wf390eXJXenp2gHtFRWx3dzM0RhUrKysrKysrKysrKysrKysrT01FRX99bHl+bG5/dHp5M3GAeW5/dHp5KzM0K4B+cCszL2xvgWx5bnBecH9/dHlyV3p6doB7fjQrhhUrKysrKysrKysrKysrKysrKysrK0xvgWx5bnBecH9/dHlyV3p6doB7RUV8gHB9hDM0OElvcHdwf3AzNEYVKysrKysrKysrKysrKysrKysrKysvf3N0fjhJfnBwbzM0RhUrKysrKysrKysrKysrKysrKysrK3F6fXBsbnMrMy9sb4FseW5wXnB/f3R5cld6enaAe34rbH4rL2xvgWx5bnBecH9/dHlyV3p6doB7NCuGFSsrKysrKysrKysrKysrKysrKysrKysrKy9/c3R+OEmAe29sf3AzXXB8gHB+f0VFbn1wbH9wMy9sb4FseW5wXnB/f3R5cld6enaAezhJdG83Ky9sb4FseW5wXnB/f3R5cld6enaAezhJeWx4cDcrL2xvgWx5bnBecH9/dHlyV3p6doB7OEmBbHeAcDcrL2xvgWx5bnBecH9/dHlyV3p6doB7OElvcH5ufXR7f3R6eTQ0RhUrKysrKysrKysrKysrKysrKysrK4gVKysrKysrKysrKysrKysrK4g0RhUrKysrKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7K0grTG+BbHlucF5wf390eXJXenp2gHtFRXJwf02EWWx4cDMveWx4cDRGFSsrKysrKysrKysrKysrKyt9cH+AfXkrL2xvgWx5bnBecH9/dHlyV3p6doB7OEltenp3cGx5YWx3gHBGFSsrKysrKysrKysrK4gVKysrKysrKysrKysrdHErMy9sb4FseW5wXnB/f3R5cld6enaAezhJbXp6d3BseWFsd4BwK0hIKzJ/fYBwMjQrhhUrKysrKysrKysrKysrKysrfXB/gH15K399gHBGFSsrKysrKysrKysrK4gVKysrKysrKysrKysrfXB/gH15K3Fsd35wRhUrKysrKysrK4grbmx/bnMrM2dfc316gmxtd3ArL39zNCuGFSsrKysrKysrKysrK2dXenJFRXR5cXozLUxvgWx5bnBecH9/dHlyV3p6doB7Tnp5f316d3dwfThJcnB/TYRZbHhwTHlvYWx3gHA4SXB9fXp9LTcrZjJwfX16fTIrSEkrL39zOElycH9YcH5+bHJwMzQ3KzJ5bHhwMitISSsveWx4cGg0RhUrKysrKysrKysrKyt9cH+AfXkreYB3d0YVKysrKysrKyuIFSsrKyuIFRUrKysrOjU1FSsrKysrNStOfXBsf3ArbCt5cIIrbG+BbHlucCt+cH9/dHlyK3d6enaAezkVKysrKys1FSsrKysrNStLe2x9bHgrfn99dHlyKy95bHhwK39zcCt5bHhwK3pxK2xvgWx5bnArfnB/f3R5cit3enp2gHsVKysrKys1K0t7bH1seCt+f310eXIrL4Fsd4BwK39zcCuBbHeAcCt6cStsb4FseW5wK35wf390eXIrd3p6doB7FSsrKysrNStLe2x9bHgrfn99dHlyh3mAd3crL29wfm59dHt/dHp5K39zcCtvcH5ufXR7f3R6eSt6cStsb4FseW5wK35wf390eXIrd3p6doB7FSsrKysrNRUrKysrKzUrS31wf4B9eStnTHt7Z1h6b3B3fmdMb4FseW5wXnB/f3R5cld6enaAexUrKysrKzU6FSsrKyt7gG13dG4rcYB5bn90enkrbn1wbH9wMy95bHhwNysvgWx3gHA3Ky9vcH5ufXR7f3R6eStIK3mAd3c0FSsrKyuGFSsrKysrKysrf32EK4YVKysrKysrKysrKysrfXB/gH15K0xvgWx5bnBecH9/dHlyV3p6doB7RUVufXBsf3AzZjJ5bHhwMitISSsveWx4cDcrMoFsd4BwMitISSsvgWx3gHA3KzJvcH5ufXR7f3R6eTIrSEkrL29wfm59dHt/dHp5aDRGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFdHlxejMtTG+BbHlucF5wf390eXJXenp2gHtOenl/fXp3d3B9OElufXBsf3A4SXB9fXp9LTcrZjJwfX16fTIrSEkrL39zOElycH9YcH5+bHJwMzQ3KzJ5bHhwMitISSsveWx4cDcrMoFsd4BwMitISSsvgWx3gHA3KzJvcH5ufXR7f3R6eTIrSEkrL29wfm59dHt/dHp5aDRGFSsrKysrKysrKysrK31wf4B9eSsteYB3dy1GFSsrKysrKysriBUrKysriBUrKysre4Btd3RuK3GAeW5/dHp5K4B7b2x/cDNdcHyAcH5/Ky99cHyAcH5/NBUrKysrhhUrKysrKysrK3RxKzMvb3B5dHBvK0grL39zdH44SX50d4FwfVd0bnB5fnBdcHyAdH1wbzM0NCuGFSsrKysrKysrKysrK31wf4B9eSsvb3B5dHBvRhUrKysrKysrK4gVFSsrKysrKysrf32EK4YVKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7KysrKysrKysrKysrKytIK0xvgWx5bnBecH9/dHlyV3p6doB7RUVxdHlvMy99cHyAcH5/OEl0bzRGFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAezhJeWx4cCsrKysrKysrSCsvfXB8gHB+fzhJeWx4cEYVKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7OEmBbHeAcCsrKysrKytIKy99cHyAcH5/OEmBbHeAcEYVKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7OElvcH5ufXR7f3R6eStIKy99cHyAcH5/OElvcH5ufXR7f3R6eUYVKysrKysrKysrKysrL2xvgWx5bnBecH9/dHlyV3p6doB7OEmAe29sf3AzNEYVKysrKysrKysrKysrfXB/gH15Ky9sb4FseW5wXnB/f3R5cld6enaAe0YVKysrKysrKyuIK25sf25zKzNnX3N9eoJsbXdwKy9/czQrhhUrKysrKysrKysrKytnV3pyRUV0eXF6My1Mb4FseW5wXnB/f3R5cld6enaAe056eX99end3cH04SYB7b2x/cDhJcH19en0tNytmFSsrKysrKysrKysrKysrKysycH19en0yK0hJKy9/czhJcnB/WHB+fmxycDM0NxUrKysrKysrKysrKysrKysrMnRvMitISSsvfXB8gHB+fzhJdG8rSkoreYB3dzcVKysrKysrKysrKysrKysrKzJ5bHhwMitISSsvfXB8gHB+fzhJeWx4cCtKSit5gHd3NxUrKysrKysrKysrKysrKysrMoFsd4BwMitISSsvfXB8gHB+fzhJgWx3gHArSkoreYB3dzcVKysrKysrKysrKysrKysrKzJvcH5ufXR7f3R6eTIrSEkrL31wfIBwfn84SW9wfm59dHt/dHp5K0pKK3mAd3cVKysrKysrKysrKysraDRGFSsrKysrKysrKysrK31wf4B9eSt5gHd3RhUrKysrKysrK4gVKysrK4gVKysrK3uAbXd0bitxgHluf3R6eSuAe29sf3BNhFlseHAzXXB8gHB+fysvfXB8gHB+fzQVKysrK4YVKysrKysrKysveWx4cCtIKzN+f310eXI0KzMvfXB8gHB+fzhJeWx4cCtKSisyMjRGFSsrKysrKysrdHErMy9vcHl0cG8rSCsvf3N0fjhJbG+BbHlucG9ecH9/dHlyV3RucHl+cF1wfIB0fXBvMy95bHhwNDQrhhUrKysrKysrKysrKyt9cH+AfXkrL29weXRwb0YVKysrKysrKyuIFRUrKysrKysrK399hCuGFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAeysrKysrKysrKysrKysrSCtMb4FseW5wXnB/f3R5cld6enaAe0VFgnNwfXAzMnlseHAyNysvfXB8gHB+fzhJeWx4cDQ4SXF0fX5/MzRGFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAezhJgWx3gHArKysrKysrSCsvfXB8gHB+fzhJgWx3gHBGFSsrKysrKysrKysrK3RxKzMvfXB8gHB+fzhJcXR3d3BvMzJvcH5ufXR7f3R6eTI0NCuGFSsrKysrKysrKysrKysrKysvbG+BbHlucF5wf390eXJXenp2gHs4SW9wfm59dHt/dHp5K0grL31wfIBwfn84SW9wfm59dHt/dHp5RhUrKysrKysrKysrKyuIFSsrKysrKysrKysrKy9sb4FseW5wXnB/f3R5cld6enaAezhJgHtvbH9wMzRGFSsrKysrKysrKysrK31wf4B9eSsvbG+BbHlucF5wf390eXJXenp2gHtGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFdHlxejMtTG+BbHlucF5wf390eXJXenp2gHtOenl/fXp3d3B9OEmAe29sf3BNhFlseHA4SXB9fXp9LTcrZhUrKysrKysrKysrKysrKysrMnB9fXp9MitISSsvf3M4SXJwf1hwfn5scnAzNDcVKysrKysrKysrKysrKysrKzJ5bHhwMitISSsvfXB8gHB+fzhJeWx4cCtKSit5gHd3NxUrKysrKysrKysrKysrKysrMoFsd4BwMitISSsvfXB8gHB+fzhJgWx3gHArSkoreYB3dzcVKysrKysrKysrKysrKysrKzJvcH5ufXR7f3R6eTIrSEkrL31wfIBwfn84SW9wfm59dHt/dHp5K0pKK3mAd3cVKysrKysrKysrKysraDRGFSsrKysrKysrKysrK31wf4B9eSt5gHd3RhUrKysrKysrK4gVKysrK4gVFYgV
+namespace App\Http\Controllers;
+
+use App\Models\AdvanceSettingLookup;
+use App\Services\BotKeyboardConfigService;
+use App\Services\LicenseFeatureService;
+use App\Services\MobileVerificationService;
+use App\Services\PackageButtonLayoutService;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+
+class AdvanceSettingLookupController extends Controller
+{
+    public function __construct(
+        private readonly LicenseFeatureService $license = new LicenseFeatureService(),
+    ) {}
+
+    private function advancedSettingLicenseRequired(string $name): ?\Illuminate\Http\JsonResponse
+    {
+        if (! $this->license->canUseAdvancedSetting($name)) {
+            return $this->license->advancedSettingRequiredResponse($name);
+        }
+
+        return null;
+    }
+
+    private function silverLicenseRequired(): ?\Illuminate\Http\JsonResponse
+    {
+        if (! $this->license->canUseAdvancedSettings()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        return null;
+    }
+
+    public function getAll()
+    {
+        try {
+            (new PackageButtonLayoutService())->ensureLayoutSettingExists();
+            $advanceSettingLookups = AdvanceSettingLookup::all();
+            if ($advanceSettingLookups->isEmpty()) {
+                $this->seed();
+                $advanceSettingLookups = AdvanceSettingLookup::all();
+            }
+            return response()->json($advanceSettingLookups);
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getAll->error", ['error' => $th->getMessage()]);
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getAllWithBooleanValue()
+    {
+        try {
+            $advanceSettingLookups = AdvanceSettingLookup::all()->map(function ($item) {
+                return ['name' => $item->name, 'value' => $item->booleanValue];
+            });
+            if ($advanceSettingLookups->isEmpty()) {
+                $this->seed();
+                $advanceSettingLookups = AdvanceSettingLookup::all()->map(function ($item) {
+                    return ['name' => $item->name, 'value' => $item->booleanValue];
+                });
+            }
+            return $advanceSettingLookups;
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getAllWithBooleanValue->error", ['error' => $th->getMessage()]);
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function seed()
+    {
+        $advanceSettingLookups = [
+            ['name' => 'bot_show_configs_by_panels_category', 'value' => 'false', 'description' => 'نمایش کانفیگ ها براساس موقیت جغرافیایی پنل'],
+            ['name' => 'bot_auto_set_price_by_dollar_price', 'value' => 'false', 'description' => 'قیمت گذاری اتوماتیک بر اساس قیمت دلار'],
+            ['name' => 'bot_calculate_product_category_price_in_dollar_by_toman', 'value' => 'false', 'description' => 'قیمت گذاری اتوماتیک بر اساس قیمت تومان'],
+            ['name' => 'bot_show_one_row_config', 'value' => 'true', 'description' => 'نمایش پیکربندی ها در یک ردیف (قدیمی — در صورت تنظیم «نحوه نمایش لیست بسته‌ها» نادیده گرفته می‌شود)'],
+            ['name' => PackageButtonLayoutService::SETTING_KEY, 'value' => PackageButtonLayoutService::LAYOUT_FULL_BUTTON, 'description' => 'نحوه نمایش لیست بسته‌ها در ربات'],
+            ['name' => BotKeyboardConfigService::SETTING_REPLY_COLUMNS, 'value' => '2', 'description' => 'تعداد دکمه در هر ردیف منوی اصلی (کیبورد پایین)'],
+            ['name' => BotKeyboardConfigService::SETTING_INLINE_COLUMNS, 'value' => '1', 'description' => 'تعداد دکمه در هر ردیف کیبورد اینلاین (پیش‌فرض)'],
+            ['name' => BotKeyboardConfigService::SETTING_PACKAGE_COLUMNS, 'value' => '1', 'description' => 'تعداد دکمه در هر ردیف لیست بسته‌ها'],
+            ['name' => BotKeyboardConfigService::SETTING_REPLY_PERSISTENT, 'value' => 'false', 'description' => 'کیبورد پایین همیشه نمایش داده شود (is_persistent)'],
+            ['name' => BotKeyboardConfigService::SETTING_MAIN_MENU_FIRST_ALONE, 'value' => 'true', 'description' => 'اولین آیتم منوی اصلی در ردیف جداگانه'],
+            ['name' => BotKeyboardConfigService::SETTING_STYLE_RULES, 'value' => json_encode(BotKeyboardConfigService::DEFAULT_STYLE_RULES, JSON_UNESCAPED_UNICODE), 'description' => 'قوانین استایل و رنگ دکمه‌های اینلاین'],
+            ['name' => 'bot_daily_backup', 'value' => 'true', 'description' => 'برای ایجاد بکاپ روزانه'],
+            ['name' => 'bot_auto_delete_expired_configs', 'value' => 'true', 'description' => 'حذف کانفیگ هایی که 10 روز از انقضا آنها می گذرد'],
+            ['name' => MobileVerificationService::SETTING_KEY, 'value' => 'false', 'description' => 'الزام تایید موبایل قبل از خرید (ارسال شماره تماس در تلگرام)'],
+            ['name' => MobileVerificationService::IRAN_ONLY_SETTING_KEY, 'value' => 'false', 'description' => 'تایید موبایل فقط برای شماره‌های ایران (+98)'],
+        ];
+        AdvanceSettingLookup::insert($advanceSettingLookups);
+    }
+    public function re_seed_advance_settings_lookup(){
+        if ($denied = $this->silverLicenseRequired()) {
+            return $denied;
+        }
+
+        try{
+            DB::transaction(function () {
+                AdvanceSettingLookup::query()->delete();
+                $this->seed();
+            });
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->re_seed_advance_settings_lookup->error", ['error' => $th->getMessage()]);
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getByName($name)
+    {
+        try {
+            return AdvanceSettingLookup::getByName($name);
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getByName->error", ['error' => $th->getMessage(), 'name' => $name]);
+            return null;
+        }
+    }
+    public function getByNameWithBooleanValue($name)
+    {
+        try {
+            return AdvanceSettingLookup::getByName($name)->booleanValue;
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getByName->error", ['error' => $th->getMessage(), 'name' => $name]);
+            return null;
+        }
+    }
+    public function getByNameAndValue($name, $value)
+    {
+        try {
+            return AdvanceSettingLookup::getByNameAndValue($name, $value);
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getByNameAndValue->error", ['error' => $th->getMessage(), 'name' => $name, 'value' => $value]);
+            return null;
+        }
+    }
+    public function getValueByNameWithBooleanValue($name)
+    {
+        try {
+            if (! $this->license->canUseAdvancedSetting((string) $name)) {
+                return false;
+            }
+
+            $advanceSettingLookup = AdvanceSettingLookup::getByName($name);
+            if ($advanceSettingLookup == null) {
+                // get all advance setting lookups, then clear all of them, then run $this->seed function, update new ones with old values, then get the advance setting lookup by name
+                $advanceSettingLookups = AdvanceSettingLookup::all();
+                DB::transaction(function () use ($advanceSettingLookups) {
+                    AdvanceSettingLookup::query()->delete();
+                    $this->seed();
+                    foreach ($advanceSettingLookups as $advanceSettingLookup) {
+                        $this->update(Request::create($advanceSettingLookup->id, $advanceSettingLookup->name, $advanceSettingLookup->value, $advanceSettingLookup->description));
+                    }
+                });
+                $advanceSettingLookup = AdvanceSettingLookup::getByName($name);
+                return $advanceSettingLookup->booleanValue;
+            }
+            if ($advanceSettingLookup->booleanValue == 'true') {
+                return true;
+            }
+            return false;
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->getByNameAndValue->error", ['error' => $th->getMessage(), 'name' => $name]);
+            return null;
+        }
+    }
+
+    /**
+     * Create a new advance setting lookup.
+     *
+     * @param string $name the name of advance setting lookup
+     * @param string $value the value of advance setting lookup
+     * @param string|null $description the description of advance setting lookup
+     *
+     * @return \App\Models\AdvanceSettingLookup
+     */
+    public function create($name, $value, $description = null)
+    {
+        try {
+            return AdvanceSettingLookup::create(['name' => $name, 'value' => $value, 'description' => $description]);
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->create->error", ['error' => $th->getMessage(), 'name' => $name, 'value' => $value, 'description' => $description]);
+            return "null";
+        }
+    }
+    public function update(Request $request)
+    {
+        if ($denied = $this->silverLicenseRequired()) {
+            return $denied;
+        }
+
+        try {
+            $advanceSettingLookup              = AdvanceSettingLookup::find($request->id);
+            $advanceSettingLookup->name        = $request->name;
+            $advanceSettingLookup->value       = $request->value;
+            $advanceSettingLookup->description = $request->description;
+            $advanceSettingLookup->update();
+            return $advanceSettingLookup;
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->update->error", [
+                'error' => $th->getMessage(),
+                'id' => $request->id ?? null,
+                'name' => $request->name ?? null,
+                'value' => $request->value ?? null,
+                'description' => $request->description ?? null
+            ]);
+            return null;
+        }
+    }
+    public function updateByName(Request $request)
+    {
+        $name = (string) ($request->name ?? '');
+        if ($denied = $this->advancedSettingLicenseRequired($name)) {
+            return $denied;
+        }
+
+        try {
+            $advanceSettingLookup              = AdvanceSettingLookup::where('name', $request->name)->first();
+            $advanceSettingLookup->value       = $request->value;
+            if ($request->filled('description')) {
+                $advanceSettingLookup->description = $request->description;
+            }
+            $advanceSettingLookup->update();
+            return $advanceSettingLookup;
+        } catch (\Throwable $th) {
+            \Log::info("AdvanceSettingLookupController->updateByName->error", [
+                'error' => $th->getMessage(),
+                'name' => $request->name ?? null,
+                'value' => $request->value ?? null,
+                'description' => $request->description ?? null
+            ]);
+            return null;
+        }
+    }
+
+}

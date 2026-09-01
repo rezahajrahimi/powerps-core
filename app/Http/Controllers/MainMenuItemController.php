@@ -1,3 +1,247 @@
 <?php
-bolt_decrypt( __FILE__ , '5rXHMa'); return 0;
-##!!!##//9jVmJaaGVWWFoVNmVlUT1paWVROGRjaWdkYWFaZ2gw/2poWhU2ZWVRQmRZWmFoUUJWXmNCWmNqPmlaYjD/amhaFTZlZVFIWmdrXlhaaFFBXlhaY2haO1pWaWpnWkhaZ2teWFow/2poWhU+YWFqYl5jVmlaUUhqZWVkZ2lRO1ZYVllaaFE5NzD//2poWhU+YWFqYl5jVmlaUT1paWVRR1pmalpoaTD//1hhVmhoFUJWXmNCWmNqPmlaYjhkY2lnZGFhWmcVWm1pWmNZaBU4ZGNpZ2RhYVpn/3D/FRUVFWVqV2FeWBVbamNYaV5kYxVoWlpZHR7/FRUVFXD/FRUVFRUVFRUkJBVYXVpYYBVeWxVZVmlWFWxWaBVaYmVpbhVYZ1pWaVoVY1psFWJaY2r/FRUVFRUVFRVeWxUdQlZeY0JaY2o+aVpiLy9WYWEdHiIzXmg6YmVpbh0eHhVw/xUVFRUVFRUVFRUVFRUZYlpjaiYVMhVjWmwVQlZeY0JaY2o+aVpiHR4w/xUVFRUVFRUVFRUVFRliWmNqJiIzY1ZiWhUyFRzNo82m0IHNpBXNnM2pzZ/Nps2cz54cMP8VFRUVFRUVFRUVFRUZYlpjaiYiM1ZhXlZoVGNWYloVMhUczaPNptCBzaQVzZzNqc2fzabNnM+eHDD/FRUVFRUVFRUVFRUVGWJaY2omIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZYlpjaiYiM2VkaF5pXmRjFTIVJjD/FRUVFRUVFRUVFRUVGWJaY2omIjNoZGFkVGdkbBUyFWlnalow/xUVFRUVFRUVFRUVFRliWmNqJiIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZYlpjaicVMhVjWmwVQlZeY0JaY2o+aVpiHR4w//8VFRUVFRUVFRUVFRUZYlpjaiciM2NWYloVMhUcbFpXVmVlHDD/FRUVFRUVFRUVFRUVGWJaY2onIjNWYV5WaFRjVmJaFTIVHM2czajNn852zZzNpM58Fc2kzaYVzn3NnRXNnM6zznnQgc+e0IHNqc57HDD/FRUVFRUVFRUVFRUVGWJaY2onIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZYlpjaiciM2VkaF5pXmRjFTIVJzD/FRUVFRUVFRUVFRUVGWJaY2onIjNoVmtaHR4w/xUVFRUVFRUVFRUVFRliWmNqKBUyFWNabBVCVl5jQlpjaj5pWmIdHjD//xUVFRUVFRUVFRUVFRliWmNqKCIzY1ZiWhUyFRzNqM2czZ3Od858Fc2jzabQgc2kHDD/FRUVFRUVFRUVFRUVGWJaY2ooIjNWYV5WaFRjVmJaFTIVHM2ozZzNnc53znwVzaPNptCBzaQcMP8VFRUVFRUVFRUVFRUZYlpjaigiM15oVFZYaV5rWhUyFWlnalow/xUVFRUVFRUVFRUVFRliWmNqKCIzZWRoXmleZGMVMhUoMP8VFRUVFRUVFRUVFRUZYlpjaigiM2hWa1odHjD/FRUVFRUVFRUVFRUVGWJaY2opFTIVY1psFUJWXmNCWmNqPmlaYh0eMP//FRUVFRUVFRUVFRUVGWJaY2opIjNjVmJaFTIVHM6zzanNn9CBzZ3NnM570IEcMP8VFRUVFRUVFRUVFRUZYlpjaikiM1ZhXlZoVGNWYloVMhUczrPNqc2f0IHNnc2cznvQgRww/xUVFRUVFRUVFRUVFRliWmNqKSIzXmhUVlhpXmtaFTIVaWdqWjD/FRUVFRUVFRUVFRUVGWJaY2opIjNlZGheaV5kYxUyFSkw/xUVFRUVFRUVFRUVFRliWmNqKSIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZYlpjaioVMhVjWmwVQlZeY0JaY2o+aVpiHR4w//8VFRUVFRUVFRUVFRUZYlpjaioiM2NWYloVMhUczZfOes59zafNqRXNnM2ozZ/Ods2czaTOfBXOfRXNqM59zZzOec2czZ8VznrNn82kzZzOfc55HDD/FRUVFRUVFRUVFRUVGWJaY2oqIjNWYV5WaFRjVmJaFTIVHM2XznrOfc2nzakVzZzNqM2fznbNnM2kznwVzn0VzajOfc2cznnNnM2fFc56zZ/NpM2czn3OeRww/xUVFRUVFRUVFRUVFRliWmNqKiIzXmhUVlhpXmtaFTIVaWdqWjD/FRUVFRUVFRUVFRUVGWJaY2oqIjNlZGheaV5kYxUyFSow/xUVFRUVFRUVFRUVFRliWmNqKiIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZYlpjaisVMhVjWmwVQlZeY0JaY2o+aVpiHR4w//8VFRUVFRUVFRUVFRUZYlpjaisiM2NWYloVMhUczZzNrM55zZzNrs2czZ8VzaLNqM2czZ0cMP8VFRUVFRUVFRUVFRUZYlpjaisiM1ZhXlZoVGNWYloVMhUczZzNrM55zZzNrs2czZ8VzaLNqM2czZ0cMP8VFRUVFRUVFRUVFRUZYlpjaisiM15oVFZYaV5rWhUyFWlnalow/xUVFRUVFRUVFRUVFRliWmNqKyIzZWRoXmleZGMVMhUrMP8VFRUVFRUVFRUVFRUZYlpjaisiM2hWa1odHjD/FRUVFRUVFRUVFRUVGWJaY2osFTIVY1psFUJWXmNCWmNqPmlaYh0eMP//FRUVFRUVFRUVFRUVGWJaY2osIjNjVmJaFTIVHM2cz57NnM57zZ8VzZfNp856zZzQgc2p0IEcMP8VFRUVFRUVFRUVFRUZYlpjaiwiM1ZhXlZoVGNWYloVMhUczZzPns2cznvNnxXNl82nznrNnNCBzanQgRww/xUVFRUVFRUVFRUVFRliWmNqLCIzXmhUVlhpXmtaFTIVaWdqWjD/FRUVFRUVFRUVFRUVGWJaY2osIjNlZGheaV5kYxUyFSww/xUVFRUVFRUVFRUVFRliWmNqLCIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZYlpjai0VMhVjWmwVQlZeY0JaY2o+aVpiHR4w//8VFRUVFRUVFRUVFRUZYlpjai0iM2NWYloVMhUczaTNnM57znnOfc2kFc2dzabOe82cznrOfBww/xUVFRUVFRUVFRUVFRliWmNqLSIzVmFeVmhUY1ZiWhUyFRzNpM2cznvOec59zaQVzZ3Nps57zZzOes58HDD/FRUVFRUVFRUVFRUVGWJaY2otIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZYlpjai0iM2VkaF5pXmRjFTIVLTD/FRUVFRUVFRUVFRUVGWJaY2otIjNoVmtaHR4w/xUVFRUVFRUVFRUVFRliWmNqLhUyFWNabBVCVl5jQlpjaj5pWmIdHjD//xUVFRUVFRUVFRUVFRliWmNqLiIzY1ZiWhUyFRzPpNCBznbNnxXPns2czabNnxww/xUVFRUVFRUVFRUVFRliWmNqLiIzVmFeVmhUY1ZiWhUyFRzPpNCBznbNnxXPns2czabNnxww/xUVFRUVFRUVFRUVFRliWmNqLiIzXmhUVlhpXmtaFTIVaWdqWjD/FRUVFRUVFRUVFRUVGWJaY2ouIjNlZGheaV5kYxUyFS4w/xUVFRUVFRUVFRUVFRliWmNqLiIzaFZrWh0eMP8VFRUVFRUVFRUVFRUZYlpjaiYlFTIVY1psFUJWXmNCWmNqPmlaYh0eMP//FRUVFRUVFRUVFRUVGWJaY2omJSIzY1ZiWhUyFRzPns2ozZ0VzaTNps2XznrNpBww/xUVFRUVFRUVFRUVFRliWmNqJiUiM1ZhXlZoVGNWYloVMhUcz57NqM2dFc2kzabNl856zaQcMP8VFRUVFRUVFRUVFRUZYlpjaiYlIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZYlpjaiYlIjNlZGheaV5kYxUyFSYlMP8VFRUVFRUVFRUVFRUZYlpjaiYlIjNoVmtaHR4w/xUVFRUVFRUVcv8VFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaTZhYUJWXmNCWmNqPmlaYmgdHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVQlZeY0JaY2o+aVpiLy9WYWEdHjD/FRUVFRUVFRUkJBVYXVpYYBVeWxVZVmlWFWxWaBVaYmVpbhVYZ1pWaVoVY1psFWJaY2r/FRUVFRUVFRVeWxUdGVlWaVYiM15oOmJlaW4dHh4VcP8VFRUVFRUVFRUVFRUZaV1eaCIzaFpaWR0eMP8VFRUVFRUVFXL/FRUVFRUVFRUZY1psOVZpVhUyFUJWXmNCWmNqPmlaYi8vVmFhHR4w//8VFRUVFRUVFWdaaWpnYxUZY1psOVZpVjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmlCWmNqQ1ZiWjduPjkdGV5ZHv8VFRUVcP8VFRUVFRUVFWdaaWpnYxVCVl5jQlpjaj5pWmIvL2xdWmdaHRxeWRwhFRleWR4iM1teZ2hpHR4w/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVXFppQlpjakNWYlo3bjZhXlZoQ1ZiWh0ZVmFeVmhDVmJaHv8VFRUVcP8VFRUVFRUVFRlZVmlWFTIVQlZeY0JaY2o+aVpiLy9sXVpnWh0cVmFeVmhUY1ZiWhwhFRlWYV5WaENWYloeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhFRsbFRlZVmlWIjNjVmJaFRYyFWNqYWEVGxsVGVlWaVYiM15oVFZYaV5rWhUyMhVpZ2paHhVw/xUVFRUVFRUVFRUVFWdaaWpnYxUZWVZpViIzY1ZiWjD/FRUVFRUVFRVy/xUVFRUVFRUVZ1ppamdjFRzNo9CBzaYcMP8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaUJaY2o+aVpiN242YV5WaENWYlodGVZhXlZoQ1ZiWh7/FRUVFXD/FRUVFRUVFRVnWmlqZ2MVQlZeY0JaY2o+aVpiLy9sXVpnWh0cVmFeVmhUY1ZiWhwhFRlWYV5WaENWYloeIjNbXmdoaR0eMP8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaUJaY2o2YV5WaENWYlo3bkNWYlodGWNWYloe/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVCVl5jQlpjaj5pWmIvL2xdWmdaHRxjVmJaHCEVGWNWYloeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhHhVw/xUVFRUVFRUVFRUVFWdaaWpnYxUZWVZpViIzVmFeVmhUY1ZiWjD/FRUVFRUVFRVy/xUVFRUVFRUVZ1ppamdjFRzNo9CBzaYcMP8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFVxaaUJaY2o+WTduQ1ZiWh0ZY1ZiWh7/FRUVFXD/FRUVFRUVFRVnWmlqZ2MVQlZeY0JaY2o+aVpiLy9sXVpnWh0cY1ZiWhwhFRljVmJaHiIzW15naGkdHjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVcWmk2YWE2WGlea1ZpWllCVl5jQlpjaj5pWmJoHR7/FRUVFXD/FRUVFRUVFRVnWmlqZ2MVQlZeY0JaY2o+aVpiLy9sXVpnWh0cXmhUVlhpXmtaHCEVaWdqWh4iM2RnWVpnV24dHGVkaF5pXmRjHCEVHFZoWBweIjNcWmkdHjD/FRUVFXL/FRUVFWVqV2FeWBVbamNYaV5kYxVZWjZYaV5rWkJWXmNCWmNqPmlaYh0ZY1ZiWh7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUJWXmNCWmNqPmlaYi8vbF1aZ1odHGNWYlocIRUZY1ZiWh4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVGVlWaVYiM15oVFZYaV5rWhUyFVtWYWhaMP8VFRUVFRUVFRUVFRUZWVZpViIzamVZVmlaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVZ1o2WGlea1pCVl5jQlpjaj5pWmIdGWNWYloe/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVCVl5jQlpjaj5pWmIvL2xdWmdaHRxjVmJaHCEVGWNWYloeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhHhVw/xUVFRUVFRUVFRUVFRlZVmlWIjNeaFRWWGlea1oVMhVpZ2paMP8VFRUVFRUVFRUVFRUZWVZpViIzamVZVmlaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy/xUVFRVlaldhXlgVW2pjWGleZGMVWF1WY1xaQlZeY0JaY2o2YV5WaENWYlodR1pmalpoaRUZZ1pmalpoaR7/FRUVFXD/FRUVFRUVFRUZWVZpVhUyFUJWXmNCWmNqPmlaYi8vbF1aZ1odHGNWYlocIRUZZ1pmalpoaSIzZGFZQ1ZiWh4iM1teZ2hpHR4w/xUVFRUVFRUVXlsVHRlZVmlWFRYyFWNqYWEeFXD/FRUVFRUVFRUVFRUVGVlWaVYiM1ZhXlZoVGNWYloVMhUZZ1pmalpoaSIzY1psQ1ZiWjD/FRUVFRUVFRUVFRUVGVlWaVYiM2plWVZpWh0eMP8VFRUVFRUVFRUVFRVnWmlqZ2MVaWdqWjD/FRUVFRUVFRVyFVphaFoVcP8VFRUVFRUVFRUVFRVnWmlqZ2MVW1ZhaFow/xUVFRUVFRUVcv8VFRUVcv8VFRUVZWpXYV5YFVtqY1hpXmRjFWdaZGdZWmdCVl5jQlpjaj5pWmJoHUdaZmpaaGkVGWdaZmpaaGkeFXD/FRUVFRUVFRVpZ24VcP8VFRUVFRUVFRUVFRU5Ny8vV1pcXmNJZ1ZjaFZYaV5kYx0eMP8VFRUVFRUVFRUVFRX/FRUVFRUVFRUVFRUVGVlWaVYVMhVCVl5jQlpjaj5pWmIvL1ZhYR0eMP8VFRUVFRUVFRUVFRUZY1psRGdZWmcVMhUZZ1pmalpoaSIzVmFhHR5QHF5pWmJoHFIw/xUVFRUVFRUVFRUVFf8VFRUVFRUVFRUVFRUkJBXNnM2dzZ/NpM2cFc58znrOfBVlZGheaV5kYxXOfM2cFc2mzZwVzZ3OfBXQgc+eFc56znfNpM2czaYVznrOfc53zZ8VzZ/Nr9CB0IHNphXOetCB13WBzaTOfNCBznr/FRUVFRUVFRUVFRUVW2RnWlZYXRUdGVlWaVYVVmgVGWJaY2o+aVpiHhVw/xUVFRUVFRUVFRUVFRUVFRUZYlpjaj5pWmIiM2VkaF5pXmRjFTIVGWJaY2o+aVpiIjNeWRUgFSolMBUkJBXQgc+eFc2uzaTNpBXNnc2nzabPpBXOes59znfNn/8VFRUVFRUVFRUVFRUVFRUVGWJaY2o+aVpiIjNoVmtaHR4w/xUVFRUVFRUVFRUVFXL/FRUVFRUVFRUVFRUV/xUVFRUVFRUVFRUVFSQkFc2izZzOec2cFWVkaF5pXmRjFc58zZzQgRXNoc2k0IHNpBXNps2cFc2fznvNrdCBznoVznrQgdd1gc+eznvQgc56/xUVFRUVFRUVFRUVFVtkZ1pWWF0VHRlZVmlWFVZoFRliWmNqPmlaYh4VcP8VFRUVFRUVFRUVFRUVFRUVGWNabEVkaF5pXmRjFTIVWGRhYVpYaR0ZY1psRGdZWmceIjNbXmdoaR1bamNYaV5kYx0ZXmlaYh4VamhaFR0ZYlpjaj5pWmIeFXD/FRUVFRUVFRUVFRUVFRUVFRUVFRVnWmlqZ2MVGV5pWmJQHF5ZHFIVMjIVGWJaY2o+aVpiIjNeWTD/FRUVFRUVFRUVFRUVFRUVFXIeMP8VFRUVFRUVFRUVFRUVFRUV/xUVFRUVFRUVFRUVFRUVFRVeWxUdGWNabEVkaF5pXmRjHhVw/xUVFRUVFRUVFRUVFRUVFRUVFRUVGWJaY2o+aVpiIjNlZGheaV5kYxUyFRljWmxFZGheaV5kY1AcZWRoXmleZGMcUjD/FRUVFRUVFRUVFRUVFRUVFRUVFRUZYlpjaj5pWmIiM2hWa1odHjD/FRUVFRUVFRUVFRUVFRUVFXL/FRUVFRUVFRUVFRUVcv8VFRUVFRUVFRUVFRX/FRUVFRUVFRUVFRUVOTcvL1hkYmJeaR0eMP8VFRUVFRUVFRUVFRVnWmlqZ2MVaWdqWjD/FRUVFRUVFRUVFRUV/xUVFRUVFRUVchVYVmlYXRUdUTptWFplaV5kYxUZWh4VcP8VFRUVFRUVFRUVFRU5Ny8vZ2RhYTdWWGAdHjD/FRUVFRUVFRUVFRUVUUFkXC8vWmdnZGcdGVoiM1xaaUJaaGhWXFodHh4w/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy////FRUVFWVqV2FeWBVbamNYaV5kYxVYXVZjXFpCVl5jQlpjakVkaF5pXmRjHUdaZmpaaGkVGWdaZmpaaGke/xUVFRVw/xUVFRUVFRUVGVlWaVYVMhVCVl5jQlpjaj5pWmIvL2xdWmdaHRxjVmJaHCEVGWdaZmpaaGkiM2NWYloeIjNbXmdoaR0eMP8VFRUVFRUVFRlYXVpYYDZrXmFWV1phFTIVQlZeY0JaY2o+aVpiLy9sXVpnWh0cZWRoXmleZGMcIRUZZ1pmalpoaSIzZWRoXmleZGMeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZWVZpVhUWMhVjamFhFRsbFRlYXVpYYDZrXmFWV1phFTIyFWNqYWEeFXD/FRUVFRUVFRUVFRUVGVlWaVYiM2VkaF5pXmRjFTIVGWdaZmpaaGkiM2VkaF5pXmRjMP8VFRUVFRUVFRUVFRUZWVZpViIzamVZVmlaHR4w/xUVFRUVFRUVFRUVFWdaaWpnYxVpZ2paMP8VFRUVFRUVFXIVWmFoWhVw/xUVFRUVFRUVFRUVFWdaaWpnYxVbVmFoWjD/FRUVFRUVFRVy/xUVFRVy//8VFRUVZWpXYV5YFVtqY1hpXmRjFWplWVZpWkJWXmNCWmNqN2ppaWRjSGluYVodR1pmalpoaRUZZ1pmalpoaR7/FRUVFXD/FRUVFRUVFRUZYV5YWmNoWhUyFWNabBVBXlhaY2haO1pWaWpnWkhaZ2teWFodHjD/FRUVFRUVFRVeWxUdFhUZYV5YWmNoWiIzWFZjOGpoaWRiXm9aN2RpN2ppaWRjaB0eHhVw/xUVFRUVFRUVFRUVFWdaaWpnYxUZYV5YWmNoWiIzaF5ha1pnR1pmal5nWllHWmhlZGNoWh0eMP8VFRUVFRUVFXL//xUVFRUVFRUVGWtWYV5ZVmlaWRUyFRlnWmZqWmhpIjNrVmFeWVZpWh1Q/xUVFRUVFRUVFRUVFRxjVmJaHBUyMxUcZ1pmal5nWllxaGlnXmNcHCH/FRUVFRUVFRUVFRUVHFdqaWlkY1RoaW5hWhwVMjMVHGNqYWFWV2FacWhpZ15jXHFeYy9lZ15iVmduIWhqWFhaaGghWVZjXFpnHCH/FRUVFRUVFRUVFRUVHF5YZGNUWGpoaWRiVFpiZF9eVF5ZHBUyMxUcY2phYVZXYVpxaGlnXmNccWJWbS8rKRwh/xUVFRUVFRUVFRUVFRxoZGFkVGdkbBwVMjMVHGNqYWFWV2FacVdkZGFaVmMcIf8VFRUVFRUVFVIeMP//FRUVFRUVFRUZXmlaYhUyFUJWXmNCWmNqPmlaYi8vbF1aZ1odHGNWYlocIRUZa1ZhXllWaVpZUBxjVmJaHFIeIjNbXmdoaR0eMP8VFRUVFRUVFV5bFR0ZXmlaYhUyMjIVY2phYR4VcP8VFRUVFRUVFRUVFRVnWmlqZ2MVZ1poZWRjaFodHiIzX2hkYx1QHGhqWFhaaGgcFTIzFVtWYWhaUiEVKSUpHjD/FRUVFRUVFRVy//8VFRUVFRUVFV5bFR1WZ2dWblRgWm5UWm1eaGloHRxXamlpZGNUaGluYVocIRUZa1ZhXllWaVpZHh4VcP8VFRUVFRUVFRUVFRUZXmlaYiIzV2ppaWRjVGhpbmFaFTIVGWtWYV5ZVmlaWVAcV2ppaWRjVGhpbmFaHFIw/xUVFRUVFRUVcv8VFRUVFRUVFV5bFR1WZ2dWblRgWm5UWm1eaGloHRxeWGRjVFhqaGlkYlRaYmRfXlReWRwhFRlrVmFeWVZpWlkeHhVw/xUVFRUVFRUVFRUVFRleaVpiIjNeWGRjVFhqaGlkYlRaYmRfXlReWRUyFRlrVmFeWVZpWllQHF5YZGNUWGpoaWRiVFpiZF9eVF5ZHFIw/xUVFRUVFRUVcv8VFRUVFRUVFV5bFR1WZ2dWblRgWm5UWm1eaGloHRxoZGFkVGdkbBwhFRlrVmFeWVZpWlkeHhVw/xUVFRUVFRUVFRUVFRleaVpiIjNoZGFkVGdkbBUyFR1XZGRhHhUZa1ZhXllWaVpZUBxoZGFkVGdkbBxSMP8VFRUVFRUVFXL//xUVFRUVFRUVGV5pWmIiM2plWVZpWh0eMP//FRUVFRUVFRVnWmlqZ2MVZ1poZWRjaFodHiIzX2hkYx1QHGhqWFhaaGgcFTIzFWlnalohFRxeaVpiHBUyMxUZXmlaYlIeMP8VFRUVcv9y/w==
+
+namespace App\Http\Controllers;
+use App\Models\MainMenuItem;
+use App\Services\LicenseFeatureService;
+use Illuminate\Support\Facades\DB;
+
+use Illuminate\Http\Request;
+
+class MainMenuItemController extends Controller
+{
+    public function seed()
+    {
+        // check if data was empty create new menu
+        if (MainMenuItem::all()->isEmpty()) {
+             $menu1 = new MainMenuItem();
+            $menu1->name = 'خرید اشتراک';
+            $menu1->alias_name = 'خرید اشتراک';
+            $menu1->is_active = true;
+            $menu1->position = 1;
+            $menu1->solo_row = true;
+            $menu1->save();
+            $menu2 = new MainMenuItem();
+
+            $menu2->name = 'webapp';
+            $menu2->alias_name = 'استفاده در وب اپلیکیشن';
+            $menu2->is_active = true;
+            $menu2->position = 2;
+            $menu2->save();
+            $menu3 = new MainMenuItem();
+
+            $menu3->name = 'سابقه خرید';
+            $menu3->alias_name = 'سابقه خرید';
+            $menu3->is_active = true;
+            $menu3->position = 3;
+            $menu3->save();
+            $menu4 = new MainMenuItem();
+
+            $menu4->name = 'پشتیبانی';
+            $menu4->alias_name = 'پشتیبانی';
+            $menu4->is_active = true;
+            $menu4->position = 4;
+            $menu4->save();
+            $menu5 = new MainMenuItem();
+
+            $menu5->name = 'آموزش استفاده و سوالات متداول';
+            $menu5->alias_name = 'آموزش استفاده و سوالات متداول';
+            $menu5->is_active = true;
+            $menu5->position = 5;
+            $menu5->save();
+            $menu6 = new MainMenuItem();
+
+            $menu6->name = 'اطلاعات حساب';
+            $menu6->alias_name = 'اطلاعات حساب';
+            $menu6->is_active = true;
+            $menu6->position = 6;
+            $menu6->save();
+            $menu7 = new MainMenuItem();
+
+            $menu7->name = 'اکانت آزمایشی';
+            $menu7->alias_name = 'اکانت آزمایشی';
+            $menu7->is_active = true;
+            $menu7->position = 7;
+            $menu7->save();
+            $menu8 = new MainMenuItem();
+
+            $menu8->name = 'دانلود برنامه';
+            $menu8->alias_name = 'دانلود برنامه';
+            $menu8->is_active = true;
+            $menu8->position = 8;
+            $menu8->save();
+            $menu9 = new MainMenuItem();
+
+            $menu9->name = 'گیفت کارت';
+            $menu9->alias_name = 'گیفت کارت';
+            $menu9->is_active = true;
+            $menu9->position = 9;
+            $menu9->save();
+            $menu10 = new MainMenuItem();
+
+            $menu10->name = 'کسب درآمد';
+            $menu10->alias_name = 'کسب درآمد';
+            $menu10->is_active = true;
+            $menu10->position = 10;
+            $menu10->save();
+        }
+        return true;
+    }
+    public function getAllMainMenuItems()
+    {
+        $data = MainMenuItem::all();
+        // check if data was empty create new menu
+        if ($data->isEmpty()) {
+            $this->seed();
+        }
+        $newData = MainMenuItem::all();
+
+        return $newData;
+    }
+    public function getMenuNameByID($id)
+    {
+        return MainMenuItem::where('id', $id)->first();
+    }
+    public function getMenuNameByAliasName($aliasName)
+    {
+        $data = MainMenuItem::where('alias_name', $aliasName)->first();
+        if ($data != null && $data->name != null && $data->is_active == true) {
+            return $data->name;
+        }
+        return 'خیر';
+    }
+    public function getMenuItemByAliasName($aliasName)
+    {
+        return MainMenuItem::where('alias_name', $aliasName)->first();
+    }
+    public function getMenuAliasNameByName($name)
+    {
+        $data = MainMenuItem::where('name', $name)->first();
+        if ($data != null) {
+            return $data->alias_name;
+        }
+        return 'خیر';
+    }
+    public function getMenuIdByName($name)
+    {
+        return MainMenuItem::where('name', $name)->first();
+    }
+    public function getAllActivatedMainMenuItems()
+    {
+        return MainMenuItem::where('is_active', true)->orderby('position', 'asc')->get();
+    }
+    public function deActiveMainMenuItem($name)
+    {
+        $data = MainMenuItem::where('name', $name)->first();
+        if ($data != null) {
+            $data->is_active = false;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function reActiveMainMenuItem($name)
+    {
+        $data = MainMenuItem::where('name', $name)->first();
+        if ($data != null) {
+            $data->is_active = true;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function changeMainMenuAliasName(Request $request)
+    {
+        $data = MainMenuItem::where('name', $request->oldName)->first();
+        if ($data != null) {
+            $data->alias_name = $request->newName;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function reorderMainMenuItems(Request $request) {
+        try {
+            DB::beginTransaction();
+            
+            $data = MainMenuItem::all();
+            $newOrder = $request->all()['items'];
+            
+            // ابتدا همه position ها را به یک مقدار موقت تغییر می‌دهیم
+            foreach ($data as $menuItem) {
+                $menuItem->position = $menuItem->id + 50; // یک عدد بزرگ موقت
+                $menuItem->save();
+            }
+            
+            // حالا position های جدید را تنظیم می‌کنیم
+            foreach ($data as $menuItem) {
+                $newPosition = collect($newOrder)->first(function($item) use ($menuItem) {
+                    return $item['id'] == $menuItem->id;
+                });
+                
+                if ($newPosition) {
+                    $menuItem->position = $newPosition['position'];
+                    $menuItem->save();
+                }
+            }
+            
+            DB::commit();
+            return true;
+            
+        } catch (\Exception $e) {
+            DB::rollBack();
+            \Log::error($e->getMessage());
+            return false;
+        }
+    }
+
+
+    public function changeMainMenuPosition(Request $request)
+    {
+        $data = MainMenuItem::where('name', $request->name)->first();
+        $checkAvilabel = MainMenuItem::where('position', $request->position)->first();
+        if ($data != null && $checkAvilabel == null) {
+            $data->position = $request->position;
+            $data->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public function updateMainMenuButtonStyle(Request $request)
+    {
+        $license = new LicenseFeatureService();
+        if (! $license->canCustomizeBotButtons()) {
+            return $license->silverRequiredResponse();
+        }
+
+        $validated = $request->validate([
+            'name' => 'required|string',
+            'button_style' => 'nullable|string|in:primary,success,danger',
+            'icon_custom_emoji_id' => 'nullable|string|max:64',
+            'solo_row' => 'nullable|boolean',
+        ]);
+
+        $item = MainMenuItem::where('name', $validated['name'])->first();
+        if ($item === null) {
+            return response()->json(['success' => false], 404);
+        }
+
+        if (array_key_exists('button_style', $validated)) {
+            $item->button_style = $validated['button_style'];
+        }
+        if (array_key_exists('icon_custom_emoji_id', $validated)) {
+            $item->icon_custom_emoji_id = $validated['icon_custom_emoji_id'];
+        }
+        if (array_key_exists('solo_row', $validated)) {
+            $item->solo_row = (bool) $validated['solo_row'];
+        }
+
+        $item->update();
+
+        return response()->json(['success' => true, 'item' => $item]);
+    }
+}

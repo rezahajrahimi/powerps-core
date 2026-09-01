@@ -1,3 +1,147 @@
 <?php
-bolt_decrypt( __FILE__ , 'muQdCv'); return 0;
-##!!!##Wlq+sb21w8Cxs7VwkcDArJq/ssOLWlrFw7VwkcDArJjExMCsk7++xMK/vLy1wsOsk8XDxL+9pLXIxJO/vsTCv7y8tcKLWsXDtXCRwMCsmMTEwKyTv77Ewr+8vLXCw6yYubS0ubbJoLG+vrW8k7++xMK/vLy1wotaxcO1cJHAwKyYxMTArJO/vsTCv7y8tcLDrJy/t5O/vsTCv7y8tcKLWsXDtXCRwMCsmMTEwKyTv77Ewr+8vLXCw6yjsb6xtbmgsb6+tbyTv77Ewr+8vLXCi1rFw7VwkcDArJjExMCsk7++xMK/vLy1wsOso8Wyw7PCucDEub++oMK/s7XDw5O/vsTCv7y8tcKLWsXDtXCRwMCsnb+0tbzDrJK/xKXDtcKLWsXDtXCRwMCsnb+0tbzDrKCxvr61vItaxcO1cJHAwKydv7S1vMOsoMK/tMWzxItaxcO1cJHAwKydv7S1vMOspcO1wqPEscS1i1rFw7VwkcDArKO1wsa5s7XDrKS1vLW3wrG9o7XCxrmztYtaxcO1cJm8vMW9ub6xxLWsksXDrKHFtcW1sbK8tYtaxcO1cJm8vMW9ub6xxLWsk7++xMKxs8TDrKHFtcW1rKO4v8W8tKHFtcW1i1rFw7Vwmby8xb25vrHEtayWv8W+tLHEub++rJLFw6yUucPAscSzuLGyvLWLWsXDtXCZvLzFvbm+scS1rJjExMCsorXBxbXDxItaxcO1cJm8vMW9ub6xxLWsocW1xbWsmb7EtcKxs8TDp7nEuKHFtcW1i1rFw7Vwmby8xb25vrHEtayhxbXFtayjtcK5sby5yrXDnb+0tbzDi1rFw7Vwmby8xb25vrHEtayjxcDAv8LErJaxs7G0tcOsk7GzuLWLWsXDtXCmtcLEsYtaWrO8scPDcKDCv7O1w8Oitb2xwrtwub3AvLW9tb7Ew3CjuL/FvLShxbXFtVrLWnBwcHDFw7VwlLnDwLHEs7ixsry1fHCZvsS1wrGzxMOnucS4ocW1xbV8cKHFtcW1sbK8tXxwo7XCubG8ucq1w52/tLW8w4taWnBwcHDAwr/EtbPEtbRwdLO4scSZtItacHBwcMDCv8S1s8S1tHB0wMK/tMWzxJm0i1pwcHBwwMK/xLWzxLW0cHS+tceesb21i1pacHBwcH96elpwcHBwcHpwk8K1scS1cLFwvrXHcLq/snC5vsPEsb6ztX5acHBwcHB6f1pwcHBwwMWyvLmzcLbFvrPEub++cK+vs7++w8TCxbPEeHSzuLHEmbR8cHTAwr+0xbPEmbR8cHS+tceesb21eVpwcHBwy1pwcHBwcHBwcHTEuLnDfY6zuLHEmbRwjXB0s7ixxJm0i1pwcHBwcHBwcHTEuLnDfY7Awr+0xbPEmbRwjXB0wMK/tMWzxJm0i1pwcHBwcHBwcHTEuLnDfY6+tceesb21cI1wdL61x56xvbWLWnBwcHDNWlpwcHBwf3p6WnBwcHBwenCVyLWzxcS1cMS4tXC6v7J+WnBwcHBwen9acHBwcMDFsry5s3C2xb6zxLm/vnC4sb60vLV4eYpwxr+5tFpwcHBwy1pwcHBwcHBwcHSzxcPEv72ktcjEk8TCvHCNcL61x3CTxcPEv72ktcjEk7++xMK/vLy1wnh5i1pwcHBwcHBwcHTEtby1t8KxvaO1wsa5s7VwjXC+tcdwpLW8tbfCsb2jtcLGubO1eHmLWnBwcHBwcHBwdLy/t5PEwrxwjXC+tcdwnL+3k7++xMK/vLy1wnh5i1pacHBwcHBwcHB/f3CWtcSzuHDFw7XCcLa/wnC8v7e3ub63WnBwcHBwcHBwdLK/xKXDtcJwjXCSv8Slw7XCiorHuLXCtXh3sbOzv8W+xK+5tHd8cHTEuLnDfY6zuLHEmbR5fY62ucLDxHh5i1pwcHBwcHBwcHTFw7XCvrG9tXCNcHSyv8Slw7XCcI9wdLK/xKXDtcJ9jsXDtcK+sb21cIpwd6W+u76/x753i1pacHBwcHBwcHDEwslwy1pwcHBwcHBwcHBwcHB0wMK/tMWzxHCNcKDCv7TFs8SKise4tcK1eHe5tHd8cHTEuLnDfY7Awr+0xbPEmbR5WnBwcHBwcHBwcHBwcHBwcHB9jse5xLh4d8DCv7TFs8Svs7HEtbe/wsmvsb60r8CxvrW8d3lacHBwcHBwcHBwcHBwcHBwcH2OtrnCw8R4eYtaWnBwcHBwcHBwcHBwcLm2cHh0wMK/tMWzxHCNjXC+xby8eXDLWnBwcHBwcHBwcHBwcHBwcHB0xLi5w32Os7y1scKRx7G5xLm+t6K1wLzJeHTEuLnDfY6zuLHEmbR8cHSzxcPEv72ktcjEk8TCvH2Ot7XEpLXIxHh3tcLCv8J+w7XCxrXCr7XCwr/Cd3l8cHTEtby1t8KxvaO1wsa5s7V5i1pwcHBwcHBwcHBwcHBwcHBwwrXExcK+i1pwcHBwcHBwcHBwcHDNWlpwcHBwcHBwcHBwcHB0wLG+vrW8cI1woLG+vrW8ioq2ub60eHTAwr+0xbPEfY7Awr+0xbPEr7OxxLW3v8LJr7G+tK/Asb61vH2OwLG+vrW8r7m0eYtacHBwcHBwcHBwcHBwubZweHTAsb6+tbxwjY2NcL7FvLxwzMxwcXB0wLG+vrW8fY7DxcDAv8LEw6K1vbHCu6K1vrG9tXh5eXDLWnBwcHBwcHBwcHBwcHBwcHB0xLi5w32Os7y1scKRx7G5xLm+t6K1wLzJeFpwcHBwcHBwcHBwcHBwcHBwcHBwcHTEuLnDfY6zuLHEmbR8WnBwcHBwcHBwcHBwcHBwcHBwcHBwdyj6KAor3CvcKAFwKdYo9ynVcCj4KAMo+inXcCnRKdIoB3Ao+CgBKPcr3HApDinWKdQy0Nwp1yj3K9xwmLm0tLm2yXAp2HCjsb6xtblwKPcp1Sr5KPcp1jLQ3CkOKAAr3CgBcCj3KAMo+n53fFpwcHBwcHBwcHBwcHBwcHBwcHBwcHTEtby1t8KxvaO1wsa5s7VacHBwcHBwcHBwcHBwcHBwcHmLWlpwcHBwcHBwcHBwcHBwcHBwwrXExcK+i1pwcHBwcHBwcHBwcHDNWlpwcHBwcHBwcHBwcHC5tnB4dMCxvr61vH2OxMnAtXCNjXB3uLm0tLm2yXd5cMtacHBwcHBwcHBwcHBwcHBwcHS4ubS0ubazk77EwrxwjXC+tcdwmLm0tLm2yaCxvr61vJO/vsTCv7y8tcJ4eYtacHBwcHBwcHBwcHBwcHBwcHTFxbm0cI1wdLi5tLS5trOTvsTCvH2OtcjEwrGzxKWlmZR4dMDCv7TFs8R9jsPFssOzwrnAxLm/vq+8ub67eYtacHBwcHBwcHBwcHBwcHBwcHTCtcFwjXC+tcdworXBxbXDxHh5i1pwcHBwcHBwcHBwcHBwcHBwdMK1wX2OwLG+vrW8mZRwjXB0wLG+vrW8fY65tItacHBwcHBwcHBwcHBwcHBwcHTCtcF9jr6xvbVwjXB0xLi5w32OvrXHnrG9tYtacHBwcHBwcHBwcHBwcHBwcHTCtcF9jsXFubRwjXB0xcW5tItacHBwcHBwcHBwcHBwcHBwcHTCtcF9jrO/vb21vsRwjXByKPooCivcK9woAXAp1ij3KdVwKPgoAyj6KddwKP8oAXBycH5wprXCxLGKir6/x3h5i1pacHBwcHBwcHBwcHBwcHBwcHTFwLSxxLWitb2xwrtwjXB0uLm0tLm2s5O+xMK8fY7FwLSxxLWlw7XCnrG9tZ+2mLm0tLm2yaCxvrW8kcC5eHTCtcF5i1pwcHBwcHBwcHBwcHBwcHBwubZweHTFwLSxxLWitb2xwrtwcY2NcLaxvMO1eXDLWnBwcHBwcHBwcHBwcHBwcHBwcHBwdMDCv7TFs8R9jsK1vbHCu3CNcHTEuLnDfY6+tceesb21i1pwcHBwcHBwcHBwcHBwcHBwcHBwcHTAwr+0xbPEfY7FwLSxxLV4eYtaWnBwcHBwcHBwcHBwcHBwcHBwcHBwdLy/t5PEwrx9jrG0tJ61x5y/t3h3w8Wyw7PCucDEub++d3xwdyj6KAor3CvcKAFwKdYo9ynVcCj4KAMo+inXcCj4KPdwKdUp2CnRKdIr3Cj6cCj3KdYo/Cj3KdVwKAQo/353fHB0xLi5w32Os7ixxJm0fHB0xcO1wr6xvbV8cHfDuL/Hd3mLWnBwcHBwcHBwcHBwcHBwcHBwcHBwdMS4ucN9jrO8tbHCkcexucS5vreitcC8yXh0xLi5w32Os7ixxJm0fHB0s8XDxL+9pLXIxJPEwrx9jre1xKS1yMR4d7GzxLm/vn7Ctb2xwrt+w8Wzs7XDw3d5fHB0xLW8tbfCsb2jtcLGubO1eYtacHBwcHBwcHBwcHBwcHBwcHBwcHDCtcTFwr6LWnBwcHBwcHBwcHBwcHBwcHDNWnBwcHBwcHBwcHBwcM1wtbzDtbm2cHh0wLG+vrW8fY7EycC1cI2NcHfDsb6xtbl3eXDLWnBwcHBwcHBwcHBwcHBwcHCsnL+3ioq5vra/eHKgwr+ztcPDorW9scK7inCjsb6xtblwwLG+tbxwtLXEtbPEtbRwtr/CcMDCv7TFs8RwcnB+cHTAwr+0xbPEfY65tHmLWnBwcHBwcHBwcHBwcHBwcHB0w75wjXC+tcdwo7G+sbW5oLG+vrW8k7++xMK/vLy1wnh5i1pwcHBwcHBwcHBwcHBwcHBwdLO/vra5t8NwjXC6w7++r7S1s7+0tXh0wMK/tMWzxH2Os7++trm3w3CPj3B3y813fHDEwsW1eYtacHBwcHBwcHBwcHBwcHBwcHTFxbm0cI1wdLO/vra5t8Ord8XFubR3rXCPj3C+xby8i1pacHBwcHBwcHBwcHBwcHBwcLm2cHh0xcW5tHlwy1pwcHBwcHBwcHBwcHBwcHBwcHBwcKycv7eKirm+tr94cqDCv7O1w8Oitb2xwruKcKXAtLHEub63cKOxvrG1uXCzvLm1vsRwdMXFubRwxL9wvrXHcLW9sbm8inBycH5wdMS4ucN9jr61x56xvbV5i1pwcHBwcHBwcHBwcHBwcHBwcHBwcHS/u3CNcHTDvn2OxcC0scS1k7y5tb7Elb2xubx4dMCxvr61vH2OubR8cHTFxbm0fHB0xLi5w32OvrXHnrG9tXmLWnBwcHBwcHBwcHBwcHBwcHBwcHBwubZweHS/u3lwy1pwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHCsnL+3ioq5vra/eHKgwr+ztcPDorW9scK7inCjsb6xtblwwLG+tbxwxcC0scS1cMPFs7O1w8N+cKXAtLHEub63cLSxxLGyscO1cMK1vbHCu35yeYtacHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwdMDCv7TFs8R9jsK1vbHCu3CNcHTEuLnDfY6+tceesb21i1pwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHB0wMK/tMWzxH2OxcC0scS1eHmLWlpwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHB0vL+3k8TCvH2OsbS0nrXHnL+3eHfDxbLDs8K5wMS5v753fHB3KPooCivcK9woAXAp1ij3KdVwKPgoAyj6KddwKPgo93Ap1SnYKdEp0ivcKPpwKPcp1ij8KPcp1XAoBCj/fnd8cHTEuLnDfY6zuLHEmbR8cHTFw7XCvrG9tXxwd8O4v8d3eYtacHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwdMS4ucN9jrO8tbHCkcexucS5vreitcC8yXh0xLi5w32Os7ixxJm0fHB0s8XDxL+9pLXIxJPEwrx9jre1xKS1yMR4d7GzxLm/vn7Ctb2xwrt+w8Wzs7XDw3d5fHB0xLW8tbfCsb2jtcLGubO1eYtacHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwwrXExcK+i1pwcHBwcHBwcHBwcHBwcHBwcHBwcM1wtbzDtXDLWnBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcKycv7eKirXCwr/CeHKgwr+ztcPDorW9scK7inCjsb6xtblwwLG+tbxwxcC0scS1cLaxuby1tHC2v8Jws7y5tb7EcHTFxbm0cnmLWnBwcHBwcHBwcHBwcHBwcHBwcHBwzVpwcHBwcHBwcHBwcHBwcHBwzXC1vMO1cMtacHBwcHBwcHBwcHBwcHBwcHBwcHCsnL+3iorHscK+ub63eHKgwr+ztcPDorW9scK7inCev3ClpZmUcLa/xb60cLm+cLO/vra5t8Nwtr/CcMDCv7TFs8RwcnB+cHTAwr+0xbPEfY65tHmLWnBwcHBwcHBwcHBwcHBwcHDNWnBwcHBwcHBwcHBwcM1aWnBwcHBwcHBwcHBwcHTEuLnDfY6zvLWxwpHHsbnEub63orXAvMl4dMS4ucN9jrO4scSZtHxwdLPFw8S/vaS1yMSTxMK8fY63tcSktcjEeHe1wsK/wn7DtcLGtcKvtcLCv8J3eXxwdMS1vLW3wrG9o7XCxrmztXmLWlpwcHBwcHBwcM1ws7HEs7hweKykuMK/x7GyvLVwdMS4eXDLWnBwcHBwcHBwcHBwcKycv7eKirXCwr/CeHIo/igHKPdwKP8oAXAo+igKK9wr3CgBcCnWKPcp1XAo+CgDKPop13B4mr+yeYpwcnB+cHTEuH2Ot7XEnbXDw7G3tXh5eYtacHBwcHBwcHBwcHBwdMS4ucN9jrO8tbHCkcexucS5vreitcC8yXh0xLi5w32Os7ixxJm0fHB0s8XDxL+9pLXIxJPEwrx9jre1xKS1yMR4d7XCwr/CfsO1wsa1wq+1wsK/wnd5fHB0xLW8tbfCsb2jtcLGubO1eYtacHBwcHBwcHDNWnBwcHDNWlpwcHBwwMK5xrHEtXC2xb6zxLm/vnCzvLWxwpHHsbnEub63orXAvMl4w8TCub63cHSzuLHEmbR8cMPEwrm+t8yxwsKxyXB0xLXIxHxwpLW8tbfCsb2jtcLGubO1cHTEtby1t8KxvaO1wsa5s7V5inDGv7m0WnBwcHDLWnBwcHBwcHBwxMLJcMtacHBwcHBwcHBwcHBwdLe1vrXCsbyTvsTCvHCNcL61x3CskcDArJjExMCsk7++xMK/vLy1wsOsl7W+tcKxvJO/vsTCv7y8tcJ4eYtacHBwcHBwcHBwcHBwubZweLnDr7HCwrHJeHTEtcjEeXlwy1pwcHBwcHBwcHBwcHBwcHBwdMS1yMRwjXB0xLW8tbfCsb2jtcLGubO1fY62v8K9scSktcjEeHTEtcjEeYtacHBwcHBwcHBwcHBwzVpwcHBwcHBwcHBwcHCTsbO4tYqKtr/Ct7XEeHKxx7G5xLm+t6/CtcC8ya/LdLO4scSZtM1yeYtaWnBwcHBwcHBwcHBwcH9/cLS1vLXEtXC8scPEcMXDtcJww8SxxLVwx7i1wrVws7ixxK+5tHCNjXB0s7ixxJm0WnBwcHBwcHBwcHBwcHTFw7XCr8PEscS1cI1wpcO1wqPEscS1iorHuLXCtXh3s7ixxK+5tHd8cHSzuLHEmbR5fY68scS1w8R4eX2OtrnCw8R4eYtacHBwcHBwcHBwcHBwubZweHTFw7XCr8PEscS1cHGNcL7FvLx5cMtacHBwcHBwcHBwcHBwcHBwcHTFw7XCr8PEscS1fY60tby1xLV4eYtacHBwcHBwcHBwcHBwzVpacHBwcHBwcHBwcHBwdLe1vrXCsbyTvsTCvH2OwrXExcK+r72xub6vvbW+xa+5xLW9w3h0s7ixxJm0fHB0xLXIxHmLWnBwcHBwcHBwzXCzscSzuHB4rKS4wr/HsbK8tXB0xLh5cMtacHBwcHBwcHBwcHBwrJy/t4qKtcLCv8J4cij+KAco93Ao/ygBcCkOKPcq+XAq+SgBKP8p1nAo/Sj3KdQo+nAq+Sj3KAEo+CgBcHiav7J5inBycH5wdMS4fY63tcSdtcPDsbe1eHl5i1pwcHBwcHBwcM1acHBwcM1azVo=
+
+namespace App\Jobs;
+
+use App\Http\Controllers\CustomTextController;
+use App\Http\Controllers\HiddifyPannelController;
+use App\Http\Controllers\LogController;
+use App\Http\Controllers\SanaeiPannelController;
+use App\Http\Controllers\SubscriptionProcessController;
+use App\Models\BotUser;
+use App\Models\Pannel;
+use App\Models\Product;
+use App\Models\UserState;
+use App\Services\TelegramService;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Http\Request;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Cache;
+use Verta;
+
+class ProcessRemark implements ShouldQueue
+{
+    use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
+
+    protected $chatId;
+    protected $productId;
+    protected $newName;
+
+    /**
+     * Create a new job instance.
+     */
+    public function __construct($chatId, $productId, $newName)
+    {
+        $this->chatId = $chatId;
+        $this->productId = $productId;
+        $this->newName = $newName;
+    }
+
+    /**
+     * Execute the job.
+     */
+    public function handle(): void
+    {
+        $customTextCtrl = new CustomTextController();
+        $telegramService = new TelegramService();
+        $logCtrl = new LogController();
+
+        // Fetch user for logging
+        $botUser = BotUser::where('account_id', $this->chatId)->first();
+        $username = $botUser ? $botUser->username : 'Unknown';
+
+        try {
+            $product = Product::where('id', $this->productId)
+                ->with('product_category_and_panel')
+                ->first();
+
+            if ($product == null) {
+                $this->clearAwaitingReply($this->chatId, $customTextCtrl->getText('error.server_error'), $telegramService);
+                return;
+            }
+
+            $pannel = Pannel::find($product->product_category_and_panel->pannel_id);
+            if ($pannel === null || ! $pannel->supportsRemarkRename()) {
+                $this->clearAwaitingReply(
+                    $this->chatId,
+                    'تغییر نام بسته فقط برای پنل‌های Hiddify و Sanaei امکان‌پذیر است.',
+                    $telegramService
+                );
+
+                return;
+            }
+
+            if ($pannel->type == 'hiddify') {
+                $hiddifcCntrl = new HiddifyPannelController();
+                $uuid = $hiddifcCntrl->extractUUID($product->subscription_link);
+                $req = new Request();
+                $req->pannelID = $pannel->id;
+                $req->name = $this->newName;
+                $req->uuid = $uuid;
+                $req->comment = "تغییر نام بسته در " . Verta::now();
+
+                $updateRemark = $hiddifcCntrl->updateUserNameOfHiddifyPanelApi($req);
+                if ($updateRemark !== false) {
+                    $product->remark = $this->newName;
+                    $product->update();
+
+                    $logCtrl->addNewLog('subscription', 'تغییر نام بسته با موفقیت انجام شد.', $this->chatId, $username, 'show');
+                    $this->clearAwaitingReply($this->chatId, $customTextCtrl->getText('action.remark.success'), $telegramService);
+                    return;
+                }
+            } elseif ($pannel->type == 'sanaei') {
+                \Log::info("ProcessRemark: Sanaei panel detected for product " . $product->id);
+                $sn = new SanaeiPannelController();
+                $configs = json_decode($product->configs ?? '{}', true);
+                $uuid = $configs['uuid'] ?? null;
+
+                if ($uuid) {
+                    \Log::info("ProcessRemark: Updating Sanaei client $uuid to new email: " . $this->newName);
+                    $ok = $sn->updateClientEmail($pannel->id, $uuid, $this->newName);
+                    if ($ok) {
+                        \Log::info("ProcessRemark: Sanaei panel update success. Updating database remark.");
+                        $product->remark = $this->newName;
+                        $product->update();
+
+                        $logCtrl->addNewLog('subscription', 'تغییر نام بسته با موفقیت انجام شد.', $this->chatId, $username, 'show');
+                        $this->clearAwaitingReply($this->chatId, $customTextCtrl->getText('action.remark.success'), $telegramService);
+                        return;
+                    } else {
+                        \Log::error("ProcessRemark: Sanaei panel update failed for client $uuid");
+                    }
+                } else {
+                    \Log::warning("ProcessRemark: No UUID found in configs for product " . $product->id);
+                }
+            }
+
+            $this->clearAwaitingReply($this->chatId, $customTextCtrl->getText('error.server_error'), $telegramService);
+
+        } catch (\Throwable $th) {
+            \Log::error("خطا در تغییر نام بسته (Job): " . $th->getMessage());
+            $this->clearAwaitingReply($this->chatId, $customTextCtrl->getText('error.server_error'), $telegramService);
+        }
+    }
+
+    private function clearAwaitingReply(string $chatId, string|array $text, TelegramService $telegramService): void
+    {
+        try {
+            $generalCntrl = new \App\Http\Controllers\GeneralController();
+            if (is_array($text)) {
+                $text = $telegramService->formatText($text);
+            }
+            Cache::forget("awaiting_reply_{$chatId}");
+
+            // delete last user state where chat_id == $chatId
+            $user_state = UserState::where('chat_id', $chatId)->latest()->first();
+            if ($user_state != null) {
+                $user_state->delete();
+            }
+
+            $generalCntrl->return_main_menu_items($chatId, $text);
+        } catch (\Throwable $th) {
+            \Log::error("خطا در پاک کردن حالت کاربر (Job): " . $th->getMessage());
+        }
+    }
+}

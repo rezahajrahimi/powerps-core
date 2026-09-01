@@ -1,3 +1,526 @@
 <?php
-bolt_decrypt( __FILE__ , 'KTuqug'); return 0;
-##!!!##a2vPws7G1NHCxMaBotHRvanV1dG9pNDP1dPQzc3G09Sca9bUxoGi0dG9rtDFxs3UvbHT0MXWxNWkwtXGyNDT2pxr1tTGgaLR0b2u0MXGzdS9sdPQxdbE1Zxr1tTGgaLR0b20xtPXysTG1L2tysTGz9TGp8bC1dbTxrTG09fKxMaca2vW1MaBqs3N1s7Kz8LVxr2p1dXRvbPG0tbG1NWca9bUxoGqzc3WzsrPwtXGvbTW0dHQ09W9p8LEwsXG1L20xMnGzsKca2vEzcLU1IGx09DF1sTVpMLVxsjQ09qk0M/V09DNzcbTgcbZ1cbPxdSBpNDP1dPQzc3G02vca4GBgYHR08rXwtXGgcfWz8TVytDPgc/Q087CzcrbxqrPw9DWz8WqxdSJs8bS1sbU1YGF08bS1sbU1YqbgaDC09PC2muBgYGB3GuBgYGBgYGBgcrHgYmF08bS1sbU1Y6fycLUiYjKz8PQ1s/FwMrF1IiKioHca4GBgYGBgYGBgYGBgYXTwtiBnoGF08bS1sbU1Y6fys/R1tWJiMrPw9DWz8XAysXUiIqca4GBgYGBgYGBgYGBgcrHgYmF08LYgZ6enoHP1s3Ngd3dgYXTwtiBnp6egYiIgd3dgYXTwtiBnp6egby+ioHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYGBgYGB3mtrgYGBgYGBgYGBgYGByseBicrUwNTV08rPyImF08LYioqB3GuBgYGBgYGBgYGBgYGBgYGBhcXGxNDFxsWBnoHL1NDPwMXGxNDFxomF08LYjYHV09bGipxrgYGBgYGBgYGBgYGBgYGBgcrHgYnL1NDPwM3C1NXAxtPT0NOJioGenp6Bq7Swr8Cms7Ows8CvsK+mioHca4GBgYGBgYGBgYGBgYGBgYGBgYGBhdPC2IGegYXFxsTQxcbFnGuBgYGBgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgYGBgYGF0cLT1dSBnoHR08bIwNTRzcrViYiQvI2cgb6MkIiNgdXTys6JhdPC2IqKnGuBgYGBgYGBgYGBgYGBgYGBgYGBgYXTwtiBnoHC09PC2sDHys3VxtOJhdHC09XUgaCggby+jYHHz4GJhdHC09WKgZ6fgYXRwtPVgYKenoGIiIqca4GBgYGBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgd5ra4GBgYGBgYGBgYGBgcrHgYmCgcrUwMLT08LaiYXTwtiKioHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYGBgYGB3mtrgYGBgYGBgYGBgYGBhcrF1IGegby+nGuBgYGBgYGBgYGBgYHH0NPGwsTJgYmF08LYgcLUgYXXws3WxoqB3GuBgYGBgYGBgYGBgYGBgYGByseBiYXXws3WxoGenp6Bz9bNzYHd3YGF18LN1saBnp6egYiIioHca4GBgYGBgYGBgYGBgYGBgYGBgYGBxNDP1crP1saca4GBgYGBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgYGBgYGFysXUvL6BnoGJys/VioGF18LN1saca4GBgYGBgYGBgYGBgd5ra4GBgYGBgYGBgYGBgYXKxdSBnoHC09PC2sDXws3WxtSJwtPTwtrA1s/K0tbGiYXKxdSKipxra4GBgYGBgYGBgYGBgdPG1dbTz4GFysXUgZ6enoG8voGggc/Wzc2Bm4GFysXUnGuBgYGBgYGBgd5ra4GBgYGBgYGByseBiYXTxtLWxtTVjp/Hys3NxsWJiMrPw9DWz8XAysWIioqB3GuBgYGBgYGBgYGBgYHTxtXW08+BvInKz9WKgYXTxtLWxtTVjp/Kz8PQ1s/FwMrFvpxrgYGBgYGBgYHea2uBgYGBgYGBgdPG1dbTz4HP1s3NnGuBgYGB3mtrgYGBgdHTytfC1caBx9bPxNXK0M+BwtHRzdqqz8PQ1s/Fp8rGzcXUibHT0MXWxNWkwtXGyNDT2oGFxcLVwo2Bs8bS1sbU1YGF08bS1sbU1YqbgdfQysVrgYGBgdxrgYGBgYGBgYGFys/D0NbPxarF1IGegYXVycrUjp/P0NPOws3K28aqz8PQ1s/FqsXUiYXTxtLWxtTVipxrgYGBgYGBgYGFxcLVwo6fys/D0NbPxcDKxYGegYXKz8PQ1s/FqsXUvJG+gaCggc/Wzc2ca2uBgYGBgYGBgcrHgYm0xMnGzsKbm8nC1KTQzdbOz4mI0dPQxdbE1cDEwtXGyNDTysbUiI2BiMrPw9DWz8XAysXUiIqKgdxrgYGBgYGBgYGBgYGBhcXC1cKOn8rPw9DWz8XAysXUgZ6BhcrPw9DWz8WqxdSca4GBgYGBgYGB3mtrgYGBgYGBgYHKx4GJhcrPw9DWz8WqxdSBgp6egc/Wzc2Bh4eBxNDWz9WJhcrPw9DWz8WqxdSKgZ+BkoqB3GuBgYGBgYGBgYGBgYGFxcLVwo6f1MLO0c3GwMrPw9DWz8WBnoGF1cnK1I6fzsbTyMaqz8PQ1s/FqsXUqs/V0LTCztHNxqrPw9DWz8WJa4GBgYGBgYGBgYGBgYGBgYGFxcLVwo6f1MLO0c3GwMrPw9DWz8WNa4GBgYGBgYGBgYGBgYGBgYGFys/D0NbPxarF1GuBgYGBgYGBgYGBgYGKnGuBgYGBgYGBgd5rgYGBgd5ra4GBgYGQi4trgYGBgYGLgaHRwtPCzoGBys/VvL6BgYXKz8PQ1s/FqsXUa4GBgYGBi5BrgYGBgdHTytfC1caBx9bPxNXK0M+BzsbTyMaqz8PQ1s/FqsXUqs/V0LTCztHNxqrPw9DWz8WJzsrZxsWBhdTCztHNxqrPw9DWz8WNgcLT08LagYXKz8PQ1s/FqsXUipuB1NXTys/Ia4GBgYHca4GBgYGBgYGBhc7G1cKtys/GgZ6BiMDAqq+jsLavpcCqpbTAwJuIgY+By9TQz8DGz8TQxcaJwtPTwtrA18LN1sbUiYXKz8PQ1s/FqsXUioqca4GBgYGBgYGBhdTCztHNxoGegcrUwNTV08rPyImF1MLO0c3Gqs/D0NbPxYqBoIGF1MLO0c3Gqs/D0NbPxYGbgYiInGtrgYGBgYGBgYHKx4GJhdTCztHNxoGenp6BiIiKgdxrgYGBgYGBgYGBgYGB08bV1tPPgYXOxtXCrcrPxpxrgYGBgYGBgYHea2uBgYGBgYGBgcrHgYnU1dPA1NXC09XUwNjK1cmJhdTCztHNxo2BiMDAqq+jsLavpcCqpbTAwJuIioqB3GuBgYGBgYGBgYGBgYGF0cLT1dSBnoHG2dHN0MXGiYO9z4ONgYXUws7RzcaNgZOKnGtrgYGBgYGBgYGBgYGB08bV1tPPgYXOxtXCrcrPxoGPgYnK1NTG1YmF0cLT1dS8kr6KgaCBg73Pg4GPgYXRwtPV1LySvoGbgYiIipxrgYGBgYGBgYHea2uBgYGBgYGBgdPG1dbTz4GFzsbVwq3Kz8aBj4GDvc+DgY+BhdTCztHNxpxrgYGBgd5ra4GBgYHR08rXwtXGgcfWz8TVytDPgc/Q087Czcrbxq7C09vDws+qz8PQ1s/F1ImzxtLWxtTVgYXTxtLWxtTVipuBoMLT08Laa4GBgYHca4GBgYGBgYGByseBiYKBhdPG0tbG1NWOn8nC1ImIzsLT28PCz8DKz8PQ1s/F1IiKioHca4GBgYGBgYGBgYGBgdPG1dbTz4HP1s3NnGuBgYGBgYGBgd5ra4GBgYGBgYGBhdPC2IGegYXTxtLWxtTVjp/Kz9HW1YmIzsLT28PCz8DKz8PQ1s/F1IiKnGuBgYGBgYGBgcrHgYmF08LYgZ6enoHP1s3Ngd3dgYXTwtiBnp6egYiIgd3dgYXTwtiBnp6egby+ioHca4GBgYGBgYGBgYGBgdPG1dbTz4HP1s3NnGuBgYGBgYGBgd5ra4GBgYGBgYGByseBicrUwNTV08rPyImF08LYioqB3GuBgYGBgYGBgYGBgYGFxcbE0MXGxYGegcvU0M/AxcbE0MXGiYXTwtiNgdXT1saKnGuBgYGBgYGBgYGBgYHKx4GJy9TQz8DNwtTVwMbT09DTiYqBnp6egau0sK/AprOzsLPAr7CvpoqB3GuBgYGBgYGBgYGBgYGBgYGBhdPC2IGegYXFxsTQxcbFnGuBgYGBgYGBgYGBgYHegcbN1MaB3GuBgYGBgYGBgYGBgYGBgYGB08bV1tPPgc/Wzc2ca4GBgYGBgYGBgYGBgd5rgYGBgYGBgYHea2uBgYGBgYGBgcrHgYmCgcrUwMLT08LaiYXTwtiKioHca4GBgYGBgYGBgYGBgdPG1dbTz4HP1s3NnGuBgYGBgYGBgd5ra4GBgYGBgYGBhdPG1NbN1YGegby+nGuBgYGBgYGBgcfQ08bCxMmBiYXTwtiBwtSBhdHT0NXQxNDNgZ6fgYXVwsjUioHca4GBgYGBgYGBgYGBgYXR09DV0MTQzazG2oGegdTV09XQzdDYxtOJidTV08rPyIqBhdHT0NXQxNDNipxrgYGBgYGBgYGBgYGByseBiYXR09DV0MTQzazG2oGenp6BiIiB3d2BgoHK1MDC09PC2omF1cLI1IqKgdxrgYGBgYGBgYGBgYGBgYGBgcTQz9XKz9bGnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgYXP0NPOws3K28bFtcLI1IGegby+nGuBgYGBgYGBgYGBgYHH0NPGwsTJgYmF1cLI1IHC1IGF1cLIioHca4GBgYGBgYGBgYGBgYGBgYGF1cLIgZ6B1dPKzomJ1NXTys/IioGF1cLIipxrgYGBgYGBgYGBgYGBgYGBgcrHgYmF1cLIgYKenoGIiIqB3GuBgYGBgYGBgYGBgYGBgYGBgYGBgYXP0NPOws3K28bFtcLI1Ly+gZ6BhdXCyJxrgYGBgYGBgYGBgYGBgYGBgd5rgYGBgYGBgYGBgYGB3muBgYGBgYGBgYGBgYHKx4GJhc/Q087CzcrbxsW1wsjUgYKenoG8voqB3GuBgYGBgYGBgYGBgYGBgYGBhdPG1NbN1byF0dPQ1dDE0M2sxtq+gZ6BwtPTwtrA18LN1sbUicLT08LawNbPytLWxomFz9DTzsLNytvGxbXCyNSKipxrgYGBgYGBgYGBgYGB3muBgYGBgYGBgd5ra4GBgYGBgYGB08bV1tPPgYXTxtTWzdWBnp6egby+gaCBz9bNzYGbgYXTxtTWzdWca4GBgYHea2uBgYGB0dPK18LVxoHH1s/E1crQz4HC0dHN2q7C09vDws+qz8PQ1s/Fp8rGzcXUibHT0MXWxNWkwtXGyNDT2oGFxcLVwo2Bs8bS1sbU1YGF08bS1sbU1YqbgdfQysVrgYGBgdxrgYGBgYGBgYGFzsLT28PCz6rPw9DWz8XUgZ6BhdXJytSOn8/Q087Czcrbxq7C09vDws+qz8PQ1s/F1ImF08bS1sbU1Yqca4GBgYGBgYGByseBiYXOwtPbw8LPqs/D0NbPxdSBgp6egc/Wzc2B3d2BhdPG0tbG1NWOn8nC1ImIzsLT28PCz8DKz8PQ1s/F1IiKioHca4GBgYGBgYGBgYGBgcrHgYm0xMnGzsKbm8nC1KTQzdbOz4mI0dPQxdbE1cDEwtXGyNDTysbUiI2BiM7C09vDws/Ays/D0NbPxdSIioqB3GuBgYGBgYGBgYGBgYGBgYGBhcXC1cKOn87C09vDws/Ays/D0NbPxdSBnoGFzsLT28PCz6rPw9DWz8XUnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGB3muBgYGB3mtrgYGBgdHTytfC1caBx9bPxNXK0M+Bz9DTzsLNytvGscLUwtPI1sLTxajT0NbRqsXUibPG0tbG1NWBhdPG0tbG1NWKm4GgwtPTwtprgYGBgdxrgYGBgYGBgYHKx4GJgoGF08bS1sbU1Y6fycLUiYjRwtTC08jWwtPFwMjT0NbRwMrF1IiKioHca4GBgYGBgYGBgYGBgdPG1dbTz4HP1s3NnGuBgYGBgYGBgd5ra4GBgYGBgYGBhdPC2IGegYXTxtLWxtTVjp/Kz9HW1YmI0cLUwtPI1sLTxcDI09DW0cDKxdSIipxrgYGBgYGBgYHKx4GJhdPC2IGenp6Bz9bNzYHd3YGF08LYgZ6enoGIiIHd3YGF08LYgZ6enoG8voqB3GuBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYHea2uBgYGBgYGBgcrHgYnK1MDU1dPKz8iJhdPC2IqKgdxrgYGBgYGBgYGBgYGBhcXGxNDFxsWBnoHL1NDPwMXGxNDFxomF08LYjYHV09bGipxrgYGBgYGBgYGBgYGByseBicvU0M/AzcLU1cDG09PQ04mKgZ6enoGrtLCvwKazs7CzwK+wr6aKgdxrgYGBgYGBgYGBgYGBgYGBgYXTwtiBnoGFxcbE0MXGxZxrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgYXRwtPV1IGegdHTxsjA1NHNytWJiJC8jZyBvoyQiI2B1dPKzomF08LYioqca4GBgYGBgYGBgYGBgYGBgYGF08LYgZ6BwtPTwtrAx8rN1cbTiYXRwtPV1IGgoIG8vo2Bx8+BiYXRwtPVioGen4GF0cLT1YGCnp6BiIiKnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGB3mtrgYGBgYGBgYHKx4GJgoHK1MDC09PC2omF08LYioqB3GuBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYHea2uBgYGBgYGBgYXKxdSBnoG8vpxrgYGBgYGBgYHH0NPGwsTJgYmF08LYgcLUgYXXws3WxoqB3GuBgYGBgYGBgYGBgYHKx4GJhdfCzdbGgZ6enoHP1s3Ngd3dgYXXws3WxoGenp6BiIiKgdxrgYGBgYGBgYGBgYGBgYGBgcTQz9XKz9bGnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgYXKxdS8voGegYnKz9WKgYXXws3WxpxrgYGBgYGBgYHea2uBgYGBgYGBgYXKxdSBnoHC09PC2sDXws3WxtSJwtPTwtrA1s/K0tbGiYXKxdSKipxra4GBgYGBgYGB08bV1tPPgYXKxdSBnp6egby+gaCBz9bNzYGbgYXKxdSca4GBgYHea2uBgYGB0dPK18LVxoHH1s/E1crQz4HC0dHN2rHC1MLTyNbC08Wo09DW0afKxs3F1Imx09DF1sTVpMLVxsjQ09qBhcXC1cKNgbPG0tbG1NWBhdPG0tbG1NWKm4HX0MrFa4GBgYHca4GBgYGBgYGBhcjT0NbRqsXUgZ6BhdXJytSOn8/Q087CzcrbxrHC1MLTyNbC08Wo09DW0arF1ImF08bS1sbU1Yqca4GBgYGBgYGByseBiYXI09DW0arF1IGCnp6Bz9bNzYHd3YGF08bS1sbU1Y6fycLUiYjRwtTC08jWwtPFwMjT0NbRwMrF1IiKioHca4GBgYGBgYGBgYGBgcrHgYm0xMnGzsKbm8nC1KTQzdbOz4mI0dPQxdbE1cDEwtXGyNDTysbUiI2BiNHC1MLTyNbC08XAyNPQ1tHAysXUiIqKgdxrgYGBgYGBgYGBgYGBgYGBgYXFwtXCjp/RwtTC08jWwtPFwMjT0NbRwMrF1IGegYXI09DW0arF1JxrgYGBgYGBgYGBgYGB3muBgYGBgYGBgd5rgYGBgd5ra4GBgYHR08rXwtXGgcfWz8TVytDPgc/Q087CzcrbxqLNzdDYxsW21MbTqNPQ1tGqxdSJs8bS1sbU1YGF08bS1sbU1YqbgaDC09PC2muBgYGB3GuBgYGBgYGBgcrHgYmCgYXTxtLWxtTVjp/JwtSJiMLNzdDYxsXA1tTG08DI09DW0cDKxdSIioqB3GuBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYHea2uBgYGBgYGBgYXTwtiBnoGF08bS1sbU1Y6fys/R1tWJiMLNzdDYxsXA1tTG08DI09DW0cDKxdSIipxrgYGBgYGBgYHKx4GJhdPC2IGenp6Bz9bNzYHd3YGF08LYgZ6enoGIiIHd3YGF08LYgZ6enoG8voqB3GuBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYHea2uBgYGBgYGBgcrHgYnK1MDU1dPKz8iJhdPC2IqKgdxrgYGBgYGBgYGBgYGBhcXGxNDFxsWBnoHL1NDPwMXGxNDFxomF08LYjYHV09bGipxrgYGBgYGBgYGBgYGByseBicvU0M/AzcLU1cDG09PQ04mKgZ6enoGrtLCvwKazs7CzwK+wr6aKgdxrgYGBgYGBgYGBgYGBgYGBgYXTwtiBnoGFxcbE0MXGxZxrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgYXRwtPV1IGegdHTxsjA1NHNytWJiJC8jZyBvoyQiI2B1dPKzomF08LYioqca4GBgYGBgYGBgYGBgYGBgYGF08LYgZ6BwtPTwtrAx8rN1cbTiYXRwtPV1IGgoIG8vo2Bx8+BiYXRwtPVioGen4GF0cLT1YGCnp6BiIiKnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGB3mtrgYGBgYGBgYHKx4GJgoHK1MDC09PC2omF08LYioqB3GuBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYHea2uBgYGBgYGBgYXKxdSBnoG8vpxrgYGBgYGBgYHH0NPGwsTJgYmF08LYgcLUgYXXws3WxoqB3GuBgYGBgYGBgYGBgYHKx4GJhdfCzdbGgZ6enoHP1s3Ngd3dgYXXws3WxoGenp6BiIiKgdxrgYGBgYGBgYGBgYGBgYGBgcTQz9XKz9bGnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgYXKxdS8voGegYnKz9WKgYXXws3WxpxrgYGBgYGBgYHea2uBgYGBgYGBgYXKxdSBnoHC09PC2sDXws3WxtSJwtPTwtrA1s/K0tbGiYXKxdSKipxra4GBgYGBgYGB08bV1tPPgYXKxdSBnp6egby+gaCBz9bNzYGbgYXKxdSca4GBgYHea2uBgYGB0dbDzcrEgcfWz8TVytDPgcjG1aLNzbHT0MXE1aTC1cbI0NPaiYprgYGBgdxrgYGBgYGBgYHTxtXW08+BsdPQxdbE1aTC1cbI0NPam5vYytXJiYjRws/Pxs2Iio6f0NPFxtOj2omIxNPGwtXGxcDC1YiKjp/IxtWJipxrgYGBgd5rgYGBgdHWw83KxIHH1s/E1crQz4HIxtWx09DFxNWkwtXGyNDT2q/Czsaj2qqliYXKxYprgYGBgdxrgYGBgYGBgYHTxtXW08+BsdPQxdbE1aTC1cbI0NPam5vYycbTxomIysWIjYGFysWKjp/HytPU1YmKnGuBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcXGzcbVxrHT0MXWxNWkwtXGyNDT2qPaqqWJhcrFimuBgYGB3GuBgYGBgYGBgZCQgcXGzcbVxoHR09DF1sTVpMLVxsjQ09qBw9qBysWB2MrVyYHEwtTEwsXGgcrHgcnC18aBz9DVgcLP2oHR09DF1sTVgdPGzcLVytDPa2uBgYGBgYGBgYXFwtXCgZ6BsdPQxdbE1aTC1cbI0NPam5vYycbTxomIysWIjYGFysWKjp/HytPU1YmKnGuBgYGBgYGBgcrHgYmFxcLVwoGCnoHP1s3NioHca4GBgYGBgYGBgYGBgcrHgYmFxcLVwo6fxcbNxtXGiYqBgp6Bz9bNzYqB3GuBgYGBgYGBgYGBgYGBgYGB08bV1tPPgYXVycrUjp/IxtWizc2x09DFxNWkwtXGyNDT2omKnGuBgYGBgYGBgYGBgYHegcbN1MaB3GuBgYGBgYGBgYGBgYGBgYGB08bV1tPPgdPG1NHQz9TGiYqOn8vU0M+Jx8LN1MaNgZWRlYqca4GBgYGBgYGBgYGBgd5rgYGBgYGBgYHea4GBgYGBgYGB08bV1tPPgdPG1NHQz9TGiYqOn8vU0M+Jx8LN1MaNgZWRlYqca4GBgYHea4GBgYHR1sPNysSBx9bPxNXK0M+ByMbVsdPQxcTVpMLVxsjQ09qj2qTC1cbI0NPar8LOxomFxMLVxsjQ09qvws7GimuBgYGB3GuBgYGBgYGBgdPG1dbTz4Gx09DF1sTVpMLVxsjQ09qbm9jJxtPGiYjEwtXGyNDT2sDPws7GiI2BhcTC1cbI0NPar8LOxoqOn8fK09TViYqca4GBgYHea4GBgYHR1sPNysSBx9bPxNXK0M+ByMbVos3NsdPQxcTVpMLVxsjQ09qw08XG06PasdPKxMaJimuBgYGB3GuBgYGBgYGBgdPG1dbTz4Gx09DF1sTVpMLVxsjQ09qbm9DTxcbTo9qJiNHTysTGiIqOn8jG1YmKnGuBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcjG1aLNzaLE1crXxrHT0MXE1aTC1cbI0NPasNPFxtOj2rHTysTGiaDKz9WBhdbUxtOo09DW0arFgZ6Bz9bNzY2Bw9DQzYGFx8rN1cbTo9q21MbTqNPQ1tGBnoHHws3UxoprgYGBgdxrgYGBgYGBgYGF0cLPxs2kz9XTzYGegc/G2IGxws/Pxs2k0M/V09DNzcbTiYqca4GBgYGBgYGBhdHCz8bN1IGegYXRws/GzaTP1dPNjp/IxtXAws3NwNHCz8bNzdTAqsXAw9rAzdDEwtXK0M/AxMLRwsTK1drAztDFxomKnGuBgYGBgYGBgYXEwtXGyNDTysbUgZ6BsdPQxdbE1aTC1cbI0NPam5vQ08XG06PaiYjR08rExoiKjp/YycbTxomIytTAwsTVytfGiI2B1dPWxoprgYGBgYGBgYGBgYGBjp/YycbTxomIxMLVxsjQ09rAz8LOxoiNgYiCnoiNgYg5CDsKOQg65zkLgTkDORM65jkIPO05FTztiIprgYGBgYGBgYGBgYGBjp/YycbTxqrPiYjRws/Pxs3AysWIjYGF0cLPxs3UimuBgYGBgYGBgYGBgYGOn8jG1YmKnGtrgYGBgYGBgYHKx4GJgoGFx8rN1cbTo9q21MbTqNPQ1tGKgdxrgYGBgYGBgYGBgYGB08bV1tPPgYXEwtXGyNDTysbUnGuBgYGBgYGBgd5ra4GBgYGBgYGB08bV1tPPgYXEwtXGyNDTysbUa4GBgYGBgYGBgYGBgY6fx8rN1cbTicfPgYmx09DF1sTVpMLVxsjQ09qBhcTC1cbI0NPaioGen4GFxMLVxsjQ09qOn8rUos3N0NjGxafQ07bUxtOo09DW0YmF1tTG06jT0NbRqsWKimuBgYGBgYGBgYGBgYGOn9fCzdbG1ImKnGuBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcjG1cDCzc3AwsTVytfGwNHT0MXE1cDEwtXGyNDT2sDD2sDRws/Pxs3AysXA0NPFxtPAw9rA0dPKxMaJhdHCz8/GzcDKxY2BoMrP1YGF1tTG06jT0NbRqsWBnoHP1s3NjYHD0NDNgYXHys3VxtOj2rbUxtOo09DW0YGegcfCzdTGimuBgYGB3GtrgYGBgYGBgYGFxMLVxsjQ08rG1IGegbHT0MXWxNWkwtXGyNDT2pub2MnG08aJiNHCz8/GzcDKxYiNgYXRws/Pxs3AysWKa4GBgYGBgYGBgYGBgY6f2MnG08aJiMTC1cbI0NPawM/CzsaIjYGIgp6IjYGIOQg7CjkIOuc5C4E5AzkTOuY5CDztORU87YiKa4GBgYGBgYGBgYGBgY6f0NPFxtOj2omI0dPKxMaIio6f2MnG08aJiMrUwMLE1crXxoiNgdXT1saKjp/IxtWJipxra4GBgYGBgYGByseBiYKBhcfKzdXG06PattTG06jT0NbRioHca4GBgYGBgYGBgYGBgdPG1dbTz4GFxMLVxsjQ08rG1JxrgYGBgYGBgYHea2uBgYGBgYGBgdPG1dbTz4GFxMLVxsjQ08rG1GuBgYGBgYGBgYGBgYGOn8fKzdXG04nHz4GJsdPQxdbE1aTC1cbI0NPagYXEwtXGyNDT2oqBnp+BhcTC1cbI0NPajp/K1KLNzdDYxsWn0NO21MbTqNPQ1tGJhdbUxtOo09DW0arFioprgYGBgYGBgYGBgYGBjp/Xws3WxtSJipxrgYGBgd5rgYGBgdHWw83KxIHH1s/E1crQz4HIxtWx09DFxNWxws/Pxs2qpYmFz8LOxo2BhdHCz8/GzcDKxYprgYGBgdxrgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWkwtXGyNDT2pub2MnG08aJiNHCz8/GzcDKxYiNgYXRws/Pxs3AysWKjp/YycbTxomIxMLVxsjQ09rAz8LOxoiNgYXPws7Gio6fx8rT1NWJipxrgYGBgYGBgYHKx4GJhcXC1cKBgp6Bz9bNzYqB3GuBgYGBgYGBgYGBgYHTxtXW08+BhcXC1cKOn8rFnGuBgYGBgYGBgd6Bxs3UxoHca4GBgYGBgYGBgYGBgdPG1dbTz4GOkpxrgYGBgYGBgYHea4GBgYHea4GBgYHR1sPNysSBx9bPxNXK0M+ByMbVsdPQxdbE1aTC1arFo7qm2dHK08alwtqxws/Pxs2qpbfQzdbOxomFxtnRytPGwMXC2o2BhdHCz8/GzcDKxY2BhdfQzdbOxoprgYGBgdxrgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWkwtXGyNDT2pub2MnG08aJiMbZ0crTxsDFwtqIjYGFxtnRytPGwMXC2oqOn9jJxtPGiYjRws/Pxs3AysWIjYGF0cLPz8bNwMrFio6f2MnG08aJiNfQzdbOxoiNgYXX0M3WzsaKjp/HytPU1YmKnGuBgYGBgYGBgcrHgYmFxcLVwoGenoHP1s3NioHca4GBgYGBgYGBgYGBgZCQgcTTxsLVxoHCgc/G2IHEwtXGyNDT2oHYytXJgdXJytSBxtnRytPGwMXC2oHCz8WB0cLPz8bNwMrFgcLPxYHX0M3WzsZrgYGBgYGBgYGBgYGBhcXC1cKBnoHPxtiBsdPQxdbE1aTC1cbI0NPaiYqca4GBgYGBgYGBgYGBgYXFwtXCjp/Rws/Pxs3AysWBnoGF0cLPz8bNwMrFnGuBgYGBgYGBgYGBgYGFxcLVwo6fxtnRytPGwMXC2oGegYXG2dHK08bAxcLanGuBgYGBgYGBgYGBgYGFxcLVwo6f19DN1s7GgZ6BhdfQzdbOxpxrgYGBgYGBgYGBgYGBhcXC1cKOn8TC1cbI0NPawM/CzsaBnoGIPO07CoE5EDkUOQs66IE5CTrnORA87YE5DTkQPO05EIGInGuBgYGBgYGBgYGBgYGFxcLVwo6f0dPKxMaBnoGRnGuBgYGBgYGBgYGBgYGFxcLVwo6f0dPKxMbAys/AxdDNzcLTgZ6BkZxrgYGBgYGBgYGBgYGBhcXC1cKOn8rUwMLE1crXxoGegdXT1saca4GBgYGBgYGBgYGBgYXFwtXCjp/TxsTJwtPIwsPNxoGegdXT1saca4GBgYGBgYGBgYGBgYXFwtXCjp/UydDYwNTWw9TE08rR1crQz8DNys/MgZ6B1dPWxpxrgYGBgYGBgYGBgYGBhcXC1cKOn9TJ0NjA0cLPz8bNwM3Kz8yBnoHV09bGnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MbPxcDE0M/HysjA1dDA1tTG04GegdXT1saca2uBgYGBgYGBgYGBgYGFxcLVwo6f1MLXxomKnGuBgYGBgYGBgYGBgYGFysWBnoGFxcLVwo6fysWca4GBgYGBgYGB3mtrgYGBgYGBgYHTxtXW08+BhcXC1cKOn8rFnGuBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcLFxa/G2LHT0MXWxNWkwtXGyNDT2omzxtLWxtTVgYXTxtLWxtTVimuBgYGB3GuBgYGBgYGBgdXT2oHca4GBgYGBgYGBgYGBgYXFwtXCgZ6Bz8bYgbHT0MXWxNWkwtXGyNDT2omKnGuBgYGBgYGBgYGBgYGFxcLVwo6f0cLPz8bNwMrFgZ6BhdPG0tbG1NWOn9HCz8/GzcDKxZxrgYGBgYGBgYGBgYGBhcXC1cKOn8TC1cbI0NPawM/CzsaBnoGF08bS1sbU1Y6fxMLVxsjQ09rAz8LOxpxrgYGBgYGBgYGBgYGBhcXC1cKOn9HTysTGgZ6BhdPG0tbG1NWOn9HTysTGnGuBgYGBgYGBgYGBgYGFxcLVwo6fxtnRytPGwMXC2oGegYXTxtLWxtTVjp/G2dHK08bAxcLanGuBgYGBgYGBgYGBgYGFxcLVwo6f19DN1s7GgZ6BhdPG0tbG1NWOn9fQzdbOxpxrgYGBgYGBgYGBgYGBhcXC1cKOn9PGxMnC08jCw83GgZ6BhdPG0tbG1NWOn9PGxMnC08jCw83GnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MnQ2MDU1sPUxNPK0dXK0M/AzcrPzIGegYXTxtLWxtTVjp/UydDYwNTWw9TE08rR1crQz8DNys/MnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MnQ2MDRws/Pxs3AzcrPzIGegYXTxtLWxtTVjp/UydDYwNHCz8/GzcDNys/MnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MbPxcDE0M/HysjA1dDA1tTG04GegYXTxtLWxtTVjp/D0NDNxsLPiYjUxs/FwMTQz8fKyMDV0MDW1MbTiI2B1dPWxoqca4GBgYGBgYGBgYGBgYXFwtXCjp/Uws7RzcbAys/D0NbPxYGegYXTxtLWxtTVjp/Uws7RzcbAys/D0NbPxZxrgYGBgYGBgYGBgYGBhdXJytSOn8LR0c3aqs/D0NbPxafKxs3F1ImFxcLVwo2BhdPG0tbG1NWKnGuBgYGBgYGBgYGBgYGF1cnK1I6fwtHRzdquwtPbw8LPqs/D0NbPxafKxs3F1ImFxcLVwo2BhdPG0tbG1NWKnGuBgYGBgYGBgYGBgYGF1cnK1I6fwtHRzdqxwtTC08jWwtPFqNPQ1tGnysbNxdSJhcXC1cKNgYXTxtLWxtTVipxrgYGBgYGBgYGBgYGBhcXC1cKOn8rRwM3KzsrVgZ6BhdPG0tbG1NWOn8rRwM3KzsrVgaCggZGca4GBgYGBgYGBgYGBgcrHgYmF08bS1sbU1Y6f0dPKxMbAys/AxdDNzcLTgYKegc/Wzc2Bh4eBhdPG0tbG1NWOn9HTysTGwMrPwMXQzc3C04GfnoGRj5GRioHca4GBgYGBgYGBgYGBgYGBgYGFxcLVwo6f0dPKxMbAys/AxdDNzcLTgZ6BhdPG0tbG1NWOn9HTysTGwMrPwMXQzc3C05xrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgYXFwtXCjp/R08rExsDKz8DF0M3NwtOBnoGRj5Gca4GBgYGBgYGBgYGBgd5rgYGBgYGBgYGBgYGBhcXC1cKOn8rUwMLE1crXxoGegdXT1saca4GBgYGBgYGBgYGBgYXCzc3Q2MbFqNPQ1tGqxdSBnoGF1cnK1I6fz9DTzsLNytvGos3N0NjGxbbUxtOo09DW0arF1ImF08bS1sbU1Yqca4GBgYGBgYGBgYGBgcrHgYmFws3N0NjGxajT0NbRqsXUgYKenoHP1s3Ngd3dgYXTxtLWxtTVjp/JwtSJiMLNzdDYxsXA1tTG08DI09DW0cDKxdSIioqB3GuBgYGBgYGBgYGBgYGBgYGBhcXC1cKOn8LNzdDYxsXA1tTG08DI09DW0cDKxdSBnoGFws3N0NjGxajT0NbRqsXUnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgcrHgYmF08bS1sbU1Y6fycLUiYjW0dTGzc3AxMLVxsjQ09rAysWIioqB3GuBgYGBgYGBgYGBgYGBgYGBhdbR1MbNzarFgZ6BhdPG0tbG1NWOn9bR1MbNzcDEwtXGyNDT2sDKxZxrgYGBgYGBgYGBgYGBgYGBgcrHgYmJz8bYga3KxMbP1ManxsLV1tPGtMbT18rExomKio6fytSo0M3FiYqKgdxrgYGBgYGBgYGBgYGBgYGBgYGBgYGFxcLVwo6f1tHUxs3NwMTC1cbI0NPawMrFgZ6BiYXW0dTGzc2qxYGenp6BiIiB3d2BhdbR1MbNzarFgZ6enoGIkYiB3d2BhdbR1MbNzarFgZ6enoGRimuBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGggc/Wzc1rgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBm4GJys/VioGF1tHUxs3NqsWca4GBgYGBgYGBgYGBgYGBgYHea4GBgYGBgYGBgYGBgd5rgYGBgYGBgYGBgYGByseBiYXFwtXCjp/UwtfGiYqKgdxrgYGBgYGBgYGBgYGBgYGBgdPG1dbTz4GF1cnK1I6fyMbVos3NsdPQxcTVpMLVxsjQ09qJipxrgYGBgYGBgYGBgYGB3mtrgYGBgYGBgYGBgYGB08bV1tPPgcfCzdTGnGuBgYGBgYGBgd6BxMLVxMmBib21ydPQ2MLDzcaBhcaKgdxrgYGBgYGBgYGBgYGBva3QyJubxtPT0NOJiMLFxa/G2LHT0MXWxNWkwtXGyNDT2oHG09PQ05uBiIGPgYXGjp/IxtWuxtTUwsjGiYqKnGtrgYGBgYGBgYGBgYGB08bV1tPPgcfCzdTGnGuBgYGBgYGBgd5rgYGBgd5rgYGBgdHWw83KxIHH1s/E1crQz4HGxcrVsdPQxdbE1aTC1cbI0NPaibPG0tbG1NWBhdPG0tbG1NWKa4GBgYHca4GBgYGBgYGB1dPagdxrgYGBgYGBgYGBgYGBhcXC1cKBnoGx09DF1sTVpMLVxsjQ09qbm8fKz8WJhdPG0tbG1NWOn8rFipxrgYGBgYGBgYGBgYGBhcXC1cKOn9HCz8/GzcDKxYGegYXTxtLWxtTVjp/Rws/Pxs3AysWca4GBgYGBgYGBgYGBgYXFwtXCjp/EwtXGyNDT2sDPws7GgZ6BhdPG0tbG1NWOn8TC1cbI0NPawM/Czsaca4GBgYGBgYGBgYGBgYXFwtXCjp/R08rExoGegYXTxtLWxtTVjp/R08rExpxrgYGBgYGBgYGBgYGBhcXC1cKOn8bZ0crTxsDFwtqBnoGF08bS1sbU1Y6fxtnRytPGwMXC2pxrgYGBgYGBgYGBgYGBhcXC1cKOn9fQzdbOxoGegYXTxtLWxtTVjp/X0M3Wzsaca4GBgYGBgYGBgYGBgYXFwtXCjp/TxsTJwtPIwsPNxoGegYXTxtLWxtTVjp/TxsTJwtPIwsPNxpxrgYGBgYGBgYGBgYGBhcXC1cKOn9TJ0NjA1NbD1MTTytHVytDPwM3Kz8yBnoGF08bS1sbU1Y6f1MnQ2MDU1sPUxNPK0dXK0M/AzcrPzJxrgYGBgYGBgYGBgYGBhcXC1cKOn9TJ0NjA0cLPz8bNwM3Kz8yBnoGF08bS1sbU1Y6f1MnQ2MDRws/Pxs3AzcrPzJxrgYGBgYGBgYGBgYGBhcXC1cKOn9TGz8XAxNDPx8rIwNXQwNbUxtOBnoGF08bS1sbU1Y6fw9DQzcbCz4mI1MbPxcDE0M/HysjA1dDA1tTG04iNgdXT1saKnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MLO0c3GwMrPw9DWz8WBnoGF08bS1sbU1Y6f1MLO0c3GwMrPw9DWz8Wca4GBgYGBgYGBgYGBgYXVycrUjp/C0dHN2qrPw9DWz8WnysbNxdSJhcXC1cKNgYXTxtLWxtTVipxrgYGBgYGBgYGBgYGBhdXJytSOn8LR0c3arsLT28PCz6rPw9DWz8WnysbNxdSJhcXC1cKNgYXTxtLWxtTVipxrgYGBgYGBgYGBgYGBhdXJytSOn8LR0c3ascLUwtPI1sLTxajT0NbRp8rGzcXUiYXFwtXCjYGF08bS1sbU1Yqca4GBgYGBgYGBgYGBgb2t0Mibm8rPx9CJg9TCztHNxsDKz8PQ1s/Fg42BvIXTxtLWxtTVjp/Uws7RzcbAys/D0NbPxb6KnGuBgYGBgYGBgYGBgYGFxcLVwo6fytHAzcrOytWBnoGF08bS1sbU1Y6fytHAzcrOytWBoKCBkZxrgYGBgYGBgYGBgYGBhcXC1cKOn8rUwMLE1crXxoGegYXTxtLWxtTVjp/K1MDCxNXK18aca4GBgYGBgYGBgYGBgcrHgYmF08bS1sbU1Y6f0dPKxMbAys/AxdDNzcLTgYKegc/Wzc2Bh4eBhdPG0tbG1NWOn9HTysTGwMrPwMXQzc3C04GfnoGRj5GRioHca4GBgYGBgYGBgYGBgYGBgYGFxcLVwo6f0dPKxMbAys/AxdDNzcLTgZ6BhdPG0tbG1NWOn9HTysTGwMrPwMXQzc3C05xrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgYXFwtXCjp/R08rExsDKz8DF0M3NwtOBnoGRj5Gca4GBgYGBgYGBgYGBgd5ra4GBgYGBgYGBgYGBgYXCzc3Q2MbFqNPQ1tGqxdSBnoGF1cnK1I6fz9DTzsLNytvGos3N0NjGxbbUxtOo09DW0arF1ImF08bS1sbU1Yqca4GBgYGBgYGBgYGBgcrHgYmFws3N0NjGxajT0NbRqsXUgYKenoHP1s3Ngd3dgYXTxtLWxtTVjp/JwtSJiMLNzdDYxsXA1tTG08DI09DW0cDKxdSIioqB3GuBgYGBgYGBgYGBgYGBgYGBhcXC1cKOn8LNzdDYxsXA1tTG08DI09DW0cDKxdSBnoGFws3N0NjGxajT0NbRqsXUnGuBgYGBgYGBgYGBgYHea2uBgYGBgYGBgYGBgYHKx4GJhdPG0tbG1NWOn8nC1ImI1tHUxs3NwMTC1cbI0NPawMrFiIqKgdxrgYGBgYGBgYGBgYGBgYGBgYXW0dTGzc2qxYGegYXTxtLWxtTVjp/W0dTGzc3AxMLVxsjQ09rAysWca4GBgYGBgYGBgYGBgYGBgYHKx4GJic/G2IGtysTGz9TGp8bC1dbTxrTG09fKxMaJioqOn8rUqNDNxYmKioHca4GBgYGBgYGBgYGBgYGBgYGBgYGBhcXC1cKOn9bR1MbNzcDEwtXGyNDT2sDKxYGegYmF1tHUxs3NqsWBnp6egYiIgd3dgYXW0dTGzc2qxYGenp6BiJGIgd3dgYXW0dTGzc2qxYGenp6BkYprgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBoIHP1s3Na4GBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgZuBicrP1YqBhdbR1MbNzarFnGuBgYGBgYGBgYGBgYGBgYGB3muBgYGBgYGBgYGBgYHea2uBgYGBgYGBgYGBgYHKx4GJhcXC1cKOn9bRxcLVxomKioHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+B08bU0dDP1MaJio6fy9TQz4mF1cnK1I6fyMbVos3NsdPQxcTVpMLVxsjQ09qJio2Bk5GRipxrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgdPG1dbTz4HTxtTR0M/UxomKjp/L1NDPicfCzdTGjYGVkZKKnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGB3oHEwtXEyYGJvbXJ09DYwsPNxoGF1cmKgdxrgYGBgYGBgYGBgYGBva3QyJubxtPT0NOJiMbFytWx09DF1sTVpMLVxsjQ09qBxtPT0NObgYiBj4GF1cmOn8jG1a7G1NTCyMaJioqca2uBgYGBgYGBgYGBgYHTxtXW08+B08bU0dDP1MaJio6fy9TQz4nHws3Uxo2BlpGRipxrgYGBgYGBgYHea4GBgYHea4GBgYHR1sPNysSBx9bPxNXK0M+BxsXK1bHT0MXWxNWkwtXGyNDT2qPar8LOxomzxtLWxtTVgYXTxtLWxtTVimuBgYGB3GuBgYGBgYGBgdXT2oHca4GBgYGBgYGBgYGBgYXFwtXCgZ6BsdPQxdbE1aTC1cbI0NPam5vYycbTxomIxMLVxsjQ09rAz8LOxoiNgYXTxtLWxtTVjp/EwtXGyNDT2sDPws7Gio6fx8rT1NWJipxrgYGBgYGBgYGBgYGBhcXC1cKOn9HTysTGgZ6BhdPG0tbG1NWOn9HTysTGnGuBgYGBgYGBgYGBgYGFxcLVwo6fxtnRytPGwMXC2oGegYXTxtLWxtTVjp/G2dHK08bAxcLanGuBgYGBgYGBgYGBgYGFxcLVwo6f19DN1s7GgZ6BhdPG0tbG1NWOn9fQzdbOxpxrgYGBgYGBgYGBgYGBhcXC1cKOn9PGxMnC08jCw83GgZ6BhdPG0tbG1NWOn9PGxMnC08jCw83GnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MnQ2MDU1sPUxNPK0dXK0M/AzcrPzIGegYXTxtLWxtTVjp/UydDYwNTWw9TE08rR1crQz8DNys/MnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MnQ2MDRws/Pxs3AzcrPzIGegYXTxtLWxtTVjp/UydDYwNHCz8/GzcDNys/MnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MbPxcDE0M/HysjA1dDA1tTG04GegYXTxtLWxtTVjp/D0NDNxsLPiYjUxs/FwMTQz8fKyMDV0MDW1MbTiI2B1dPWxoqca4GBgYGBgYGBgYGBgYXFwtXCjp/K1MDCxNXK18aBnoGF08bS1sbU1Y6fytTAwsTVytfGnGuBgYGBgYGBgYGBgYGFxcLVwo6f1MLO0c3GwMrPw9DWz8WBnoGF08bS1sbU1Y6f1MLO0c3GwMrPw9DWz8Wca2uBgYGBgYGBgYGBgYHKx4GJhcXC1cKOn9bRxcLVxomKioHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+B1dPWxpxrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgdPG1dbTz4HHws3UxpxrgYGBgYGBgYGBgYGB3muBgYGBgYGBgd6BxMLVxMmBib21ydPQ2MLDzcaBhdXJioHca4GBgYGBgYGBgYGBgdPG1dbTz4HHws3UxpxrgYGBgYGBgYHea4GBgYHea2uBgYGB0dbDzcrEgcfWz8TVytDPgcjG1bHT0MXE1bHTysTGiYXPws7GjYGF1MbT18rExtXa0caqpYprgYGBgdxrgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWkwtXGyNDT2pub2MnG08aJiNHCz8/GzcDKxYiNgYXUxtPXysTG1drRxqqlio6f2MnG08aJiMTC1cbI0NPawM/CzsaIjYGFz8LOxoqOn8fK09TViYqca4GBgYGBgYGByseBiYXFwtXCgYKegc/Wzc2KgdxrgYGBgYGBgYGBgYGB08bV1tPPgYXFwtXCjp/R08rExpxrgYGBgYGBgYHegcbN1MaB3GuBgYGBgYGBgYGBgYHTxtXW08+BjpKca4GBgYGBgYGB3muBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgdPGosTVytfGsdPQxdbE1aTC1cbI0NPaiYXKxYprgYGBgdxrgYGBgYGBgYHV09qB3GuBgYGBgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWkwtXGyNDT2pubx8rPxYmFysWKnGuBgYGBgYGBgYGBgYGFxcLVwo6fytTAwsTVytfGgZ6B1dPWxpxrgYGBgYGBgYGBgYGByseBiYXFwtXCjp/W0cXC1caJioqB3GuBgYGBgYGBgYGBgYGBgYGB08bV1tPPgdPG1NHQz9TGiYqOn8vU0M+J1dPWxo2Bk5GRipxrgYGBgYGBgYGBgYGB3oHGzdTGgdxrgYGBgYGBgYGBgYGBgYGBgdPG1dbTz4HTxtTR0M/UxomKjp/L1NDPicfCzdTGjYGVkZKKnGuBgYGBgYGBgYGBgYHea4GBgYGBgYGB3oHEwtXEyYGJvbXJ09DYwsPNxoGF1cmKgdxrgYGBgYGBgYGBgYGB08bV1tPPgdPG1NHQz9TGiYqOn8vU0M+Jx8LN1MaNgZWRkoqca4GBgYGBgYGB3muBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcXGosTVytfGsdPQxdbE1aTC1cbI0NPaiYXKxYprgYGBgdxrgYGBgYGBgYHV09qB3GuBgYGBgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWkwtXGyNDT2pubx8rPxYmFysWKnGuBgYGBgYGBgYGBgYGFxcLVwo6fytTAwsTVytfGgZ6Bx8LN1Maca4GBgYGBgYGBgYGBgcrHgYmFxcLVwo6f1tHFwtXGiYqKgdxrgYGBgYGBgYGBgYGBgYGBgdPG1dbTz4HTxtTR0M/UxomKjp/L1NDPidXT1saNgZORkYqca4GBgYGBgYGBgYGBgd6Bxs3UxoHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+B08bU0dDP1MaJio6fy9TQz4nHws3Uxo2BlZGSipxrgYGBgYGBgYGBgYGB3muBgYGBgYGBgd6BxMLVxMmBib21ydPQ2MLDzcaBhdXJioHca4GBgYGBgYGBgYGBgdPG1dbTz4HTxtTR0M/UxomKjp/L1NDPicfCzdTGjYGVkZKKnGuBgYGBgYGBgd5rgYGBgd5rgYGBgdHWw83KxIHH1s/E1crQz4HO0NTVtMbNzcbFsdPQxdbE1aTC1cbI0NPaiYXE0NbP1YprgYGBgdxrgYGBgYGBgYHV09qB3GuBgYGBgYGBgYGBgYGFxcLVwoGegbHT0MXWxNWbm83Gx9Wr0MrPiYjR09DF1sTVwMTC1cbI0NPKxtSIjYGI0dPQxdbE1dSP0dPQxdbE1cDEwtXGyNDTysbUwMrFiI2BiJ6IjYGI0dPQxdbE1cDEwtXGyNDTysbUj8rFiIqOn9jJxtPGiYjR09DF1sTVwMTC1cbI0NPKxtSPytTAwsTVytfGiI2B1dPWxoqOn8jT0NbRo9qJiNHT0MXWxNXAxMLVxsjQ08rG1I/EwtXGyNDT2sDPws7GiIqOn9TGzcbE1YmI0dPQxdbE1cDEwtXGyNDTysbUj8TC1cbI0NPawM/CzsaIjYG9paObm9PC2ImIxNDWz9WJi4qBwtSBxNDWz9WIioqOn9DTxcbTo9qJiMTQ1s/ViI2BiMXG1MSIio6f1cLMxomFxNDWz9WKjp/IxtWJipxra4GBgYGBgYGBgYGBgZCQgYXFwtXCgZ6BsdPQxdbE1aTC1cbI0NPam5vYycbTxomIytTAwsTVytfGiI2B1dPWxoprgYGBgYGBgYGBgYGBkJCBjp/NxsfVq9DKz4mI0dPQxdbE1dSIjYGI0dPQxdbE1dSP0dPQxdbE1cDEwtXGyNDTysbUwMrFiI2BiJ6IjYGI0dPQxdbE1cDEwtXGyNDTysbUj8rFiIprgYGBgYGBgYGBgYGBkJCBjp/I09DW0aPaiYjR09DF1sTVwMTC1cbI0NPKxtSPxMLVxsjQ09rAz8LOxoiKa4GBgYGBgYGBgYGBgZCQgY6f1MbNxsTViYjR09DF1sTVwMTC1cbI0NPKxtSPxMLVxsjQ09rAz8LOxoiNgb2lo5ub08LYiYjE0NbP1YmLioHC1IHE0NbP1YiKimuBgYGBgYGBgYGBgYGQkIGOn9DTxcbTo9qJiMTQ1s/ViI2BiMXG1MSIimuBgYGBgYGBgYGBgYGQkIGOn9XCzMaJhcTQ1s/Vio6fyMbViYqca4GBgYGBgYGBgYGBgcrHgYmFxcLVwoGCnoHP1s3NioHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+BhcXC1cKca4GBgYGBgYGBgYGBgd6Bxs3UxoHca4GBgYGBgYGBgYGBgYGBgYHTxtXW08+Bz9bNzZxrgYGBgYGBgYGBgYGB3muBgYGBgYGBgd6BxMLVxMmBib21ydPQ2MLDzcaBhdXJioHca4GBgYGBgYGBgYGBgb2t0Mibm8rPx9CJiMbT09DTm4GIgY+BhdXJipxrgYGBgYGBgYGBgYGB08bV1tPPgc/Wzc2ca4GBgYGBgYGB3muBgYGB3muBgYGB0dbDzcrEgcfWz8TVytDPgcjG1aLIxs/VsdPQxdbE1dSv0NW0xs3GxNXGxaPattTG06qliYXW1MbTqqWKa4GBgYHca4GBgYGBgYGB1dPagdxrgYGBgYGBgYGBgYGB08bV1tPPgbHT0MXWxNWkwtXGyNDT2pub2MnG08al0MbUz9WpwtfGiYjCyMbP1cDR09DF1sTV1IiNgcfWz8TVytDPgYmF0tbG09qKgdbUxoGJhdbUxtOqpYqB3GuBgYGBgYGBgYGBgYGBgYGBhdLWxtPajp/YycbTxomIwsjGz9XA0dPQxdbE1dSP1tTG08DKxYiNgYieiI2BhdbUxtOqpYqca4GBgYGBgYGBgYGBgd6Kjp/IxtWJipxrgYGBgYGBgYGBgYGBkJCBhdTGzcbE1cbFgZ6BgbHT0MXWxNWkwtXGyNDT2pub2MrVyYmIwsjGz9XA0dPQxdbE1dSIimuBgYGBgYGBgYGBgYGQkIGOn9jJxtPGqcLUiYjCyMbP1cDR09DF1sTV1IiNgcfWz8TVytDPgYmF0tbG09qKgdbUxomF1tTG06qlioHca4GBgYGBgYGBgYGBgZCQgYGBgYGF0tbG09qOn9jJxtPGiYjCyMbP1cDR09DF1sTV1I/W1MbTwMrFiI2BiJ6IjYGF1tTG06qlipxrgYGBgYGBgYGBgYGBkJCB3oqOn8jG1YmKnGtrgYGBgYGBgYGBgYGBkJCB08bV1tPPgdPG1NHQz9TGiYqOn8vU0M+JvIGI1MbNxsTVxsWInp+BhdTGzcbE1cbFjYjP0NXA1MbNxsTVxsWInp+Bhc/Q1cDUxs3GxNXGxb6NgZORkYqca4GBgYGBgYGB3oHEwtXEyYGJvbXJ09DYwsPNxoGF1cmKgdxrgYGBgYGBgYGBgYGBva3QyJubys/H0ImF1cmKnGuBgYGBgYGBgYGBgYHTxtXW08+B08bU0dDP1MaJio6fy9TQz4nP1s3NjYGWkZGKnGuBgYGBgYGBgd5rgYGBgd5r3ms=
+
+namespace App\Http\Controllers;
+use App\Models\ProductCategory;
+use App\Models\Product;
+use App\Services\LicenseFeatureService;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Schema;
+
+class ProductCategoryController extends Controller
+{
+    private function normalizeInboundIds(Request $request): ?array
+    {
+        if ($request->has('inbound_ids')) {
+            $raw = $request->input('inbound_ids');
+            if ($raw === null || $raw === '' || $raw === []) {
+                return null;
+            }
+
+            if (is_string($raw)) {
+                $decoded = json_decode($raw, true);
+                if (json_last_error() === JSON_ERROR_NONE) {
+                    $raw = $decoded;
+                } else {
+                    $parts = preg_split('/[,; ]+/', trim($raw));
+                    $raw = array_filter($parts ?? [], fn ($part) => $part !== '');
+                }
+            }
+
+            if (! is_array($raw)) {
+                return null;
+            }
+
+            $ids = [];
+            foreach ($raw as $value) {
+                if ($value === null || $value === '') {
+                    continue;
+                }
+                $ids[] = (int) $value;
+            }
+
+            $ids = array_values(array_unique($ids));
+
+            return $ids === [] ? null : $ids;
+        }
+
+        if ($request->filled('inbound_id')) {
+            return [(int) $request->inbound_id];
+        }
+
+        return null;
+    }
+
+    private function applyInboundFields(ProductCategory $data, Request $request): void
+    {
+        $inboundIds = $this->normalizeInboundIds($request);
+        $data->inbound_id = $inboundIds[0] ?? null;
+
+        if (Schema::hasColumn('product_categories', 'inbound_ids')) {
+            $data->inbound_ids = $inboundIds;
+        }
+
+        if ($inboundIds !== null && count($inboundIds) > 1) {
+            $data->sample_inbound = $this->mergeInboundIdsIntoSampleInbound(
+                $data->sample_inbound,
+                $inboundIds
+            );
+        }
+    }
+
+    /**
+     * @param  int[]  $inboundIds
+     */
+    private function mergeInboundIdsIntoSampleInbound(mixed $sampleInbound, array $inboundIds): string
+    {
+        $metaLine = '__INBOUND_IDS__:' . json_encode(array_values($inboundIds));
+        $sample = is_string($sampleInbound) ? $sampleInbound : '';
+
+        if ($sample === '') {
+            return $metaLine;
+        }
+
+        if (str_starts_with($sample, '__INBOUND_IDS__:')) {
+            $parts = explode("\n", $sample, 2);
+
+            return $metaLine . (isset($parts[1]) ? "\n" . $parts[1] : '');
+        }
+
+        return $metaLine . "\n" . $sample;
+    }
+
+    private function normalizeMarzbanInbounds(Request $request): ?array
+    {
+        if (! $request->has('marzban_inbounds')) {
+            return null;
+        }
+
+        $raw = $request->input('marzban_inbounds');
+        if ($raw === null || $raw === '' || $raw === []) {
+            return null;
+        }
+
+        if (is_string($raw)) {
+            $decoded = json_decode($raw, true);
+            if (json_last_error() === JSON_ERROR_NONE) {
+                $raw = $decoded;
+            } else {
+                return null;
+            }
+        }
+
+        if (! is_array($raw)) {
+            return null;
+        }
+
+        $result = [];
+        foreach ($raw as $protocol => $tags) {
+            $protocolKey = strtolower((string) $protocol);
+            if ($protocolKey === '' || ! is_array($tags)) {
+                continue;
+            }
+            $normalizedTags = [];
+            foreach ($tags as $tag) {
+                $tag = trim((string) $tag);
+                if ($tag !== '') {
+                    $normalizedTags[] = $tag;
+                }
+            }
+            if ($normalizedTags !== []) {
+                $result[$protocolKey] = array_values(array_unique($normalizedTags));
+            }
+        }
+
+        return $result === [] ? null : $result;
+    }
+
+    private function applyMarzbanInboundFields(ProductCategory $data, Request $request): void
+    {
+        $marzbanInbounds = $this->normalizeMarzbanInbounds($request);
+        if ($marzbanInbounds !== null || $request->has('marzban_inbounds')) {
+            if (Schema::hasColumn('product_categories', 'marzban_inbounds')) {
+                $data->marzban_inbounds = $marzbanInbounds;
+            }
+        }
+    }
+
+    private function normalizePasarguardGroupIds(Request $request): ?array
+    {
+        if (! $request->has('pasarguard_group_ids')) {
+            return null;
+        }
+
+        $raw = $request->input('pasarguard_group_ids');
+        if ($raw === null || $raw === '' || $raw === []) {
+            return null;
+        }
+
+        if (is_string($raw)) {
+            $decoded = json_decode($raw, true);
+            if (json_last_error() === JSON_ERROR_NONE) {
+                $raw = $decoded;
+            } else {
+                $parts = preg_split('/[,; ]+/', trim($raw));
+                $raw = array_filter($parts ?? [], fn ($part) => $part !== '');
+            }
+        }
+
+        if (! is_array($raw)) {
+            return null;
+        }
+
+        $ids = [];
+        foreach ($raw as $value) {
+            if ($value === null || $value === '') {
+                continue;
+            }
+            $ids[] = (int) $value;
+        }
+
+        $ids = array_values(array_unique($ids));
+
+        return $ids === [] ? null : $ids;
+    }
+
+    private function applyPasarguardGroupFields(ProductCategory $data, Request $request): void
+    {
+        $groupIds = $this->normalizePasarguardGroupIds($request);
+        if ($groupIds !== null || $request->has('pasarguard_group_ids')) {
+            if (Schema::hasColumn('product_categories', 'pasarguard_group_ids')) {
+                $data->pasarguard_group_ids = $groupIds;
+            }
+        }
+    }
+
+    private function normalizeAllowedUserGroupIds(Request $request): ?array
+    {
+        if (! $request->has('allowed_user_group_ids')) {
+            return null;
+        }
+
+        $raw = $request->input('allowed_user_group_ids');
+        if ($raw === null || $raw === '' || $raw === []) {
+            return null;
+        }
+
+        if (is_string($raw)) {
+            $decoded = json_decode($raw, true);
+            if (json_last_error() === JSON_ERROR_NONE) {
+                $raw = $decoded;
+            } else {
+                $parts = preg_split('/[,; ]+/', trim($raw));
+                $raw = array_filter($parts ?? [], fn ($part) => $part !== '');
+            }
+        }
+
+        if (! is_array($raw)) {
+            return null;
+        }
+
+        $ids = [];
+        foreach ($raw as $value) {
+            if ($value === null || $value === '') {
+                continue;
+            }
+            $ids[] = (int) $value;
+        }
+
+        $ids = array_values(array_unique($ids));
+
+        return $ids === [] ? null : $ids;
+    }
+
+    public function getAllProdctCategory()
+    {
+        return ProductCategory::with('pannel')->orderBy('created_at')->get();
+    }
+    public function getProdctCategoryNameByID($id)
+    {
+        return ProductCategory::where('id', $id)->first();
+    }
+    public function deleteProductCategoryByID($id)
+    {
+        // delete productCategory by id with cascade if have not any product relation
+
+        $data = ProductCategory::where('id', $id)->first();
+        if ($data != null) {
+            if ($data->delete() != null) {
+                return $this->getAllProdctCategory();
+            } else {
+                return response()->json(false, 404);
+            }
+        }
+        return response()->json(false, 404);
+    }
+    public function getProdctCategoryByCategoryName($categoryName)
+    {
+        return ProductCategory::where('category_name', $categoryName)->first();
+    }
+    public function getAllProdctCategoryOrderByPrice()
+    {
+        return ProductCategory::orderBy('price')->get();
+    }
+    public function getAllActiveProdctCategoryOrderByPrice(?int $userGroupId = null, bool $filterByUserGroup = false)
+    {
+        $panelCntrl = new PannelController();
+        $panels = $panelCntrl->get_all_panells_Id_by_location_capacity_mode();
+        $categories = ProductCategory::orderBy('price')->where('is_active', true)
+            ->where('category_name', '!=', 'اکانت آزمایشی')
+            ->whereIn('pannel_id', $panels)
+            ->get();
+
+        if (! $filterByUserGroup) {
+            return $categories;
+        }
+
+        return $categories
+            ->filter(fn (ProductCategory $category) => $category->isAllowedForUserGroup($userGroupId))
+            ->values();
+    }
+    public function get_all_active_prodct_category_by_pannel_id_order_by_price($pannel_id, ?int $userGroupId = null, bool $filterByUserGroup = false)
+    {
+
+        $categories = ProductCategory::where('pannel_id', $pannel_id)
+            ->where('category_name', '!=', 'اکانت آزمایشی')
+            ->orderBy('price')->where('is_active', true)->get();
+
+        if (! $filterByUserGroup) {
+            return $categories;
+        }
+
+        return $categories
+            ->filter(fn (ProductCategory $category) => $category->isAllowedForUserGroup($userGroupId))
+            ->values();
+    }
+    public function getProdctPannelID($name, $pannel_id)
+    {
+        $data = ProductCategory::where('pannel_id', $pannel_id)->where('category_name', $name)->first();
+        if ($data != null) {
+            return $data->id;
+        } else {
+            return -1;
+        }
+    }
+    public function getProductCatIdBYExpireDayPannelIDVolume($expire_day, $pannel_id, $volume)
+    {
+        $data = ProductCategory::where('expire_day', $expire_day)->where('pannel_id', $pannel_id)->where('volume', $volume)->first();
+        if ($data == null) {
+            // create a new category with this expire_day and pannel_id and volume
+            $data = new ProductCategory();
+            $data->pannel_id = $pannel_id;
+            $data->expire_day = $expire_day;
+            $data->volume = $volume;
+            $data->category_name = 'یک دسته بندی جدید ';
+            $data->price = 0;
+            $data->price_in_dollar = 0;
+            $data->is_active = true;
+            $data->rechargable = true;
+            $data->show_subscription_link = true;
+            $data->show_pannel_link = true;
+            $data->send_config_to_user = true;
+
+            $data->save();
+            $id = $data->id;
+        }
+
+        return $data->id;
+    }
+    public function addNewProductCategory(Request $request)
+    {
+        try {
+            $data = new ProductCategory();
+            $data->pannel_id = $request->pannel_id;
+            $data->category_name = $request->category_name;
+            $data->price = $request->price;
+            $data->expire_day = $request->expire_day;
+            $data->volume = $request->volume;
+            $data->rechargable = $request->rechargable;
+            $data->show_subscription_link = $request->show_subscription_link;
+            $data->show_pannel_link = $request->show_pannel_link;
+            $data->send_config_to_user = $request->boolean('send_config_to_user', true);
+            $data->sample_inbound = $request->sample_inbound;
+            $this->applyInboundFields($data, $request);
+            $this->applyMarzbanInboundFields($data, $request);
+            $this->applyPasarguardGroupFields($data, $request);
+            $data->ip_limit = $request->ip_limit ?? 0;
+            if ($request->price_in_dollar != null && $request->price_in_dollar >= 0.00) {
+                $data->price_in_dollar = $request->price_in_dollar;
+            } else {
+                $data->price_in_dollar = 0.0;
+            }
+            $data->is_active = true;
+            $allowedGroupIds = $this->normalizeAllowedUserGroupIds($request);
+            if ($allowedGroupIds !== null || $request->has('allowed_user_group_ids')) {
+                $data->allowed_user_group_ids = $allowedGroupIds;
+            }
+            if ($request->has('upsell_category_id')) {
+                $upsellId = $request->upsell_category_id;
+                if ((new LicenseFeatureService())->isGold()) {
+                    $data->upsell_category_id = ($upsellId === '' || $upsellId === '0' || $upsellId === 0)
+                        ? null
+                        : (int) $upsellId;
+                }
+            }
+            if ($data->save()) {
+                return $this->getAllProdctCategory();
+            }
+
+            return false;
+        } catch (\Throwable $e) {
+            \Log::error('addNewProductCategory error: ' . $e->getMessage());
+
+            return false;
+        }
+    }
+    public function editProductCategory(Request $request)
+    {
+        try {
+            $data = ProductCategory::find($request->id);
+            $data->pannel_id = $request->pannel_id;
+            $data->category_name = $request->category_name;
+            $data->price = $request->price;
+            $data->expire_day = $request->expire_day;
+            $data->volume = $request->volume;
+            $data->rechargable = $request->rechargable;
+            $data->show_subscription_link = $request->show_subscription_link;
+            $data->show_pannel_link = $request->show_pannel_link;
+            $data->send_config_to_user = $request->boolean('send_config_to_user', true);
+            $data->sample_inbound = $request->sample_inbound;
+            $this->applyInboundFields($data, $request);
+            $this->applyMarzbanInboundFields($data, $request);
+            $this->applyPasarguardGroupFields($data, $request);
+            \Log::info("sample_inbound", [$request->sample_inbound]);
+            $data->ip_limit = $request->ip_limit ?? 0;
+            $data->is_active = $request->is_active;
+            if ($request->price_in_dollar != null && $request->price_in_dollar >= 0.00) {
+                $data->price_in_dollar = $request->price_in_dollar;
+            } else {
+                $data->price_in_dollar = 0.0;
+            }
+
+            $allowedGroupIds = $this->normalizeAllowedUserGroupIds($request);
+            if ($allowedGroupIds !== null || $request->has('allowed_user_group_ids')) {
+                $data->allowed_user_group_ids = $allowedGroupIds;
+            }
+
+            if ($request->has('upsell_category_id')) {
+                $upsellId = $request->upsell_category_id;
+                if ((new LicenseFeatureService())->isGold()) {
+                    $data->upsell_category_id = ($upsellId === '' || $upsellId === '0' || $upsellId === 0)
+                        ? null
+                        : (int) $upsellId;
+                }
+            }
+
+            if ($data->update()) {
+                return response()->json($this->getAllProdctCategory(), 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::error('editProductCategory error: ' . $th->getMessage());
+
+            return response()->json(false, 500);
+        }
+    }
+    public function editProductCategoryByName(Request $request)
+    {
+        try {
+            $data = ProductCategory::where('category_name', $request->category_name)->first();
+            $data->price = $request->price;
+            $data->expire_day = $request->expire_day;
+            $data->volume = $request->volume;
+            $data->rechargable = $request->rechargable;
+            $data->show_subscription_link = $request->show_subscription_link;
+            $data->show_pannel_link = $request->show_pannel_link;
+            $data->send_config_to_user = $request->boolean('send_config_to_user', true);
+            $data->is_active = $request->is_active;
+            $data->sample_inbound = $request->sample_inbound;
+
+            if ($data->update()) {
+                return true;
+            } else {
+                return false;
+            }
+        } catch (\Throwable $th) {
+            return false;
+        }
+    }
+
+    public function getProdctPrice($name, $servicetypeID)
+    {
+        $data = ProductCategory::where('pannel_id', $servicetypeID)->where('category_name', $name)->first();
+        if ($data != null) {
+            return $data->price;
+        } else {
+            return -1;
+        }
+    }
+    public function reActiveProductCategory($id)
+    {
+        try {
+            $data = ProductCategory::find($id);
+            $data->is_active = true;
+            if ($data->update()) {
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function deActiveProductCategory($id)
+    {
+        try {
+            $data = ProductCategory::find($id);
+            $data->is_active = false;
+            if ($data->update()) {
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function mostSelledProductCategory($count)
+    {
+        try {
+            $data = Product::leftJoin('product_categories', 'products.product_categories_id', '=', 'product_categories.id')->where('product_categories.is_active', true)->groupBy('product_categories.category_name')->select('product_categories.category_name', \DB::raw('count(*) as count'))->orderBy('count', 'desc')->take($count)->get();
+
+            // $data = ProductCategory::where('is_active', true)
+            // ->leftJoin('products', 'products.product_categories_id', '=', 'product_categories.id')
+            // ->groupBy('product_categories.category_name')
+            // ->select('product_categories.category_name', \DB::raw('count(*) as count'))
+            // ->orderBy('count', 'desc')
+            // ->take($count)->get();
+            if ($data != null) {
+                return $data;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            \Log::info('error: ' . $th);
+            return null;
+        }
+    }
+    public function getAgentProductsNotSelectedByUserID($userID)
+    {
+        try {
+            return ProductCategory::whereDoesntHave('agent_products', function ($query) use ($userID) {
+                $query->where('agent_products.user_id', '=', $userID);
+            })->get();
+            // $selected =  ProductCategory::with('agent_products')
+            // ->whereHas('agent_products', function ($query) use($userID) {
+            //     $query->where('agent_products.user_id', '=', $userID);
+            // })->get();
+
+            // return response()->json([ 'selected'=> $selected,'not_selected'=> $not_selected], 200);
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(null, 500);
+        }
+    }
+}

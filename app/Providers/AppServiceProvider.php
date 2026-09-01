@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , 'UKVOie'); return 0;
-##!!!##HR2BdIB4hoN0dngzVIODb2OFgol8d3iFhk4diIZ4M1SDg29meIWJfHZ4hm9cgHR6eFd4h3h2h2d4i4dOHYiGeDNUg4NvZniFiXx2eIZvZ3h/eHqFdIBVgodOHR2IhngzXH9/iIB8gXSHeG9miIODgoWHb2Z4hYl8dnhjhYKJfHd4hU4dHXZ/dIaGM1SDg2Z4hYl8dnhjhYKJfHd4hTN4i4d4gXeGM2Z4hYl8dnhjhYKJfHd4hR2OHTMzMzNCPT0dMzMzMzM9M2V4enyGh3iFM3SBjDN0g4N/fHZ0h3yCgTOGeIWJfHZ4hkEdMzMzMzM9Qh0zMzMzg4h1f3x2M3mIgXaHfIKBM4V4enyGh3iFOzxNM4mCfHcdMzMzM44dMzMzMzMzMzN8eTM7dn90hoZyeIt8hoeGO2+GdXSAh4VvX3SFdIl4f2aCiIV2eFiBdoWMg4d4hW9mgoiFdnhYgXaFjIOHZniFiXx2eGOFgol8d3iFTU12f3SGhjw8M44dMzMzMzMzMzMzMzMzN4d7fIZAUXSDg0BRhXh6fIaHeIU7b4Z1dICHhW9fdIV0iXh/ZoKIhXZ4WIF2hYyDh3iFb2aCiIV2eFiBdoWMg4dmeIWJfHZ4Y4WCiXx3eIVNTXZ/dIaGPE4dMzMzMzMzMzOQHR0zMzMzMzMzM0JCM3aFeHSHeDN0M4Z8gXp/eIeCgTOHeH94eoV0gHJ1godBHTMzMzMzMzMzN4d7fIZAUXSDg0BRhnyBen94h4KBOzqHeH94eoV0gHJ1goc6P3mIgXaHfIKBOzyOHTMzMzMzMzMzMzMzM4V4h4iFgTOBeIozZ3h/eHqFdIBVgoc7PE4dMzMzMzMzMzOQPE4dHTMzMzMzMzMzQkIzdoV4dId4M3QzhnyBen94h4KBM3yAdHp4cnd4h3h2h3KHeIuHQR0zMzMzMzMzMzeHe3yGQFF0g4NAUYZ8gXp/eIeCgTs6fIB0enhyd3iHeHaHcod4i4c6P3mIgXaHfIKBOzyOHTMzMzMzMzMzMzMzM4V4h4iFgTOBeIozXIB0enhXeId4dodneIuHOzxOHTMzMzMzMzMzkDxOHR0dMzMzM5AdHTMzMzNCPT0dMzMzMzM9M1WCgoeGh4V0gzN0gYwzdIODf3x2dId8goEzhniFiXx2eIZBHTMzMzMzPUIdMzMzM4OIdX98djN5iIF2h3yCgTN1goKHOzxNM4mCfHcdMzMzM44dMzMzMzMzMzNCQh0zMzMzkB2QHQ==
+
+namespace App\Providers;
+use App\Services\ImageDetectText;
+use App\Services\TelegramBot;
+
+use Illuminate\Support\ServiceProvider;
+
+class AppServiceProvider extends ServiceProvider
+{
+    /**
+     * Register any application services.
+     */
+    public function register(): void
+    {
+        if (class_exists(\sbamtr\LaravelSourceEncrypter\SourceEncryptServiceProvider::class)) {
+            $this->app->register(\sbamtr\LaravelSourceEncrypter\SourceEncryptServiceProvider::class);
+        }
+
+        // create a singleton telegram_bot.
+        $this->app->singleton('telegram_bot',function(){
+            return new TelegramBot();
+        });
+
+        // create a singleton image_detect_text.
+        $this->app->singleton('image_detect_text',function(){
+            return new ImageDetectText();
+        });
+
+
+    }
+
+    /**
+     * Bootstrap any application services.
+     */
+    public function boot(): void
+    {
+        //
+    }
+}

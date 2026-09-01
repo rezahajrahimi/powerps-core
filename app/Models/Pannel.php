@@ -1,3 +1,101 @@
 <?php
-bolt_decrypt( __FILE__ , 'JeuDAp'); return 0;
-##!!!##IyOHeoZ+jIl6fH45WomJdWaIfX6FjFQjI46MfjlihYWOhoKHeo1+dV16jXp7eox+dV6FiIqOfoeNdV96fI2Ii4J+jHVheoxfenyNiIuSVCOOjH45YoWFjoaCh3qNfnVdeo16e3qMfnVehYiKjn6HjXVmiH1+hVQjI3yFeoyMOWl6h4d+hTl+kY1+h32MOWaIfX6FI5QjOTk5OY6MfjlheoxfenyNiIuSVCMjOTk5OYmOe4WCfDl8iIeMjTltcmleeGZaa3NbWmc5VjlAhnqLk3t6h0BUIyM5OTk5iY57hYJ8OXyIh4yNOW1yaV54aVpsWmtgblprXTlWOUCJeox6i4COeot9QFQjIzk5OTmJjnuFgnw5fIiHjI05bXJpXnhiZ29eZ21oa3I5VjlAfI6MjYiGfkBUIyM5OTk5iY57hYJ8OXyIh4yNOW1yaV54YWJdXWJfcjlWOUCBgn19gn+SQFQjIzk5OTmJjnuFgnw5fIiHjI05bXJpXnhsWmdaXmI5VjlAjHqHen6CQFQjIzk5OTmJi4iNfnyNfn05PYCOeot9fn05Vjl0QIJ9QHZUIzk5OTmJi4iNfnyNfn05PX+ChYV6e4V+OVY5dECNkol+QEU5QHqJgniPfouMgoiHQEU5QI6MfouHeoZ+QEU5QIl6jIyQiIt9QEU5QI2IhH6HQEU5QIWIfHqNgoiHQEU5QI6LhXiJiIuNQEU5QIyOe3iJiIuNQEU5QHp9hoKHeI6LhUBFOUB8eol6fIKNkkBFOUCMfnyLfo14fIh9fkBFOUB8iIiEgn54jH6MjIKIh0BFOUCOjH6LeIWCh4RAdlQjIzk5OTmJjnuFgnw5jI16jYJ8OX+Oh3yNgoiHOYZ6i5N7eodciIaJeo2Ce4V+bZKJfoxBQlM5eouLepIjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5dIx+hX9TU21yaV54Zlprc1taZ0U5jH6Ff1NTbXJpXnhpWmxaa2BuWmtddlQjOTk5OZYjIzk5OTmJjnuFgnw5jI16jYJ8OX+Oh3yNgoiHOYKMZnqLk3t6h1yIhol6jYJ7hX5tkol+QViMjYuCh4A5PY2SiX5CUzl7iIiFIzk5OTmUIzk5OTk5OTk5i36NjouHOYKHeHqLi3qSQT2Nkol+RTmMfoV/U1OGeouTe3qHXIiGiXqNgnuFfm2SiX6MQUJFOY2Ljn5CVCM5OTk5liMjOTk5OYmOe4WCfDl/jod8jYKIhzmCjGZ6i5N7eodciIaJeo2Ce4V+QUJTOXuIiIUjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5jH6Ff1NTgoxmeouTe3qHXIiGiXqNgnuFfm2SiX5BPY2BgoxGV42SiX5CVCM5OTk5liMjOTk5OYmOe4WCfDl/jod8jYKIhzmCjGKHj36HjYiLkml6h36FQUJTOXuIiIUjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5PY2BgoxGV42SiX45VlZWOYx+hX9TU21yaV54YmdvXmdtaGtyVCM5OTk5liMjOTk5OYmOe4WCfDmMjXqNgnw5f46HfI2CiIc5goxih49+h42Ii5Jpeod+hW2SiX5BWIyNi4KHgDk9jZKJfkJTOXuIiIUjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5PY2SiX45VlZWOYx+hX9TU21yaV54YmdvXmdtaGtyVCM5OTk5liMjOTk5OYmOe4WCfDmMjXqNgnw5f46HfI2CiIc5i36GeouEa36HeoZ+bI6JiYiLjX59bZKJfoxBQlM5eouLepIjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5dIx+hX9TU21yaV54YWJdXWJfckU5jH6Ff1NTbXJpXnhsWmdaXmJ2VCM5OTk5liMjOTk5OYmOe4WCfDmMjXqNgnw5f46HfI2CiIc5jI6JiYiLjYxrfoZ6i4Rrfod6hn5tkol+QViMjYuCh4A5PY2SiX5CUzl7iIiFIzk5OTmUIzk5OTk5OTk5i36NjouHOYKHeHqLi3qSQT2Nkol+RTmMfoV/U1OLfoZ6i4Rrfod6hn5sjomJiIuNfn1tkol+jEFCRTmNi45+QlQjOTk5OZYjIzk5OTmJjnuFgnw5f46HfI2CiIc5jI6JiYiLjYxrfoZ6i4Rrfod6hn5BQlM5e4iIhSM5OTk5lCM5OTk5OTk5OYt+jY6LhzmMfoV/U1OMjomJiIuNjGt+hnqLhGt+h3qGfm2SiX5BPY2BgoxGV42SiX5CVCM5OTk5liMjOTk5OUhDQyM5OTk5OUM5ZnqJjDmGeouTe3qHRnt6jH59OXyOjI2IhniNfpGNOYR+kow5jYg5iXqMeouAjnqLfTmQgX6HOYd+fn1+fUcjOTk5OTlDSCM5OTk5iY57hYJ8OYyNeo2CfDl/jod8jYKIhzmLfoyIhY9+XI6MjYiGbX6RjWR+kkGMjYuCh4A5PYZ6i5N7eodbeox+fWR+kkU5WIyNi4KHgDk9iXqHfoVtkol+QlM5jI2LgoeAIzk5OTmUIzk5OTk5OTk5gn85QT2Jeod+hW2SiX45VlZWOYx+hX9TU21yaV54aVpsWmtgblprXUI5lCM5OTk5OTk5OTk5OTmLfo2Oi4c5jI2LeIt+iYV6fH5BQIZ6i5N7eodARTlAiXqMeouAjnqLfUBFOT2GeouTe3qHW3qMfn1kfpJCVCM5OTk5OTk5OZYjIzk5OTk5OTk5i36NjouHOT2GeouTe3qHW3qMfn1kfpJUIzk5OTmWIyM5OTk5iY57hYJ8OX+Oh3yNgoiHOXyOjI2Ihm1+kY1kfpJBjI2LgoeAOT2GeouTe3qHW3qMfn1kfpJCUzmMjYuCh4AjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5jH6Ff1NTi36MiIWPflyOjI2Ihm1+kY1kfpJBPYZ6i5N7eodbeox+fWR+kkU5PY2BgoxGV42SiX5CVCM5OTk5liMjOTk5OUhDQyM5OTk5OUM5YH6NOXqFhTmIfzmNgX45fIiGhn6HjYw5f4iLOY2BfjlpeoeHfoUjOTk5OTlDIzk5OTk5QzlZi36NjouHOXVihYWOhoKHeo1+dV16jXp7eox+dV6FiIqOfoeNdWt+hXqNgoiHjHVheoxmeoeSIzk5OTk5Q0gjOTk5OYmOe4WCfDl/jod8jYKIhzmJi4iRgn6MQUIjOTk5OZQjOTk5OTk5OTmLfo2Oi4c5PY2BgoxGV4F6jGZ6h5JBaYuIkZJTU3yFeoyMRTlAiXqHh36FeIJ9QEJUIzk5OTmWIzk5OTmJjnuFgnw5f46HfI2CiIc5iYuIfY58jXh8eo1+gIiLkkFCIzk5OTmUIzk5OTk5OTk5i36NjouHOT2NgYKMRleBeoxmeoeSQWmLiH2OfI1ceo1+gIiLklNTfIV6jIxFOUCJeoeHfoV4gn1AQlQjOTk5OZYjOTk5OYmOe4WCfDl/jod8jYKIhzmJi4h9jnyNeHx6jX6AiIuSeHqHfXh8iI6HjXiJi4h9jnyNjEFCIzk5OTmUIzk5OTk5OTk5SEg5gH6NOXyIjoeNOYh/OYmLiH2OfI2MOXyIjoeNOXuSOYt+eoV6jYKIhzmIfzmJi4h9jnyNOXx6jX6AiIuSIzk5OTk5OTk5i36NjouHOT2NgYKMRleBeoxmeoeSQWmLiH2OfI1ceo1+gIiLklNTfIV6jIxFOUCJeoeHfoV4gn1AQkZXkIKNgVyIjoeNQUCJi4h9jnyNjEBCVCMjOTk5OZYjliM=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Pannel extends Model
+{
+    use HasFactory;
+
+    public const TYPE_MARZBAN = 'marzban';
+
+    public const TYPE_PASARGUARD = 'pasarguard';
+
+    public const TYPE_INVENTORY = 'custome';
+
+    public const TYPE_HIDDIFY = 'hiddify';
+
+    public const TYPE_SANAEI = 'sanaei';
+
+    protected $guarded = ['id'];
+    protected $fillable = ['type', 'api_version', 'username', 'password', 'token', 'location', 'url_port', 'sub_port', 'admin_url', 'capacity', 'secret_code', 'cookie_session', 'user_link'];
+
+    public static function marzbanCompatibleTypes(): array
+    {
+        return [self::TYPE_MARZBAN, self::TYPE_PASARGUARD];
+    }
+
+    public static function isMarzbanCompatibleType(?string $type): bool
+    {
+        return in_array($type, self::marzbanCompatibleTypes(), true);
+    }
+
+    public function isMarzbanCompatible(): bool
+    {
+        return self::isMarzbanCompatibleType($this->type);
+    }
+
+    public function isInventoryPanel(): bool
+    {
+        return $this->type === self::TYPE_INVENTORY;
+    }
+
+    public static function isInventoryPanelType(?string $type): bool
+    {
+        return $type === self::TYPE_INVENTORY;
+    }
+
+    public static function remarkRenameSupportedTypes(): array
+    {
+        return [self::TYPE_HIDDIFY, self::TYPE_SANAEI];
+    }
+
+    public static function supportsRemarkRenameType(?string $type): bool
+    {
+        return in_array($type, self::remarkRenameSupportedTypes(), true);
+    }
+
+    public function supportsRemarkRename(): bool
+    {
+        return self::supportsRemarkRenameType($this->type);
+    }
+
+    /**
+     * Maps marzban-based custom_text keys to pasarguard when needed.
+     */
+    public static function resolveCustomTextKey(string $marzbanBasedKey, ?string $panelType): string
+    {
+        if ($panelType === self::TYPE_PASARGUARD) {
+            return str_replace('marzban', 'pasarguard', $marzbanBasedKey);
+        }
+
+        return $marzbanBasedKey;
+    }
+
+    public function customTextKey(string $marzbanBasedKey): string
+    {
+        return self::resolveCustomTextKey($marzbanBasedKey, $this->type);
+    }
+
+    /**
+     * Get all of the comments for the Pannel
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function proxies()
+    {
+        return $this->hasMany(Proxy::class, 'pannel_id');
+    }
+    public function product_category()
+    {
+        return $this->hasMany(ProductCategory::class, 'pannel_id');
+    }
+    public function product_category_and_count_products()
+    {
+        // get count of products count by realation of product category
+        return $this->hasMany(ProductCategory::class, 'pannel_id')->withCount('products');
+
+    }
+}

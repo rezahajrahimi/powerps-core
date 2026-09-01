@@ -1,3 +1,25 @@
 <?php
-bolt_decrypt( __FILE__ , '1Qwe9H'); return 0;
-##!!!##6elNQExEUk9AQkT/IE9POydTU087LEhDQ0tEVkBRRBrp6VRSRP8iS05SVFFEGulUUkT/KEtLVExITUBTRDsnU1NPOzFEUFREUlMa6VRSRP8yWExFTk1YOyJOTE9OTURNUzsnU1NPJU5UTUNAU0hOTTsxRFJPTk1SRBrp6UJLQFJS/yJHREJKMU5LROla6f////8OCQnp//////8J/ydATUNLRP9ATf9ITUJOTEhNRv9RRFBURFJTDen//////wnp//////8J/x9PQFFATP//OyJLTlJUUUQHOyhLS1RMSE1AU0Q7J1NTTzsxRFBURFJTCBn/BzsyWExFTk1YOyJOTE9OTURNUzsnU1NPJU5UTUNAU0hOTTsxRFJPTk1SRAj//wNNRFdT6f//////CQ7p/////09UQUtIQv9FVE1CU0hOTf9HQE1DS0QHMURQVERSU/8DUURQVERSUwv/IktOUlRRRP8DTURXUwv/DQ0NA1FOS0RSCBn/MURST05NUkTp/////1rp//////////8DVFJEUf8c/wNRRFBURFJTDB1UUkRRBwga6en//////////0hF/wcAA1RSRFH/W1v/AEhNPkBRUUBYBwNUUkRRDB1RTktEC/8DUU5LRFIICP9a6f///////////////0BBTlFTBxMPEgv/BjRNQFRTR05RSFlEQwYIGun//////////1zp//////////9RRFNUUU3/A01EV1MHA1FEUFREUlMIGun/////XOlc6Q==
+
+namespace App\Http\Middleware;
+
+use Closure;
+use Illuminate\Http\Request;
+use Symfony\Component\HttpFoundation\Response;
+
+class CheckRole
+{
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Closure(\Illuminate\Http\Request): (\Symfony\Component\HttpFoundation\Response)  $next
+     */
+    public function handle(Request $request, Closure $next, ...$roles): Response
+    {
+        $user = $request->user();
+
+        if (!$user || !in_array($user->role, $roles)) {
+            abort(403, 'Unauthorized');
+        }
+        return $next($request);
+    }
+}

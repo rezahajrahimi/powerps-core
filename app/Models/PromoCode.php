@@ -1,3 +1,44 @@
 <?php
-bolt_decrypt( __FILE__ , 'nFbYX9'); return 0;
-##!!!##CgpuYW1lc3BhY2UgQXBwXE1vZGVsczsKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XE1vZGVsOwp1c2UgSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxSZWxhdGlvbnNcSGFzTWFueTsKCmNsYXNzIFByb21vQ29kZSBleHRlbmRzIE1vZGVsCnsKICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ2NvZGUnLAogICAgICAgICd0eXBlJywKICAgICAgICAndmFsdWUnLAogICAgICAgICdtYXhfdXNlcycsCiAgICAgICAgJ3VzZWRfY291bnQnLAogICAgICAgICdtYXhfdXNlc19wZXJfdXNlcicsCiAgICAgICAgJ3N0YXJ0c19hdCcsCiAgICAgICAgJ2V4cGlyZXNfYXQnLAogICAgICAgICdtaW5fb3JkZXJfYW1vdW50JywKICAgICAgICAnYWxsb3dlZF9jYXRlZ29yeV9pZHMnLAogICAgICAgICdhbGxvd2VkX3VzZXJfZ3JvdXBfaWRzJywKICAgICAgICAnaXNfYWN0aXZlJywKICAgIF07CgogICAgcHJvdGVjdGVkICRjYXN0cyA9IFsKICAgICAgICAndmFsdWUnID0+ICdmbG9hdCcsCiAgICAgICAgJ21pbl9vcmRlcl9hbW91bnQnID0+ICdmbG9hdCcsCiAgICAgICAgJ3N0YXJ0c19hdCcgPT4gJ2RhdGV0aW1lJywKICAgICAgICAnZXhwaXJlc19hdCcgPT4gJ2RhdGV0aW1lJywKICAgICAgICAnYWxsb3dlZF9jYXRlZ29yeV9pZHMnID0+ICdhcnJheScsCiAgICAgICAgJ2FsbG93ZWRfdXNlcl9ncm91cF9pZHMnID0+ICdhcnJheScsCiAgICAgICAgJ2lzX2FjdGl2ZScgPT4gJ2Jvb2xlYW4nLAogICAgXTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gdXNhZ2VzKCk6IEhhc01hbnkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoUHJvbW9Db2RlVXNhZ2U6OmNsYXNzKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gbm9ybWFsaXplZENvZGUoKTogc3RyaW5nCiAgICB7CiAgICAgICAgcmV0dXJuIHN0cnRvdXBwZXIodHJpbSgkdGhpcy0+Y29kZSkpOwogICAgfQp9Cg==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+
+class PromoCode extends Model
+{
+    protected $fillable = [
+        'code',
+        'type',
+        'value',
+        'max_uses',
+        'used_count',
+        'max_uses_per_user',
+        'starts_at',
+        'expires_at',
+        'min_order_amount',
+        'allowed_category_ids',
+        'allowed_user_group_ids',
+        'is_active',
+    ];
+
+    protected $casts = [
+        'value' => 'float',
+        'min_order_amount' => 'float',
+        'starts_at' => 'datetime',
+        'expires_at' => 'datetime',
+        'allowed_category_ids' => 'array',
+        'allowed_user_group_ids' => 'array',
+        'is_active' => 'boolean',
+    ];
+
+    public function usages(): HasMany
+    {
+        return $this->hasMany(PromoCodeUsage::class);
+    }
+
+    public function normalizedCode(): string
+    {
+        return strtoupper(trim($this->code));
+    }
+}

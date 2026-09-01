@@ -1,3 +1,48 @@
 <?php
-bolt_decrypt( __FILE__ , '82Tm0s'); return 0;
-##!!!##2Ng8LzszQT4vMTPuDz4+Khs9MjM6QQnYQ0Ez7iQzQEIvCdhDQTPuFzo6Qzs3PC9CMyoSL0IvMC9BMyoTOj0/QzM8QioULzFCPUA3M0EqFi9BFC8xQj1ARwnYQ0Ez7hc6OkM7NzwvQjMqEi9CLzAvQTMqEzo9P0MzPEIqGz0yMzoJ2NgxOi9BQe4gMzQzQEAvOho9NUHuM0ZCMzwyQe4bPTIzOthJ2O7u7u5DQTPuFi9BFC8xQj1ARwnY2O7u7u4+QD1CMzFCMzLu8kIvMDoz7gvu9UAzNDNAQC86LTo9NUH1CdjY7u7u7j5APUIzMUIzMu7yNDc6Oi8wOjPuC+4p2O7u7u7u7u7u9UAzNDNAQC86LUNBM0AtNzL1+tju7u7u7u7u7vVAMzQzQEAvOi1CPS03MvX62O7u7u7u7u7u9UJALzxBLzFCNz08LTcy9frY7u7u7u7u7u71Lzs9QzxC9frY7u7u7isJ2O7u7u4+QzA6NzHuNEM8MUI3PTzuNTNCIDM0M0BALzoaPTVBIjNGQvb32O7u7u5J2O7u7u7u7u7u8jc8RDdCMzPuC+7yQjY3QfsMQDM0M0BALzotQj0J2O7u7u7u7u7u8jc8RDdCMzMcLzsz7gvu8jc8RDdCMzPu7wvuPEM6Otju7u7u7u7u7u7u7u4N7vbyNzxEN0IzM/sMPC87M+4NDe7yNzxEN0IzM/sMQ0EzQDwvOzPuDQ3u9adUpnWnU6aCpnymg/X32O7u7u7u7u7u7u7u7gju9adUpnWnU6aCpnymg/UJ2Nju7u7u7u7u7kAzQkNAPO7yNzxEN0IzMxwvOzPu/O717vvu9e787vJCNjdB+wwvOz1DPELu/O717vvu9e787vJCNjdB+ww1M0IgL0UdQDc1NzwvOvb1MUAzL0IzMi0vQvX3Cdju7u7uS9ju7u7uPkMwOjcx7jRDPDFCNz087jUzQhFAMy9CMzIPQg9CQkA3MENCM/byRC86QzP32O7u7u5J2O7u7u7u7u7uQDNCQ0A87kQzQEIv9kQzQEIv9vJELzpDM/f3+ww0PUA7L0ISNzQ0M0AzPDEz9vcJ2O7u7u5L2O7u7u4+QzA6NzHuNEM8MUI3PTzuQDM0M0BALzotQ0EzQPb32O7u7u5J2O7u7u7u7u7uQDNCQ0A87vJCNjdB+wwwMzo9PDVBIj32I0EzQAgIMTovQUH67vVAMzQzQEAvOi1DQTNALTcy9fru9Tcy9fcJ2O7u7u5L2Nju7u7uPkMwOjcx7jRDPDFCNz087kAzNDNAQC86LUI99vfY7u7u7knY7u7u7u7u7u5AM0JDQDzu8kI2N0H7DDAzOj08NUEiPfYjQTNACAgxOi9BQfru9UAzNDNAQC86LUI9LTcy9fru9Tcy9fcJ2O7u7u5L2Nju7u7uPkMwOjcx7jRDPDFCNz087kJALzxBLzFCNz089vfY7u7u7knY7u7u7u7u7u5AM0JDQDzu8kI2N0H7DDAzOj08NUEiPfYiQC88QS8xQjc9PAgIMTovQUH67vVCQC88QS8xQjc9PC03MvX67vU3MvX3Cdju7u7uS9jYS9g=
+
+namespace App\Models;
+use Verta;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ReferralLogs extends Model
+{
+    use HasFactory;
+
+    protected $table = 'referral_logs';
+
+    protected $fillable = [
+        'referral_user_id',
+        'referral_to_id',
+        'transaction_id',
+        'amount',
+    ];
+    public function getReferralLogsText()
+    {
+        $invitee = $this->referral_to;
+        $inviteeName = $invitee != null
+            ? ($invitee->name ?? $invitee->username ?? 'نامشخص')
+            : 'نامشخص';
+
+        return $inviteeName . ' - ' . $this->amount . ' - ' . $this->getRawOriginal('created_at');
+    }
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    public function referral_user()
+    {
+        return $this->belongsTo(User::class, 'referral_user_id', 'id');
+    }
+
+    public function referral_to()
+    {
+        return $this->belongsTo(User::class, 'referral_to_id', 'id');
+    }
+
+    public function transaction()
+    {
+        return $this->belongsTo(Transaction::class, 'transaction_id', 'id');
+    }
+
+}

@@ -1,3 +1,412 @@
 <?php
-bolt_decrypt( __FILE__ , '862G1Y'); return 0;
-##!!!##e3vf0t7W5OHS1NaRsuHhzbnl5eHNtODf5ePg3d3W4+Sse3vm5NaRsuHhzcTW4+fa1Nbkzb3g6tLd5erB4Nrf5eTE1uPn2tTWrHvm5NaRsuHhzb7g1dbd5M3D1tfW4+PS3b3g2OSse+bk1pGy4eHNvuDV1t3kzcbk1uOse+bk1pGy4eHNvuDV1t3kzcPW19bj49LdyNLd3dblrHvm5NaRsuHhzb7g1dbd5M3D1tfW4+PS3cTW5eXa39ise+bk1pGy4eHNvuDV1t3kzcXj0t/k0tTl2uDfrHt75uTWkbrd3ebe2t/S5dbNueXl4c3D1uLm1uTlrHt71N3S5OSRw9bX1uPj0t294NjktODf5ePg3d3W45HW6eXW39XkkbTg3+Xj4N3d1uN77HuRkZGR4ePa59Ll1pHX5t/U5drg35Ha5MfS3drVxdbd1tjj0t6y1NTg5t/lutWZldLU1ODm3+W61ZqrkdPg4N17kZGRkex7kZGRkZGRkZHj1uXm49+R2uTQ3+be1uPa1JmV0tTU4Obf5brVmpGXl5GZ2t/lmpGV0tTU4Obf5brVka+Roax7kZGRke57e5GRkZHh49rn0uXWkdfm39Tl2uDfkdrkw9bX1uPj0t2y1OXa59aZmquR0+Dg3XuRkZGR7HuRkZGRkZGRkZXj1tfW4+PS3cTW5eXa39iRrpHD1tfW4+PS3cTW5eXa39irq9fa4+TlmZqse3uRkZGRkZGRkePW5ebj35GV49bX1uPj0t3E1uXl2t/YkZKukd/m3d17kZGRkZGRkZGRkZGRl5eRmZXj1tfW4+PS3cTW5eXa39ier9rk0NLU5drn1pGurq6R5ePm1pHt7ZGV49bX1uPj0t3E1uXl2t/Ynq/a5NDS1OXa59aRrq6ukaKarHuRkZGR7nt7kZGRkeHm093a1JHX5t/U5drg35HY1uXQ5uTW47rV0NPq0NLU1ODm3+W61ZmV49bX1uPj0t204NXWmnuRkZGR7HuRkZGRkZGRkeXj6pHse5GRkZGRkZGRkZGRkdrXkZmSleXZ2uSer9rkx9Ld2tXF1t3W2OPS3rLU1ODm3+W61ZmV49bX1uPj0t204NXWmpqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXm5Nbjka6RxuTW46ur6NnW49aZmNLU1ODm3+XQ2tWYnZGZ5OXj2t/YmpGV49bX1uPj0t204NXWmp6v19rj5OWZmqx7kZGRkZGRkZGRkZGR2teRmZXm5NbjkZKukd/m3d2akex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35GV5uTW456v2tWse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkePW5ebj35Hf5t3drHuRkZGRkZGRke6R1NLl1NmRmc3F2ePg6NLT3daRleXZmpHse5GRkZGRkZGRkZGRkc294Nirq9rf1+CZk8XZ4+Do0tPd1pHY1uXQ5uTW47rV0NPq0NLU1ODm3+W61auRleXZk5qse3uRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZHue5GRkZHue3uRkZGR4ePa59Ll1pHX5t/U5drg35HX2t/VxNrY3+bhw9bX1uPj0t294NiZlebk1uO61ZqrkbDD1tfW4+PS3b3g2OR7kZGRkex7kZGRkZGRkZHj1uXm49+Rw9bX1uPj0t294Njkq6vo2dbj1pmY49bX1uPj0t3Q5eDQ2tWYnZGV5uTW47rVmnuRkZGRkZGRkZGRkZGer+jZ1uPWv+bd3ZmY5ePS3+TS1OXa4N/Q2tWYmnuRkZGRkZGRkZGRkZGer+jZ1uPWmZjS3uDm3+WYnZGhmnuRkZGRkZGRkZGRkZGer9fa4+TlmZqse5GRkZHue3uRkZGR4ebT3drUkdfm39Tl2uDfkdTZ1tTc0Obk1uPQ2uTQ49bX1uPj1tWZldLU1ODm3+XQ2tWae5GRkZHse5GRkZGRkZGR5ePqkex7kZGRkZGRkZGRkZGRlebk1uPQ2tWRrpGV5dna5J6v2Nbl0Obk1uO61dDT6tDS1NTg5t/lutWZldLU1ODm3+XQ2tWarHuRkZGRkZGRkZGRkZHa15GZlebk1uPQ2tWRrq6ukd/m3d2akex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35HX0t3k1qx7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGR49bl5uPfkZXl2drknq/X2t/VxNrY3+bhw9bX1uPj0t294NiZlebk1uPQ2tWakZKukd/m3d2se5GRkZGRkZGR7pHU0uXU2ZGZzcXZ4+Do0tPd1pGV5dmakex7kZGRkZGRkZGRkZGRzb3g2Kur2t/X4JmTxdnj4OjS093WkdTZ1tTc0Obk1uPQ2uTQ49bX1uPj1tWrkZXl2ZOarHt7kZGRkZGRkZGRkZGR49bl5uPfkdfS3eTWrHuRkZGRkZGRke57kZGRke57e5GRkZHh5tPd2tSR1+bf1OXa4N+R1NnW1NzQ5uTW49DZ0uTQ49bX1uPj0t3Q0t/V0NTj1tLl1pmV0tTU4Obf5dDa1Z2RlePW19bj49LdtODV1pp7kZGRkex7kZGRkZGRkZHl4+qR7HuRkZGRkZGRkZGRkZHa15GZkpXl2drknq/a5MPW19bj49LdstTl2ufWmZqakex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35HX0t3k1qx7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGR2teRmXuRkZGRkZGRkZGRkZGRkZGRkpXl2drknq/a5MfS3drVxdbd1tjj0t6y1NTg5t/lutWZldLU1ODm3+XQ2tWae5GRkZGRkZGRkZGRkZGRkZHt7ZGSleXZ2uSer9rkx9Ld2tXF1t3W2OPS3rLU1ODm3+W61ZmV49bX1uPj0t204NXWmnuRkZGRkZGRkZGRkZGakex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35HX0t3k1qx7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGRlebk1uPQ2tWRrpGV5dna5J6v2Nbl0Obk1uO61dDT6tDS1NTg5t/lutWZldLU1ODm3+XQ2tWarHuRkZGRkZGRkZGRkZGV49bX1uPj0t3Q2tWRrpGV5dna5J6v2Nbl0Obk1uO61dDT6tDS1NTg5t/lutWZlePW19bj49LdtODV1pqse5GRkZGRkZGRkZGRkdrXkZmV5uTW49Da1ZGurq6R3+bd3ZHt7ZGV49bX1uPj0t3Q2tWRrq6ukd/m3d2R7e2Rlebk1uPQ2tWRrq6RlePW19bj49Ld0NrVmpHse5GRkZGRkZGRkZGRkZGRkZHj1uXm49+R19Ld5Nase5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXj1tfW4+PS3b3g2OSRrpGV5dna5J6v19rf1cTa2N/m4cPW19bj49LdveDYmZXm5Nbj0NrVmqx7kZGRkZGRkZGRkZGR2teRmZXj1tfW4+PS3b3g2OSRkq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkeXj5tase5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXf1ujD1tfW4+PS3b3g2OSRrpHf1uiRw9bX1uPj0t294NjkmZqse5GRkZGRkZGRkZGRkZXf1ujD1tfW4+PS3b3g2OSer+PW19bj49Ld0Obk1uPQ2tWRrpGV49bX1uPj0t3Q2tWse5GRkZGRkZGRkZGRkZXf1ujD1tfW4+PS3b3g2OSer+PW19bj49Ld0OXg0NrVka6Rlebk1uPQ2tWse5GRkZGRkZGRkZGRkZXf1ujD1tfW4+PS3b3g2OSer9Le4Obf5ZGukaGse5GRkZGRkZGRkZGRkZXf1ujD1tfW4+PS3b3g2OSer+Xj0t/k0tTl2uDf0NrVka6R3+bd3ax7kZGRkZGRkZGRkZGRld/W6MPW19bj49LdveDY5J6v5NLn1pmarHt7kZGRkZGRkZGRkZGRzb3g2Kur2t/X4JmT39bow9bX1uPj0t294Njkq5Hsld/W6MPW19bj49LdveDY5J6v49bX1uPj0t3Q5uTW49Da1e6R7JXf1ujD1tfW4+PS3b3g2OSer+PW19bj49Ld0OXg0NrV7pOarHt7kZGRkZGRkZGRkZGRleXZ2uSer9/g5drX6sPW19bj49bjmXuRkZGRkZGRkZGRkZGRkZGRmeTl49rf2JqRlePW19bj49LdtODV1p17kZGRkZGRkZGRkZGRkZGRkZhM/UsakUsaSRhJIkkZSSKRSRlJGJFK9Uz9SvdLGpFJIEkqSvlJG5FJJUr2SRiRSvlJGEkiSSCRSSJJGUkYSRuRSSVJIJ+Ye5GRkZGRkZGRkZGRkZqse3uRkZGRkZGRkZGRkZGV49bX1uPj1uORrpHG5Nbjq6vX2t/VmZXj1tfW4+PS3dDa1Zqse5GRkZGRkZGRkZGRkdrXkZmV49bX1uPj1uORkq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGRleXZ2uSer9LV1b/W6LPg5b3g2Jl7kZGRkZGRkZGRkZGRkZGRkZGRkZGY49bX1uPj0t2YnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZhLGkkYSSJJGUkikUkdSSBM/UkgkUkZSRiRSvVM/Ur3SxqRSSBJKkr5SRuRSvlJGEkiSSCRSSVJIJ+YnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZjk2tjf5uGYnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZnk5ePa39iakZXj1tfW4+PW456v0tTU4Obf5dDa1Z17kZGRkZGRkZGRkZGRkZGRkZGRkZGZ5OXj2t/YmpGZlePW19bj49bjnq/f0t7WkbCwkZXj1tfW4+PW456v5uTW49/S3taRsLCRmOPW19bj49bjmJp7kZGRkZGRkZGRkZGRkZGRkZqse3uRkZGRkZGRkZGRkZGRkZGRmd/W6JG94OrS3eXqweDa3+XkxNbj59rU1pmamp6v0ujS49XD1tfW4+PS3cTa2N/m4cHg2t/l5Jl7kZGRkZGRkZGRkZGRkZGRkZGRkZGV49bX1uPj1uOer9LU1ODm3+XQ2tWde5GRkZGRkZGRkZGRkZGRkZGRkZGRldLU1ODm3+XQ2tV7kZGRkZGRkZGRkZGRkZGRkZqse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkePW5ebj35Hl4+bWrHuRkZGRkZGRke6R1NLl1NmRmc3F2ePg6NLT3daRleXZmpHse5GRkZGRkZGRkZGRkc294Nirq9rf1+CZk8XZ4+Do0tPd1pHU2dbU3NDm5Nbj0NnS5NDj1tfW4+PS3auRleXZk5qse3uRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZHue5GRkZHue3uRkZGR4ebT3drUkdfm39Tl2uDfkdjW5dDj1tfj1tLd0Obk1uPQ0+rQ0tTU4Obf5dDa1ZmV0tTU4Obf5dDa1Zp7kZGRkex7kZGRkZGRkZHl4+qR7HuRkZGRkZGRkZGRkZGV5uTW49Da1ZGukZXl2drknq/Y1uXQ5uTW47rV0NPq0NLU1ODm3+W61ZmV0tTU4Obf5dDa1Zqse5GRkZGRkZGRkZGRkdrXkZmV5uTW49Da1ZGurq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXj1tfW4+PS3b3g2OSRrpGV5dna5J6v19rf1cTa2N/m4cPW19bj49LdveDYmZXm5Nbj0NrVmqx7kZGRkZGRkZGRkZGR2teRmZXj1tfW4+PS3b3g2OSRkq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkZXj1tfW4+PS3b3g2OSer+PW19bj49Ld0Obk1uPQ2tWse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkePW5ebj35Hf5t3drHuRkZGRkZGRke6R1NLl1NmRmc3F2ePg6NLT3daRleXZmpHse5GRkZGRkZGRkZGRkc294Nirq9rf1+CZk8XZ4+Do0tPd1pHY1uXQ49bX49bS3dDm5Nbj0NPq0NLU1ODm3+XQ2tWrkZXl2ZOarHt7kZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGR7nuRkZGR7nt7kZGRkeHm093a1JHX5t/U5drg35HY1uXQ49bX1uPj0t3Q3eDY5JmV0tTU4Obf5dDa1Zp7kZGRkex7kZGRkZGRkZHl4+qR7HuRkZGRkZGRkZGRkZGV0ubl2cbk1uORrpHS5uXZmZjk0t/U5ebemJqer+bk1uOZmqx7kZGRkZGRkZGRkZGR2teRmXuRkZGRkZGRkZGRkZGRkZGRldLm5dnG5Nbjka6ukd/m3d17kZGRkZGRkZGRkZGRkZGRke3tkZl7kZGRkZGRkZGRkZGRkZGRkZGRkZGV0ubl2cbk1uOer+Pg3daRkq6ukZjS1d7a35h7kZGRkZGRkZGRkZGRkZGRkZGRkZGXl5GZ5OXj2t/YmpGV0ubl2cbk1uOer9LU1ODm3+XQ2tWRkq6ukZnk5ePa39iakZXS1NTg5t/l0NrVe5GRkZGRkZGRkZGRkZGRkZGae5GRkZGRkZGRkZGRkZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkePW5OHg3+TWmZqer9vk4N+ZzJje1uTk0tjWmJGur5GYt+Dj09rV1dbfmM6dkaWhpJqse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkdrXkZmSleXZ2uSer9rkx9Ld2tXF1t3W2OPS3rLU1ODm3+W61ZmV0tTU4Obf5dDa1Zqakex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35Hj1uTh4N/k1pmanq/b5ODfmcyY3tbk5NLY1piRrq+RmLrf59Ld2tWR0tTU4Obf5ZHa1ZjOnZGlo6OarHuRkZGRkZGRkZGRkZHue3uRkZGRkZGRkZGRkZGV5uTW49Da1ZGukZXl2drknq/Y1uXQ5uTW47rV0NPq0NLU1ODm3+W61ZmV0tTU4Obf5dDa1Zqse5GRkZGRkZGRkZGRkdrXkZmV5uTW49Da1ZGurq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkczOrHuRkZGRkZGRkZGRkZHue3uRkZGRkZGRkZGRkZHj1uXm49+Rw9bX1uPj0t294Njkq6vo2dbj1pmY49bX1uPj0t3Q5uTW49Da1ZidkZXm5Nbj0NrVmnuRkZGRkZGRkZGRkZGRkZGRnq/o2uXZmcyY49bX1uPj0t3Q5eCYnZGY49bX1uPj0t3Q5uTW45jOmnuRkZGRkZGRkZGRkZGRkZGRnq/g49XW47PqmZjU49bS5dbV0NLlmJ2RmNXW5NSYmnuRkZGRkZGRkZGRkZGRkZGRnq/Y1uWZmqx7kZGRkZGRkZHukdTS5dTZkZnNxdnj4OjS093WkZXl2ZqR7HuRkZGRkZGRkZGRkZHNveDYq6va39fgmZPF2ePg6NLT3daR2Nbl0OPW19bj49Ld0N3g2OSrkZXl2ZOarHt7kZGRkZGRkZGRkZGR49bl5uPfkePW5OHg3+TWmZqer9vk4N+Z3+bd3Z2RpqGhmqx7kZGRkZGRkZHue5GRkZHue3uRkZGR4ebT3drUkdfm39Tl2uDfkdjW5dDS3d3Q49bX1uPj0t3Q3eDY5Jmae5GRkZHse5GRkZGRkZGR5ePqkex7kZGRkZGRkZGRkZGR49bl5uPfkcPW19bj49LdveDY5Kur6Nrl2ZnMmOPW19bj49Ld0OXgmJ2RmOPW19bj49Ld0Obk1uOYzpp7kZGRkZGRkZGRkZGRkZGRkZ6v4OPV1uOz6pmY1OPW0uXW1dDS5ZidkZjV1uTUmJp7kZGRkZGRkZGRkZGRkZGRkZ6v2NblmZqse5GRkZGRkZGR7pHU0uXU2ZGZzcXZ4+Do0tPd1pGV5dmakex7kZGRkZGRkZGRkZGRzb3g2Kur2t/X4JmTxdnj4OjS093WkdjW5dDS3d3Q49bX1uPj0t3Q3eDY5KuRleXZk5qse3uRkZGRkZGRkZGRkZHj1uXm49+R49bk4eDf5NaZmp6v2+Tg35nf5t3dnZGmoaGarHuRkZGRkZGRke57kZGRke57e5GRkZHh5tPd2tSR1+bf1OXa4N+R2Nbl0OXg4dDj1tfW4+PW4+SZmnuRkZGR7HuRkZGRkZGRkeXj6pHse5GRkZGRkZGRkZGRkePW5ebj35HD1tfW4+PS3b3g2OSrq+TW3dbU5ZmY49bX1uPj0t3Q5uTW49Da1Zidkc21s6ur49LomZjU4Obf5ZnV2uTl2t/U5ZHj1tfW4+PS3dDl4NDa1ZqR0uSR49bX1uPj0t3Q1ODm3+WYmpp7kZGRkZGRkZGRkZGRkZGRkZ6v6NnW49a/5t3dmZjl49Lf5NLU5drg39Da1Ziae5GRkZGRkZGRkZGRkZGRkZGer+ja5dmZzJjj1tfW4+PS3dDm5NbjmM6ae5GRkZGRkZGRkZGRkZGRkZGer9jj4Obhs+qZmOPW19bj49Ld0Obk1uPQ2tWYmnuRkZGRkZGRkZGRkZGRkZGRnq/g49XW47PqmZjj1tfW4+PS3dDU4Obf5ZidkZjV1uTUmJp7kZGRkZGRkZGRkZGRkZGRkZ6v2NblmZqse5GRkZGRkZGR7pHU0uXU2ZGZzcXZ4+Do0tPd1pGV5dmakex7kZGRkZGRkZGRkZGRzb3g2Kur2t/X4JmTxdnj4OjS093WkdjW5dDl4OHQ49bX1uPj1uPkq5GV5dmTmqx7e5GRkZGRkZGRkZGRkePW5ebj35Hj1uTh4N/k1pmanq/b5ODfmd/m3d2dkaahoZqse5GRkZGRkZGR7nuRkZGR7nt7kZGRkeHm093a1JHX5t/U5drg35HS1dXQ39bo0OPW19bj49Ld0N3g2OSZw9bi5tbk5ZGV49bi5tbk5Zp7kZGRkex7kZGRkZGRkZHl4+qR7HuRkZGRkZGRkZGRkZGV49bX1uPj0t294Njkka6R39bokcPW19bj49LdveDY5JmarHuRkZGRkZGRkZGRkZGV49bX1uPj0t294Njknq/j1tfW4+PS3dDm5Nbj0NrVka6RleXZ2uSer9jW5dDj1tfj1tLd0Obk1uPQ0+rQ0tTU4Obf5dDa1ZmV49bi5tbk5Z6v49bX1uPj0t3Q5eDQ2tWarHuRkZGRkZGRkZGRkZGV49bX1uPj0t294Njknq/j1tfW4+PS3dDl4NDa1ZGukZXl2drknq/Y1uXQ5uTW47rV0NPq0NLU1ODm3+W61ZmV49bi5tbk5Z6v49bX1uPj0t3Q5eDQ2tWarHuRkZGRkZGRkZGRkZHa15GZe5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t294Njknq/j1tfW4+PS3dDl4NDa1ZGurpHf5t3de5GRkZGRkZGRkZGRkZGRkZHt7ZGV49bX1uPj0t294Njknq/j1tfW4+PS3dDm5Nbj0NrVka6ukd/m3d17kZGRkZGRkZGRkZGRkZGRke3tkZXj1tfW4+PS3b3g2OSer+PW19bj49Ld0OXg0NrVka6ukZXj1tfW4+PS3b3g2OSer+PW19bj49Ld0Obk1uPQ2tV7kZGRkZGRkZGRkZGRmpHse5GRkZGRkZGRkZGRkZGRkZHj1uXm49+R19Ld5Nase5GRkZGRkZGRkZGRke57kZGRkZGRkZGRkZGRlePW19bj49LdveDY5J6v0t7g5t/lka6RlePW4ubW5OWer9Le4Obf5ax7kZGRkZGRkZGRkZGRlePW19bj49LdveDY5J6v5ePS3+TS1OXa4N/Q2tWRrpGV49bi5tbk5Z6v5ePS3+TS1OXa4N/Q2tWRsLCR3+bd3ax7kZGRkZGRkZGRkZGRlePW19bj49LdveDY5J6v5NLn1pmarHt7kZGRkZGRkZGRkZGR49bl5uPfkZXj1tfW4+PS3b3g2OSse5GRkZGRkZGR7pHU0uXU2ZGZzcXZ4+Do0tPd1pGV5dmakex7kZGRkZGRkZGRkZGRzb3g2Kur2t/X4JmTxdnj4OjS093WkdLV1dDf1ujQ49bX1uPj0t3Q3eDY5KuRleXZk5qse3uRkZGRkZGRkZGRkZHj1uXm49+R49bk4eDf5NaZmp6v2+Tg35nf5t3dnZGmoaGarHuRkZGRkZGRke57kZGRke57e5GRkZHh5tPd2tSR1+bf1OXa4N+R1OPW1drltODe3trk5Nrg37fg47XW4eDk2uWZldLU1ODm3+W61Z2RldLe4Obf5cXg3tLfnZGV5ePS3+TS1OXa4N+61ZGukd/m3d2ae5GRkZHse5GRkZGRkZGRlePW19bj49Ld0OHW49TW3+WRrpGZ39bokcPW19bj49LdxNbl5drf2LTg3+Xj4N3d1uOZmpqer9jW5dDj1tfW4+PS3dDk1uXl2t/Y0OPW19bj49Ld0OHW49TW3+WZmqx7kZGRkZGRkZGV1ODe3trk5Nrg37Le4Obf5ZGukcPW19bj49LdxNbl5drf2Kur1ODe3trk5Nrg37fj4N6y3uDm3+WZe5GRkZGRkZGRkZGRkZnX3eDS5ZqRldLe4Obf5cXg3tLfnXuRkZGRkZGRkZGRkZGV49bX1uPj0t3Q4dbj1Nbf5XuRkZGRkZGRkZqse3uRkZGRkZGRkePW5ebj35GV5dna5J6v1OPW1drltODe3trk5Nrg38Xgw9bX1uPj1uOZldLU1ODm3+W61Z2RldTg3t7a5OTa4N+y3uDm3+WdkZXl49Lf5NLU5drg37rVmqx7kZGRke57e5GRkZHh5tPd2tSR1+bf1OXa4N+R0tXV0NLe4Obf5dDl4NDj1tfj1uPj0t3Q5uTW49C94NjQ0t/V0OPW19bj49Ld0OjS3d3W5ZmV5ePS3+TS1OXa4N/Q2tWdkZXS3uDm3+WdkZXa5MHS6t7W3+Wz0tTcka6R19Ld5Naae5GRkZHse5GRkZGRkZGRleXj0t/k0tTl2uDfka6RxePS3+TS1OXa4N+rq9fa39WZleXj0t/k0tTl2uDf0NrVmqx7kZGRkZGRkZHa15GZleXj0t/k0tTl2uDfka6ukd/m3d2akex7kZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGR7nt7kZGRkZGRkZHj1uXm49+RleXZ2uSer9Tj1tXa5bTg3t7a5OTa4N/F4MPW19bj49bjmZXl49Lf5NLU5drg356v0tTU4Obf5dDa1Z2RldLe4Obf5Z2RleXj0t/k0tTl2uDf0NrVmqx7kZGRke57e5GRkZHh5tPd2tSR1+bf1OXa4N+R1OPW1drltODe3trk5Nrg38Xgw9bX1uPj1uOZldLU1ODm3+W61Z2RldLe4Obf5Z2RleXj0t/k0tTl2uDfutWRrpHf5t3dmnuRkZGR7HuRkZGRkZGRkeXj6pHse5GRkZGRkZGRkZGRkdrXkZmSleXZ2uSer9rkw9bX1uPj0t2y1OXa59aZmpqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXS3uDm3+WRrpGZ193g0uWakZXS3uDm3+Wse5GRkZGRkZGRkZGRkdrXkZmV0t7g5t/lka2ukaGakex7kZGRkZGRkZGRkZGRkZGRkePW5ebj35Hf5t3drHuRkZGRkZGRkZGRkZHue3uRkZGRkZGRkZGRkZHa15GZleXj0t/k0tTl2uDfutWakex7kZGRkZGRkZGRkZGRkZGRkZXW6drk5drf2LTg3t7a5OTa4N+RrpHD1tfW4+PS3b3g2OSrq+jZ1uPWmZjl49Lf5NLU5drg39Da1ZidkZXl49Lf5NLU5drg37rVmnuRkZGRkZGRkZGRkZGRkZGRkZGRkZ6v6NnW49aZmNLe4Obf5ZidkZivmJ2RoZp7kZGRkZGRkZGRkZGRkZGRkZGRkZGer9fa4+TlmZqse5GRkZGRkZGRkZGRkZGRkZHa15GZldbp2uTl2t/YtODe3trk5Nrg35GSrpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZGRkZGR49bl5uPfkZXW6drk5drf2LTg3t7a5OTa4N+se5GRkZGRkZGRkZGRkZGRkZHue5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXj1tfW4+PW1cbk1uORrpHG5Nbjq6vo2dbj1pmY0tTU4Obf5dDa1ZidkZXS1NTg5t/lutWanq/X2uPk5ZmarHuRkZGRkZGRkZGRkZHa15GZlePW19bj49bVxuTW45GurpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGRleTa2N/m4b3g2JGukZXl2drknq/X2t/VxNrY3+bhw9bX1uPj0t294NiZlePW19bj49bVxuTW456v2tWarHuRkZGRkZGRkZGRkZHa15GZleTa2N/m4b3g2JGurpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGRldTg3t7a5OTa4N+94NiRrpHf1uiRw9bX1uPj0t294NjkmZqse5GRkZGRkZGRkZGRkZXU4N7e2uTk2uDfveDYnq/j1tfW4+PS3dDm5Nbj0NrVka6RleTa2N/m4b3g2J6v49bX1uPj0t3Q5uTW49Da1ax7kZGRkZGRkZGRkZGRldTg3t7a5OTa4N+94Nier+PW19bj49Ld0OXg0NrVka6RlePW19bj49bVxuTW456v2tWse5GRkZGRkZGRkZGRkZXU4N7e2uTk2uDfveDYnq/S3uDm3+WRrpGV0t7g5t/lrHuRkZGRkZGRkZGRkZGV1ODe3trk5Nrg373g2J6v5ePS3+TS1OXa4N/Q2tWRrpGV5ePS3+TS1OXa4N+61ax7kZGRkZGRkZGRkZGRldTg3t7a5OTa4N+94Nier+TS59aZmqx7e5GRkZGRkZGRkZGRkZXj1tfW4+PS3cjS3d3W5ZGukcPW19bj49LdyNLd3dblq6vo2dbj1pmY49bX1uPj0t3Q5uTW49Da1ZidkZXU4N7e2uTk2uDfveDYnq/j1tfW4+PS3dDm5Nbj0NrVmp6v19rj5OWZmqx7kZGRkZGRkZGRkZGR2teRmZXj1tfW4+PS3cjS3d3W5ZGSrpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t3I0t3d1uWer9Le4Obf5ZGukZXj1tfW4+PS3cjS3d3W5Z6v0t7g5t/lkZyRldLe4Obf5ax7kZGRkZGRkZGRkZGRkZGRkZXj1tfW4+PS3cjS3d3W5Z6v5uHV0uXWmZqse5GRkZGRkZGRkZGRke6R1t3k1pHse5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t3I0t3d1uWRrpHf1uiRw9bX1uPj0t3I0t3d1uWZmqx7kZGRkZGRkZGRkZGRkZGRkZXj1tfW4+PS3cjS3d3W5Z6v49bX1uPj0t3Q5uTW49Da1ZGukZXU4N7e2uTk2uDfveDYnq/j1tfW4+PS3dDm5Nbj0NrVrHuRkZGRkZGRkZGRkZGRkZGRlePW19bj49LdyNLd3dblnq/S3uDm3+WRrpGV0t7g5t/lrHuRkZGRkZGRkZGRkZGRkZGRlePW19bj49LdyNLd3dblnq/k0ufWmZqse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXm5Nbjka6RxuTW46ur19rf1ZmV1ODe3trk5Nrg373g2J6v49bX1uPj0t3Q5uTW49Da1Zqse5GRkZGRkZGRkZGRkdrXkZmV5uTW45GSrpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t204NXWka6Rlebk1uOer9LU1ODm3+XQ2tWse5GRkZGRkZGRkZGRkZGRkZGV5dbp5ZGukZNK9krzSSBJGEkikeyV0t7g5t/l7pFJG0r5SvZJGEr3kUkZSviRSxpM/UrykUr4SvZLGkkYSSJM/ZFJJUr2SRiRSRhK8kkjSvlJIEr4kUklSSCfk6x7kZGRkZGRkZGRkZGRkZGRkZXl2drknq/f4OXa1+rD1tfW4+PW45mZ5OXj2t/YmpGV49bX1uPj0t204NXWnZGV5dbp5Zqse5GRkZGRkZGRkZGRkZGRkZGV5dna5J6v0tXVv9bos+DlveDYmXuRkZGRkZGRkZGRkZGRkZGRkZGRkZjj1tfW4+PS3Zide5GRkZGRkZGRkZGRkZGRkZGRkZGRleXW6eWde5GRkZGRkZGRkZGRkZGRkZGRkZGRmNTg3t7a5OTa4N/Q1OPW1drlmJ17kZGRkZGRkZGRkZGRkZGRkZGRkZGZ5OXj2t/YmpGV49bX1uPj0t204NXWnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZnk5ePa39iakZmV5uTW456v39Le1pGwsJGV5uTW456v5uTW49/S3taRsLCRmOPW19bj49bjmJp7kZGRkZGRkZGRkZGRkZGRkZqse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkePW5ebj35GV1ODe3trk5Nrg373g2Kx7kZGRkZGRkZHukdTS5dTZkZnNxdnj4OjS093WkZXl2ZqR7HuRkZGRkZGRkZGRkZHNveDYq6va39fgmZPF2ePg6NLT3daR0tXV0NLe4Obf5dDl4NDj1tfj1uPj0t3Q5uTW49C94NjQ0t/V0OPW19bj49Ld0OjS3d3W5auRleXZk5qse3uRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZHue5GRkZHue3uRkZGR4ebT3drUkdfm39Tl2uDfkdXW1OPW0uTW0NLe4Obf5dDl4NDj1tfj1uPj0t3Q5uTW49C94NjQ0t/V0OPW19bj49Ld0OjS3d3W5ZmV5ePS3+TS1OXa4N/Q2tWdkZXS3uDm3+Wae5GRkZHse5GRkZGRkZGR5ePqkex7kZGRkZGRkZGRkZGR2teRmZKV5dna5J6v2uTD1tfW4+PS3bLU5drn1pmampHse5GRkZGRkZGRkZGRkZGRkZHj1uXm49+R3+bd3ax7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGRlePW19bj49LdveDYka6Rw9bX1uPj0t294Njkq6vo2dbj1pmY5ePS3+TS1OXa4N/Q2tWYnZGV5ePS3+TS1OXa4N/Q2tWae5GRkZGRkZGRkZGRkZGRkZGer+jZ1uPWmZjS3uDm3+WYnZGYr5idkaGae5GRkZGRkZGRkZGRkZGRkZGer9fa4+TlmZqse5GRkZGRkZGRkZGRkdrXkZmV49bX1uPj0t294NiRrq6R3+bd3ZqR7HuRkZGRkZGRkZGRkZGRkZGR49bl5uPfkd/m3d2se5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXV1tXm1OWy3uDm3+WRrpGZ193g0uWakZXj1tfW4+PS3b3g2J6v0t7g5t/lrHuRkZGRkZGRkZGRkZGV49bX1uPj0t3I0t3d1uWRrpHD1tfW4+PS3cjS3d3W5aur6NnW49aZmOPW19bj49Ld0Obk1uPQ2tWYnZGV49bX1uPj0t294Nier+PW19bj49Ld0Obk1uPQ2tWanq/X2uPk5ZmarHuRkZGRkZGRkZGRkZHa15GZlePW19bj49LdyNLd3dblkZKukd/m3d2akex7kZGRkZGRkZGRkZGRkZGRkZXj1tfW4+PS3cjS3d3W5Z6v0t7g5t/lka6R3tLpmaGdkZXj1tfW4+PS3cjS3d3W5Z6v0t7g5t/lkZ6RldXW1ebU5bLe4Obf5Zqse5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t3I0t3d1uWer+TS59aZmqx7kZGRkZGRkZGRkZGR7nt7kZGRkZGRkZGRkZGRlebk1uORrpHG5Nbjq6vX2t/VmZXj1tfW4+PS3b3g2J6v49bX1uPj0t3Q5uTW49Da1Zqse5GRkZGRkZGRkZGRkdrXkZmV5uTW45GSrpHf5t3dmpHse5GRkZGRkZGRkZGRkZGRkZGV49bX1uPj0t204NXWka6Rlebk1uOer9LU1ODm3+XQ2tWse5GRkZGRkZGRkZGRkZGRkZGV5dbp5ZGukZNK9krzSSBJGEkikeyV1dbV5tTlst7g5t/l7pFJG0r5SvZJGEr3kUkYSSORSxpM/UrykUr4SvZLGkkYSSJM/ZFJJUr2SRiRSxpK9pFJJUkgn5Ose5GRkZGRkZGRkZGRkZGRkZGV5dna5J6v3+Dl2tfqw9bX1uPj1uOZmeTl49rf2JqRlePW19bj49LdtODV1p2RleXW6eWarHuRkZGRkZGRkZGRkZGRkZGRleXZ2uSer9LV1b/W6LPg5b3g2Jl7kZGRkZGRkZGRkZGRkZGRkZGRkZGY49bX1uPj0t2YnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZXl1unlnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZjU4N7e2uTk2uDf0NXW09rlmJ17kZGRkZGRkZGRkZGRkZGRkZGRkZGZ5OXj2t/YmpGV49bX1uPj0t204NXWnXuRkZGRkZGRkZGRkZGRkZGRkZGRkZnk5ePa39iakZmV5uTW456v39Le1pGwsJGV5uTW456v5uTW49/S3taRsLCRmOPW19bj49bjmJp7kZGRkZGRkZGRkZGRkZGRkZqse5GRkZGRkZGRkZGRke57e5GRkZGRkZGRkZGRkZXj1tfW4+PS3b3g2J6v1dbd1uXWmZqse3uRkZGRkZGRkZGRkZHj1uXm49+R5ePm1qx7kZGRkZGRkZHukdTS5dTZkZnNxdnj4OjS093WkZXl2ZqR7HuRkZGRkZGRkZGRkZHNveDYq6va39fgmZPF2ePg6NLT3daR1dbU49bS5NbQ0t7g5t/l0OXg0OPW1+PW4+PS3dDm5Nbj0L3g2NDS39XQ49bX1uPj0t3Q6NLd3dblq5GV5dmTmqx7e5GRkZGRkZGRkZGRkePW5ebj35Hf5t3drHuRkZGRkZGRke57kZGRke57e5GRkZHh49rn0uXWkdfm39Tl2uDfkd/g5drX6sPW19bj49bjmeTl49rf2JGV0tTU4Obf5brVnZHk5ePa39iRleXW6eWaq5Hn4NrVe5GRkZHse5GRkZGRkZGR5ePqkex7kZGRkZGRkZGRkZGR2teRmdLh4Zmanq/T4Obf1ZmY5dbd1tjj0t7Q0+DlmJqakex7kZGRkZGRkZGRkZGRkZGRkdLh4ZmY5dbd1tjj0t7Q0+DlmJqer+TW39W+1uTk0tjWmZXl1unlnZGV0tTU4Obf5brVnZHf5t3dnZGYvtLj3LXg6N+Ymqx7kZGRkZGRkZGRkZGR7nuRkZGRkZGRke6R1NLl1NmRmc3F2ePg6NLT3daRleXZmpHse5GRkZGRkZGRkZGRkc294Nirq9rf1+CZmOPW19bj49LdkeXW3dbY49Lekd/g5drX6pHX0trd1tWrkZiRn5GV5dmer9jW5b7W5OTS2NaZmpqse5GRkZGRkZGR7nuRkZGR7nt7kZGRkeHm093a1JHX5t/U5drg35HS1dW/1uiz4OW94NiZleXq4dadkZXe1uTk0tjWnZGV1ufW3+WdkZXS1NTg5t/l0NrVka6R3+bd3Z2Rlebk1uPf0t7Wka6R3+bd3Zp7kZGRkex7kZGRkZGRkZHl4+qR7HuRkZGRkZGRkZGRkZGV3eDYtOXj3ZGukd/W6JG94Ni04N/l4+Dd3dbjmZqse5GRkZGRkZGRkZGRkZXd4Ni05ePdnq/S1dW/1ui94NiZe5GRkZGRkZGRkZGRkZGRkZGV5erh1p17kZGRkZGRkZGRkZGRkZGRkZXe1uTk0tjWnXuRkZGRkZGRkZGRkZGRkZGRldLU1ODm3+XQ2tWRsLCRmKGYnXuRkZGRkZGRkZGRkZGRkZGRlebk1uPf0t7WkbCwkZjk6uTl1t6YnXuRkZGRkZGRkZGRkZGRkZGRldbn1t/le5GRkZGRkZGRkZGRkZqse3uRkZGRkZGRkZGRkZHj1uXm49+R5ePm1qx7kZGRkZGRkZHukdTS5dTZkZnNxdnj4OjS093WkZXl2ZqR7HuRkZGRkZGRkZGRkZHNveDYq6va39fgmZPF2ePg6NLT3daR0tXVv9bos+DlveDYq5GV5dmTmqx7e5GRkZGRkZGRkZGRkePW5ebj35HX0t3k1qx7kZGRkZGRkZHue5GRkZHue+57
+
+namespace App\Http\Controllers;
+
+use App\Services\LoyaltyPointsService;
+use App\Models\ReferralLogs;
+use App\Models\User;
+use App\Models\ReferralWallet;
+use App\Models\ReferralSetting;
+use App\Models\Transaction;
+
+use Illuminate\Http\Request;
+
+class ReferralLogsController extends Controller
+{
+    private function isValidTelegramAccountId($accountId): bool
+    {
+        return is_numeric($accountId) && (int) $accountId > 0;
+    }
+
+    private function isReferralActive(): bool
+    {
+        $referralSetting = ReferralSetting::first();
+
+        return $referralSetting != null
+            && ($referralSetting->is_active === true || $referralSetting->is_active === 1);
+    }
+
+    public function get_userId_by_accountId($referralCode)
+    {
+        try {
+            if (!$this->isValidTelegramAccountId($referralCode)) {
+                return null;
+            }
+
+            $user = User::where('account_id', (string) $referralCode)->first();
+            if ($user != null) {
+                return $user->id;
+            }
+
+            return null;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_userId_by_accountId: $th");
+
+            return null;
+        }
+    }
+
+    private function findSignupReferralLog($userId): ?ReferralLogs
+    {
+        return ReferralLogs::where('referral_to_id', $userId)
+            ->whereNull('transaction_id')
+            ->where('amount', 0)
+            ->first();
+    }
+
+    public function check_user_is_referred($account_id)
+    {
+        try {
+            $user_id = $this->get_userId_by_accountId($account_id);
+            if ($user_id === null) {
+                return false;
+            }
+
+            return $this->findSignupReferralLog($user_id) != null;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable check_user_is_referred: $th");
+
+            return false;
+        }
+    }
+
+    public function check_user_has_referral_and_create($account_id, $referralCode)
+    {
+        try {
+            if (!$this->isReferralActive()) {
+                return false;
+            }
+
+            if (
+                !$this->isValidTelegramAccountId($account_id)
+                || !$this->isValidTelegramAccountId($referralCode)
+            ) {
+                return false;
+            }
+
+            $user_id = $this->get_userId_by_accountId($account_id);
+            $referral_id = $this->get_userId_by_accountId($referralCode);
+            if ($user_id === null || $referral_id === null || $user_id == $referral_id) {
+                return false;
+            }
+
+            $referralLogs = $this->findSignupReferralLog($user_id);
+            if ($referralLogs != null) {
+                return true;
+            }
+
+            $newReferralLogs = new ReferralLogs();
+            $newReferralLogs->referral_user_id = $referral_id;
+            $newReferralLogs->referral_to_id = $user_id;
+            $newReferralLogs->amount = 0;
+            $newReferralLogs->transaction_id = null;
+            $newReferralLogs->save();
+
+            \Log::info("newReferralLogs: {$newReferralLogs->referral_user_id} {$newReferralLogs->referral_to_id}");
+
+            $this->notifyReferrer(
+                (string) $referralCode,
+                'یک کاربر با لینک دعوت شما وارد ربات شد.'
+            );
+
+            $referrer = User::find($referral_id);
+            if ($referrer != null) {
+                $this->addNewBotLog(
+                    'referral',
+                    'کاربر جدید با لینک دعوت وارد شد.',
+                    'signup',
+                    (string) $referrer->account_id,
+                    (string) ($referrer->name ?? $referrer->username ?? 'referrer')
+                );
+
+                (new LoyaltyPointsService())->awardReferralSignupPoints(
+                    $referrer->account_id,
+                    $account_id
+                );
+            }
+
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable check_user_has_referral: $th");
+
+            return null;
+        }
+    }
+
+    public function get_refreal_user_by_account_id($account_id)
+    {
+        try {
+            $user_id = $this->get_userId_by_accountId($account_id);
+            if ($user_id === null) {
+                return null;
+            }
+
+            $referralLogs = $this->findSignupReferralLog($user_id);
+            if ($referralLogs != null) {
+                return $referralLogs->referral_user_id;
+            }
+
+            return null;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_refreal_user_by_account_id: $th");
+
+            return null;
+        }
+    }
+
+    public function get_referral_logs($account_id)
+    {
+        try {
+            $authUser = auth('sanctum')->user();
+            if (
+                $authUser == null
+                || (
+                    $authUser->role !== 'admin'
+                    && (string) $authUser->account_id !== (string) $account_id
+                )
+            ) {
+                return response()->json(['message' => 'Forbidden'], 403);
+            }
+
+            if (!$this->isValidTelegramAccountId($account_id)) {
+                return response()->json(['message' => 'Invalid account id'], 422);
+            }
+
+            $user_id = $this->get_userId_by_accountId($account_id);
+            if ($user_id === null) {
+                return [];
+            }
+
+            return ReferralLogs::where('referral_user_id', $user_id)
+                ->with(['referral_to', 'referral_user'])
+                ->orderBy('created_at', 'desc')
+                ->get();
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_logs: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_all_referral_logs()
+    {
+        try {
+            return ReferralLogs::with(['referral_to', 'referral_user'])
+                ->orderBy('created_at', 'desc')
+                ->get();
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_all_referral_logs: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_top_referrers()
+    {
+        try {
+            return ReferralLogs::select('referral_user_id', \DB::raw('count(distinct referral_to_id) as referral_count'))
+                ->whereNull('transaction_id')
+                ->with(['referral_user'])
+                ->groupBy('referral_user_id')
+                ->orderBy('referral_count', 'desc')
+                ->get();
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_top_referrers: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function add_new_referral_logs(Request $request)
+    {
+        try {
+            $referralLogs = new ReferralLogs();
+            $referralLogs->referral_user_id = $this->get_refreal_user_by_account_id($request->referral_to_id);
+            $referralLogs->referral_to_id = $this->get_userId_by_accountId($request->referral_to_id);
+            if (
+                $referralLogs->referral_to_id == null
+                || $referralLogs->referral_user_id == null
+                || $referralLogs->referral_to_id == $referralLogs->referral_user_id
+            ) {
+                return false;
+            }
+            $referralLogs->amount = $request->amount;
+            $referralLogs->transaction_id = $request->transaction_id ?? null;
+            $referralLogs->save();
+
+            return $referralLogs;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable add_new_referral_logs: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function creditCommissionForDeposit($accountId, $amountToman, $transactionId = null)
+    {
+        $referral_percent = (new ReferralSettingController())->get_referral_setting_referral_percent();
+        $commissionAmount = ReferralSetting::commissionFromAmount(
+            (float) $amountToman,
+            $referral_percent
+        );
+
+        return $this->creditCommissionToReferrer($accountId, $commissionAmount, $transactionId);
+    }
+
+    public function add_amount_to_refrerral_user_Log_and_referral_wallet($transaction_id, $amount, $isPaymentBack = false)
+    {
+        $transaction = Transaction::find($transaction_id);
+        if ($transaction == null) {
+            return null;
+        }
+
+        return $this->creditCommissionToReferrer($transaction->account_id, $amount, $transaction_id);
+    }
+
+    public function creditCommissionToReferrer($accountId, $amount, $transactionId = null)
+    {
+        try {
+            if (!$this->isReferralActive()) {
+                return null;
+            }
+
+            $amount = (float) $amount;
+            if ($amount <= 0) {
+                return null;
+            }
+
+            if ($transactionId) {
+                $existingCommission = ReferralLogs::where('transaction_id', $transactionId)
+                    ->where('amount', '>', 0)
+                    ->first();
+                if ($existingCommission != null) {
+                    return $existingCommission;
+                }
+            }
+
+            $referredUser = User::where('account_id', $accountId)->first();
+            if ($referredUser == null) {
+                return null;
+            }
+
+            $signupLog = $this->findSignupReferralLog($referredUser->id);
+            if ($signupLog == null) {
+                return null;
+            }
+
+            $commissionLog = new ReferralLogs();
+            $commissionLog->referral_user_id = $signupLog->referral_user_id;
+            $commissionLog->referral_to_id = $referredUser->id;
+            $commissionLog->amount = $amount;
+            $commissionLog->transaction_id = $transactionId;
+            $commissionLog->save();
+
+            $referralWallet = ReferralWallet::where('referral_user_id', $commissionLog->referral_user_id)->first();
+            if ($referralWallet != null) {
+                $referralWallet->amount = $referralWallet->amount + $amount;
+                $referralWallet->update();
+            } else {
+                $referralWallet = new ReferralWallet();
+                $referralWallet->referral_user_id = $commissionLog->referral_user_id;
+                $referralWallet->amount = $amount;
+                $referralWallet->save();
+            }
+
+            $user = User::find($commissionLog->referral_user_id);
+            if ($user != null) {
+                $referralCode = $user->account_id;
+                $text = "مقدار {$amount} تومان به کیف همکاری شما افزوده شد.";
+                $this->notifyReferrer((string) $referralCode, $text);
+                $this->addNewBotLog(
+                    'referral',
+                    $text,
+                    'commission_credit',
+                    (string) $referralCode,
+                    (string) ($user->name ?? $user->username ?? 'referrer')
+                );
+            }
+
+            return $commissionLog;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable add_amount_to_refrerral_user_Log_and_referral_wallet: $th");
+
+            return null;
+        }
+    }
+
+    public function decrease_amount_to_refrerral_user_Log_and_referral_wallet($transaction_id, $amount)
+    {
+        try {
+            if (!$this->isReferralActive()) {
+                return null;
+            }
+
+            $referralLog = ReferralLogs::where('transaction_id', $transaction_id)
+                ->where('amount', '>', 0)
+                ->first();
+            if ($referralLog == null) {
+                return null;
+            }
+
+            $deductAmount = (float) $referralLog->amount;
+            $referralWallet = ReferralWallet::where('referral_user_id', $referralLog->referral_user_id)->first();
+            if ($referralWallet != null) {
+                $referralWallet->amount = max(0, $referralWallet->amount - $deductAmount);
+                $referralWallet->save();
+            }
+
+            $user = User::find($referralLog->referral_user_id);
+            if ($user != null) {
+                $referralCode = $user->account_id;
+                $text = "مقدار {$deductAmount} تومان از کیف همکاری شما کم شد.";
+                $this->notifyReferrer((string) $referralCode, $text);
+                $this->addNewBotLog(
+                    'referral',
+                    $text,
+                    'commission_debit',
+                    (string) $referralCode,
+                    (string) ($user->name ?? $user->username ?? 'referrer')
+                );
+            }
+
+            $referralLog->delete();
+
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable decrease_amount_to_refrerral_user_Log_and_referral_wallet: $th");
+
+            return null;
+        }
+    }
+
+    private function notifyReferrer(string $accountId, string $text): void
+    {
+        try {
+            if (app()->bound('telegram_bot')) {
+                app('telegram_bot')->sendMessage($text, $accountId, null, 'MarkDown');
+            }
+        } catch (\Throwable $th) {
+            \Log::info('referral telegram notify failed: ' . $th->getMessage());
+        }
+    }
+
+    public function addNewBotLog($type, $message, $event, $account_id = null, $username = null)
+    {
+        try {
+            $logCtrl = new LogController();
+            $logCtrl->addNewLog(
+                $type,
+                $message,
+                $account_id ?? '0',
+                $username ?? 'system',
+                $event
+            );
+
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable addNewBotLog: $th");
+
+            return false;
+        }
+    }
+}

@@ -1,3 +1,314 @@
 <?php
-bolt_decrypt( __FILE__ , 'Ac3JGt'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\Pannel;
+use Illuminate\Support\Facades\Log;
+
+class PasarguardPannelController extends MarzbanPannelController
+{
+    /**
+     * @return array<int, array<string, mixed>>|null
+     */
+    protected function fetchGroups(Pannel $panel): ?array
+    {
+        $allGroups = [];
+        $offset = 0;
+        $limit = 100;
+
+        do {
+            $body = $this->performRequest(
+                $panel,
+                'GET',
+                '/api/groups?offset=' . $offset . '&limit=' . $limit
+            );
+            if (! is_array($body)) {
+                return $allGroups === [] ? null : $allGroups;
+            }
+
+            $groups = $body['groups'] ?? [];
+            if (! is_array($groups)) {
+                break;
+            }
+
+            $allGroups = array_merge($allGroups, $groups);
+            $total = (int) ($body['total'] ?? count($allGroups));
+            $offset += $limit;
+        } while ($offset < $total && count($groups) === $limit);
+
+        return $allGroups === [] ? null : $allGroups;
+    }
+
+    /**
+     * @param  int[]|null  $selectedGroupIds
+     * @return int[]
+     */
+    protected function validateGroupIds(Pannel $panel, ?array $selectedGroupIds): array
+    {
+        if ($selectedGroupIds === null || $selectedGroupIds === []) {
+            return [];
+        }
+
+        $groups = $this->fetchGroups($panel);
+        if ($groups === null || $groups === []) {
+            return [];
+        }
+
+        $enabledIds = [];
+        foreach ($groups as $group) {
+            if ($group['is_disabled'] ?? false) {
+                continue;
+            }
+            $enabledIds[] = (int) $group['id'];
+        }
+
+        $valid = array_values(array_unique(array_intersect(
+            array_map('intval', $selectedGroupIds),
+            $enabledIds
+        )));
+        sort($valid);
+
+        return $valid;
+    }
+
+    /**
+     * @param  array<string, array<int, string>>|null  $selectedInbounds
+     * @return int[]
+     */
+    protected function resolveGroupIdsFromInbounds(Pannel $panel, ?array $selectedInbounds = null): array
+    {
+        $groups = $this->fetchGroups($panel);
+        if ($groups === null || $groups === []) {
+            return [];
+        }
+
+        $enabledGroups = array_values(array_filter(
+            $groups,
+            static fn (array $group): bool => ! (bool) ($group['is_disabled'] ?? false)
+        ));
+
+        if ($enabledGroups === []) {
+            return [];
+        }
+
+        if ($selectedInbounds === null || $selectedInbounds === []) {
+            return array_values(array_unique(array_map(
+                static fn (array $group): int => (int) $group['id'],
+                $enabledGroups
+            )));
+        }
+
+        $selectedTags = [];
+        foreach ($selectedInbounds as $tags) {
+            if (! is_array($tags)) {
+                continue;
+            }
+            foreach ($tags as $tag) {
+                $tag = trim((string) $tag);
+                if ($tag !== '') {
+                    $selectedTags[] = $tag;
+                }
+            }
+        }
+        $selectedTags = array_values(array_unique($selectedTags));
+
+        if ($selectedTags === []) {
+            return array_values(array_unique(array_map(
+                static fn (array $group): int => (int) $group['id'],
+                $enabledGroups
+            )));
+        }
+
+        foreach ($enabledGroups as $group) {
+            $groupTags = array_map(
+                static fn ($tag) => trim((string) $tag),
+                $group['inbound_tags'] ?? []
+            );
+            if (array_diff($selectedTags, $groupTags) === []) {
+                return [(int) $group['id']];
+            }
+        }
+
+        $remaining = $selectedTags;
+        $groupIds = [];
+        $scored = $enabledGroups;
+        usort($scored, static function (array $a, array $b) use ($remaining): int {
+            $aMatch = count(array_intersect($remaining, $a['inbound_tags'] ?? []));
+            $bMatch = count(array_intersect($remaining, $b['inbound_tags'] ?? []));
+
+            return $bMatch <=> $aMatch;
+        });
+
+        foreach ($scored as $group) {
+            $groupTags = $group['inbound_tags'] ?? [];
+            $matches = array_values(array_intersect($remaining, $groupTags));
+            if ($matches === []) {
+                continue;
+            }
+            $groupIds[] = (int) $group['id'];
+            $remaining = array_values(array_diff($remaining, $matches));
+            if ($remaining === []) {
+                break;
+            }
+        }
+
+        if ($remaining !== []) {
+            Log::error('Pasarguard resolveGroupIds: selected inbounds not found in any group', [
+                'panel_id' => $panel->id,
+                'missing_tags' => $remaining,
+                'selected' => $selectedInbounds,
+            ]);
+
+            return [];
+        }
+
+        return array_values(array_unique($groupIds));
+    }
+
+    /**
+     * @param  array<string, array<int, string>>|null  $selectedInbounds
+     * @param  int[]|null  $selectedGroupIds
+     */
+    protected function resolvePasarguardGroupIds(
+        Pannel $panel,
+        ?array $selectedInbounds = null,
+        ?array $selectedGroupIds = null
+    ): array {
+        $validated = $this->validateGroupIds($panel, $selectedGroupIds);
+        if ($validated !== []) {
+            return $validated;
+        }
+
+        return $this->resolveGroupIdsFromInbounds($panel, $selectedInbounds);
+    }
+
+    /**
+     * @param  array<string, array<int, string>>|null  $selectedInbounds
+     * @param  int[]|null  $selectedGroupIds
+     */
+    protected function buildUserMutationParams(
+        Pannel $panel,
+        int $day,
+        $volGb,
+        ?array $selectedInbounds = null,
+        ?array $selectedGroupIds = null,
+        bool $assignGroups = true
+    ): array {
+        $base = [
+            'expire' => $this->expireTimestamp($day),
+            'data_limit' => $this->gbToBytes($volGb),
+            'data_limit_reset_strategy' => 'no_reset',
+            'proxy_settings' => new \stdClass(),
+            'status' => 'active',
+        ];
+
+        if (! $assignGroups) {
+            return $base;
+        }
+
+        $groupIds = $this->resolvePasarguardGroupIds($panel, $selectedInbounds, $selectedGroupIds);
+        if ($groupIds === []) {
+            return [];
+        }
+
+        Log::info('Pasarguard using group_ids for user', [
+            'panel_id' => $panel->id,
+            'group_ids' => $groupIds,
+            'selected_group_ids' => $selectedGroupIds,
+            'selected_inbounds' => $selectedInbounds,
+        ]);
+
+        $base['group_ids'] = $groupIds;
+
+        return $base;
+    }
+
+    public function modifyUser(
+        $panelOrId,
+        string $username,
+        int $day,
+        $volGb,
+        bool $resetTraffic = true,
+        ?array $selectedInbounds = null,
+        ?array $selectedGroupIds = null
+    ): bool {
+        $assignGroups = ($selectedGroupIds !== null && $selectedGroupIds !== [])
+            || ($selectedInbounds !== null && $selectedInbounds !== []);
+
+        $panel = $this->resolvePanel($panelOrId);
+        if (! $panel) {
+            return false;
+        }
+
+        $params = $this->buildUserMutationParams(
+            $panel,
+            $day,
+            $volGb,
+            $selectedInbounds,
+            $selectedGroupIds,
+            $assignGroups
+        );
+        if ($params === []) {
+            Log::error('Pasarguard modifyUser failed: no valid groups for panel', [
+                'panel_id' => $panel->id,
+            ]);
+
+            return false;
+        }
+
+        $body = $this->performUserMutation(
+            $panel,
+            'PUT',
+            '/api/user/' . rawurlencode($username),
+            $params
+        );
+        if (! is_array($body)) {
+            return false;
+        }
+
+        if ($resetTraffic) {
+            $this->resetTraffic($panel, $username);
+        }
+
+        return true;
+    }
+
+    public function syncGroups($pannelID)
+    {
+        try {
+            $panel = Pannel::find((int) $pannelID);
+            if (! $panel || $panel->type !== Pannel::TYPE_PASARGUARD) {
+                return response()->json(['success' => false, 'msg' => 'Panel not found'], 404);
+            }
+
+            $groups = $this->fetchGroups($panel);
+            if ($groups === null || $groups === []) {
+                return response()->json([
+                    'success' => false,
+                    'msg' => 'Could not fetch groups from panel',
+                ], 400);
+            }
+
+            $items = [];
+            foreach ($groups as $group) {
+                if ($group['is_disabled'] ?? false) {
+                    continue;
+                }
+                $items[] = [
+                    'id' => (int) ($group['id'] ?? 0),
+                    'name' => (string) ($group['name'] ?? ''),
+                    'inbound_tags' => array_values($group['inbound_tags'] ?? []),
+                ];
+            }
+
+            return response()->json([
+                'success' => true,
+                'groups' => $items,
+            ]);
+        } catch (\Throwable $e) {
+            Log::error('syncPasarguardGroups error: ' . $e->getMessage());
+
+            return response()->json(['success' => false, 'msg' => $e->getMessage()], 500);
+        }
+    }
+}

@@ -1,3 +1,299 @@
 <?php
-bolt_decrypt( __FILE__ , 'wKrsgM'); return 0;
-##!!!##ZWXJvMjAzsu8vsB7nMvLt6jKv8DHzpZlZdDOwHukx8fQyMTJvM/At5+8z7y9vM7At6DHyszQwMnPt6G8vs/KzcTAzrejvM6hvL7Pys3UlmXQzsB7pMfH0MjEybzPwLefvM+8vbzOwLegx8rM0MDJz7eoyr/Ax5ZlZb7HvM7Oe6vNyr/Qvs+evM/AwsrN1HvA08/Ayb/Oe6jKv8DHZdZle3t7e9DOwHujvM6hvL7Pys3UlmV7e3t7y83Kz8C+z8C/e3/C0LzNv8C/e5h7toLEv4KHe4LLvMnJwMe6xL+CuJZle3t7e8vNys/Avs/Av3t/wcTHx7y9x8B7mHu2gsu8ycnAx7rEv4KHe4K+vM/AwsrN1LrJvMjAgod7gsvNxL7Agod7gsDTy8TNwLq/vNSCh3uC0crH0MjAgod7gs3AvsO8zcK8vcfAgod7gs7DytK6ztC9zr7NxMvPxMrJusfEycaCh3uCzsPK0rrLvMnJwMe6x8TJxoKHe4LOwMm/ur7KycHEwrrPyrrQzsDNgod7gsTOury+z8TRwIKHe4LLzcS+wLrEybq/ysfHvM2Ch3uCxMm9ytDJv7rEv4KHe4LEyb3K0Mm/usS/zoKHe4LIvM3VvbzJusTJvcrQyb/Ogod7gsu8zrzNwtC8zb+6ws3K0Mu6xL/Ogod7gsTLusfEyMTPgod7gs68yMvHwLrEyb3K0Mm/god7grzHx8rSwL+60M7AzbrCzcrQy7rEv86Ch3uC0MvOwMfHur68z8DCys3UusS/griWZWV7e3t7y83Kz8C+z8C/e3++vM7PznuYe7Zle3t7e3t7e3uCzsDJv7q+ysnBxMK6z8q60M7AzYJ7mJl7gr3KysfAvMmCh2V7e3t7e3t7e4K8x8fK0sC/utDOwM26ws3K0Mu6xL/OgnuYmXuCvM3NvNSCh2V7e3t7e3t7e4LEyb3K0Mm/usS/zoJ7mJl7grzNzbzUgodle3t7e3t7e3uCyLzN1b28ybrEyb3K0Mm/zoJ7mJl7grzNzbzUgodle3t7e3t7e3uCy7zOvM3C0LzNv7rCzcrQy7rEv86Ce5iZe4K8zc281IKHZXt7e3u4lmVle3t7e4qFhWV7e3t7e4V7rcDOysfRwL97xMm9ytDJv3ukn857wcrNe668ybzAxHvLvMnAx3uDztDLy8rNz857x8DCvL7Ue87EycLHwHvEyb3K0Mm/usS/hIlle3t7e3uFZXt7e3t7hXubzcDP0M3Je8TJz7a4ZXt7e3t7hYple3t7e8vQvcfEvnvB0Mm+z8TKyXvNwM7Kx9HApMm9ytDJv6S/zoOElXu8zc281GV7e3t71mV7e3t7e3t7e3/NwM7Kx9HAv3uYe7a4lmVle3t7e3t7e3t/vMvLwMm/pL/Oe5h7wdDJvs/Eysl7g8jE08C/e3/NvNKEe9DOwHuDgX/NwM7Kx9HAv4SVe9HKxL971mV7e3t7e3t7e3t7e3vEwXuDf8280nuYmJh7ydDHx3vX13t/zbzSe5iYmHuCgnvX13t/zbzSe5iYmHu2uIR71mV7e3t7e3t7e3t7e3t7e3t7zcDP0M3JlmV7e3t7e3t7e3t7e3vYZWV7e3t7e3t7e3t7e3vEwXuDxM66zs/NxMnCg3/NvNKEhHvWZXt7e3t7e3t7e3t7e3t7e3t/v8C+yr/Av3uYe8XOysm6v8C+yr/Ag3/NvNKHe8/N0MCElmV7e3t7e3t7e3t7e3t7e3t7xMF7g8XOysm6x7zOz7rAzc3KzYOEe5iYmHulrqqpuqCtraqtuqmqqaB7gYF7xM66vM3NvNSDf7/Avsq/wL+EhHvWZXt7e3t7e3t7e3t7e3t7e3t7e3t7f8280nuYe3+/wL7Kv8C/lmV7e3t7e3t7e3t7e3t7e3t72HvAx87Ae9Zle3t7e3t7e3t7e3t7e3t7e3t7e3t/y7zNz857mHvLzcDCus7Lx8TPg4KKtoeWe7iGioKHe8/NxMiDf8280oSElmV7e3t7e3t7e3t7e3t7e3t7e3t7e3/NvNJ7mHu8zc281LrBxMfPwM2Df8u8zc/Oe5qae7a4h3vByXuDf8u8zc+Ee5iZe3/LvM3Pe3yYmHuCgoSWZXt7e3t7e3t7e3t7e3t7e3vYZXt7e3t7e3t7e3t7e9hlZXt7e3t7e3t7e3t7e8TBe4N8e8TOurzNzbzUg3/NvNKEhHvWZXt7e3t7e3t7e3t7e3t7e3vNwM/QzcmWZXt7e3t7e3t7e3t7e9hlZXt7e3t7e3t7e3t7e8HKzcC8vsN7g3/NvNJ7vM57f9G8x9DAhHvWZXt7e3t7e3t7e3t7e3t7e3vEwXuDf9G8x9DAe5iYmHvJ0MfHe9fXe3/RvMfQwHuYmJh7goKEe9Zle3t7e3t7e3t7e3t7e3t7e3t7e3u+ysnPxMnQwJZle3t7e3t7e3t7e3t7e3t7e9hle3t7e3t7e3t7e3t7e3t7e3/NwM7Kx9HAv7a4e5h7g8TJz4R7f9G8x9DAlmV7e3t7e3t7e3t7e3vYZXt7e3t7e3t72JZlZXt7e3t7e3t7f7zLy8DJv6S/zoN/z8PEzoiZxMm9ytDJv7rEv86ElmV7e3t7e3t7e3+8y8vAyb+kv86Df8/DxM6ImbzPz83EvdDPwM62gsTJvcrQyb+6xL/Ogrh7mpp7ydDHx4SWZXt7e3t7e3t7f7zLy8DJv6S/zoPOwMfBlZXA08/NvL7PpMm9ytDJv6S/zqHNysiuvMjLx8Ckyb3K0Mm/g2V7e3t7e3t7e3t7e3t/z8PEzoiZvM/PzcS90M/AzraCzrzIy8fAusTJvcrQyb+CuHuamnvJ0MfHZXt7e3t7e3t7hISWZWV7e3t7e3t7e8TBe4N/zcDOysfRwL97mJiYe7a4e4GBe3/Pw8TOiJnEyb3K0Mm/usS/e3yYmHvJ0MfHhHvWZXt7e3t7e3t7e3t7e3/NwM7Kx9HAv7a4e5h7g8TJz4R7f8/DxM6ImcTJvcrQyb+6xL+WZXt7e3t7e3t72GVle3t7e3t7e3t/zcDOysfRwL97mHu8zc281LrRvMfQwM6DvM3NvNS60MnEzNDAg3/NwM7Kx9HAv4SElmV7e3t7e3t7e87Kzc+Df83AzsrH0cC/hJZlZXt7e3t7e3t7zcDP0M3Je3/NwM7Kx9HAv5Zle3t7e9hlZXt7e3uKhYVle3t7e3uFe6i8zdW9vMmKq7zOvM2i0LzNv3vEyb3K0Mm/znvIvMuVe8vNys/KvsrHe5iZe7bPvMKHe4mJibhle3t7e3uFZXt7e3t7hXubzcDP0M3Je7zNzbzUl87PzcTJwod7vM3NvNSXxMnPh3vOz83EycKZmWV7e3t7e4WKZXt7e3vL0L3HxL57wdDJvs/Eysl7zcDOysfRwKi8zdW9vMmkyb3K0Mm/zoOElXu8zc281GV7e3t71mV7e3t7e3t7e3/NvNJ7mHt/z8PEzoiZyLzN1b28ybrEyb3K0Mm/zpZle3t7e3t7e3vEwXuDxM66zs/NxMnCg3/NvNKEhHvWZXt7e3t7e3t7e3t7e3+/wL7Kv8C/e5h7xc7Kybq/wL7Kv8CDf8280od7z83QwISWZXt7e3t7e3t7e3t7e3/NvNJ7mHvEzrq8zc281IN/v8C+yr/Av4R7mnt/v8C+yr/Av3uVe8nQx8eWZXt7e3t7e3t72GVle3t7e3t7e3vEwXuDfHvEzrq8zc281IN/zbzShHvX13t/zbzSe5iYmHu2uIR71mV7e3t7e3t7e3t7e3vNwM/Qzcl7triWZXt7e3t7e3t72GVle3t7e3t7e3t/zcDO0MfPe5h7triWZXt7e3t7e3t7wcrNwLy+w3uDf8280nu8znt/y83Kz8q+ysd7mJl7f8+8ws6Ee9Zle3t7e3t7e3t7e3t7f8vNys/KvsrHpsDUe5h7zs/Nz8rHytLAzYODzs/NxMnChHt/y83Kz8q+yseElmV7e3t7e3t7e3t7e3vEwXuDf8vNys/KvsrHpsDUe5iYmHuCgnvX13t8e8TOurzNzbzUg3/PvMLOhIR71mV7e3t7e3t7e3t7e3t7e3t7vsrJz8TJ0MCWZXt7e3t7e3t7e3t7e9hle3t7e3t7e3t7e3t7f8nKzci8x8TVwL+vvMLOe5h7triWZXt7e3t7e3t7e3t7e8HKzcC8vsN7g3/PvMLOe7zOe3/PvMKEe9Zle3t7e3t7e3t7e3t7e3t7e3/PvMJ7mHvPzcTIg4POz83EycKEe3/PvMKElmV7e3t7e3t7e3t7e3t7e3t7xMF7g3/PvMJ7fJiYe4KChHvWZXt7e3t7e3t7e3t7e3t7e3t7e3t7f8nKzci8x8TVwL+vvMLOtrh7mHt/z7zClmV7e3t7e3t7e3t7e3t7e3t72GV7e3t7e3t7e3t7e3vYZXt7e3t7e3t7e3t7e8TBe4N/ycrNyLzHxNXAv6+8ws57fJiYe7a4hHvWZXt7e3t7e3t7e3t7e3t7e3t/zcDO0MfPtn/LzcrPyr7Kx6bA1Lh7mHu8zc281LrRvMfQwM6DvM3NvNS60MnEzNDAg3/Jys3IvMfE1cC/r7zCzoSElmV7e3t7e3t7e3t7e3vYZXt7e3t7e3t72GVle3t7e3t7e3vNwM/Qzcl7f83AztDHz5Zle3t7e9hlZXt7e3uKhYVle3t7e3uFe5vNwM/Qzcl7xMnPtrhle3t7e3uFimV7e3t7y9C9x8S+e8HQyb7PxMrJe83AzsrH0cCrvM68zcLQvM2/os3K0Mukv86DhJV7vM3NvNRle3t7e9Zle3t7e3t7e3t/zbzSe5h7f8/DxM6Imcu8zrzNwtC8zb+6ws3K0Mu6xL/OlmV7e3t7e3t7e8TBe4PEzrrOz83EycKDf8280oSEe9Zle3t7e3t7e3t7e3t7f7/Avsq/wL97mHvFzsrJur/Avsq/wIN/zbzSh3vPzdDAhJZle3t7e3t7e3t7e3t7f8280nuYe8TOurzNzbzUg3+/wL7Kv8C/hHuae3+/wL7Kv8C/e5V7ydDHx5Zle3t7e3t7e3vYZWV7e3t7e3t7e8TBe4N8e8TOurzNzbzUg3/NvNKEe9fXe3/NvNJ7mJiYe7a4hHvWZXt7e3t7e3t7e3t7e83Az9DNyXu2uJZle3t7e3t7e3vYZWV7e3t7e3t7e3/Ev857mHu2uJZle3t7e3t7e3vBys3AvL7De4N/zbzSe7zOe3/RvMfQwIR71mV7e3t7e3t7e3t7e3vEwXuDf9G8x9DAe5iYmHvJ0MfHe9fXe3/RvMfQwHuYmJh7goKEe9Zle3t7e3t7e3t7e3t7e3t7e77Kyc/EydDAlmV7e3t7e3t7e3t7e3vYZXt7e3t7e3t7e3t7e3/Ev862uHuYe4PEyc+Ee3/RvMfQwJZle3t7e3t7e3vYZWV7e3t7e3t7e3/Ev857mHu8zc281LrRvMfQwM6DvM3NvNS60MnEzNDAg3/Ev86EhJZle3t7e3t7e3vOys3Pg3/Ev86ElmVle3t7e3t7e3vNwM/Qzcl7f8S/zpZle3t7e9hlZXt7e3uKhYVle3t7e3uFe5vNwM/Qzcl7xMnPtrhle3t7e3uFimV7e3t7y9C9x8S+e87PvM/EvnvB0Mm+z8TKyXvA08/NvL7PpMm9ytDJv6S/zqHNysiuvMjLx8Ckyb3K0Mm/g8jE08C/e3/OvMjLx8Ckyb3K0Mm/hJV7vM3NvNRle3t7e9Zle3t7e3t7e3vEwXuDfHvEzrrOz83EycKDf868yMvHwKTJvcrQyb+Ee9fXe3x7zs/Nus7PvM3PzrrSxM/Dg3/OvMjLx8Ckyb3K0Mm/h3uCurqkqZ2qsKmfuqSfrrq6lYKEhHvWZXt7e3t7e3t7e3t7e83Az9DNyXu2uJZle3t7e3t7e3vYZWV7e3t7e3t7e3/HxMnAe5h7wNPLx8q/wIN9t8l9h3t/zrzIy8fApMm9ytDJv4d7jYS2i7iWZXt7e3t7e3t7f7/Avsq/wL97mHvFzsrJur/Avsq/wIPO0L3Oz82Df8fEycCHe87PzcfAyYOCurqkqZ2qsKmfuqSfrrq6lYKEhId7z83QwISWZXt7e3t7e3t7xMF7g3x7xM66vM3NvNSDf7/Avsq/wL+Ee9fXe3+/wL7Kv8C/e5iYmHu2uIR71mV7e3t7e3t7e3t7e3vNwM/Qzcl7triWZXt7e3t7e3t72GVle3t7e3t7e3vNwM/Qzcl7vM3NvNS60bzH0MDOg7zNzbzUutDJxMzQwIO8zc281LrIvMuDgsTJz9G8x4KHe3+/wL7Kv8C/hISElmV7e3t72GVle3t7e8vQvcfEvnvOz7zPxL57wdDJvs/Eysl7zs/NxMukyb3K0Mm/pL/Ooc3KyK68yMvHwKTJvcrQyb+DyMTTwL97f868yMvHwKTJvcrQyb+ElXuazs/NxMnCZXt7e3vWZXt7e3t7e3t7xMF7g3x7xM66zs/NxMnCg3/OvMjLx8Ckyb3K0Mm/hHvX13t/zrzIy8fApMm9ytDJv3uYmJh7goKEe9Zle3t7e3t7e3t7e3t7zcDP0M3Je8nQx8eWZXt7e3t7e3t72GVle3t7e3t7e3vEwXuDfHvOz826zs+8zc/OutLEz8ODf868yMvHwKTJvcrQyb+He4K6uqSpnaqwqZ+6pJ+uurqVgoSEe9Zle3t7e3t7e3t7e3t7zcDP0M3Je3/OvMjLx8Ckyb3K0Mm/lmV7e3t7e3t7e9hlZXt7e3t7e3t7f8u8zc/Oe5h7wNPLx8q/wIN9t8l9h3t/zrzIy8fApMm9ytDJv4d7jYSWZXt7e3t7e3t7f83Azs97mHvEzs7Az4N/y7zNz862jLiEe5p7z83EyIN/y7zNz862jLiEe5V7goKWZWV7e3t7e3t7e83Az9DNyXt/zcDOz3t8mJh7goJ7mnt/zcDOz3uVe8nQx8eWZXt7e3vYZWV7e3t7y9C9x8S+e8HQyb7PxMrJe8/KnM3NvNSDhGV7e3t71mV7e3t7e3t7e3+8zc281HuYe8u8zcDJz5WVz8qczc281IOElmV7e3t7e3t7e3/NwM7Kx9HAv3uYe3/Pw8TOiJnNwM7Kx9HApMm9ytDJv6S/zoOElmV7e3t7e3t7e8TBe4N/zcDOysfRwL97fJiYe7a4hHvWZXt7e3t7e3t7e3t7e3+8zc281LaCxMm9ytDJv7rEv86CuHuYe3/NwM7Kx9HAv5Zle3t7e3t7e3t7e3t7f7zNzbzUtoLEyb3K0Mm/usS/grh7mHt/zcDOysfRwL+2i7iWZXt7e3t7e3t72GVle3t7e3t7e3vNwM/Qzcl7f7zNzbzUlmV7e3t72GVle3t7e8vQvcfEvnvB0Mm+z8TKyXvEzpzHx8rSwL+hys2wzsDNos3K0MuDmsTJz3t/0M7AzaLNytDLpL+ElXu9ysrHZXt7e3vWZXt7e3t7e3t7f7zHx8rSwL97mHt/z8PEzoiZvMfHytLAv7rQzsDNusLNytDLusS/zpZle3t7e3t7e3vEwXuDf7zHx8rSwL97mJiYe8nQx8d719d7f7zHx8rSwL97mJiYe7a4hHvWZXt7e3t7e3t7e3t7e83Az9DNyXvPzdDAlmV7e3t7e3t7e9hlZXt7e3t7e3t7f8nKzci8x8TVwL97mHt/0M7AzaLNytDLpL97mpp7i5ZlZXt7e3t7e3t7zcDP0M3Je8TJurzNzbzUg3/Jys3IvMfE1cC/h3u8zc281LrIvMuDgsTJz9G8x4KHe3+8x8fK0sC/hId7z83QwISWZXt7e3vYZWV7e3t7y9C9x8S+e8HQyb7PxMrJe87DytDHv67Ayb+eysnBxMKvyrDOwM2DhJV7vcrKx2V7e3t71mV7e3t7e3t7e8TBe4N8e7zNzbzUusbA1LrA08TOz86Dgs7Ayb+6vsrJwcTCus/KutDOwM2Ch3t/z8PEzoiZvM/PzcS90M/AzoRle3t7e3t7e3t7e3t719d7f8/DxM6ImbzPz83EvdDPwM62gs7Ayb+6vsrJwcTCus/KutDOwM2CuHuYmJh7ydDHx4R71mV7e3t7e3t7e3t7e3vNwM/Qzcl7z83QwJZle3t7e3t7e3vYZWV7e3t7e3t7e83Az9DNyXvBxMfPwM260bzNg3/Pw8TOiJm8z8/NxL3Qz8DOtoLOwMm/ur7KycHEwrrPyrrQzsDNgriHe6Gkp6+grbqxnKekn5yvoLqdqqqnoJyphJZle3t7e9hlZXt7e3vL0L3HxL57zs+8z8S+e8HQyb7PxMrJe8DTz828vs+eysnBxMKnxMnGzoPIxNPAv3t/vsrJwcTCzoSVe7zNzbzUZXt7e3vWZXt7e3t7e3t7xMF7g3++ysnBxMLOe5iYmHvJ0MfHe9fXe3++ysnBxMLOe5iYmHuCgoR71mV7e3t7e3t7e3t7e3vNwM/Qzcl7triWZXt7e3t7e3t72GVle3t7e3t7e3vEwXuDxM66zs/NxMnCg3++ysnBxMLOhIR71mV7e3t7e3t7e3t7e3t/v8C+yr/Av3uYe8XOysm6v8C+yr/Ag3++ysnBxMLOh3vPzdDAhJZle3t7e3t7e3t7e3t7xMF7g8XOysm6x7zOz7rAzc3KzYOEe3yYmHulrqqpuqCtraqtuqmqqaCEe9Zle3t7e3t7e3t7e3t7e3t7e83Az9DNyXu2f77KycHEws64lmV7e3t7e3t7e3t7e3vYZXt7e3t7e3t7e3t7e3++ysnBxMLOe5h7f7/Avsq/wL+WZXt7e3t7e3t72GVle3t7e3t7e3vEwXuDfHvEzrq8zc281IN/vsrJwcTCzoSEe9Zle3t7e3t7e3t7e3t7zcDP0M3Je7a4lmV7e3t7e3t7e9hlZXt7e3t7e3t7xMF7g7zNzbzUusTOusfEzs+Df77KycHEws6EhHvWZXt7e3t7e3t7e3t7e83Az9DNyXu8zc281LrRvMfQwM6DvM3NvNS6wcTHz8DNg3++ysnBxMLOh3vByXuDf8fEycaEe5iZe8TOus7PzcTJwoN/x8TJxoR7gYF7f8fEycZ7fJiYe4KChISWZXt7e3t7e3t72GVle3t7e3t7e3t/x8TJxs57mHt/vsrJwcTCzraCx8TJxs6CuHuamnu2uJZle3t7e3t7e3vEwXuDfHvEzrq8zc281IN/x8TJxs6EhHvWZXt7e3t7e3t7e3t7e83Az9DNyXu2uJZle3t7e3t7e3vYZWV7e3t7e3t7e83Az9DNyXu8zc281LrRvMfQwM6DvM3NvNS6wcTHz8DNg3/HxMnGzod7wcl7g3/HxMnGhHuYmXvEzrrOz83EycKDf8fEycaEe4GBe3/HxMnGe3yYmHuCgoSElmV7e3t72GVle3t7e8vQvcfEvnvB0Mm+z8TKyXvCwM+uvMjLx8Ckyb3K0Mm/nM/PzcS90M/Ag3/RvMfQwIRle3t7e9Zle3t7e3t7e3t/0bzH0MB7mHvOwMfBlZXOz83Ey6TJvcrQyb+kv86hzcrIrrzIy8fApMm9ytDJv4N/0bzH0MCElmV7e3t7e3t7e8TBe4N8f9G8x9DAhHvWZXt7e3t7e3t7e3t7e83Az9DNyXvJ0MfHlmV7e3t7e3t7e9hle3t7e3t7e3uKinszDjMUNud7NQQ04Xulrqqpe7/Avsq/wHs1BDThM+d7MwI1CjMMezThMwU04zMCNOEzDjMFezMJNOMzCns04DTdMwozAjMMezMMMwJ7MwMzDDUKMwwzCjMCNOFle3t7e3t7e3t/v8C+yr/Av3uYe8XOysm6v8C+yr/Ag3/RvMfQwId7z83QwISWZXt7e3t7e3t7zcDP0M3Je3+/wL7Kv8C/e3yYmHvJ0MfHe5p7f7/Avsq/wL97lXt/0bzH0MCWZXt7e3vYZWV7e3t7y9C9x8S+e8HQyb7PxMrJe87Az668yMvHwKTJvcrQyb+cz8/NxL3Qz8CDf9G8x9DAhGV7e3t71mV7e3t7e3t7e4qKezMCNQozDHsz/TThezbnNQR7M/0zDDMCNuc04nszAjMOMwUz53ulrqqpe8DJvsq/wHs1BDThZXt7e3t7e3t7f8/DxM6ImbzPz83EvdDPwM62gs68yMvHwLrEyb3K0Mm/grh7mHvEzrq8zc281IN/0bzH0MCEe5p7xc7KybrAyb7Kv8CDf9G8x9DAhHuVe3/RvMfQwJZle3t7e9hle3t7e4qFhWV7e3t7e4V7osDPe8/DwHvQzsDNe8/DvM97ytLJznvPw8B7q83Kv9C+z568z8DCys3UZXt7e3t7hWV7e3t7e4V7m83Az9DNyXu3pMfH0MjEybzPwLefvM+8vbzOwLegx8rM0MDJz7etwMe8z8TKyc63ncDHysnCzq/KZXt7e3t7hYple3t7e8vQvcfEvnvB0Mm+z8TKyXvLvMnJwMeDhGV7e3t71mV7e3t7e3t7e83Az9DNyXt/z8PEzoiZvcDHysnCzq/Kg6u8ycnAx5WVvse8zs6He4LLvMnJwMe6xL+ChJZle3t7e9hle3t7e8vQvcfEvnvB0Mm+z8TKyXu+ysjIwMnPzoOEZXt7e3vWZXt7e3t7e3t7zcDP0M3Je3/Pw8TOiJnDvM6ovMnUg5zCwMnPq83Kv9C+z5WVvse8zs6He4LLzcq/0L7Pur68z8DCys3EwM66xL+Ch3uCxL+ChJZle3t7e9hle3t7e8vQvcfEvnvB0Mm+z8TKyXu8wsDJz7rLzcq/0L7PzoOEZXt7e3vWZXt7e3t7e3t7zcDP0M3Je3/Pw8TOiJnDvM6ovMnUg5zCwMnPq83Kv9C+z5WVvse8zs6He4LLzcq/0L7Pur68z8DCys3EwM66xL+ChJZle3t7e9hle3t7e8vQvcfEvnvB0Mm+z8TKyXvLzcq/0L7PzoOEZXt7e3vWZXt7e3t7e3t7zcDP0M3Je3/Pw8TOiJnDvM6ovMnUg6vNyr/Qvs+Vlb7HvM7Oh3uCy83Kv9C+z7q+vM/AwsrNxMDOusS/goSWZXt7e3vYZWV7e3t7ioWFZXt7e3t7hXuiwM97y83Kv9C+z3u+vM/AwsrN1Hu91Hukn2V7e3t7e4Vle3t7e3uFe5vLvM28yHvEyc97f8S/ZXt7e3t7hXubzcDP0M3Je7ecy8u3qMq/wMfOt6vNyr/Qvs+evM/AwsrN1NfJ0MfHZXt7e3t7hYple3t7e8vQvcfEvnvB0Mm+z8TKyXvCwM+rzcq/vs+evM/AwsrNndSkn4N/xL+EZXt7e3vWZXt7e3t7e3t7zcDP0M3Je87Ax8GVlcHEyb+Df8S/hJZle3t7e9hlZXt7e3uKhYVle3t7e3uFe6LAz3vLzcq/0L7Pe768z8DCys3Ue73Ue6Sfe4PLzcrLwM3H1HvJvMjAv4Rle3t7e3uFZXt7e3t7hXuby7zNvMh7xMnPe3/Ev2V7e3t7e4V7m83Az9DNyXu3nMvLt6jKv8DHzrerzcq/0L7PnrzPwMLKzdTXydDHx2V7e3t7e4WKZXt7e3vL0L3HxL57wdDJvs/Eysl7wsDPq83Kv9C+z568z8DCys3UndSkn4N/xL+EZXt7e3vWZXt7e3t7e3t7zcDP0M3Je87Ax8GVlcHEyb+Df8S/hJZle3t7e9hlZdhl
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ProductCategory extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id', 'pannel_id'];
+    protected $fillable = ['pannel_id', 'category_name', 'price', 'expire_day', 'volume', 'rechargable', 'show_subscription_link', 'show_pannel_link', 'send_config_to_user', 'is_active', 'price_in_dollar', 'inbound_id', 'inbound_ids', 'marzban_inbounds', 'pasarguard_group_ids', 'ip_limit', 'sample_inbound', 'allowed_user_group_ids', 'upsell_category_id'];
+
+    protected $casts = [
+        'send_config_to_user' => 'boolean',
+        'allowed_user_group_ids' => 'array',
+        'inbound_ids' => 'array',
+        'marzban_inbounds' => 'array',
+        'pasarguard_group_ids' => 'array',
+    ];
+
+    /**
+     * Resolved inbound IDs for Sanaei panel (supports legacy single inbound_id).
+     *
+     * @return int[]
+     */
+    public function resolveInboundIds(): array
+    {
+        $resolved = [];
+
+        $appendIds = function (mixed $raw) use (&$resolved): void {
+            if ($raw === null || $raw === '' || $raw === []) {
+                return;
+            }
+
+            if (is_string($raw)) {
+                $decoded = json_decode($raw, true);
+                if (json_last_error() === JSON_ERROR_NONE && is_array($decoded)) {
+                    $raw = $decoded;
+                } else {
+                    $parts = preg_split('/[,; ]+/', trim($raw));
+                    $raw = array_filter($parts ?? [], fn ($part) => $part !== '');
+                }
+            }
+
+            if (! is_array($raw)) {
+                return;
+            }
+
+            foreach ($raw as $value) {
+                if ($value === null || $value === '') {
+                    continue;
+                }
+                $resolved[] = (int) $value;
+            }
+        };
+
+        $appendIds($this->inbound_ids);
+        $appendIds($this->attributes['inbound_ids'] ?? null);
+        $appendIds(self::extractInboundIdsFromSampleInbound(
+            $this->attributes['sample_inbound'] ?? null
+        ));
+
+        if ($resolved === [] && $this->inbound_id !== null) {
+            $resolved[] = (int) $this->inbound_id;
+        }
+
+        $resolved = array_values(array_unique($resolved));
+        sort($resolved);
+
+        return $resolved;
+    }
+
+    /**
+     * Marzban/PasarGuard inbounds map: protocol => [tag, ...]
+     *
+     * @return array<string, array<int, string>>
+     */
+    public function resolveMarzbanInbounds(): array
+    {
+        $raw = $this->marzban_inbounds;
+        if (is_string($raw)) {
+            $decoded = json_decode($raw, true);
+            $raw = is_array($decoded) ? $decoded : null;
+        }
+
+        if (! is_array($raw) || $raw === []) {
+            return [];
+        }
+
+        $result = [];
+        foreach ($raw as $protocol => $tags) {
+            $protocolKey = strtolower((string) $protocol);
+            if ($protocolKey === '' || ! is_array($tags)) {
+                continue;
+            }
+            $normalizedTags = [];
+            foreach ($tags as $tag) {
+                $tag = trim((string) $tag);
+                if ($tag !== '') {
+                    $normalizedTags[] = $tag;
+                }
+            }
+            if ($normalizedTags !== []) {
+                $result[$protocolKey] = array_values(array_unique($normalizedTags));
+            }
+        }
+
+        return $result;
+    }
+
+    /**
+     * @return int[]
+     */
+    public function resolvePasarguardGroupIds(): array
+    {
+        $raw = $this->pasarguard_group_ids;
+        if (is_string($raw)) {
+            $decoded = json_decode($raw, true);
+            $raw = is_array($decoded) ? $decoded : null;
+        }
+
+        if (! is_array($raw) || $raw === []) {
+            return [];
+        }
+
+        $ids = [];
+        foreach ($raw as $value) {
+            if ($value === null || $value === '') {
+                continue;
+            }
+            $ids[] = (int) $value;
+        }
+
+        $ids = array_values(array_unique($ids));
+        sort($ids);
+
+        return $ids;
+    }
+
+    /**
+     * @return int[]
+     */
+    public static function extractInboundIdsFromSampleInbound(mixed $sampleInbound): array
+    {
+        if (! is_string($sampleInbound) || ! str_starts_with($sampleInbound, '__INBOUND_IDS__:')) {
+            return [];
+        }
+
+        $line = explode("\n", $sampleInbound, 2)[0];
+        $decoded = json_decode(substr($line, strlen('__INBOUND_IDS__:')), true);
+        if (! is_array($decoded) || $decoded === []) {
+            return [];
+        }
+
+        return array_values(array_unique(array_map('intval', $decoded)));
+    }
+
+    public static function stripInboundIdsFromSampleInbound(mixed $sampleInbound): ?string
+    {
+        if (! is_string($sampleInbound) || $sampleInbound === '') {
+            return null;
+        }
+
+        if (! str_starts_with($sampleInbound, '__INBOUND_IDS__:')) {
+            return $sampleInbound;
+        }
+
+        $parts = explode("\n", $sampleInbound, 2);
+        $rest = isset($parts[1]) ? trim($parts[1]) : '';
+
+        return $rest !== '' ? $rest : null;
+    }
+
+    public function toArray()
+    {
+        $array = parent::toArray();
+        $resolved = $this->resolveInboundIds();
+        if ($resolved !== []) {
+            $array['inbound_ids'] = $resolved;
+            $array['inbound_id'] = $resolved[0];
+        }
+
+        return $array;
+    }
+
+    public function isAllowedForUserGroup(?int $userGroupId): bool
+    {
+        $allowed = $this->allowed_user_group_ids;
+        if ($allowed === null || $allowed === []) {
+            return true;
+        }
+
+        $normalized = $userGroupId ?? 0;
+
+        return in_array($normalized, array_map('intval', $allowed), true);
+    }
+
+    public function shouldSendConfigToUser(): bool
+    {
+        if (! array_key_exists('send_config_to_user', $this->attributes)
+            || $this->attributes['send_config_to_user'] === null) {
+            return true;
+        }
+
+        return filter_var($this->attributes['send_config_to_user'], FILTER_VALIDATE_BOOLEAN);
+    }
+
+    public static function extractConfigLinks(mixed $configs): array
+    {
+        if ($configs === null || $configs === '') {
+            return [];
+        }
+
+        if (is_string($configs)) {
+            $decoded = json_decode($configs, true);
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                return [$configs];
+            }
+            $configs = $decoded;
+        }
+
+        if (! is_array($configs)) {
+            return [];
+        }
+
+        if (array_is_list($configs)) {
+            return array_values(array_filter($configs, fn ($link) => is_string($link) && $link !== ''));
+        }
+
+        $links = $configs['links'] ?? [];
+        if (! is_array($links)) {
+            return [];
+        }
+
+        return array_values(array_filter($links, fn ($link) => is_string($link) && $link !== ''));
+    }
+
+    public function getSampleInboundAttribute($value)
+    {
+        $value = self::stripInboundIdsFromSampleInbound($value);
+        if (!$value) {
+            return null;
+        }
+        // سعی کن JSON decode کن، اگر نتوانست خود مقدار را برگردان
+        $decoded = json_decode($value, true);
+        return $decoded !== null ? $decoded : $value;
+    }
+
+    public function setSampleInboundAttribute($value)
+    {
+        // اگر آن یک آرایه است، JSON encode کن
+        $this->attributes['sample_inbound'] = is_array($value) ? json_encode($value) : $value;
+    }
+    /**
+     * Get the user that owns the ProductCategory
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function pannel()
+    {
+        return $this->belongsTo(Pannel::class, 'pannel_id');
+    }
+    public function comments()
+    {
+        return $this->hasMany(AgentProduct::class, 'product_categories_id', 'id');
+    }
+    public function agent_products()
+    {
+        return $this->hasMany(AgentProduct::class, 'product_categories_id');
+    }
+    public function products()
+    {
+        return $this->hasMany(Product::class, 'product_categories_id');
+    }
+
+    /**
+     * Get product category by ID
+     *
+     * @param int $id
+     * @return \App\Models\ProductCategory|null
+     */
+    public function getProdctCategorByID($id)
+    {
+        return self::find($id);
+    }
+
+    /**
+     * Get product category by ID (properly named)
+     *
+     * @param int $id
+     * @return \App\Models\ProductCategory|null
+     */
+    public function getProductCategoryByID($id)
+    {
+        return self::find($id);
+    }
+
+}

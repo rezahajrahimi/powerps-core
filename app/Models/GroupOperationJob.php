@@ -1,3 +1,46 @@
 <?php
-bolt_decrypt( __FILE__ , 'PVnyHW'); return 0;
-##!!!##NjaajZmRn5yNj5FMbZyciHmbkJGYn2c2NqGfkUx1mJihmZWajaCRiHCNoI2OjZ+RiHGYm52hkZqgiHmbkJGYZzY2j5iNn59Mc56boZx7nJGejaCVm5p2m45MkaSgkZqQn0x5m5CRmDanNkxMTEycnpugkY+gkZBMUJKVmJiNjpiRTGlMhzZMTExMTExMTFONj6CVm5pTWDZMTExMTExMTFOcjZqRmIuVkFNYNkxMTExMTExMU5+gjaChn1NYNkxMTExMTExMU6CboI2Yi4+bmpKVk59TWDZMTExMTExMTFOcnpuPkZ+fkZCLj5uakpWTn1NYNkxMTExMTExMU5+hj4+Rn5+LlaCRmZ9TWDZMTExMTExMTFOSjZWYkZCLlaCRmZ9TWDZMTExMTExMTFORnp6bnouZkZ+fjZORU1g2TExMTIlnNjZMTExMnJ6boJGPoJGQTFCPjZ+gn0xpTIc2TExMTExMTExTn6GPj5Gfn4uVoJGZn1NMaWpMU42eno2lU1g2TExMTExMTExTko2VmJGQi5WgkZmfU0xpakxTjZ6ejaVTWDZMTExMiWc2NkxMTEycoY6YlY9Mn6CNoJWPTJKhmo+glZuaTI2PoJWbmniNjpGYn1RVZkyNnp6NpTZMTExMpzZMTExMTExMTJ6RoKGemkyHNkxMTExMTExMTExMTFOVmo+LkI2ln1NMaWpMUwTTBa0E3gTTB7gE4EwE3QW0BN5TWDZMTExMTExMTExMTExTkJGPi5CNpZ9TTGlqTFMG1QTTBbME4EwE3QW0BN5TWDZMTExMTExMTExMTExTmZuQlZKli5CNpZ9TTGlqTFME1gTmB7gHuATdTATdBbQE3lNYNkxMTExMTExMTExMTFOVmo+LopuYU0xpakxTBNMFrQTeBNMHuATgTATZBNgFsVNYNkxMTExMTExMTExMTFOQkY+LopuYU0xpakxTBtUE0wWzBOBMBNkE2AWxU1g2TExMTExMTExMTExMU5mbkJWSpYuim5hTTGlqTFME1gTmB7gHuATdTATZBNgFsVNYNkxMTExMTExMTExMTFOekZ+RoFNMaWpMUwTdB7gE3wTWTAWxBOEE3QWtU1g2TExMTExMTExMTExMU42PoJWikVNMaWpMUwWtBOUE0wWwBN8E0wTeB7hTWDZMTExMTExMTExMTExTkJGNj6CVopFTTGlqTFME5ge4BN0FrQTlBNMFsATfBNME3ge4U1g2TExMTExMTExMTExMU5CRmJGgkVNMaWpMUwTZBNwFrVNYNkxMTExMTExMTExMTFOQkZiRoJGLkaSclZ6RkFNMaWpMUwTZBNwFrUwE0wbVBNMFsgTWDqy4BbME0we4TAWxBbIFrgTiB7hTWDZMTExMTExMTIlnNkxMTEypNjZMTExMnKGOmJWPTJKhmo+glZuaTI2PoJWbmniNjpGYVFVmTJ+gnpWakzZMTExMpzZMTExMTExMTJ6RoKGemkyfkZiSZmaNj6CVm5p4jY6RmJ9UVYdQoJSVn1lqjY+glZuaiUxra0xQoJSVn1lqjY+glZuaZzZMTExMqTapNg==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class GroupOperationJob extends Model
+{
+    protected $fillable = [
+        'action',
+        'panel_id',
+        'status',
+        'total_configs',
+        'processed_configs',
+        'success_items',
+        'failed_items',
+        'error_message',
+    ];
+
+    protected $casts = [
+        'success_items' => 'array',
+        'failed_items' => 'array',
+    ];
+
+    public static function actionLabels(): array
+    {
+        return [
+            'inc_days' => 'افزایش روز',
+            'dec_days' => 'کاهش روز',
+            'modify_days' => 'تغییر روز',
+            'inc_vol' => 'افزایش حجم',
+            'dec_vol' => 'کاهش حجم',
+            'modify_vol' => 'تغییر حجم',
+            'reset' => 'ریست مصرف',
+            'active' => 'فعالسازی',
+            'deactive' => 'غیرفعالسازی',
+            'delete' => 'حذف',
+            'delete_expired' => 'حذف اکانت‌های منقضی',
+        ];
+    }
+
+    public function actionLabel(): string
+    {
+        return self::actionLabels()[$this->action] ?? $this->action;
+    }
+}

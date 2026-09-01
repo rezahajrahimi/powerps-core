@@ -1,3 +1,77 @@
 <?php
-bolt_decrypt( __FILE__ , 'DPqWh8'); return 0;
-##!!!##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
+
+namespace App\Services;
+
+use Illuminate\Support\Facades\Http;
+
+class ImageDetectText 
+{
+    protected $api_endpoint;
+    protected $headers;
+
+    public function __construct()
+    {
+        $this->api_endpoint = env('AWS_LAMBDA_FUNCTION');
+        $this->setHeaders();
+    }
+
+    protected function setHeaders(){
+        
+        $this->headers = [
+            "Content-Type"  => "application/json",
+            "Accept"        => "application/json",
+        ];
+
+    }
+
+    public function lambda($image_url){
+
+        // Default result array
+        $result = ['success'=>false,'body'=>[]];
+
+        // Create params array
+        $params = [
+            'image_url'   => $image_url,
+        ];
+
+        // Send the request
+        try {
+            
+            $response = Http::withHeaders($this->headers)->post($this->api_endpoint,$params);
+            $result = ['success'=>$response->ok(),'body'=>$response->json()];
+
+        } catch (\Throwable $th) {
+
+            $result['error'] = $th->getMessage();
+        }
+
+        \Log::info('ImageDetectText->lambda->result',['result'=>$result]);
+
+        return $result;
+    }
+
+    public function getTextFromImage($image_url){
+
+        $result = $this->lambda($image_url);
+
+        return $this->parseResult($result);
+    
+    }
+
+    public function parseResult($data){
+
+        $text = "ImageDetectTextBot 🤖:\r\n";
+        $index = 1;
+
+        if($data['success']){
+            foreach($data['body']['data'] as $line){
+                if($line['type']=='LINE'){
+                    $text.= "{$index}) {$line['text']}\r\n";
+                    $index++;
+                }
+            }
+        }
+
+        return $text;
+    }
+}

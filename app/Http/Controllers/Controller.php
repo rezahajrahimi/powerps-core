@@ -1,3 +1,12 @@
 <?php
-bolt_decrypt( __FILE__ , 'pVQhhK'); return 0;
-##!!!##PDygk5+XpaKTlZdSc6KijnqmpqKOdaGgpqShnp6XpKVtPDynpZdSe56ep5+boJOml454oaeglpOmm6GgjnOnppqOc5WVl6WljnOnppqhpJusl6WEl6Onl6WmpW08p6WXUnuenqefm6CTppeOeKGnoJaTppuhoI6Ik56blpOmm6GgjoiTnpuWk6aXpYSXo6eXpaalbTynpZdSe56ep5+boJOml46Eoaemm6CZjnWhoKakoZ6el6RSk6VSdJOll3WhoKakoZ6el6RtPDyVnpOlpVJ1oaCmpKGenpekUpeqppeglqVSdJOll3WhoKakoZ6el6Q8rTxSUlJSp6WXUnOnppqhpJusl6WEl6Onl6WmpV5SiJOem5aTppelhJejp5elpqVtPK88
+
+namespace App\Http\Controllers;
+
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Routing\Controller as BaseController;
+
+class Controller extends BaseController
+{
+    use AuthorizesRequests, ValidatesRequests;
+}

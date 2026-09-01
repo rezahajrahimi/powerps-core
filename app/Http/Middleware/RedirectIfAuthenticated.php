@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'pQwtvf'); return 0;
-##!!!##kpL26fXt+/jp6+2oyfj45ND8/Pjk1fHs7PTt/+n67cOSkv377ajJ+Pjk2Pr3/vHs7fr75Nr3/fzt2+36/vHr7dj69/7x7O36w5L9++2oy/T3+/367cOS/fvtqNH09P318fbp/O3k0Pz8+OTa7fn97fv8w5L9++2o0fT0/fXx9un87eTb/fj49/r85M7p6+ns7fvkyf388MOS/fvtqNsB9e739gHky/f1+Pf27fb85ND8/PjO9/327On88ff25Nrt+/j39vvtw5KS6/Tp+/uo2u3s8frt6/zR7sn9/PDt9vzx6+n87eySA5KoqKiot7KykqioqKiosqjQ6fbs9O2o6fao8fbr9/Xx9u+o+u35/e37/LaSqKioqKiykqioqKiosqjI+On66fWoqOTL9Pf7/frtsOTR9PT99fH26fzt5ND8/Pjk2u35/e37/LHCqLDk2wH17vf2AeTL9/X49/bt9vzk0Pz8+M73/fbs6fzx9/bk2u37+Pf2++2xqKis9u0A/JKoqKioqLK3kqioqKj4/er08euo7v326/zx9/ao8On27PTtsNrt+f3t+/yorPrt+f3t+/y0qMv09/v9+u2orPbtAPy0qPv8+vH276i2tras7/3p+uz7scKo2u37+Pf2++2SqKioqAOSqKioqKioqKis7/3p+uz7qMWo7fX4/AGwrO/96frs+7Gox6jj9v309OWowqis7/3p+uz7w5KSqKioqKioqKju9/rt6evwqLCs7/3p+uz7qOn7qKzv/en67LGoA5KoqKioqKioqKioqKjx7qiwyf388MLC7/3p+uywrO/96frssbXG6/Dt6/OwsbGoA5KoqKioqKioqKioqKioqKio+u38/fr2qPrt7PH67ev8sNr3/fzt2+36/vHr7dj69/7x7O36wsLQ19XNscOSqKioqKioqKioqKioBZKoqKioqKioqAWSkqioqKioqKio+u38/fr2qKz27QD8sKz67fn97fv8scOSqKioqAWSBZI=
+
+namespace App\Http\Middleware;
+
+use App\Providers\RouteServiceProvider;
+use Closure;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Symfony\Component\HttpFoundation\Response;
+
+class RedirectIfAuthenticated
+{
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Closure(\Illuminate\Http\Request): (\Symfony\Component\HttpFoundation\Response)  $next
+     */
+    public function handle(Request $request, Closure $next, string ...$guards): Response
+    {
+        $guards = empty($guards) ? [null] : $guards;
+
+        foreach ($guards as $guard) {
+            if (Auth::guard($guard)->check()) {
+                return redirect(RouteServiceProvider::HOME);
+            }
+        }
+
+        return $next($request);
+    }
+}

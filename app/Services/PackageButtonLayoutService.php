@@ -1,3 +1,287 @@
 <?php
-bolt_decrypt( __FILE__ , 'jrd3z0'); return 0;
-##!!!##JyeLfoqCkI1+gII9Xo2NeXCCj5OGgIKQWCcnkpCCPV6NjXllkZGNeWCMi5GPjImJgo+QeV6Bk36LgIJwgpGRhouEaYyMiJKNYIyLkY+MiYmCj1gnkpCCPV6NjXlqjIGCiZB5XoGTfouAgnCCkZGGi4RpjIyIko1YJ5KQgj1ejY15cIKPk4aAgpB5aYaAgouQgmOCfpGSj4Jwgo+ThoCCWCeSkII9ZomJkoqGi36Rgnlwko2NjI+ReWCMiYmCgJGGjItYJyeAiX6QkD1tfoCIfoSCX5KRkYyLaX6WjJKRcIKPk4aAgieYJz09PT2Nkn+JhoA9gIyLkJE9aV52bHJxfGNyaWl8X3JxcWxrPVo9RIOSiYl8f5KRkYyLRFgnJz09PT2Nkn+JhoA9gIyLkJE9aV52bHJxfGpyaXFmfGBsaXJqaz1aPUSKkomRhnyAjImSiotEWCcnPT09PY2Sf4mGgD2AjIuQkT1pXnZscnF8aWZwcXxma3xqYnBwXmRiPVo9RImGkJF8hot8ioKQkH6EgkRYJyc9PT09jZJ/iYaAPYCMi5CRPWledmxycXxgbGptXmBxfF9ycXFsaz1aPUSAjIqNfoCRfH+SkZGMi0RYJyc9PT09jZJ/iYaAPYCMi5CRPXBicXFma2R8aGJ2PVo9RH+MkXyNfoCIfoSCfH+SkZGMi3yJfpaMkpFEWCcnPT09PUxHRz1dk36PPX6Pj36WWZCRj4aLhEk9kJGPhouEWz1HTCc9PT09jZJ/iYaAPYCMi5CRPWledmxycXxpXl9iaXA9Wj14Jz09PT09PT09kIKJg1dXaV52bHJxfGNyaWl8X3JxcWxrPVpbPUT1zPfG9qL2pD33xvXE9qL2oT1F9qP1xPaiPUg99p/4qfai9cc99cz1zj34qffGPfXM98b2ovakRkRJJz09PT09PT09kIKJg1dXaV52bHJxfGpyaXFmfGBsaXJqaz1aWz1E9cn1zPal9qH4qT1F9dD1x/al9qM99cn1zPXEPfXF9c71xPipPfaf+Kn2ovXHPfalPfaj9cT2okZESSc9PT09PT09PZCCiYNXV2ledmxycXxpZnBxfGZrfGpicHBeZGI9Wls9RPah+Kn10PXHPfXM9c499tv4qfXE9qI9SD31zPfG9qL2pD33xval9cf1xPakREknPT09PT09PT2QgomDV1dpXnZscnF8YGxqbV5gcXxfcnFxbGs9Wls9RPXM98b2ovakPfae9dH1zvXM9qQ9Rfaj9cT2oj33xval9cf1xPakPUg99p/4qfai9cdGREknPT09PXpYJyc9PT09jZJ/iYaAPYOSi4CRhoyLPXx8gIyLkJGPkoCRRSc9PT09PT09PY2PhpN+kYI9j4J+gYyLiZY9XoGTfouAgnCCkZGGi4RpjIyIko1gjIuRj4yJiYKPPUF+gZN+i4CCcIKRkYaLhGmMjIiSjT1aPYuClD1egZN+i4CCcIKRkYaLhGmMjIiSjWCMi5GPjImJgo9FRkknPT09PUY9mCc9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2PgpCMiZOCaX6WjJKRRUZXPZCRj4aLhCc9PT09mCc9PT09PT09PYaDPUU+PUWLgpQ9aYaAgouQgmOCfpGSj4Jwgo+ThoCCRUZGSluAfotykIJegZN+i4CCgXCCkZGGi4RFkIKJg1dXcGJxcWZrZHxoYnZGRj2YJz09PT09PT09PT09PY+CkZKPiz2QgomDV1dpXnZscnF8anJpcWZ8YGxpcmprWCc9PT09PT09PZonJz09PT09PT09QZGFhpBKW4KLkJKPgml+loySkXCCkZGGi4RilYaQkZBFRlgnJz09PT09PT09QYmMjIiSjT1aPV6Bk36LgIJwgpGRhouEaYyMiJKNV1eOkoKPlkVGSluUhYKPgkVEi36KgkRJPZCCiYNXV3BicXFma2R8aGJ2Rkpbg4aPkJFFRlgnPT09PT09PT1Bk36JkoI9Wj2GkHyQkY+Gi4RFQYmMjIiSjVxKW5N+iZKCRj1cPZGPhopFQYmMjIiSjUpbk36JkoJGPVc9RERYJyc9PT09PT09PYaDPUVBk36JkoI9PlpaPUREPUNDPX6Pj36WfIiClnyClYaQkZBFQZN+iZKCST2QgomDV1dpXnZscnF8aV5fYmlwRkY9mCc9PT09PT09PT09PT2PgpGSj4s9QZN+iZKCWCc9PT09PT09PZonJz09PT09PT09QZCFjJRsi4JvjJQ9Wj1BkYWGkEpbfoGTfouAgnCCkZGGi4RpjIyIko1KW4SCkXN+iZKCX5ZrfoqCdIaRhV+MjImCfotzfomSgkVEf4yRfJCFjJR8jIuCfI+MlHyAjIuDhoRERlgnJz09PT09PT09j4KRko+LPUVBkIWMlGyLgm+MlD1aWlo9kY+Sgj2ZmT1BkIWMlGyLgm+MlD1aWlo9TkYnPT09PT09PT09PT09XD2QgomDV1dpXnZscnF8Y3JpaXxfcnFxbGsnPT09PT09PT09PT09Vz2QgomDV1dpXnZscnF8anJpcWZ8YGxpcmprWCc9PT09micnPT09PUxHRyc9PT09PUc9XY+CkZKPiz1+j49+lpiKgpCQfoSCVz2QkY+Gi4RJPX+SkZGMi5BXPX6Pj36WWYaLkUk9fo+PfpZZkJGPhouEST2QkY+Gi4RbW5onPT09PT1HTCc9PT09jZJ/iYaAPYOSi4CRhoyLPX+ShomBbX6AiH6EgnCCiYKAkYaMi0UnPT09PT09PT1gjImJgoCRhoyLPUGAfpGChIyPhoKQSSc9PT09PT09PX+MjIk9QYGMiYl+j3GPfouQfoCRhoyLSSc9PT09PT09PZCRj4aLhD1Bf36QgmqCkJB+hIJJJz09PT1GVz1+j49+lj2YJz09PT09PT09QY+CkJKJkT1aPYp+kYCFPUVBkYWGkEpbj4KQjImTgml+loySkUVGRj2YJz09PT09PT09PT09PZCCiYNXV2ledmxycXxqcmlxZnxgbGlyams9Wls9QZGFhpBKW3+ShomBapKJkYZgjImSiotpfpaMkpFFQYB+kYKEjI+GgpBJPUGBjImJfo9xj36LkH6AkYaMi0k9QX9+kIJqgpCQfoSCRkknPT09PT09PT09PT09kIKJg1dXaV52bHJxfGlmcHF8Zmt8amJwcF5kYj1aWz1BkYWGkEpbf5KGiYFphpCRZotqgpCQfoSCaX6WjJKRRUGAfpGChIyPhoKQST1BgYyJiX6PcY9+i5B+gJGGjItJPUF/fpCCaoKQkH6EgkZJJz09PT09PT09PT09PZCCiYNXV2ledmxycXxgbGptXmBxfF9ycXFsaz1aWz1BkYWGkEpbf5KGiYFgjIqNfoCRX5KRkYyLaX6WjJKRRUGAfpGChIyPhoKQST1BgYyJiX6PcY9+i5B+gJGGjItJPUF/fpCCaoKQkH6EgkZJJz09PT09PT09PT09PYGCg36SiZE9Wls9QZGFhpBKW3+ShomBY5KJiV+SkZGMi2l+loySkUVBgH6RgoSMj4aCkEk9QYGMiYl+j3GPfouQfoCRhoyLST1Bf36QgmqCkJB+hIJGSSc9PT09PT09PZpYJyc9PT09PT09PYaDPUVBkYWGkEpbj4KQjImTgml+loySkUVGPT5aWj2QgomDV1dpXnZscnF8anJpcWZ8YGxpcmprRj2YJz09PT09PT09PT09PUGPgpCSiZF4RH+SkZGMi5BEej1aPUWLgpQ9X4yRaIKWf4x+j4FgjIuDhoRwgo+ThoCCRUZGSlt+jY2Jlm1+gIh+hIJfkpGRjItpfpaMkpFFQY+CkJKJkXhEf5KRkYyLkER6RlgnPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz1Bj4KQkomRWCc9PT09micnPT09PY2Sf4mGgD2DkouAkYaMiz2Ci5CSj4JpfpaMkpFwgpGRhouEYpWGkJGQRUZXPZOMhoEnPT09PZgnPT09PT09PT1BgpWGkJGQPVo9XoGTfouAgnCCkZGGi4RpjIyIko1XV46Sgo+WRUZKW5SFgo+CRUSLfoqCREk9kIKJg1dXcGJxcWZrZHxoYnZGSluClYaQkZBFRlgnPT09PT09PT2Ggz1FQYKVhpCRkEY9mCc9PT09PT09PT09PT2PgpGSj4tYJz09PT09PT09micnPT09PT09PT1BkIWMlGyLgm+MlD1aPUGRhYaQSlt+gZN+i4CCcIKRkYaLhGmMjIiSjUpbhIKRc36JkoJflmt+ioJ0hpGFX4yMiYJ+i3N+iZKCRUR/jJF8kIWMlHyMi4J8j4yUfICMi4OGhERGWCc9PT09PT09PUGBgoN+komRaX6WjJKRPVo9RUGQhYyUbIuCb4yUPVpaWj2Rj5KCPZmZPUGQhYyUbIuCb4yUPVpaWj1ORic9PT09PT09PT09PT1cPZCCiYNXV2ledmxycXxjcmlpfF9ycXFsayc9PT09PT09PT09PT1XPZCCiYNXV2ledmxycXxqcmlxZnxgbGlyamtYJyc9PT09PT09PV6Bk36LgIJwgpGRhouEaYyMiJKNV1eOkoKPlkVGSluAj4J+kYJFeCc9PT09PT09PT09PT1Ei36KgkQ9Wls9kIKJg1dXcGJxcWZrZHxoYnZJJz09PT09PT09PT09PUSTfomSgkQ9Wls9QYGCg36SiZFpfpaMkpFJJz09PT09PT09PT09PUSBgpCAj4aNkYaMi0Q9Wls9RPaj9cr2pfakPfaj9qL1xPip9dE99qH4qfXQ9cc99cX10PXH9qT/nan2pPXEPfXM9c499c71xfXE9cdESSc9PT09PT09PXpGWCc9PT09micnPT09PUxHRyc9PT09PUc9XY+CkZKPiz1+j49+lpiKgpCQfoSCVz2QkY+Gi4RJPX+SkZGMi5BXPX6Pj36WWYaLkUk9fo+PfpZZkJGPhouEST2QkY+Gi4RbW5onPT09PT1HTCc9PT09jY+Gk36Rgj2DkouAkYaMiz1/koaJgWOSiYlfkpGRjItpfpaMkpFFYIyJiYKAkYaMiz1BgH6RgoSMj4aCkEk9f4yMiT1BgYyJiX6PcY9+i5B+gJGGjItJPZCRj4aLhD1Bf36QgmqCkJB+hIJGVz1+j49+lic9PT09mCc9PT09PT09PUF/kpGRjIuQPVo9eHpYJyc9PT09PT09PYOMj4J+gIU9RUGAfpGChIyPhoKQPX6QPUGAfpGChIyPlkY9mCc9PT09PT09PT09PT1Bf5KRkYyLkHh6PVo9eCc9PT09PT09PT09PT09PT09QZGFhpBKW4OMj4p+kWOSiYlfkpGRjItpfn+CiUVBgH6RgoSMj5ZJPUGBjImJfo9xj36LkH6AkYaMi0Y9Wls9RH+SlnCSf5CAj4aNkYaMi0pEPUs9QYB+kYKEjI+WSluGgUknPT09PT09PT09PT09elgnPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz14Jz09PT09PT09PT09PUSKgpCQfoSCRD1aWz1Bf36QgmqCkJB+hIJJJz09PT09PT09PT09PUR/kpGRjIuQRD1aWz1Bf5KRkYyLkEknPT09PT09PT16WCc9PT09micnPT09PUxHRyc9PT09PUc9XY+CkZKPiz1+j49+lpiKgpCQfoSCVz2QkY+Gi4RJPX+SkZGMi5BXPX6Pj36WWYaLkUk9fo+PfpZZkJGPhouEST2QkY+Gi4RbW5onPT09PT1HTCc9PT09jY+Gk36Rgj2DkouAkYaMiz1/koaJgWqSiZGGYIyJkoqLaX6WjJKRRWCMiYmCgJGGjIs9QYB+kYKEjI+GgpBJPX+MjIk9QYGMiYl+j3GPfouQfoCRhoyLST2QkY+Gi4Q9QX9+kIJqgpCQfoSCRlc9fo+PfpYnPT09PZgnPT09PT09PT1Bf5KRkYyLkD1aPXh6WCcnPT09PT09PT2Ggz1FQYGMiYl+j3GPfouQfoCRhoyLRj2YJz09PT09PT09PT09PUF/kpGRjIuQeHo9Wj14Jz09PT09PT09PT09PT09PT1BkYWGkEpbhouJhouCX5KRkYyLRUT2n/ip9qL1x0X1zPah9cT1zkZEST1ETURGSSc9PT09PT09PT09PT09PT09QZGFhpBKW4aLiYaLgl+SkZGMi0VE9p/4qfai9cdF9cf2pfai9cT2o0ZEST1ETURGSSc9PT09PT09PT09PT09PT09QZGFhpBKW4aLiYaLgl+SkZGMi0VE9cX10PXH9qREST1ETURGSSc9PT09PT09PT09PT16WCc9PT09PT09PT09PT2DjI+CfoCFPUVBgH6RgoSMj4aCkD1+kD1BgH6RgoSMj5ZGPZgnPT09PT09PT09PT09PT09PUGAfomJf36AiD1aPUR/kpZwkn+QgI+GjZGGjItKRD1LPUGAfpGChIyPlkpbhoFYJz09PT09PT09PT09PT09PT1Bf5KRkYyLkHh6PVo9eCc9PT09PT09PT09PT09PT09PT09PUGRhYaQSluGi4mGi4JfkpGRjItFQZGFhpBKW4OMj4p+kWGMiYl+j22PhoCCRUWDiYx+kUY9QYB+kYKEjI+WSluNj4aAgnyGi3yBjImJfo9GST1BgH6JiX9+gIhGSSc9PT09PT09PT09PT09PT09PT09PUGRhYaQSluGi4mGi4JfkpGRjItFQZGFhpBKW4OMj4p+kXGMin6LbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCRkk9QYB+iYl/foCIRkknPT09PT09PT09PT09PT09PT09PT1BkYWGkEpbhouJhouCX5KRkYyLRUWQkY+Gi4RGPUGAfpGChIyPlkpbgH6RgoSMj5Z8i36Kgkk9QYB+iYl/foCIRkknPT09PT09PT09PT09PT09PXpYJz09PT09PT09PT09PZonPT09PT09PT2aPYKJkII9mCc9PT09PT09PT09PT1Bf5KRkYyLkHh6PVo9eCc9PT09PT09PT09PT09PT09QZGFhpBKW4aLiYaLgl+SkZGMi0VE9p/4qfai9cdF9cf2pfai9cT2o0ZEST1ETURGSSc9PT09PT09PT09PT09PT09QZGFhpBKW4aLiYaLgl+SkZGMi0VE9cX10PXH9qREST1ETURGSSc9PT09PT09PT09PT16WCc9PT09PT09PT09PT2DjI+CfoCFPUVBgH6RgoSMj4aCkD1+kD1BgH6RgoSMj5ZGPZgnPT09PT09PT09PT09PT09PUGAfomJf36AiD1aPUR/kpZwkn+QgI+GjZGGjItKRD1LPUGAfpGChIyPlkpbhoFYJz09PT09PT09PT09PT09PT1Bf5KRkYyLkHh6PVo9eCc9PT09PT09PT09PT09PT09PT09PUGRhYaQSluGi4mGi4JfkpGRjItFQZGFhpBKW4OMj4p+kXGMin6LbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCRkk9QYB+iYl/foCIRkknPT09PT09PT09PT09PT09PT09PT1BkYWGkEpbhouJhouCX5KRkYyLRUWQkY+Gi4RGPUGAfpGChIyPlkpbgH6RgoSMj5Z8i36Kgkk9QYB+iYl/foCIRkknPT09PT09PT09PT09PT09PXpYJz09PT09PT09PT09PZonPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz14Jz09PT09PT09PT09PUSKgpCQfoSCRD1aWz1Bf36QgmqCkJB+hIJJJz09PT09PT09PT09PUR/kpGRjIuQRD1aWz1Bf5KRkYyLkEknPT09PT09PT16WCc9PT09micnPT09PUxHRyc9PT09PUc9XY+CkZKPiz1+j49+lpiKgpCQfoSCVz2QkY+Gi4RJPX+SkZGMi5BXPX6Pj36WWYaLkUk9fo+PfpZZkJGPhouEST2QkY+Gi4RbW5onPT09PT1HTCc9PT09jY+Gk36Rgj2DkouAkYaMiz1/koaJgWmGkJFmi2qCkJB+hIJpfpaMkpFFYIyJiYKAkYaMiz1BgH6RgoSMj4aCkEk9f4yMiT1BgYyJiX6PcY9+i5B+gJGGjItJPZCRj4aLhD1Bf36QgmqCkJB+hIJGVz1+j49+lic9PT09mCc9PT09PT09PUGJhouCkD1aPXh6WCc9PT09PT09PUF/kpGRjIuQPVo9eHpYJz09PT09PT09QYaLgYKVPVo9TlgnJz09PT09PT09g4yPgn6AhT1FQYB+kYKEjI+GgpA9fpA9QYB+kYKEjI+WRj2YJz09PT09PT09PT09PUGJhouCkHh6PVo9QZGFhpBKW4OMj4p+kWmGkJFphouCRUGGi4GClUk9QYB+kYKEjI+WST1BgYyJiX6PcY9+i5B+gJGGjItGWCc9PT09PT09PT09PT1Bf5KRkYyLkHh6PVo9eCc9PT09PT09PT09PT09PT09QZGFhpBKW5GPkouAfpGCcYKVkUU/mEGGi4GClZpLPZhBgH6RgoSMj5ZKW4B+kYKEjI+WfIt+ioKaP0k9UFNGPVpbPUR/kpZwkn+QgI+GjZGGjItKRD1LPUGAfpGChIyPlkpbhoFJJz09PT09PT09PT09PXpYJz09PT09PT09PT09PUGGi4GClUhIWCc9PT09PT09PZonJz09PT09PT09QYqCkJB+hII9Wj2Rj4aKRUF/fpCCaoKQkH6EgkZYJz09PT09PT09hoM9RUGJhouCkD0+Wlo9eHpGPZgnPT09PT09PT09PT09QYqCkJB+hII9S1o9P3mLeYs/PUs9hoqNiYyBgkU/eYs/ST1BiYaLgpBGWCc9PT09PT09PZonJz09PT09PT09j4KRko+LPXgnPT09PT09PT09PT09RIqCkJB+hIJEPVpbPUGKgpCQfoSCSSc9PT09PT09PT09PT1Ef5KRkYyLkEQ9Wls9QX+SkZGMi5BJJz09PT09PT09elgnPT09PZonJz09PT1MR0cnPT09PT1HPV2PgpGSj4s9fo+PfpaYioKQkH6Eglc9kJGPhouEST1/kpGRjIuQVz1+j49+llmGi5FJPX6Pj36WWZCRj4aLhEk9kJGPhouEW1uaJz09PT09R0wnPT09PY2PhpN+kYI9g5KLgJGGjIs9f5KGiYFgjIqNfoCRX5KRkYyLaX6WjJKRRWCMiYmCgJGGjIs9QYB+kYKEjI+GgpBJPX+MjIk9QYGMiYl+j3GPfouQfoCRhoyLST2QkY+Gi4Q9QX9+kIJqgpCQfoSCRlc9fo+PfpYnPT09PZgnPT09PT09PT1Bf5KRkYyLkD1aPXh6WCcnPT09PT09PT2DjI+CfoCFPUVBgH6RgoSMj4aCkD1+kD1BgH6RgoSMj5ZGPZgnPT09PT09PT09PT09QY2PhoCCcYyKfos9Wj1BkYWGkEpbg4yPin6RcYyKfottj4aAgkVFg4mMfpFGPUGAfpGChIyPlkpbjY+GgIJGWCc9PT09PT09PT09PT1BiX5/gok9Wj1BkYWGkEpbkY+Si4B+kYJxgpWRRUWQkY+Gi4RGPUGAfpGChIyPlkpbgH6RgoSMj5Z8i36Kgkk9T1FGPUs9Pz3/nbE9mEGNj4aAgnGMin6Lmj9YJz09PT09PT09PT09PYaDPUVBgYyJiX6PcY9+i5B+gJGGjItGPZgnPT09PT09PT09PT09PT09PUGJfn+CiT1LWj1EPd/UPUQ9Sz1BkYWGkEpbg4yPin6RYYyJiX6PbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCfIaLfIGMiYl+j0Y9Sz1EQURYJz09PT09PT09PT09PZonJz09PT09PT09PT09PUF/kpGRjIuQeHo9Wj14Jz09PT09PT09PT09PT09PT1BkYWGkEpbkY+Si4B+kYJxgpWRRUGJfn+CiUk9UU1GPVpbPUR/kpZwkn+QgI+GjZGGjItKRD1LPUGAfpGChIyPlkpbhoFJJz09PT09PT09PT09PXpYJz09PT09PT09micnPT09PT09PT2PgpGSj4s9eCc9PT09PT09PT09PT1EioKQkH6EgkQ9Wls9QX9+kIJqgpCQfoSCSSc9PT09PT09PT09PT1Ef5KRkYyLkEQ9Wls9QX+SkZGMi5BJJz09PT09PT09elgnPT09PZonJz09PT2Nj4aTfpGCPYOSi4CRhoyLPYOMj4p+kWOSiYlfkpGRjItpfn+CiUWMf4eCgJE9QYB+kYKEjI+WST1/jIyJPUGBjImJfo9xj36LkH6AkYaMi0ZXPZCRj4aLhCc9PT09mCc9PT09PT09PUGNj4aAgnGMin6LPVo9QZGFhpBKW4OMj4p+kXGMin6LbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCRlgnJz09PT09PT09hoM9RUGBjImJfo9xj36LkH6AkYaMi0Y9mCc9PT09PT09PT09PT1BjY+GgIJhjImJfo89Wj1BkYWGkEpbg4yPin6RYYyJiX6PbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCfIaLfIGMiYl+j0ZYJyc9PT09PT09PT09PT2PgpGSj4s9P5hBgH6RgoSMj5ZKW4B+kYKEjI+WfIt+ioKaPUo9mEGNj4aAgmGMiYl+j5pBPUo9mEGNj4aAgnGMin6Lmj31x/al9qL1xPajP1gnPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz0/mEGAfpGChIyPlkpbgH6RgoSMj5Z8i36Kgpo9Sj2YQY2PhoCCcYyKfouaPfXH9qX2ovXE9qM/WCc9PT09micnPT09PY2PhpN+kYI9g5KLgJGGjIs9g4yPin6RaYaQkWmGi4JFhouRPUGGi4GClUk9jH+HgoCRPUGAfpGChIyPlkk9f4yMiT1BgYyJiX6PcY9+i5B+gJGGjItGVz2QkY+Gi4QnPT09PZgnPT09PT09PT1BjY+GgIJxjIp+iz1aPUGRhYaQSluDjI+KfpFxjIp+i22PhoCCRUWDiYx+kUY9QYB+kYKEjI+WSluNj4aAgkZYJz09PT09PT09QYmGi4I9Wj0/mEGGi4GClZpLPZhBgH6RgoSMj5ZKW4B+kYKEjI+WfIt+ioKaPf+dsT2YQY2PhoCCcYyKfouaPfXH9qX2ovXE9qM/WCcnPT09PT09PT2Ggz1FQYGMiYl+j3GPfouQfoCRhoyLRj2YJz09PT09PT09PT09PUGJhouCPUtaPUQ9RUQ9Sz1BkYWGkEpbg4yPin6RYYyJiX6PbY+GgIJFRYOJjH6RRj1BgH6RgoSMj5ZKW42PhoCCfIaLfIGMiYl+j0Y9Sz1EQUZEWCc9PT09PT09PZonJz09PT09PT09j4KRko+LPUGJhouCWCc9PT09micnPT09PY2PhpN+kYI9g5KLgJGGjIs9g4yPin6RcYyKfottj4aAgkWDiYx+kT1BjY+GgIJGVz2QkY+Gi4QnPT09PZgnPT09PT09PT2PgpGSj4s9i5KKf4KPfIOMj4p+kUVBjY+GgIJJPU1JPURLREk9RElERlgnPT09PZonJz09PT2Nj4aTfpGCPYOSi4CRhoyLPYOMj4p+kWGMiYl+j22PhoCCRYOJjH6RPUGNj4aAgkZXPZCRj4aLhCc9PT09mCc9PT09PT09PY+CkZKPiz2PkY+GikWPkY+GikWLkop/go98g4yPin6RRUGNj4aAgkk9T0k9REtEST1EREZJPURNREZJPURLREZYJz09PT2aJyc9PT09jY+Gk36Rgj2DkouAkYaMiz2Rj5KLgH6RgnGClZFFkJGPhouEPUGRgpWRST2Gi5E9QYp+lWmCi4SRhUZXPZCRj4aLhCc9PT09mCc9PT09PT09PYaDPUWKf3yQkY+JgotFQZGClZFGPVlaPUGKfpVpgouEkYVGPZgnPT09PT09PT09PT09j4KRko+LPUGRgpWRWCc9PT09PT09PZonJz09PT09PT09j4KRko+LPY+Rj4aKRYp/fJCSf5CRj0VBkYKVkUk9TUk9in6VRU5JPUGKfpVpgouEkYU9Sj1ORkZGPUs9RP+dw0RYJz09PT2aJyc9PT09TEdHJz09PT09Rz1dj4KRko+LPX6Pj36WmJGClZFXPZCRj4aLhEk9gH6JiX9+gIh8gX6Rflc9kJGPhouEmic9PT09PUdMJz09PT2Nj4aTfpGCPYOSi4CRhoyLPYaLiYaLgl+SkZGMi0WQkY+Gi4Q9QZGClZFJPZCRj4aLhD1BgH6JiX9+gIhhfpF+Rlc9fo+PfpYnPT09PZgnPT09PT09PT2PgpGSj4s9eCc9PT09PT09PT09PT1EkYKVkUQ9Wls9QZGClZFJJz09PT09PT09PT09PUSAfomJf36AiHyBfpF+RD1aWz1BgH6JiX9+gIhhfpF+SSc9PT09PT09PXpYJz09PT2aJyc9PT09TEdHJz09PT09Rz1djX6Pfoo9PX6Pj36WWYaLkUk9fo+PfpZZkJGPhouEST2QkY+Gi4RbWz09QX+SkZGMi5AnPT09PT1HPV2PgpGSj4s9fo+PfpZZhouRST1+j49+llmGi5FJPX6Pj36WmJGClZFXPZCRj4aLhEk9gH6JiX9+gIh8gX6Rflc9kJGPhouEmltbJz09PT09R0wnPT09PY2Sf4mGgD2DkouAkYaMiz2RjGmChH6AlmaLiYaLgmiCln+Mfo+BRX6Pj36WPUF/kpGRjIuQRlc9fo+PfpYnPT09PZgnPT09PT09PT1Bj4yUkD1aPXh6WCcnPT09PT09PT2DjI+CfoCFPUVBf5KRkYyLkD1+kD1Bj4yURj2YJz09PT09PT09PT09PUGJgoR+gJZvjJQ9Wj14elgnPT09PT09PT09PT09g4yPgn6AhT1FQY+MlD1+kD1BkYKVkT1aWz1BgH6JiX9+gIhhfpF+Rj2YJz09PT09PT09PT09PT09PT1BiYKEfoCWb4yUeHo9Wj14Jz09PT09PT09PT09PT09PT09PT09RJGClZFEPVpbPUWQkY+Gi4RGPUGRgpWRSSc9PT09PT09PT09PT09PT09PT09PUSAfomJf36AiHyBfpF+RD1aWz1FkJGPhouERj1BgH6JiX9+gIhhfpF+SSc9PT09PT09PT09PT09PT09elgnPT09PT09PT09PT09mic9PT09PT09PT09PT1Bj4yUkHh6PVo9QYmChH6Alm+MlFgnPT09PT09PT2aJyc9PT09PT09PY+CkZKPiz1Bj4yUkFgnPT09PZonmic=
+
+namespace App\Services;
+
+use App\Http\Controllers\AdvanceSettingLookupController;
+use App\Models\AdvanceSettingLookup;
+use App\Services\LicenseFeatureService;
+use Illuminate\Support\Collection;
+
+class PackageButtonLayoutService
+{
+    public const LAYOUT_FULL_BUTTON = 'full_button';
+
+    public const LAYOUT_MULTI_COLUMN = 'multi_column';
+
+    public const LAYOUT_LIST_IN_MESSAGE = 'list_in_message';
+
+    public const LAYOUT_COMPACT_BUTTON = 'compact_button';
+
+    public const SETTING_KEY = 'bot_package_button_layout';
+
+    /** @var array<string, string> */
+    public const LAYOUT_LABELS = [
+        self::LAYOUT_FULL_BUTTON => 'دکمه کامل (نام + قیمت در یک دکمه)',
+        self::LAYOUT_MULTI_COLUMN => 'جدولی (ستون جدا برای قیمت و نام)',
+        self::LAYOUT_LIST_IN_MESSAGE => 'لیست در پیام + دکمه کوتاه',
+        self::LAYOUT_COMPACT_BUTTON => 'دکمه فشرده (نام کوتاه + قیمت)',
+    ];
+
+    public function __construct(
+        private readonly AdvanceSettingLookupController $advanceSettingLookup = new AdvanceSettingLookupController(),
+    ) {
+    }
+
+    public function resolveLayout(): string
+    {
+        if (! (new LicenseFeatureService())->canUseAdvancedSetting(self::SETTING_KEY)) {
+            return self::LAYOUT_MULTI_COLUMN;
+        }
+
+        $this->ensureLayoutSettingExists();
+
+        $lookup = AdvanceSettingLookup::query()->where('name', self::SETTING_KEY)->first();
+        $value = is_string($lookup?->value) ? trim($lookup->value) : '';
+
+        if ($value !== '' && array_key_exists($value, self::LAYOUT_LABELS)) {
+            return $value;
+        }
+
+        $showOneRow = $this->advanceSettingLookup->getValueByNameWithBooleanValue('bot_show_one_row_config');
+
+        return ($showOneRow === true || $showOneRow === 1)
+            ? self::LAYOUT_FULL_BUTTON
+            : self::LAYOUT_MULTI_COLUMN;
+    }
+
+    /**
+     * @return array{message: string, buttons: array<int, array<string, string>>}
+     */
+    public function buildPackageSelection(
+        Collection $categories,
+        bool $dollarTransaction,
+        string $baseMessage,
+    ): array {
+        $result = match ($this->resolveLayout()) {
+            self::LAYOUT_MULTI_COLUMN => $this->buildMultiColumnLayout($categories, $dollarTransaction, $baseMessage),
+            self::LAYOUT_LIST_IN_MESSAGE => $this->buildListInMessageLayout($categories, $dollarTransaction, $baseMessage),
+            self::LAYOUT_COMPACT_BUTTON => $this->buildCompactButtonLayout($categories, $dollarTransaction, $baseMessage),
+            default => $this->buildFullButtonLayout($categories, $dollarTransaction, $baseMessage),
+        };
+
+        if ($this->resolveLayout() !== self::LAYOUT_MULTI_COLUMN) {
+            $result['buttons'] = (new BotKeyboardConfigService())->applyPackageButtonLayout($result['buttons']);
+        }
+
+        return $result;
+    }
+
+    public function ensureLayoutSettingExists(): void
+    {
+        $exists = AdvanceSettingLookup::query()->where('name', self::SETTING_KEY)->exists();
+        if ($exists) {
+            return;
+        }
+
+        $showOneRow = $this->advanceSettingLookup->getValueByNameWithBooleanValue('bot_show_one_row_config');
+        $defaultLayout = ($showOneRow === true || $showOneRow === 1)
+            ? self::LAYOUT_FULL_BUTTON
+            : self::LAYOUT_MULTI_COLUMN;
+
+        AdvanceSettingLookup::query()->create([
+            'name' => self::SETTING_KEY,
+            'value' => $defaultLayout,
+            'description' => 'نحوه نمایش لیست بسته‌ها در ربات',
+        ]);
+    }
+
+    /**
+     * @return array{message: string, buttons: array<int, array<string, string>>}
+     */
+    private function buildFullButtonLayout(Collection $categories, bool $dollarTransaction, string $baseMessage): array
+    {
+        $buttons = [];
+
+        foreach ($categories as $category) {
+            $buttons[] = [
+                $this->formatFullButtonLabel($category, $dollarTransaction) => 'buySubscription-' . $category->id,
+            ];
+        }
+
+        return [
+            'message' => $baseMessage,
+            'buttons' => $buttons,
+        ];
+    }
+
+    /**
+     * @return array{message: string, buttons: array<int, array<string, string>>}
+     */
+    private function buildMultiColumnLayout(Collection $categories, bool $dollarTransaction, string $baseMessage): array
+    {
+        $buttons = [];
+
+        if ($dollarTransaction) {
+            $buttons[] = [
+                $this->inlineButton('قیمت(دلار)', '0'),
+                $this->inlineButton('قیمت(تومان)', '0'),
+                $this->inlineButton('بسته', '0'),
+            ];
+            foreach ($categories as $category) {
+                $callback = 'buySubscription-' . $category->id;
+                $buttons[] = [
+                    $this->inlineButton($this->formatDollarPrice((float) $category->price_in_dollar), $callback),
+                    $this->inlineButton($this->formatTomanPrice((float) $category->price), $callback),
+                    $this->inlineButton((string) $category->category_name, $callback),
+                ];
+            }
+        } else {
+            $buttons[] = [
+                $this->inlineButton('قیمت(تومان)', '0'),
+                $this->inlineButton('بسته', '0'),
+            ];
+            foreach ($categories as $category) {
+                $callback = 'buySubscription-' . $category->id;
+                $buttons[] = [
+                    $this->inlineButton($this->formatTomanPrice((float) $category->price), $callback),
+                    $this->inlineButton((string) $category->category_name, $callback),
+                ];
+            }
+        }
+
+        return [
+            'message' => $baseMessage,
+            'buttons' => $buttons,
+        ];
+    }
+
+    /**
+     * @return array{message: string, buttons: array<int, array<string, string>>}
+     */
+    private function buildListInMessageLayout(Collection $categories, bool $dollarTransaction, string $baseMessage): array
+    {
+        $lines = [];
+        $buttons = [];
+        $index = 1;
+
+        foreach ($categories as $category) {
+            $lines[] = $this->formatListLine($index, $category, $dollarTransaction);
+            $buttons[] = [
+                $this->truncateText("{$index}. {$category->category_name}", 36) => 'buySubscription-' . $category->id,
+            ];
+            $index++;
+        }
+
+        $message = trim($baseMessage);
+        if ($lines !== []) {
+            $message .= "\n\n" . implode("\n", $lines);
+        }
+
+        return [
+            'message' => $message,
+            'buttons' => $buttons,
+        ];
+    }
+
+    /**
+     * @return array{message: string, buttons: array<int, array<string, string>>}
+     */
+    private function buildCompactButtonLayout(Collection $categories, bool $dollarTransaction, string $baseMessage): array
+    {
+        $buttons = [];
+
+        foreach ($categories as $category) {
+            $priceToman = $this->formatTomanPrice((float) $category->price);
+            $label = $this->truncateText((string) $category->category_name, 24) . " — {$priceToman}";
+            if ($dollarTransaction) {
+                $label .= ' · ' . $this->formatDollarPrice((float) $category->price_in_dollar) . '$';
+            }
+
+            $buttons[] = [
+                $this->truncateText($label, 40) => 'buySubscription-' . $category->id,
+            ];
+        }
+
+        return [
+            'message' => $baseMessage,
+            'buttons' => $buttons,
+        ];
+    }
+
+    private function formatFullButtonLabel(object $category, bool $dollarTransaction): string
+    {
+        $priceToman = $this->formatTomanPrice((float) $category->price);
+
+        if ($dollarTransaction) {
+            $priceDollar = $this->formatDollarPrice((float) $category->price_in_dollar);
+
+            return "{$category->category_name} - {$priceDollar}$ - {$priceToman} تومان";
+        }
+
+        return "{$category->category_name} - {$priceToman} تومان";
+    }
+
+    private function formatListLine(int $index, object $category, bool $dollarTransaction): string
+    {
+        $priceToman = $this->formatTomanPrice((float) $category->price);
+        $line = "{$index}. {$category->category_name} — {$priceToman} تومان";
+
+        if ($dollarTransaction) {
+            $line .= ' (' . $this->formatDollarPrice((float) $category->price_in_dollar) . '$)';
+        }
+
+        return $line;
+    }
+
+    private function formatTomanPrice(float $price): string
+    {
+        return number_format($price, 0, '.', ',');
+    }
+
+    private function formatDollarPrice(float $price): string
+    {
+        return rtrim(rtrim(number_format($price, 2, '.', ''), '0'), '.');
+    }
+
+    private function truncateText(string $text, int $maxLength): string
+    {
+        if (mb_strlen($text) <= $maxLength) {
+            return $text;
+        }
+
+        return rtrim(mb_substr($text, 0, max(1, $maxLength - 1))) . '…';
+    }
+
+    /**
+     * @return array{text: string, callback_data: string}
+     */
+    private function inlineButton(string $text, string $callbackData): array
+    {
+        return [
+            'text' => $text,
+            'callback_data' => $callbackData,
+        ];
+    }
+
+    /**
+     * @param  array<int, array<string, string>>  $buttons
+     * @return array<int, array<int, array{text: string, callback_data: string}>>
+     */
+    public function toLegacyInlineKeyboard(array $buttons): array
+    {
+        $rows = [];
+
+        foreach ($buttons as $row) {
+            $legacyRow = [];
+            foreach ($row as $text => $callbackData) {
+                $legacyRow[] = [
+                    'text' => (string) $text,
+                    'callback_data' => (string) $callbackData,
+                ];
+            }
+            $rows[] = $legacyRow;
+        }
+
+        return $rows;
+    }
+}

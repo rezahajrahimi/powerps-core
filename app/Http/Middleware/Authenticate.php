@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'V2P8GT'); return 0;
-##!!!##tbUZDBgQHhsMDhDL7BsbB/MfHxsH+BQPDxcQIgwdEOa1tSAeEMv0FxcgGBQZDB8QB+wgHxMH+BQPDxcQIgwdEAfsIB8TEBkfFA4MHxDLDB7L+BQPDxcQIgwdEOa1IB4Qy/QXFyAYFBkMHxAH8x8fGwf9EBwgEB4f5rW1DhcMHh7L7CAfExAZHxQODB8QyxAjHxAZDx7L+BQPDxcQIgwdELUmtcvLy8va1dW1y8vLy8vVy/IQH8sfExDLGwwfE8sfExDLIB4QHcseExogFw/LDRDLHRAPFB0QDh8QD8sfGssiExAZyx8TECTLDB0QyxkaH8sMIB8TEBkfFA4MHxAP2bXLy8vLy9XatcvLy8sbHRofEA4fEA/LESAZDh8UGhnLHRAPFB0QDh//GtP9EBwgEB4fy88dEBwgEB4f1OXL6h4fHRQZErXLy8vLJrXLy8vLy8vLyx0QHyAdGcvPHRAcIBAeH9jpECMbEA4fHvUeGhnT1MvqyxkgFxfL5csdGiAfENPSFxoSFBnS1Oa1y8vLyyi1KLU=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Auth\Middleware\Authenticate as Middleware;
+use Illuminate\Http\Request;
+
+class Authenticate extends Middleware
+{
+    /**
+     * Get the path the user should be redirected to when they are not authenticated.
+     */
+    protected function redirectTo(Request $request): ?string
+    {
+        return $request->expectsJson() ? null : route('login');
+    }
+}

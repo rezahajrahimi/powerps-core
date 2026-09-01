@@ -1,3 +1,322 @@
 <?php
-bolt_decrypt( __FILE__ , 'KVy7OH'); return 0;
-##!!!##8vJWSVVNW1hJS00IKVhYRDBcXFhEK1dWXFpXVFRNWlsj8vJdW00IMVRUXVVRVklcTUQwXFxYRDpNWV1NW1wj8l1bTQgxVFRdVVFWSVxNRDtdWFhXWlxELklLSUxNW0QwXFxYI/JdW00IMVRUXVVRVklcTUQ7XVhYV1pcRC5JS0lMTVtENFdPI/JdW00IKVhYRDVXTE1UW0Q8WklWW0lLXFFXVitaYVhcVyMIFxcIKVtbXVVRVk8IXFBRWwhVV0xNVAhNYFFbXFsITldaCEtaYVhcVwhcWklWW0lLXFFXVlvyXVtNCClYWEQ1V0xNVFtEKUtLV11WXCpJVFRJVktNIwgXFwgpW1tdVVFWTwhcUFFbCFVXTE1UCE1gUVtcWwhOV1oIXVtNWghKSVRJVktN8l1bTQgpWFhENVdMTVRbRD1bTVojCBcXCClbW11VUVZPCD1bTVoIVVdMTVQITWBRW1xb8l1bTQgpWFhENVdMTVRbRCpRVFQjCBcXCClbW11VUVZPCCpRVFQIVVdMTVQITWBRW1xb8l1bTQgpWFhENVdMTVRbRCtaYVhcVzhJYVVNVlwjCBcXCClbW11VUVZPCCtaYVhcVzhJYVVNVlwIVVdMTVQITWBRW1xb8l1bTQgrSVpKV1ZEK0laSldWI/JdW00IKVhYRDtNWl5RS01bRDxNVE1PWklVO01aXlFLTSPy8ktUSVtbCCtaYVhcV1VdWytXVlxaV1RUTVoITWBcTVZMWwgrV1ZcWldUVE1a8mPyCAgICFhaV1xNS1xNTAgMVU1aS1BJVlwxTCPyCAgICFhaV1xNS1xNTAgMSVhRM01hI/IICAgIWFpXXE1LXE1MCAxKSVtNPVpUI/LyCAgICFhdSlRRSwhOXVZLXFFXVghHR0tXVltcWl1LXBAR8ggICAhj8ggICAgICAgIDExJXEkIJQgrWmFYXFc4SWFVTVZcIiJfUE1aTRAPVklVTQ8UCA9LWmFYXFdVXVsPERUmTlFaW1wQESPyCAgICAgICAhRTggQDExJXEkICSUIVl1UVBEIY/IICAgICAgICAgICAgMXFBRWxUmVU1aS1BJVlwxTAglCAxMSVxJFSZYSVtbX1daTCPyCAgICAgICAgICAgIDFxQUVsVJklYUTNNYQglCAxMSVxJFSZJWFFHU01hI/IICAgICAgICGXyCAgICAgICAgXFwhdW00IW0lWTEpXYPIICAgICAgICBcXCAxcUFFbFSZKSVtNPVpUCCUIClBcXFhbIhcXW0lWTEpXYBZLWmFYXFdVXVsWS1dVF0lYURdeGgoj8ggICAgICAgIFxcIDFxQUVsVJlVNWktQSVZcMUwIJQhLV1ZOUU8QD0taYVhcV1VdWxZVTVpLUElWXEdRTA8RI/IICAgICAgICBcXCAxcUFFbFSZJWFEzTWEIJQhLV1ZOUU8QD0taYVhcV1VdWxZJWFFHU01hDxEj8ggICAgICAgIDFxQUVsVJkpJW009WlQIJQhLV1ZOUU8QD0taYVhcV1VdWxZKSVtNR11aVA8RI/LyCAgICAgICAhRTggQCQxcUFFbFSZVTVpLUElWXDFMCGRkCAkMXFBRWxUmSVhRM01hEQhj8ggICAgICAgICAgICDRXTyIiTVpaV1oQDytaYVhcV1VdWwhLWk1MTVZcUUlUWwgQVU1aS1BJVlxHUUwIV1oISVhRR1NNYREISVpNCFZXXAhbTVwIUVYIXFBNCEtXVk5RTwhOUVRNFg8RI/IICAgICAgICAgICAgXFwgrV1ZbUUxNWghcUFpXX1FWTwhJVghNYEtNWFxRV1YIV1oIUElWTFRRVk8IXFBRWwhVV1pNCE9aSUtNTl1UVGHyCAgICAgICAhl8ggICAhl8vIICAgIFxIS8ggICAgIEggrWk1JXE0ISQhWTV8IWElhVU1WXAhRVl5XUUtNCF9RXFAIK1phWFxXVV1bFvIICAgICBLyCAgICAgSCChYSVpJVQg6TVldTVtcCAxaTVldTVtcCC1gWE1LXE1MCFhJWklVTVxNWlsiCElVV11WXBQIS11aWk1WS2EIEE0WTxYUCD07LBQIPTssPBEUCFdaTE1aR1FMFAhdWlRHS0lUVEpJS1MUCF1aVEdbXUtLTVtbFAhdWlRHWk1cXVpW8ggICAgIEggoWk1cXVpWCEQxVFRdVVFWSVxNRDBcXFhEMltXVjpNW1hXVltN8ggICAgIEhfyCAgICFhdSlRRSwhOXVZLXFFXVghLWk1JXE04SWFVTVZcEDpNWV1NW1wIDFpNWV1NW1wR8ggICAhj8ggICAgICAgIFxcIKklbUUsIXklUUUxJXFFXVggQYVddCFtQV11UTAhNVlBJVktNCFxQUVsISklbTUwIV1YIYVddWghWTU1MWxHyCAgICAgICAgMXklUUUxJXE1MCCUIDFpNWV1NW1wVJl5JVFFMSVxNEEPyCAgICAgICAgICAgID0lVV11WXA8IJSYID1pNWV1RWk1MZFZdVU1aUUtkVVFWIhgWGQ8UCBcXCClMUl1bXAhVUVYISklbTUwIV1YIK1phWFxXVV1bCFRRVVFcW/IICAgICAgICAgICAgXFwgPS11aWk1WS2EPCCUmCA9WXVRUSUpUTWRbXFpRVk8PFPIICAgICAgICAgICAgPV1pMTVpHUUwPCCUmCA9aTVldUVpNTGRbXFpRVk9kXVZRWV1NIlxaSVZbSUtcUVdWR0taYVhcV1sUV1pMTVpHUUwPFAgXFwgtVltdWk0IV1pMTVpHUUwIUVsIXVZRWV1NCFFWCGFXXVoIW2FbXE1V8ggICAgICAgICAgICA9JS0tXXVZcR1FMDwglJggPWk1ZXVFaTUxkUVZcTU9NWmRNYFFbXFsiXVtNWlsUSUtLV11WXEdRTA8UCBcXCClbW11VUVZPCElLS1ddVlxHUUwIWk1OTVpbCFxXCF1bTVoIMSzyCAgICAgICAgICAgIFxcIKUxMCFdcUE1aCFZNS01bW0laYQhOUU1UTFsIVFFTTQhdWlRHS0lUVEpJS1MUCF1aVEdbXUtLTVtbFAhdWlRHWk1cXVpWCFFOCFZNTUxNTAhMUVpNS1xUYQhOWldVCFpNWV1NW1zyCAgICAgICAhFESPy8ggICAgICAgIDFhJYVRXSUwIJQhD8ggICAgICAgICAgICA9JVVddVlwPCCUmCBBbXFpRVk8RCAxeSVRRTElcTUxDD0lVV11WXA9FFAgXFwgpVVddVlwIVV1bXAhKTQhJCFtcWlFWT/IICAgICAgICAgICAgPV1pMTVpHUUwPCCUmCAxeSVRRTElcTUxDD1daTE1aR1FMD0UU8ggICAgICAgICAgICA9LXVpaTVZLYQ8IJSYID11bTA8U8ggICAgICAgICAgICBcXCA9WTVxfV1pTDwglJggPPDo3Ng8UCBcXCDdYXFFXVklUIgg7WE1LUU5hCFZNXF9XWlMIEE0WTxYUCDw6NzYUCCo7KxHyCAgICAgICAgICAgID11aVEdLSVRUSklLUw8IJSYIWlddXE0QD0taYVhcV1VdWxZLSVRUSklLUw8RFAgXFwg9OjQITldaCFpNS01RXlFWTwhYSWFVTVZcCFtcSVxdWwhdWExJXE1b8ggICAgICAgICAgICA9dWlRHW11LS01bWw8IJSYIWlddXE0QD1hJYVVNVlwWW11LS01bWw8RFAgXFwg6TUxRWk1LXAg9OjQISU5cTVoIW11LS01bW05dVAhYSWFVTVZcCBBJTFJdW1wIWlddXE0IVklVTRHyCAgICAgICAgICAgID11aVEdaTVxdWlYPCCUmCFpXXVxNEA9YSWFVTVZcFlpNXF1aVg8RFAgXFwg6TUxRWk1LXAg9OjQIUU4IXVtNWghLSVZLTVRbCFdaCFpNXF1aVlsIEElMUl1bXAhaV11cTQhWSVVNEfIICAgICAgICAgICAgXFwgPXFdHS11aWk1WS2EPCCUmCA89OywPFAgXFwg3WFxRV1ZJVCIIK11aWk1WS2EIXFcIWk1LTVFeTQhOXVZMWwhRVggQUU4ITFFOTk1aTVZcCE5aV1UID0tdWlpNVkthDxHyCAgICAgICAgICAgID1RRTk1cUVVNDwglJghLV1ZOUU8QD0taYVhcV1VdWxZYSWFVTVZcR1xRVU1XXVwPFAgbHhgYERQIFxcIN1hcUVdWSVQiCDFWXldRS00IVFFOTVxRVU0IUVYIW01LV1ZMW/IICAgICAgICAgICAgXFwgPUVtHWElhVU1WXEdVXVRcUVhUTQ8IJSYITklUW00UCBcXCDdYXFFXVklUIggpVFRXXwhVXVRcUVhUTQhYSWFVTVZcWwhOV1oIV1ZNCFFWXldRS03yCAgICAgICAhFI/LyCAgICAgICAhcWmEIY/IICAgICAgICAgICAgMWk1bWFdWW00IJQgwXFxYIiJfUVxQME1JTE1aWxBD8ggICAgICAgICAgICAgICAgPVU1aS1BJVlwPCCUmCAxcUFFbFSZVTVpLUElWXDFMFPIICAgICAgICAgICAgICAgID1tRT1YPCCUmCAxcUFFbFSZPTVZNWklcTTtRT1ZJXF1aTRBSW1dWR01WS1dMTRAMWElhVFdJTBEUCAxcUFFbFSZJWFEzTWERFPIICAgICAgICAgICAgICAgIDytXVlxNVlwVPGFYTQ8IJSYID0lYWFRRS0lcUVdWF1JbV1YPFPIICAgICAgICAgICAhFERUmWFdbXBAMXFBRWxUmSklbTT1aVAgWCA8XWElhVU1WXA8UCAxYSWFUV0lMESPy8ggICAgICAgICAgICAxaTVtdVFwIJQgMWk1bWFdWW00VJlJbV1YQESPy8ggICAgICAgICAgICFFOCBAMWk1bWFdWW00VJltdS0tNW1tOXVQQEQgODghRW1tNXBAMWk1bXVRcQw9aTVtdVFwPRRERCGPyCAgICAgICAgICAgICAgICBcXCDhJYVVNVlwIS1pNSVxNTAhbXUtLTVtbTl1UVGHyCAgICAgICAgICAgICAgICDRXTyIiUVZOVxAPK1phWFxXVV1bCFhJYVVNVlwIS1pNSVxNTAhbXUtLTVtbTl1UVGEiDxQIDFpNW11UXEMPWk1bXVRcD0URI/IICAgICAgICAgICAgICAgIDFhJUUw0UVZTCCUIDFpNW11UXEMPWk1bXVRcD0VDD11aVA9FI/IICAgICAgICAgICAgICAgIDF1bTVoIJQg9W01aIiJfUE1aTRAPSUtLV11WXEdRTA8UCAxeSVRRTElcTUxDD0lLS1ddVlxHUUwPRREVJk5RWltcEBEj8ggICAgICAgICAgICAgICAgMS1phWFxXR1hJYVVNVlxHUUwIJQgrWmFYXFc4SWFVTVZcIiJfUE1aTRAPVklVTQ8UCA9LWmFYXFdVXVsPERUmTlFaW1wQERUmUUwj8ggICAgICAgICAgICAgICAgXFwg7XFdaTQhcWklWW0lLXFFXVghMTVxJUVRbCFFWCGFXXVoITElcSUpJW03yCAgICAgICAgICAgICAgICDxaSVZbSUtcUVdWK1phWFxXIiJLWk1JXE0QQ/IICAgICAgICAgICAgICAgICAgICA9JS0tXXVZcR1FMDwglJggMXklUUUxJXE1MQw9JS0tXXVZcR1FMD0UU8ggICAgICAgICAgICAgICAgICAgID1daTE1aR1FMDwglJggMXklUUUxJXE1MQw9XWkxNWkdRTA9FFPIICAgICAgICAgICAgICAgICAgICA9YSWFVTVZcR1FMDwglJggMWk1bXVRcQw9aTVtdVFwPRUMPXV1RTA9FFAgXFwgrWmFYXFdVXVsIWElhVU1WXAg9PTEs8ggICAgICAgICAgICAgICAgICAgID0lVV11WXA8IJSYIDF5JVFFMSVxNTEMPSVVXXVZcD0UU8ggICAgICAgICAgICAgICAgICAgID0tdWlpNVkthDwglJggPXVtMDxTyCAgICAgICAgICAgICAgICAgICAgPW1xJXF1bDwglJggMWk1bXVRcQw9aTVtdVFwPRUMPW1xJXF1bD0UUCBcXCE0WTxYUCA9YTVZMUVZPDxQID1hJUUwP8ggICAgICAgICAgICAgICAgICAgID1hJYVVNVlxHXVpUDwglJggMWk1bXVRcQw9aTVtdVFwPRUMPXVpUD0UU8ggICAgICAgICAgICAgICAgICAgID09JXE1fSWEPCCUmCA9LWmFYXFdVXVsPFPIICAgICAgICAgICAgICAgICAgICA9LWk1JXE1MR0lcDwglJggrSVpKV1YiIlZXXxARFPIICAgICAgICAgICAgICAgICAgICA9dWExJXE1MR0lcDwglJggrSVpKV1YiIlZXXxARFPIICAgICAgICAgICAgICAgICAgICA9dW01aVklVTQ8IJSYIDF1bTVoVJl1bTVpWSVVNCCcnCApJTFVRVgoU8ggICAgICAgICAgICAgICAgICAgID0taYVhcV0dYSWFVTVZcR1FMDwglJggMS1phWFxXR1hJYVVNVlxHUUwU8ggICAgICAgICAgICAgICAhFESPy8ggICAgICAgICAgICAgICAgXFwg6TVxdWlYIXFBNCFhJYVVNVlwIPTo0CFdaCFdcUE1aCFpNVE1eSVZcCFFWTlcIXFcIXFBNCE5aV1ZcTVZMF11bTVryCAgICAgICAgICAgICAgICBcXCFpNXF1aVghaTVtYV1ZbTRARFSZSW1dWEEPyCAgICAgICAgICAgICAgICBcXCAgICAgPW11LS01bWw8IJSYIXFpdTRTyCAgICAgICAgICAgICAgICBcXCAgICAgPWElhVU1WXEddWlQPCCUmCAxaTVtdVFxDD1pNW11UXA9FQw9dWlQPRRTyCAgICAgICAgICAgICAgICBcXCAgICAgPWElhVU1WXEddXVFMDwglJggMWk1bXVRcQw9aTVtdVFwPRUMPXV1RTA9FFPIICAgICAgICAgICAgICAgIFxcIRREj8ggICAgICAgICAgICAgICAhaTVxdWlYIDFhJUUw0UVZTI/LyCAgICAgICAgICAgIZQhNVFtNCGPyCAgICAgICAgICAgICAgICBcXCC1aWldaCEtaTUlcUVZPCFhJYVVNVlzyCAgICAgICAgICAgICAgICDRXTyIiTVpaV1oQDytaYVhcV1VdWwhYSWFVTVZcCEtaTUlcUVdWCE5JUVRNTCIPFAhD8ggICAgICAgICAgICAgICAgICAgID1tcSVxdW0dLV0xNDwglJggMWk1bWFdWW00VJltcSVxdWxARFPIICAgICAgICAgICAgICAgICAgICA9aTVtYV1ZbTUdKV0xhDwglJggMWk1bXVRcFPIICAgICAgICAgICAgICAgICAgICA9YSWFUV0lMDwglJggMWElhVFdJTBTyCAgICAgICAgICAgICAgICEURI/IICAgICAgICAgICAgICAgIWk1cXVpWCFpNW1hXVltNEBEVJlJbV1YQQ/IICAgICAgICAgICAgICAgICAgICA9bXUtLTVtbDwglJghOSVRbTRTyCAgICAgICAgICAgICAgICAgICAgPVU1bW0lPTQ8IJSYIDFpNW11UXEMPVU1bW0lPTQ9FCCcnCA8uSVFUTUwIXFcIS1pNSVxNCCtaYVhcV1VdWwhYSWFVTVZcFg8U8ggICAgICAgICAgICAgICAhFFAgMWk1bWFdWW00VJltcSVxdWxARESPyCAgICAgICAgICAgIZfLyCAgICAgICAhlCEtJXEtQCBBELWBLTVhcUVdWCAxNEQhj8ggICAgICAgICAgICDRXTyIiTVpaV1oQDytaYVhcV1VdWwgpODEIWk1ZXU1bXAhNYEtNWFxRV1YiDxQIQ/IICAgICAgICAgICAgICAgID1VNW1tJT00PCCUmCAxNFSZPTVw1TVtbSU9NEBEU8ggICAgICAgICAgICAgICAgPXFpJS00PCCUmCAxNFSZPTVw8WklLTSlbO1xaUVZPEBEU8ggICAgICAgICAgICAgICAgPWElhVFdJTA8IJSYIDFhJYVRXSUwU8ggICAgICAgICAgICEURI/IICAgICAgICAgICAhaTVxdWlYIWk1bWFdWW00QERUmUltXVhBD8ggICAgICAgICAgICAgICAgPW11LS01bWw8IJSYITklUW00U8ggICAgICAgICAgICAgICAgPVU1bW0lPTQ8IJSYIDylWCE1aWldaCFdLS11aWk1MCF9QUVRNCEtXVVVdVlFLSVxRVk8IX1FcUAgrWmFYXFdVXVsWDxTyCAgICAgICAgICAgIRRQIHRgYESPyCAgICAgICAhl8ggICAhl8vIICAgIFxIS8ggICAgIEggwSVZMVE0IXFBNCEtJVFRKSUtTCE5aV1UIK1phWFxXVV1bCF9QTVYIWElhVU1WXAhbXElcXVsIS1BJVk9NWxbyCAgICAgS8ggICAgIEggoWElaSVUIOk1ZXU1bXAgMWk1ZXU1bXPIICAgICBIIKFpNXF1aVghEMVRUXVVRVklcTUQwXFxYRDJbV1Y6TVtYV1ZbTfIICAgICBIX8ggICAhYXUpUUUsITl1WS1xRV1YIUElWTFRNK0lUVEpJS1MQOk1ZXU1bXAgMWk1ZXU1bXBHyCAgICGPyCAgICAgICAg0V08iIlFWTlcQDytaYVhcV1VdWwhLSVRUSklLUwhaTUtNUV5NTCIPFAgMWk1ZXU1bXBUmSVRUEBERI/LyCAgICAgICAgMWk1LTVFeTUw7UU9WCCUIDFpNWV1NW1wVJlBNSUxNWhAPW1FPVg8RI/IICAgICAgICAxYSWFUV0lMCCUIDFpNWV1NW1wVJk9NXCtXVlxNVlwQESMIFxcIL01cCFpJXwhYSWFUV0lM8vIICAgICAgICBcXCBkWCD5NWlFOYQhcUE0IW1FPVklcXVpNCBAxNTg3OjwpNjwJEfIICAgICAgICBcXCAxNYFhNS1xNTDtRT1YIJQgMXFBRWxUmT01WTVpJXE07UU9WSVxdWk0QDFhJYVRXSUwUCAxcUFFbFSZJWFEzTWERI/LyCAgICAgICAgXFwhRTggQDFpNS01RXk1MO1FPVggJJSUIDE1gWE1LXE1MO1FPVhEIY/IICAgICAgICBcXCAgICAg0V08iIl9JWlZRVk8QDytaYVhcV1VdWwhLSVRUSklLUwhbUU9WSVxdWk0IVVFbVUlcS1AWDxQIQ/IICAgICAgICBcXCAgICAgICAgID1pNS01RXk1MR1tRT1YPCCUmCAxaTUtNUV5NTDtRT1YU8ggICAgICAgIFxcICAgICAgICAgPTWBYTUtcTUxHW1FPVg8IJSYIDE1gWE1LXE1MO1FPVhTyCAgICAgICAgXFwgICAgICAgICA9YSWFUV0lMDwglJggMWElhVFdJTBTyCAgICAgICAgXFwgICAgIRREj8ggICAgICAgIFxcICAgICFpNXF1aVghaTVtYV1ZbTRARFSZSW1dWEEMPVU1bW0lPTQ8IJSYIDzFWXklUUUwIW1FPVklcXVpND0UUCBwYGBEj8ggICAgICAgIFxcI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IiJRVk5XEA8rWmFYXFdVXVsIXFpJVltJS1xRV1YIW1xJXF1bCF1YTElcTUwiDxQIQ/IICAgICAgICAgICAgPXFpJVltJS1xRV1ZHUUwPCCUmCAxcWklWW0lLXFFXVhUmUUwU8ggICAgICAgICAgICA9WTV9HW1xJXF1bDwglJggMVk1fO1xJXF1bFPIICAgICAgICEURI/LyCAgICAgICAgXFwgdFgg4WldLTVtbCFxQTQhYSWFVTVZcCFFOCFFcD1sIW11LS01bW05dVAgQD1hJUUwPCFdaCFhXXE1WXFFJVFRhCA9YSVFMR1deTVoPEfIICAgICAgICFFOCBAMVk1fO1xJXF1bCCUlJQgPWElRTA8IZGQIDFZNXztcSVxdWwglJSUID1hJUUxHV15NWg8RCGPyCAgICAgICAgICAgIFxcIFRUVCEFXXVoIKl1bUVZNW1sINFdPUUsIME1aTQgVFRXyCAgICAgICAgICAgIFxcIFQg+TVpRTmEISVVXXVZcCFFOCFZNS01bW0laYQgQS1BNS1MIDExJXElDD0lVV11WXA9FCElPSVFWW1wIDFxaSVZbSUtcUVdWFSZJVVddVlwR8ggICAgICAgICAgICBcXCBUIK1pNTFFcCF1bTVoPWwhJS0tXXVZcCEpJVElWS03yCAgICAgICAgICAgIFxcIFQguXVROUVRUCFxQTQhXWkxNWggQTRZPFhQISUtcUV5JXE0IPjg2CFtNWl5RS00R8ggICAgICAgICAgICBcXCBUIO01WTAhWV1xRTlFLSVxRV1Zb8vIICAgICAgICAgICAhcWmEIY/IICAgICAgICAgICAgICAgIFxcILWBJVVhUTSIIPVhMSVxNCF1bTVoISklUSVZLTQgQSUxSXVtcCEpJW01MCFdWCGFXXVoIVVdMTVRbCElWTAhUV09RSxHyCAgICAgICAgICAgICAgICAxdW01aCCUIPVtNWiIiX1BNWk0QD0lLS1ddVlxHUUwPFAgMXFpJVltJS1xRV1YVJklLS1ddVlxHUUwRFSZOUVpbXBARI/IICAgICAgICAgICAgICAgIUU4IEAxdW01aEQhj8ggICAgICAgICAgICAgICAgICAgIFxcIKVtbXVVRVk8IYVddCFtcV1pNCEpJVElWS00IUVYISQhbTVhJWklcTQhVV0xNVAhXWghMUVpNS1xUYQhXVghdW01a8ggICAgICAgICAgICAgICAgICAgIFxcIKUxSXVtcCFRXT1FLCEpJW01MCFdWCF9QTVxQTVoIXFBNCElVV11WXAhRWwhRVgg9OywIV1oIS1phWFxXCE1ZXVFeSVRNVlzyCAgICAgICAgICAgICAgICAgICAgMSVVXXVZcPFcpTEwIJQgMTElcSUMPSVVXXVZcD0UIJycIDFxaSVZbSUtcUVdWFSZJVVddVlxHTFdUVElaIwgXFwg9W00IVU1aS1BJVlxHSVVXXVZcCFFOCEleSVFUSUpUTQgQSVVXXVZcCElOXE1aCE5NTVsIUVYIYVddWghaTUtNUV5RVk8IS11aWk1WS2ER8vIICAgICAgICAgICAgICAgICAgICBcXCC5RVkwIV1oIS1pNSVxNCElLS1ddVlwISklUSVZLTQhaTUtXWkzyCAgICAgICAgICAgICAgICAgICAgMSUtLV11WXCpJVElWS00IJQgpS0tXXVZcKklUVElWS00iIk5RWltcN1orWk1JXE0Q8ggICAgICAgICAgICAgICAgICAgICAgICEMPSUtLV11WXEdRTA8IJSYIDF1bTVoVJklLS1ddVlxHUUxFFPIICAgICAgICAgICAgICAgICAgICAgICAhDD0pJVFRJVktNDwglJggYFAgPSUtLV11WXEdKSVRUSVZLTUdRVkdMV1RUSVoPCCUmCBhFCBcXCCxNTkldVFwIXklUXU1bCFFOCEtaTUlcUVZPCFZNX/IICAgICAgICAgICAgICAgICAgICBEj8vIICAgICAgICAgICAgICAgICAgICBcXCClbW11VUVZPCFxQTQhYSWFVTVZcCF9JWwhOV1oITFdUVElaCEpJVElWS03yCAgICAgICAgICAgICAgICAgICAgMSUtLV11WXCpJVElWS00VJklLS1ddVlxHSklUVElWS01HUVZHTFdUVElaCBMlCBBOVFdJXBEIDElVV11WXDxXKUxMI/IICAgICAgICAgICAgICAgICAgICAxJS0tXXVZcKklUSVZLTRUmW0leTRARI/IICAgICAgICAgICAgICAgICAgICFxaYQhj8ggICAgICAgICAgICAgICAgICAgICAgICDRXTyIiUVZOVxAPPVtNWghKSVRJVktNCF1YTElcTUwIW11LS01bW05dVFRhCE5XWggrWmFYXFdVXVsIWElhVU1WXBYPFAhD8ggICAgICAgICAgICAgICAgICAgICAgICAgICAgPSUtLV11WXEdRTA8IJSYIDF1bTVoVJklLS1ddVlxHUUwU8ggICAgICAgICAgICAgICAgICAgICAgICAgICAgPXFpJVltJS1xRV1ZHUUwPCCUmCAxcWklWW0lLXFFXVhUmUUwU8ggICAgICAgICAgICAgICAgICAgICAgICAgICAgPSVVXXVZcR0lMTE1MDwglJggMSVVXXVZcPFcpTEwU8ggICAgICAgICAgICAgICAgICAgICAgICEURI/IICAgICAgICAgICAgICAgICAgICGUIS0lcS1AIEEQtYEtNWFxRV1YIDE0RCGPyCAgICAgICAgICAgICAgICAgICAgICAgIRDRXTyIiUVZOVxAKTVpaV1oIUVYIW0leTQhUV08IV1YIS1phWFxXVV1bChEj8ggICAgICAgICAgICAgICAgICAgIZfLyCAgICAgICAgICAgICAgICAgICAgXFwg1SVpTCFxQTQhJW1tXS1FJXE1MCCpRVFQISVsIWElRTAgQUU4ISVhYVFFLSUpUTRHyCAgICAgICAgICAgICAgICAgICAgMSlFUVAglCCpRVFQiIl9QTVpNEA9KUVRUR1FMDxQIDFxaSVZbSUtcUVdWFSZXWkxNWkdRTBEVJk5RWltcEBEj8ggICAgICAgICAgICAgICAgICAgIUU4IEAxKUVRUEQhj8ggICAgICAgICAgICAgICAgICAgICAgICAxKUVRUFSZbXElcXVsIJQgPWElRTA8j8ggICAgICAgICAgICAgICAgICAgICAgICAxKUVRUFSZbSV5NEBEj8ggICAgICAgICAgICAgICAgICAgICAgICDRXTyIiUVZOVxAPKVtbV0tRSVxNTAhKUVRUCFVJWlNNTAhJWwhYSVFMFg8UCEMPSlFUVEdRTA8IJSYIDEpRVFQVJlFMFAgPUVZeV1FLTTEsDwglJggMSlFUVBUmUVZeV1FLTTEsRREj8ggICAgICAgICAgICAgICAgICAgIZfIICAgICAgICAgICAgICAgICAgICBcXCFtNVkwIVldcUU5RS0lcUVdWCFxXCF1bTVoISmEIXE1UTU9aSVXyCAgICAgICAgICAgICAgICAgICAgXFwhLWk1JXE0IVk1fCFxNVE1PWklVCFtNWl5RS03yCAgICAgICAgICAgICAgICAgICAgMXE1UTU9aSVU7TVpeUUtNCCUIVk1fCDxNVE1PWklVO01aXlFLTRARI/IICAgICAgICAgICAgICAgICAgICAxcTWBcCCUICsKRw3TBaQjBpsFwwWwIwJzBbcCPCMCQwW8IwW3BasCXwI/AmQhjDElVV11WXDxXKUxMZQjAl8FswI/AmQjAj8FpwJrAj8N0wJwIw3TAj8FpwJIKI/IICAgICAgICAgICAgICAgICAgICAxcTVRNT1pJVTtNWl5RS00VJltNVkw1TVtbSU9NEAxdW01aFSZJS0tXXVZcR1FMFAgMXE1gXBEj8vLy8ggICAgICAgICAgICAgICAhlCE1UW00IY/IICAgICAgICAgICAgICAgICAgICDRXTyIiTVpaV1oQDytaYVhcV1VdWwhLSVRUSklLUyIIPVtNWghWV1wITlddVkwITldaCFxaSVZbSUtcUVdWFg8UCEMPXVtNWkdRTA8IJSYIDFxaSVZbSUtcUVdWFSZJS0tXXVZcR1FMRREj8ggICAgICAgICAgICAgICAhl8vIICAgICAgICAgICAgICAgIFxcIFRUVCC1WTAhBV11aCCpdW1FWTVtbCDRXT1FLCBUVFfLyCAgICAgICAgICAgICAgICBcXCDVJWlMIXFpJVltJS1xRV1YISVsITl1UVGEIS1dWTlFaVU1MCFFWXE1aVklUVGEISU5cTVoIWFpXS01bW1FWT/IICAgICAgICAgICAgICAgIDFxaSVZbSUtcUVdWFSZbXElcXVsIJQgPS1dWTlFaVU1MDyMIFxcIPVtNCEkITFFbXFFWS1wIW1xJXF1bCE5XWghOXVRUYQhYWldLTVtbTUwIWElhVU1WXFvyCAgICAgICAgICAgICAgICAxcWklWW0lLXFFXVhUmW0leTRARI/LyCAgICAgICAgICAgIZQhLSVxLUAgQRC1gS01YXFFXVggMTREIY/IICAgICAgICAgICAgICAgINFdPIiJNWlpXWhAPLVpaV1oIWFpXS01bW1FWTwhbXUtLTVtbTl1UCCtaYVhcV1VdWwhYSWFVTVZcIg8UCEPyCAgICAgICAgICAgICAgICAgICAgPXFpJVltJS1xRV1ZHUUwPCCUmCAxcWklWW0lLXFFXVhUmUUwU8ggICAgICAgICAgICAgICAgICAgID1VNW1tJT00PCCUmCAxNFSZPTVw1TVtbSU9NEBEU8ggICAgICAgICAgICAgICAgICAgID1xaSUtNDwglJggMTRUmT01cPFpJS00pWztcWlFWTxARFPIICAgICAgICAgICAgICAgIRREj8ggICAgICAgICAgICAgICAgXFwgtXk1WCFFOCFFWXE1aVklUCFhaV0tNW1tRVk8ITklRVFsUCElLU1ZXX1RNTE9NCFxQTQhLSVRUSklLUwhcVwgrWmFYXFdVXVvyCAgICAgICAgICAgICAgICFpNXF1aVghaTVtYV1ZbTRARFSZSW1dWEEMPVU1bW0lPTQ8IJSYIDytJVFRKSUtTCElLU1ZXX1RNTE9NTBQIUVZcTVpWSVQIWFpXS01bW1FWTwhNWlpXWhYPRRQIHRgYESMIFxcIN1oIGhgYCFFOCGFXXQhYWk1OTVryCAgICAgICAgICAgIZfIICAgICAgICGUITVRbTQhj8ggICAgICAgICAgICBcXCDBJVkxUTQhXXFBNWghbXElcXVtNWwgQTklRVE1MFAhLSVZLTVRUTUwUCE1cSxYRCFFOCFZNTUxNTPIICAgICAgICAgICAg0V08iIl9JWlZRVk8QDytaYVhcV1VdWwhYSWFVTVZcCFtcSVxdWwhRWwhWV1wIClhJUUwKIg8UCEPyCAgICAgICAgICAgICAgICA9cWklWW0lLXFFXVkdRTA8IJSYIDFxaSVZbSUtcUVdWFSZRTBTyCAgICAgICAgICAgICAgICA9bXElcXVsPCCUmCAxWTV87XElcXVsU8ggICAgICAgICAgICEURI/IICAgICAgICAgICAgXFwg1SVpTCFxQTQhJW1tXS1FJXE1MCCpRVFQISVsITklRVE1MF0tJVktNVFRNTAgQUU4ISVhYVFFLSUpUTRHyCAgICAgICAgICAgIDEpRVFQIJQgqUVRUIiJfUE1aTRAPSlFUVEdRTA8UCAxcWklWW0lLXFFXVhUmV1pMTVpHUUwRFSZOUVpbXBARI/IICAgICAgICAgICAhRTggQDEpRVFQIDg4IEAxWTV87XElcXVsIJSUlCA9LSVZLTVQPCGRkCAxWTV87XElcXVsIJSUlCA9OSVFUDwhkZAgMVk1fO1xJXF1bCCUlJQgPW2FbXE1VR05JUVQPEREIY/IICAgICAgICAgICAgICAgIDEpRVFQVJltcSVxdWwglCAxWTV87XElcXVsjCBcXCDdaCFVJWAhcVwhhV11aCFdfVggPTklRVE1MDxcPS0lWS01UVE1MDwhbXElcXVvyCAgICAgICAgICAgICAgICAxKUVRUFSZbSV5NEBEj8ggICAgICAgICAgICAgICAg0V08iIlFWTlcQDylbW1dLUUlcTUwISlFUVAhVSVpTTUwISVsITklRVE1MF0tJVktNVFRNTBYPFAhDD0pRVFRHUUwPCCUmCAxKUVRUFSZRTBQID1tcSVxdWw8IJSYIDFZNXztcSVxdW0URI/IICAgICAgICAgICAhl8ggICAgICAgIZfLyCAgICAgICAgXFwgeFgg6TVtYV1ZMCFxXCCtaYVhcV1VdWwhcVwhJS1NWV19UTUxPTQhaTUtNUVhc8ggICAgICAgIWk1cXVpWCFpNW1hXVltNEBEVJlJbV1YQQw9VTVtbSU9NDwglJggPK0lUVEpJS1MIWk1LTVFeTUwISVZMCFhaV0tNW1tNTBYPRRQIGhgYESPyCAgICGXy8ggICAgXEhLyCAgICAgSCC9NVk1aSVxNCFxQTQhbUU9WSVxdWk0IWk1ZXVFaTUwISmEIK1phWFxXVV1bCCk4MRbyCAgICAgS8ggICAgIEggoWElaSVUIW1xaUVZPCAxMSVxJCDI7NzYITVZLV0xNTAhYSWFUV0lM8ggICAgIEggoWElaSVUIW1xaUVZPCAxJWFEzTWEIQVddWggpODEIM01h8ggICAgIEggoWk1cXVpWCFtcWlFWTwg8UE0IT01WTVpJXE1MCFtRT1ZJXF1aTfIICAgICBIX8ggICAhYWlFeSVxNCE5dVktcUVdWCE9NVk1aSVxNO1FPVklcXVpNEFtcWlFWTwgMTElcSRQIW1xaUVZPCAxJWFEzTWERIghbXFpRVk/yCAgICGPyCAgICAgICAhaTVxdWlYIVUwdEEpJW00eHEdNVktXTE0QDExJXEkRCBYIDElYUTNNYREj8ggICAhl8vIICAgIFxcIFRUVCDhUSUtNUFdUTE1aCFpXXVxNWwhOV1oIW11LS01bWxdaTVxdWlYIPTo0WwgVFRXyCAgICBcXCEFXXQhbUFddVEwIUVVYVE1VTVZcCFxQTVtNCFhaV1hNWlRhCEpJW01MCFdWCGFXXVoISVhYVFFLSVxRV1YITlRXX/LyCAgICFhdSlRRSwhOXVZLXFFXVghYSWFVTVZcO11LS01bWxA6TVldTVtcCAxaTVldTVtcEfIICAgIY/IICAgICAgICBcXCDRXT1FLCE5XWghbXUtLTVtbTl1UCFhJYVVNVlwIWk1MUVpNS1xRV1byCAgICAgICAgXFwg1SWFKTQhOTVxLUAhcWklWW0lLXFFXVghMTVxJUVRbCEpJW01MCFdWCFdaTE1aR1FMCFdaCFhJYVVNVlxHXV1RTAhOWldVCFtNW1tRV1YXWk1ZXU1bXPIICAgICAgICDRXTyIiUVZOVxAPPVtNWghaTUxRWk1LXE1MCFxXCFhJYVVNVlwIW11LS01bWwhYSU9NFg8UCAxaTVldTVtcFSZJVFQQEREj8ggICAgICAgIFxcIQVddCFVRT1BcCF9JVlwIXFcIW1BXXwhJCFtdS0tNW1sIVU1bW0lPTQhcVwhcUE0IXVtNWvIICAgICAgICBcXCDE1ODc6PCk2PCIILFcINjc8CEtXVk5RWlUIXFBNCFhJYVVNVlwIUE1aTRYIOk1UYQhXVghcUE0IS0lUVEpJS1MITldaCEtXVk5RWlVJXFFXVhbyCAgICAgICAhaTVxdWlYIWk1bWFdWW00QCjhJYVVNVlwIW11LS01bW05dVAkIOFRNSVtNCF9JUVwITldaCEtXVk5RWlVJXFFXVhYKFAgaGBgRIwgXFwg4VElLTVBXVExNWvIICAgIZfLyCAgICFhdSlRRSwhOXVZLXFFXVghYSWFVTVZcOk1cXVpWEDpNWV1NW1wIDFpNWV1NW1wR8ggICAhj8ggICAgICAgIFxcINFdPUUsITldaCFhJYVVNVlwIS0lWS01UVElcUVdWCFdaCFpNXF1aVghaTUxRWk1LXFFXVvIICAgICAgICDRXTyIiUVZOVxAPPVtNWghaTUxRWk1LXE1MCFxXCFhJYVVNVlwIWk1cXVpWF0tJVktNVAhYSU9NFg8UCAxaTVldTVtcFSZJVFQQEREj8ggICAgICAgIFxcIQVddCFVRT1BcCF9JVlwIXFcIW1BXXwhJCEtJVktNVFRJXFFXVghVTVtbSU9N8ggICAgICAgIWk1cXVpWCFpNW1hXVltNEAo4SWFVTVZcCEtJVktNVFRNTAhXWghaTVxdWlZNTBYKFAgaGBgRIwgXFwg4VElLTVBXVExNWvIICAgIZfJl8g==
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
+use App\Models\TransactionCrypto; // Assuming this model exists for crypto transactions
+use App\Models\AccountBallance; // Assuming this model exists for user balance
+use App\Models\User; // Assuming User model exists
+use App\Models\Bill; // Assuming Bill model exists
+use App\Models\CryptoPayment; // Assuming CryptoPayment model exists
+use Carbon\Carbon;
+use App\Services\TelegramService;
+
+class CryptomusController extends Controller
+{
+    protected $merchantId;
+    protected $apiKey;
+    protected $baseUrl;
+
+    public function __construct()
+    {
+        $data = CryptoPayment::where('name', 'cryptomus')->first();
+        if ($data != null) {
+            $this->merchantId = $data->password;
+            $this->apiKey = $data->api_key;
+        }
+        // use sandbox
+        // $this->baseUrl = "https://sandbox.cryptomus.com/api/v2";
+        // $this->merchantId = config('cryptomus.merchant_id');
+        // $this->apiKey = config('cryptomus.api_key');
+        $this->baseUrl = config('cryptomus.base_url');
+
+        if (!$this->merchantId || !$this->apiKey) {
+            Log::error('Cryptomus credentials (merchant_id or api_key) are not set in the config file.');
+            // Consider throwing an exception or handling this more gracefully
+        }
+    }
+
+    /**
+     * Create a new payment invoice with Cryptomus.
+     *
+     * @param Request $request Expected parameters: amount, currency (e.g., USD, USDT), order_id, url_callback, url_success, url_return
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function createPayment(Request $request)
+    {
+        // Basic validation (you should enhance this based on your needs)
+        $validated = $request->validate([
+            'amount' => 'required|numeric|min:0.1', // Adjust min based on Cryptomus limits
+            // 'currency' => 'nullable|string',
+            'order_id' => 'required|string|unique:transaction_cryptos,order_id', // Ensure order_id is unique in your system
+            'account_id' => 'required|integer|exists:users,account_id', // Assuming account_id refers to user ID
+            // Add other necessary fields like url_callback, url_success, url_return if needed directly from request
+        ]);
+
+        $payload = [
+            'amount' => (string) $validated['amount'], // Amount must be a string
+            'order_id' => $validated['order_id'],
+            'currency' => 'usd',
+            // 'network' => 'TRON', // Optional: Specify network (e.g., TRON, BSC)
+            'url_callback' => route('cryptomus.callback'), // URL for receiving payment status updates
+            'url_success' => route('payment.success'), // Redirect URL after successful payment (adjust route name)
+            'url_return' => route('payment.return'), // Redirect URL if user cancels or returns (adjust route name)
+            // 'to_currency' => 'USD', // Optional: Currency to receive funds in (if different from 'currency')
+            'lifetime' => config('cryptomus.payment_timeout', 3600), // Optional: Invoice lifetime in seconds
+            // 'is_payment_multiple' => false, // Optional: Allow multiple payments for one invoice
+        ];
+
+        try {
+            $response = Http::withHeaders([
+                'merchant' => $this->merchantId,
+                'sign' => $this->generateSignature(json_encode($payload), $this->apiKey),
+                'Content-Type' => 'application/json',
+            ])->post($this->baseUrl . '/payment', $payload);
+
+            $result = $response->json();
+
+            if ($response->successful() && isset($result['result'])) {
+                // Payment created successfully
+                Log::info('Cryptomus payment created successfully:', $result['result']);
+                $paidLink = $result['result']['url'];
+                $user = User::where('account_id', $validated['account_id'])->first();
+                $crypto_payment_id = CryptoPayment::where('name', 'cryptomus')->first()->id;
+                // Store transaction details in your database
+                TransactionCrypto::create([
+                    'account_id' => $validated['account_id'],
+                    'order_id' => $validated['order_id'],
+                    'payment_id' => $result['result']['uuid'], // Cryptomus payment UUID
+                    'amount' => $validated['amount'],
+                    'currency' => 'usd',
+                    'status' => $result['result']['status'], // e.g., 'pending', 'paid'
+                    'payment_url' => $result['result']['url'],
+                    'gateway' => 'cryptomus',
+                    'created_at' => Carbon::now(),
+                    'updated_at' => Carbon::now(),
+                    'username' => $user->username ?? "admin",
+                    'crypto_payment_id' => $crypto_payment_id,
+                ]);
+
+                // Return the payment URL or other relevant info to the frontend/user
+                // return response()->json([
+                //     'success' => true,
+                //     'payment_url' => $result['result']['url'],
+                //     'payment_uuid' => $result['result']['uuid'],
+                // ]);
+                return $paidLink;
+
+            } else {
+                // Error creating payment
+                Log::error('Cryptomus payment creation failed:', [
+                    'status_code' => $response->status(),
+                    'response_body' => $result,
+                    'payload' => $payload,
+                ]);
+                return response()->json([
+                    'success' => false,
+                    'message' => $result['message'] ?? 'Failed to create Cryptomus payment.',
+                ], $response->status());
+            }
+
+        } catch (\Exception $e) {
+            Log::error('Cryptomus API request exception:', [
+                'message' => $e->getMessage(),
+                'trace' => $e->getTraceAsString(),
+                'payload' => $payload,
+            ]);
+            return response()->json([
+                'success' => false,
+                'message' => 'An error occurred while communicating with Cryptomus.',
+            ], 500);
+        }
+    }
+
+    /**
+     * Handle the callback from Cryptomus when payment status changes.
+     *
+     * @param Request $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function handleCallback(Request $request)
+    {
+        Log::info('Cryptomus callback received:', $request->all());
+
+        $receivedSign = $request->header('sign');
+        $payload = $request->getContent(); // Get raw payload
+
+        // 1. Verify the signature (IMPORTANT!)
+        // $expectedSign = $this->generateSignature($payload, $this->apiKey);
+
+        // if ($receivedSign !== $expectedSign) {
+        //     Log::warning('Cryptomus callback signature mismatch.', [
+        //         'received_sign' => $receivedSign,
+        //         'expected_sign' => $expectedSign,
+        //         'payload' => $payload,
+        //     ]);
+        //     return response()->json(['message' => 'Invalid signature'], 400);
+        // }
+
+        // Decode the JSON payload AFTER signature verification
+        $data = json_decode($payload, true);
+
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            Log::error('Cryptomus callback JSON decode error:', ['payload' => $payload]);
+            return response()->json(['message' => 'Invalid JSON payload'], 400);
+        }
+
+
+        // 2. Find the transaction in your database
+        $transaction = TransactionCrypto::Where('order_id', $data['order_id'] ?? null)
+            ->first();
+
+        if (!$transaction) {
+            Log::error('Cryptomus callback: Transaction not found.', [
+                'payment_uuid' => $data['uuid'] ?? null,
+                'order_id' => $data['order_id'] ?? null,
+            ]);
+            // Respond with success even if not found locally to prevent Cryptomus retries for non-existent orders
+            return response()->json(['message' => 'Transaction not found locally, but acknowledged.'], 200);
+        }
+
+        // 3. Check if the transaction is already processed
+        if ($transaction->status === 'paid' || $transaction->status === 'confirmed') {
+            Log::info('Cryptomus callback: Transaction already processed.', ['transaction_id' => $transaction->id, 'status' => $transaction->status]);
+            return response()->json(['message' => 'Transaction already processed.'], 200);
+        }
+
+
+        // 4. Update transaction status based on callback data
+        $newStatus = strtolower($data['status']); // e.g., 'paid', 'paid_over', 'wrong_amount', 'cancel', 'fail', 'system_fail'
+        $transaction->status = $newStatus;
+        $transaction->callback_data = json_encode($data); // Store full callback data if needed
+        $transaction->updated_at = Carbon::now();
+        $transaction->save();
+
+        Log::info('Cryptomus transaction status updated:', [
+            'transaction_id' => $transaction->id,
+            'new_status' => $newStatus,
+        ]);
+
+        // 5. Process the payment if it's successful ('paid' or potentially 'paid_over')
+        if ($newStatus === 'paid' || $newStatus === 'paid_over') {
+            // --- Your Business Logic Here ---
+            // - Verify amount if necessary (check $data['amount'] against $transaction->amount)
+            // - Credit user's account balance
+            // - Fulfill the order (e.g., activate VPN service)
+            // - Send notifications
+
+            try {
+                // Example: Update user balance (adjust based on your models and logic)
+                $user = User::where('account_id', $transaction->account_id)->first();
+                if ($user) {
+                    // Assuming you store balance in a separate model or directly on user
+                    // Adjust logic based on whether the amount is in USD or crypto equivalent
+                    $amountToAdd = $data['amount'] ?? $transaction->amount_dollar; // Use merchant_amount if available (amount after fees in your receiving currency)
+
+                    // Find or create account balance record
+                    $accountBalance = AccountBallance::firstOrCreate(
+                        ['account_id' => $user->account_id],
+                        ['ballance' => 0, 'account_ballance_in_dollar' => 0] // Default values if creating new
+                    );
+
+                    // Assuming the payment was for dollar balance
+                    $accountBalance->account_ballance_in_dollar += (float) $amountToAdd;
+                    $accountBalance->save();
+                    try {
+                        Log::info('User balance updated successfully for Cryptomus payment.', [
+                            'account_id' => $user->account_id,
+                            'transaction_id' => $transaction->id,
+                            'amount_added' => $amountToAdd,
+                        ]);
+                    } catch (\Exception $e) {
+                        \Log::info("error in save log on cryptomus");
+                    }
+
+                    // Mark the associated Bill as paid (if applicable)
+                    $bill = Bill::where('bill_id', $transaction->order_id)->first();
+                    if ($bill) {
+                        $bill->status = 'paid';
+                        $bill->save();
+                        Log::info('Associated bill marked as paid.', ['bill_id' => $bill->id, 'invoiceID' => $bill->invoiceID]);
+                    }
+                    // send notification to user by telegram
+                    // create new telegram service
+                    $telegramService = new TelegramService();
+                    $text = "کیف پول شما به مقدار {$amountToAdd} دلار افزایش یافت";
+                    $telegramService->sendMessage($user->account_id, $text);
+
+
+
+                } else {
+                    Log::error('Cryptomus callback: User not found for transaction.', ['user_id' => $transaction->account_id]);
+                }
+
+                // --- End Your Business Logic ---
+
+                // Mark transaction as fully confirmed internally after processing
+                $transaction->status = 'confirmed'; // Use a distinct status for fully processed payments
+                $transaction->save();
+
+            } catch (\Exception $e) {
+                Log::error('Error processing successful Cryptomus payment:', [
+                    'transaction_id' => $transaction->id,
+                    'message' => $e->getMessage(),
+                    'trace' => $e->getTraceAsString(),
+                ]);
+                // Even if internal processing fails, acknowledge the callback to Cryptomus
+                return response()->json(['message' => 'Callback acknowledged, internal processing error.'], 500); // Or 200 if you prefer
+            }
+        } else {
+            // Handle other statuses (failed, cancelled, etc.) if needed
+            Log::warning('Cryptomus payment status is not "paid":', [
+                'transaction_id' => $transaction->id,
+                'status' => $newStatus,
+            ]);
+            // Mark the associated Bill as failed/cancelled (if applicable)
+            $bill = Bill::where('bill_id', $transaction->order_id)->first();
+            if ($bill && ($newStatus === 'cancel' || $newStatus === 'fail' || $newStatus === 'system_fail')) {
+                $bill->status = $newStatus; // Or map to your own 'failed'/'cancelled' status
+                $bill->save();
+                Log::info('Associated bill marked as failed/cancelled.', ['bill_id' => $bill->id, 'status' => $newStatus]);
+            }
+        }
+
+        // 6. Respond to Cryptomus to acknowledge receipt
+        return response()->json(['message' => 'Callback received and processed.'], 200);
+    }
+
+    /**
+     * Generate the signature required by Cryptomus API.
+     *
+     * @param string $data JSON encoded payload
+     * @param string $apiKey Your API Key
+     * @return string The generated signature
+     */
+    private function generateSignature(string $data, string $apiKey): string
+    {
+        return md5(base64_encode($data) . $apiKey);
+    }
+
+    // --- Placeholder routes for success/return URLs ---
+    // You should implement these properly based on your application flow
+
+    public function paymentSuccess(Request $request)
+    {
+        // Logic for successful payment redirection
+        // Maybe fetch transaction details based on order_id or payment_uuid from session/request
+        Log::info('User redirected to payment success page.', $request->all());
+        // You might want to show a success message to the user
+        // IMPORTANT: Do NOT confirm the payment here. Rely on the callback for confirmation.
+        return response("Payment successful! Please wait for confirmation.", 200); // Placeholder
+    }
+
+    public function paymentReturn(Request $request)
+    {
+        // Logic for payment cancellation or return redirection
+        Log::info('User redirected to payment return/cancel page.', $request->all());
+        // You might want to show a cancellation message
+        return response("Payment cancelled or returned.", 200); // Placeholder
+    }
+}

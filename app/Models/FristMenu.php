@@ -1,3 +1,14 @@
 <?php
-bolt_decrypt( __FILE__ , 'ebmyFy'); return 0;
-##!!!##dnbazdnR39zNz9GMrdzcyLnb0NHY36d2duHf0Yy12Njh2dXazeDRyLDN4M3Ozd/RyLHY293h0drgyLLNz+Db3tXR38i0zd+yzc/g297lp3bh39GMtdjY4dnV2s3g0ciwzeDNzs3f0cix2Nvd4dHa4Mi529DR2Kd2ds/Yzd/fjLLe1d/gudHa4YzR5ODR2tDfjLnb0NHYdud2jIyMjOHf0Yy0zd+yzc/g297lp3aMjIyM3N7b4NHP4NHQjJDT4c3e0NHQjKmMx5PV0JPJp3aMjIyM3N7b4NHP4NHQjJDS1djYzc7Y0YypjMeT2s3Z0ZOYjJPV363P4NXi0ZPJp3Z26XY=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class FristMenu extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'isActive'];
+
+}

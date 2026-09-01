@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'VJPOO9'); return 0;
-##!!!##0dE1KDQsOjcoKiznCDc3IxQ2KywzOgLRPDos5x0sOTsoAtHRPDos5xAzMzw0MDUoOywjCyg7KCkoOiwjDDM2ODwsNTsjDSgqOzY5MCw6Iw8oOg0oKjs2OUAC0Tw6LOcQMzM8NDA1KDssIwsoOygpKDosIwwzNjg8LDU7IxQ2KywzAtHRKjMoOjrnCTAzM+csPzssNSs65xQ2Kywz0ULR5+fn5zw6LOcPKDoNKCo7NjlAAtHn5+fnNzk2OywqOywr5+suPCg5Kywr5wTnIu4wK+4kAtHn5+fnNzk2OywqOywr5+stMDMzKCkzLOcE5yLuKCoqNjw1OyYwK+7z5+4pMDMzJjAr7vPuKDQ2PDU77vPuKDQ2PDU7Jis2MzMoOe4kAtHn5+fnNzwpMzAq5y08NSo7MDY15y4sOwo5LCg7LCsIOwg7OzkwKTw7LO/rPSgzPCzw0efn5+dC0efn5+fn5+fnOSw7PDk15z0sOTso7z0sOTso7+s9KDM8LPDw9AUtNjk0KDsLMC0tLDksNSos7/AC0efn5+dE0UTR
+
+namespace App\Models;
+use Verta;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Bill extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['account_id', 'bill_id','amount','amount_dollar'];
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+}

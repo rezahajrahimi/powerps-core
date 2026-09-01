@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'MpalPT'); return 0;
-##!!!##ODicj5uToZ6PkZNOb56einudkpOaoWk4OKOhk053mpqjm5ecj6KTinKPoo+Qj6GTinOanZ+jk5yiinSPkaKdoJeToYp2j6F0j5GinaCnaTijoZNOd5qao5uXnI+ik4pyj6KPkI+hk4pzmp2fo5Ocoop7nZKTmmk4OJGaj6GhTnqdkY+al6iTkoKTpqJOk6aik5ySoU57nZKTmjipOE5OTk6joZNOdo+hdI+Rop2gp2k4OE5OTk6eoJ2ik5Gik5JOUpSXmpqPkJqTTmtOiThOTk5OTk5OTlWik6aiVVo4Tk5OTk5OTk5VmZOnVVo4Tk5OTk5OTk5Vmp2Rj5qTVVo4Tk5OTk5OTk5VlaCdo55VWjhOTk5Oi2k4OKs4
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class LocalizedText extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'text',
+        'key',
+        'locale',
+        'group',
+    ];
+
+}

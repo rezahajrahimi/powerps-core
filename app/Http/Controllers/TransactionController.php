@@ -1,3 +1,324 @@
 <?php
-bolt_decrypt( __FILE__ , 'MBomJi'); return 0;
-##!!!##KCiMf4uDkY5/gYM+X46OemaSko56YY2MkpCNioqDkJFZKCiTkYM+X46OenGDkJSHgYORemqNl3+KkpdujYeMkpFxg5CUh4GDWSiTkYM+X46OenGDkJSHgYORenh/kIeMjn+KcYOQlIeBg1kok5GDPmeKipOLh4x/koN6cZOOjo2Qknpkf4F/goORemGNjISHhVkoKJORgz5fjo56a42Cg4qRenKQf4yRf4GSh42MWSiTkYM+X46OemuNgoOKkXpuf5eLg4yScpeOg1kok5GDPl+OjnprjYKDipF6YZCXjpKNbn+Xi4OMklkok5GDPl+OjnprjYKDipF6cpB/jJF/gZKHjYxni3+Fg1kok5GDPl+OjnprjYKDipF6YIeKilkoKJORgz5nioqTi4eMf5KDemaSko56cIOPk4ORklkogYp/kZE+cpB/jJF/gZKHjYxhjYySkI2KioOQPoOWkoOMgpE+YY2MkpCNioqDkCiZKD4+Pj6Ok4CKh4E+Qn+BgY2TjJJ9h4JZKD4+Pj6Ok4CKh4E+Qn+LjZOMklkoPj4+Po6TgIqHgT5Cf4uNk4ySfYKNiop/kFkoPj4+Po6TgIqHgT6Ek4yBkoeNjD5/goJ9jZCCg5BGcIOPk4ORkj5CkIOPk4ORkkcoPj4+PpkoPj4+Pj4+Pj5CkYOSkoeMhWGMkpCKPls+jIOVPnGDkpKHjIVhjYySkI2KioOQRkdZKD4+Pj4+Pj4+Qot/h4xzkIo+Wz5CkYOSkoeMhWGMkpCKS1yFg5Jrf4eMc5CKRkdZKCg+Pj4+Pj4+Pk1NPmWDkj5/i42TjJI+hJCNiz6Ah4qKKD4+Pj4+Pj4+QoCHioo+Wz5gh4qKWFiVhoOQg0ZFgIeKin2HgkVKPkKQg4+Tg5GSS1yHjJSNh4GDZ2JHS1yEh5CRkkZHWSgoPj4+Pj4+Pj5CkoaHkUtcf4uNk4ySPls+QoCHiopLXH+LjZOMklkoPj4+Pj4+Pj5CkoaHkUtcf4GBjZOMkn2Hgj5bPkKQg4+Tg5GSS1x/gYGNk4ySfYeCWSgoPj4+Pj4+Pj6HhD5GQpKGh5FLXH+LjZOMkj4/Wz6Mk4qKRz6ZKD4+Pj4+Pj4+Pj4+PkKYf5CHjI5/im5/l4uDjJI+Wz5uf5eLg4yScpeOg1hYlYaDkINGRYx/i4NFSj5F9tD2z/mq96Q+99z2xfeiRUdLXISHkJGSRkdZKD4+Pj4+Pj4+Pj4+PkKYf5CHjI5/imuDkIGGg4ySZ2I+Wz5CmH+Qh4yOf4puf5eLg4ySXUtci4OQgYZ/jJJ9h4JZKD4+Pj4+Pj4+Pj4+PoeEPkZCmH+Qh4yOf4prg5CBhoOMkmdiPltbPoyTiopHPpkoPj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD5FeF9wZ2xuX2p9a2NwYWZfbHJ9Z2I+h5E+jI2SPpGDkkVZKD4+Pj4+Pj4+Pj4+PpsoKD4+Pj4+Pj4+Pj4+PkKBf4qKgH+BiXOQij5bPm5/l4uDjJJyl46DWFiQg5GNipSDeH+Qh4yOf4phf4qKgH+BiXOQikYoPj4+Pj4+Pj4+Pj4+Pj4+PkKYf5CHjI5/im5/l4uDjJJLXIF/ioqAf4GJfZOQij5dXT6Mk4qKSig+Pj4+Pj4+Pj4+Pj4+Pj4+Qot/h4xzkIooPj4+Pj4+Pj4+Pj4+R1koPj4+Pj4+Pj4+Pj4+QoeRcX+MgoCNlj5bPkaAjY2KRz5GQph/kIeMjn+Kbn+Xi4OMkktch5F9kX+MgoCNlj5dXT6Ef4qRg0dZKCg+Pj4+Pj4+Pj4+Pj5NTT5zkYM+gZORko2LPnh/kIeMjn+KcYOQlIeBgyg+Pj4+Pj4+Pj4+Pj5CmH+Qh4yOf4o+Wz6Mg5U+eH+Qh4yOf4pxg5CUh4GDRkKYf5CHjI5/imuDkIGGg4ySZ2JKPkKHkXF/jIKAjZZKPkKBf4qKgH+BiXOQikdZKD4+Pj4+Pj4+Pj4+PkKQg5GOjYyRgz5bPkKYf5CHjI5/iktckIOPk4ORkkZCkoaHkUtcf4uNk4ySSj5F9sz2z/mq9s0++Mf2xfei9sVFR1koKD4+Pj4+Pj4+Pj4+PnpqjYVYWIeMhI1GQHh/kIeMjn+KPo5/l4uDjJI+ioeMiT6BkIN/koOCWD5APkw+RkKQg5GOjYyRg3lFkZOBgYORkUV7Pl0+QpCDkY6NjJGDeUV/k5KGjZCHkpdFez5YPkKQg5GOjYyRg3lFg5CQjZBFe0dHWSgoPj4+Pj4+Pj4+Pj4+h4Q+Rj9CkIORjo2MkYN5RZGTgYGDkZFFe0c+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+kIOSk5CMPkKQg5GOjYyRg3lFg5CQjZBFe1koPj4+Pj4+Pj4+Pj4+mygoPj4+Pj4+Pj4+Pj4+Qn+TkoaNkIeSlz5bPkKQg5GOjYyRg3lFf5OSho2Qh5KXRXtZKCg+Pj4+Pj4+Pj4+Pj5NTT5xf5SDPn+TkoaNkIeSlz6HjD6CgD5/kT6Mg5U+gIeKij6SkH+MkX+BkoeNjH2Hgig+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYw+Wz6Mg5U+cpB/jJF/gZKHjYxGR1koPj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1x/gYGNk4ySfYeCPls+QpKGh5FLXH+BgY2TjJJ9h4JZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtck5GDkIx/i4M+Wz5FRVkoPj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1x/i42TjJI+Wz5CkoaHkUtcf4uNk4ySWSg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYxLXIGNjISHkIuDgj5bPk5ZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtckIOBh46DfYyTi4CDkD5bPkJ/k5KGjZCHkpdZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtcjn+Xi4OMkn2Sl46DfYeCPls+Qph/kIeMjn+Kbn+Xi4OMkktch4JZKCg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYxLXJF/lINGR1koKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5CkIORjo2MkYN5RZOQikV7WSg+Pj4+Pj4+Pps+g4qRgz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5F9sX5qvekPvbT96b2z/bI9sv20fbF9sY+96P3pvbK96b2zT73pPej+ao+9sb2xfbS9s1MRVkoPj4+Pj4+Pj6bKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+jZCCg5BGcIOPk4ORkj5CkIOPk4ORkkcoPj4+PpkoPj4+Pj4+Pj6SkJc+mSg+Pj4+Pj4+Pj4+Pj5Cf5OSho2Qh5KXPls+QpCDj5ODkZJLXF+TkoaNkIeSl1k+TU0+eH+Qh4yOf4o+kIOSk5CMkT5fk5KGjZCHkpc+h4w+gX+Lg4phf5GDPo2QPoKDjoOMgpE+jYw+gpCHlIOQSj6UUj6TkYORPl+TkoaNkIeSlyg+Pj4+Pj4+Pj4+Pj5CkZJ/kpORPls+QpCDj5ODkZJLXHGSf5KTkVkoKD4+Pj4+Pj4+Pj4+PoeEPkZCkZJ/kpORPj9bWz5FbWlFRz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+Rffc9s/2zfbF9sz2yD72yPem9tH21T74x/bF9s/2xvbPPvei9tj3pj720vbNPvmq9sU+96T2xfej96b3n/egPvbG96b2zUxFWSg+Pj4+Pj4+Pj4+Pj6bKCg+Pj4+Pj4+Pj4+Pj5Cf4uNk4ySPls+QpKGh5FLXIWDkl+LjZOMkmCXcIOBh46DbHOLgIOQRkJ/k5KGjZCHkpdHWSgoPj4+Pj4+Pj4+Pj4+TU0+ZYOSPpKQf4yRf4GSh42MPpWHkoY+Qn+TkoaNkIeSlyg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYw+Wz5ykH+MkX+BkoeNjFhYlYaDkINGRZCDgYeOg32Mk4uAg5BFSj5Cf5OSho2Qh5KXR0tchIeQkZJGR1koKD4+Pj4+Pj4+Pj4+PoeEPkY/QpKQf4yRf4GSh42MRz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+RfbI9s/2xfjH96T20j75qvbF95/2yD73pPbS9s1MRVkoPj4+Pj4+Pj4+Pj4+mygoPj4+Pj4+Pj4+Pj4+TU0+YYaDgYk+h4Q+kpB/jJF/gZKHjYw+lX+RPoGNjISHkIuDgj6Ag4SNkIMoPj4+Pj4+Pj4+Pj4+h4Q+RkKSkH+MkX+BkoeNjEtcgY2MhIeQi4OCPltbPpKQk4NHPpkoPj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD5F9sj2z/bF+Mf3pPbSPveg9sb3ovbF96k+9sj2xfmq+ar2zT720vbN96U+9sX20fbITEVZKD4+Pj4+Pj4+Pj4+PpsoKD4+Pj4+Pj4+Pj4+PkKYf5CHjI5/im5/l4uDjJI+Wz5uf5eLg4yScpeOg1hYlYaDkINGRYx/i4NFSj5F9tD2z/mq96Q+99z2xfeiRUdLXISHkJGSRkdZKD4+Pj4+Pj4+Pj4+PkKYf5CHjI5/imuDkIGGg4ySZ2I+Wz5CmH+Qh4yOf4puf5eLg4ySXUtci4OQgYZ/jJJ9h4JZKD4+Pj4+Pj4+Pj4+PkKHkXF/jIKAjZY+Wz5GgI2Nikc+RkKYf5CHjI5/im5/l4uDjJJLXIeRfZF/jIKAjZY+XV0+hH+KkYNHWSgoPj4+Pj4+Pj4+Pj4+TU0+c5GDPoGTkZKNiz54f5CHjI5/inGDkJSHgYM+hI2QPpSDkIeEh4F/koeNjCg+Pj4+Pj4+Pj4+Pj5CmH+Qh4yOf4o+Wz6Mg5U+eH+Qh4yOf4pxg5CUh4GDRkKYf5CHjI5/imuDkIGGg4ySZ2JKPkKHkXF/jIKAjZZHWSg+Pj4+Pj4+Pj4+Pj5CkIORjo2MkYM+Wz5CmH+Qh4yOf4pLXJSDkIeEl0ZCf5OSho2Qh5KXSj5Gh4ySR0J/i42TjJJHWSgoPj4+Pj4+Pj4+Pj4+h4Q+Rj9CkIORjo2MkYN5RZGTgYGDkZFFe0c+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+kIOSk5CMPkKQg5GOjYyRg3lFg5CQjZBFe1koPj4+Pj4+Pj4+Pj4+mygoPj4+Pj4+Pj4+Pj4+QoGNjISHkItwg48+Wz6Mg5U+cIOPk4ORkkZHWSg+Pj4+Pj4+Pj4+Pj5CgY2MhIeQi3CDj0tch4I+Wz5CkpB/jJF/gZKHjYxLXIeCWSg+Pj4+Pj4+Pj4+Pj5CgY2MhIeQi3CDj0tcgY2MhIeQi4OCPls+T1koPj4+Pj4+Pj4+Pj4+QoGNjISHkItwg49LXH+LjZOMkj5bPkKSkH+MkX+BkoeNjEtcf4uNk4ySWSg+Pj4+Pj4+Pj4+Pj5CgY2MhIeQi3CDj0tcf4GBjZOMkn2Hgj5bPkKSkH+MkX+BkoeNjEtcf4GBjZOMkn2HglkoPj4+Pj4+Pj4+Pj4+QoGNjISHkItwg49LXJCDgYeOg2xzi4CDkD5bPkKSkH+MkX+BkoeNjEtckIOBh46DfYyTi4CDkFkoPj4+Pj4+Pj4+Pj4+QoGNjISHkItwg49LXI5/l4uDjJJyl46DZ4I+Wz5CkpB/jJF/gZKHjYxLXI5/l4uDjJJ9kpeOg32HglkoPj4+Pj4+Pj4+Pj4+QoGNjISHkItwg49LXIeRbn+Xi4ySYH+BiT5bPpKQk4NZKCg+Pj4+Pj4+Pj4+Pj5CkoaHkUtcg4KHknORg5BykH+Mf4GSh42MRkKBjYyEh5CLcIOPR1koKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5F99z2z/bN9sX2zPbIPvbG9sU+96P3pvef96D5qvbIPvbF96T2yvbF96M+9tL2zUw+96P5qj72yPem9sX3pPmq9s0+9sX5qvekPvfc96T2yvbP96U+9s/2xT72xvbG96T2zfmq9s1MRVkoPj4+Pj4+Pj6bPoF/koGGPkZ6Y5aBg46Sh42MPkKDloGDjpKHjYxHPpkoPj4+Pj4+Pj4+Pj4+Qn+TkoaNkIeSlz5bPkKQg4+Tg5GSS1xfk5KGjZCHkpdZKCg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYw+Wz5ykH+MkX+BkoeNjFhYlYaDkINGRZCDgYeOg32Mk4uAg5BFSj5Cf5OSho2Qh5KXR0tchIeQkZJGR1koKD4+Pj4+Pj4+Pj4+PoeEPkZCkpB/jJF/gZKHjYxHPpkoPj4+Pj4+Pj4+Pj4+Pj4+PkKShoeRS1yQg4uNlINzjIGNjISHkIuDgnKQf4yRf4GSh42MRkKSkH+MkX+BkoeNjEtch4JHWSg+Pj4+Pj4+Pj4+Pj6bKD4+Pj4+Pj4+Pj4+PnpqjYVYWIOQkI2QRkB4f5CHjI5/ij6Bf4qKgH+BiT6DkJCNkFg+QD5MPkKDloGDjpKHjYxLXIWDkmuDkZF/hYNGR0dZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5F9sz21fbFPvbN9s8+99z2z/bN9sX20PbSPvbG9sX20PjN9tL2yD72xfbQPvbN9s/4zfbF96VFWSg+Pj4+Pj4+PpsoPj4+PpsoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Fg5JzkYOQcpB/jH+BkoeNjEZCk5GDkGdiRyg+Pj4+mSg+Pj4+Pj4+PkKCf5J/Pls+cpB/jJF/gZKHjYxYWJWGg5CDRkV/gYGNk4ySfYeCRUo+QpORg5BnYkdLXIWDkkZHWSg+Pj4+Pj4+PoeEPkZCgn+Sfz4/Wz6Mk4qKRz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5Cgn+Sf1koPj4+Pj4+Pj6bPoOKkYM+mSg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+jJOKilkoPj4+Pj4+Pj6bKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+f4KCc5GDkHKQf4x/gZKHjYxGQpORg5BnYko+Qn+LjZOMkko+QpCDgYeOg2xzi4CDkEo+Qo5/l4uDjJJyl46DZ4JHKD4+Pj6ZKD4+Pj4+Pj4+kpCXPpkoPj4+Pj4+Pj4+Pj4+h4Q+RkKOf5eLg4yScpeOg2eCPltbPk4+mpo+Qo5/l4uDjJJyl46DZ4I+W1s+jJOKikc+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+Qo5/lz5bPm5/l4uDjJJyl46DWFiVhoOQg0ZFh5F9f4GSh5SDRUo+kpCTg0dLXJWGg5CDRkWSl46DRUo+RY2EhIqHjINFR0tchIeQkZJGR1koPj4+Pj4+Pj4+Pj4+Pj4+PoeEPkZCjn+XPltbPoyTiopHPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5Cjn+XPls+bn+Xi4OMknKXjoNYWJWGg5CDRkWSl46DRUo+RY2EhIqHjINFR0tchIeQkZJGR1koPj4+Pj4+Pj4+Pj4+Pj4+PpsoPj4+Pj4+Pj4+Pj4+Pj4+PoeEPkZCjn+XPltbPoyTiopHPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj56ao2FWFiDkJCNkEZFf4KCc5GDkHKQf4x/gZKHjYw+hH+HioOCWD6MjT6NhISKh4yDPo5/l4uDjJI+kpeOgz6EjZOMgkVHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD6Mk4qKWSg+Pj4+Pj4+Pj4+Pj4+Pj4+myg+Pj4+Pj4+Pj4+Pj4+Pj4+Qo5/l4uDjJJyl46DZ4I+Wz5Cjn+XS1yHglkoPj4+Pj4+Pj4+Pj4+myg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYw+Wz6Mg5U+cpB/jJF/gZKHjYxGR1koPj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1x/gYGNk4ySfYeCPls+QpORg5BnYlkoPj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1yTkYOQjH+Lgz5bPkVFWSg+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYxLXH+LjZOMkj5bPkJ/i42TjJJZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtckIOBh46DfYyTi4CDkD5bPkKQg4GHjoNsc4uAg5BZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtcjn+Xi4OMkn2Sl46DfYeCPls+Qo5/l4uDjJJyl46DZ4JZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtckX+Ug0ZHWSgoPj4+Pj4+Pj4+Pj4+kIOSk5CMPkKSkH+MkX+BkoeNjEtch4JZKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAcoaQjZV/gIqDPj5CkoZAR1koPj4+Pj4+Pj4+Pj4+kIOSk5CMPoyTiopZKD4+Pj4+Pj4+myg+Pj4+myg+Pj4+jpOAioeBPoSTjIGSh42MPpCDi42Ug3OMgY2MhIeQi4OCcpB/jJF/gZKHjYxGQoeCRyg+Pj4+mSg+Pj4+Pj4+PpKQlz6ZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjD5bPnKQf4yRf4GSh42MWFiEh4yCRkKHgkdZKD4+Pj4+Pj4+Pj4+PoeEPkZCkpB/jJF/gZKHjYxLXIGNjISHkIuDgj5bWz6Ef4qRgz6amj5CkpB/jJF/gZKHjYxLXIGNjISHkIuDgj5bWz5ORz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj5NTT6Qg4uNlIM+kpB/jJF/gZKHjYw+h4t/hYM+jYw+goeRiSg+Pj4+Pj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MZ4t/hYM+Wz5ykH+MkX+BkoeNjGeLf4WDWFiVhoOQg0ZFkpB/jJF/gZKHjYx9h4JFSj5Ch4JHS1yEh5CRkkZHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+h4Q+RkKSkH+MkX+BkoeNjGeLf4WDPj9bPoyTiopHPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5Cjn+Shj5bPo6TgIqHgX2Of5KGRkc+TD5FRT5MPkKSkH+MkX+BkoeNjGeLf4WDS1yHi4V9kZCBWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PoeEPkaEh4qDfYOWh5GSkUZCjn+ShkdHPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+k4yKh4yJRkKOf5KGR1koPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj6bKD4+Pj4+Pj4+Pj4+Pj4+Pj6bKCg+Pj4+Pj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1yCg4qDkoNGR1koPj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRpKQk4NKPlBOTkdZKD4+Pj4+Pj4+Pj4+Pps+g4qRgz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+kIORjo2MkYNGR0tciJGNjEaEf4qRg0o+Uk5PR1koPj4+Pj4+Pj4+Pj4+myg+Pj4+Pj4+Pps+gX+SgYY+RnpyhpCNlX+AioM+QpKGRz6ZKD4+Pj4+Pj4+Pj4+PnpqjYVYWIeMhI1GQEKShkBHWSgoPj4+Pj4+Pj4+Pj4+kIOSk5CMPpCDkY6NjJGDRkdLXIiRjYxGRWxtPmJ/kn8+ZI2TjIKDgkVKPlJOUkdZKD4+Pj4+Pj4+myg+Pj4+myg+Pj4+jpOAioeBPoSTjIGSh42MPoOCh5JzkYOQcpB/jH+BkoeNjEZwg4+Tg5GSPkKQg4+Tg5GSRyg+Pj4+mSg+Pj4+Pj4+PpKQlz6ZKD4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjD5bPnKQf4yRf4GSh42MWFiEh4yCRkKQg4+Tg5GSS1yHgkdZKD4+Pj4+Pj4+Pj4+PoeEPkZCkpB/jJF/gZKHjYw+P1s+jJOKikc+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+QoeRYY2MhIeQi4OCPls+QpCDj5ODkZJLXIGNjISHkIuDgj5bWz5PPpqaPkKQg4+Tg5GSS1yBjYyEh5CLg4I+W1s+kpCTgz5dPpKQk4M+WD6Ef4qRg1koKD4+Pj4+Pj4+Pj4+Pj4+Pj5NTT6HhD5GQpKQf4yRf4GSh42MS1x/i42TjJI+P1s+QpCDj5ODkZJLXH+LjZOMkj5ERD5Ch5FhjYyEh5CLg4I+W1s+kpCTg0c+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+h4Q+RkKHkWGNjISHkIuDgj5bWz6SkJODRz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Qn+BgWCKYZKQij5bPoyDlT5fgYGNk4ySYH+Kin+MgYNhjYySkI2KioOQRkdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+h4Q+RkKSkH+MkX+BkoeNjEtcf4uNk4ySPlw+QpCDj5ODkZJLXH+LjZOMkkc+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5Cf4GBYIphkpCKS1yCg4FzkYOQX4GBk4ySYH+Kf4yBg0ZCkpB/jJF/gZKHjYxLXH+BgY2TjJJ9h4JKPkKSkH+MkX+BkoeNjEtcf4uNk4ySPks+QpCDj5ODkZJLXH+LjZOMkkdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+mz6DipGDPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Qn+BgWCKYZKQiktch4yBc5GDkF+BgZOMkmB/in+MgYNGQpKQf4yRf4GSh42MS1x/gYGNk4ySfYeCSj5CkIOPk4ORkktcf4uNk4ySR1koPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj6bKCg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtcf4uNk4ySPls+QpCDj5ODkZJLXH+LjZOMklkoPj4+Pj4+Pj4+Pj4+Pj4+PpsoPj4+Pj4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtckIOBh46DfYyTi4CDkD5bPkKQg4+Tg5GSS1yQg4GHjoNsc4uAg5BZKD4+Pj4+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYxLXI5/l4uDjJJ9kpeOg32Hgj5bPkKQg4+Tg5GSS1yOf5eLg4yScpeOg2eCWSg+Pj4+Pj4+Pj4+Pj4+Pj4+QpKQf4yRf4GSh42MS1yBjYyEh5CLg4I+Wz5Ch5FhjYyEh5CLg4JZKCg+Pj4+Pj4+Pj4+Pj4+Pj4+h4Q+RkKSkH+MkX+BkoeNjEtck46Cf5KDRkdHPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4pqjYWRYYySkIo+Wz6Mg5U+cIOEg5CQf4pqjYWRYY2MkpCNioqDkEZHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg4SDkJB/inGDkpKHjIVhjJKQij5bPoyDlT5wg4SDkJB/inGDkpKHjIVhjYySkI2KioOQRkdZKCg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg4SDkJB/in2Og5CBg4ySPls+QpCDhIOQkH+KcYOSkoeMhWGMkpCKS1yFg5J9kIOEg5CQf4p9kYOSkoeMhX2Qg4SDkJB/in2Og5CBg4ySRkdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Qn+LjZOMkj5bPnpfjo56a42Cg4qRenCDhIOQkH+KcYOSkoeMhVhYgY2Li4eRkYeNjGSQjYtfi42TjJJGKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkaEio1/kkc+QpKQf4yRf4GSh42MS1x/i42TjJJKKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg4SDkJB/in2Og5CBg4ySKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+R1koPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj6HhD5GQoeRYY2MhIeQi4OCRz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg5GTipI+Wz5/jo5GRZKDioOFkH+LfYCNkkVHS1yRg4yCa4ORkX+Fg0ZA9sj2z/bF+Mf3pPbSPvbS96P2xT72xvbFPvej96b3n/eg+ar2yD72yfbG9sg+9tL2zT73pj73o/bG96L22D6ZQpKQf4yRf4GSh42MS1x/i42TjJKbPvbG96U+9sv20fbF9sY+9tL3o/bFPvbF95/20Pem9s33pT720vbNTEBKPkKSkH+MkX+BkoeNjEtcf4GBjZOMkn2Hgko+jJOKiko+RWt/kIlijZWMRUdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkaMg5U+ao2Xf4qSl26Nh4ySkXGDkJSHgYNGR0dLXH+Vf5CCYoOOjZGHkm6Nh4ySkUYoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKSkH+MkX+BkoeNjEtcf4GBjZOMkn2HgkooPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkaEio1/kkc+QpKQf4yRf4GSh42MS1x/i42TjJJKKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5CkpB/jJF/gZKHjYxLXIeCKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pk1NPpGDkj6Qg4SDkJB/ij6Vf4qKg5IoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+h4Q+RkKQg4+Tg5GSS1yHkW5/l4uMkmB/gYk+W1s+kpCTg0c+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+QpCDhIOQkH+Kao2FkWGMkpCKS1x/goJ9f4uNk4ySfZKNfZCDhJCDkJB/in2TkYOQfWqNhX1/jIJ9kIOEg5CQf4p9lX+KioOSRkKSkH+MkX+BkoeNjEtch4JKPkJ/i42TjJJKPpKQk4NHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj6bPoOKkYM+mSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+QpCDhIOQkH+Kao2FkWGMkpCKS1x/goJ9f4uNk4ySfZKNfZCDhJCDkJB/in2TkYOQfWqNhX1/jIJ9kIOEg5CQf4p9lX+KioOSRkKSkH+MkX+BkoeNjEtch4JKPkJ/i42TjJJKPoR/ipGDR1koPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+myg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pps+g4qRgz6ZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg5GTipI+Wz5/jo5GRZKDioOFkH+LfYCNkkVHS1yRg4yCa4ORkX+Fg0ZF9sj2z/bF+Mf3pPbSPvbS96P2xT73o/em9s/2zT72yPbF+ar5qvbNPvek96P5qj72xvbF9tL2zUxFSj5CkpB/jJF/gZKHjYxLXH+BgY2TjJJ9h4JKPoyTiopKPkVrf5CJYo2VjEVHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj5NTT6Rg5I+kIOEg5CQf4o+lX+KioOSKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg4SDkJB/imqNhZFhjJKQij5bPoyDlT5wg4SDkJB/imqNhZFhjYySkI2KioOQRkdZKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PkKQg4SDkJB/imqNhZFhjJKQiktcgoOBkIN/kYN9f4uNk4ySfZKNfZCDhJCDkJB/in2TkYOQfWqNhX1/jIJ9kIOEg5CQf4p9lX+KioOSRkKSkH+MkX+BkoeNjEtch4JKPkJ/i42TjJJHWSg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PpsoKD4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+kIOSk5CMPpCDkY6NjJGDRkdLXIiRjYxGQpKQf4yRf4GSh42MSj5QTk5HWSg+Pj4+Pj4+Pj4+Pj4+Pj4+mz6DipGDPpkoPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj56ao2FWFiHjISNRkVkf4eKg4I+ko0+k46Cf5KDPpKQf4yRf4GSh42MRUdZKCg+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRkKSkH+MkX+BkoeNjEo+Uk5SR1koPj4+Pj4+Pj4+Pj4+Pj4+PpsoPj4+Pj4+Pj4+Pj4+mz6DipGDPpkoPj4+Pj4+Pj4+Pj4+Pj4+PnpqjYVYWIeMhI1GRWxtPmJ/kn8+ZI2TjIKDgkVHWSgoPj4+Pj4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRkVsbT5if5J/PmSNk4yCg4JFSj5STlJHWSg+Pj4+Pj4+Pj4+Pj6bKD4+Pj4+Pj4+mz6Bf5KBhj5GenKGkI2Vf4CKgz5CkoZHPpkoPj4+Pj4+Pj4+Pj4+emqNhVhYh4yEjUZAcoaQjZV/gIqDPj5CkoZAR1koPj4+Pj4+Pj6bKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+hYOSX4uNk4ySYJdwg4GHjoNsc4uAg5BGQpCDgYeOg2xzi4CDkEcoPj4+PpkoPj4+Pj4+Pj5Cgn+Sfz5bPnKQf4yRf4GSh42MWFiVhoOQg0ZFkIOBh46DfYyTi4CDkEVKPkKQg4GHjoNsc4uAg5BHS1yEh5CRkkZHWSg+Pj4+Pj4+PoeEPkZCgn+Sfz4/Wz6Mk4qKRz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5Cgn+Sf0tcf4uNk4ySWSg+Pj4+Pj4+Pps+g4qRgz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5OWSg+Pj4+Pj4+PpsoPj4+PpsoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Rg5JhjYyEh5CLg4JykH+MkX+BkoeNjEZCkIOBh46DbHOLgIOQRyg+Pj4+mSg+Pj4+Pj4+PkKCf5J/Pls+cpB/jJF/gZKHjYxYWJWGg5CDRkWQg4GHjoN9jJOLgIOQRUo+QpCDgYeOg2xzi4CDkEdLXISHkJGSRkdZKD4+Pj4+Pj4+h4Q+RkKCf5J/Pj9bPoyTiopHPpkoPj4+Pj4+Pj4+Pj4+QoJ/kn9LXIGNjISHkIuDgj5bPpKQk4NZKD4+Pj4+Pj4+Pj4+PkKCf5J/S1yTjoJ/koNGR1koKD4+Pj4+Pj4+Pj4+PkKQg5GTipI+Wz5/jo5GRZKDioOFkH+LfYCNkkVHS1yRg4yCa4ORkX+Fg0ZA9sj2z/bF+Mf3pPbSPvbS96P2xT72xvbFPvej96b3n/eg+ar2yD72yfbG9sg+9tL2zT73pj73o/bG96L22D6ZQoJ/kn9LXH+LjZOMkps+9sb3pT72y/bR9sX2xj720vej9sU+9sX3n/bQ96b2zfelPvbS9s1MQEo+QoJ/kn9LXH+BgY2TjJJ9h4JKPoyTiopKPkVrf5CJYo2VjEVHWSg+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4pqjYWRYYySkIo+Wz6Mg5U+cIOEg5CQf4pqjYWRYY2MkpCNioqDkEZHWSg+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4pxg5KSh4yFYYySkIo+Wz6Mg5U+cIOEg5CQf4pxg5KSh4yFYY2MkpCNioqDkEZHWSg+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4p9joOQgYOMkj5bPkKQg4SDkJB/inGDkpKHjIVhjJKQiktchYOSfZCDhIOQkH+KfZGDkpKHjIV9kIOEg5CQf4p9joOQgYOMkkZHWSg+Pj4+Pj4+Pj4+Pj5CgY2Li4eRkYeNjF+LjZOMkj5bPnpfjo56a42Cg4qRenCDhIOQkH+KcYOSkoeMhVhYgY2Li4eRkYeNjGSQjYtfi42TjJJGKD4+Pj4+Pj4+Pj4+Pj4+Pj5GhIqNf5JHPkKCf5J/S1x/i42TjJJKKD4+Pj4+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4p9joOQgYOMkig+Pj4+Pj4+Pj4+Pj5HWSg+Pj4+Pj4+Pj4+Pj5CkIOEg5CQf4pqjYWRYYySkIpLXH+Cgn1/i42TjJJ9ko19kIOEkIOQkH+KfZORg5B9ao2FfX+Mgn2Qg4SDkJB/in2Vf4qKg5JGQoJ/kn9LXIeCSj5CgY2Li4eRkYeNjF+LjZOMkko+hH+KkYNHWSgoPj4+Pj4+Pj4+Pj4+kIOSk5CMPpKQk4NZKD4+Pj4+Pj4+mz6DipGDPpkoPj4+Pj4+Pj4+Pj4+kIOSk5CMPoR/ipGDWSg+Pj4+Pj4+PpsoPj4+PpsoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Fg5JzkYOQX4GBjZOMkmdiYJdykH+MkX+BkoeNjGeCRkKQg4GHjoNsc4uAg5BHKD4+Pj6ZKD4+Pj4+Pj4+QoJ/kn8+Wz5ykH+MkX+BkoeNjFhYlYaDkINGRZCDgYeOg32Mk4uAg5BFSj5CkIOBh46DbHOLgIOQR0tchIeQkZJGR1koPj4+Pj4+Pj6HhD5GQoJ/kn8+P1s+jJOKikc+mSg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+QoJ/kn9LXH+BgY2TjJJ9h4JZKD4+Pj4+Pj4+mz6DipGDPpkoPj4+Pj4+Pj4+Pj4+kIOSk5CMPoyTiopZKD4+Pj4+Pj4+myg+Pj4+mygoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Fg5JhjYyEh5CLg4JykH+MkX+BkoeNjJFGcIOPk4ORkj5CkIOPk4ORkko+QoGNk4ySPls+T05HKD4+Pj6ZKD4+Pj4+Pj4+kpCXPpkoPj4+Pj4+Pj4+Pj4+kIOSk5CMPnKQf4yRf4GSh42MWFiVhoOQg0ZFgY2MhIeQi4OCRUo+kpCTg0coPj4+Pj4+Pj4+Pj4+Pj4+PktclYeShkZ5RY5/l4uDjJJ9kpeOg5FFSj5FkpB/jJF/gZKHjYx9h4t/hYNFSj5Fk5GDkEV7Ryg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yNkIKDkGCXRkWHgkVKPkWCg5GBRUcoPj4+Pj4+Pj4+Pj4+Pj4+Pktcjn+Fh4x/koNGQoGNk4ySR1koPj4+Pj4+Pj6bPoF/koGGPkZ6coaQjZV/gIqDPkKShkc+mSg+Pj4+Pj4+Pj4+Pj6Qg5KTkIw+kIORjo2MkYNGR0tciJGNjEZ5RYOQkI2QRT5bXD5CkoZLXIWDkmuDkZF/hYNGR3tKPlNOTkdZKD4+Pj4+Pj4+myg+Pj4+myg+Pj4+jpOAioeBPoSTjIGSh42MPoWDknOMYY2MhIeQi4OCcpB/jJF/gZKHjYyRRnCDj5ODkZI+QpCDj5ODkZJKPkKBjZOMkj5bPk9ORyg+Pj4+mSg+Pj4+Pj4+PpKQlz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD5ykH+MkX+BkoeNjFhYlYaDkINGRYGNjISHkIuDgkVKPoR/ipGDRyg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yVh5KGRnlFjn+Xi4OMkn2Sl46DkUVKPkWSkH+MkX+BkoeNjH2Hi3+Fg0VKPkWTkYOQRXtHKD4+Pj4+Pj4+Pj4+Pj4+Pj5LXI2QgoOQYJdGRYeCRUo+RYKDkYFFRyg+Pj4+Pj4+Pj4+Pj4+Pj4+S1yOf4WHjH+Sg0ZCgY2TjJJHWSg+Pj4+Pj4+Pps+gX+SgYY+RnpyhpCNlX+AioM+QpKGRz6ZKD4+Pj4+Pj4+Pj4+PpCDkpOQjD6Qg5GOjYyRg0ZHS1yIkY2MRnlFg5CQjZBFPltcPkKShktchYOSa4ORkX+Fg0ZHe0o+U05OR1koPj4+Pj4+Pj6bKD4+Pj6bKJso
+
+namespace App\Http\Controllers;
+
+use App\Services\LoyaltyPointsService;
+use App\Services\ZarinpalService;
+use Illuminate\Support\Facades\Config;
+
+use App\Models\Transaction;
+use App\Models\PaymentType;
+use App\Models\CryptoPayment;
+use App\Models\TransactionImage;
+use App\Models\Bill;
+
+use Illuminate\Http\Request;
+class TransactionController extends Controller
+{
+    public $account_id;
+    public $amount;
+    public $amount_dollar;
+    public function add_order(Request $request)
+    {
+        $settingCntrl = new SettingController();
+        $mainUrl = $settingCntrl->getMainUrl();
+
+        // Get amount from bill
+        $bill = Bill::where('bill_id', $request->invoiceID)->first();
+
+        $this->amount = $bill->amount;
+        $this->account_id = $request->account_id;
+
+        if ($this->amount != null) {
+            $zarinpalPayment = PaymentType::where('name', 'زرین پال')->first();
+            $zarinpalMerchentID = $zarinpalPayment?->merchant_id;
+            if ($zarinpalMerchentID == null) {
+                return 'ZARINPAL_MERCHANT_ID is not set';
+            }
+
+            $callbackUrl = PaymentType::resolveZarinpalCallbackUrl(
+                $zarinpalPayment->callback_url ?? null,
+                $mainUrl
+            );
+            $isSandbox = (bool) ($zarinpalPayment->is_sandbox ?? false);
+
+            // Use custom ZarinpalService
+            $zarinpal = new ZarinpalService($zarinpalMerchentID, $isSandbox, $callbackUrl);
+            $response = $zarinpal->request($this->amount, 'خرید کالا');
+
+            \Log::info("Zarinpal payment link created: " . ($response['success'] ? $response['authority'] : $response['error']));
+
+            if (!$response['success']) {
+                return $response['error'];
+            }
+
+            $authority = $response['authority'];
+
+            // Save authority in db as new bill transaction_id
+            $transaction = new Transaction();
+            $transaction->account_id = $this->account_id;
+            $transaction->username = '';
+            $transaction->amount = $this->amount;
+            $transaction->confirmed = 0;
+            $transaction->recipe_number = $authority;
+            $transaction->payment_type_id = $zarinpalPayment->id;
+
+            $transaction->save();
+
+            return $response['url'];
+        } else {
+            return 'این صورتحساب موجود نمی باشد.';
+        }
+    }
+    public function order(Request $request)
+    {
+        try {
+            $authority = $request->Authority; // Zarinpal returns Authority in camelCase or depends on driver, v4 uses Authority
+            $status = $request->Status;
+
+            if ($status !== 'OK') {
+                return 'پرداخت توسط کاربر لغو شد یا ناموفق بود.';
+            }
+
+            $amount = $this->getAmountByRecipeNUmber($authority);
+
+            // Get transaction with $authority
+            $transaction = Transaction::where('recipe_number', $authority)->first();
+
+            if (!$transaction) {
+                return 'تراکنش یافت نشد.';
+            }
+
+            // Check if transaction was confirmed before
+            if ($transaction->confirmed == true) {
+                return 'تراکنش قبلاً تایید شده است.';
+            }
+
+            $zarinpalPayment = PaymentType::where('name', 'زرین پال')->first();
+            $zarinpalMerchentID = $zarinpalPayment?->merchant_id;
+            $isSandbox = (bool) ($zarinpalPayment->is_sandbox ?? false);
+
+            // Use custom ZarinpalService for verification
+            $zarinpal = new ZarinpalService($zarinpalMerchentID, $isSandbox);
+            $response = $zarinpal->verify($authority, (int)$amount);
+
+            if (!$response['success']) {
+                return $response['error'];
+            }
+
+            $confirmReq = new Request();
+            $confirmReq->id = $transaction->id;
+            $confirmReq->confirmed = 1;
+            $confirmReq->amount = $transaction->amount;
+            $confirmReq->account_id = $transaction->account_id;
+            $confirmReq->recipeNUmber = $transaction->recipe_number;
+            $confirmReq->paymentTypeId = $transaction->payment_type_id;
+            $confirmReq->isPaymntBack = true;
+
+            $this->editUserTranaction($confirmReq);
+
+            return 'پرداخت با موفقیت انجام شد. می توانید این پنجره را ببندید.';
+        } catch (\Exception $exception) {
+            $authority = $request->Authority;
+
+            $transaction = Transaction::where('recipe_number', $authority)->first();
+
+            if ($transaction) {
+                $this->removeUnconfirmedTransaction($transaction->id);
+            }
+            \Log::error("Zarinpal callback error: " . $exception->getMessage());
+            return 'خطا در پردازش بازگشت از درگاه';
+        }
+    }
+    public function getUserTranaction($userID)
+    {
+        $data = Transaction::where('account_id', $userID)->get();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function addUserTranaction($userID, $amount, $recipeNUmber, $paymentTypeId)
+    {
+        try {
+            if ($paymentTypeId == 0 || $paymentTypeId == null) {
+                $pay = PaymentType::where('is_active', true)->where('type', 'offline')->first();
+                if ($pay == null) {
+                    $pay = PaymentType::where('type', 'offline')->first();
+                }
+                if ($pay == null) {
+                    \Log::error('addUserTranaction failed: no offline payment type found');
+                    return null;
+                }
+                $paymentTypeId = $pay->id;
+            }
+            $transaction = new Transaction();
+            $transaction->account_id = $userID;
+            $transaction->username = '';
+            $transaction->amount = $amount;
+            $transaction->recipe_number = $recipeNUmber;
+            $transaction->payment_type_id = $paymentTypeId;
+            $transaction->save();
+
+            return $transaction->id;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable  $th");
+            return null;
+        }
+    }
+    public function removeUnconfirmedTransaction($id)
+    {
+        try {
+            $transaction = Transaction::find($id);
+            if ($transaction->confirmed == false || $transaction->confirmed == 0) {
+                // remove transaction image on disk
+                $transactionImage = TransactionImage::where('transaction_id', $id)->first();
+                if ($transactionImage != null) {
+                    $path = public_path() . '' . $transactionImage->img_src;
+                    if (file_exists($path)) {
+                        unlink($path);
+                    }
+                }
+
+                $transaction->delete();
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("$th");
+
+            return response()->json('NO Data Founded', 404);
+        }
+    }
+    public function editUserTranaction(Request $request)
+    {
+        try {
+            $transaction = Transaction::find($request->id);
+            if ($transaction != null) {
+                $isConfirmed = $request->confirmed == 1 || $request->confirmed == true ? true : false;
+
+                // if ($transaction->amount != $request->amount && $isConfirmed == true) {
+                if ($isConfirmed == true) {
+                    $accBlCtrl = new AccountBallanceController();
+                    if ($transaction->amount > $request->amount) {
+                        $accBlCtrl->decUserAccuntBalance($transaction->account_id, $transaction->amount - $request->amount);
+                    } else {
+                        $accBlCtrl->incUserAccuntBalance($transaction->account_id, $request->amount);
+                    }
+
+                    $transaction->amount = $request->amount;
+                }
+                $transaction->recipe_number = $request->recipeNUmber;
+                $transaction->payment_type_id = $request->paymentTypeId;
+                $transaction->confirmed = $isConfirmed;
+
+                if ($transaction->update()) {
+                    $referralLogsCntrl = new ReferralLogsController();
+                    $referralSettingCntrl = new ReferralSettingController();
+
+                    $referral_percent = $referralSettingCntrl->get_referral_setting_referral_percent();
+                    $amount = \App\Models\ReferralSetting::commissionFromAmount(
+                        (float) $transaction->amount,
+                        $referral_percent
+                    );
+                    if ($isConfirmed) {
+                        $result = app('telegram_bot')->sendMessage("تراکنش شما با موفقیت ثبت شد و مبلغ {$transaction->amount} به حساب شما افزوده شد.", $transaction->account_id, null, 'MarkDown');
+                        (new LoyaltyPointsService())->awardDepositPoints(
+                            $transaction->account_id,
+                            (float) $transaction->amount,
+                            $transaction->id
+                        );
+                        // set referral wallet
+                        if ($request->isPaymntBack == true) {
+                            $referralLogsCntrl->add_amount_to_refrerral_user_Log_and_referral_wallet($transaction->id, $amount, true);
+                        } else {
+                            $referralLogsCntrl->add_amount_to_refrerral_user_Log_and_referral_wallet($transaction->id, $amount, false);
+                        }
+                    } else {
+                        $result = app('telegram_bot')->sendMessage('تراکنش شما مورد تایید نمی باشد.', $transaction->account_id, null, 'MarkDown');
+                        // set referral wallet
+                        $referralLogsCntrl = new ReferralLogsController();
+                        $referralLogsCntrl->decrease_amount_to_refrerral_user_Log_and_referral_wallet($transaction->id, $amount);
+                    }
+
+                    return response()->json($transaction, 200);
+                } else {
+                    \Log::info('Failed to update transaction');
+
+                    return response()->json($transaction, 404);
+                }
+            } else {
+                \Log::info('NO Data Founded');
+
+                return response()->json('NO Data Founded', 404);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable  $th");
+        }
+    }
+    public function getAmountByRecipeNUmber($recipeNUmber)
+    {
+        $data = Transaction::where('recipe_number', $recipeNUmber)->first();
+        if ($data != null) {
+            return $data->amount;
+        } else {
+            return 0;
+        }
+    }
+    public function setConfirmedTransaction($recipeNUmber)
+    {
+        $data = Transaction::where('recipe_number', $recipeNUmber)->first();
+        if ($data != null) {
+            $data->confirmed = true;
+            $data->update();
+
+            $result = app('telegram_bot')->sendMessage("تراکنش شما با موفقیت ثبت شد و مبلغ {$data->amount} به حساب شما افزوده شد.", $data->account_id, null, 'MarkDown');
+            $referralLogsCntrl = new ReferralLogsController();
+            $referralSettingCntrl = new ReferralSettingController();
+            $referral_percent = $referralSettingCntrl->get_referral_setting_referral_percent();
+            $commissionAmount = \App\Models\ReferralSetting::commissionFromAmount(
+                (float) $data->amount,
+                $referral_percent
+            );
+            $referralLogsCntrl->add_amount_to_refrerral_user_Log_and_referral_wallet($data->id, $commissionAmount, false);
+
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function getUserAccountIDByTransactionId($recipeNUmber)
+    {
+        $data = Transaction::where('recipe_number', $recipeNUmber)->first();
+        if ($data != null) {
+            return $data->account_id;
+        } else {
+            return null;
+        }
+    }
+
+    public function getConfirmedTransactions(Request $request, $count = 10)
+    {
+        try {
+            return Transaction::where('confirmed', true)
+                ->with(['payment_types', 'transaction_image', 'user'])
+                ->orderBy('id', 'desc')
+                ->paginate($count);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+    public function getUnConfirmedTransactions(Request $request, $count = 10)
+    {
+        try {
+            return Transaction::where('confirmed', false)
+                ->with(['payment_types', 'transaction_image', 'user'])
+                ->orderBy('id', 'desc')
+                ->paginate($count);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+}

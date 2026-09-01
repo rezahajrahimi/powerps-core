@@ -1,3 +1,116 @@
 <?php
-bolt_decrypt( __FILE__ , 'FHstRU'); return 0;
-##!!!##JiaKfYmBj4x9f4E8XYyMeG+BjpKFf4GPVyYmkY+BPGWIiJGJhYp9kIF4ZJCQjHhmj4uKboGPjIuKj4FXJiZ/iH2PjzxohX+Bio+BYoF9kJGOgW+BjpKFf4EmlyY8PDw8jJF+iIV/PH+Lio+QPG9laHJhbntsbmtpa3tpXXQ8WTxRVyYmPDw8PEtGRjxckn2OPIiFj5BYj5COhYqDWjxGSyY8PDw8jJF+iIV/PH+Lio+QPGNraGB7XWByXWpfYWB7b2FwcGVqY288WTx3Jjw8PDw8PDw8Q36LkHt9kZCLe4+BkHuMjoV/gXt+lXuAi4iIfY57jI6Ff4FDSCY8PDw8PDw8PEN+i5B7f32If5GIfZCBe4yOi4CRf5B7f32QgYOLjpV7jI6Ff4F7hYp7gIuIiH2Oe36Ve5CLiX2KQ0gmPDw8PHlXJiY8PDw8jJF+iIV/PIKRin+QhYuKPHt7f4uKj5COkX+QRCY8PDw8PDw8PIyOhZJ9kIE8joF9gIuKiJU8aIV/gYqPgV+EgX+Hb4GOkoV/gTxAiIV/gYqPgV+EgX+HPFk8ioGTPGiFf4GKj4FfhIF/h2+BjpKFf4FERUgmPDw8PEU8lyY8PDw8mSYmPDw8PIyRfoiFfzyCkYp/kIWLijx/kY6OgYqQREVWPI+QjoWKgyY8PDw8lyY8PDw8PDw8PI6BkJGOijyPkI6Qi4iLk4GORESPkI6FioNFPECQhIWPSVqIhX+Bio+BX4SBf4dJWoOBkGiFf4GKj4FwlYyBREVFVyY8PDw8mSYmPDw8PIyRfoiFfzyCkYp/kIWLijyFj2OLiIBERVY8fouLiCY8PDw8lyY8PDw8PDw8PI6BkJGOijxAkISFj0laf5GOjoGKkERFPFlZWTxDg4uIgENXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPIWPb4WIkoGOa45dfouSgURFVjx+i4uIJjw8PDyXJjw8PDw8PDw8joGQkY6KPIWKe32Ojn2VRECQhIWPSVp/kY6OgYqQREVIPHdDj4WIkoGOQ0g8Q4OLiIBDeUg8kI6RgUVXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPIWPXo6LipaBa45egYiLk0RFVjx+i4uIJjw8PDyXJjw8PDw8PDw8joGQkY6KPIWKe32Ojn2VRECQhIWPSVp/kY6OgYqQREVIPHdDgn2Ij4FDSDxDkI6FfYhDSDxDfouOi4qWgUNIPEN+jouKloFDSDxDgo6BgUN5SDyQjpGBRVcmPDw8PJkmJjw8PDyMkX6IhX88gpGKf5CFi4o8g4uIgG6BjZGFjoGAboGPjIuKj4FERVY8Zo+Lim6Bj4yLio+BJjw8PDyXJjw8PDw8PDw8joGQkY6KPI6Bj4yLio+BREVJWoaPi4pEdyY8PDw8PDw8PDw8PDxDiYGPj32DgUM8WVo8Q/TD96j1ojz1nvTD9MT1oPeo9MY89Z31nvTTPPTE9M30w/eoPPWg9MP3qPTP9aL0zzz00/Wg9MP3qPeoPPWd9NX0w/WgPPTD9M/0xkpDSCY8PDw8PDw8PHlIPFBMT0VXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPI+FiJKBjm6BjZGFjoGAboGPjIuKj4FERVY8Zo+Lim6Bj4yLio+BJjw8PDyXJjw8PDw8PDw8joGQkY6KPI6Bj4yLio+BREVJWoaPi4pEdyY8PDw8PDw8PDw8PDxDiYGPj32DgUM8WVo8Q/TD96j1ojz1nvTD9MT1oPeo9MY89MT0zfTD96g89aD0w/eo9M/1ovTPPPWi9Z70zfWj/pyo9MP3qDz1pDz00/Wg9MP3qPeoPPWd9NX0w/WgPPTD9M/0xkpDSCY8PDw8PDw8PHlIPFBMT0VXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPH99inGPgWiLlX2IkJVsi4WKkI9ERVY8fouLiCY8PDw8lyY8PDw8PDw8PI6BkJGOijxAkISFj0lahY9vhYiSgY5rjl1+i5KBREVXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPH99il+Rj5CLiYWWgV6LkF6RkJCLio9ERVY8fouLiCY8PDw8lyY8PDw8PDw8PI6BkJGOijxAkISFj0lahY9vhYiSgY5rjl1+i5KBREVXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPH99inGPgV2Akn2Kf4GAb4GQkIWKg49ERVY8fouLiCY8PDw8lyY8PDw8PDw8PI6BkJGOijxAkISFj0lahY9vhYiSgY5rjl1+i5KBREVXJjw8PDyZJiY8PDw8jJF+iIV/PIKRin+QhYuKPH99inGPgV2Akn2Kf4GAb4GQkIWKg0SPkI6FioM8QIp9iYFFVjx+i4uIJjw8PDyXJjw8PDw8PDw8hYI8RIWKe32Ojn2VRECKfYmBSDyPgYiCVlZja2hge11gcl1qX2Fge29hcHBlamNvSDyQjpGBRUU8lyY8PDw8PDw8PDw8PDyOgZCRjoo8QJCEhY9JWoWPY4uIgERFVyY8PDw8PDw8PJkmJjw8PDw8PDw8joGQkY6KPECQhIWPSVqFj2+FiJKBjmuOXX6LkoFERVcmPDw8PJkmJjw8PDyMkX6IhX88gpGKf5CFi4o8fYCSfYp/gYBvgZCQhYqDboGNkYWOgYBugY+Mi4qPgUSPkI6FioM8QIp9iYFFVjxmj4uKboGPjIuKj4EmPDw8PJcmPDw8PDw8PDyFgjxEhYp7fY6OfZVEQIp9iYFIPI+BiIJWVmNraGB7XWByXWpfYWB7b2FwcGVqY29IPJCOkYFFRTyXJjw8PDw8PDw8PDw8PI6BkJGOijxAkISFj0lag4uIgG6BjZGFjoGAboGPjIuKj4FERVcmPDw8PDw8PDyZJiY8PDw8PDw8PI6BkJGOijxAkISFj0laj4WIkoGOboGNkYWOgYBugY+Mi4qPgURFVyY8PDw8mSYmPDw8PIyRfoiFfzyCkYp/kIWLijyJfZRsfYqBiI9ERVY8W4WKkCY8PDw8lyY8PDw8PDw8PIWCPERAkISFj0lahY9ejouKloFrjl6BiIuTREVFPJcmPDw8PDw8PDw8PDw8joGQkY6KPE1XJjw8PDw8PDw8mSYmPDw8PDw8PDyFgjxEQJCEhY9JWn+Rjo6BipBERTxZWVk8Q4+FiJKBjkNFPJcmPDw8PDw8PDw8PDw8joGQkY6KPE5XJjw8PDw8PDw8mSYmPDw8PDw8PDyOgZCRjoo8ipGIiFcmPDw8PJkmJjw8PDyMkX6IhX88gpGKf5CFi4o8f32KXYCAbH2KgYhEhYqQPEB/kY6OgYqQbH2KgYhfi5GKkEVWPH6Li4gmPDw8PJcmPDw8PDw8PDxAiX2UPFk8QJCEhY9JWol9lGx9ioGIj0RFVyYmPDw8PDw8PDyOgZCRjoo8QIl9lDxZWVk8ipGIiDyYmDxAf5GOjoGKkGx9ioGIX4uRipA8WDxAiX2UVyY8PDw8mSYmPDw8PIyRfoiFfzyCkYp/kIWLijyMfYqBiGiFiYWQboF9f4SBgG6Bj4yLio+BREVWPGaPi4pugY+Mi4qPgSY8PDw8lyY8PDw8PDw8PI6BkJGOijyOgY+Mi4qPgURFSVqGj4uKRHcmPDw8PDw8PDw8PDw8Q4+Rf3+Bj49DPFlaPIJ9iI+BSCY8PDw8PDw8PDw8PDxDiYGPj32DgUM8WVo8Q/TE9aM89aH0yfTL9aT0y/eo9MY89MP1nfTO9aT0y/WiPPXa9aL1oDz0zfTP96j0y/WjPPTD96j0y/SoPPTE9M30w/eoPPTD9Z30zvWk9Mv1ojz12vWi9aA89Mj0y/eo9Ms89MT0wzz12vTQ9Mb3qPTE9MP1oveoPPTG9aH0w/TPPPTE9sv3qPTN96j0yzz1pDz0w/bF9MP1ovTGPPTK9aT0yzz0zfTDPPTD9M30xvWe9MM89MT0y/Wj96j0y0pDSCY8PDw8PDw8PHlIPFBMT0VXJjw8PDyZJpkm
+
+namespace App\Services;
+
+use Illuminate\Http\JsonResponse;
+
+class LicenseFeatureService
+{
+    public const SILVER_PROMO_MAX = 5;
+
+    /** @var list<string> */
+    public const GOLD_ADVANCED_SETTINGS = [
+        'bot_auto_set_price_by_dollar_price',
+        'bot_calculate_product_category_price_in_dollar_by_toman',
+    ];
+
+    public function __construct(
+        private readonly LicenseCheckService $licenseCheck = new LicenseCheckService(),
+    ) {
+    }
+
+    public function current(): string
+    {
+        return strtolower((string) $this->licenseCheck->getLicenseType());
+    }
+
+    public function isGold(): bool
+    {
+        return $this->current() === 'gold';
+    }
+
+    public function isSilverOrAbove(): bool
+    {
+        return in_array($this->current(), ['silver', 'gold'], true);
+    }
+
+    public function isBronzeOrBelow(): bool
+    {
+        return in_array($this->current(), ['false', 'trial', 'boronze', 'bronze', 'free'], true);
+    }
+
+    public function goldRequiredResponse(): JsonResponse
+    {
+        return response()->json([
+            'message' => 'این قابلیت فقط برای لایسنس طلایی فعال است.',
+        ], 403);
+    }
+
+    public function silverRequiredResponse(): JsonResponse
+    {
+        return response()->json([
+            'message' => 'این قابلیت برای لایسنس نقره‌ای و طلایی فعال است.',
+        ], 403);
+    }
+
+    public function canUseLoyaltyPoints(): bool
+    {
+        return $this->isSilverOrAbove();
+    }
+
+    public function canCustomizeBotButtons(): bool
+    {
+        return $this->isSilverOrAbove();
+    }
+
+    public function canUseAdvancedSettings(): bool
+    {
+        return $this->isSilverOrAbove();
+    }
+
+    public function canUseAdvancedSetting(string $name): bool
+    {
+        if (in_array($name, self::GOLD_ADVANCED_SETTINGS, true)) {
+            return $this->isGold();
+        }
+
+        return $this->isSilverOrAbove();
+    }
+
+    public function advancedSettingRequiredResponse(string $name): JsonResponse
+    {
+        if (in_array($name, self::GOLD_ADVANCED_SETTINGS, true)) {
+            return $this->goldRequiredResponse();
+        }
+
+        return $this->silverRequiredResponse();
+    }
+
+    public function maxPanels(): ?int
+    {
+        if ($this->isBronzeOrBelow()) {
+            return 1;
+        }
+
+        if ($this->current() === 'silver') {
+            return 2;
+        }
+
+        return null;
+    }
+
+    public function canAddPanel(int $currentPanelCount): bool
+    {
+        $max = $this->maxPanels();
+
+        return $max === null || $currentPanelCount < $max;
+    }
+
+    public function panelLimitReachedResponse(): JsonResponse
+    {
+        return response()->json([
+            'success' => false,
+            'message' => 'به محدودیت افزودن پنل رسیده اید، برای افزودن پنل جدید با پشتیبانی تماس بگیرید و اکانت خود را ارتقا بدهید.',
+        ], 403);
+    }
+}

@@ -1,3 +1,26 @@
 <?php
-bolt_decrypt( __FILE__ , '1UyhPR'); return 0;
-##!!!##ExN3anZufHlqbG4pSnl5ZVZ4bW51fEQTE358bilSdXV+dnJ3an1uZU1qfWpranxuZU51eHp+bnd9ZU9qbH14e3JufGVRanxPamx9eHuCRBN+fG4pUnV1fnZyd2p9bmVNan1qa2p8bmVOdXh6fm53fWVWeG1udUQTE2x1anx8KVxufX1yd3ApboF9bndtfClWeG1udROEEykpKSl+fG4pUWp8T2psfXh7gkQTKSkpKXl7eH1ubH1ubSktcH5qe21ubSlGKWQwcm0wZkQTKSkpKXl7eH1ubH1ubSktb3J1dWprdW4pRilkEykpKSkpKSkpMGt4fWh3anZuMDUTKSkpKSkpKSkwam12cndocm0wNRMpKSkpKSkpKTBreH1ofXh0bncwNRMpKSkpKSkpKTB5andudWhqbW17bnx8MDUTKSkpKSkpKSkwgG51bHh2bmh2bnx8anBuMDUTKSkpKSkpKSkwbHh3b3JwaHdqdm5oeXtub3KBMDUTKSkpKSkpKSkwbHh3b3JwaHdqdm5ob3h7dmp9MDUTKSkpKSkpKSkwfnxuaGptdnJ3aGp1cmp8aHJ3aGx4d29ycGh3anZuMDUTKSkpKWZEExMpKSkpeXt4fW5sfW5tKS1sanx9fClGKWQTKSkpKSkpKSkwfnxuaGptdnJ3aGp1cmp8aHJ3aGx4d29ycGh3anZuMClGRykwa3h4dW5qdzA1EykpKSlmRBOGEw==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Setting extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = [
+        'bot_name',
+        'admin_id',
+        'bot_token',
+        'panel_address',
+        'welcome_message',
+        'config_name_prefix',
+        'config_name_format',
+        'use_admin_alias_in_config_name',
+    ];
+
+    protected $casts = [
+        'use_admin_alias_in_config_name' => 'boolean',
+    ];
+}

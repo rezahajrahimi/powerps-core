@@ -1,3 +1,598 @@
 <?php
-bolt_decrypt( __FILE__ , 'dmyQyk'); return 0;
-##!!!##iYnt4Ozk8u/g4uSfwO/v28fz8+/bwu7t8/Hu6+vk8fK6ifTy5J/A7+/bzO7j5Ovy28/x7uP04vO6ifTy5J/A7+/bzO7j5Ovy28Hu89Ty5PG6ifTy5J/A7+/bzO7j5Ovy28/g7e3k67qJ9PLkn8Dv79vM7uPk6/Lb1PLk8bqJ9PLkn8jr6/Ts6O3g8+Tbx/Pz79vR5PD05PLzuon08uSfyOvr9Ozo7eDz5NvS9O/v7vHz28Xg4uDj5PLbw8G6ifTy5J/I6+v07Ojt4PPk29L07+/u8fPbxeDi4OPk8tvH8/PvuomJrq6f9PLkn+Lg8eHu7Yn08uSfwuDx4e7t28Lg8eHu7bqJieLr4PLyn8/x7uP04vPC7u3z8e7r6+Txn+T38+Tt4/Kfwu7t8/Hu6+vk8Yn6iZ+fn5/v9OHr6OKf5fTt4vPo7u2f5uTzz/Hu4/Ti88Lu7eXo5sDt48Ln4O3m5NLz4PP08qej8uTr5OLz5OPP8e7j9OLzwuDzyMOrn6P08uTxyMOoiZ+fn5/6iZ+fn5+fn5+f8eTz9PHtn8PBubnz8eDt8uDi8+ju7afl9O3i8+ju7Z+nqJ/08uSfp6Py5Ovk4vPk48/x7uP04vPC4PPIw6ufo/Ty5PHIw6if+omfn5+fn5+fn5+fn5+j4+Dz4J+8n8/x7uP04vO5ufD05PH4p6iJn5+fn5+fn5+fn5+fn5+fn6y99ufk8eSnpu/x7uP04vPe4uDz5Obu8ejk8t7o46arn6Py5Ovk4vPk48/x7uP04vPC4PPIw6iJn5+fn5+fn5+fn5+fn5+fn6y99ufk8eSnpujywOLz6PXkpquf8/H05KiJn5+fn5+fn5+fn5+fn5+fn6y97vHj5PHB+Kem6OOmqImfn5+fn5+fn5+fn5+fn5+frL3r7uLqxe7x1O/j4PPkp6iJn5+fn5+fn5+fn5+fn5+fn6y95ejx8vOnqLqJiZ+fn5+fn5+fn5+fn+jln6ej4+Dz4J+8vLyf7fTr66if+omfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn+306+u6iZ+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn6Pj4PPgrL3o8sDi8+j15J+8n+Xg6/Lkuomfn5+fn5+fn5+fn5+j4+Dz4Ky94OLi7vTt897o45+8n6P08uTxyMO6iZ+fn5+fn5+fn5+fn6Pj4PPgrL3y4PXkp6i6iYmfn5+fn5+fn5+fn5/x5PP08e2fo+Pg8+C6iZ+fn5+fn5+f/Ki6iZ+fn5/8iYmfn5+f7/Th6+jin+X07eLz6O7tn+Lu9O3zwOLz6PXkyO315O3z7vH4p+jt85+j4uDz5Obu8fjI46i5n+jt84mfn5+f+omfn5+fn5+fn/Hk8/Tx7Z/P8e7j9OLzubnw9OTx+KeoiZ+fn5+fn5+fn5+fn6y99ufk8eSnpu/x7uP04vPe4uDz5Obu8ejk8t7o46arn6Pi4PPk5u7x+MjjqImfn5+fn5+fn5+fn5+svfbn5PHkp6bo8sDi8+j15Karn/Px9OSoiZ+fn5+fn5+fn5+fn6y94u707fOnqLqJn5+fn/yJiZ+fn5/v9OHr6OKf5fTt4vPo7u2f8eTr5ODy5Mjt9eTt8+7x+M/x7uP04vOn6O3zn6Pv8e7j9OLzyOOouZ/h7u7riZ+fn5/6iZ+fn5+fn5+fo+/x7uP04vOfvJ/P8e7j9OLzubnl6O3jp6Pv8e7j9OLzyOOouomfn5+fn5+fn+jln6ej7/Hu4/Ti85+8vLyf7fTr66if+omfn5+fn5+fn5+fn5/x5PP08e2f5eDr8uS6iZ+fn5+fn5+f/ImJn5+fn5+fn5+j7/Hu4/Ti86y96PLA4vPo9eSfvJ/z8fTkuomfn5+fn5+fn6Pv8e7j9OLzrL3g4uLu9O3z3ujjn7yf7fTr67qJiZ+fn5+fn5+f8eTz9PHtn6Pv8e7j9OLzrL3y4PXkp6i6iZ+fn5/8iYmfn5+f7/Th6+jin+X07eLz6O7tn+bk88/x7uP04vPC7u3l6ObB+Mjjp6Po46ufo/Ty5PHIw6iJn5+fn/qJn5+fn5+fn5+j4+Dz4J+8n8/x7uP04vO5ufbn5PHkp6bo46arn6Po46isvfbn5PHkp6bg4uLu9O3z3ujjpqufo/Ty5PHIw6isvfbo8+enpu/x7uP04vPe4uDz5Obu8fimqKy95ejx8vOnqLqJn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5/x5PP08e2fo+Pg8+C6iZ+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+f8eTz9PHtn+306+u6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+bk89Ty5PHP8e7j9OLz8sfo8vPu8fjB+MDi4u707fPIw6ej9PLk8cjDqImfn5+f+omfn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpuDi4u707fPe6OOmq5+j9PLk8cjDqImfn5+fn5+fn5+fn5+svfbn5PHkp6bx5Ozg8eqmq5+moLymq5+m7+Tt4+jt5qaoiZ+fn5+fn5+fn5+fn6y99ujz56em7/Hu4/Ti897i4PPk5u7x+KaoiZ+fn5+fn5+fn5+fn6y97vHj5PHB+Kem6OOmq5+m4+Ty4qaoiZ+fn5+fn5+fn5+fn6y95uTzp6i6iYmfn5+fn5+fn/Hk8/Tx7Z+j4+Dz4Ky96PLE7O/z+Keon76f7fTr65+5n6Pj4PPguomfn5+f/Imfn5+frqmpiZ+fn5+fqZ/P8eT16OT2n+/x7uP04vPyn/Pn4POf7e6f6+7t5uTxn+T36PLzn+7tn/Pn5Ojxn+/g7eTrn6ft7p/j5Ovk8+ju7aitiZ+fn5+fqa6Jn5+fn+/04evo4p/l9O3i8+ju7Z/v8eT16OT2zOjy8ujt5tTy5PHP8e7j9OLz8s7tz+Dt5Ovyp6P08uTxyMOoiZ+fn5/6iZ+fn5+fn5+f8/H4n/qJn5+fn5+fn5+fn5+fo+zo8vLo7eafvJ+j8+fo8qy95ejt48zo8vLo7ebP8e7j9OLz8s7tz+Dt5Ovyp6fo7fOon6P08uTxyMOouomfn5+fn5+fn5+fn5/o5Z+no+zo8vLo7eafvLy8n+306+uon/qJn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+zr7Oouomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afapuzo8vLo7eamn7y9n6Ps6PLy6O3m3Kufsa+vqLqJn5+fn5+fn5/8n+Lg8+Lnn6fb0+fx7vbg4evkn6Pz56if+omfn5+fn5+fn5+fn5/by+7mubno7eXup6Hv8eT16OT2zOjy8ujt5tTy5PHP8e7j9OLz8s7tz+Dt5OvyuZ+j8+ehqLqJiZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp6bS5PH15PGfxPHx7vGmq5+0r6+ouomfn5+fn5+fn/yJn5+fn/yJiZ+fn5+uqamJn5+fn5+pn8Pk6+Tz5J/y5Ovk4vPk45/v8e7j9OLz8p/z5+Dzn+Dx5J/s6PLy6O3mn+7tn/Pn5Ojxn+/g7eTr8q2Jn5+fn5+promfn5+f7/Th6+jin+X07eLz6O7tn+Pk6+Tz5NLk6+Ti8+TjzOjy8ujt5tTy5PHP8e7j9OLz8qfR5PD05PLzn6Px5PD05PLzqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6P14Ovo4+Dz5OOfvJ+j8eTw9OTy86y99eDr6OPg8+Sn2omfn5+fn5+fn5+fn5+fn5+fpuHu89708uTx3ujjpp+8vZ+m8eTw9Ojx5OP76O3z5Obk8fvk9+jy8/K54e7z3vTy5PHyq+jjpquJn5+fn5+fn5+fn5+fn5+fn6bv8e7j9OLz3ujj8qafvL2fpvHk8PTo8eTj++Dx8eD4++zo7bmwpquJn5+fn5+fn5+fn5+fn5+fn6bv8e7j9OLz3ujj8q2ppp+8vZ+m6O3z5Obk8aariZ+fn5+fn5+fn5+fn9youomJn5+fn5+fn5+fn5+fo+Hu89Ty5PGfvJ/B7vPU8uTxubnl6O3jp6P14Ovo4+Dz5OPapuHu89708uTx3ujjptyouomfn5+fn5+fn5+fn5/o5Z+noJ+j4e7z1PLk8aif+omfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n5eDr8uSrn7Ovs6i6iZ+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn6Px5PD05PLz5OPI4/KfvJ/g8fHg+N714Ov05PKn4PHx4Pje9O3o8PTkp+Dx8eD43uzg76em6O3z9eDrpqufo/Xg6+jj4PPk49qm7/Hu4/Ti897o4/Km3KioqLqJn5+fn5+fn5+fn5+fo+/x7uP04vPyn7yfz/Hu4/Ti87m59ufk8eSnpuDi4u707fPe6OOmq5+j4e7z1PLk8ay94OLi7vTt897o46iJn5+fn5+fn5+fn5+fn5+fn6y99ufk8eTI7aem6OOmq5+j8eTw9OTy8+TjyOPyqImfn5+fn5+fn5+fn5+fn5+frL326PPnp6bv8e7j9OLz3uLg8+Tm7vH43uDt497v4O3k66aoiZ+fn5+fn5+fn5+fn5+fn5+svebk86eouomJn5+fn5+fn5+fn5+fo/Tt8eTg4ufg4evkz+Dt5Ovyn7yf2ty6iZ+fn5+fn5+fn5+fn6Pz7sPk6+Tz5J+8n9rcuomfn5+fn5+fn5+fn5/l7vHk4OLnn6ej7/Hu4/Ti8/Kf4PKfo+/x7uP04vOon/qJn5+fn5+fn5+fn5+fn5+fn6Pi4PPk5u7x+J+8n6Pv8e7j9OLzrL3v8e7j9OLz3uLg8+Tm7vH43uDt497v4O3k67qJn5+fn5+fn5+fn5+fn5+fn+jln6egn6Pi4PPk5u7x+J/7+5+gn6Pi4PPk5u7x+Ky97+Dt7eTr3ujjqJ/6iZ+fn5+fn5+fn5+fn5+fn5+fn5+f4u7t8+jt9OS6iZ+fn5+fn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5+fn5+fo+/g7e3k65+8n8/g7e3k67m55ejt46ej4uDz5Obu8fisve/g7e3k697o46i6iZ+fn5+fn5+fn5+fn5+fn5/o5Z+noJ+j7+Dt7eTrqJ/6iZ+fn5+fn5+fn5+fn5+fn5+fn5+f4u7t8+jt9OS6iZ+fn5+fn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5+fn5+fo+Ln5OLqn7yfo/Pn6PKsveLn5OLqz/Hu4/Ti88zo8vLo7ebO7c/g7eTrp6Pv8e7j9OLzq5+j7+Dt7eTrq5+j9O3x5ODi5+Dh6+TP4O3k6/Kouomfn5+fn5+fn5+fn5+fn5+f6OWfp+jy3uDx8eD4p6Pi5+Ti6qion/qJn5+fn5+fn5+fn5+fn5+fn5+fn5+j8+7D5Ovk8+Ta3J+8n6Pv8e7j9OLzrL3o47qJn5+fn5+fn5+fn5+fn5+fn/yJn5+fn5+fn5+fn5+f/ImJn5+fn5+fn5+fn5+f6OWfp6Pz7sPk6+Tz5J+gvLyf2tyon/qJn5+fn5+fn5+fn5+fn5+fn8/x7uP04vO5ufbn5PHkp6bg4uLu9O3z3ujjpqufo+Hu89Ty5PGsveDi4u707fPe6OOoiZ+fn5+fn5+fn5+fn5+fn5+fn5+frL325+Tx5Mjtp6bo46arn6Pz7sPk6+Tz5KiJn5+fn5+fn5+fn5+fn5+fn5+fn5+svePk6+Tz5Keouomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afaiZ+fn5+fn5+fn5+fn5+fn5+m4+Tr5PPk46afvL2f4u707fOno/Puw+Tr5PPkqKuJn5+fn5+fn5+fn5+fn5+fn6bj5Ovk8+Tj3ujj8qafvL2fo/Puw+Tr5PPkq4mfn5+fn5+fn5+fn5/cq5+xr6+ouomfn5+fn5+fn/yf4uDz4uefp9vT5/Hu9uDh6+Sfo/PnqJ/6iZ+fn5+fn5+fn5+fn9vL7ua5uejt5e6noePk6+Tz5NLk6+Ti8+TjzOjy8ujt5tTy5PHP8e7j9OLz8rmfo/Pnoai6iYmfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7aem0uTx9eTxn8Tx8e7xpquftK+vqLqJn5+fn5+fn5/8iZ+fn5/8iYmfn5+frqmpiZ+fn5+fqZ/L5Obg4vif8vjt4rmf4+Tr5PPkn+Dr65/v8e7j9OLz8p/s6PLy6O3mn+7tn+/g7eTr8p+n4Ovrn/L07+/u8fPk45/v4O3k65/z+O/k8qitiZ+fn5+fqa6Jn5+fn+/04evo4p/l9O3i8+ju7Z/y+O3i1PLk8c/x7uP04vPyx+jy8+7x+MH4wOLi7vTt88jD9ujz58/g7eTr8qej9PLk8cjDqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6Ps6PLy6O3mn7yfo/Pn6PKsveXo7ePM6PLy6O3mz/Hu4/Ti8/LO7c/g7eTr8qen6O3zqJ+j9PLk8cjDqLqJn5+fn5+fn5+fn5+f6OWfp6Ps6PLy6O3mn7y8vJ/t9OvrqJ/6iZ+fn5+fn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afl4Ovy5Kufs6+zqLqJn5+fn5+fn5+fn5+f/ImJn5+fn5+fn5+fn5+fo+jj8p+8n+Dx8eD43uLu6/Ts7aej7Ojy8ujt5qufpujjpqi6iZ+fn5+fn5+fn5+fn+jln6ej6OPyn6C8vJ/a3Kif+omfn5+fn5+fn5+fn5+fn5+fo+Hu89Ty5PGfvJ/B7vPU8uTxubnl6O3jp6P08uTxyMOouomfn5+fn5+fn5+fn5+fn5+fz/Hu4/Ti87m59ufk8eSnpuDi4u707fPe6OOmq5+j4e7z1PLk8ay94OLi7vTt897o46iJn5+fn5+fn5+fn5+fn5+fn5+fn5+svfbn5PHkyO2npujjpqufo+jj8qiJn5+fn5+fn5+fn5+fn5+fn5+fn5+svePk6+Tz5Keouomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afz8fTkq5+xr6+ouomfn5+fn5+fn/yf4uDz4uefp9vT5/Hu9uDh6+Sfo/PnqJ/6iZ+fn5+fn5+fn5+fn9vL7ua5uejt5e6nodPn8e724OHr5Lmfn6Pz56GouomJn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2nptLk8fXk8Z/E8fHu8aarn7Svr6i6iZ+fn5+fn5+f/Imfn5+f/ImJn5+fn66pqYmfn5+fn6mfv/Hk8/Tx7Z/g8fHg+Lvo7fOrn+Dx8eD4u/Lz8ejt5quf7Oj35OO9vfvt9OvriZ+fn5+fqa6Jn5+fn+/x6PXg8+Sf5fTt4vPo7u2f5ejt48zo8vLo7ebP8e7j9OLz8s7tz+Dt5Ovyp+jt85+j9PLk8cjDqLmfvuDx8eD4iZ+fn5/6iZ+fn5+fn5+fo+Hu89Ty5PGfvJ/B7vPU8uTxubnl6O3jp6P08uTxyMOouomfn5+fn5+fn+jln6egn6Ph7vPU8uTxqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/t9Ovruomfn5+fn5+fn/yJiZ+fn5+fn5+fo+/x7uP04vPyn7yfz/Hu4/Ti87m59ufk8eSnpuDi4u707fPe6OOmq5+j4e7z1PLk8ay94OLi7vTt897o46iJn5+fn5+fn5+fn5+frL326PPnp6bv8e7j9OLz3uLg8+Tm7vH43uDt497v4O3k66aoiZ+fn5+fn5+fn5+fn6y95uTzp6i6iYmfn5+fn5+fn6P07fHk4OLn4OHr5M/g7eTr8p+8n9rcuomfn5+fn5+fn6Ps6PLy6O3mn7yf2ty6iZ+fn5+fn5+f5e7x5ODi55+no+/x7uP04vPyn+Dyn6Pv8e7j9OLzqJ/6iZ+fn5+fn5+fn5+fn6Pi4PPk5u7x+J+8n6Pv8e7j9OLzrL3v8e7j9OLz3uLg8+Tm7vH43uDt497v4O3k67qJn5+fn5+fn5+fn5+f6OWfp6Cfo+Lg8+Tm7vH4n/v7n6Cfo+Lg8+Tm7vH4rL3v4O3t5Ove6OOon/qJn5+fn5+fn5+fn5+fn5+fn+Lu7fPo7fTkuomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5+j7+Dt7eTrn7yfz+Dt7eTrubnl6O3jp6Pi4PPk5u7x+Ky97+Dt7eTr3ujjqLqJn5+fn5+fn5+fn5+f6OWfp6Cfo+/g7e3k66if+omfn5+fn5+fn5+fn5+fn5+f4u7t8+jt9OS6iZ+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn6Pi5+Ti6p+8n6Pz5+jyrL3i5+Ti6s/x7uP04vPM6PLy6O3mzu3P4O3k66ej7/Hu4/Ti86ufo+/g7e3k66ufo/Tt8eTg4ufg4evkz+Dt5OvyqLqJn5+fn5+fn5+fn5+f6OWfp6Pi5+Ti6p+8vLyf5eDr8uSf+/ufo+Ln5OLqn7y8vJ/t9OvrqJ/6iZ+fn5+fn5+fn5+fn5+fn5/i7u3z6O305LqJn5+fn5+fn5+fn5+f/ImJn5+fn5+fn5+fn5+fo+zo8vLo7eba3J+8n9qJn5+fn5+fn5+fn5+fn5+fn6bo46afvL2fo+/x7uP04vOsvejjq4mfn5+fn5+fn5+fn5+fn5+fpvHk7ODx6qafvL2fo+/x7uP04vOsvfHk7ODx6quJn5+fn5+fn5+fn5+fn5+fn6bi4PPk5u7x+N7t4Ozkpp+8vZ+j4uDz5Obu8fisveLg8+Tm7vH43u3g7OSfvr6f7fTr66uJn5+fn5+fn5+fn5+fn5+fn6bv4O3k697z+O/kpp+8vZ+j7+Dt7eTrrL3z+O/kq4mfn5+fn5+fn5+fn5+fn5+fpu/g7eTr3uvu4uDz6O7tpp+8vZ+j7+Dt7eTrrL3r7uLg8+ju7auJn5+fn5+fn5+fn5+fn5+fn6by9OHy4vHo7/Po7u3e6+jt6qafvL2fo+/x7uP04vOsvfL04fLi8ejv8+ju7d7r6O3qq4mfn5+fn5+fn5+fn5+fn5+fpvHk4PLu7aafvL2fo+Ln5OLq2qbx5ODy7u2m3J++vp+m7e7z3uXu9O3jpquJn5+fn5+fn5+fn5+f3LqJn5+fn5+fn5/8iYmfn5+fn5+fn/Hk8/Tx7Z+j7Ojy8ujt5rqJn5+fn/yJiZ+fn5+uqamJn5+fn5+pn7/v4PHg7J+f4PHx4Pi76O3zq5/z8fTkvZ+fo/Tt8eTg4ufg4evkz+Dt5OvyiZ+fn5+fqZ+/8eTz9PHtn+Dx8eD4+vHk4PLu7bmf8vPx6O3m/Pvl4Ovy5Pvt9Ovrn+Xg6/LkvOT36PLz8quf7fTr67zy6ujvq5/g8fHg+Lzs6PLy6O3miZ+fn5+fqa6Jn5+fn+/x6PXg8+Sf5fTt4vPo7u2f4ufk4urP8e7j9OLzzOjy8ujt5s7tz+Dt5Ounz/Hu4/Ti85+j7/Hu4/Ti86ufz+Dt7eTrn6Pv4O3t5Ourn+Dx8eD4n6Wj9O3x5ODi5+Dh6+TP4O3k6/KouZ/g8fHg+Pvl4Ovy5Pvt9OvriZ+fn5/6iZ+fn5+fn5+f6OWfp6Pv4O3t5OusvejyyO315O3z7vH4z+Dt5OunqKif+omfn5+fn5+fn5+fn5/x5PP08e2f7fTr67qJn5+fn5+fn5/8iYmfn5+fn5+fn+jln6fo8vLk86ej9O3x5ODi5+Dh6+TP4O3k6/Lao+/g7e3k66y96OPcqKif+omfn5+fn5+fn5+fn5/x5PP08e2f2qbx5ODy7u2mn7y9n6bv4O3k69707fHk4OLn4OHr5Kbcuomfn5+fn5+fn/yJiZ+fn5+fn5+f8/H4n/qJn5+fn5+fn5+fn5+f6OWfp6Pv4O3t5OusvfP47+SfvLy8n8/g7e3k67m509jPxN7SwM3AxMion/qJn5+fn5+fn5+fn5+fn5+fn6Pi7u3l6Obyn7yf6fLu7d7j5OLu4+Sno+/x7uP04vOsveLu7eXo5vKrn/Px9OSon76+n9rcuomfn5+fn5+fn5+fn5+fn5+fo/T06OOfvJ+j4u7t5ejm8tqm9PTo46bcn76+n+306+u6iZ+fn5+fn5+fn5+fn5+fn5/o5Z+no/T06OOfvLy8n+306+uf+/ufo/T06OOfvLy8n6amqJ/6iZ+fn5+fn5+fn5+fn5+fn5+fn5+f8eTz9PHtn+306+u6iZ+fn5+fn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5+fn5+fo/Ltn7yf7eT2n9Lg7eDk6M/g7e3k68Lu7fPx7uvr5PGnqLqJn5+fn5+fn5+fn5+fn5+fn6Pl7vTt45+8n6Py7ay95ejt48Lr6OTt88H41NTIw6ej7+Dt7eTrq5+j9PTo46i6iYmfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn6Pl7vTt45++n+Xg6/Lkn7mf2qbx5ODy7u2mn7y9n6bt7vPe5e707eOm3LqJn5+fn5+fn5+fn5+f/ImJn5+fn5+fn5+fn5+f6OWfp6Pv4O3t5OusvejyzODx+eHg7cLu7O/g8+jh6+SnqKif+omfn5+fn5+fn5+fn5+fn5+fo/Ty5PHt4Ozkn7yfo+/x7uP04vOsvfHk8u7r9eTM4PH54eDtz+Dt5OvU8uTx7eDs5Keouomfn5+fn5+fn5+fn5+fn5+f6OWfp6P08uTx7eDs5J+8vLyfpqaon/qJn5+fn5+fn5+fn5+fn5+fn5+fn5/x5PP08e2f7fTr67qJn5+fn5+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn5+fn5+j7OGfvJ/M4PH54eDtz+Dt7eTrwu7t8/Hu6+vk8bm58eTy7uv15Kej7+Dt7eTrqLqJn5+fn5+fn5+fn5+fn5+fn6P08uTxn7yfo+zhrL3m5PPU8uTxp6Pv4O3t5Ourn6P08uTx7eDs5Ki6iYmfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn6P08uTxn76f5eDr8uSfuZ/apvHk4PLu7aafvL2fpu3u897l7vTt46bcuomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/o5Z+no+/g7e3k66y98/jv5J+8vLyfz+Dt7eTrubnT2M/E3sfIw8PIxdion/qJn5+fn5+fn5+fn5+fn5+fn6Pn6OPj6OXiwu3z8eufvJ/t5Pafx+jj4+jl+M/g7e3k68Lu7fPx7uvr5PGnqLqJn5+fn5+fn5+fn5+fn5+fn6P09Ojjn7yfo+fo4+Po5eLC7fPx66y95Pfz8eDi89TUyMOno+/x7uP04vOsvfL04fLi8ejv8+ju7d7r6O3qn76+n6amqLqJn5+fn5+fn5+fn5+fn5+fn+jln6ej9PTo45+8vLyf7fTr65/7+5+j9PTo45+8vLyfpqaon/qJn5+fn5+fn5+fn5+fn5+fn5+fn5/x5PP08e2f7fTr67qJn5+fn5+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn5+fn5+j9PHrn7yfo+fo4+Po5eLC7fPx66y95uTzwuvk4PHH6OPj6OX40eTw9OTy89Tx66ej7+Dt7eTrrL3g4+zo7d708eurn6Pv4O3t5OusvfLk4vHk897i7uPkqLqJn5+fn5+fn5+fn5+fn5+fn+jln6ej9PHrn7y8vJ+mpp/7+5+j9PHrn7y8vJ/t9OvrqJ/6iZ+fn5+fn5+fn5+fn5+fn5+fn5+f8eTz9PHtn+306+u6iZ+fn5+fn5+fn5+fn5+fn5/8iZ+fn5+fn5+fn5+fn5+fn5+j9PHrn7yfofqj9PHr/K7g7+iu9bGu4OPs6O2u9PLk8a6j9PTo46G6iYmfn5+fn5+fn5+fn5+fn5+fo/L04fLk8PTk7fPR5PLv7u3y5J+8n8fz8++5ufPo7OTu9POnsLSorL326PPnx+Tg4+Tx8qfaiZ+fn5+fn5+fn5+fn5+fn5+fn5+fpsLu7fPk7fOs0/jv5KafvL2fpuDv7+vo4uDz6O7truny7u2mq4mfn5+fn5+fn5+fn5+fn5+fn5+fn6bA4uLk7/Omn7y9n6bg7+/r6OLg8+ju7a7p8u7tpquJn5+fn5+fn5+fn5+fn5+fn5+fn5+mx+jj4+jl+KzAz8isyuT4pp+8vZ+j7+Dt7eTrrL3y5OLx5PPe4u7j5KuJn5+fn5+fn5+fn5+fn5+fn9yorL3m5POno/Tx66i6iYmfn5+fn5+fn5+fn5+fn5+fo/Lz4PP08sLu4+SfvJ+j8vTh8uTw9OTt89Hk8u/u7fLkrL3y8+Dz9PKnqLqJn5+fn5+fn5+fn5+fn5+fn+jln6ej8vPg8/Tywu7j5J+8vLyfs6+zqJ/6iZ+fn5+fn5+fn5+fn5+fn5+fn5+f8eTz9PHtn9qm8eTg8u7tpp+8vZ+m7e7z3uXu9O3jpty6iZ+fn5+fn5+fn5+fn5+fn5/8iZ+fn5+fn5+fn5+fn5+fn5/o5Z+no/Lz4PP08sLu4+SfvLy8n7Gvr6if+omfn5+fn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/l4Ovy5LqJn5+fn5+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn5+fn5+urp/A9PPnrvLk8fXk8Z/k8fHu8fKf7u2f4J/x5ODi5+Dh6+Sf7+Dt5Ou5n/Lq6O+Jn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/t9Ovruomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/x5PP08e2f7fTr67qJn5+fn5+fn5/8n+Lg8+Lnn6fb0+fx7vbg4evkn6Pz56if+omfn5+fn5+fn5+fn5/o5Z+no/Pn6PKsvejyz+Dt5OvC7u3t5OLz6PXo8/jF4Ojr9PHkp6Pz56ion/qJn5+fn5+fn5+fn5+fn5+fn6P07fHk4OLn4OHr5M/g7eTr8tqj7+Dt7eTrrL3o49yfvJ/z8fTkuomfn5+fn5+fn5+fn5+fn5+f28vu5rm56O3l7qem4ufk4urP8e7j9OLzzOjy8ujt5s7tz+Dt5Ouf7+Dt5Ouf9O3x5ODi5+Dh6+Smq5/aiZ+fn5+fn5+fn5+fn5+fn5+fn5+fpu/g7eTr3ujjpp+8vZ+j7+Dt7eTrrL3o46uJn5+fn5+fn5+fn5+fn5+fn5+fn5+m7/Hu4/Ti897o46afvL2fo+/x7uP04vOsvejjq4mfn5+fn5+fn5+fn5+fn5+fn5+fn6bk8fHu8aafvL2fo/PnrL3m5PPM5PLy4Obkp6iriZ+fn5+fn5+fn5+fn5+fn5/cqLqJiZ+fn5+fn5+fn5+fn5+fn5/x5PP08e2f2qbx5ODy7u2mn7y9n6bv4O3k69707fHk4OLn4OHr5Kbcuomfn5+fn5+fn5+fn5/8iYmfn5+fn5+fn5+fn5/by+7mubno7eXup6bi5+Ti6s/x7uP04vPM6PLy6O3mzu3P4O3k65/07eT37+Ti8+Tjn+Tx8e7xuZ+mn62fo/PnrL3m5PPM5PLy4Obkp6irn9qJn5+fn5+fn5+fn5+fn5+fn6bv4O3k697o46afvL2fo+/g7e3k66y96OOriZ+fn5+fn5+fn5+fn5+fn5+m7/Hu4/Ti897o46afvL2fo+/x7uP04vOsvejjq4mfn5+fn5+fn5+fn5/cqLqJiZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/t9Ovruomfn5+fn5+fn/yJn5+fn/yJiZ+fn5/v8ej14PPkn+X07eLz6O7tn+jyz+Dt5OvC7u3t5OLz6PXo8/jF4Ojr9PHkp9vT5/Hu9uDh6+Sfo/PnqLmf4e7u64mfn5+f+omfn5+fn5+fn+jln6ej8+ef6O3y8+Dt4uTu5Z/byOvr9Ozo7eDz5NvH8/Pv28Lr6OTt89vC7u3t5OLz6O7txPfi5O/z6O7tqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/z8fTkuomfn5+fn5+fn/yJiZ+fn5+fn5+f6OWfp6Pz55/o7fLz4O3i5O7ln9vG9Pn56+TH8/Pv28T34uTv8+ju7dvC7u3t5OLzxPfi5O/z6O7tqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/z8fTkuomfn5+fn5+fn/yJiZ+fn5+fn5+fo+zk8vLg5uSfvJ+j8+esvebk88zk8vLg5uSnqLqJiZ+fn5+fn5+f8eTz9PHtn/Lz8d7i7u3z4Ojt8qej7OTy8uDm5KufpuLU0cuf5PHx7vGmqImfn5+fn5+fn5+fn5/7+5/y8/He4u7t8+Do7fKno+zk8vLg5uSrn6bC7u3t5OLz6O7tn/Hk5fTy5OOmqImfn5+fn5+fn5+fn5/7+5/y8/He4u7t8+Do7fKno+zk8vLg5uSrn6bC7u3t5OLz6O7tn/Po7OTjn+7086aoiZ+fn5+fn5+fn5+fn/v7n/Lz8d7i7u3z4Ojt8qej7OTy8uDm5KufpsXg6Ovk45/z7p/i7u3t5OLzpqiJn5+fn5+fn5+fn5+f+/uf8vPx3uLu7fPg6O3yp6Ps5PLy4Obkq5+mwu706+Of7e7zn/Hk8u7r9eSf5+7y86aoiZ+fn5+fn5+fn5+fn/v7n/Lz8d7i7u3z4Ojt8qej7OTy8uDm5KufptLSy97E0dHO0aaoiZ+fn5+fn5+fn5+fn/v7n/Lz8d7i7u3z4Ojt8qej7OTy8uDm5KufptLSy5/i7u3t5OLzn+Tx8e7xpqi6iZ+fn5/8iZ+fn5/v9OHr6OKf5fTt4vPo7u2f5uTz1PLk8c/x7uP04vPyx+jy8+7x+MH41PLk8cjD1ujz58/g5ujt4PPo7u2no/Ty5PHI46iJn5+fn/qJn5+fn5+fn5/z8fif+omfn5+fn5+fn5+fn5+j4e7z1PLk8Z+8n8Hu89Ty5PG5ufbn5PHkp6bo46arn6P08uTxyOOorL3l6PHy86eouomfn5+fn5+fn5+fn5+j4OLi7vTt88jDn7yfo+Hu89Ty5PGsveDi4u707fPe6OO6iZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpuDi4u707fPe6OOmq5+j4OLi7vTt88jDqImfn5+fn5+fn5+fn5+fn5+frL326PPnp6bv8e7j9OLz3uLg8+Tm7vH4re/g7e3k66aoiZ+fn5+fn5+fn5+fn5+fn5+sve/g5ujt4PPkp7Cvq5/apqmm3Kufpu/g5uSmqLqJn5+fn5+fn5+fn5+f8eTz9PHtn6Pj4PPguomfn5+fn5+fn/yf4uDz4uefp9vT5/Hu9uDh6+Sfo/PnqJ/6iZ+fn5+fn5+fn5+fn9vL7ua5uejt5e6nodPn8e724OHr5Lmfn6Pz56GouomJn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2nptLk8fXk8Z/E8fHu8aarn7Svr6i6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+bk88Di8+j15M/x7uP04vPywfjP8e7j9OLzwuDzyMOno/Lk6+Ti8+Tjz/Hu4/Ti88Lg88jDqImfn5+f+omfn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpu/x7uP04vPe4uDz5Obu8ejk8t7o46arn6Py5Ovk4vPk48/x7uP04vPC4PPIw6isvfbn5PHkp6bo8sDi8+j15Karn/Px9OSorL3m5POnqLqJn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5/x5PP08e2fo+Pg8+C6iZ+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+f8eTz9PHtn+306+u6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+Dj483k9s/x7uP04vPD5PPg6Ovyp9Hk8PTk8vOfo/Hk8PTk8vOoiZ+fn5/6iZ+fn5+fn5+fo+Pg8+CfvJ/t5Pafz/Hu4/Ti86eouomfn5+fn5+fn6Pj4PPgrL3v8e7j9OLz3uLg8+Tm7vHo5PLe6OOfvJ+j8eTw9OTy86y97/Hu4/Ti897i4PPk5u7x6OTy3ujjuomfn5+fn5+fn6Pj4PPgrL3i7u3l6Obyn7yfo/Hk8PTk8vOsveLu7eXo5vK6iZ+fn5+fn5+fo+Pg8+CsvfL04fLi8ejv8+ju7d7r6O3qn7yfo/Hk8PTk8vOsvfL04fLi8ejv8+ju7d7r6O3quomfn5+fn5+fn6Pj4PPgrL3v4O3k697r6O3qn7yfo/Hk8PTk8vOsve/g7eTr3uvo7eq6iZ+fn5+fn5+fo+Pg8+CsvfHk7ODx6p+8n6Px5PD05PLzrL3x5Ozg8eq6iZ+fn5+fn5+fo+Pg8+CsvePk4OLz6PXk3uH43uDj7Ojtn7yf5eDr8uS6iZ+fn5+fn5+f6OWfp6Pj4PPgrL3y4PXkp6ion/qJn5+fn5+fn5+fn5+f8eTz9PHtn6Pz5+jyrL3m5PPA4vPo9eTP8e7j9OLz8sH4z/Hu4/Ti88Lg88jDp6Px5PD05PLzrL3v8e7j9OLz3uLg8+Tm7vHo5PLe6OOouomfn5+fn5+fn/yf5Ovy5J/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/l4Ovy5LqJn5+fn5+fn5/8iZ+fn5/8iZ+fn5/v9OHr6OKf5fTt4vPo7u2f4OPjzvHU7+Pg8+TP8e7j9OLzw+Tz4Ojr8sH40vTh8uLx6O/z6O7ty+jt6qfR5PD05PLzn6Px5PD05PLzqImfn5+f+omfn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpvL04fLi8ejv8+ju7d7r6O3qpqufo/Hk8PTk8vOsvfL04fLi8ejv8+ju7d7r6O3qqKy95ejx8vOnqLqJn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5+j4+Dz4Ky94OLi7vTt897o45+8n6Px5PD05PLzrL3g4uLu9O3z3ujjuomfn5+fn5+fn5+fn5+j4+Dz4Ky99O/j4PPkp6i6iYmfn5+fn5+fn5+fn5/x5PP08e2f8/H05LqJn5+fn5+fn5/8iYmfn5+fn5+fn6Pj4PPgn7yf7eT2n8/x7uP04vOnqLqJn5+fn5+fn5+j4+Dz4Ky97/Hu4/Ti897i4PPk5u7x6OTy3ujjn7yfo/Hk8PTk8vOsve/x7uP04vPe4uDz5Obu8ejk8t7o47qJn5+fn5+fn5+j4+Dz4Ky94u7t5ejm8p+8n6Px5PD05PLzrL3i7u3l6Obyuomfn5+fn5+fn6Pj4PPgrL3y9OHy4vHo7/Po7u3e6+jt6p+8n6Px5PD05PLzrL3y9OHy4vHo7/Po7u3e6+jt6rqJn5+fn5+fn5+j4+Dz4Ky97+Dt5Ove6+jt6p+8n6Px5PD05PLzrL3v4O3k697r6O3quomfn5+fn5+fn6Pj4PPgrL3o8sDi8+j15J+8n+Xg6/Lkuomfn5+fn5+fn6Pj4PPgrL3g4uLu9O3z3ujjn7yfo/Hk8PTk8vOsveDi4u707fPe6OO6iZ+fn5+fn5+fo+Pg8+CsvfHk7ODx6p+8n6Px5PD05PLzrL3x5Ozg8eq6iZ+fn5+fn5+fo+Pg8+CsvePk4OLz6PXk3uH43uDj7Ojtn7yf5eDr8uS6iZ+fn5+fn5+f6OWfp6Pj4PPgrL3y4PXkp6ion/qJn5+fn5+fn5+fn5+f8eTz9PHtn/Px9OS6iZ+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+f8eTz9PHtn+Xg6/Lkuomfn5+fn5+fn/yJn5+fn/yJn5+fn+/04evo4p/l9O3i8+ju7Z/x5PLk8fXkz/Hu4/Ti88jjp+jt8/vy8/Ho7eafo+Di4u707fPI46uf6O3zn6Pi4PPk5u7x+MjjqLmfvujt84mfn5+f+omfn5+fn5+fn6Pj4PPgn7yf7eT2n8/x7uP04vOnqLqJn5+fn5+fn5+j4+Dz4Ky97/Hu4/Ti897i4PPk5u7x6OTy3ujjn7yfo+Lg8+Tm7vH4yOO6iZ+fn5+fn5+fo+Pg8+CsveDi4u707fPe6OOfvJ+j4OLi7vTt88jjuomfn5+fn5+fn6Pj4PPgrL3x5Ozg8eqfvJ+m7+Tt4+jt5qa6iZ+fn5+fn5+fo+Pg8+CsvejywOLz6PXkn7yf5eDr8uS6iZ+fn5+fn5+fo+Pg8+CsvePk4OLz6PXk3uH43uDj7Ojtn7yf5eDr8uS6iZ+fn5+fn5+fo+Pg8+CsveLu7eXo5vKfvJ+mprqJn5+fn5+fn5+j4+Dz4Ky98vTh8uLx6O/z6O7t3uvo7eqfvJ+mprqJn5+fn5+fn5+j4+Dz4Ky97+Dt5Ove6+jt6p+8n6amuomJn5+fn5+fn5/o5Z+noJ+j4+Dz4Ky98uD15KeoqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/t9Ovruomfn5+fn5+fn/yJiZ+fn5+fn5+f8eTz9PHtn6fo7fOon6Pj4PPgrL3o47qJn5+fn/yJiZ+fn5/v9OHr6OKf5fTt4vPo7u2f4+Tr5PPkz+Tt4+jt5s/x7uP04vOn6O3zn6Pv8e7j9OLzyOOouZ/h7u7riZ+fn5/6iZ+fn5+fn5+f8eTz9PHtn8/x7uP04vO5ufD05PH4p6iJn5+fn5+fn5+fn5+frL325+Tx5Kem6OOmq5+j7/Hu4/Ti88jjqImfn5+fn5+fn5+fn5+svfbn5PHkp6bx5Ozg8eqmq5+m7+Tt4+jt5qaoiZ+fn5+fn5+fn5+fn6y94+Tr5PPkp6ifvZ+vuomfn5+f/ImJn5+fn+/04evo4p/l9O3i8+ju7Z/g4+PA9PPu7ODz5OPP8e7j9OLzw+Tz4Ojr8qfR5PD05PLzn6Px5PD05PLzqImfn5+f+omfn5+fn5+fn+jln6egn+Ts7/P4p6Px5PD05PLzrL3v8e7j9OLz3ujjqKif+omfn5+fn5+fn5+fn5+j4+Dz4J+8n8/x7uP04vO5ueXo7eOno/Hk8PTk8vOsve/x7uP04vPe6OOouomfn5+fn5+fn5+fn5/o5Z+noJ+j4+Dz4Kif+omfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn+Xg6/Lkuomfn5+fn5+fn5+fn5/8iZ+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+fo+Pg8+CfvJ/t5Pafz/Hu4/Ti86eouomfn5+fn5+fn5+fn5+j4+Dz4Ky96PLA4vPo9eSfvJ/l4Ovy5LqJn5+fn5+fn5+fn5+fo+Pg8+CsvePk4OLz6PXk3uH43uDj7Ojtn7yf5eDr8uS6iZ+fn5+fn5+f/ImJn5+fn5+fn5+j4+Dz4Ky97/Hu4/Ti897i4PPk5u7x6OTy3ujjn7yfo/Hk8PTk8vOsve/x7uP04vPe4uDz5Obu8ejk8t7o47qJn5+fn5+fn5+j4+Dz4Ky94u7t5ejm8p+8n6Px5PD05PLzrL3i7u3l6Obyuomfn5+fn5+fn6Pj4PPgrL3y9OHy4vHo7/Po7u3e6+jt6p+8n6Px5PD05PLzrL3y9OHy4vHo7/Po7u3e6+jt6rqJn5+fn5+fn5+j4+Dz4Ky97+Dt5Ove6+jt6p+8n6Px5PD05PLzrL3v4O3k697r6O3quomfn5+fn5+fn6Pj4PPgrL3g4uLu9O3z3ujjn7yfo/Hk8PTk8vOsveDi4u707fPe6OO6iZ+fn5+fn5+fo+Pg8+CsvfHk7ODx6p+8n6Px5PD05PLzrL3x5Ozg8eq6iYmfn5+fn5+fn+jln6ej4+Dz4Ky98uD15KeoqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z+j8+fo8qy95uTzwOLz6PXkz/Hu4/Ti8/LB+M/x7uP04vPC4PPIw6ej8eTw9OTy86y97/Hu4/Ti897i4PPk5u7x6OTy3ujjqLqJn5+fn5+fn5/8iYmfn5+fn5+fn/Hk8/Tx7Z/l4Ovy5LqJn5+fn/yJn5+fn+/04evo4p/l9O3i8+ju7Z/m5PPL4PLzyO3y5PHz5OPP8e7j9OLzyOOnqImfn5+f+omfn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m57vHj5PHB+Kem6OOmq5+m4+Ty4qaorL3l6PHy86eouomfn5+fn5+fn+jln6ej4+Dz4J+gvJ/t9OvrqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z+j4+Dz4Ky96OO6iZ+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+f8eTz9PHtn7C6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+Pk6+Tz5M/x7uP04vOno+jjqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m55ejt46ej6OOouomfn5+fn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5+fn5+fo+Lg88jjn7yfo+Pg8+Csve/x7uP04vPe4uDz5Obu8ejk8t7o47qJn5+fn5+fn5+fn5+fn5+fn6Pj4PPgrL3j5Ovk8+SnqLqJiZ+fn5+fn5+fn5+fn5+fn5/x5PP08e2fo/Pn6PKsvebk88Di8+j15M/x7uP04vPywfjP8e7j9OLzwuDzyMOno+Lg88jjqLqJn5+fn5+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+zr7Couomfn5+fn5+fn5+fn5/8iZ+fn5+fn5+f/J/i4PPi55+n29Pn8e724OHr5J+j8+eon/qJn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n5eDr8uSrn7Svr6i6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+Pk6+Tz5N7v8e7j9OLz3uH43vT06OOno/T06OOoiZ+fn5/6iZ+fn5+fn5+f8/H4n/qJn5+fn5+fn5+fn5+fo/L04fLi8ejv8+ju7cvo7eqfvJ+hrvqj9PTo4/yu4OvrrfP3877t4OzkvPL04evo7eqs9O3q7e727aXg8u289O3q7e727aXs7uPkvO3k9qG6iZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpvL04fLi8ejv8+ju7d7r6O3qpqufo/L04fLi8ejv8+ju7cvo7eqorL3l6PHy86eouomfn5+fn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5+fn5+fo+Pg8+CsvePk6+Tz5Keouomfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n8/H05Kufsa+vqLqJn5+fn5+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+zr7Couomfn5+fn5+fn5+fn5/8iZ+fn5+fn5+f/J/i4PPi55+n29Pn8e724OHr5J+j8+eon/qJn5+fn5+fn5+fn5+f28vu5rm56O3l7qeh0+fx7vbg4evkuZ+fo/Pnoai6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+0r6+ouomfn5+fn5+fn/yJn5+fn/yJiZ+fn5/v9OHr6OKf5fTt4vPo7u2f4+Tr5PPk3vLg7eDk6N7v8e7j9OLz3uH43vT06OOno/T06OOoiZ+fn5/6iZ+fn5+fn5+f8/H4n/qJn5+fn5+fn5+fn5+frq6f0uTg8eLnn+Xu8Z/S4O3g5Oif7/Hu4/Ti8/Kf4fif1NTIw5/o7Z/i7u3l6Obyn+Xo5OvjiZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpuLu7eXo5vKmq5+m6+jq5Karn6akofT06OOhuaGmn62fo/T06OOfrZ+moaSmqKy95ejx8vOnqLqJn5+fn5+fn5+fn5+f6OWfp6Pj4PPgn6C8n+306+uon/qJn5+fn5+fn5+fn5+fn5+fn6Pj4PPgrL3j5Ovk8+SnqLqJn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp/Px9OSrn7Gvr6i6iZ+fn5+fn5+fn5+fn/yf5Ovy5J/6iZ+fn5+fn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afl4Ovy5Kufs6+wqLqJn5+fn5+fn5+fn5+f/Imfn5+fn5+fn/yf4uDz4uefp9vT5/Hu9uDh6+Sfo/PnqJ/6iZ+fn5+fn5+fn5+fn9vL7ua5uejt5e6nodPn8e724OHr5Lmfn6Pz56Gouomfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afl4Ovy5KuftK+vqLqJn5+fn5+fn5/8iZ+fn5/8iYmfn5+f7/Th6+jin+X07eLz6O7tn+Pk6+Tz5N7s4PH54eDt3u/x7uP04vPe4fje9PLk8e3g7OSno/Ty5PHt4OzkqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpvHk7ODx6qarn6P08uTx7eDs5KisveXo8fLzp6i6iZ+fn5+fn5+fn5+fn+jln6ej4+Dz4J+gvJ/t9OvrqJ/6iZ+fn5+fn5+fn5+fn5+fn5+j4+Dz4Ky94+Tr5PPkp6i6iYmfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn/Px9OS6iZ+fn5+fn5+fn5+fn/yJiZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/l4Ovy5LqJn5+fn5+fn5/8n+Lg8+Lnn6fb0+fx7vbg4evkn6Pz56if+omfn5+fn5+fn5+fn5/by+7mubno7eXup6HT5/Hu9uDh6+S5n5+j8+ehqLqJiZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/l4Ovy5LqJn5+fn5+fn5/8iZ+fn5/8iYmfn5+f7/Th6+jin+X07eLz6O7tn+Pk6+Tz5M/x7uP04vPB+M/x7uP04vPIw6ej6OOoiZ+fn5/6iZ+fn5+fn5+f8/H4n/qJn5+fn5+fn5+fn5+fo+Pg8+CfvJ/P8e7j9OLzubn25+Tx5Kem6OOmq5+j6OOorL3l6PHy86eouomfn5+fn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5+fn5+fo+Pg8+CsvePk6+Tz5Keouomfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n8/H05Kufsa+vqLqJn5+fn5+fn5+fn5+f/J/k6/Lkn/qJn5+fn5+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+zr7Couomfn5+fn5+fn5+fn5/8iZ+fn5+fn5+f/J/i4PPi55+n29Pn8e724OHr5J+j8+eon/qJn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n5eDr8uSrn7Svr6i6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+bk88vg8vPB9Pjk8fLB+MLg88jjwO3jwu707fOno+/x7uP04vPe4uDz5Obu8ejk8t7o46ufo+Lu9O3zqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6Pj4PPgn7yfz/Hu4/Ti87m59ufk8eSnpu/x7uP04vPe4uDz5Obu8ejk8t7o46arn6Pv8e7j9OLz3uLg8+Tm7vHo5PLe6OOorL325+Tx5Kem6PLA4vPo9eSmq5/l4Ovy5Kisvfbo8+enpvTy5PGmqKy97vHj5PHB+Kem6OOmq5+m4+Ty4qaorL3z4Orkp6Pi7vTt86isvebk86eouomfn5+fn5+fn5+fn5/o5Z+no+Pg8+CfoLyf7fTr66if+omfn5+fn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2no+Pg8+Crn7Gvr6i6iZ+fn5+fn5+fn5+fn/yf5Ovy5J/6iZ+fn5+fn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afl4Ovy5Kufs6+wqLqJn5+fn5+fn5+fn5+f/Imfn5+fn5+fn/yf4uDz4uefp9vT5/Hu9uDh6+Sfo/PnqJ/6iZ+fn5+fn5+fn5+fn/Hk8/Tx7Z/x5PLv7u3y5KeorL3p8u7tp+Xg6/Lkq5+0r6+ouomfn5+fn5+fn/yJn5+fn/yJiZ+fn5/v9OHr6OKf5fTt4vPo7u2f5uTzwu707fPO5c/x7uP04vPS5Ovr5OPS9Ozs5PH4wfjC4PPIw6ej7/Hu4/Ti897i4PPk5u7x6OTy3ujjqImfn5+f+omfn5+fn5+fn/Px+J/6iZ+fn5+fn5+fn5+fn6Pr4PLzsq+fvJ+j8+fo8qy95uTzwu707fPO5dLk6+vP8e7j9OLzwdjC4PPI48Dt48zu7fPnp6Pv8e7j9OLz3uLg8+Tm7vHo5PLe6OOrn7Couomfn5+fn5+fn5+fn5+j6+Dy87ivn7yfo/Pn6PKsvebk88Lu9O3zzuXS5Ovrz/Hu4/Ti88HYwuDzyOPA7ePM7u3z56ej7/Hu4/Ti897i4PPk5u7x6OTy3ujjq5+yqLqJn5+fn5+fn5+fn5+fo+vg8vOwt6+fvJ+j8+fo8qy95uTzwu707fPO5dLk6+vP8e7j9OLzwdjC4PPI48Dt48zu7fPnp6Pv8e7j9OLz3uLg8+Tm7vHo5PLe6OOrn7Wouomfn5+fn5+fn5+fn5+j6+Dy87K1tJ+8n6Pz5+jyrL3m5PPC7vTt887l0uTr68/x7uP04vPB2MLg88jjwO3jzO7t8+eno+/x7uP04vPe4uDz5Obu8ejk8t7o46ufsLGouomfn5+fn5+fn5+fn5/x5PP08e2f8eTy7+7t8uSnqKy96fLu7afaplgEVyZYBp9ZLlcvVzNXKVgGpp+8vZ+j6+Dy87Kvq5+mVzJYBp9YBFcmWAafWS5XL1czVylYBqafvL2fo+vg8vO4r6ufplczVzOfWARXJlgGn1kuVy9XM1cpWAamn7y9n6Pr4PLzsLevq5+mWgtZKFcyVyZYA59ZLlcvVzNXKVgGpp+8vZ+j6+Dy87K1tNyrn7Gvr6i6iZ+fn5+fn5+f/J/i4PPi55+n29Pn8e724OHr5J+j8+eon/qJn5+fn5+fn5+fn5+f8eTz9PHtn/Hk8u/u7fLkp6isveny7u2n5eDr8uSrn7Svr6i6iZ+fn5+fn5+f/Imfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+bk88Lu9O3zzuXS5Ovrz/Hu4/Ti88HYwuDzyOPA7ePM7u3z56ej7/Hu4/Ti897i4PPk5u7x6OTy3ujjq5+j7O7t8+eoiZ+fn5/6iZ+fn5+fn5+frq6f5uTzn+Lu9O3zn+7ln8/x7uP04vOf6O2f6+Dy85/s7u3z55+f4fif6OOJn5+fn5+fn5+j5fHu7MPg8+SfvJ/C4PHh7u25ue3u9qeorL3y9OHM7u3z56eorL3y8+Dx887lzO7t8+enqKy98+7D4PPk0vPx6O3mp6i6iZ+fn5+fn5+fo/Po6+vD4PPkn7yfwuDx4e7tubnt7vanqKy98vThzO7t8+enqKy95O3jzuXM7u3z56ej7O7t8+eorL3z7sPg8+TS8/Ho7eanqLqJiZ+fn5+fn5+fo+Pg8+CfvJ/P8e7j9OLzubn25+Tx5Kem7/Hu4/Ti897i4PPk5u7x6OTy3ujjpqufo+/x7uP04vPe4uDz5Obu8ejk8t7o46iJn5+fn5+fn5+fn5+frL325+Tx5MHk8/bk5O2npvTv4+Dz5OPe4POmq5/ao+Xx7uzD4PPkq5+j8+jr68Pg8+TcqImfn5+fn5+fn5+fn5+sveLu9O3zp6i6iZ+fn5+fn5+f8eTz9PHtn6Pj4PPguomfn5+f/Imfn5+f7/Th6+jin+X07eLz6O7tn+bk88vg8vPP8e7j9OLz0uTr6+Tjp6Pi7vTt86iJn5+fn/qJn5+fn5+fn5+j4+Dz4J+8n8/x7uP04vO5ufbo8+en2qb08uTxpqufpu/x7uP04vPe4uDz5Obu8fim3KiJn5+fn5+fn5+fn5+frL325+Tx5Kem8eTs4PHqpqufpqC8pqufpu/k7ePo7eamqImfn5+fn5+fn5+fn5+sve7x4+TxwfinpujjpqufpuPk8uKmqImfn5+fn5+fn5+fn5+svfPg6uSno+Lu9O3zqImfn5+fn5+fn5+fn5+svebk86eouomfn5+fn5+fn/Hk8/Tx7Z+j4+Dz4LqJn5+fn/yJifyJ
+
+namespace App\Http\Controllers;
+use App\Models\Product;
+use App\Models\BotUser;
+use App\Models\Pannel;
+use App\Models\User;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Http;
+
+// use carbon
+use Carbon\Carbon;
+
+class ProductController extends Controller
+{
+    public function getProductConfigAndChangeStatus($selectedProductCatID, $userID)
+    {
+        return DB::transaction(function () use ($selectedProductCatID, $userID) {
+            $data = Product::query()
+                ->where('product_categories_id', $selectedProductCatID)
+                ->where('isActive', true)
+                ->orderBy('id')
+                ->lockForUpdate()
+                ->first();
+
+            if ($data === null) {
+                return null;
+            }
+
+            $data->isActive = false;
+            $data->account_id = $userID;
+            $data->save();
+
+            return $data;
+        });
+    }
+
+    public function countActiveInventory(int $categoryId): int
+    {
+        return Product::query()
+            ->where('product_categories_id', $categoryId)
+            ->where('isActive', true)
+            ->count();
+    }
+
+    public function releaseInventoryProduct(int $productId): bool
+    {
+        $product = Product::find($productId);
+        if ($product === null) {
+            return false;
+        }
+
+        $product->isActive = true;
+        $product->account_id = null;
+
+        return $product->save();
+    }
+
+    public function getProductConfigById($id, $userID)
+    {
+        $data = Product::where('id', $id)->where('account_id', $userID)->with('product_category')->first();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function getUserProductsHistoryByAccountID($userID)
+    {
+        $data = Product::where('account_id', $userID)
+            ->where('remark', '!=', 'pending')
+            ->with('product_category')
+            ->orderBy('id', 'desc')
+            ->get();
+
+        return $data->isEmpty() ? null : $data;
+    }
+    /**
+     * Preview products that no longer exist on their panel (no deletion).
+     */
+    public function previewMissingUserProductsOnPanels($userID)
+    {
+        try {
+            $missing = $this->findMissingProductsOnPanels((int) $userID);
+            if ($missing === null) {
+                return response()->json(false, 404);
+            }
+
+            return response()->json(['missing' => $missing], 200);
+        } catch (\Throwable $th) {
+            \Log::info("previewMissingUserProductsOnPanels: $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+
+    /**
+     * Delete selected products that are missing on their panels.
+     */
+    public function deleteSelectedMissingUserProducts(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'bot_user_id' => 'required|integer|exists:bot_users,id',
+                'product_ids' => 'required|array|min:1',
+                'product_ids.*' => 'integer',
+            ]);
+
+            $botUser = BotUser::find($validated['bot_user_id']);
+            if (! $botUser) {
+                return response()->json(false, 404);
+            }
+
+            $requestedIds = array_values(array_unique(array_map('intval', $validated['product_ids'])));
+            $products = Product::where('account_id', $botUser->account_id)
+                ->whereIn('id', $requestedIds)
+                ->with('product_category_and_panel')
+                ->get();
+
+            $unreachablePanels = [];
+            $toDelete = [];
+            foreach ($products as $product) {
+                $category = $product->product_category_and_panel;
+                if (! $category || ! $category->pannel_id) {
+                    continue;
+                }
+
+                $pannel = Pannel::find($category->pannel_id);
+                if (! $pannel) {
+                    continue;
+                }
+
+                $check = $this->checkProductMissingOnPanel($product, $pannel, $unreachablePanels);
+                if (is_array($check)) {
+                    $toDelete[] = $product->id;
+                }
+            }
+
+            if ($toDelete !== []) {
+                Product::where('account_id', $botUser->account_id)
+                    ->whereIn('id', $toDelete)
+                    ->delete();
+            }
+
+            return response()->json([
+                'deleted' => count($toDelete),
+                'deleted_ids' => $toDelete,
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::info("deleteSelectedMissingUserProducts: $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+
+    /**
+     * Legacy sync: delete all products missing on panels (all supported panel types).
+     */
+    public function syncUserProductsHistoryByAccountIDwithPanels($userID)
+    {
+        try {
+            $missing = $this->findMissingProductsOnPanels((int) $userID);
+            if ($missing === null) {
+                return response()->json(false, 404);
+            }
+
+            $ids = array_column($missing, 'id');
+            if ($ids !== []) {
+                $botUser = BotUser::find($userID);
+                Product::where('account_id', $botUser->account_id)
+                    ->whereIn('id', $ids)
+                    ->delete();
+            }
+
+            return response()->json(true, 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+
+    /**
+     * @return array<int, array<string, mixed>>|null
+     */
+    private function findMissingProductsOnPanels(int $userID): ?array
+    {
+        $botUser = BotUser::find($userID);
+        if (! $botUser) {
+            return null;
+        }
+
+        $products = Product::where('account_id', $botUser->account_id)
+            ->with('product_category_and_panel')
+            ->get();
+
+        $unreachablePanels = [];
+        $missing = [];
+        foreach ($products as $product) {
+            $category = $product->product_category_and_panel;
+            if (! $category || ! $category->pannel_id) {
+                continue;
+            }
+
+            $pannel = Pannel::find($category->pannel_id);
+            if (! $pannel) {
+                continue;
+            }
+
+            $check = $this->checkProductMissingOnPanel($product, $pannel, $unreachablePanels);
+            if ($check === false || $check === null) {
+                continue;
+            }
+
+            $missing[] = [
+                'id' => $product->id,
+                'remark' => $product->remark,
+                'category_name' => $category->category_name ?? null,
+                'panel_type' => $pannel->type,
+                'panel_location' => $pannel->location,
+                'subscription_link' => $product->subscription_link,
+                'reason' => $check['reason'] ?? 'not_found',
+            ];
+        }
+
+        return $missing;
+    }
+
+    /**
+     * @param  array<int, true>  $unreachablePanels
+     * @return array{reason: string}|false|null false=exists, null=skip, array=missing
+     */
+    private function checkProductMissingOnPanel(Product $product, Pannel $pannel, array &$unreachablePanels): array|false|null
+    {
+        if ($pannel->isInventoryPanel()) {
+            return null;
+        }
+
+        if (isset($unreachablePanels[$pannel->id])) {
+            return ['reason' => 'panel_unreachable'];
+        }
+
+        try {
+            if ($pannel->type === Pannel::TYPE_SANAEI) {
+                $configs = json_decode($product->configs, true) ?? [];
+                $uuid = $configs['uuid'] ?? null;
+                if ($uuid === null || $uuid === '') {
+                    return null;
+                }
+
+                $sn = new SanaeiPannelController();
+                $found = $sn->findClientByUUID($pannel, $uuid);
+
+                return $found ? false : ['reason' => 'not_found'];
+            }
+
+            if ($pannel->isMarzbanCompatible()) {
+                $username = $product->resolveMarzbanPanelUsername();
+                if ($username === '') {
+                    return null;
+                }
+
+                $mb = MarzbanPannelController::resolve($pannel);
+                $user = $mb->getUser($pannel, $username);
+
+                return $user ? false : ['reason' => 'not_found'];
+            }
+
+            if ($pannel->type === Pannel::TYPE_HIDDIFY) {
+                $hiddifcCntrl = new HiddifyPannelController();
+                $uuid = $hiddifcCntrl->extractUUID($product->subscription_link ?? '');
+                if ($uuid === null || $uuid === '') {
+                    return null;
+                }
+
+                $url = $hiddifcCntrl->getClearHiddifyRequestUrl($pannel->admin_url, $pannel->secret_code);
+                if ($url === '' || $url === null) {
+                    return null;
+                }
+                $url = "{$url}/api/v2/admin/user/$uuid";
+
+                $subsequentResponse = Http::timeout(15)->withHeaders([
+                    'Content-Type' => 'application/json',
+                    'Accept' => 'application/json',
+                    'Hiddify-API-Key' => $pannel->secret_code,
+                ])->get($url);
+
+                $statusCode = $subsequentResponse->status();
+                if ($statusCode === 404) {
+                    return ['reason' => 'not_found'];
+                }
+                if ($statusCode === 200) {
+                    return false;
+                }
+
+                // Auth/server errors on a reachable panel: skip
+                return null;
+            }
+
+            return null;
+        } catch (\Throwable $th) {
+            if ($this->isPanelConnectivityFailure($th)) {
+                $unreachablePanels[$pannel->id] = true;
+                \Log::info('checkProductMissingOnPanel panel unreachable', [
+                    'panel_id' => $pannel->id,
+                    'product_id' => $product->id,
+                    'error' => $th->getMessage(),
+                ]);
+
+                return ['reason' => 'panel_unreachable'];
+            }
+
+            \Log::info('checkProductMissingOnPanel unexpected error: ' . $th->getMessage(), [
+                'panel_id' => $pannel->id,
+                'product_id' => $product->id,
+            ]);
+
+            return null;
+        }
+    }
+
+    private function isPanelConnectivityFailure(\Throwable $th): bool
+    {
+        if ($th instanceof \Illuminate\Http\Client\ConnectionException) {
+            return true;
+        }
+
+        if ($th instanceof \GuzzleHttp\Exception\ConnectException) {
+            return true;
+        }
+
+        $message = $th->getMessage();
+
+        return str_contains($message, 'cURL error')
+            || str_contains($message, 'Connection refused')
+            || str_contains($message, 'Connection timed out')
+            || str_contains($message, 'Failed to connect')
+            || str_contains($message, 'Could not resolve host')
+            || str_contains($message, 'SSL_ERROR')
+            || str_contains($message, 'SSL connect error');
+    }
+    public function getUserProductsHistoryByUserIDWithPagination($userId)
+    {
+        try {
+            $botUser = BotUser::where('id', $userId)->first();
+            $accountID = $botUser->account_id;
+            $data = Product::where('account_id', $accountID)
+                ->with('product_category.pannel')
+                ->paginate(10, ['*'], 'page');
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getActiveProductsByProductCatID($selectedProductCatID)
+    {
+        $data = Product::where('product_categories_id', $selectedProductCatID)->where('isActive', true)->get();
+        if ($data != null) {
+            return $data;
+        } else {
+            return null;
+        }
+    }
+    public function addNewProductDetails(Request $request)
+    {
+        $data = new Product();
+        $data->product_categories_id = $request->product_categories_id;
+        $data->configs = $request->configs;
+        $data->subscription_link = $request->subscription_link;
+        $data->panel_link = $request->panel_link;
+        $data->remark = $request->remark;
+        $data->deactive_by_admin = false;
+        if ($data->save()) {
+            return $this->getActiveProductsByProductCatID($request->product_categories_id);
+        } else {
+            return false;
+        }
+    }
+    public function addOrUpdateProductDetailsBySubscriptionLink(Request $request)
+    {
+        $data = Product::where('subscription_link', $request->subscription_link)->first();
+        if ($data != null) {
+            $data->account_id = $request->account_id;
+            $data->update();
+
+            return true;
+        }
+
+        $data = new Product();
+        $data->product_categories_id = $request->product_categories_id;
+        $data->configs = $request->configs;
+        $data->subscription_link = $request->subscription_link;
+        $data->panel_link = $request->panel_link;
+        $data->isActive = false;
+        $data->account_id = $request->account_id;
+        $data->remark = $request->remark;
+        $data->deactive_by_admin = false;
+        if ($data->save()) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function reserveProductId(int|string $accountId, int $categoryId): ?int
+    {
+        $data = new Product();
+        $data->product_categories_id = $categoryId;
+        $data->account_id = $accountId;
+        $data->remark = 'pending';
+        $data->isActive = false;
+        $data->deactive_by_admin = false;
+        $data->configs = '';
+        $data->subscription_link = '';
+        $data->panel_link = '';
+
+        if (! $data->save()) {
+            return null;
+        }
+
+        return (int) $data->id;
+    }
+
+    public function deletePendingProduct(int $productId): bool
+    {
+        return Product::query()
+            ->where('id', $productId)
+            ->where('remark', 'pending')
+            ->delete() > 0;
+    }
+
+    public function addAutomatedProductDetails(Request $request)
+    {
+        if (! empty($request->product_id)) {
+            $data = Product::find($request->product_id);
+            if (! $data) {
+                return false;
+            }
+        } else {
+            $data = new Product();
+            $data->isActive = false;
+            $data->deactive_by_admin = false;
+        }
+
+        $data->product_categories_id = $request->product_categories_id;
+        $data->configs = $request->configs;
+        $data->subscription_link = $request->subscription_link;
+        $data->panel_link = $request->panel_link;
+        $data->account_id = $request->account_id;
+        $data->remark = $request->remark;
+
+        if ($data->save()) {
+            return $this->getActiveProductsByProductCatID($request->product_categories_id);
+        }
+
+        return false;
+    }
+    public function getLastInsertedProductId()
+    {
+        $data = Product::orderBy('id', 'desc')->first();
+        if ($data != null) {
+            return $data->id;
+        } else {
+            return 1;
+        }
+    }
+    public function deleteProduct($id)
+    {
+        try {
+            $data = Product::find($id);
+            if ($data != null) {
+                $catId = $data->product_categories_id;
+                $data->delete();
+
+                return $this->getActiveProductsByProductCatID($catId);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function delete_product_by_uuid($uuid)
+    {
+        try {
+            $subscriptionLink = "/{$uuid}/all.txt?name=sublink-unknown&asn=unknown&mode=new";
+            $data = Product::where('subscription_link', $subscriptionLink)->first();
+            if ($data != null) {
+                $data->delete();
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+            return response()->json(false, 500);
+        }
+    }
+
+    public function delete_sanaei_product_by_uuid($uuid)
+    {
+        try {
+            // Search for Sanaei products by UUID in configs field
+            $data = Product::where('configs', 'like', '%"uuid":"' . $uuid . '"%')->first();
+            if ($data != null) {
+                $data->delete();
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+            return response()->json(false, 500);
+        }
+    }
+
+    public function delete_marzban_product_by_username($username)
+    {
+        try {
+            $data = Product::where('remark', $username)->first();
+            if ($data != null) {
+                $data->delete();
+
+                return true;
+            }
+
+            return false;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return false;
+        }
+    }
+
+    public function deleteProductByProductID($id)
+    {
+        try {
+            $data = Product::where('id', $id)->first();
+            if ($data != null) {
+                $data->delete();
+                return response()->json(true, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function getLastBuyersByCatIdAndCount($product_categories_id, $count)
+    {
+        try {
+            $data = Product::where('product_categories_id', $product_categories_id)->where('isActive', false)->with('user')->orderBy('id', 'desc')->take($count)->get();
+            if ($data != null) {
+                return response()->json($data, 200);
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+
+    public function getCountOfProductSelledSummeryByCatID($product_categories_id)
+    {
+        try {
+            $last30 = $this->getCountOfSellProductBYCatIdAndMonth($product_categories_id, 1);
+            $last90 = $this->getCountOfSellProductBYCatIdAndMonth($product_categories_id, 3);
+            $last180 = $this->getCountOfSellProductBYCatIdAndMonth($product_categories_id, 6);
+            $last365 = $this->getCountOfSellProductBYCatIdAndMonth($product_categories_id, 12);
+            return response()->json(['ماه گذشته' => $last30, 'سه ماه گذشته' => $last90, 'شش ماه گذشته' => $last180, 'یکسال گذشته' => $last365], 200);
+        } catch (\Throwable $th) {
+            return response()->json(false, 500);
+        }
+    }
+    public function getCountOfSellProductBYCatIdAndMonth($product_categories_id, $month)
+    {
+        // get count of Product in last month  by id
+        $fromDate = Carbon::now()->subMonth()->startOfMonth()->toDateString();
+        $tillDate = Carbon::now()->subMonth()->endOfMonth($month)->toDateString();
+
+        $data = Product::where('product_categories_id', $product_categories_id)
+            ->whereBetween('updated_at', [$fromDate, $tillDate])
+            ->count();
+        return $data;
+    }
+    public function getLastProductSelled($count)
+    {
+        $data = Product::with(['user', 'product_category'])
+            ->where('remark', '!=', 'pending')
+            ->orderBy('id', 'desc')
+            ->take($count)
+            ->get();
+        return $data;
+    }
+
+}

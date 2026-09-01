@@ -1,3 +1,38 @@
 <?php
-bolt_decrypt( __FILE__ , '3ZOpcn'); return 0;
-##!!!##JyeLfoqCkI1+gII9Xo2NeW2PjJOGgYKPkFgnJ5KQgj1miYmSioaLfpGCeV6SkYV5YpOCi5GQeW+ChIaQkYKPgoFYJ5KQgj1miYmSioaLfpGCeV6SkYV5aYaQkYKLgo+QeXCCi4Fiin6GiXOCj4aDhoB+kYaMi2uMkYaDhoB+kYaMi1gnkpCCPWaJiZKKhot+kYJ5Y4ySi4F+kYaMi3lwko2NjI+ReW2PjJOGgYKPkHlik4KLkXCCj5OGgIJtj4yThoGCjz1+kD1wgo+ThoCCbY+Mk4aBgo9YJ5KQgj1miYmSioaLfpGCeXCSjY2Mj5F5Y36AfoGCkHlik4KLkVgnJ4CJfpCQPWKTgouRcIKPk4aAgm2PjJOGgYKPPYKVkYKLgZA9cIKPk4aAgm2PjJOGgYKPJ5gnPT09PUxHRyc9PT09PUc9cYWCPYKTgouRPZGMPYmGkJGCi4KPPYp+jY2Gi4SQPYOMjz2RhYI9fo2NiYaAfpGGjItLJz09PT09Ryc9PT09PUc9XZN+jz1+j49+llmAiX6QkEqQkY+Gi4RJPX6Pj36WWYaLkUk9gIl+kJBKkJGPhouEW1snPT09PT1HTCc9PT09jY+MkYKAkYKBPUGJhpCRgos9Wj14Jz09PT09PT09b4KEhpCRgo+CgVdXgIl+kJA9Wls9eCc9PT09PT09PT09PT1wgouBYop+holzgo+Gg4aAfpGGjItrjJGGg4aAfpGGjItXV4CJfpCQSSc9PT09PT09PXpJJz09PT16WCcnPT09PUxHRyc9PT09PUc9b4KEhpCRgo89fouWPYKTgouRkD2DjI89loySjz1+jY2JhoB+kYaMi0snPT09PT1HTCc9PT09jZJ/iYaAPYOSi4CRhoyLPX+MjJFFRlc9k4yGgSc9PT09mCc9PT09PT09PUxMJz09PT2aJyc9PT09TEdHJz09PT09Rz1hgpGCj4qGi4I9hoM9gpOCi5GQPX6LgT2JhpCRgouCj5A9kIWMkomBPX+CPX6SkYyKfpGGgH6JiZY9gYaQgIyTgo+CgUsnPT09PT1HTCc9PT09jZJ/iYaAPYOSi4CRhoyLPZCFjJKJgWGGkICMk4KPYpOCi5GQRUZXPX+MjIknPT09PZgnPT09PT09PT2PgpGSj4s9g36JkIJYJz09PT2aJ5on
+
+namespace App\Providers;
+
+use Illuminate\Auth\Events\Registered;
+use Illuminate\Auth\Listeners\SendEmailVerificationNotification;
+use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
+use Illuminate\Support\Facades\Event;
+
+class EventServiceProvider extends ServiceProvider
+{
+    /**
+     * The event to listener mappings for the application.
+     *
+     * @var array<class-string, array<int, class-string>>
+     */
+    protected $listen = [
+        Registered::class => [
+            SendEmailVerificationNotification::class,
+        ],
+    ];
+
+    /**
+     * Register any events for your application.
+     */
+    public function boot(): void
+    {
+        //
+    }
+
+    /**
+     * Determine if events and listeners should be automatically discovered.
+     */
+    public function shouldDiscoverEvents(): bool
+    {
+        return false;
+    }
+}

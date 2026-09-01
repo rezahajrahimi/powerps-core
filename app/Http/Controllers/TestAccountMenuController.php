@@ -1,3 +1,65 @@
 <?php
-bolt_decrypt( __FILE__ , 'BpgF0x'); return 0;
-##!!!##ERF1aHRsendoamwnSHd3Y097e3djSnZ1e3l2c3NseXpCERF8emwnSHd3Y1R2a2xzemNbbHp7SGpqdnx1e1RsdXxCEXx6bCdQc3N8dHB1aHtsY097e3djWWx4fGx6e0IREWpzaHp6J1tsentIamp2fHV7VGx1fEp2dXt5dnNzbHknbH97bHVreidKdnV7eXZzc2x5EYIRJycnJzYxMREnJycnJzEnS3B6d3NogCdoJ3NwentwdW4ndm0ne29sJ3lsenZ8eWpsNREnJycnJzE2EScnJyd3fGlzcGonbXx1antwdnUncHVrbH8vMBEnJycnghEnJycnJycnJzY2EScnJyeEEREnJycnNjExEScnJycnMSdab3Z+J3tvbCdtdnl0J212eSdqeWxoe3B1bidoJ3Vsfid5bHp2fHlqbDURJycnJycxNhEnJycnd3xpc3BqJ218dWp7cHZ1J2p5bGh7bC8wEScnJyeCEScnJycnJycnNjYRJycnJ4QREScnJyc2MTERJycnJycxJ1p7dnlsJ2gndWx+c4AnanlsaHtsayd5bHp2fHlqbCdwdSd6e3Z5aG5sNREnJycnJzE2EScnJyd3fGlzcGonbXx1antwdnUnent2eWwvWWx4fGx6eycreWx4fGx6ezARJycnJ4IRJycnJycnJyc2NhEnJycnhBERJycnJzYxMREnJycnJzEnS3B6d3NogCd7b2wnendsanBtcGxrJ3lsenZ8eWpsNREnJycnJzE2EScnJyd3fGlzcGonbXx1antwdnUnem92fi9bbHp7SGpqdnx1e1RsdXwnK3tsentIamp2fHV7VGx1fDARJycnJ4IRJycnJycnJyc2NhEnJycnhBERJycnJzYxMREnJycnJzEnWm92fid7b2wnbXZ5dCdtdnknbGtwe3B1bid7b2wnendsanBtcGxrJ3lsenZ8eWpsNREnJycnJzE2EScnJyd3fGlzcGonbXx1antwdnUnbGtwey9bbHp7SGpqdnx1e1RsdXwnK3tsentIamp2fHV7VGx1fDARJycnJ4IRJycnJycnJyc2NhEnJycnhBERJycnJzYxMREnJycnJzEnXHdraHtsJ3tvbCd6d2xqcG1wbGsneWx6dnx5amwncHUnent2eWhubDURJycnJycxNhEnJycnd3xpc3BqJ218dWp7cHZ1J3x3a2h7bC9ZbHh8bHp7Jyt5bHh8bHp7MydbbHp7SGpqdnx1e1RsdXwnK3tsentIamp2fHV7VGx1fDARJycnJ4IRJycnJycnJyc2NhEnJycnhBERJycnJzYxMREnJycnJzEnWWx0dn1sJ3tvbCd6d2xqcG1wbGsneWx6dnx5amwnbXl2dCd6e3Z5aG5sNREnJycnJzE2EScnJyd3fGlzcGonbXx1antwdnUna2x6e3l2gC9bbHp7SGpqdnx1e1RsdXwnK3tsentIamp2fHV7VGx1fDARJycnJ4IRJycnJycnJyc2NhEnJycnhBGEEQ==
+
+namespace App\Http\Controllers;
+
+use App\Models\TestAccountMenu;
+use Illuminate\Http\Request;
+
+class TestAccountMenuController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     */
+    public function index()
+    {
+        //
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     */
+    public function create()
+    {
+        //
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     */
+    public function store(Request $request)
+    {
+        //
+    }
+
+    /**
+     * Display the specified resource.
+     */
+    public function show(TestAccountMenu $testAccountMenu)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     */
+    public function edit(TestAccountMenu $testAccountMenu)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     */
+    public function update(Request $request, TestAccountMenu $testAccountMenu)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     */
+    public function destroy(TestAccountMenu $testAccountMenu)
+    {
+        //
+    }
+}

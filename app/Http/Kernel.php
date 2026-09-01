@@ -1,3 +1,59 @@
 <?php
-bolt_decrypt( __FILE__ , 'dHZDjS'); return 0;
-##!!!##ERF1aHRsendoamwnSHd3Y097e3dCERF8emwnUHNzfHRwdWh7bGNNdnx1a2h7cHZ1Y097e3djUmx5dWxzJ2h6J097e3dSbHl1bHNCERFqc2h6eidSbHl1bHMnbH97bHVreidPe3t3Umx5dWxzEYIRJycnJzYxMREnJycnJzEnW29sJ2h3d3Nwamh7cHZ1LnonbnN2aWhzJ09bW1cndHBra3Nsfmh5bCd6e2hqcjURJycnJycxEScnJycnMSdbb2x6bCd0cGtrc2x+aHlsJ2h5bCd5fHUna3x5cHVuJ2x9bHmAJ3lseHxsensne3YngHZ8eSdod3dzcGpoe3B2dTURJycnJycxEScnJycnMSdHfWh5J2h5eWiAQ3B1ezMnanNoeno0ent5cHVug3p7eXB1bkURJycnJycxNhEnJycnd3l2e2xqe2xrJyt0cGtrc2x+aHlsJ0QnYhEnJycnJycnJzY2J2NId3djT3t7d2NUcGtrc2x+aHlsY1t5fHp7T3Z6e3pBQWpzaHp6MxEnJycnJycnJ2NId3djT3t7d2NUcGtrc2x+aHlsY1t5fHp7V3l2f3BsekFBanNoenozEScnJycnJycnY1Bzc3x0cHVoe2xjT3t7d2NUcGtrc2x+aHlsY09odWtzbEp2eXpBQWpzaHp6MxEnJycnJycnJ2NId3djT3t7d2NUcGtrc2x+aHlsY1d5bH1sdXtZbHh8bHp7ekt8eXB1blRocHV7bHVodWpsQUFqc2h6ejMRJycnJycnJydjUHNzfHRwdWh7bGNNdnx1a2h7cHZ1Y097e3djVHBra3Nsfmh5bGNdaHNwa2h7bFd2entacIFsQUFqc2h6ejMRJycnJycnJydjSHd3Y097e3djVHBra3Nsfmh5bGNbeXB0Wnt5cHVuekFBanNoenozEScnJycnJycnY1Bzc3x0cHVoe2xjTXZ8dWtoe3B2dWNPe3t3Y1Rwa2tzbH5oeWxjSnZ1fWx5e0x0d3uAWnt5cHVuelt2VXxzc0FBanNoenozEScnJydkQhERJycnJzYxMREnJycnJzEnW29sJ2h3d3Nwamh7cHZ1LnoneXZ8e2wndHBra3Nsfmh5bCdueXZ8d3o1EScnJycnMREnJycnJzEnR31oeSdoeXlogEN6e3lwdW4zJ2h5eWiAQ3B1ezMnanNoeno0ent5cHVug3p7eXB1bkVFEScnJycnMTYRJycnJ3d5dntsantsaycrdHBra3Nsfmh5bE55dnx3eidEJ2IRJycnJycnJycufmxpLidERSdiY0h3d2NPe3t3Y1Rwa2tzbH5oeWxjTHVqeYB3e0p2dnJwbHpBQWpzaHp6MydjUHNzfHRwdWh7bGNKdnZycGxjVHBra3Nsfmh5bGNIa2tYfGx8bGtKdnZycGx6W3ZZbHp3dnV6bEFBanNoenozJ2NQc3N8dHB1aHtsY1psenpwdnVjVHBra3Nsfmh5bGNae2h5e1psenpwdnVBQWpzaHp6MydjUHNzfHRwdWh7bGNdcGx+Y1Rwa2tzbH5oeWxjWm9oeWxMeXl2eXpNeXZ0Wmx6enB2dUFBanNoenozJ2NId3djT3t7d2NUcGtrc2x+aHlsY11seXBtgEp6eW1bdnJsdUFBanNoenozJ2NQc3N8dHB1aHtsY1l2fHtwdW5jVHBra3Nsfmh5bGNafGl6e3B7fHtsSXB1a3B1bnpBQWpzaHp6ZDMREScnJycnJycnLmh3cC4nREUnYmNTaHlofWxzY1podWp7fHRjT3t7d2NUcGtrc2x+aHlsY0x1enx5bE15dnV7bHVrWWx4fGx6e3pIeWxae2h7bG18c0FBanNoenozJ2NQc3N8dHB1aHtsY1l2fHtwdW5jVHBra3Nsfmh5bGNbb3l2e3tzbFlseHxsent6QUFqc2h6eic1Jy5BaHdwLjMnY1Bzc3x0cHVoe2xjWXZ8e3B1bmNUcGtrc2x+aHlsY1p8aXp7cHt8e2xJcHVrcHVuekFBanNoenpkMxEnJycnZEIREScnJyc2MTERJycnJycxJ1tvbCdod3dzcGpoe3B2dS56J3Rwa2tzbH5oeWwnaHNwaHpsejURJycnJycxEScnJycnMSdIc3Boemx6J3RogCdpbCd8emxrJ3B1entsaGsndm0nanNoenondWh0bHone3YnanZ1fWx1cGx1e3OAJ2h6enBudSd0cGtrc2x+aHlsJ3t2J3l2fHtseidodWsnbnl2fHd6NREnJycnJzERJycnJycxJ0d9aHknaHl5aIBDent5cHVuMydqc2h6ejR6e3lwdW6Dent5cHVuRREnJycnJzE2EScnJyd3eXZ7bGp7bGsnK3Rwa2tzbH5oeWxIc3Boemx6J0QnYhEnJycnJycnJy5ofHtvLidERSdjSHd3Y097e3djVHBra3Nsfmh5bGNIfHtvbHV7cGpoe2xBQWpzaHp6MxEnJycnJycnJy5ofHtvNWloenBqLidERSdjUHNzfHRwdWh7bGNIfHtvY1Rwa2tzbH5oeWxjSHx7b2x1e3BqaHtsXnB7b0loenBqSHx7b0FBanNoenozEScnJycnJycnLmh8e281emx6enB2dS4nREUnY1Bzc3x0cHVoe2xjWmx6enB2dWNUcGtrc2x+aHlsY0h8e29sdXtwamh7bFpsenpwdnVBQWpzaHp6MxEnJycnJycnJy5qaGpvbDVvbGhrbHl6LidERSdjUHNzfHRwdWh7bGNPe3t3Y1Rwa2tzbH5oeWxjWmx7Smhqb2xPbGhrbHl6QUFqc2h6ejMRJycnJycnJycuamh1LidERSdjUHNzfHRwdWh7bGNIfHtvY1Rwa2tzbH5oeWxjSHx7b3Z5cIFsQUFqc2h6ejMRJycnJycnJycubnxsensuJ0RFJ2NId3djT3t7d2NUcGtrc2x+aHlsY1lsa3B5bGp7UG1IfHtvbHV7cGpoe2xrQUFqc2h6ejMRJycnJycnJycud2h6en52eWs1anZ1bXB5dC4nREUnY1Bzc3x0cHVoe2xjSHx7b2NUcGtrc2x+aHlsY1lseHxweWxXaHp6fnZ5a0FBanNoenozEScnJycnJycnLnd5bGp2bnVwe3B9bC4nREUnY1Bzc3x0cHVoe2xjTXZ8dWtoe3B2dWNPe3t3Y1Rwa2tzbH5oeWxjT2h1a3NsV3lsanZudXB7cH1sWWx4fGx6e3pBQWpzaHp6MxEnJycnJycnJy56cG51bGsuJ0RFJ2NId3djT3t7d2NUcGtrc2x+aHlsY11oc3BraHtsWnBudWh7fHlsQUFqc2h6ejMRJycnJycnJycue295dnt7c2wuJ0RFJ2NQc3N8dHB1aHtsY1l2fHtwdW5jVHBra3Nsfmh5bGNbb3l2e3tzbFlseHxsent6QUFqc2h6ejMRJycnJycnJycufWx5cG1wbGsuJ0RFJ2NQc3N8dHB1aHtsY0h8e29jVHBra3Nsfmh5bGNMdXp8eWxMdGhwc1B6XWx5cG1wbGtBQWpzaHp6MxEnJycnJycnJy55bHp7eXBqe1l2c2wuJ0RFJ2NId3djT3t7d2NUcGtrc2x+aHlsY0pvbGpyWXZzbEFBanNoenozEScnJycnJycnLnd2fmx5d3o1c3BqbHV6bC4nREUnY0h3d2NPe3t3Y1Rwa2tzbH5oeWxjSm9sanJXdn5seVd6U3BqbHV6bEFBanNoenozEScnJydkQhGEEQ==
+
+namespace App\Http;
+
+use Illuminate\Foundation\Http\Kernel as HttpKernel;
+
+class Kernel extends HttpKernel
+{
+    /**
+     * The application's global HTTP middleware stack.
+     *
+     * These middleware are run during every request to your application.
+     *
+     * @var array<int, class-string|string>
+     */
+    protected $middleware = [
+        // \App\Http\Middleware\TrustHosts::class,
+        \App\Http\Middleware\TrustProxies::class,
+        \Illuminate\Http\Middleware\HandleCors::class,
+        \App\Http\Middleware\PreventRequestsDuringMaintenance::class,
+        \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
+        \App\Http\Middleware\TrimStrings::class,
+        \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
+    ];
+
+    /**
+     * The application's route middleware groups.
+     *
+     * @var array<string, array<int, class-string|string>>
+     */
+    protected $middlewareGroups = [
+        'web' => [\App\Http\Middleware\EncryptCookies::class, \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class, \Illuminate\Session\Middleware\StartSession::class, \Illuminate\View\Middleware\ShareErrorsFromSession::class, \App\Http\Middleware\VerifyCsrfToken::class, \Illuminate\Routing\Middleware\SubstituteBindings::class],
+
+        'api' => [\Laravel\Sanctum\Http\Middleware\EnsureFrontendRequestsAreStateful::class, \Illuminate\Routing\Middleware\ThrottleRequests::class . ':api', \Illuminate\Routing\Middleware\SubstituteBindings::class],
+    ];
+
+    /**
+     * The application's middleware aliases.
+     *
+     * Aliases may be used instead of class names to conveniently assign middleware to routes and groups.
+     *
+     * @var array<string, class-string|string>
+     */
+    protected $middlewareAliases = [
+        'auth' => \App\Http\Middleware\Authenticate::class,
+        'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
+        'auth.session' => \Illuminate\Session\Middleware\AuthenticateSession::class,
+        'cache.headers' => \Illuminate\Http\Middleware\SetCacheHeaders::class,
+        'can' => \Illuminate\Auth\Middleware\Authorize::class,
+        'guest' => \App\Http\Middleware\RedirectIfAuthenticated::class,
+        'password.confirm' => \Illuminate\Auth\Middleware\RequirePassword::class,
+        'precognitive' => \Illuminate\Foundation\Http\Middleware\HandlePrecognitiveRequests::class,
+        'signed' => \App\Http\Middleware\ValidateSignature::class,
+        'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
+        'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
+        'restrictRole' => \App\Http\Middleware\CheckRole::class,
+        'powerps.license' => \App\Http\Middleware\CheckPowerPsLicense::class,
+    ];
+}

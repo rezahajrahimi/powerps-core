@@ -1,3 +1,132 @@
 <?php
-bolt_decrypt( __FILE__ , 'Bp9BR6'); return 0;
-##!!!##v78jFiIaKCUWGBrV9iUlEf0pKSUR+CQjKSckISEaJyjwv78qKBrV9iUlEQIkGRohKBH2JSUhHhgWKR4kI/C/Kiga1f4hISoiHiMWKRoR/SkpJREHGiYqGigp8L+/GCEWKCjV9iUlIR4YFikeJCP4JCMpJyQhIRon1RotKRojGSjV+CQjKSckISEaJ78wv9XV1dUlKhchHhjVGyojGCkeJCPVHBop9iEh9iUhHhgWKR4kIwEeKCnd3r/V1dXVML/V1dXV1dXV1SknLtUwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI9Xy1fYlJSEeGBYpHiQj7+8WISHd3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd2RYlJSEeGBYpHiQj4dXn5eXe8L/V1dXV1dXV1TLVGBYpGB3V3REJHSckLBYXIRrV2Skd3tUwv9XV1dXV1dXV1dXV1REBJBzv7x4jGyTd1wkdJyQsFhchGtXZKR3X3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd3AgaJysaJ9X6JyckJ9zh1erl5d7wv9XV1dXV1dXVMr/V1dXVMr/V1dXVJSoXIR4Y1RsqIxgpHiQj1RwaKfYhIfYYKR4rGvYlIR4YFikeJCMBHigp3d6/1dXV1TC/1dXV1dXV1dUpJy7VML/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPV8tX2JSUhHhgWKR4kI+/vLB0aJxrd3B4oFBYYKR4rGtzh1SknKhre4vMcGind3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd2RYlJSEeGBYpHiQj4dXn5eXe8L/V1dXV1dXV1TLVGBYpGB3V3REJHSckLBYXIRrV2Skd3tUwv9XV1dXV1dXV1dXV1REBJBzv7x4jGyTd1wkdJyQsFhchGtXZKR3X3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd3AgaJysaJ9X6JyckJ9zh1erl5d7wv9XV1dXV1dXVMr/V1dXVMr/V1dXVJSoXIR4Y1RsqIxgpHiQj1RwaKfYhIfYYKR4rGvYlIR4YFikeJCMBHigp9y4ECN3ZJCjev9XV1dUwv9XV1dXV1dXVKScu1TC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj1fLV9iUlIR4YFikeJCPv7ywdGica3dweKBQWGCkeKxrc4dUpJyoa3r/V1dXV1dXV1dXV1dXV1dXV4vMsHRonGt3cJCjc4dXZJCjev9XV1dXV1dXV1dXV1dXV1dXi8xwaKd3e8L/V1dXV1dXV1dXV1dUnGikqJyPV2RYlJSEeGBYpHiQj8L/V1dXV1dXV1TLVGBYpGB3V3REJHSckLBYXIRrV2Skd3tUwv9XV1dXV1dXV1dXV1REBJBzv7x4jGyTd1wkdJyQsFhchGtXZKR3X3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd3AgaJysaJ9X6JyckJ9zh1erl5d7wv9XV1dXV1dXVMr/V1dXVMr/V1dXVJSoXIR4Y1RsqIxgpHiQj1RwaKfYlJSEeGBYpHiQjBAgaKN3e1TC/1dXV1dXV1dUpJy7VML/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPV8tX2JSUhHhgWKR4kI+/vKBohGhgp3dwkKNzev9XV1dXV1dXV1dXV1eLzLB0aJxrd3B4oFBYYKR4rGtzh1SknKhrev9XV1dXV1dXV1dXV1eLzJCcZGicXLt3cJCjc3r/V1dXV1dXV1dXV1dXi8xkeKCkeIxgp3d6/v9XV1dXV1dXV1dXV1eLzHBop3d7wv9XV1dXV1dXV1dXV1ScaKSonI9XZFiUlIR4YFikeJCPwv9XV1dXV1dXVMtUYFikYHdXdEQkdJyQsFhchGtXZKR3e1TC/1dXV1dXV1dXV1dXVEQEkHO/vHiMbJN3XCR0nJCwWFyEa1dkpHdfe8L/V1dXV1dXV1dXV1dUnGikqJyPVJxooJSQjKBrd3uLzHygkI93cCBonKxon1fonJyQn3OHV6uXl3vC/1dXV1dXV1dUyv9XV1dUyv9XV1dUlKhchHhjVGyojGCkeJCPVHBop9hgpHisa9iUhHhgWKR4kIwEeKCn3LgMWIhrd2SMWIhrev9XV1dUwv9XV1dXV1dXVKScu1TC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj1fLV9iUlIR4YFikeJCPv7ywdGica3dweKBQWGCkeKxrc4dUpJyoa3r/V1dXV1dXV1dXV1dXV1dXV4vMsHRonGt3cIxYiGtzh1dkjFiIa3r/V1dXV1dXV1dXV1dXV1dXV4vMbHicoKd3e8L/V1dXV1dXV1dXV1dUnGikqJyPVJxooJSQjKBrd3uLzHygkI93ZFiUlIR4YFikeJCPh1efl5d7wv9XV1dXV1dXVMtUYFikYHdXdEQkdJyQsFhchGtXZKR3e1TC/1dXV1dXV1dXV1dXVEQEkHO/vHiMbJN3XCR0nJCwWFyEa1dkpHdfe8L/V1dXV1dXV1dXV1dUnGikqJyPVJxooJSQjKBrd3uLzHygkI93cCBonKxon1fonJyQn3OHV6uXl3vC/1dXV1dXV1dUyv9XV1dUyv9XV1dUlKhchHhjVGyojGCkeJCPVHBop9hgpHisa9iUhHhgWKR4kI/cu/vnd2R4Z3r/V1dXVML/V1dXV1dXV1SknLtUwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI9Xy1fYlJSEeGBYpHiQj7+8sHRonGt3cHigUFhgpHisa3OHVKScqGt6/1dXV1dXV1dXV1dXV1dXV1eLzLB0aJxrd3B4Z3OHV2R4Z3r/V1dXV1dXV1dXV1dXV1dXV4vMbHicoKd3e8L/V1dXV1dXV1dXV1dUnGikqJyPV2RYlJSEeGBYpHiQj8L/V1dXV1dXV1TLVGBYpGB3V3REJHSckLBYXIRrV2Skd3tUwv9XV1dXV1dXV1dXV1REBJBzv7x4jGyTd1wkdJyQsFhchGtXZKR3X3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd3AgaJysaJ9X6JyckJ9zh1erl5d7wv9XV1dXV1dXVMr/V1dXVMr/V1dXVJSoXIR4Y1RsqIxgpHiQj1RgnGhYpGgMaLPYlJSEeGBYpHiQj3QcaJioaKCnV2ScaJioaKCnev9XV1dUwv9XV1dXV1dXVKScu1TC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj1fLVIxos1fYlJSEeGBYpHiQj3d7wv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzIxYiGtXy1dknGiYqGigp4vMjFiIa8L/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPi8xkkLCMhJBYZFCEeIyDV8tXZJxomKhooKeLzGSQsIyEkFhkUIR4jIPC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMbHiEaFCgnGNXy1dknGiYqGigp4vMbHiEaFCgnGPC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMkKNXy1dknGiYqGigp4vMkKPC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMdJCwUKSQUKiga1fLV2ScaJioaKCni8x0kLBQpJBQqKBrwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzLiQqKSoXGhQhHiMg1fLV2ScaJioaKCni8y4kKikqFxoUIR4jIPC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMeKBQWGCkeKxrV8tXZJxomKhooKeLzHigUFhgpHisa1fLy1dcpJyoa19UxMdknGiYqGigp4vMeKBQWGCkeKxrV8vLV5tX01SknKhrV79UbFiEoGtXV1fC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMZGigYJx4lKR4kI9Xy1dknGiYqGigp4vMZGigYJx4lKR4kI/C/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMoFisa3d7wv9XV1dXV1dXV1dXV1ScaKSonI9UnGiglJCMoGt3e4vMfKCQj3dkWJSUhHhgWKR4kI+HV5+Xl3vC/v9XV1dXV1dXVMtUYFikYHdXdEQkdJyQsFhchGtXZKR3e1TC/1dXV1dXV1dXV1dXVEQEkHO/vHiMbJN3XCR0nJCwWFyEa1dkpHdfe8L/V1dXV1dXV1dXV1dUnGikqJyPVJxooJSQjKBrd3uLzHygkI93cCBonKxon1fonJyQn3OHV6uXl3vC/1dXV1dXV1dUyv9XV1dUyv9XV1dUlKhchHhjVGyojGCkeJCPVKiUZFika9iUlIR4YFikeJCPdBxomKhooKdXZJxomKhooKd6/1dXV1TC/1dXV1dXV1dUpJy7VML/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPV8tX2JSUhHhgWKR4kI+/vGx4jGQQn+xYeId3ZJxomKhooKeLzHhne8L/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPi8yMWIhrV8tXZJxomKhooKeLzIxYiGvC/1dXV1dXV1dXV1dXV2RYlJSEeGBYpHiQj4vMZJCwjISQWGRQhHiMg1fLV2ScaJioaKCni8xkkLCMhJBYZFCEeIyDwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzGx4hGhQoJxjV8tXZJxomKhooKeLzGx4hGhQoJxjwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzJCjV8tXZJxomKhooKeLzJCjwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzHSQsFCkkFCooGtXy1dknGiYqGigp4vMdJCwUKSQUKiga8L/V1dXV1dXV1dXV1dXZFiUlIR4YFikeJCPi8y4kKikqFxoUIR4jINXy1dknGiYqGigp4vMuJCopKhcaFCEeIyDwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzHigUFhgpHisa1fLV2ScaJioaKCni8x4oFBYYKR4rGtXy8tXXKScqGtfVMTHZJxomKhooKeLzHigUFhgpHisa1fLy1ebV9NUpJyoa1e/VGxYhKBrV1dXwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzGRooGCceJSkeJCPV8tXZJxomKhooKeLzGRooGCceJSkeJCPwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzKiUZFika3d7wv9XV1dXV1dXV1dXV1ScaKSonI9UnGiglJCMoGt3e4vMfKCQj3dkWJSUhHhgWKR4kI+HV5+Xl3vC/v9XV1dXV1dXVMtUYFikYHdXdEQkdJyQsFhchGtXZKR3e1TC/1dXV1dXV1dXV1dXVEQEkHO/vHiMbJN3XCR0nJCwWFyEa1dkpHdfe8L/V1dXV1dXV1dXV1dUnGikqJyPVJxooJSQjKBrd3uLzHygkI93cCBonKxon1fonJyQn3OHV6uXl3vC/1dXV1dXV1dUyv9XV1dUyv9XV1dUlKhchHhjVGyojGCkeJCPVGRohGika9iUlIR4YFikeJCPd2R4Z3r/V1dXVML/V1dXV1dXV1SknLtUwv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI9Xy1fYlJSEeGBYpHiQj7+8bHiMZBCf7Fh4h3dkeGd7wv9XV1dXV1dXV1dXV1dkWJSUhHhgWKR4kI+LzGRohGika3d7wv9XV1dXV1dXV1dXV1ScaKSonI9UnGiglJCMoGt3e4vMfKCQj3SknKhrh1efl5d7wv7/V1dXV1dXV1TLVGBYpGB3V3REJHSckLBYXIRrV2Skd3tUwv9XV1dXV1dXV1dXV1REBJBzv7x4jGyTd1wkdJyQsFhchGtXZKR3X3vC/1dXV1dXV1dXV1dXVJxopKicj1ScaKCUkIyga3d7i8x8oJCPd3AgaJysaJ9X6JyckJ9zh1erl5d7wv9XV1dXV1dXVMr/V1dXVMr8yvw==
+
+namespace App\Http\Controllers;
+
+use App\Models\Application;
+use Illuminate\Http\Request;
+
+class ApplicationController extends Controller
+{
+    public function getAllAplicationList()
+    {
+        try {
+            $application = Application::all();
+            return response()->json($application, 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getAllActiveAplicationList()
+    {
+        try {
+            $application = Application::where('is_active', true)->get();
+            return response()->json($application, 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getAllActiveAplicationListByOS($os)
+    {
+        try {
+            $application = Application::where('is_active', true)
+                ->where('os', $os)
+                ->get();
+            return $application;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getApplicationOSes() {
+        try {
+            $application = Application::select('os')
+            ->where('is_active', true)
+            ->orderby('os')
+            ->distinct()
+
+            ->get();
+            return $application;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getActiveAplicationListByName($name)
+    {
+        try {
+            $application = Application::where('is_active', true)
+                ->where('name', $name)
+                ->first();
+            return response()->json($application, 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function getActiveAplicationByID($id)
+    {
+        try {
+            $application = Application::where('is_active', true)
+                ->where('id', $id)
+                ->first();
+            return $application;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function createNewApplication(Request $request)
+    {
+        try {
+            $application = new Application();
+            $application->name = $request->name;
+            $application->download_link = $request->download_link;
+            $application->file_src = $request->file_src;
+            $application->os = $request->os;
+            $application->how_to_use = $request->how_to_use;
+            $application->youtube_link = $request->youtube_link;
+            $application->is_active = $request->is_active == "true" ||$request->is_active == 1 ? true : false   ;
+            $application->description = $request->description;
+            $application->save();
+            return response()->json($application, 200);
+
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function updateApplication(Request $request)
+    {
+        try {
+            $application = Application::findOrFail($request->id);
+            $application->name = $request->name;
+            $application->download_link = $request->download_link;
+            $application->file_src = $request->file_src;
+            $application->os = $request->os;
+            $application->how_to_use = $request->how_to_use;
+            $application->youtube_link = $request->youtube_link;
+            $application->is_active = $request->is_active == "true" ||$request->is_active == 1 ? true : false   ;
+            $application->description = $request->description;
+            $application->update();
+            return response()->json($application, 200);
+
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function deleteApplication($id)
+    {
+        try {
+            $application = Application::findOrFail($id);
+            $application->delete();
+            return response()->json(true, 200);
+
+        } catch (\Throwable $th) {
+            \Log::info("Throwable $th");
+            return response()->json('Server Error', 500);
+        }
+    }
+}

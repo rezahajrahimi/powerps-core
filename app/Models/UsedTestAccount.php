@@ -1,3 +1,29 @@
 <?php
-bolt_decrypt( __FILE__ , 'mpThbr'); return 0;
-##!!!##d3fbztrS4N3O0NKNrt3dybrc0dLZ4Kh3d+Lg0o222dni2tbbzuHSybHO4c7PzuDSybLZ3N7i0tvhybPO0OHc39bS4Mm1zuCzztDh3N/mqHfi4NKNttnZ4trW287h0smxzuHOz87g0smy2dze4tLb4cm63NHS2ah34uDSjbbZ2eLa1tvO4dLJsc7hzs/O4NLJstnc3uLS2+HJv9LZzuHW3Nvgya/S2dzb1ODB3Kh3d9DZzuDgjcLg0tHB0uDhrtDQ3OLb4Y3S5eHS29Hgjbrc0dLZd+h3jY2NjeLg0o21zuCzztDh3N/mqHeNjY2N3d/c4dLQ4dLRjZHU4s7f0dLRjaqNyJTW0ZTKqHeNjY2N3d/c4dLQ4dLRjZHT1tnZzs/Z0o2qjciU4dLg4czO0NDc4tvhzNbRlJmNlM7Q0Nzi2+HM1tGUyqh3jY2NjZyXl3eNjY2NjZeNtNLhjeHV0o3i4NLfjeHVzuGN3OTb4I3h1dKNwuDS0cHS4OGu0NDc4tvhd42NjY2Nl3eNjY2NjZeNrd/S4eLf243JttnZ4trW287h0smxzuHOz87g0smy2dze4tLb4cm/0tnO4dbc2+DJr9LZ3NvU4MHcd42NjY2Nl5x3jY2Njd3iz9nW0I3T4tvQ4dbc243i4NLflZanja/S2dzb1ODB3HeNjY2N6HeNjY2NjY2Njd/S4eLf242R4dXW4Jqrz9LZ3NvU4MHclcLg0t+np9DZzuDgmY2UztDQ3OLb4czW0ZSWqHeNjY2N6nd3jY2Njd3iz9nW0I3T4tvQ4dbc243h0uDhrtDQ3OLb4ZWWp42v0tnc29Tgwdx3jY2Njeh3jY2NjY2NjY3f0uHi39uNkeHV1uCaq8/S2dzb1ODB3JXB0uDhrtDQ3OLb4aen0NnO4OCZjZTh0uDhzM7Q0Nzi2+HM1tGUlqh3jY2Njep3d+p3
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+
+class UsedTestAccount extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['test_account_id', 'account_id'];
+    /**
+     * Get the user that owns the UsedTestAccount
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function user(): BelongsTo
+    {
+        return $this->belongsTo(User::class, 'account_id');
+    }
+
+    public function testAccount(): BelongsTo
+    {
+        return $this->belongsTo(TestAccount::class, 'test_account_id');
+    }
+
+}

@@ -1,3 +1,42 @@
 <?php
-bolt_decrypt( __FILE__ , 'zIqEFx'); return 0;
-##!!!##QUGlmKScqqeYmpxXeKenk4Smm5yjqnJBQayqnFeAo6OspKClmKuck3uYq5iZmKqck3yjpqisnKWrk32YmqumqaCcqpN/mKp9mJqrpqmwckGsqpxXgKOjrKSgpZirnJN7mKuYmZiqnJN8o6aorJylq5OEppuco3JBQZqjmKqqV4qfnKuYmY2cqaCdsFecr6ucpZuqV4Smm5yjQbJBV1dXV6yqnFd/mKp9mJqrpqmwckFXV1dXp6mmq5yaq5ybV1urmJmjnFd0V16qn5yrmJmWrZypoJ2gnKpeckFXV1dXp6mmq5yaq5ybV1udoKOjmJmjnFd0V5JBV1dXV1dXV1derKqcqZagm15jQVdXV1dXV1dXXqepppusmquWmpirnJ6mqbCWoJteY0FXV1dXV1dXV16YpKaspateY0FXV1dXV1dXV16ZmKqclpikpqylq15jQVdXV1dXV1dXXqupmJqioKWelpqmm5xeY0FXV1dXV1dXV16qq5irrKpeY0FXV1dXlHJBQVdXV1enrJmjoJpXnaylmqugpqVXp6mmm6yaq3qYq5yepqmwX2BBV1dXV7JBV1dXV1dXV1epnKusqaVXW6ufoKpkdZmco6alnqqLpl+HqaabrJqrepirnJ6mqbBxcZqjmKqqY1dep6mmm6yaq5aamKucnqapsJagm15gckFXV1dXtEFXV1dXp6yZo6CaV52spZqroKalV6yqnKlfYEFXV1dXskFXV1dXV1dXV6mcq6yppVdbq5+gqmR1mZyjpqWeqoumX4yqnKlxcZqjmKqqYHJBV1dXV7RBQVdXV1enrJmjoJpXnaylmqugpqVXqpqmp5yHnKWboKWeX1uorJypsGBBV1dXV7JBV1dXV1dXV1epnKusqaVXW6isnKmwZHWun5ypnF9eqquYq6yqXmNXXqecpZugpZ5eYHJBV1dXV7RBV1dXV6esmaOgmledrKWaq6CmpVeqmqannI2cqaCdoJybX1uorJypsGBBV1dXV7JBV1dXV1dXV1epnKusqaVXW6isnKmwZHWun5ypnF9eqquYq6yqXmNXXq2cqaCdoJybXmByQVdXV1e0QVdXV1enrJmjoJpXnaylmqugpqVXqpqmp5yJnKGcmqucm19bqKycqbBgQVdXV1eyQVdXV1dXV1dXqZyrrKmlV1uorJypsGR1rp+cqZxfXqqrmKusql5jV16pnKGcmqucm15gckFXV1dXtEG0QQ==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ShetabVerify extends Model
+{
+    use HasFactory;
+    protected $table = 'shetab_verifies';
+    protected $fillable = [
+        'user_id',
+        'product_category_id',
+        'amount',
+        'base_amount',
+        'tracking_code',
+        'status',
+    ];
+
+    public function productCategory()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_category_id');
+    }
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
+
+    public function scopePending($query)
+    {
+        return $query->where('status', 'pending');
+    }
+    public function scopeVerified($query)
+    {
+        return $query->where('status', 'verified');
+    }
+    public function scopeRejected($query)
+    {
+        return $query->where('status', 'rejected');
+    }
+}

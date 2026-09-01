@@ -1,3 +1,134 @@
 <?php
-bolt_decrypt( __FILE__ , 'JPU4J2'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\ReferralSetting;
+use Illuminate\Http\Request;
+
+class ReferralSettingController extends Controller
+{
+    public function get_referral_setting()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                return $referralSetting;
+            } else {
+                // creater referral setting
+                $referralSetting = new ReferralSetting();
+                $referralSetting->description = 'با ارسال این لینک به دوستان خود، با هر بار واریزی آنها، امتیاز بگیرید.';
+                $referralSetting->visit_card_text = '🔥فروش پروکسی اختصاصی با بروزترین پروتکل ها \r\n 🏐 قابل استفاده در تلگرام و تمامی دستگاه ها به عنوان فیلترشکن \r\n ⏰ تجهیز شده با کانکشن هوشمند (بیش از 20 سرور برای هر کاربر) \r\n 📬فاقد هر گونه تبلیغات! \r\n ✔️پشتیبانی ۲۴/۷ \r\n ♾بدون قطعی و کندی سرعت \r\n💰 خرید: \r\n';
+
+                $referralSetting->referral_percent = 10.0;
+                $referralSetting->is_active = true;
+
+                $referralSetting->save();
+                return $referralSetting;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_setting: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function update_referral_setting(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'description' => 'required|string|max:4000',
+                'visit_card_text' => 'required|string|max:4000',
+                'referral_percent' => 'required|numeric|min:0|max:100',
+                'is_active' => 'required|boolean',
+            ]);
+
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                $referralSetting->description = $validated['description'];
+                $referralSetting->visit_card_text = $validated['visit_card_text'];
+                $referralSetting->referral_percent = $validated['referral_percent'];
+                $referralSetting->is_active = $validated['is_active'];
+                $referralSetting->update();
+
+                return $referralSetting;
+            } else {
+                return response()->json(null, 404);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable update_referral_setting: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function check_referral_setting_is_active()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                if ($referralSetting->is_active == true || $referralSetting->is_active == 1) {
+                    return true;
+                } else {
+                    return false;
+                }
+            } else {
+                return false;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable check_referral_setting: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function get_referral_setting_description()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                return $referralSetting->description;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_setting_description: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function get_referral_setting_visit_card_text()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                return $referralSetting->visit_card_text;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_setting_description: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function get_referral_setting_referral_percent()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                return $referralSetting->referral_percent;
+            } else {
+                return 0;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_setting_referral_percent: $th");
+            return response()->json(null, 500);
+        }
+    }
+    public function change_referral_setting_activity()
+    {
+        try {
+            $referralSetting = ReferralSetting::first();
+            if ($referralSetting != null) {
+                return $referralSetting->is_active;
+            } else {
+                return false;
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_referral_setting_is_active: $th");
+            return response()->json(null, 500);
+        }
+    }
+}

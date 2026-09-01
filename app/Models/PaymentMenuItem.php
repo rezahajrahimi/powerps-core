@@ -1,3 +1,14 @@
 <?php
-bolt_decrypt( __FILE__ , 'RLcWFn'); return 0;
-##!!!##FhZ6bXlxf3xtb3EsTXx8aFl7cHF4f0cWFoF/cSxVeHiBeXV6bYBxaFBtgG1ubX9xaFF4e32BcXqAaFJtb4B7fnVxf2hUbX9SbW+Ae36FRxaBf3EsVXh4gXl1em2AcWhQbYBtbm1/cWhReHt9gXF6gGhZe3BxeEcWFm94bX9/LFxthXlxeoBZcXqBVYBxeSxxhIBxenB/LFl7cHF4FocWLCwsLIF/cSxUbX9SbW+Ae36FRxYsLCwsfH57gHFvgHFwLDBzgW1+cHFwLEksZzN1cDNpRxYsLCwsfH57gHFvgHFwLDBydXh4bW54cSxJLGczem15cTM4LDNteHVtf2t6bXlxMzgsM3hxgnF4M2lHFhaJFg==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class PaymentMenuItem extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'alias_name', 'level'];
+
+}

@@ -1,3 +1,30 @@
 <?php
-bolt_decrypt( __FILE__ , 'CsZMqZ'); return 0;
-##!!!##MjKWiZWNm5iJi41IaZiYhHCcnJiEa5eWnJqXlJSNmptjMp2bjUhpmJiEdZeMjZSbhHWNlp10jZ6NlGMyMp2bjUhxlJSdlZGWiZyNhHCcnJiEeo2ZnY2bnGMyMouUiZubSHWNlp10jZ6NlGuXlpyal5SUjZpIjaCcjZaMm0hrl5acmpeUlI2aMqMySEhISJidipSRi0iOnZaLnJGXlkiPjZx9m42adI2ejZRQTImLi5edlpyHkYxRMkhISEijMkhISEhISEhITIyJnIlIZUh1jZaddI2ejZRiYp+QjZqNUE+Ji4uXnZach5GMT1RITImLi5edlpyHkYxRVWaOkZqbnFBRYzJISEhISEhISJGOSFBMjImciUhJZUiWnZSUUUijMkhISEhISEhISEhISJqNnJ2alkhMjImciVVmlI2ejZRjMkhISEhISEhIpUiNlJuNSKMySEhISEhISEhISEhImo2cnZqWSFhjMkhISEhISEhIpTJISEhIpTJISEhImJ2KlJGLSI6dlouckZeWSJaNn32bjZp0jZ6NlFBMiYuLl52WnIeRjFRMlI2ejZRRMkhISEijMkhISEhISEhITIyJnIlIZUh1jZaddI2ejZRiYp+QjZqNUE+Ji4uXnZach5GMT1RITImLi5edlpyHkYxRVWaOkZqbnFBRYzJISEhISEhISJGOSFBMjImciUhJZUiWnZSUUUijMkhISEhISEhISEhISEyMiZyJVWaUjZ6NlEhlSEyUjZ6NlGMySEhISEhISEhISEhITIyJnIlVZp2YjImcjWMySEhISEhISEhISEhImo2cnZqWSJyanY1jMkhISEhISEhIpUiNlJuNSKMySEhISEhISEhISEhImo2cnZqWSI6JlJuNYzJISEhISEhISKUySEhISKUypTI=
+
+namespace App\Http\Controllers;
+use App\Models\MenuLevel;
+
+use Illuminate\Http\Request;
+
+class MenuLevelController extends Controller
+{
+    public function getUserLevel($account_id)
+    {
+        $data = MenuLevel::where('account_id', $account_id)->first();
+        if ($data != null) {
+            return $data->level;
+        } else {
+            return 0;
+        }
+    }
+    public function newUserLevel($account_id,$level)
+    {
+        $data = MenuLevel::where('account_id', $account_id)->first();
+        if ($data != null) {
+            $data->level = $level;
+            $data->update;
+            return true;
+        } else {
+            return false;
+        }
+    }
+}

@@ -1,3 +1,431 @@
 <?php
-bolt_decrypt( __FILE__ , '5tlel0'); return 0;
-##!!!##ICCEd4N7iYZ3eXs2V4aGcml7iIx/eXuJUSAgi4l7NleGhnJjhXp7golyYoWPd4KKj2l7iop/hH1RIIuJezZXhoZyY4V6e4KJcmKFj3eCio9qiHeEiXd5in+FhFEgi4l7NleGhnJjhXp7golyYoWPd4KKj213goJ7ilEgi4l7NleGhnJjhXp7golya4l7iFEgIHmCd4mJNmKFj3eCio9mhX+Eiolpe4iMf3l7IJEgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ1dXmFhImKiIt5ij4gNjY2NjY2NjaGiH+Md4p7Noh7d3qFhIKPNmJ/eXuEiXtce3eKi4h7aXuIjH95ezY6gn95e4SJezZTNoR7jTZif3l7hIl7XHt3iouIe2l7iIx/eXs+P0IgNjY2Nj82kSA2NjY2kyAgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ/iWJ/eXuEiXt6Pj9QNniFhYIgNjY2NpEgNjY2NjY2NjaIe4qLiIQ2Oop+f4lDVIJ/eXuEiXtDVH+JaX+CjHuIZYhXeIWMez4/USA2NjY2kyAgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ9e4ppe4qKf4R9iT4/UDZVYoWPd4KKj2l7iop/hH0gNjY2NpEgNjY2NjY2NjaIe4qLiIQ2YoWPd4KKj2l7iop/hH1QUHx/iImKPj9RIDY2NjaTICA2NjY2hot4gn95NnyLhHmKf4WENn+JV3mKf4x7Pj9QNniFhYIgNjY2NpEgNjY2NjY2NjZ/fDY+NzY6in5/iUNUf4lif3l7hIl7ej4/PzaRIDY2NjY2NjY2NjY2Noh7iouIhDZ8d4KJe1EgNjY2NjY2NjaTICA2NjY2NjY2NjqJe4qKf4R9iTZTNjqKfn+JQ1R9e4ppe4qKf4R9iT4/USAgNjY2NjY2NjaIe4qLiIQ2Ool7iop/hH2JNjdTUzaEi4KCNjw8Nj54hYWCPzY6iXuKin+EfYlDVH+JdXd5in+Me1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2eXeEaHt6e3uDPj9QNniFhYIgNjY2NpEgNjY2NjY2NjZ/fDY+NzY6in5/iUNUf4lXeYp/jHs+Pz82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2fHeCiXtRIDY2NjY2NjY2kyAgNjY2NjY2NjY6iXuKin+EfYk2UzY6in5/iUNUfXuKaXuKin+EfYk+P1EgIDY2NjY2NjY2iHuKi4iENjqJe4qKf4R9iTY3U1M2hIuCgjY8PDY+eIWFgj82Ool7iop/hH2JQ1SIe3p7e4N1e4R3eIJ7elEgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2iXt7elp7fHeLgoppe4qKf4R9iT4/UDZihY93goqPaXuKin+EfSA2NjY2kSA2NjY2NjY2Njp7jn+Jin+EfTZTNmKFj3eCio9pe4qKf4R9UFB8f4iJij4/USA2NjY2NjY2Nn98Nj46e45/iYp/hH02N1NTNoSLgoI/NpEgNjY2NjY2NjY2NjY2iHuKi4iENjp7jn+Jin+EfVEgNjY2NjY2NjaTICA2NjY2NjY2Noh7iouIhDZihY93goqPaXuKin+EfVBQeYh7d4p7PnEgNjY2NjY2NjY2NjY2PXp7iXmIf4aKf4WEPTZTVDY97r7uvTbvne7HNu7E7sfxou7F7qI27sDvm+7F8aLuxTbvnjbvnu697sfxou7INu6975vuwPGi7r3uyDbuvvDF8aLux/Gi7sU275427sXuxzbuxO7H8aLuxTbuvu7P7sXxojbuve7INu6475w27r3uye7A75fuve7F75028L/vnPGi7sVEPUIgNjY2NjY2NjY2NjY2PX+JdXd5in+Mez02U1Q2fHeCiXtCIDY2NjY2NjY2NjY2Nj17d4iEdYWEdYaLiHl+d4l7PTZTVDaKiIt7QiA2NjY2NjY2NjY2NjY9e3eIhHWFhHWIe4R7jXeCPTZTVDaKiIt7QiA2NjY2NjY2NjY2NjY9e3eIhHWFhHV6e4aFiX+KPTZTVDaKiIt7QiA2NjY2NjY2NjY2NjY9e3eIhHWFhHWIe3x7iIh3gj02U1Q2ioiLe0IgNjY2NjY2NjY2NjY2PYh7ent7g3V7hHd4gnt6PTZTVDaKiIt7QiA2NjY2NjY2NjY2NjY9houIeX53iXt1hoV/hIqJdYZ7iHVHRkZGdYqFg3eEPTZTVDZHRkIgNjY2NjY2NjY2NjY2PYh7hHuNd4J1hoV/hIqJPTZTVDZLRkIgNjY2NjY2NjY2NjY2PXp7hoWJf4p1hoV/hIqJdYZ7iHVHRkZGdYqFg3eEPTZTVDZLQiA2NjY2NjY2NjY2NjY9iHt8e4iId4J1iX99hIuGdYaFf4SKiT02U1Q2R0ZGQiA2NjY2NjY2NjY2NjY9ioWDd4R1hnuIdYaFf4SKPTZTVDZHRkIgNjY2NjY2NjY2NjY2PYN/hHWIe3p7e4N1hoV/hIqJPTZTVDZHRkZCIDY2NjY2NjY2NjY2Nj2Dd451iHt6e3uDdYZ7iHl7hIo9NlNUNktGQiA2NjY2NjY2NnM/USA2NjY2kyAgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ9e4pYd4J3hHl7WI9XeXmFi4SKX3o+f4SKkomKiH+EfTY6d3l5hYuEil96P1A2f4SKIDY2NjaRIDY2NjY2NjY2OouJe4g2UzZriXuIUFCNfnuIez49d3l5hYuEinV/ej1CNjp3eXmFi4SKX3o/Q1R8f4iJij4/USA2NjY2NjY2Nn98Nj46i4l7iDZTU1M2hIuCgj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2Noh7iouIhDY6in5/iUNUfXuKWHeCd4R5e1iPa4l7iF96Pj5/hIo/NjqLiXuIQ1R/ej9RIDY2NjaTICA2NjY2hot4gn95NnyLhHmKf4WENn17ilh3gneEeXtYj2uJe4hfej5/hIo2OouJe4hfej9QNn+EiiA2NjY2kSA2NjY2NjY2NjqNd4KCe4o2UzZihY93goqPbXeCgnuKUFCNfnuIez49i4l7iHV/ej1CNjqLiXuIX3o/Q1R8f4iJij4/USAgNjY2NjY2NjaIe4qLiIQ2Oo13goJ7ijY3U1M2hIuCgjZVNj5/hIo/NjqNd4KCe4pDVHh3gneEeXs2UDZGUSA2NjY2kyAgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ9e4pliFmIe3eKe213goJ7ij5/hIo2OouJe4hfej9QNmKFj3eCio9td4KCe4ogNjY2NpEgNjY2NjY2NjY6jXeCgnuKNlM2YoWPd4KKj213goJ7ilBQjX57iHs+PYuJe4h1f3o9QjY6i4l7iF96P0NUfH+IiYo+P1EgNjY2NjY2NjZ/fDY+Oo13goJ7ijY3U1M2hIuCgj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2Oo13goJ7ilEgNjY2NjY2NjaTICA2NjY2NjY2Noh7iouIhDZihY93goqPbXeCgnuKUFB5iHt3ins+cSA2NjY2NjY2NjY2NjY9i4l7iHV/ej02U1Q2OouJe4hfekIgNjY2NjY2NjY2NjY2PXh3gneEeXs9NlNUNkZCIDY2NjY2NjY2cz9RIDY2NjaTICA2NjY2RUBAIDY2NjY2QDZWiHuKi4iENneIiHePkYaIf3l7dYqFg3eEUDZ8goV3ikI2hoV/hIqJdYqFdYh7ent7g1A2f4SKQjaKhYN3hHV6f4l5hYuEilA2fIKFd4qTIDY2NjY2QEUgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ3hoaCj2h7enuDhop/hYRqhWaIf3l7PiA2NjY2NjY2Nn+EipKJioh/hH02Ond5eYWLhIpfekIgNjY2NjY2NjZ8goV3ijY6hYh6e4hXg4WLhIpqhYN3hEIgNjY2NjY2NjZ4hYWCNjqLiXtmhX+Eiok2UzaKiIt7QiA2NjY2NjY2NlV/hIo2Ooh7h4t7iYp7emaFf4SKiTZTNoSLgoJCIDY2NjY/UDZ3iIh3jzaRIDY2NjY2NjY2Onh3iXs2UzZxIDY2NjY2NjY2NjY2Nj2GiH95e3WKhYN3hD02U1Q2OoWIenuIV4OFi4SKaoWDd4RCIDY2NjY2NjY2NjY2Nj2GhX+Eiol1ioV1iHt6e3uDPTZTVDZGQiA2NjY2NjY2NjY2NjY9ioWDd4R1en+JeYWLhIo9NlNUNkZERkIgNjY2NjY2NjZzUSAgNjY2NjY2NjZ/fDY+NzY6in5/iUNUeXeEaHt6e3uDPj82kpI2NzY6i4l7ZoV/hIqJNpKSNjqFiHp7iFeDhYuEimqFg3eENlJTNkY/NpEgNjY2NjY2NjY2NjY2iHuKi4iENjp4d4l7USA2NjY2NjY2NpMgIDY2NjY2NjY2Ool7iop/hH2JNlM2Oop+f4lDVH17iml7iop/hH2JPj9RIDY2NjY2NjY2f3w2PjqJe4qKf4R9iTZTU1M2hIuCgj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2Onh3iXtRIDY2NjY2NjY2kyAgNjY2NjY2NjY6i4l7iDZTNmuJe4hQUI1+e4h7Pj13eXmFi4SKdX96PUI2Ond5eYWLhIpfej9DVHx/iImKPj9RIDY2NjY2NjY2f3w2PjqLiXuINlNTUzaEi4KCPzaRIDY2NjY2NjY2NjY2Noh7iouIhDY6eHeJe1EgNjY2NjY2NjaTICA2NjY2NjY2Njp4d4J3hHl7NlM2Oop+f4lDVH17ilh3gneEeXtYj2uJe4hfej4+f4SKPzY6i4l7iENUf3o/USA2NjY2NjY2Nn98Nj46eHeCd4R5ezZSNj5/hIo/NjqJe4qKf4R9iUNUg3+EdYh7ent7g3WGhX+Eiok/NpEgNjY2NjY2NjY2NjY2iHuKi4iENjp4d4l7USA2NjY2NjY2NpMgIDY2NjY2NjY2OoqFg3eEZnuIZoV/hIo2UzaDd44+R0I2Pn+Eij82Ool7iop/hH2JQ1SKhYN3hHWGe4h1hoV/hIo/USA2NjY2NjY2NjqDd45me4h5e4SKNlM2g3+EPkdGRkI2g3eOPkZCNj5/hIo/NjqJe4qKf4R9iUNUg3eOdYh7ent7g3WGe4h5e4SKPz9RIDY2NjY2NjY2OoN3jmqFg3eEWn+JeYWLhIo2UzY6hYh6e4hXg4WLhIpqhYN3hDZANj46g3eOZnuIeXuEijZFNkdGRj9RIDY2NjY2NjY2OoN3jmaFf4SKiViPZnuIeXuEijZTNj5/hIo/NnyChYWIPjqDd45qhYN3hFp/iXmFi4SKNkU2OoqFg3eEZnuIZoV/hIo/USA2NjY2NjY2NjqDd45mhX+Eiok2UzaDf4Q+Onh3gneEeXtCNjqDd45mhX+EiolYj2Z7iHl7hIo/USAgNjY2NjY2NjZ/fDY+Ooh7h4t7iYp7emaFf4SKiTY3U1M2hIuCgj82kSA2NjY2NjY2NjY2NjY6g3eOZoV/hIqJNlM2g3+EPjqDd45mhX+EiolCNoN3jj5GQjY6iHuHi3uJint6ZoV/hIqJPz9RIDY2NjY2NjY2kyAgNjY2NjY2NjZ/fDY+OoN3jmaFf4SKiTZSNj5/hIo/NjqJe4qKf4R9iUNUg3+EdYh7ent7g3WGhX+Eiok/NpEgNjY2NjY2NjY2NjY2iHuKi4iENjp4d4l7USA2NjY2NjY2NpMgIDY2NjY2NjY2OoqFg3eEWn+JeYWLhIo2UzY6g3eOZoV/hIqJNkA2OoqFg3eEZnuIZoV/hIpRIDY2NjY2NjY2OoqFg3eEWn+JeYWLhIo2UzaDf4Q+OoqFg3eEWn+JeYWLhIpCNjqFiHp7iFeDhYuEimqFg3eEP1EgIDY2NjY2NjY2iHuKi4iENnEgNjY2NjY2NjY2NjY2PYaIf3l7dYqFg3eEPTZTVDaDd44+RkRGQjY6hYh6e4hXg4WLhIpqhYN3hDZDNjqKhYN3hFp/iXmFi4SKP0IgNjY2NjY2NjY2NjY2PYaFf4SKiXWKhXWIe3p7e4M9NlNUNjqDd45mhX+EiolCIDY2NjY2NjY2NjY2Nj2KhYN3hHV6f4l5hYuEij02U1Q2OoqFg3eEWn+JeYWLhIpCIDY2NjY2NjY2c1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2iHt6e3uDZoV/hIqJPiA2NjY2NjY2Nn+EipKJioh/hH02Ond5eYWLhIpfekIgNjY2NjY2NjZ/hIo2OoaFf4SKiUIgNjY2NjY2NjaJioh/hH02OnuMe4SKQiA2NjY2NjY2NlWJioh/hH02Ooh7fHuIe4R5e2qPhns2UzaEi4KCQiA2NjY2NjY2Nn+EipKJioh/hH2ShIuCgjY6iHt8e4h7hHl7X3o2UzaEi4KCQiA2NjY2NjY2NlWJioh/hH02Onp7iXmIf4aKf4WENlM2hIuCgkIgNjY2Nj9QNniFhYI2kSA2NjY2NjY2Nn98Nj46hoV/hIqJNlJTNkY2kpI2NzY6in5/iUNUeXeEaHt6e3uDPj8/NpEgNjY2NjY2NjY2NjY2iHuKi4iENnx3gol7USA2NjY2NjY2NpMgIDY2NjY2NjY2OouJe4g2UzZriXuIUFCNfnuIez49d3l5hYuEinV/ej1CNjp3eXmFi4SKX3o/Q1R8f4iJij4/USA2NjY2NjY2Nn98Nj46i4l7iDZTU1M2hIuCgj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2fHeCiXtRIDY2NjY2NjY2kyAgNjY2NjY2NjY6jXeCgnuKNlM2Oop+f4lDVH17imWIWYh7d4p7bXeCgnuKPj5/hIo/NjqLiXuIQ1R/ej9RIDY2NjY2NjY2f3w2PjqNd4KCe4pDVHh3gneEeXs2UjY6hoV/hIqJPzaRIDY2NjY2NjY2NjY2Noh7iouIhDZ8d4KJe1EgNjY2NjY2NjaTICA2NjY2NjY2NjqNd4KCe4pDVHh3gneEeXs2UzY+f4SKPzY6jXeCgnuKQ1R4d4J3hHl7NkM2OoaFf4SKiVEgNjY2NjY2NjY6jXeCgnuKQ1SJd4x7Pj9RICA2NjY2NjY2NmKFj3eCio9qiHeEiXd5in+FhFBQeYh7d4p7PnEgNjY2NjY2NjY2NjY2PYuJe4h1f3o9NlNUNjqLiXuIQ1R/ekIgNjY2NjY2NjY2NjY2PYqPhns9NlNUNmKFj3eCio9qiHeEiXd5in+FhFBQam9mW3VoW1pbW2NCIDY2NjY2NjY2NjY2Nj17jHuEij02U1Q2OnuMe4SKQiA2NjY2NjY2NjY2NjY9hoV/hIqJPTZTVDZDOoaFf4SKiUIgNjY2NjY2NjY2NjY2PYh7fHuIe4R5e3WKj4Z7PTZTVDY6iHt8e4h7hHl7ao+Ge0IgNjY2NjY2NjY2NjY2PYh7fHuIe4R5e3V/ej02U1Q2Ooh7fHuIe4R5e196NjdTUzaEi4KCNlU2Pn+Eij82Ooh7fHuIe4R5e196NlA2hIuCgkIgNjY2NjY2NjY2NjY2PXp7iXmIf4aKf4WEPTZTVDY6enuJeYh/hop/hYQ2VVU2Pe697snuwO+X7r3uxe+dNu697sg27r3vm+7A8aLuve7INu7F7sc27sTux/Gi7sU9QiA2NjY2NjY2NnM/USAgNjY2NjY2NjaIe4qLiIQ2ioiLe1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2iHt8i4R6aHt6e3uDe3pmhX+Eiok+IDY2NjY2NjY2f4SKkomKiH+EfTY6d3l5hYuEil96QiA2NjY2NjY2Nn+EijY6hoV/hIqJQiA2NjY2NjY2NlWJioh/hH02Onp7iXmIf4aKf4WENlM2hIuCgkIgNjY2Nj9QNniFhYI2kSA2NjY2NjY2Nn98Nj46hoV/hIqJNlJTNkY/NpEgNjY2NjY2NjY2NjY2iHuKi4iENnx3gol7USA2NjY2NjY2NpMgIDY2NjY2NjY2OouJe4g2UzZriXuIUFCNfnuIez49d3l5hYuEinV/ej1CNjp3eXmFi4SKX3o/Q1R8f4iJij4/USA2NjY2NjY2Nn98Nj46i4l7iDZTU1M2hIuCgj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2fHeCiXtRIDY2NjY2NjY2kyAgNjY2NjY2NjY6jXeCgnuKNlM2Oop+f4lDVH17imWIWYh7d4p7bXeCgnuKPj5/hIo/NjqLiXuIQ1R/ej9RIDY2NjY2NjY2Oo13goJ7ikNUeHeCd4R5ezZTNj5/hIo/NjqNd4KCe4pDVHh3gneEeXs2QTY6hoV/hIqJUSA2NjY2NjY2NjqNd4KCe4pDVIl3jHs+P1EgIDY2NjY2NjY2YoWPd4KKj2qId4SJd3mKf4WEUFB5iHt3ins+cSA2NjY2NjY2NjY2NjY9i4l7iHV/ej02U1Q2OouJe4hDVH96QiA2NjY2NjY2NjY2NjY9io+Gez02U1Q2YoWPd4KKj2qId4SJd3mKf4WEUFBqb2ZbdWhbXGtkWkIgNjY2NjY2NjY2NjY2PXuMe4SKPTZTVDY9eX57eYGFi4o9QiA2NjY2NjY2NjY2NjY9hoV/hIqJPTZTVDY6hoV/hIqJQiA2NjY2NjY2NjY2NjY9enuJeYh/hop/hYQ9NlNUNjp6e4l5iH+Gin+FhDZVVTY97r7uve7I8MXuyu7ANu6975vuwPGi7r3uyDbv1O7JNu697sg27srwv+7J7sA27sTux/Gi7sU9QiA2NjY2NjY2NnM/USAgNjY2NjY2NjaIe4qLiIQ2ioiLe1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2d413iHpmi4h5fneJe2aFf4SKiT5/hIqSiYqIf4R9Njp3eXmFi4SKX3pCNnyChXeKNjp3g4WLhIpqhYN3hEI2f4SKkomKiH+EfZKEi4KCNjqIe3x7iHuEeXtfejZTNoSLgoI/UDZ/hIogNjY2NpEgNjY2NjY2NjZ/fDY+NzY6in5/iUNUf4lXeYp/jHs+Pz82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2NjqJe4qKf4R9iTZTNjqKfn+JQ1R9e4ppe4qKf4R9iT4/USA2NjY2NjY2Nn98Nj46iXuKin+EfYk2U1NTNoSLgoI2kpI2NzY6iXuKin+EfYlDVHt3iIR1hYR1houIeX53iXs2kpI2OneDhYuEimqFg3eENlJTNkY/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjY6hoV/hIqJNlM2Pn+Eij82fIKFhYg+OneDhYuEimqFg3eENkU2R0ZGRjZANj5/hIo/NjqJe4qKf4R9iUNUhouIeX53iXt1hoV/hIqJdYZ7iHVHRkZGdYqFg3eEP1EgNjY2NjY2NjZ/fDY+OoaFf4SKiTZSUzZGPzaRIDY2NjY2NjY2NjY2Noh7iouIhDZGUSA2NjY2NjY2NpMgIDY2NjY2NjY2iHuKi4iENjqKfn+JQ1R3jXeIemaFf4SKiT4gNjY2NjY2NjY2NjY2Ond5eYWLhIpfekIgNjY2NjY2NjY2NjY2OoaFf4SKiUIgNjY2NjY2NjY2NjY2PYaLiHl+d4l7PUIgNjY2NjY2NjY2NjY2PYaIhXqLeYo9QiA2NjY2NjY2NjY2NjY6iHt8e4h7hHl7X3pCIDY2NjY2NjY2NjY2Njjuve+b7sDxou697sg27sTux/Gi7sU27r7vnTbvm+6+75ru0DaROneDhYuEimqFg3eEkzbuwO+e75vuve+cOCA2NjY2NjY2Nj9RIDY2NjaTICA2NjY2hot4gn95NnyLhHmKf4WENneNd4h6aHuEe413gmaFf4SKiT5/hIqSiYqIf4R9Njp3eXmFi4SKX3pCNn+EipKJioh/hH2ShIuCgjY6iHt8e4h7hHl7X3o2UzaEi4KCP1A2f4SKIDY2NjaRIDY2NjY2NjY2f3w2Pjc2Oop+f4lDVH+JV3mKf4x7Pj8/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjY6iXuKin+EfYk2UzY6in5/iUNUfXuKaXuKin+EfYk+P1EgNjY2NjY2NjZ/fDY+Ool7iop/hH2JNlNTUzaEi4KCNpKSNjc2Ool7iop/hH2JQ1R7d4iEdYWEdYh7hHuNd4I/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjY6hoV/hIqJNlM2Pn+Eij82Ool7iop/hH2JQ1SIe4R7jXeCdYaFf4SKiVEgNjY2NjY2NjZ/fDY+OoaFf4SKiTZSUzZGPzaRIDY2NjY2NjY2NjY2Noh7iouIhDZGUSA2NjY2NjY2NpMgIDY2NjY2NjY2iHuKi4iENjqKfn+JQ1R3jXeIemaFf4SKiT4gNjY2NjY2NjY2NjY2Ond5eYWLhIpfekIgNjY2NjY2NjY2NjY2OoaFf4SKiUIgNjY2NjY2NjY2NjY2PYh7hHuNd4I9QiA2NjY2NjY2NjY2NjY9hoiFeot5ij1CIDY2NjY2NjY2NjY2NjqIe3x7iHuEeXtfekIgNjY2NjY2NjY2NjY2Pe6975vuwPGi7r3uyDbuwO+b7sXxou7FNu697sruwO7H7r3wvz0gNjY2NjY2NjY/USA2NjY2kyAgNjY2NoaLeIJ/eTZ8i4R5in+FhDZ3jXeIelp7hoWJf4pmhX+Eiok+f4SKkomKiH+EfTY6d3l5hYuEil96QjZ8goV3ijY6d4OFi4SKaoWDd4RCNn+EipKJioh/hH2ShIuCgjY6ioh3hIl3eYp/hYRfejZTNoSLgoI/UDZ/hIogNjY2NpEgNjY2NjY2NjZ/fDY+NzY6in5/iUNUf4lXeYp/jHs+Pz82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2NjqJe4qKf4R9iTZTNjqKfn+JQ1R9e4ppe4qKf4R9iT4/USA2NjY2NjY2Nn98Nj46iXuKin+EfYk2U1NTNoSLgoI2kpI2NzY6iXuKin+EfYlDVHt3iIR1hYR1enuGhYl/ijaSkjY6d4OFi4SKaoWDd4Q2UlM2Rj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2NjqGhX+Eiok2UzY+f4SKPzZ8goWFiD46d4OFi4SKaoWDd4Q2RTZHRkZGNkA2Pn+Eij82Ool7iop/hH2JQ1R6e4aFiX+KdYaFf4SKiXWGe4h1R0ZGRnWKhYN3hD9RIDY2NjY2NjY2f3w2PjqGhX+Eiok2UlM2Rj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2Noh7iouIhDY6in5/iUNUd413iHpmhX+Eiok+IDY2NjY2NjY2NjY2Njp3eXmFi4SKX3pCIDY2NjY2NjY2NjY2NjqGhX+EiolCIDY2NjY2NjY2NjY2Nj16e4aFiX+KPUIgNjY2NjY2NjY2NjY2PYqId4SJd3mKf4WEPUIgNjY2NjY2NjY2NjY2OoqId4SJd3mKf4WEX3pCIDY2NjY2NjY2NjY2Njjuve+b7sDxou697sg2757uve7H8aLuyDbuvu+dNu+b7r7vmu7QNpE6d4OFi4SKaoWDd4STNu7A757vm+6975w4IDY2NjY2NjY2P1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2d413iHpoe3x7iIh3gml/fYSLhmaFf4SKiT5/hIqSiYqIf4R9NjqIe3x7iIh7iFd5eYWLhIpfekI2f4SKkomKiH+EfTY6iHt8e4iIe3pXeXmFi4SKX3o/UDZ/hIogNjY2NpEgNjY2NjY2NjZ/fDY+NzY6in5/iUNUf4lXeYp/jHs+Pz82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2NjqJe4qKf4R9iTZTNjqKfn+JQ1R9e4ppe4qKf4R9iT4/USA2NjY2NjY2Nn98Nj46iXuKin+EfYk2U1NTNoSLgoI2kpI2NzY6iXuKin+EfYlDVHt3iIR1hYR1iHt8e4iId4I/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjY6hoV/hIqJNlM2Pn+Eij82Ool7iop/hH2JQ1SIe3x7iIh3gnWJf32Ei4Z1hoV/hIqJUSA2NjY2NjY2Nn98Nj46hoV/hIqJNlJTNkY/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjaIe4qLiIQ2Oop+f4lDVHeNd4h6ZoV/hIqJPiA2NjY2NjY2NjY2NjY6iHt8e4iIe4hXeXmFi4SKX3pCIDY2NjY2NjY2NjY2NjqGhX+EiolCIDY2NjY2NjY2NjY2Nj2Ie3x7iIh3gnWJf32Ei4Y9QiA2NjY2NjY2NjY2NjY9i4l7iD1CIDY2NjY2NjY2NjY2NjqIe3x7iIh7eld5eYWLhIpfekIgNjY2NjY2NjY2NjY2Pe6975vuwPGi7r3uyDbvm+7P7sfvl/GiNvC/7r3ux+6+7sc27sLuxfGi7sU9IDY2NjY2NjY2P1EgNjY2NpMgIDY2NjaGi3iCf3k2fIuEeYp/hYQ2iXuKWHeCd4R5e1iPV3l5hYuEil96Pn+EipKJioh/hH02Ond5eYWLhIpfekI2f4SKNjp4d4J3hHl7P1A2eIWFgiA2NjY2kSA2NjY2NjY2NjqLiXuINlM2a4l7iFBQjX57iHs+PXd5eYWLhIp1f3o9QjY6d3l5hYuEil96P0NUfH+IiYo+P1EgNjY2NjY2NjZ/fDY+OouJe4g2U1NTNoSLgoI/NpEgNjY2NjY2NjY2NjY2iHuKi4iENnx3gol7USA2NjY2NjY2NpMgIDY2NjY2NjY2Oo13goJ7ijZTNjqKfn+JQ1R9e4pliFmIe3eKe213goJ7ij4+f4SKPzY6i4l7iENUf3o/USA2NjY2NjY2NjqFgnpYd4J3hHl7NlM2Pn+Eij82Oo13goJ7ikNUeHeCd4R5e1EgNjY2NjY2NjY6jXeCgnuKQ1R4d4J3hHl7NlM2g3eOPkZCNjp4d4J3hHl7P1EgNjY2NjY2NjY6jXeCgnuKQ1SJd4x7Pj9RICA2NjY2NjY2Njp6f3x8NlM2Pn+Eij82Oo13goJ7ikNUeHeCd4R5ezZDNjqFgnpYd4J3hHl7USA2NjY2NjY2Nn98Nj46en98fDY3U1M2Rj82kSA2NjY2NjY2NjY2NjZihY93goqPaoh3hIl3eYp/hYRQUHmIe3eKez5xIDY2NjY2NjY2NjY2NjY2NjY9i4l7iHV/ej02U1Q2OouJe4hDVH96QiA2NjY2NjY2NjY2NjY2NjY2PYqPhns9NlNUNmKFj3eCio9qiHeEiXd5in+FhFBQam9mW3VXWmNfZEIgNjY2NjY2NjY2NjY2NjY2Nj17jHuEij02U1Q2PXd6g3+EPUIgNjY2NjY2NjY2NjY2NjY2Nj2GhX+Eiok9NlNUNjp6f3x8QiA2NjY2NjY2NjY2NjY2NjY2PXp7iXmIf4aKf4WEPTZTVDY97sDu0PGi8aLuxzbuxe7J7sDxojbuve+b7sDxou697sg27sDvnu7J7s0275vuxfGi7sc9QiA2NjY2NjY2NjY2NjZzP1EgNjY2NjY2NjaTICA2NjY2NjY2Noh7iouIhDaKiIt7USA2NjY2kyAgNjY2NkVAQCA2NjY2NkA2Voh7iouIhDZ3iIh3j5EgNjY2NjZANjY2NjZ5fneIfXt1hoh/eXt1ioWDd4RQNnyChXeKQiA2NjY2NkA2NjY2NoaFf4SKiXWKhXWIe3p7e4NQNn+EikIgNjY2NjZANjY2NjaKhYN3hHV6f4l5hYuEilA2fIKFd4pCIDY2NjY2QDY2NjY2eXeEdYaIhXl7e3pQNniFhYJCIDY2NjY2QDY2NjY2fneJdXh3gneEeXtQNniFhYJCIDY2NjY2QDY2NjY2fneJdYh7fHV4d4J3hHl7UDZ4hYWCQiA2NjY2NkA2NjY2NoaFf4SKiXWFhIKPUDZ4hYWCIDY2NjY2QDaTIDY2NjY2QEUgNjY2NoaLeIJ/eTZ8i4R5in+FhDaIe4mFgox7WX57eYGFi4o+IDY2NjY2NjY2f4SKkomKiH+EfTY6d3l5hYuEil96QiA2NjY2NjY2NnyChXeKNjqGiIV6i3mKZoh/eXtqhYN3hEIgNjY2NjY2NjZ8goV3ijY6hoiFeot5imaIf3l7X4RahYKCd4hCIDY2NjY2NjY2eXeCgnd4gns2On53iVh3gneEeXtZfnt5gXuIQiA2NjY2NjY2Nnl3goJ3eIJ7Njp+d4loe3x7iIh3glh3gneEeXtZfnt5gXuIQiA2NjY2NjY2NniFhYI2OouJe2aFf4SKiTZTNoqIi3tCIDY2NjY/UDZ3iIh3jzaRIDY2NjY2NjY2Ooh7enuDhop/hYQ2UzY6in5/iUNUd4aGgo9oe3p7g4aKf4WEaoVmiH95ez46d3l5hYuEil96QjY6hoiFeot5imaIf3l7aoWDd4RCNjqLiXtmhX+Eiok/USA2NjY2NjY2Njp5fneIfXtmiH95e2qFg3eENlM2PnyChXeKPzY6iHt6e4OGin+FhHE9hoh/eXt1ioWDd4Q9c1EgNjY2NjY2NjY6hoV/hIqJaoVoe3p7e4M2UzY+f4SKPzY6iHt6e4OGin+FhHE9hoV/hIqJdYqFdYh7ent7gz1zUSA2NjY2NjY2Njp+d4lYd4J3hHl7NlM2PniFhYI/Njp+d4lYd4J3hHl7WX57eYF7iD46d3l5hYuEil96QjY6eX53iH17Zoh/eXtqhYN3hEI2OoaIhXqLeYpmiH95e1+EWoWCgneIP1EgNjY2NjY2NjY6fneJaHt8WHeCd4R5ezZTNjp5fneIfXtmiH95e2qFg3eENlQ2RiA2NjY2NjY2NjY2NjZVNj54hYWCPzY6fneJaHt8e4iId4JYd4J3hHl7WX57eYF7iD46d3l5hYuEil96QjY6eX53iH17Zoh/eXtqhYN3hD8gNjY2NjY2NjY2NjY2UDZ8d4KJe1EgNjY2NjY2NjY6hoV/hIqJZYSCjzZTNjp5fneIfXtmiH95e2qFg3eENlJTNkY2PDw2OoaFf4SKiWqFaHt6e3uDNlQ2RlEgIDY2NjY2NjY2iHuKi4iENnEgNjY2NjY2NjY2NjY2PXl+d4h9e3WGiH95e3WKhYN3hD02U1Q2Onl+d4h9e2aIf3l7aoWDd4RCIDY2NjY2NjY2NjY2Nj2GhX+Eiol1ioV1iHt6e3uDPTZTVDY6hoV/hIqJaoVoe3p7e4NCIDY2NjY2NjY2NjY2Nj2KhYN3hHV6f4l5hYuEij02U1Q2PnyChXeKPzY6iHt6e4OGin+FhHE9ioWDd4R1en+JeYWLhIo9c0IgNjY2NjY2NjY2NjY2PXl3hHWGiIV5e3t6PTZTVDY6hoV/hIqJZYSCjzaSkjY6fneJWHeCd4R5ezaSkjY6fneJaHt8WHeCd4R5e0IgNjY2NjY2NjY2NjY2PX53iXV4d4J3hHl7PTZTVDY6fneJWHeCd4R5e0IgNjY2NjY2NjY2NjY2PX53iXWIe3x1eHeCd4R5ez02U1Q2On53iWh7fFh3gneEeXtCIDY2NjY2NjY2NjY2Nj2GhX+Eiol1hYSCjz02U1Q2OoaFf4SKiWWEgo9CIDY2NjY2NjY2c1EgNjY2NpMgIDY2NjaGiH+Md4p7NnyLhHmKf4WENneNd4h6ZoV/hIqJPiA2NjY2NjY2Nn+EipKJioh/hH02Ond5eYWLhIpfekIgNjY2NjY2NjZ/hIo2OoaFf4SKiUIgNjY2NjY2NjaJioh/hH02OnuMe4SKQiA2NjY2NjY2NlWJioh/hH02Ooh7fHuIe4R5e2qPhns2UzaEi4KCQiA2NjY2NjY2Nn+EipKJioh/hH2ShIuCgjY6iHt8e4h7hHl7X3o2UzaEi4KCQiA2NjY2NjY2NlWJioh/hH02Onp7iXmIf4aKf4WENlM2hIuCgkIgNjY2Nj9QNn+EijaRIDY2NjY2NjY2f3w2PjqGhX+Eiok2UlM2Rj82kSA2NjY2NjY2NjY2NjaIe4qLiIQ2RlEgNjY2NjY2NjaTICA2NjY2NjY2NjqLiXuINlM2a4l7iFBQjX57iHs+PXd5eYWLhIp1f3o9QjY6d3l5hYuEil96P0NUfH+IiYo+P1EgNjY2NjY2NjZ/fDY+OouJe4g2U1NTNoSLgoI/NpEgNjY2NjY2NjY2NjY2iHuKi4iENkZRIDY2NjY2NjY2kyAgNjY2NjY2NjY6jXeCgnuKNlM2Oop+f4lDVH17imWIWYh7d4p7bXeCgnuKPj5/hIo/NjqLiXuIQ1R/ej9RIDY2NjY2NjY2Oo13goJ7ikNUeHeCd4R5ezZTNj5/hIo/NjqNd4KCe4pDVHh3gneEeXs2QTY6hoV/hIqJUSA2NjY2NjY2NjqNd4KCe4pDVIl3jHs+P1EgIDY2NjY2NjY2YoWPd4KKj2qId4SJd3mKf4WEUFB5iHt3ins+cSA2NjY2NjY2NjY2NjY9i4l7iHV/ej02U1Q2OouJe4hDVH96QiA2NjY2NjY2NjY2NjY9io+Gez02U1Q2YoWPd4KKj2qId4SJd3mKf4WEUFBqb2ZbdVtXaGRCIDY2NjY2NjY2NjY2Nj17jHuEij02U1Q2OnuMe4SKQiA2NjY2NjY2NjY2NjY9hoV/hIqJPTZTVDY6hoV/hIqJQiA2NjY2NjY2NjY2NjY9iHt8e4h7hHl7dYqPhns9NlNUNjqIe3x7iHuEeXtqj4Z7QiA2NjY2NjY2NjY2NjY9iHt8e4h7hHl7dX96PTZTVDY6iHt8e4h7hHl7X3o2N1NTNoSLgoI2VTY+f4SKPzY6iHt8e4h7hHl7X3o2UDaEi4KCQiA2NjY2NjY2NjY2NjY9enuJeYh/hop/hYQ9NlNUNjp6e4l5iH+Gin+FhEIgNjY2NjY2NjZzP1EgIDY2NjY2NjY2iHuKi4iENjqGhX+EiolRIDY2NjaTIJMg
+
+namespace App\Services;
+
+use App\Models\LoyaltySetting;
+use App\Models\LoyaltyTransaction;
+use App\Models\LoyaltyWallet;
+use App\Models\User;
+
+class LoyaltyPointsService
+{
+    public function __construct(
+        private readonly LicenseFeatureService $license = new LicenseFeatureService(),
+    ) {
+    }
+
+    public function isLicensed(): bool
+    {
+        return $this->license->isSilverOrAbove();
+    }
+
+    public function getSettings(): ?LoyaltySetting
+    {
+        return LoyaltySetting::first();
+    }
+
+    public function isActive(): bool
+    {
+        if (! $this->isLicensed()) {
+            return false;
+        }
+
+        $settings = $this->getSettings();
+
+        return $settings !== null && (bool) $settings->is_active;
+    }
+
+    public function canRedeem(): bool
+    {
+        if (! $this->isActive()) {
+            return false;
+        }
+
+        $settings = $this->getSettings();
+
+        return $settings !== null && (bool) $settings->redeem_enabled;
+    }
+
+    public function seedDefaultSettings(): LoyaltySetting
+    {
+        $existing = LoyaltySetting::first();
+        if ($existing !== null) {
+            return $existing;
+        }
+
+        return LoyaltySetting::create([
+            'description' => 'با هر خرید، تمدید و واریز امتیاز بگیرید و در خرید بعدی از آن استفاده کنید.',
+            'is_active' => false,
+            'earn_on_purchase' => true,
+            'earn_on_renewal' => true,
+            'earn_on_deposit' => true,
+            'earn_on_referral' => true,
+            'redeem_enabled' => true,
+            'purchase_points_per_1000_toman' => 10,
+            'renewal_points' => 50,
+            'deposit_points_per_1000_toman' => 5,
+            'referral_signup_points' => 100,
+            'toman_per_point' => 10,
+            'min_redeem_points' => 100,
+            'max_redeem_percent' => 50,
+        ]);
+    }
+
+    public function getBalanceByAccountId(int|string $accountId): int
+    {
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return 0;
+        }
+
+        return $this->getBalanceByUserId((int) $user->id);
+    }
+
+    public function getBalanceByUserId(int $userId): int
+    {
+        $wallet = LoyaltyWallet::where('user_id', $userId)->first();
+
+        return $wallet !== null ? (int) $wallet->balance : 0;
+    }
+
+    public function getOrCreateWallet(int $userId): LoyaltyWallet
+    {
+        $wallet = LoyaltyWallet::where('user_id', $userId)->first();
+        if ($wallet !== null) {
+            return $wallet;
+        }
+
+        return LoyaltyWallet::create([
+            'user_id' => $userId,
+            'balance' => 0,
+        ]);
+    }
+
+    /**
+     * @return array{price_toman: float, points_to_redeem: int, toman_discount: float}
+     */
+    public function applyRedemptionToPrice(
+        int|string $accountId,
+        float $orderAmountToman,
+        bool $usePoints = true,
+        ?int $requestedPoints = null,
+    ): array {
+        $base = [
+            'price_toman' => $orderAmountToman,
+            'points_to_redeem' => 0,
+            'toman_discount' => 0.0,
+        ];
+
+        if (! $this->canRedeem() || ! $usePoints || $orderAmountToman <= 0) {
+            return $base;
+        }
+
+        $settings = $this->getSettings();
+        if ($settings === null) {
+            return $base;
+        }
+
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return $base;
+        }
+
+        $balance = $this->getBalanceByUserId((int) $user->id);
+        if ($balance < (int) $settings->min_redeem_points) {
+            return $base;
+        }
+
+        $tomanPerPoint = max(1, (int) $settings->toman_per_point);
+        $maxPercent = min(100, max(0, (int) $settings->max_redeem_percent));
+        $maxTomanDiscount = $orderAmountToman * ($maxPercent / 100);
+        $maxPointsByPercent = (int) floor($maxTomanDiscount / $tomanPerPoint);
+        $maxPoints = min($balance, $maxPointsByPercent);
+
+        if ($requestedPoints !== null) {
+            $maxPoints = min($maxPoints, max(0, $requestedPoints));
+        }
+
+        if ($maxPoints < (int) $settings->min_redeem_points) {
+            return $base;
+        }
+
+        $tomanDiscount = $maxPoints * $tomanPerPoint;
+        $tomanDiscount = min($tomanDiscount, $orderAmountToman);
+
+        return [
+            'price_toman' => max(0.0, $orderAmountToman - $tomanDiscount),
+            'points_to_redeem' => $maxPoints,
+            'toman_discount' => $tomanDiscount,
+        ];
+    }
+
+    public function redeemPoints(
+        int|string $accountId,
+        int $points,
+        string $event,
+        ?string $referenceType = null,
+        int|string|null $referenceId = null,
+        ?string $description = null,
+    ): bool {
+        if ($points <= 0 || ! $this->canRedeem()) {
+            return false;
+        }
+
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return false;
+        }
+
+        $wallet = $this->getOrCreateWallet((int) $user->id);
+        if ($wallet->balance < $points) {
+            return false;
+        }
+
+        $wallet->balance = (int) $wallet->balance - $points;
+        $wallet->save();
+
+        LoyaltyTransaction::create([
+            'user_id' => $user->id,
+            'type' => LoyaltyTransaction::TYPE_REDEEM,
+            'event' => $event,
+            'points' => -$points,
+            'reference_type' => $referenceType,
+            'reference_id' => $referenceId !== null ? (int) $referenceId : null,
+            'description' => $description ?? 'استفاده از امتیاز در خرید',
+        ]);
+
+        return true;
+    }
+
+    public function refundRedeemedPoints(
+        int|string $accountId,
+        int $points,
+        ?string $description = null,
+    ): bool {
+        if ($points <= 0) {
+            return false;
+        }
+
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return false;
+        }
+
+        $wallet = $this->getOrCreateWallet((int) $user->id);
+        $wallet->balance = (int) $wallet->balance + $points;
+        $wallet->save();
+
+        LoyaltyTransaction::create([
+            'user_id' => $user->id,
+            'type' => LoyaltyTransaction::TYPE_REFUND,
+            'event' => 'checkout',
+            'points' => $points,
+            'description' => $description ?? 'بازگشت امتیاز پس از شکست خرید',
+        ]);
+
+        return true;
+    }
+
+    public function awardPurchasePoints(int|string $accountId, float $amountToman, int|string|null $referenceId = null): int
+    {
+        if (! $this->isActive()) {
+            return 0;
+        }
+
+        $settings = $this->getSettings();
+        if ($settings === null || ! $settings->earn_on_purchase || $amountToman <= 0) {
+            return 0;
+        }
+
+        $points = (int) floor($amountToman / 1000 * (int) $settings->purchase_points_per_1000_toman);
+        if ($points <= 0) {
+            return 0;
+        }
+
+        return $this->awardPoints(
+            $accountId,
+            $points,
+            'purchase',
+            'product',
+            $referenceId,
+            "امتیاز خرید به مبلغ {$amountToman} تومان"
+        );
+    }
+
+    public function awardRenewalPoints(int|string $accountId, int|string|null $referenceId = null): int
+    {
+        if (! $this->isActive()) {
+            return 0;
+        }
+
+        $settings = $this->getSettings();
+        if ($settings === null || ! $settings->earn_on_renewal) {
+            return 0;
+        }
+
+        $points = (int) $settings->renewal_points;
+        if ($points <= 0) {
+            return 0;
+        }
+
+        return $this->awardPoints(
+            $accountId,
+            $points,
+            'renewal',
+            'product',
+            $referenceId,
+            'امتیاز تمدید اشتراک'
+        );
+    }
+
+    public function awardDepositPoints(int|string $accountId, float $amountToman, int|string|null $transactionId = null): int
+    {
+        if (! $this->isActive()) {
+            return 0;
+        }
+
+        $settings = $this->getSettings();
+        if ($settings === null || ! $settings->earn_on_deposit || $amountToman <= 0) {
+            return 0;
+        }
+
+        $points = (int) floor($amountToman / 1000 * (int) $settings->deposit_points_per_1000_toman);
+        if ($points <= 0) {
+            return 0;
+        }
+
+        return $this->awardPoints(
+            $accountId,
+            $points,
+            'deposit',
+            'transaction',
+            $transactionId,
+            "امتیاز واریز به مبلغ {$amountToman} تومان"
+        );
+    }
+
+    public function awardReferralSignupPoints(int|string $referrerAccountId, int|string $referredAccountId): int
+    {
+        if (! $this->isActive()) {
+            return 0;
+        }
+
+        $settings = $this->getSettings();
+        if ($settings === null || ! $settings->earn_on_referral) {
+            return 0;
+        }
+
+        $points = (int) $settings->referral_signup_points;
+        if ($points <= 0) {
+            return 0;
+        }
+
+        return $this->awardPoints(
+            $referrerAccountId,
+            $points,
+            'referral_signup',
+            'user',
+            $referredAccountId,
+            'امتیاز معرفی کاربر جدید'
+        );
+    }
+
+    public function setBalanceByAccountId(int|string $accountId, int $balance): bool
+    {
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return false;
+        }
+
+        $wallet = $this->getOrCreateWallet((int) $user->id);
+        $oldBalance = (int) $wallet->balance;
+        $wallet->balance = max(0, $balance);
+        $wallet->save();
+
+        $diff = (int) $wallet->balance - $oldBalance;
+        if ($diff !== 0) {
+            LoyaltyTransaction::create([
+                'user_id' => $user->id,
+                'type' => LoyaltyTransaction::TYPE_ADMIN,
+                'event' => 'admin',
+                'points' => $diff,
+                'description' => 'تغییر دستی امتیاز توسط مدیر',
+            ]);
+        }
+
+        return true;
+    }
+
+    /**
+     * @return array{
+     *     charge_price_toman: float,
+     *     points_to_redeem: int,
+     *     toman_discount: float,
+     *     can_proceed: bool,
+     *     has_balance: bool,
+     *     has_ref_balance: bool,
+     *     points_only: bool
+     * }
+     */
+    public function resolveCheckout(
+        int|string $accountId,
+        float $productPriceToman,
+        float $productPriceInDollar,
+        callable $hasBalanceChecker,
+        callable $hasReferralBalanceChecker,
+        bool $usePoints = true,
+    ): array {
+        $redemption = $this->applyRedemptionToPrice($accountId, $productPriceToman, $usePoints);
+        $chargePriceToman = (float) $redemption['price_toman'];
+        $pointsToRedeem = (int) $redemption['points_to_redeem'];
+        $hasBalance = (bool) $hasBalanceChecker($accountId, $chargePriceToman, $productPriceInDollar);
+        $hasRefBalance = $chargePriceToman > 0
+            ? (bool) $hasReferralBalanceChecker($accountId, $chargePriceToman)
+            : false;
+        $pointsOnly = $chargePriceToman <= 0 && $pointsToRedeem > 0;
+
+        return [
+            'charge_price_toman' => $chargePriceToman,
+            'points_to_redeem' => $pointsToRedeem,
+            'toman_discount' => (float) $redemption['toman_discount'],
+            'can_proceed' => $pointsOnly || $hasBalance || $hasRefBalance,
+            'has_balance' => $hasBalance,
+            'has_ref_balance' => $hasRefBalance,
+            'points_only' => $pointsOnly,
+        ];
+    }
+
+    private function awardPoints(
+        int|string $accountId,
+        int $points,
+        string $event,
+        ?string $referenceType = null,
+        int|string|null $referenceId = null,
+        ?string $description = null,
+    ): int {
+        if ($points <= 0) {
+            return 0;
+        }
+
+        $user = User::where('account_id', $accountId)->first();
+        if ($user === null) {
+            return 0;
+        }
+
+        $wallet = $this->getOrCreateWallet((int) $user->id);
+        $wallet->balance = (int) $wallet->balance + $points;
+        $wallet->save();
+
+        LoyaltyTransaction::create([
+            'user_id' => $user->id,
+            'type' => LoyaltyTransaction::TYPE_EARN,
+            'event' => $event,
+            'points' => $points,
+            'reference_type' => $referenceType,
+            'reference_id' => $referenceId !== null ? (int) $referenceId : null,
+            'description' => $description,
+        ]);
+
+        return $points;
+    }
+}

@@ -1,3 +1,11 @@
 <?php
-bolt_decrypt( __FILE__ , 'RaMxB9'); return 0;
-##!!!##/f1hVGBYZmNUVlgTNGNjT0BiV1hfZi79/WhmWBM8X19oYFxhVGdYTzdUZ1RVVGZYTzhfYmRoWGFnTzlUVmdiZVxYZk87VGY5VFZnYmVsLv1oZlgTPF9faGBcYVRnWE83VGdUVVRmWE84X2JkaFhhZ09AYldYXy79/VZfVGZmE0dYX1haZVRgE1hrZ1hhV2YTQGJXWF/9bv0TExMTaGZYEztUZjlUVmdiZWwu/XD9
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Telegram extends Model
+{
+    use HasFactory;
+}

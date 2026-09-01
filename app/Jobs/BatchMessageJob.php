@@ -1,3 +1,161 @@
 <?php
-bolt_decrypt( __FILE__ , 'TAuXMO'); return 0;
-##!!!##CAhsX2tjcW5fYWMeP25uWkhtYHE5CAhzcWMeP25uWkZycm5aQW1scnBtampjcHFaRmdiYmdkd05fbGxjakFtbHJwbWpqY3A5CHNxYx4/bm5aS21iY2pxWk5wbWJzYXI5CHNxYx5BX3BgbWxaQV9wYG1sOQhzcWMeRmNpa19yZ2xfcXFjcFpUY3ByX1pUY3ByXzkIc3FjHkdqanNrZ2xfcmNaQHNxWk9zY3NjX2BqYzkIc3FjHkdqanNrZ2xfcmNaQW1scnBfYXJxWk9zY3NjWlFmbXNqYk9zY3NjOQhzcWMeR2pqc2tnbF9yY1pEbXNsYl9yZ21sWkBzcVpCZ3FuX3JhZl9gamM5CHNxYx5Hampza2dsX3JjWk9zY3NjWkdscmNwX2FycVVncmZPc2NzYzkIc3FjHkdqanNrZ2xfcmNaT3Njc2NaUWNwZ19qZ3hjcUttYmNqcTkIc3FjHkdqanNrZ2xfcmNaUXNubm1wclpEX2FfYmNxWkptZTkIc3FjHkdqanNrZ2xfcmNaUXNubm1wclpEX2FfYmNxWj9ubjkIc3FjHj9ublpLbWJjanFaP2JrZ2xLY3FxX2VjOQhzcWMeP25uWkttYmNqcVpLX3BpY3JnbGVBX2tuX2dlbDkICAhhal9xcR5AX3JhZktjcXFfZWNIbWAeZ2tuamNrY2xycR5RZm1zamJPc2NzYwh5CB4eHh5zcWMeQmdxbl9yYWZfYGpjKh5HbHJjcF9hcnFVZ3JmT3Njc2MqHk9zY3NjX2BqYyoeUWNwZ19qZ3hjcUttYmNqcTkICB4eHh5ucG1yY2FyY2IeIl9hcmdtbCoeInNxY3BxR0IqHiJrY3FxX2VjKh4iY3ZycF8qHiJfYmtnbEtjcXFfZWNHYioeImtfcGljcmdsZUFfa25fZ2VsR2I5CAgICB4eHh4tKCgIHh4eHh4oHkFwY19yYx5fHmxjdR5obWAeZ2xxcl9sYWMsCB4eHh4eKC0IHh4eHm5zYGpnYR5kc2xhcmdtbB5dXWFtbHFycHNhciYiX2FyZ21sKh4ic3FjcHFHQioeImtjcXFfZWMqHiJjdnJwXx47HllbKh4iX2JrZ2xLY3FxX2VjR2IeOx5sc2pqKh4ia19waWNyZ2xlQV9rbl9nZWxHYh47HmxzamonCB4eHh55CB4eHh4eHh4eInJmZ3ErPF9hcmdtbB47HiJfYXJnbWw5CB4eHh4eHh4eInJmZ3ErPHNxY3BxR0IeOx4ic3FjcHFHQjkIHh4eHh4eHh4icmZncSs8a2NxcV9lYx47HiJrY3FxX2VjOQgeHh4eHh4eHiJyZmdxKzxjdnJwXx47HiJjdnJwXzkIHh4eHh4eHh4icmZncSs8X2JrZ2xLY3FxX2VjR2IeOx4iX2JrZ2xLY3FxX2VjR2I5CB4eHh4eHh4eInJmZ3ErPGtfcGljcmdsZUFfa25fZ2VsR2IeOx4ia19waWNyZ2xlQV9rbl9nZWxHYjkIHh4eHnsICAgeHh4eLSgoCB4eHh4eKB5DdmNhc3JjHnJmYx5obWAsCB4eHh4eKC0IHh4eHm5zYGpnYR5kc2xhcmdtbB5mX2xiamMmJzgedG1nYggeHh4eeQgeHh4eHh4eHiJfYmtnbEtjcXFfZWMeOx5sc2pqOQgeHh4eHh4eHiJrX3BpY3JnbGVBX2tuX2dlbB47Hmxzamo5CB4eHh4eHh4eZ2QeJiJyZmdxKzxfYmtnbEtjcXFfZWNHYiceeQgeHh4eHh4eHh4eHh4iX2JrZ2xLY3FxX2VjHjseP2JrZ2xLY3FxX2VjODhkZ2xiJiJyZmdxKzxfYmtnbEtjcXFfZWNHYic5CB4eHh4eHh4eHh4eHmdkHiYiX2JrZ2xLY3FxX2VjJx55CB4eHh4eHh4eHh4eHh4eHh4iX2JrZ2xLY3FxX2VjKzxzbmJfcmMmWSVxcl9yc3ElHjs8HiVucG1hY3FxZ2xlJVsnOQgeHh4eHh4eHh4eHh57CB4eHh4eHh4eewgeHh4eHh4eHmdkHiYicmZncSs8a19waWNyZ2xlQV9rbl9nZWxHYiceeQgeHh4eHh4eHh4eHh4ia19waWNyZ2xlQV9rbl9nZWweOx5LX3BpY3JnbGVBX2tuX2dlbDg4ZGdsYiYicmZncSs8a19waWNyZ2xlQV9rbl9nZWxHYic5CB4eHh4eHh4eHh4eHmdkHiYia19waWNyZ2xlQV9rbl9nZWwnHnkIHh4eHh4eHh4eHh4eHh4eHiJrX3BpY3JnbGVBX2tuX2dlbCs8c25iX3JjJlklcXJfcnNxJR47PB4lbnBtYWNxcWdsZSVbJzkIHh4eHh4eHh4eHh4eewgeHh4eHh4eHnsICB4eHh4eHh4ecnB3HnkIHh4eHh4eHh4eHh4eSm1lODhnbGRtJiBGX2xiamdsZR5gX3JhZh5rY3FxX2VjHnVncmYeX2FyZ21sOB55InJmZ3ErPF9hcmdtbHsgJzkIHh4eHh4eHh4eHh4eInJjamNlcF9rUWNwdGdhYx47Hj9ubjg4a19pYyZaP25uWlFjcHRnYWNxWlJjamNlcF9rUWNwdGdhYzg4YWpfcXEnOQgeHh4eHh4eHh4eHh4iYXJfQHNycm1scR47HiJyZmdxKzxjdnJwX1klYXJfXWBzcnJtbHElWx49PR5ZWzkICB4eHh4eHh4eHh4eHiJxY2xyQW1zbHIeOx4uOQgeHh4eHh4eHh4eHh4icWNsckdicR47HllbOQgeHh4eHh4eHh4eHh4iZF9namNiR2JxHjseWVs5CAgeHh4eHh4eHh4eHh5kbXBjX2FmHiYicmZncSs8c3FjcHFHQh5fcR4ic3FjcEdiJx55CB4eHh4eHh4eHh4eHh4eHh4icGNxbm1scWMeOx5sc2pqOQgeHh4eHh4eHh4eHh4eHh4eImdrX2VjTl9yZh47HiJfYmtnbEtjcXFfZWM9Kzxna19lY11uX3JmHj09HiYicmZncSs8Y3ZycF9ZJWdrX2VjXW5fcmYlWx49PR5sc2pqJzkICB4eHh4eHh4eHh4eHh4eHh5nZB4mImdrX2VjTl9yZiceeQgeHh4eHh4eHh4eHh4eHh4eHh4eHiJqbWFfak5fcmYeOx5uc2BqZ2Fdbl9yZiYiZ2tfZWNOX3JmJzkIHh4eHh4eHh4eHh4eHh4eHh4eHh5KbWU4OGdsZG0mID9ycmNrbnJnbGUecm0ecWNsYh5uZm1ybR5kcG1rOB4iam1hX2pOX3JmHmRtcB5zcWNwOB4ic3FjcEdiICc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eZ2QeJmRnamNdY3ZncXJxJiJqbWFfak5fcmYnJx55CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHiJtbnJnbWxxHjseWVs5CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHmdkHiYiYXJfQHNycm1scR4fOzseWVsnHnkIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHiJtbnJnbWxxWSVwY25qd11rX3Bpc24lWx47HmhxbWxdY2xhbWJjJlkIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4lZ2xqZ2xjXWljd2BtX3BiJR47PB4icmNqY2VwX2tRY3B0Z2FjKzxkbXBrX3JHbGpnbGNJY3dgbV9wYkBzcnJtbHEmImFyX0BzcnJtbHEnKggeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eWyc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHnsIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eInBjcW5tbHFjHjseInJjamNlcF9rUWNwdGdhYys8cWNsYk5mbXJtRGdqYyYic3FjcEdiKh4iam1hX2pOX3JmKh4icmZncSs8a2NxcV9lYyoeIm1ucmdtbHEnOQgeHh4eHh4eHh4eHh4eHh4eHh4eHnseY2pxYx55CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHkptZTg4Y3BwbXAmIE5mbXJtHmRnamMebG1yHmRtc2xiHl9yOB4iam1hX2pOX3JmICc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHmdkHiYiYXJfQHNycm1scR4fOzseWVsnHnkIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHiJwY3FubWxxYx47HiJyY2pjZXBfa1FjcHRnYWMrPHFjbGJLY3FxX2VjVWdyZkdsamdsY0ljd2BtX3BiJiJzcWNwR2IqHiJyZmdxKzxrY3FxX2VjKh4iYXJfQHNycm1scSc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHnseY2pxYx55CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4icGNxbm1scWMeOx4icmNqY2VwX2tRY3B0Z2FjKzxxY2xiS2NxcV9lYyYic3FjcEdiKh4icmZncSs8a2NxcV9lYyoeInJmZ3ErPGN2cnBfJzkIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eewgeHh4eHh4eHh4eHh4eHh4eHh4eHnsIHh4eHh4eHh4eHh4eHh4eHnseY2pxY2dkHiYiYXJfQHNycm1scR4fOzseWVsnHnkIHh4eHh4eHh4eHh4eHh4eHh4eHh4icGNxbm1scWMeOx4icmNqY2VwX2tRY3B0Z2FjKzxxY2xiS2NxcV9lY1VncmZHbGpnbGNJY3dgbV9wYiYic3FjcEdiKh4icmZncSs8a2NxcV9lYyoeImFyX0BzcnJtbHEnOQgeHh4eHh4eHh4eHh4eHh4eex5janFjHnkIHh4eHh4eHh4eHh4eHh4eHh4eHh4icGNxbm1scWMeOx4icmNqY2VwX2tRY3B0Z2FjKzxxY2xiS2NxcV9lYyYic3FjcEdiKh4icmZncSs8a2NxcV9lYyoeInJmZ3ErPGN2cnBfJzkIHh4eHh4eHh4eHh4eHh4eHh4eHh5nZB4mHyYicGNxbm1scWNZJW1pJVsePT0eZF9qcWMnJx55CB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHiJwY3FubWxxYx47HiJyY2pjZXBfa1FjcHRnYWMrPHFjbGJOal9nbEtjcXFfZWMmInNxY3BHYioeInJmZ3ErPGtjcXFfZWMqHiJyZmdxKzxjdnJwXyc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eewgeHh4eHh4eHh4eHh4eHh4eewgIHh4eHh4eHh4eHh4eHh4eHmdkHiZncXFjciYicGNxbm1scWNZJW1pJVsnHiQkHiJwY3FubWxxY1klbWklWyceeQgeHh4eHh4eHh4eHh4eHh4eHh4eHiJxY2xyQW1zbHIpKTkIHh4eHh4eHh4eHh4eHh4eHh4eHh4icWNsckdicVlbHjseInNxY3BHYjkIHh4eHh4eHh4eHh4eHh4eHh4eHh5KbWU4OGdsZG0mIEtfcGljYh5xY2xyOB4ic3FjcEdiHiZxY2xyQW1zbHI7InFjbHJBbXNscicgJzkIHh4eHh4eHh4eHh4eHh4eHnseY2pxYx55CB4eHh4eHh4eHh4eHh4eHh4eHh4eImNwcB47HiJwY3FubWxxY1klYmNxYXBnbnJnbWwlWx49PR4lU2xpbG11bB5jcHBtcCU5CB4eHh4eHh4eHh4eHh4eHh4eHh4eImRfZ2pjYkdicVlbHjseWQgeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4lc3FjcF1nYiUeOzweInNxY3BHYioIHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eJWNwcG1wJR47PB4iY3BwCB4eHh4eHh4eHh4eHh4eHh4eHh4eWzkIHh4eHh4eHh4eHh4eHh4eHh4eHh5KbWU4OGdsZG0mIEtfcGljYh5kX2dqY2I4HiJzcWNwR2IeJmNwcG1wOyJjcHAnICc5CB4eHh4eHh4eHh4eHh4eHh4eHh4eSm1lODhjcHBtcCYgRF9namNiHnJtHnFjbGIea2NxcV9lYx5ybR4ic3FjcEdiOB4gHiweaHFtbF1jbGFtYmMmInBjcW5tbHFjJyc5CB4eHh4eHh4eHh4eHh4eHh57CAgeHh4eHh4eHh4eHh4eHh4eZ2QeJiJfYmtnbEtjcXFfZWMeJCQeJiJxY2xyQW1zbHIeKR5hbXNsciYiZF9namNiR2JxJyceIx4zHjs7Hi4nHnkIHh4eHh4eHh4eHh4eHh4eHh4eHh5KbWU4OGdsZG0mIE5fcHJnX2oec25iX3JjHmRtcB4/YmtnbEtjcXFfZWMeeSJfYmtnbEtjcXFfZWMrPGdiezgecWNscl1hbXNscjsicWNsckFtc2xyKh5xY2xyXWdicV1hbXNscjsgHiweYW1zbHImInFjbHJHYnEnHiweICoeZF9namNiXWdicV1hbXNscjsgHiweYW1zbHImImRfZ2pjYkdicScnOQgeHh4eHh4eHh4eHh4eHh4eHh4eHiJfYmtnbEtjcXFfZWMrPHNuYl9yYyZZCB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHiVxY2xyXXNxY3BxJR47PB4icWNsckFtc2xyKggeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4lcWNscl1nYnElHjs8HiJxY2xyR2JxKggeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4lZF9namNiXWdicSUeOzweImRfZ2pjYkdicSoIHh4eHh4eHh4eHh4eHh4eHh4eHh5bJzkIHh4eHh4eHh4eHh4eHh4eHnsICB4eHh4eHh4eHh4eHh4eHh4tLR5Ra19qah5iY2pfdx5ybR5fdG1nYh5mZ3JyZ2xlHlJjamNlcF9rHnBfcmMeamdrZ3JxCB4eHh4eHh4eHh4eHh4eHh5zcWpjY24mMy4uLi4nOR4tLR4uLC4zHnFjYW1sYnEIHh4eHh4eHh4eHh4eewgIHh4eHh4eHh4eHh4eZ2QeJiJfYmtnbEtjcXFfZWMnHnkIHh4eHh4eHh4eHh4eHh4eHkptZTg4Z2xkbSYgRGdsX2oec25iX3JjHmRtcB4/YmtnbEtjcXFfZWMeeSJfYmtnbEtjcXFfZWMrPGdiezgecWNscl1hbXNscjsicWNsckFtc2xyKh5xY2xyXWdicV1hbXNscjsgHiweYW1zbHImInFjbHJHYnEnHiweICoeZF9namNiXWdicV1hbXNscjsgHiweYW1zbHImImRfZ2pjYkdicScnOQgeHh4eHh4eHh4eHh4eHh4eIl9ia2dsS2NxcV9lYys8c25iX3JjJlkIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcXJfcnNxJR47PB4lYW1rbmpjcmNiJSoIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcWNscl1zcWNwcSUeOzweInFjbHJBbXNscioIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcWNscl1nYnElHjs8HiJxY2xyR2JxKggeHh4eHh4eHh4eHh4eHh4eHh4eHiVkX2dqY2JdZ2JxJR47PB4iZF9namNiR2JxKggeHh4eHh4eHh4eHh4eHh4eWyc5CB4eHh4eHh4eHh4eHnsICB4eHh4eHh4eHh4eHmdkHiYia19waWNyZ2xlQV9rbl9nZWwnHnkIHh4eHh4eHh4eHh4eHh4eHiJrX3BpY3JnbGVBX2tuX2dlbCs8c25iX3JjJlkIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcXJfcnNxJR47PB4lYW1rbmpjcmNiJSoIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcWNscl1zcWNwcSUeOzweInFjbHJBbXNscioIHh4eHh4eHh4eHh4eHh4eHh4eHh4lcWNscl1nYnElHjs8HiJxY2xyR2JxKggeHh4eHh4eHh4eHh4eHh4eHh4eHiVkX2dqY2JdZ2JxJR47PB4iZF9namNiR2JxKggeHh4eHh4eHh4eHh4eHh4eWyc5CB4eHh4eHh4eHh4eHnsICB4eHh4eHh4eHh4eHkptZTg4Z2xkbSYgQF9yYWYea2NxcV9lYx5xY2xyHnFzYWFjcXFkc2pqdx5ybR5zcWNwcTgeIB4sHmdrbmptYmMmJSoeJSoeInJmZ3ErPHNxY3BxR0InJzkICB4eHh4eHh4eex5hX3JhZh4mWkN2YWNucmdtbB4iYyceeQgeHh4eHh4eHh4eHh5nZB4mIl9ia2dsS2NxcV9lYyceeQgeHh4eHh4eHh4eHh4eHh4eIl9ia2dsS2NxcV9lYys8c25iX3JjJlklcXJfcnNxJR47PB4lZF9namNiJVsnOQgeHh4eHh4eHh4eHh57CB4eHh4eHh4eHh4eHmdkHiYia19waWNyZ2xlQV9rbl9nZWwnHnkIHh4eHh4eHh4eHh4eHh4eHiJrX3BpY3JnbGVBX2tuX2dlbCs8c25iX3JjJlklcXJfcnNxJR47PB4lZF9namNiJVsnOQgeHh4eHh4eHh4eHh57CB4eHh4eHh4eHh4eHkptZTg4Y3BwbXAmIENwcG1wHmZfbGJqZ2xlHmBfcmFmHmtjcXFfZWM4HiAeLB4iYys8ZWNyS2NxcV9lYyYnJzkIHh4eHh4eHh57CB4eHh57CHsI
+
+namespace App\Jobs;
+
+use App\Http\Controllers\HiddifyPannelController;
+use App\Models\Product;
+use Carbon\Carbon;
+use Hekmatinasser\Verta\Verta;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\App;
+use App\Models\AdminMessage;
+use App\Models\MarketingCampaign;
+
+
+class BatchMessageJob implements ShouldQueue
+{
+    use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
+
+    protected $action, $usersID, $message, $extra, $adminMessageId, $marketingCampaignId;
+
+
+
+    /**
+     * Create a new job instance.
+     */
+    public function __construct($action, $usersID, $message, $extra = [], $adminMessageId = null, $marketingCampaignId = null)
+    {
+        $this->action = $action;
+        $this->usersID = $usersID;
+        $this->message = $message;
+        $this->extra = $extra;
+        $this->adminMessageId = $adminMessageId;
+        $this->marketingCampaignId = $marketingCampaignId;
+    }
+
+
+    /**
+     * Execute the job.
+     */
+    public function handle(): void
+    {
+        $adminMessage = null;
+        $marketingCampaign = null;
+        if ($this->adminMessageId) {
+            $adminMessage = AdminMessage::find($this->adminMessageId);
+            if ($adminMessage) {
+                $adminMessage->update(['status' => 'processing']);
+            }
+        }
+        if ($this->marketingCampaignId) {
+            $marketingCampaign = MarketingCampaign::find($this->marketingCampaignId);
+            if ($marketingCampaign) {
+                $marketingCampaign->update(['status' => 'processing']);
+            }
+        }
+
+        try {
+            Log::info("Handling batch message with action: {$this->action}");
+            $telegramService = App::make(\App\Services\TelegramService::class);
+            $ctaButtons = $this->extra['cta_buttons'] ?? [];
+
+            $sentCount = 0;
+            $sentIds = [];
+            $failedIds = [];
+
+            foreach ($this->usersID as $userId) {
+                $response = null;
+                $imagePath = $adminMessage?->image_path ?? ($this->extra['image_path'] ?? null);
+
+                if ($imagePath) {
+                    $localPath = public_path($imagePath);
+                    Log::info("Attempting to send photo from: $localPath for user: $userId");
+                    if (file_exists($localPath)) {
+                        $options = [];
+                        if ($ctaButtons !== []) {
+                            $options['reply_markup'] = json_encode([
+                                'inline_keyboard' => $telegramService->formatInlineKeyboardButtons($ctaButtons),
+                            ]);
+                        }
+                        $response = $telegramService->sendPhotoFile($userId, $localPath, $this->message, $options);
+                    } else {
+                        Log::error("Photo file not found at: $localPath");
+                        if ($ctaButtons !== []) {
+                            $response = $telegramService->sendMessageWithInlineKeyboard($userId, $this->message, $ctaButtons);
+                        } else {
+                            $response = $telegramService->sendMessage($userId, $this->message, $this->extra);
+                        }
+                    }
+                } elseif ($ctaButtons !== []) {
+                    $response = $telegramService->sendMessageWithInlineKeyboard($userId, $this->message, $ctaButtons);
+                } else {
+                    $response = $telegramService->sendMessage($userId, $this->message, $this->extra);
+                    if (!($response['ok'] ?? false)) {
+                        $response = $telegramService->sendPlainMessage($userId, $this->message, $this->extra);
+                    }
+                }
+
+                if (isset($response['ok']) && $response['ok']) {
+                    $sentCount++;
+                    $sentIds[] = $userId;
+                    Log::info("Marked sent: $userId (sentCount=$sentCount)");
+                } else {
+                    $err = $response['description'] ?? 'Unknown error';
+                    $failedIds[] = [
+                        'user_id' => $userId,
+                        'error' => $err
+                    ];
+                    Log::info("Marked failed: $userId (error=$err)");
+                    Log::error("Failed to send message to $userId: " . json_encode($response));
+                }
+
+                if ($adminMessage && ($sentCount + count($failedIds)) % 5 == 0) {
+                    Log::info("Partial update for AdminMessage {$adminMessage->id}: sent_count=$sentCount, sent_ids_count=" . count($sentIds) . ", failed_ids_count=" . count($failedIds));
+                    $adminMessage->update([
+                        'sent_users' => $sentCount,
+                        'sent_ids' => $sentIds,
+                        'failed_ids' => $failedIds,
+                    ]);
+                }
+
+                // Small delay to avoid hitting Telegram rate limits
+                usleep(50000); // 0.05 seconds
+            }
+
+            if ($adminMessage) {
+                Log::info("Final update for AdminMessage {$adminMessage->id}: sent_count=$sentCount, sent_ids_count=" . count($sentIds) . ", failed_ids_count=" . count($failedIds));
+                $adminMessage->update([
+                    'status' => 'completed',
+                    'sent_users' => $sentCount,
+                    'sent_ids' => $sentIds,
+                    'failed_ids' => $failedIds,
+                ]);
+            }
+
+            if ($marketingCampaign) {
+                $marketingCampaign->update([
+                    'status' => 'completed',
+                    'sent_users' => $sentCount,
+                    'sent_ids' => $sentIds,
+                    'failed_ids' => $failedIds,
+                ]);
+            }
+
+            Log::info("Batch message sent successfully to users: " . implode(', ', $this->usersID));
+
+        } catch (\Exception $e) {
+            if ($adminMessage) {
+                $adminMessage->update(['status' => 'failed']);
+            }
+            if ($marketingCampaign) {
+                $marketingCampaign->update(['status' => 'failed']);
+            }
+            Log::error("Error handling batch message: " . $e->getMessage());
+        }
+    }
+}

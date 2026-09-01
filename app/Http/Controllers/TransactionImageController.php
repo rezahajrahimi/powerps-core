@@ -1,3 +1,101 @@
 <?php
-bolt_decrypt( __FILE__ , '91xiTT'); return 0;
-##!!!##/f1hVGBYZmNUVlgTNGNjTztnZ2NPNmJhZ2ViX19YZWYu/WhmWBM0Y2NPQGJXWF9mT0dlVGFmVFZnXGJhPGBUWlgu/WhmWBNGZ2JlVFpYLv1oZlgTOVxfWC79aGZYEzxhZ1hlaVhhZ1xiYU88YFRaWE88YFRaWEBUYVRaWGUu/WhmWBM8YWdYZWlYYWdcYmFPPGBUWlhPN2VcaVhlZk88YFRaXFZeTzdlXGlYZS79aGZYEzRjY09GWGVpXFZYZk9HWF9YWmVUYEZYZWlcVlgu/f1oZlgTPF9faGBcYVRnWE87Z2djT0VYZGhYZmcu/WhmWBM8X19oYFxhVGdYT0ZoY2NiZWdPOVRWVFdYZk87Z2djLv39/VZfVGZmE0dlVGFmVFZnXGJhPGBUWlg2YmFnZWJfX1hlE1hrZ1hhV2YTNmJhZ2ViX19YZf1u/f0TExMTY2hVX1xWE1loYVZnXGJhE1pYZ0dlVGFmVFZnXGJhPGBUWlgbF2dlPDcc/RMTExNu/RMTExMTExMTZ2VsE279ExMTExMTExMTExMTF1dUZ1QTMBNHZVRhZlRWZ1xiYTxgVFpYLS1qW1hlWBsaZ2VUYWZUVmdcYmFSXFcaHxMXZ2U8NxwgMVpYZxscLv0TExMTExMTExMTExNcWRMbF1dUZ1QTFDATYWhfXxwTbv0TExMTExMTExMTExMTExMTZVhnaGVhExdXVGdULv0TExMTExMTExMTExNwE1hfZlgTbv0TExMTExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbGkFiEzxgVFpYGh8TJyMnHC79ExMTExMTExMTExMTcP0TExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTE08/YlotLVxhWWIbFUdbZWJqVFVfWC0TExdnWxUcLv39ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbGkZYZWlYZRM4ZWViZRofEygjIxwu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1RXV0FYakdlVGFmVFZnXGJhPGBUWlgbRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXV1RnVBMwE2FYahNHZVRhZlRWZ1xiYTxgVFpYGxwu/RMTExMTExMTExMTExdXVGdUIDFnZVRhZlRWZ1xiYVJcVxMwExdlWGRoWGZnIDFnZVRhZlRWZ1xiYVJcVy79ExMTExMTExMTExMTF1dUZ1QgMVxgWlJmZVYTMBMXZVhkaFhmZyAxXGBaUmZlVi79ExMTExMTExMTExMTF1dUZ1QgMVRWVmJoYWdSXFcTMBMXZVhkaFhmZyAxVFZWYmhhZ1JcVy79ExMTExMTExMTExMTF1dUZ1QgMWhmWGVSZ1hrZxMwExdlWGRoWGZnIDFoZlhlUmdYa2cu/RMTExMTExMTExMTExdXVGdUIDFmVGlYGxwu/RMTExMTExMTExMTE2VYZ2hlYRMXV1RnVCAxXFcu/RMTExMTExMTcBNWVGdWWxMbT0dbZWJqVFVfWBMXZ1scE279ExMTExMTExMTExMTTz9iWi0tXGFZYhsVR1tlYmpUVV9YLRMTF2dbFRwu/f0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRsaRlhlaVhlEzhlZWJlGh8TKCMjHC79ExMTExMTExNw/RMTExNw/RMTExNjaFVfXFYTWWhhVmdcYmETZlRpWEFYakdlVGFmVFZnXGJhPGBUWlgbRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv39ExMTExMTExMTExMTIiITV2JqYV9iVFcTXGBUWlgTWWViYBMXZVhkaFhmZyAxXGBUWlhSaGVfE1RhVxNmVGlYE2JhE1dcZl79/f0TExMTExMTExMTExMXZ1hfWFplVGBGWGVpXFZYEzATYVhqE0dYX1haZVRgRlhlaVxWWBscLv39/RMTExMTExMTExMTExdcYFpSZmVWEzATF2VYZGhYZmcgMVxgWlJmZVYu/f0TExMTExMTExMTExMiIhM6WGcTZ1tYE1xgVFpYE1ZiYWdYYWdm/RMTExMTExMTExMTExdcYFRaWDZiYWdYYWdmEzATF2dYX1haZVRgRlhlaVxWWCAxV2JqYV9iVFc8YFRaWDlcX1gbF1xgWlJmZVYcLv39ExMTExMTExMTExMTIiITN1hZXGFYE2dbWBNcYFRaWBNjVGdbE1RhVxNhVGBY/RMTExMTExMTExMTExdcYFRaWENUZ1sTMBMaXGBUWlhmIhou/RMTExMTExMTExMTExdcYFRaWEFUYFgTMBpnZVRhZlRWZ1xiYVIaIWdcYFgbHBMhExNVVGZYYVRgWBsXXGBaUmZlVhwu/f0TExMTExMTExMTExMiIhNGVGlYE2dbWBNcYFRaWBNiYRNXXGZe/RMTExMTExMTExMTEyIiE2ZUaVgTXGBUWlgTY1RnWxNcYRMXY1RnW/0TExMTExMTExMTExMXY1RnWxMwExdcYFRaWENUZ1sTIRMXXGBUWlhBVGBYLv0TExMTExMTExMTExNnZWwTbv0TExMTExMTExMTExMTExMTIiITVltYVl4TXFkTZ1tYE1xgVFpYE2NUZ1sTXGYTamVcZ1RVX1j9ExMTExMTExMTExMTExMTE1xZExtcZlJqZVxnVFVfWBsXXGBUWlhDVGdbHBwTbv0TExMTExMTExMTExMTExMTExMTE0ZnYmVUWlgtLVdcZl4bGmNoVV9cVhocIDFjaGcbF1xgVFpYQ1RnWxMhExdcYFRaWEFUYFgfExdcYFRaWDZiYWdYYWdmHC79ExMTExMTExMTExMTExMTE3ATWF9mWBNu/RMTExMTExMTExMTExMTExMTExMTIiITVFdXE2NYZWBcZmZcYmETZ2ITZ1tYE1xgVFpYE2NUZ1v9ExMTExMTExMTExMTExMTExMTExNWW2BiVxsXXGBUWlhDVGdbHxMjKioqHC79ExMTExMTExMTExMTExMTExMTExNGZ2JlVFpYLS1XXGZeGxpjaFVfXFYaHCAxY2hnGxdcYFRaWENUZ1sTIRMXXGBUWlhBVGBYHxMXXGBUWlg2YmFnWGFnZhwu/RMTExMTExMTExMTExMTExNw/f39/RMTExMTExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTExMTExNPP2JaLS1cYVliGxVmVGlYQVhqR2VUYWZUVmdcYmE8YFRaWC0TExdnWxUcLv0TExMTExMTExMTExNw/f0TExMTExMTExMTExMXV1RnVBMwE2FYahNHZVRhZlRWZ1xiYTxgVFpYGxwu/RMTExMTExMTExMTExdXVGdUIDFnZVRhZlRWZ1xiYVJcVxMwExdlWGRoWGZnIDFnZVRhZlRWZ1xiYVJcVy79ExMTExMTExMTExMTF1dUZ1QgMVxgWlJmZVYTMBoiZmdiZVRaWCIaIRMXY1RnWy79/RMTExMTExMTExMTExdXVGdUIDFUVlZiaGFnUlxXEzATF2VYZGhYZmcgMVRWVmJoYWdSXFcu/RMTExMTExMTExMTExdXVGdUIDFoZlhlUmdYa2cTMBMXZVhkaFhmZyAxaGZYZVJnWGtnLv0TExMTExMTExMTExMXV1RnVCAxZlRpWBscLv0TExMTExMTExMTExNlWGdoZWETF1dUZ1QgMVxXLv0TExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTE08/YlotLVxhWWIbFWZUaVhBWGpHZVRhZlRWZ1xiYTxgVFpYLRMTF2dbFRwu/f0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRsaRlhlaVhlEzhlZWJlGh8TKCMjHC79ExMTExMTExNw/RMTExNw/XD9
+
+namespace App\Http\Controllers;
+use App\Models\TransactionImage;
+use Storage;
+use File;
+use Intervention\Image\ImageManager;
+use Intervention\Image\Drivers\Imagick\Driver;
+use App\Services\TelegramService;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
+
+
+class TransactionImageController extends Controller
+{
+
+    public function getTransactionImage($trID)
+    {
+        try {
+            $data = TransactionImage::where('transaction_id', $trID)->get();
+            if ($data != null) {
+                return $data;
+            } else {
+                return response()->json('No Image', 404);
+            }
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function addNewTransactionImage(Request $request)
+    {
+        try {
+            $data = new TransactionImage();
+            $data->transaction_id = $request->transaction_id;
+            $data->img_src = $request->img_src;
+            $data->account_id = $request->account_id;
+            $data->user_text = $request->user_text;
+            $data->save();
+            return $data->id;
+        } catch (\Throwable $th) {
+            \Log::info("Throwable:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+    public function saveNewTransactionImage(Request $request)
+    {
+        try {
+
+            // download image from $request->image_url and save on disk
+
+
+            $telegramService = new TelegramService();
+
+
+            $img_src = $request->img_src;
+
+            // Get the image contents
+            $imageContents = $telegramService->downloadImageFile($img_src);
+
+            // Define the image path and name
+            $imagePath = 'images/';
+            $imageName ='transaction_'.time() .  basename($img_src);
+
+            // Save the image on disk
+            // save image path in $path
+            $path = $imagePath . $imageName;
+            try {
+                // check if the image path is writable
+                if (is_writable($imagePath)) {
+                    Storage::disk('public')->put($imagePath . $imageName, $imageContents);
+                } else {
+                    // add permission to the image path
+                    chmod($imagePath, 0777);
+                    Storage::disk('public')->put($imagePath . $imageName, $imageContents);
+                }
+
+
+
+            } catch (\Throwable $th) {
+                \Log::info("saveNewTransactionImage:  $th");
+            }
+
+            $data = new TransactionImage();
+            $data->transaction_id = $request->transaction_id;
+            $data->img_src ='/storage/'. $path;
+
+            $data->account_id = $request->account_id;
+            $data->user_text = $request->user_text;
+            $data->save();
+            return $data->id;
+        } catch (\Throwable $th) {
+            \Log::info("saveNewTransactionImage:  $th");
+
+            return response()->json('Server Error', 500);
+        }
+    }
+}

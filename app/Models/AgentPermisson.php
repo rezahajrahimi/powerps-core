@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'WNJTJd'); return 0;
-##!!!##+/tfUl5WZGFSVFYRMmFhTT5gVVZdZCz7+2ZkVhE6XV1mXlpfUmVWTTVSZVJTUmRWTTZdYGJmVl9lTTdSVGVgY1pWZE05UmQ3UlRlYGNqLPtmZFYROl1dZl5aX1JlVk01UmVSU1JkVk02XWBiZlZfZU0+YFVWXSz7+1RdUmRkETJYVl9lQVZjXlpkZGBfEVZpZVZfVWQRPmBVVl37bPsRERERZmRWETlSZDdSVGVgY2os+xERERFhY2BlVlRlVlURFVdaXV1SU11WES4RTBEYZmRWY1BaVRgdERheWl9mZFBTUl1dUl9UVhgdERheWl9mZFBTUl1dUl9UVlBdWl5aZRgdERhUY1ZSZVZQYWNgVWZUZWQYHREYVVZdVmVWUGFjYFVmVGVkGB0YZWNSV1daVFBdWl5aZVJlWmBfUGVTGB0YYWNgVWZUZVBdWl5aZVJlWmBfGB0RGGFjYFVmVGVQVGBmX2VQU1JkVl1aX1YYHREYZWNSV1daVFBlU1BTUmRWXVpfVhhOLPsRERERYWZTXVpUEVdmX1RlWmBfEWZkVmMZGvsRERERbPsREREREREREWNWZWZjXxEVZVlaZB4vU1ZdYF9YZEVgGUFSX19WXSsrVF1SZGQdERhmZFZjUFpVGBos+/sRERERbvv7bvs=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AgentPermisson extends Model
+{
+    use HasFactory;
+    protected $fillable = [ 'user_id', 'minus_ballance', 'minus_ballance_limit', 'create_products', 'delete_products','traffic_limitation_tb','product_limitation', 'product_count_baseline', 'traffic_tb_baseline'];
+    public function user()
+    {
+        return $this->belongsTo(Pannel::class, 'user_id');
+
+    }
+
+}

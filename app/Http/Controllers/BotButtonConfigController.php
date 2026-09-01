@@ -1,3 +1,113 @@
 <?php
-bolt_decrypt( __FILE__ , '3N3FDN'); return 0;
-##!!!##lpb67fnx//zt7/Gszfz86NQAAPzoz/v6AP77+Pjx/v/HlpYB//Gszfz86Nn78PH4/+jN8ALt+u/x3/EAAPX689j7+/cB/MeWAf/xrM38/Ojf8f4C9e/x/+jO+wDX8QXu++3+8M/7+vL189/x/gL17/HHlgH/8azN/Pzo3/H+AvXv8f/o2PXv8fr/8dLx7QAB/vHf8f4C9e/xx5YB//Gs1fj4Afn1+u0A8ejUAAD86Nb/+/re8f/8+/r/8ceWAf/xrNX4+AH59frtAPHo1AAA/Oje8f0B8f8Ax5aW7/jt//+szvsAzgEAAPv6z/v68vXzz/v6AP77+Pjx/qzxBADx+vD/rM/7+gD++/j48f6WB5asrKys/AHu+PXvrPIB+u8A9fv6rOvr7/v6/wD+Ae8AtJasrKysrKysrPz+9QLtAPGs/vHt8Pv6+AWszvsA1/EF7vvt/vDP+/ry9fPf8f4C9e/xrLD38QXu++3+8M/7+vL186zJrPrxA6zO+wDX8QXu++3+8M/7+vL189/x/gL17/G0tbiWrKysrKysrKz8/vUC7QDxrP7x7fD7+vgFrNj17/H6//HS8e0AAf7x3/H+AvXv8ayw+PXv8fr/8azJrPrxA6zY9e/x+v/x0vHtAAH+8d/x/gL17/G0tbiWrKysrLWsB5asrKysCZaWrKysrPz+9QLtAPGs8gH67wD1+/qs//X4AvH+2PXv8fr/8d7x/QH1/vHwtLXGrMvW//v63vH//Pv6//GWrKysrAeWrKysrKysrKz18qy0raywAPT1/7nK+PXv8fr/8bnK7+36zwH/APv59QbxzvsAzgEAAPv6/7S1tawHlqysrKysrKysrKysrP7xAAH++qywAPT1/7nK+PXv8fr/8bnK//X4AvH+3vH9AfX+8fDe8f/8+/r/8bS1x5asrKysrKysrAmWlqysrKysrKys/vEAAf76rPoB+PjHlqysrKwJlpasrKys/AHu+PXvrPIB+u8A9fv6rPPxAM/7+vL187S1xqzW//v63vH//Pv6//GWrKysrAeWrKysrKysrKz18qy0sPDx+vXx8KzJrLAA9PX/ucr/9fgC8f7Y9e/x+v/x3vH9AfX+8fC0tbWsB5asrKysrKysrKysrKz+8QAB/vqssPDx+vXx8MeWrKysrKysrKwJlpasrKysrKysrLAA9PX/ucr38QXu++3+8M/7+vL187nK8fr/Af7x3/EAAPX68//RBPX/ALS1x5aWrKysrKysrKz+8QAB/vqs/vH//Pv6//G0tbnK9v/7+rTnlqysrKysrKysrKysrLP+8fz4BevuAQAA+/r/6/zx/uv++wOzrMnKrLAA9PX/ucr38QXu++3+8M/7+vL187nK8/EA1foA3/EAAPX687TO+wDX8QXu++3+8M/7+vL189/x/gL17/HGxt/R4ODV2tPr3tHc2OXrz9vY4dna37isvrW4lqysrKysrKysrKysrLP1+vj1+vHr7gEAAPv6/+v88f7r/vsDs6zJyqywAPT1/7nK9/EF7vvt/vDP+/ry9fO5yvPxANX6AN/xAAD1+vO0zvsA1/EF7vvt/vDP+/ry9fPf8f4C9e/xxsbf0eDg1drT69Xa2NXa0evP29jh2drfuKy9tbiWrKysrKysrKysrKyss/zt7/ft8/Hr7gEAAPv6/+v88f7r/vsDs6zJyqywAPT1/7nK9/EF7vvt/vDP+/ry9fO5yvPxANX6AN/xAAD1+vO0zvsA1/EF7vvt/vDP+/ry9fPf8f4C9e/xxsbf0eDg1drT69zNz9fN09Hrz9vY4dna37isvbW4lqysrKysrKysrKysrLP+8fz4Bev38QXu++3+8Ov88f7/9f8A8foAs6zJyqywAPT1/7nK9/EF7vvt/vDP+/ry9fO5yvPxAM77+/jf8QAA9frztM77ANfxBe777f7wz/v68vXz3/H+AvXv8cbG39Hg4NXa0+ve0dzY5evc0d7f1d/g0drguKzy7fj/8bW4lqysrKysrKysrKysrLP57fX66/nx+gHr8vX+/wDr9QDx+evt+Pv68bOsycqssAD09f+5yvfxBe777f7wz/v68vXzucrz8QDO+/v43/EAAPX687TO+wDX8QXu++3+8M/7+vL189/x/gL17/HGxt/R4ODV2tPr2c3V2uvZ0drh69LV3t/g683Y29rRuKwA/gHxtbiWrKysrKysrKysrKyss/8ABfjx6/4B+PH/s6zJyqywAPT1/7nK9/EF7vvt/vDP+/ry9fO5yvPxAN8A+/7x8N8ABfjx3gH48f+0tbiWrKysrKysrKysrKyss+0C7fX47e748ev/AAX48f+zrMnKrM77ANfxBe777f7wz/v68vXz3/H+AvXv8cbG3+Dl2NHfuJasrKysrKysrKysrKyzAPH48fP+7fnr8vHtAAH+8f+zrMnKrOeWrKysrKysrKysrKysrKysrLPuAQAA+/rr/wAF+PGzrMnKrLPO+wCszdzVrMW6wLesbgwgrPz+9fnt/gWstGQuZDRnGLW4rP8B7+/x//+stGQ/ZDRkPrW4rPDt+vPx/qy0ZQ5kPWURZD61s7iWrKysrKysrKysrKysrKysrLP17/v66+8B/wD7+evx+fv29ev18LOsycqss877AKzN3NWsxbrAt6xuDCCsZDNnGGURZRRkOGcYrGQ/ZQ1kM2Q9ZEBnGKxlDmQ0ZRCsZDNkPqxlEWQ2ZRKsZDtmNWURZROzuJasrKysrKysrKysrKysrKyss/X/6/zx/v/1/wDx+gCzrMnKrLNmNWcYZDRlFGQ9ZDusZUpkM2cYZxhlEqxlE2URZxhkQGUTrGUSZRFkM2cYZECsZDtkM2Q7ZROsZRFnGG4MGGRAZRRkO7O4lqysrKysrKysrKysrOm4lqysrKysrKys6bXHlqysrKwJlpasrKys/AHu+PXvrPIB+u8A9fv6rAH88O0A8djtBfsBAN/xAAD1+vP/tN7x/QHx/wCssP7x/QHx/wC1xqzW//v63vH//Pv6//GWrKysrAeWrKysrKysrKz18qy0sPDx+vXx8KzJrLAA9PX/ucr/9fgC8f7Y9e/x+v/x3vH9AfX+8fC0tbWsB5asrKysrKysrKysrKz+8QAB/vqssPDx+vXx8MeWrKysrKysrKwJlpasrKysrKysrLAC7fj18O0A8fCsyayw/vH9AfH/ALnKAu349fDtAPG055asrKysrKysrKysrKyz/vH8+AXr7gEAAPv6/+v88f7r/vsDs6zJyqyz+gH4+O3u+PEI9foA8fPx/gj59frGvQj57QTGxLO4lqysrKysrKysrKysrLP1+vj1+vHr7gEAAPv6/+v88f7r/vsDs6zJyqyz+gH4+O3u+PEI9foA8fPx/gj59frGvQj57QTGxLO4lqysrKysrKysrKysrLP87e/37fPx6+4BAAD7+v/r/PH+6/77A7Osycqss/oB+Pjt7vjxCPX6APHz8f4I+fX6xr0I+e0ExsSzuJasrKysrKysrKysrKyz/vH8+AXr9/EF7vvt/vDr/PH+//X/APH6ALOsycqss/oB+Pjt7vjxCO77+/jx7fqzuJasrKysrKysrKysrKyz+e31+uv58foB6/L1/v8A6/UA8fnr7fj7+vGzrMnKrLP6Afj47e748Qju+/v48e36s7iWrKysrKysrKzptceWlqysrKysrKyssPnt/KzJrOeWrKysrKysrKysrKyss/7x/PgF6+4BAAD7+v/r/PH+6/77A7OsycqszvsA1/EF7vvt/vDP+/ry9fPf8f4C9e/xxsbf0eDg1drT697R3Njl68/b2OHZ2t+4lqysrKysrKysrKysrLP1+vj1+vHr7gEAAPv6/+v88f7r/vsDs6zJyqzO+wDX8QXu++3+8M/7+vL189/x/gL17/HGxt/R4ODV2tPr1drY1drR68/b2OHZ2t+4lqysrKysrKysrKysrLP87e/37fPx6+4BAAD7+v/r/PH+6/77A7OsycqszvsA1/EF7vvt/vDP+/ry9fPf8f4C9e/xxsbf0eDg1drT69zNz9fN09Hrz9vY4dna37iWrKysrKysrKysrKyss/7x/PgF6/fxBe777f7w6/zx/v/1/wDx+gCzrMnKrM77ANfxBe777f7wz/v68vXz3/H+AvXv8cbG39Hg4NXa0+ve0dzY5evc0d7f1d/g0drguJasrKysrKysrKysrKyz+e31+uv58foB6/L1/v8A6/UA8fnr7fj7+vGzrMnKrM77ANfxBe777f7wz/v68vXz3/H+AvXv8cbG39Hg4NXa0+vZzdXa69nR2uHr0tXe3+Drzdjb2tG4lqysrKysrKys6ceWlqysrKysrKys8vv+8e3v9Ky0sPnt/Kzt/6yw/vH9AfH/ANfxBazJyqyw//EAAPX689rt+fG1rAeWrKysrKysrKysrKys9fKstK2s7f7+7QXr9/EF6/EE9f8A/7Sw/vH9AfH/ANfxBbissALt+PXw7QDx8LWsCAissALt+PXw7QDx8Oew/vH9AfH/ANfxBemsycnJrPoB+Pi1rAeWrKysrKysrKysrKysrKysrO/7+gD1+gHxx5asrKysrKysrKysrKwJlpasrKysrKysrKysrKywAu34AfGsyaz1/+vu+/v4tLAC7fj18O0A8fDnsP7x/QHx/wDX8QXptZasrKysrKysrKysrKysrKysy6y0sALt+PXw7QDx8Oew/vH9AfH/ANfxBemsy6yzAP4B8bOsxqyz8u34//GztZasrKysrKysrKysrKysrKysxqy0/wD+9frztaywAu349fDtAPHw57D+8f0B8f8A1/EF6ceWlqysrKysrKysrKysrM3wAu367/Hf8QAA9frz2Pv79wH8xsb9AfH+BbS1ucoB/PDtAPHb/s/+8e0A8bSWrKysrKysrKysrKysrKysrOez+u358bOsycqssP/xAAD1+vPa7fnx6biWrKysrKysrKysrKysrKysrOezAu34AfGzrMnKrLAC7fgB8em4lqysrKysrKysrKysrLXHlqysrKysrKysCZaWrKysrKysrKz+8QAB/vqssAD09f+5yvPxAM/7+vL187S1x5asrKysCZaWrKysrPwB7vj176zyAfrvAPX7+qwB/PDtAPHfAAX48d4B+PH/tN7x/QHx/wCssP7x/QHx/wC1xqzW//v63vH//Pv6//GWrKysrAeWrKysrKysrKz18qy0sPDx+vXx8KzJrLAA9PX/ucr/9fgC8f7Y9e/x+v/x3vH9AfX+8fC0tbWsB5asrKysrKysrKysrKz+8QAB/vqssPDx+vXx8MeWrKysrKysrKwJlpasrKysrKysrLAC7fj18O0A8fCsyayw/vH9AfH/ALnKAu349fDtAPG055asrKysrKysrKysrKyz/wAF+PHr/gH48f+zrMnKrLP+8f0B9f7x8Ajt/v7tBbO4lqysrKysrKysrKysrLP/AAX48ev+Afjx/7q2uvntAO/0s6zJyqyz/vH9AfX+8fAI/wD+9frzCPntBMa9vryzuJasrKysrKysrKysrKyz/wAF+PHr/gH48f+6trr57QDv9OsABfzxs6zJyqyz/vH9AfX+8fAI/wD+9frzCPX6xu3vAPX7+uv8/vHy9QS48QTt7wC47+34+O7t7/fr7/v6AO31+v+zuJasrKysrKysrKysrKyz/wAF+PHr/gH48f+6trr/AAX48bOsycqss/oB+Pjt7vjxCP8A/vX68wj1+sb8/vX57f4FuP8B7+/x//+48O368/H+s7iWrKysrKysrKysrKyss/8ABfjx6/4B+PH/ura69e/7+uvvAf8A+/nr8fn79vXr9fCzrMnKrLP6Afj47e748Qj/AP71+vMI+e0ExsLAs7iWrKysrKysrKzptceWlqysrKysrKyszfAC7frv8d/xAAD1+vPY+/v3AfzGxv0B8f4FtLW5ygH88O0A8dv+z/7x7QDxtJasrKysrKysrKysrKzns/rt+fGzrMnKrM77ANfxBe777f7wz/v68vXz3/H+AvXv8cbG39Hg4NXa0+vf4OXY0eve4djR3+m4lqysrKysrKysrKysrOezAu34AfGzrMnKrPb/+/rr8frv+/DxtLAC7fj18O0A8fDns/8ABfjx6/4B+PH/s+m4rNbf29rr4drR38/N3NHQ6+Ha1c/b0NG16biWrKysrKysrKy1x5aWrKysrKysrKz+8QAB/vqssAD09f+5yvPxAM/7+vL187S1x5asrKysCZYJlg==
+
+namespace App\Http\Controllers;
+
+use App\Models\AdvanceSettingLookup;
+use App\Services\BotKeyboardConfigService;
+use App\Services\LicenseFeatureService;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Http\Request;
+
+class BotButtonConfigController extends Controller
+{
+    public function __construct(
+        private readonly BotKeyboardConfigService $keyboardConfig = new BotKeyboardConfigService(),
+        private readonly LicenseFeatureService $license = new LicenseFeatureService(),
+    ) {
+    }
+
+    private function silverLicenseRequired(): ?JsonResponse
+    {
+        if (! $this->license->canCustomizeBotButtons()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        return null;
+    }
+
+    public function getConfig(): JsonResponse
+    {
+        if ($denied = $this->silverLicenseRequired()) {
+            return $denied;
+        }
+
+        $this->keyboardConfig->ensureSettingsExist();
+
+        return response()->json([
+            'reply_buttons_per_row' => $this->keyboardConfig->getIntSetting(BotKeyboardConfigService::SETTING_REPLY_COLUMNS, 2),
+            'inline_buttons_per_row' => $this->keyboardConfig->getIntSetting(BotKeyboardConfigService::SETTING_INLINE_COLUMNS, 1),
+            'package_buttons_per_row' => $this->keyboardConfig->getIntSetting(BotKeyboardConfigService::SETTING_PACKAGE_COLUMNS, 1),
+            'reply_keyboard_persistent' => $this->keyboardConfig->getBoolSetting(BotKeyboardConfigService::SETTING_REPLY_PERSISTENT, false),
+            'main_menu_first_item_alone' => $this->keyboardConfig->getBoolSetting(BotKeyboardConfigService::SETTING_MAIN_MENU_FIRST_ALONE, true),
+            'style_rules' => $this->keyboardConfig->getStoredStyleRules(),
+            'available_styles' => BotKeyboardConfigService::STYLES,
+            'telegram_features' => [
+                'button_style' => 'Bot API 9.4+ — primary (آبی), success (سبز), danger (قرمز)',
+                'icon_custom_emoji_id' => 'Bot API 9.4+ — ایموجی سفارشی قبل از متن دکمه',
+                'is_persistent' => 'کیبورد پایین همیشه نمایش داده می‌شود',
+            ],
+        ]);
+    }
+
+    public function updateLayoutSettings(Request $request): JsonResponse
+    {
+        if ($denied = $this->silverLicenseRequired()) {
+            return $denied;
+        }
+
+        $validated = $request->validate([
+            'reply_buttons_per_row' => 'nullable|integer|min:1|max:8',
+            'inline_buttons_per_row' => 'nullable|integer|min:1|max:8',
+            'package_buttons_per_row' => 'nullable|integer|min:1|max:8',
+            'reply_keyboard_persistent' => 'nullable|boolean',
+            'main_menu_first_item_alone' => 'nullable|boolean',
+        ]);
+
+        $map = [
+            'reply_buttons_per_row' => BotKeyboardConfigService::SETTING_REPLY_COLUMNS,
+            'inline_buttons_per_row' => BotKeyboardConfigService::SETTING_INLINE_COLUMNS,
+            'package_buttons_per_row' => BotKeyboardConfigService::SETTING_PACKAGE_COLUMNS,
+            'reply_keyboard_persistent' => BotKeyboardConfigService::SETTING_REPLY_PERSISTENT,
+            'main_menu_first_item_alone' => BotKeyboardConfigService::SETTING_MAIN_MENU_FIRST_ALONE,
+        ];
+
+        foreach ($map as $requestKey => $settingName) {
+            if (! array_key_exists($requestKey, $validated) || $validated[$requestKey] === null) {
+                continue;
+            }
+
+            $value = is_bool($validated[$requestKey])
+                ? ($validated[$requestKey] ? 'true' : 'false')
+                : (string) $validated[$requestKey];
+
+            AdvanceSettingLookup::query()->updateOrCreate(
+                ['name' => $settingName],
+                ['value' => $value],
+            );
+        }
+
+        return $this->getConfig();
+    }
+
+    public function updateStyleRules(Request $request): JsonResponse
+    {
+        if ($denied = $this->silverLicenseRequired()) {
+            return $denied;
+        }
+
+        $validated = $request->validate([
+            'style_rules' => 'required|array',
+            'style_rules.*.match' => 'required|string|max:120',
+            'style_rules.*.match_type' => 'required|string|in:action_prefix,exact,callback_contains',
+            'style_rules.*.style' => 'nullable|string|in:primary,success,danger',
+            'style_rules.*.icon_custom_emoji_id' => 'nullable|string|max:64',
+        ]);
+
+        AdvanceSettingLookup::query()->updateOrCreate(
+            ['name' => BotKeyboardConfigService::SETTING_STYLE_RULES],
+            ['value' => json_encode($validated['style_rules'], JSON_UNESCAPED_UNICODE)],
+        );
+
+        return $this->getConfig();
+    }
+}

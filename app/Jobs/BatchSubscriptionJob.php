@@ -1,3 +1,152 @@
 <?php
-bolt_decrypt( __FILE__ , 'jhY9H6'); return 0;
-##!!!##7OxQQ09HVVJDRUcCI1JSPixRRFUd7OxXVUcCI1JSPi9RRkdOVT4pVFFXUjFSR1RDVktRUCxRRB3sV1VHAiNSUj4vUUZHTlU+MkNQUEdOHexXVUcCI1JSPjVHVFhLRUdVPiRDVkVKMkNQR04xUkdUQ1ZLUVA1R1RYS0VHHexXVUcCK05OV09LUENWRz4kV1U+M1dHV0dDRE5HHexXVUcCK05OV09LUENWRz4lUVBWVENFVlU+M1dHV0c+NUpRV05GM1dHV0cd7FdVRwIrTk5XT0tQQ1ZHPihRV1BGQ1ZLUVA+JFdVPiZLVVJDVkVKQ0RORx3sV1VHAitOTldPS1BDVkc+M1dHV0c+K1BWR1RDRVZVOUtWSjNXR1dHHexXVUcCK05OV09LUENWRz4zV0dXRz41R1RLQ05LXEdVL1FGR05VHexXVUcCK05OV09LUENWRz41V1JSUVRWPihDRUNGR1U+LlFJHezsRU5DVVUCJENWRUo1V0RVRVRLUlZLUVAsUUQCS09STkdPR1BWVQI1SlFXTkYzV0dXR+xd7AICAgJXVUcCJktVUkNWRUpDRE5HDgIrUFZHVENFVlU5S1ZKM1dHV0cOAjNXR1dHQ0RORw4CNUdUS0NOS1xHVS9RRkdOVR3s7AICAgJSVFFWR0VWR0YCBkNFVktRUA4CBk5LVVYxSCVRUEhLSVUOAgZSQ1BHTismDgIGR1pWVEMOAgZMUUQ0R0VRVEYrRh3s7AICAgJSV0ROS0UCSFdQRVZLUVACQUFFUVBVVlRXRVYKBkNFVktRUA4CBk5LVVYxSCVRUEhLSVUOAgZSQ1BHTismDgIGR1pWVEMCHwI9Pw4CBkxRRDRHRVFURitGAh8CUFdOTgvsAgICAl3sAgICAgICAgIGVkpLVQ8gQ0VWS1FQAh8CBkNFVktRUB3sAgICAgICAgIGVkpLVQ8gTktVVjFIJVFQSEtJVQIfAgZOS1VWMUglUVBIS0lVHewCAgICAgICAgZWSktVDyBSQ1BHTismAh8CBlJDUEdOKyYd7AICAgICAgICBlZKS1UPIEdaVlRDAh8CBkdaVlRDHewCAgICAgICAgZWSktVDyBMUUQ0R0VRVEYrRgIfAgZMUUQ0R0VRVEYrRh3sAgICAl/s7AICAgJSV0ROS0UCSFdQRVZLUVACSkNQRk5HCgvsAgICAl3sAgICAgIC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AgZIQ0tOR0YrVkdPVT0/Ah8CPewCAgICAgICAgICAgICAgICAgICAgICAgIJUENPRwkCHyACBkVRUEhLSTBDT0cO7AICAgICAgICAgICAgICAgICAgICAgICAglHVFRRVAkCHyACBk9HVVVDSUcO7AICAgICAgICAgICAgICAgICAgICPx3sAgICAgICAgICAgICAgICAgICAgIGVkdOR0lUQ081R1RYS0VHDyBVR1BGL0dVVUNJRwoGQ0ZPS1ArRg4CBk9HVVVDSUcLHewCAgICAgICAgICAgICAgICXwJHTlVHAl3sAgICAgICAgICAgICAgICAgICAgIGVVdFRUdVVStWR09VPT8CHwI9CVBDT0cJAh8gAgZFUVBIS0kwQ09HPx3sAgICAgICAgICAgICAgICAgICAgIGVkdOR0lUQ081R1RYS0VHDyBVR1BGL0dVVUNJRwoGQ0ZPS1ArRg4CCbqbu2e7Zr1uuom6jAIJAhACBkNFVktRUC5DREdOVT0GQ0VWS1FQPwIQAgkCuoq6k7qJvW4CCQIQAgZFUVBIS0kwQ09HAhACCQK6irqJArtnu2q7Y7tkvW66jAK6ibtouo66ibtnArqWupEQCQsd7AICAgICAgICAgICAgICAgJf7OwCAgICAgICAgICAgICAgICS0gCCgZMUUQ0R0VRVEYLAl3sAgICAgICAgICAgICAgICAgICAgIGTFFENEdFUVRGDyBXUkZDVkcKPewCAgICAgICAgICAgICAgICAgICAgICAgIJUlRRRUdVVUdGQUVRUEhLSVUJAh8gAgZSVFFFR1VVR0YO7AICAgICAgICAgICAgICAgICAgICAgICAglVV0VFR1VVQUtWR09VCQIfIAIGVVdFRUdVVStWR09VDuwCAgICAgICAgICAgICAgICAgICAgICAgIJSENLTkdGQUtWR09VCQIfIAIGSENLTkdGK1ZHT1UO7AICAgICAgICAgICAgICAgICAgICPwsd7AICAgICAgICAgICAgICAgJf7OwCAgICAgICAgICAgICAgICS0gCCgMCBlRHVVdOVgsCXewCAgICAgICAgICAgICAgICAgICAkRUR0NNHewCAgICAgICAgICAgICAgICX+wCAgICAgICAgICAgJf7AICAgICAgICXwJFQ1ZFSgIKPjZKVFFZQ0RORwIGVkoLAl3sAgICAgICAgICAgICBlVXRUVHVVUCHwJIQ05VRx3sAgICAgICAgICAgICBk9HVVVDSUcCHwIJupC6mbqJArqRupMCuom6jrqTuom9bgK6m7tnu2a9brqJuowcAgkCEAIGVkoPIElHVi9HVVVDSUcKCx3sAgICAgICAgICAgICLlFJHBxHVFRRVAoGT0dVVUNJRwsd7AICAgICAgICXwJIS1BDTk5bAl3sAgICAgICAgICAgICS0gCCgZMUUQ0R0VRVEYLAl3sAgICAgICAgICAgICAgICAgZMUUQ0R0VRVEYPIFdSRkNWRwo97AICAgICAgICAgICAgICAgICAgICCVVWQ1ZXVQkCHyACBlVXRUVHVVUCIQIJRVFPUk5HVkdGCQIcAglIQ0tOR0YJDuwCAgICAgICAgICAgICAgICAgICAglHVFRRVEFPR1VVQ0lHCQIfIAIGVVdFRUdVVQIhAlBXTk4CHAIGT0dVVUNJRw7sAgICAgICAgICAgICAgICAgICAgIJVVdFRUdVVUFLVkdPVQkCHyACBlVXRUVHVVUrVkdPVQ7sAgICAgICAgICAgICAgICAgICAgIJSENLTkdGQUtWR09VCQIfIAIGSENLTkdGK1ZHT1UO7AICAgICAgICAgICAgICAgI/Cx3sAgICAgICAgICAgICX+wCAgICAgICAl/s7AICAgICAgICVlRbAl3sAgICAgICAgICAgICS0gCCgZVV0VFR1VVCwJd7AICAgICAgICAgICAgICAgIGVkdOR0lUQ081R1RYS0VHDyBVR1BGL0dVVUNJRwoGQ0ZPS1ArRg4CCbqbu2e7Zr1uuom6jAK6irqJArtnu2q7Y7tkvW66jAK6irtpArqJuoy7Z7qJu2cCupO6lb1uupEQCQsd7AICAgICAgICAgICAl8CR05VR0tIAgoGT0dVVUNJRwIDHx8CCQkLAl3sAgICAgICAgICAgICAgICAgZWR05HSVRDTzVHVFhLRUcPIFVHUEYvR1VVQ0lHCgZDRk9LUCtGDgIJupC6mbqJHAIJAhACBk9HVVVDSUcLHewCAgICAgICAgICAgJf7AICAgICAgICXwJFQ1ZFSgIKPjZKVFFZQ0RORwIGVkoLAl3sAgICAgICAgICAgICLlFJHBxHVFRRVAoJupC6mbqJArqRupMCuom6k7qVuom7ZgK7oL1uuom7ZwK7aLqMvW66jrtpArqKu2kCu2e6kb1uupMcAgkCEAIGVkoPIElHVi9HVVVDSUcKCwsd7AICAgICAgICX+wCAgICX+xf7A==
+
+namespace App\Jobs;
+
+use App\Models\GroupOperationJob;
+use App\Models\Pannel;
+use App\Services\BatchPanelOperationService;
+use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
+use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Queue\InteractsWithQueue;
+use Illuminate\Queue\SerializesModels;
+use Illuminate\Support\Facades\Log;
+
+class BatchSubscriptionJob implements ShouldQueue
+{
+    use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
+
+    protected $action, $listOfConfigs, $panelID, $extra, $jobRecordId;
+
+    public function __construct($action, $listOfConfigs, $panelID, $extra = [], $jobRecordId = null)
+    {
+        $this->action = $action;
+        $this->listOfConfigs = $listOfConfigs;
+        $this->panelID = $panelID;
+        $this->extra = $extra;
+        $this->jobRecordId = $jobRecordId;
+    }
+
+    public function handle()
+    {
+        $success = true;
+        $message = '';
+        $adminId = env(key: 'TELEGRAM_ADMIN_ID');
+        $telegramService = app(\App\Services\TelegramService::class);
+        $operationService = app(BatchPanelOperationService::class);
+        $jobRecord = $this->jobRecordId
+            ? GroupOperationJob::find($this->jobRecordId)
+            : null;
+        $successItems = [];
+        $failedItems = [];
+
+        try {
+            $action = $this->action;
+            $listOfConfigs = $this->listOfConfigs;
+            $panelID = $this->panelID;
+            $extra = $this->extra;
+            $panel = Pannel::find($panelID);
+
+            if ($jobRecord) {
+                $jobRecord->update(['status' => 'processing']);
+            }
+
+            if (! isset($listOfConfigs)) {
+                $success = false;
+                $message = 'لیست پیکربندی‌ها ارسال نشده است.';
+
+                return;
+            }
+
+            if (! $operationService->supportsPanel($panel)) {
+                $success = false;
+                $message = 'این نوع پنل از عملیات گروهی پشتیبانی نمی‌شود.';
+
+                return;
+            }
+
+            $actionLabels = GroupOperationJob::actionLabels();
+
+            if (! array_key_exists($action, $actionLabels)) {
+                $success = false;
+                $message = 'عملیات نامعتبر است.';
+
+                return;
+            }
+
+            if (in_array($action, ['inc_days', 'dec_days', 'modify_days'], true) && ! isset($extra['days'])) {
+                $success = false;
+                $message = 'تعداد روزها ارسال نشده است.';
+
+                return;
+            }
+
+            if (in_array($action, ['inc_vol', 'dec_vol', 'modify_vol'], true) && ! isset($extra['vol'])) {
+                $success = false;
+                $message = 'مقدار حجم ارسال نشده است.';
+
+                return;
+            }
+
+            $telegramService->sendMessage($adminId, 'عملیات ' . $actionLabels[$action] . ' شروع شد.');
+
+            $processed = 0;
+            foreach ($listOfConfigs as $config) {
+                $aa = is_array($config) ? $config : json_decode($config, true);
+                $config = (array) $aa;
+                $configName = $config['name'] ?? ($config['uuid'] ?? 'نامشخص');
+
+                $result = $operationService->execute($action, $config, $panel, $extra);
+                $processed++;
+
+                if (! $result) {
+                    $success = false;
+                    $message = 'خطا در اجرای عملیات روی پیکربندی: ' . $configName;
+                    $failedItems[] = [
+                        'name' => $configName,
+                        'error' => $message,
+                    ];
+                    $telegramService->sendMessage($adminId, $message);
+                } else {
+                    $successItems[] = ['name' => $configName];
+                    $telegramService->sendMessage($adminId, 'عملیات ' . $actionLabels[$action] . ' برای ' . $configName . ' با موفقیت انجام شد.');
+                }
+
+                if ($jobRecord) {
+                    $jobRecord->update([
+                        'processed_configs' => $processed,
+                        'success_items' => $successItems,
+                        'failed_items' => $failedItems,
+                    ]);
+                }
+
+                if (! $result) {
+                    break;
+                }
+            }
+        } catch (\Throwable $th) {
+            $success = false;
+            $message = 'خطا در اجرای عملیات: ' . $th->getMessage();
+            Log::error($message);
+        } finally {
+            if ($jobRecord) {
+                $jobRecord->update([
+                    'status' => $success ? 'completed' : 'failed',
+                    'error_message' => $success ? null : $message,
+                    'success_items' => $successItems,
+                    'failed_items' => $failedItems,
+                ]);
+            }
+        }
+
+        try {
+            if ($success) {
+                $telegramService->sendMessage($adminId, 'عملیات با موفقیت به اتمام رسید.');
+            } elseif ($message !== '') {
+                $telegramService->sendMessage($adminId, 'خطا: ' . $message);
+            }
+        } catch (\Throwable $th) {
+            Log::error('خطا در ارسال پیام نتیجه به مدیر: ' . $th->getMessage());
+        }
+    }
+}

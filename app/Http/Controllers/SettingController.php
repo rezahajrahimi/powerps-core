@@ -1,3 +1,152 @@
 <?php
-bolt_decrypt( __FILE__ , 'wihmhA'); return 0;
-##!!!##aGjMv8vD0c6/wcN+n87OuqbS0s66oc3M0tDNysrD0NGZaNPRw36fzs66q83Cw8rRurHD0tLHzMWZaNPRw36fzs66ptLSzrqhzczS0M3KysPQ0bqizdLDzNSjwsfSzdCZaNPRw36fzs66scPQ1MfBw9G6oc3MxMfFrL/Lw7HD0NTHwcOZaNPRw36nysrTy8fMv9LDuqbS0s66sMPP08PR0plo09HDfqfKytPLx8y/0sO6sdPOzs3Q0rqkv8G/wsPRup/Q0sfRv8yZaGjByr/R0X6xw9LSx8zFoc3M0tDNysrD0H7D1tLDzMLRfqHNzNLQzcrKw9Bo2Wh+fn5+ztPAysfBfsTTzMHSx83MftHDw8KGh2h+fn5+2Wh+fn5+fn5+fsfEfoaxw9LSx8zFmJi/ysqGh4ucx9Gjy87S14aHh37ZaH5+fn5+fn5+fn5+foLRw9LSx8zFfpt+zMPVfrHD0tLHzMWGh5lofn5+fn5+fn5+fn5+gtHD0tLHzMWLnMDN0r3Mv8vDfpt+hc7N1cPQrtGgzdKFmWh+fn5+fn5+fn5+fn6C0cPS0sfMxYucv8LLx8y9x8J+m37DzNSGhbKjqqOlsJ+rvZ+iq6esvaeihYeZaH5+fn5+fn5+fn5+foLRw9LSx8zFi5zAzdK90s3Jw8x+m37DzNSGhbKjqqOlsJ+rvaCtsr2yramjrIWHmWh+fn5+fn5+fn5+fn6C0cPS0sfMxYuc1cPKwc3Lw73Lw9HRv8XDfpt+hTYGN+V+Ng82BjYFNgh+frmezs3Vw9Cu0aDN0rt+Ngw35jYSfjYFN/E34zYNOeo2DYyFmWh+fn5+fn5+fn5+fn6C0cPS0sfMxYuczr/Mw8q9v8LC0MPR0X6bfsPM1IaFn66uvbOwqoWHmWh+fn5+fn5+fn5+fn6C0cPS0sfMxYucwc3MxMfFvcy/y8O9ztDDxMfWfpt+oc3MxMfFrL/Lw7HD0NTHwcOYmKKjpJ+zqrK9rrCjpKe2mWh+fn5+fn5+fn5+fn6C0cPS0sfMxYucwc3MxMfFvcy/y8O9xM3Qy7/Sfpt+oc3MxMfFrL/Lw7HD0NTHwcOYmKKjpJ+zqrK9pK2wq5+ymWh+fn5+fn5+fn5+fn6C0cPS0sfMxYuc09HDvb/Cy8fMvb/Kx7/RvcfMvcHNzMTHxb3Mv8vDfpt+0tDTw5lofn5+fn5+fn5+fn5+gtHD0tLHzMWLnNG/1MOGh5lofn5+fn5+fn5+fn5+0MPS09DMftLQ08OZaH5+fn5+fn5+22h+fn5+fn5+ftDD0tPQzH7Ev8rRw5lofn5+fttofn5+fs7TwMrHwX7E08zB0sfNzH7Fw9K1w8rBzcvDq8PR0b/Fw4aHaH5+fn7ZaH5+fn5+fn5+0MPS09DMfrHD0tLHzMWYmJ/KyoaHi5zEx9DR0oaHi5zVw8rBzcvDvcvD0dG/xcOZaH5+fn7baH5+fn7O08DKx8F+xNPMwdLHzcx+xcPSn8LLx8ynwoaHaH5+fn7ZaH5+fn5+fn5+0MPS09DMfrHD0tLHzMWYmJ/KyoaHi5zEx9DR0oaHi5y/wsvHzL3Hwplofn5+fttofn5+fs7TwMrHwX7E08zB0sfNzH7Fw9KgzdKyzcnDzIaHaH5+fn7ZaH5+fn5+fn5+0MPS09DMfrHD0tLHzMWYmMTHzMKGj4eLnMDN0r3SzcnDzJlofn5+fttofn5+fs7TwMrHwX7E08zB0sfNzH7Fw9KgzdKxw9LSx8zFhodofn5+ftlofn5+fn5+fn6C0cPS0sfMxX6bfrHD0tLHzMWYmJ/KyoaHi5zEx9DR0oaHmWh+fn5+fn5+fsfEfoaC0cPS0sfMxX5/m37M08rKh37ZaH5+fn5+fn5+fn5+ftDD0tPQzH6C0cPS0sfMxZlofn5+fn5+fn7bfsPK0cN+2Wh+fn5+fn5+fn5+fn6C0sbH0Yuc0cPDwoaHmWh+fn5+fn5+fn5+fn7Qw9LT0Mx+gtLGx9GLnMXD0qDN0rHD0tLHzMWGh5lofn5+fn5+fn7baH5+fn7baH5+fn7O08DKx8F+xNPMwdLHzcx+087Cv9LDoM3SscPS0sfMxYaww8/Tw9HSfoLQw8/Tw9HSh2h+fn5+2Wh+fn5+fn5+foLQw8/Tw9HSi5zUv8rHwr/Sw4a5aH5+fn5+fn5+fn5+foXAzdK90s3Jw8yFfpucfoXQw8/Tx9DDwtrR0tDHzMWFimh+fn5+fn5+fn5+fn6FwM3Svcy/y8OFfpucfoXQw8/Tx9DDwtrR0tDHzMWFimh+fn5+fn5+fn5+fn6Fv8LLx8y9x8KFfpucfoXQw8/Tx9DDwoWKaH5+fn5+fn5+fn5+foXOv8zDyr2/wsLQw9HRhX6bnH6F0MPP08fQw8La0dLQx8zFhYpofn5+fn5+fn5+fn5+hcHNzMTHxb3Mv8vDvc7Qw8TH1oV+m5x+hczTysq/wMrD2tHS0MfMxdrLv9aYkI7a0MPFw9aYjby5v4vYn4u4jouXu4iCjYWKaH5+fn5+fn5+fn5+foXBzczEx8W9zL/Lw73EzdDLv9KFfpucfoXM08rKv8DKw9rR0tDHzMXay7/WmJSS2tDDxcPWmI28ub+L2J+LuI6Ll73Z27qLu4iCjYWKaH5+fn5+fn5+fn5+foXT0cO9v8LLx8y9v8rHv9G9x8y9wc3MxMfFvcy/y8OFfpucfoXM08rKv8DKw9rAzc3Kw7/MhYpofn5+fn5+fn67h5loaH5+fn5+fn5+gsK/0r9+m36xw9LSx8zFmJjEx9DR0oaHmWh+fn5+fn5+fsfEfoZ/gsK/0r+Hftlofn5+fn5+fn5+fn5+gsK/0r9+m37Mw9V+scPS0sfMxYaHmWh+fn5+fn5+fttoaH5+fn5+fn5+gsK/0r+LnMDN0r3Mv8vDfpt+gtDDz9PD0dKLnMDN0r3Mv8vDmWh+fn5+fn5+foLCv9K/i5y/wsvHzL3Hwn6bfoLQw8/Tw9HSi5y/wsvHzL3Hwplofn5+fn5+fn6Cwr/Sv4ucwM3SvdLNycPMfpt+gtDDz9PD0dKLnMDN0r3SzcnDzJlofn5+fn5+fn6Cwr/Sv4uczr/Mw8q9v8LC0MPR0X6bfoLQw8/Tw9HSi5zOv8zDyr2/wsLQw9HRmWh+fn5+fn5+foLCv9K/i5zBzczEx8W9zL/Lw73O0MPEx9Z+m36hzczEx8Wsv8vDscPQ1MfBw5iYzM3Qy7/Kx9jDrtDDxMfWhmh+fn5+fn5+fn5+fn6C0MPP08PR0oucx8zO09KGhcHNzMTHxb3Mv8vDvc7Qw8TH1oWHaH5+fn5+fn5+h5lofn5+fn5+fn6Cwr/Sv4ucwc3MxMfFvcy/y8O9xM3Qy7/Sfpt+oc3MxMfFrL/Lw7HD0NTHwcOYmMzN0Mu/ysfYw6TN0Mu/0oZofn5+fn5+fn5+fn5+gtDDz9PD0dKLnMfMztPShoXBzczEx8W9zL/Lw73EzdDLv9KFh2h+fn5+fn5+foeZaH5+fn5+fn5+x8R+hoLQw8/Tw9HSi5zGv9GGhdPRw72/wsvHzL2/yse/0b3HzL3BzczEx8W9zL/Lw4WHh37ZaH5+fn5+fn5+fn5+foLCv9K/i5zT0cO9v8LLx8y9v8rHv9G9x8y9wc3MxMfFvcy/y8N+m36C0MPP08PR0oucwM3NysO/zIaF09HDvb/Cy8fMvb/Kx7/RvcfMvcHNzMTHxb3Mv8vDhYeZaH5+fn5+fn5+237DytHDx8R+hn9+gsK/0r+LnMPWx9HS0Yd+2Wh+fn5+fn5+fn5+fn6Cwr/Sv4uc09HDvb/Cy8fMvb/Kx7/RvcfMvcHNzMTHxb3Mv8vDfpt+0tDTw5lofn5+fn5+fn7baGh+fn5+fn5+fo2Nfq3Mytd+0cPSftXDysHNy8N+y8PR0b/Fw37HxH7H0oXRfsPLztLXaH5+fn5+fn5+x8R+hsPLztLXhoLCv9K/i5zVw8rBzcvDvcvD0dG/xcOHh37ZaH5+fn5+fn5+fn5+foLCv9K/i5zVw8rBzcvDvcvD0dG/xcN+m36ANgw35jYSfjYAN+M2DTnqNg2AmWh+fn5+fn5+fttoaH5+fn5+fn5+x8R+hoLCv9K/i5zRv9TDhoeHftlofn5+fn5+fn5+fn5+jY1+Ngg2GDnqOeo2D3434zfgNgU2DTnqNg9+Ng02D3433zYFOeo34n6Mw8zUaH5+fn5+fn5+fn5+foLOv9LGfpt+wL/Rw73Ov9LGhoWMw8zUhYeZaH5+fn5+fn5+fn5+fsfEfobEx8rDvcPWx9HS0YaCzr/Sxod+hIR+x9G91dDH0r/AysOGgs6/0saHh37ZaH5+fn5+fn5+fn5+fn5+fn6Cw8zUoc3M0sPM0n6bfsTHysO9xcPSvcHNzNLDzNLRhoLOv9LGh5loaH5+fn5+fn5+fn5+fn5+fn6C0MPOyr/Bw8vDzNLRfpt+uWh+fn5+fn5+fn5+fn5+fn5+fn5+foWyo6qjpbCfq72grbK9sq2po6yFfpucfoLQw8/Tw9HSi5zAzdK90s3Jw8yKaH5+fn5+fn5+fn5+fn5+fn5+fn5+hbKjqqOlsJ+rvZ+iq6esvaeihX6bnH6C0MPP08PR0oucv8LLx8y9x8KKaH5+fn5+fn5+fn5+fn5+fn5+fn5+hZ+urr2zsKqFfpucfoLQw8/Tw9HSi5zOv8zDyr2/wsLQw9HRimh+fn5+fn5+fn5+fn5+fn5+u5loaH5+fn5+fn5+fn5+fn5+fn7EzdDDv8HGfoaC0MPOyr/Bw8vDzNLRfr/RfoLJw9d+m5x+gtS/ytPDh37ZaH5+fn5+fn5+fn5+fn5+fn5+fn5+x8R+hs7Qw8W9y7/SwcaGgI282YLJw9fbm43LgIp+gsPM1KHNzNLDzNKHh37ZaH5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+foLDzNShzczSw8zSfpt+ztDDxb3Qw87Kv8HDhoCNvNmCycPX25uMiI3LgIp+gNmCycPX25u6gNmC1L/K08PbuoCAin6Cw8zUoc3M0sPM0oeZaH5+fn5+fn5+fn5+fn5+fn5+fn5+237DytHDftlofn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+gsPM1KHNzNLDzNJ+jJt+gLrM2YLJw9fbm7qA2YLUv8rTw9u6gICZaH5+fn5+fn5+fn5+fn5+fn5+fn5+22h+fn5+fn5+fn5+fn5+fn5+22hofn5+fn5+fn5+fn5+fn5+fsTHysO9ztPSvcHNzNLDzNLRhoLOv9LGin6Cw8zUoc3M0sPM0oeZaH5+fn5+fn5+fn5+fttoaH5+fn5+fn5+fn5+fp/Q0sfRv8yYmMG/ysqGhcHNzMTHxZjBysO/0IWHmWhofn5+fn5+fn5+fn5+0MPS09DMftDD0c7NzNHDhoeLnMjRzcyGuWh+fn5+fn5+fn5+fn5+fn5+hdHSv9LT0YV+m5x+0tDTw4pofn5+fn5+fn5+fn5+fn5+foXLw9HRv8XDhX6bnH6FNgg35DYWOeo34zYFNgh+NgY2BX434zfmN9834DnqNgh+NgY2DzfmNhA2DzYRNgU35DnqfjYSNg2Fimh+fn5+fn5+fn5+fn5+fn5+hcK/0r+FfpucfoLCv9K/aH5+fn5+fn5+fn5+fruHmWh+fn5+fn5+ftt+w8rRw37ZaH5+fn5+fn5+fn5+ftDD0tPQzH7Qw9HOzczRw4aHi5zI0c3Mhrlofn5+fn5+fn5+fn5+fn5+foXR0r/S09GFfpucfsS/ytHDimh+fn5+fn5+fn5+fn5+fn5+hcvD0dG/xcOFfpucfoU2DDYVNgV+Ng02D342BjYPN+Y2EDYPNhE2BTfkOep+Ngg35DYWOeo34zYFNgiFaH5+fn5+fn5+fn5+fruKfpOOjoeZaH5+fn5+fn5+22h+fn5+22h+fn5+ztPAysfBfsTTzMHSx83MfsXD0qu/x8yz0MqGh2h+fn5+2Wh+fn5+fn5+foLCv9K/fpt+scPS0sfMxZiYxMfMwoaPh5lofn5+fn5+fn6C0dLQx8zFfpt+gsK/0r+LnM6/zMPKvb/CwtDD0dGZaH5+fn5+fn5+gsPMwtG1x9LGfpt+hY2FmWh+fn5+fn5+foLQw9HTytJ+m37R0tC9w8zC0b3Vx9LGhoLR0tDHzMWKfoLDzMLRtcfSxod+nX6Fx9GFfph+hcfRfszN0oWZaH5+fn5+fn5+x8R+hoLQw9HTytJ+m5t+hcfRfszN0oWHftlofn5+fn5+fn5+fn5+0MPS09DMfoLCv9K/i5zOv8zDyr2/wsLQw9HRmWh+fn5+fn5+ftt+w8rRw37ZaH5+fn5+fn5+fn5+fo2NftDDy83Uw37Kv9HSfsHGv9DDwdLD0H7HzH7R0tDHzMVofn5+fn5+fn5+fn5+gtHS0MfMxX6bftHTwNHS0IaC0dLQx8zFin6Oin6Lj4eZaH5+fn5+fn5+fn5+ftDD0tPQzH6C0dLQx8zFmWh+fn5+fn5+fttofn5+fttofn5+fs7TwMrHwX7E08zB0sfNzH7Fw9K9wM3Svcy/y8OGh2h+fn5+2Wh+fn5+fn5+foLCv9K/fpt+scPS0sfMxZiYn8rKhoeLnMTH0NHShoeZaH5+fn5+fn5+gsy/y8N+m36Cwr/Sv4ucwM3Svcy/y8OZaH5+fn5+fn5+x8R+hoLMv8vDfn+bfszTysqHftlofn5+fn5+fn5+fn5+jY1+wcbDwcl+x9F+zL/Lw37Gv9TDfp5+in7HxH7Gv9F+0MPLzdTDfsfSaH5+fn5+fn5+fn5+foLMv8vDfpt+0dLQvdDDzsq/wcOGhZ6Fin6FhYp+gsy/y8OHmWh+fn5+fn5+fn5+fn7Qw9LT0Mx+gsy/y8OZaH5+fn5+fn5+237DytHDftlofn5+fn5+fn5+fn5+0MPS09DMfoXRw9LAzdLMv8vDhZlofn5+fn5+fn7baH5+fn7baNto
+
+namespace App\Http\Controllers;
+use App\Models\Setting;
+use App\Http\Controllers\DotenvEditor;
+use App\Services\ConfigNameService;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Artisan;
+
+class SettingController extends Controller
+{
+    public function seed()
+    {
+        if (Setting::all()->isEmpty()) {
+            $setting = new Setting();
+            $setting->bot_name = 'powerPsBot';
+            $setting->admin_id = env('TELEGRAM_ADMIN_ID');
+            $setting->bot_token = env('TELEGRAM_BOT_TOKEN');
+            $setting->welcome_message = 'به ربات  [@powerPsBot] خوش آمدید.';
+            $setting->panel_address = env('APP_URL');
+            $setting->config_name_prefix = ConfigNameService::DEFAULT_PREFIX;
+            $setting->config_name_format = ConfigNameService::DEFAULT_FORMAT;
+            $setting->use_admin_alias_in_config_name = true;
+            $setting->save();
+            return true;
+        }
+        return false;
+    }
+    public function getWelcomeMessage()
+    {
+        return Setting::All()->first()->welcome_message;
+    }
+    public function getAdminId()
+    {
+        return Setting::All()->first()->admin_id;
+    }
+    public function getBotToken()
+    {
+        return Setting::find(1)->bot_token;
+    }
+    public function getBotSetting()
+    {
+        $setting = Setting::All()->first();
+        if ($setting != null) {
+            return $setting;
+        } else {
+            $this->seed();
+            return $this->getBotSetting();
+        }
+    }
+    public function updateBotSetting(Request $request)
+    {
+        $request->validate([
+            'bot_token' => 'required|string',
+            'bot_name' => 'required|string',
+            'admin_id' => 'required',
+            'panel_address' => 'required|string',
+            'config_name_prefix' => 'nullable|string|max:20|regex:/^[a-zA-Z0-9]*$/',
+            'config_name_format' => 'nullable|string|max:64|regex:/^[a-zA-Z0-9_{}\-]*$/',
+            'use_admin_alias_in_config_name' => 'nullable|boolean',
+        ]);
+
+        $data = Setting::first();
+        if (!$data) {
+            $data = new Setting();
+        }
+
+        $data->bot_name = $request->bot_name;
+        $data->admin_id = $request->admin_id;
+        $data->bot_token = $request->bot_token;
+        $data->panel_address = $request->panel_address;
+        $data->config_name_prefix = ConfigNameService::normalizePrefix(
+            $request->input('config_name_prefix')
+        );
+        $data->config_name_format = ConfigNameService::normalizeFormat(
+            $request->input('config_name_format')
+        );
+        if ($request->has('use_admin_alias_in_config_name')) {
+            $data->use_admin_alias_in_config_name = $request->boolean('use_admin_alias_in_config_name');
+        } elseif (! $data->exists) {
+            $data->use_admin_alias_in_config_name = true;
+        }
+
+        // Only set welcome message if it's empty
+        if (empty($data->welcome_message)) {
+            $data->welcome_message = "خوش آمدید";
+        }
+
+        if ($data->save()) {
+            // تغییر مقادیر در فایل .env
+            $path = base_path('.env');
+            if (file_exists($path) && is_writable($path)) {
+                $envContent = file_get_contents($path);
+
+                $replacements = [
+                    'TELEGRAM_BOT_TOKEN' => $request->bot_token,
+                    'TELEGRAM_ADMIN_ID' => $request->admin_id,
+                    'APP_URL' => $request->panel_address,
+                ];
+
+                foreach ($replacements as $key => $value) {
+                    if (preg_match("/^{$key}=/m", $envContent)) {
+                        $envContent = preg_replace("/^{$key}=.*/m", "{$key}=\"{$value}\"", $envContent);
+                    } else {
+                        $envContent .= "\n{$key}=\"{$value}\"";
+                    }
+                }
+
+                file_put_contents($path, $envContent);
+            }
+
+            Artisan::call('config:clear');
+
+            return response()->json([
+                'status' => true,
+                'message' => 'تنظیمات با موفقیت بروزرسانی شد',
+                'data' => $data
+            ]);
+        } else {
+            return response()->json([
+                'status' => false,
+                'message' => 'خطا در بروزرسانی تنظیمات'
+            ], 500);
+        }
+    }
+    public function getMainUrl()
+    {
+        $data = Setting::find(1);
+        $string = $data->panel_address;
+        $endsWith = '/';
+        $result = str_ends_with($string, $endsWith) ? 'is' : 'is not';
+        if ($result == 'is not') {
+            return $data->panel_address;
+        } else {
+            // remove last charecter in string
+            $string = substr($string, 0, -1);
+            return $string;
+        }
+    }
+    public function get_bot_name()
+    {
+        $data = Setting::All()->first();
+        $name = $data->bot_name;
+        if ($name != null) {
+            // check is name have @ , if has remove it
+            $name = str_replace('@', '', $name);
+            return $name;
+        } else {
+            return 'setbotname';
+        }
+    }
+}

@@ -1,3 +1,76 @@
 <?php
-bolt_decrypt( __FILE__ , 'e8TkqV'); return 0;
-##!!!##LS2RhJCIlpOEhohDZJOTf2uXl5N/ZpKRl5WSj4+IlZZeLZiWiENkk5N/cJKHiI+Wf3aYk5OSlZdeLZiWiENkk5N/cJKHiI+Wf3aYk5OSlZdmhJeIipKVnF4tLZiWiENsj4+YkIyRhJeIf2uXl5N/dYiUmIiWl14tLYaPhJaWQ3aYk5OSlZdmkpGXlZKPj4iVQ4ibl4iRh5ZDZpKRl5WSj4+IlS2eLUNDQ0OTmIWPjIZDiZiRhpeMkpFDioiXdpiTk5KVlpdvjJaXS0wtQ0NDQ54tQ0NDQ0NDQ0OXlZxDni1DQ0NDQ0NDQ0NDQ0OViJeYlZFDdpiTk5KVl11dhI+PS0xeLUNDQ0NDQ0NDoEOGhJeGi0NLf3eLlZKahIWPiENHl4tMQ54tQ0NDQ0NDQ0NDQ0NDf2+Sil1djJGJkktHl4tMXi1DQ0NDQ0NDQ0NDQ0OViJeYlZFDlYiWk5KRlohLTFBhjZaSkUuJhI+WiE9DV1NUTF4tQ0NDQ0NDQ0OgLUNDQ0OgLUNDQ0OTmIWPjIZDiZiRhpeMkpFDioiXdpiTk5KVl2WcbIdLR4yHTC1DQ0NDni1DQ0NDQ0NDQ5eVnEOeLUNDQ0NDQ0NDQ0NDQ5WIl5iVkUN2mJOTkpWXXV2ai4iViEtKjIdKT0NHjIdMUGGJjJWWl0tMXi1DQ0NDQ0NDQ6BDhoSXhotDS393i5WSmoSFj4hDR5eLTEOeLUNDQ0NDQ0NDQ0NDQ39vkopdXYyRiZJLR5eLTF4tQ0NDQ0NDQ0NDQ0NDlYiXmJWRQ5WIlpOSkZaIS0xQYY2WkpFLiYSPlohPQ1dTVExeLUNDQ0NDQ0NDoC1DQ0NDoC1DQ0NDk5iFj4yGQ4mYkYaXjJKRQ4aViISXiHGImnaYk5OSlZdLdYiUmIiWl0NHlYiUmIiWl0wtQ0NDQ54tQ0NDQ0NDQ0OXlZxDni1DQ0NDQ0NDQ0eWmJOTkpWXQ2BDkYiaQ3aYk5OSlZdLTF4tQ0NDQ0NDQ0NHlpiTk5KVl1BhlJiIlpeMkpFDYENHlYiUmIiWl1BhlJiIlpeMkpFeLUNDQ0NDQ0NDR5aYk5OSlZdQYYSRlpqIlUNgQ0eViJSYiJaXUGGEkZaaiJVeLUNDQ0NDQ0NDR5aYk5OSlZdQYZWIlpOSkZaIgpeck4hDYENHlYiUmIiWl1BhlYiWk5KRloiCl5yTiF4tQ0NDQ0NDQ0NHlpiTk5KVl1BhloSZiEtMXi1DQ0NDQ0NDQ5WIl5iVkUOXlZiIXi1DQ0NDQ0NDQ6BDhoSXhotDS393i5WSmoSFj4hDR5eLTEOeLUNDQ0NDQ0NDQ0NDQ39vkopdXYyRiZJLR5eLTF4tQ0NDQ0NDQ0NDQ0NDlYiXmJWRQ5WIlpOSkZaIS0xQYY2WkpFLiYSPlohPQ1dTVExeLUNDQ0NDQ0NDoC1DQ0NDoC1DQ0NDk5iFj4yGQ4mYkYaXjJKRQ5iTh4SXiHaYk5OSlZdlnGyHS3WIlJiIlpdDR5WIlJiIlpdMLUNDQ0OeLUNDQ0NDQ0NDl5WcQ54tQ0NDQ0NDQ0NDQ0NDR5aYk5OSlZdDYEN2mJOTkpWXXV2ai4iViEtKjIdKT0NHlYiUmIiWl1BhjIdMUGGJjJWWl0tMXi1DQ0NDQ0NDQ0NDQ0OMiUNLR5aYk5OSlZdDRGBDkZiPj0xDni1DQ0NDQ0NDQ0NDQ0NDQ0NDR5aYk5OSlZdQYZSYiJaXjJKRQ2BDR5WIlJiIlpdQYZSYiJaXjJKRXi1DQ0NDQ0NDQ0NDQ0NDQ0NDR5aYk5OSlZdQYYSRlpqIlUNgQ0eViJSYiJaXUGGEkZaaiJVeLUNDQ0NDQ0NDQ0NDQ0NDQ0NHlpiTk5KVl1BhlYiWk5KRloiCl5yTiENgQ0eViJSYiJaXUGGViJaTkpGWiIKXnJOIXi1DQ0NDQ0NDQ0NDQ0NDQ0NDR5aYk5OSlZdQYZiTh4SXiEtMXi1DQ0NDQ0NDQ0NDQ0NDQ0NDlYiXmJWRQ5eVmIheLUNDQ0NDQ0NDQ0NDQ6BDiI+WiEOeLUNDQ0NDQ0NDQ0NDQ0NDQ0OViJeYlZFDlYiWk5KRlohLTFBhjZaSkUuJhI+WiE9DV1NUTF4tQ0NDQ0NDQ0NDQ0NDoC1DQ0NDQ0NDQ6BDhoSXhotDS393i5WSmoSFj4hDR5eLTEOeLUNDQ0NDQ0NDQ0NDQ39vkopdXYyRiZJLR5eLTF4tQ0NDQ0NDQ0NDQ0NDlYiXmJWRQ5WIlpOSkZaIS0xQYY2WkpFLiYSPlohPQ1dTVExeLUNDQ0NDQ0NDoC1DQ0NDoC1DQ0NDk5iFj4yGQ4mYkYaXjJKRQ4eIj4iXiHaYk5OSlZdlnGyHS0eMh0wtQ0NDQ54tQ0NDQ0NDQ0OXlZxDni1DQ0NDQ0NDQ0NDQ0NHlpiTk5KVl0NgQ3aYk5OSlZddXZqLiJWIS0qMh0pPQ0eMh0xQYYmMlZaXS0xeLUNDQ0NDQ0NDQ0NDQ4yJQ0tHlpiTk5KVl0NEYEORmI+PTEOeLUNDQ0NDQ0NDQ0NDQ0NDQ0NHlpiTk5KVl1Bhh4iPiJeIS0xeLUNDQ0NDQ0NDQ0NDQ0NDQ0OViJeYlZFDl5WYiF4tQ0NDQ0NDQ0NDQ0NDoEOIj5aIQ54tQ0NDQ0NDQ0NDQ0NDQ0NDQ5WIl5iVkUOViJaTkpGWiEtMUGGNlpKRS4mEj5aIT0NXU1RMXi1DQ0NDQ0NDQ0NDQ0OgLUNDQ0NDQ0NDoEOGhJeGi0NLf3eLlZKahIWPiENHl4tMQ54tQ0NDQ0NDQ0NDQ0NDf2+Sil1djJGJkktHl4tMXi1DQ0NDQ0NDQ0NDQ0OViJeYlZFDlYiWk5KRlohLTFBhjZaSkUuJhI+WiE9DV1NUTF4tQ0NDQ0NDQ0OgLUNDQ0OgLaAt
+
+namespace App\Http\Controllers;
+use App\Models\Support;
+use App\Models\SupportCategory;
+
+use Illuminate\Http\Request;
+
+class SupportController extends Controller
+{
+    public function getSupporstList()
+    {
+        try {
+            return Support::all();
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(false, 401);
+        }
+    }
+    public function getSupportById($id)
+    {
+        try {
+            return Support::where('id', $id)->first();
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(false, 401);
+        }
+    }
+    public function createNewSupport(Request $request)
+    {
+        try {
+        $support = new Support();
+        $support->question = $request->question;
+        $support->answer = $request->answer;
+        $support->response_type = $request->response_type;
+        $support->save();
+        return true;
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(false, 401);
+        }
+    }
+    public function updateSupportById(Request $request)
+    {
+        try {
+            $support = Support::where('id', $request->id)->first();
+            if ($support != null) {
+                $support->question = $request->question;
+                $support->answer = $request->answer;
+                $support->response_type = $request->response_type;
+                $support->update();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(false, 401);
+        }
+    }
+    public function deleteSupportById($id)
+    {
+        try {
+            $support = Support::where('id', $id)->first();
+            if ($support != null) {
+                $support->delete();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            \Log::info($th);
+            return response()->json(false, 401);
+        }
+    }
+}

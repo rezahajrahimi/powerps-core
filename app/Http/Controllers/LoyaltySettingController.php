@@ -1,3 +1,99 @@
 <?php
-bolt_decrypt( __FILE__ , 'COrl9b'); return 0;
-##!!!##FRV5bHhwfntsbnArTHt7Z1N/f3tnTnp5f316d3dwfX5GFRWAfnArTHt7Z1h6b3B3fmdXeoRsd3+EX31seX5sbn90enlGFYB+cCtMe3tnXnB9gXRucH5nV3RucHl+cFFwbH+AfXBecH2BdG5wRhWAfnArTHt7Z15wfYF0bnB+Z1d6hGx3f4RbenR5f35ecH2BdG5wRhWAfnArVHd3gHh0eWx/cGdTf397Z11wfIBwfn9GFYB+cCtUd3eAeHR5bH9wZ2Fsd3RvbH90enlnYWx3dG9sf3R6eVCDbnB7f3R6eUYVFW53bH5+K1d6hGx3f4RecH9/dHlyTnp5f316d3dwfStwg39weW9+K056eX99end3cH0VhhUrKysre4Btd3RuK3GAeW5/dHp5K2pqbnp5fn99gG5/MxUrKysrKysrK3t9dIFsf3ArfXBsb3p5d4QrV3RucHl+cFFwbH+AfXBecH2BdG5wKy93dG5weX5wNxUrKysrKysrK3t9dIFsf3ArfXBsb3p5d4QrV3qEbHd/hFt6dHl/fl5wfYF0bnArL3d6hGx3f4Q3FSsrKys0K4YVKysrK4gVFSsrKyt7gG13dG4rcYB5bn90enkrcnB/and6hGx3f4RqfnB/f3R5cjM0FSsrKyuGFSsrKysrKysrf32EK4YVKysrKysrKysrKysrdHErMy9/c3R+OEl3dG5weX5wOEl0fk19enmFcFp9TXB3eoIzNDQrhhUrKysrKysrKysrKysrKysrfXB/gH15Ky9/c3R+OEl3dG5weX5wOEl+dHeBcH1dcHyAdH1wb11wfnt6eX5wMzRGFSsrKysrKysrKysrK4gVFSsrKysrKysrKysrK31wf4B9eSsvf3N0fjhJd3qEbHd/hDhJfnBwb09wcWyAd39ecH9/dHlyfjM0RhUrKysrKysrK4grbmx/bnMrM2dfc316gmxtd3ArL39zNCuGFSsrKysrKysrKysrK2dXenJFRXB9fXp9MzJycH9qd3qEbHd/hGp+cH9/dHlyRSsyKzkrL39zOElycH9YcH5+bHJwMzQ0RhUVKysrKysrKysrKysrfXB/gH15K31wfnt6eX5wMzQ4SXV+enkzZhUrKysrKysrKysrKysrKysrMn6Abm5wfn4yK0hJK3Fsd35wNxUrKysrKysrKysrKysrKysrMnhwfn5scnAyK0hJKy9/c3R+OEl9cH56d4FwV3qEbHd/hFB9fXp9WHB+fmxycDMvf3M0NxUrKysrKysrKysrKytoNytAOzs0RhUrKysrKysrK4gVKysrK4gVFSsrKyt7gG13dG4rcYB5bn90enkrgHtvbH9wand6hGx3f4RqfnB/f3R5cjNdcHyAcH5/Ky99cHyAcH5/NBUrKysrhhUrKysrKysrK3RxKzMvf3N0fjhJd3RucHl+cDhJdH5NfXp5hXBafU1wd3qCMzQ0K4YVKysrKysrKysrKysrfXB/gH15Ky9/c3R+OEl3dG5weX5wOEl+dHeBcH1dcHyAdH1wb11wfnt6eX5wMzRGFSsrKysrKysriBUVKysrKysrKyt/fYQrhhUrKysrKysrKysrKysvgWx3dG9sf3BvK0grL31wfIBwfn84SYFsd3RvbH9wM2YVKysrKysrKysrKysrKysrKzJvcH5ufXR7f3R6eTIrSEkrMnmAd3dsbXdwh35/fXR5cod4bINFPzs7OzI3FSsrKysrKysrKysrKysrKysydH5qbG5/dIFwMitISSsyfXB8gHR9cG+HbXp6d3BseTI3FSsrKysrKysrKysrKysrKysycGx9eWp6eWp7gH1uc2x+cDIrSEkrMn1wfIB0fXBvh216endwbHkyNxUrKysrKysrKysrKysrKysrMnBsfXlqenlqfXB5cIJsdzIrSEkrMn1wfIB0fXBvh216endwbHkyNxUrKysrKysrKysrKysrKysrMnBsfXlqenlqb3B7en50fzIrSEkrMn1wfIB0fXBvh216endwbHkyNxUrKysrKysrKysrKysrKysrMnBsfXlqenlqfXBxcH19bHcyK0hJKzJ9cHyAdH1wb4dtenp3cGx5MjcVKysrKysrKysrKysrKysrKzJ9cG9wcHhqcHlsbXdwbzIrSEkrMn1wfIB0fXBvh216endwbHkyNxUrKysrKysrKysrKysrKysrMnuAfW5zbH5want6dHl/fmp7cH1qPDs7O2p/enhseTIrSEkrMn1wfIB0fXBvh3R5f3BycH2HeHR5RTuHeGyDRTw7Ozs7OzI3FSsrKysrKysrKysrKysrKysyfXB5cIJsd2p7enR5f34yK0hJKzJ9cHyAdH1wb4d0eX9wcnB9h3h0eUU7h3hsg0U8Ozs7Ozs7MjcVKysrKysrKysrKysrKysrKzJvcHt6fnR/ant6dHl/fmp7cH1qPDs7O2p/enhseTIrSEkrMn1wfIB0fXBvh3R5f3BycH2HeHR5RTuHeGyDRTw7Ozs7OzI3FSsrKysrKysrKysrKysrKysyfXBxcH19bHdqfnRyeYB7ant6dHl/fjIrSEkrMn1wfIB0fXBvh3R5f3BycH2HeHR5RTuHeGyDRTw7Ozs7OzsyNxUrKysrKysrKysrKysrKysrMn96eGx5antwfWp7enR5fzIrSEkrMn1wfIB0fXBvh3R5f3BycH2HeHR5RTyHeGyDRTw7Ozs7OzsyNxUrKysrKysrKysrKysrKysrMnh0eWp9cG9wcHhqe3p0eX9+MitISSsyfXB8gHR9cG+HdHl/cHJwfYd4dHlFO4d4bINFPDs7Ozs7OzsyNxUrKysrKysrKysrKysrKysrMnhsg2p9cG9wcHhqe3B9bnB5fzIrSEkrMn1wfIB0fXBvh3R5f3BycH2HeHR5RTuHeGyDRTw7OzI3FSsrKysrKysrKysrK2g0RhUVKysrKysrKysrKysrL35wf390eXJ+K0grL39zdH44SXd6hGx3f4Q4SX5wcG9PcHFsgHd/XnB/f3R5cn4zNEYVKysrKysrKysrKysrL35wf390eXJ+OElxdHd3My+BbHd0b2x/cG80RhUrKysrKysrKysrKysvfnB/f3R5cn44SX5sgXAzNEYVFSsrKysrKysrKysrK31wf4B9eSt9cH57enl+cDM0OEl1fnp5M2YVKysrKysrKysrKysrKysrKzJ+gG5ucH5+MitISSt/fYBwNxUrKysrKysrKysrKysrKysrMm9sf2wyK0hJKy9+cH9/dHlyfjcVKysrKysrKysrKysraDRGFSsrKysrKysriCtubH9ucyszYWx3dG9sf3R6eVCDbnB7f3R6eSsvcDQrhhUrKysrKysrKysrKyt9cH+AfXkrfXB+e3p5fnAzNDhJdX56eTNmFSsrKysrKysrKysrKysrKysyfoBubnB+fjIrSEkrcWx3fnA3FSsrKysrKysrKysrKysrKysyeHB+fmxycDIrSEkrMuO647LjuuSS7YuX5JLjsuaXK+ST47zkk+O65pcr5JHjsuSQ48TjteOz47wr47LjvuO1OTI3FSsrKysrKysrKysrKysrKysycH19en1+MitISSsvcDhJcH19en1+MzQ3FSsrKysrKysrKysrK2g3Kz89PTRGFSsrKysrKysriCtubH9ucyszZ19zfXqCbG13cCsvf3M0K4YVKysrKysrKysrKysrZ1d6ckVFcH19en0zMoB7b2x/cGp3eoRsd3+Ean5wf390eXJFKzIrOSsvf3M4SXJwf1hwfn5scnAzNDRGFRUrKysrKysrKysrKyt9cH+AfXkrfXB+e3p5fnAzNDhJdX56eTNmFSsrKysrKysrKysrKysrKysyfoBubnB+fjIrSEkrcWx3fnA3FSsrKysrKysrKysrKysrKysyeHB+fmxycDIrSEkrL39zdH44SX1wfnp3gXBXeoRsd3+EUH19en1YcH5+bHJwMy9/czQ3FSsrKysrKysrKysrK2g3K0A7OzRGFSsrKysrKysriBUrKysriBUVKysrK3t9dIFsf3ArcYB5bn90enkrfXB+eneBcFd6hGx3f4RQfX16fVhwfn5scnAzZ19zfXqCbG13cCsvf3M0RSt+f310eXIVKysrK4YVKysrKysrKysveHB+fmxycCtIKy9/czhJcnB/WHB+fmxycDM0RhUrKysrKysrK3RxKzN+f31qbnp5f2x0eX4zL3hwfn5scnA3KzJ3eoRsd3+Ean5wf390eXJ+MjQrh4crfn99am56eX9sdHl+My94cH5+bHJwNystb3pwfnkyfytwg3R+fy00NCuGFSsrKysrKysrKysrK31wf4B9eSsy47fjuuST5I8r47PjsuO/5brjsuSSK+SQ47/jteO85pfjsuSRK+O647wr47rml+O147Ljs+aX474r5JPjt+ST47or5JHjuuOy47zjujkr47Ljs+O147rjsit7c3srbH1/dH5seSt4dHJ9bH9wKzg4cXp9bnAr47zjsivjsuO347zjsivltOSR5pfjujkyRhUrKysrKysrK4gVFSsrKysrKysrfXB/gH15KzLjuePC47Ir47rjvCvju+O55pfjvOSSK+O15JHjw+aX5JDjsuO1K+Oz47Ljv+W647LkkivkkOO/47XjvOaX47LkkTkyRhUrKysriBUVKysrK3uAbXd0bitxgHluf3R6eStuc3Budmp3eoRsd3+EanR+amxuf3SBcDM0RSttenp3FSsrKyuGFSsrKysrKysrfXB/gH15Ky9/c3R+OEl3eoRsd3+EOEl0fkxuf3SBcDM0RhUrKysriBWIFQ==
+
+namespace App\Http\Controllers;
+
+use App\Models\LoyaltyTransaction;
+use App\Services\LicenseFeatureService;
+use App\Services\LoyaltyPointsService;
+use Illuminate\Http\Request;
+use Illuminate\Validation\ValidationException;
+
+class LoyaltySettingController extends Controller
+{
+    public function __construct(
+        private readonly LicenseFeatureService $license,
+        private readonly LoyaltyPointsService $loyalty,
+    ) {
+    }
+
+    public function get_loyalty_setting()
+    {
+        try {
+            if ($this->license->isBronzeOrBelow()) {
+                return $this->license->silverRequiredResponse();
+            }
+
+            return $this->loyalty->seedDefaultSettings();
+        } catch (\Throwable $th) {
+            \Log::error('get_loyalty_setting: ' . $th->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => $this->resolveLoyaltyErrorMessage($th),
+            ], 500);
+        }
+    }
+
+    public function update_loyalty_setting(Request $request)
+    {
+        if ($this->license->isBronzeOrBelow()) {
+            return $this->license->silverRequiredResponse();
+        }
+
+        try {
+            $validated = $request->validate([
+                'description' => 'nullable|string|max:4000',
+                'is_active' => 'required|boolean',
+                'earn_on_purchase' => 'required|boolean',
+                'earn_on_renewal' => 'required|boolean',
+                'earn_on_deposit' => 'required|boolean',
+                'earn_on_referral' => 'required|boolean',
+                'redeem_enabled' => 'required|boolean',
+                'purchase_points_per_1000_toman' => 'required|integer|min:0|max:100000',
+                'renewal_points' => 'required|integer|min:0|max:1000000',
+                'deposit_points_per_1000_toman' => 'required|integer|min:0|max:100000',
+                'referral_signup_points' => 'required|integer|min:0|max:1000000',
+                'toman_per_point' => 'required|integer|min:1|max:1000000',
+                'min_redeem_points' => 'required|integer|min:0|max:10000000',
+                'max_redeem_percent' => 'required|integer|min:0|max:100',
+            ]);
+
+            $settings = $this->loyalty->seedDefaultSettings();
+            $settings->fill($validated);
+            $settings->save();
+
+            return response()->json([
+                'success' => true,
+                'data' => $settings,
+            ]);
+        } catch (ValidationException $e) {
+            return response()->json([
+                'success' => false,
+                'message' => 'داده‌های ورودی نامعتبر است.',
+                'errors' => $e->errors(),
+            ], 422);
+        } catch (\Throwable $th) {
+            \Log::error('update_loyalty_setting: ' . $th->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => $this->resolveLoyaltyErrorMessage($th),
+            ], 500);
+        }
+    }
+
+    private function resolveLoyaltyErrorMessage(\Throwable $th): string
+    {
+        $message = $th->getMessage();
+        if (str_contains($message, 'loyalty_settings') || str_contains($message, "doesn't exist")) {
+            return 'جدول باشگاه مشتریان در دیتابیس وجود ندارد. ابتدا php artisan migrate --force را اجرا کنید.';
+        }
+
+        return 'خطا در ذخیره تنظیمات باشگاه مشتریان.';
+    }
+
+    public function check_loyalty_is_active(): bool
+    {
+        return $this->loyalty->isActive();
+    }
+}

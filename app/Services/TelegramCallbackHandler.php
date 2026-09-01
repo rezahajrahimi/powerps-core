@@ -1,3 +1,116 @@
 <?php
-bolt_decrypt( __FILE__ , '3OyCnF'); return 0;
-##!!!##/PxgU19XZWJTVVcSM2JiTkVXZGhbVVdlLfz8Z2VXEjNiYk46ZmZiTjVhYGZkYV5eV2RlTjNVVWFnYGZCZGFVV2VlNWFgZmRhXl5XZC38Z2VXEjNiYk46ZmZiTjVhYGZkYV5eV2RlTjVnZWZhX0ZXamY1YWBmZGFeXldkLfxnZVcSM2JiTjpmZmJONWFgZmRhXl5XZGVOOVdgV2RTXjVhYGZkYV5eV2Qt/GdlVxIzYmJOOmZmYk41YWBmZGFeXldkZU5FZ1RlVWRbYmZbYWBCZGFVV2VlNWFgZmRhXl5XZC38Z2VXEjNiYk46ZmZiTjVhYGZkYV5eV2RlTkZXXldZZFNfSVdUWmFhXTVhYGZkYV5eV2Qt/PxVXlNlZRJGV15XWWRTXzVTXl5UU1VdOlNgVl5XZPxt/BISEhJiZGFmV1VmV1YSFmVnVGVVZFtiZlthYEJkYVVXZWU1ZmReLfwSEhISYmRhZldVZldWEhZTVVVhZ2BmQmRhVVdlZTVmZF4t/BISEhJiZGFmV1VmV1YSFllXYFdkU141YGZkXi38EhISEmJkYWZXVWZXVhIWVWdlZmFfRldqZjVmZF4t/BISEhJiZGFmV1VmV1YSFmlXVFphYV01ZmReLfz8EhISEmJnVF5bVRJYZ2BVZlthYBJRUVVhYGVmZGdVZhr8EhISEhISEhJFZ1RlVWRbYmZbYWBCZGFVV2VlNWFgZmRhXl5XZBIWZWdUZVVkW2JmW2FgQmRhVVdlZTVmZF4e/BISEhISEhISM1VVYWdgZkJkYVVXZWU1YWBmZGFeXldkEhZTVVVhZ2BmQmRhVVdlZTVmZF4e/BISEhISEhISOVdgV2RTXjVhYGZkYV5eV2QSFllXYFdkU141YGZkXh78EhISEhISEhI1Z2VmYV9GV2pmNWFgZmRhXl5XZBIWVWdlZmFfRldqZjVmZF78EhISEhsSbfwSEhISEhISEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXhIvEhZlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXi38EhISEhISEhIWZlpbZR8wU1VVYWdgZkJkYVVXZWU1ZmReEi8SFlNVVWFnYGZCZGFVV2VlNWZkXi38EhISEhISEhIWZlpbZR8wWVdgV2RTXjVgZmReEi8SFllXYFdkU141YGZkXi38EhISEhISEhIWZlpbZR8wVWdlZmFfRldqZjVmZF4SLxIWVWdlZmFfRldqZjVmZF4t/BISEhJv/PwSEhISYmdUXltVElhnYFVmW2FgEmVXZklXVFphYV01YWBmZGFeXldkGkZXXldZZFNfSVdUWmFhXTVhYGZkYV5eV2QSFmlXVFphYV01ZmReG/wSEhISbfwSEhISEhISEhZmWltlHzBpV1RaYWFdNWZkXhIvEhZpV1RaYWFdNWZkXi38EhISEm/8/BISEhJiZ1ReW1USWGdgVWZbYWASWlNgVl5XGmVmZFtgWRIWVVpTZjtWHhJlZmRbYFkSFlNVZlthYB4SU2RkU2sSFmJTZFNfZR4SMVtgZhIWX1dlZVNZVztWHhJlZmRbYFkSFlVTXl5UU1VdQ2dXZGs7Vhv8EhISEm38EhISEhISEhJkV2ZnZGASX1NmVVoSGhZTVWZbYWAbEm38EhISEhISEhISEhISGVRna0VnVGVVZFtiZlthYBkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBUZ2tFZ1RlVWRbYmZbYWAzVWZbYWAaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGWFiV2A0Z2tFZ1RlVWRbYmZbYWAZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wVGdrRWdUZVVkW2JmW2FgP1dgZxoWVVpTZjtWGx78EhISEhISEhISEhISGVVhYFhbZF80Z2sZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wVWFgWFtkX0JnZFVaU2VXGhZVWlNmO1YeEhZiU2RTX2VNIk8SMTESYGdeXh4SYGdeXhse/BISEhISEhISEhISEhlVYWBYW2RfNGdrQmRhX2EZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wVWFgWFtkX0JnZFVaU2VXGvwSEhISEhISEhISEhISEhISFlVaU2Y7Vh78EhISEhISEhISEhISEhISEhZiU2RTX2VNIk8SMTESYGdeXh78EhISEhISEhISEhISEhISEhZiU2RTX2VNI08SMTESYGdeXvwSEhISEhISEhISEhIbHvwSEhISEhISEhISEhIZU2JiXmtCZGFfYRkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBiZGFfYmZCZGFfYTVhVlcaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGVRna0VnVGVVZFtiZlthYDRrPmFVU2ZbYWAZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wVGdrRWdUZVVkW2JmW2FgNGs+YVVTZlthYDNVZlthYBoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZYVhYXltgVzlTZldpU2sZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wWlNgVl5XUWFYWF5bYFdRU1ZWUVRTXlNgVVcaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGVRnazpbZWZhZGsZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wZWdUNGdrOltlZmFkaxoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZVGdrOltlZmFka0BXamYZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wVGdrOltlZmFkaxoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZZFdVWlNkWVcZEi8wEhZmWltlHzBlZ1RlVWRbYmZbYWBCZGFVV2VlNWZkXh8wZFdVWlNkWVcaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGVVhYFhbZF9EV1VaU2RZVxkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBVYWBYW2RfRFdVWlNkWVcaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eHhJgZ15eGx78EhISEhISEhISEhISGVVhYFhbZF9EV1VaU2RZV0JkYV9hGRIvMBIWZlpbZR8wZWdUZVVkW2JmW2FgQmRhVVdlZTVmZF4fMFVhYFhbZF9EV1VaU2RZVxr8EhISEhISEhISEhISEhISEhZVWlNmO1Ye/BISEhISEhISEhISEhISEhIWYlNkU19lTSJPEjExEmBnXl4e/BISEhISEhISEhISEhISEhIWYlNkU19lTSNPEjExEmBnXl78EhISEhISEhISEhISGx78EhISEhISEhISEhISGVNiYl5rQmRhX2FEV1VaU2RZVxkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBiZGFfYmZCZGFfYTVhVlc4YWREV1VaU2RZVxoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZZFdfU2RdGRIvMBIWZlpbZR8wZWdUZVVkW2JmW2FgQmRhVVdlZTVmZF4fMGRXX1NkXRoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZVldeV2ZXOltlZmFkaxkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBWV15XZlc6W2VmYWRrGhZVWlNmO1YeEhZiU2RTX2VNIk8SMTESYGdeXhse/BISEhISEhISEhISEhlVYWBYW2RfNldeV2ZXOltlZmFkaxkSLzASFmZaW2UfMGVnVGVVZFtiZlthYEJkYVVXZWU1ZmReHzBVYWBYW2RfNldeV2ZXOltlZmFkaxoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvz8EhISEhISEhISEhISGVNVVWFnYGZGZFNgZVNVZlthYGUZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFNVVWFnYGZGZFNgZVNVZlthYGUaFlVaU2Y7Vhse/BISEhISEhISEhISEhlTVVVhZ2BmPmFrU15mazpbZWZhZGsZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFNVVWFnYGY+YWtTXmZrOltlZmFkaxoWVVpTZjtWGx78EhISEhISEhISEhISGVNVVWFnYGY+YWtTXmZrOltlZmFka0JTWVcZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFNVVWFnYGY+YWtTXmZrOltlZmFkaxr8EhISEhISEhISEhISEhISEhZVWlNmO1Ye/BISEhISEhISEhISEhISEhIaW2BmGxIaFmJTZFNfZU0iTxIxMRIjGx78EhISEhISEhISEhISEhISEhZfV2VlU1lXO1b8EhISEhISEhISEhISGx78EhISEhISEhISEhISGVNVVWFnYGZFZ1QzVVVhZ2BmZRkSLzASFmZaW2UfMFNVVWFnYGZCZGFVV2VlNWZkXh8wU1VVYWdgZkVnVDNVVWFnYGZlGhZVWlNmO1YbHvwSEhISEhISEhISEhIZU1VVYWdgZjNWVjRTXlNgVVcZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFNVVWFnYGYzVlY0U15TYFVXGhZVWlNmO1YbHvwSEhISEhISEhISEhIZU1VVYWdgZkVnVDNVVWFnYGZlTFNkW2BiU14ZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFpTYFZeVzNVZlthYDNWVjRTXlNgVVdMU2RbYGJTXhoWVVpTZjtWGx78EhISEhISEhISEhISGVNVVWFnYGZFZ1QzVVVhZ2BmZUBhaWJTa19XYGYZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFpTYFZeVzNVZlthYDNWVjRTXlNgVVdAYWliU2tfV2BmZRoWVVpTZjtWGx78EhISEhISEhISEhISGVNVVWFnYGZFZ1QzVVVhZ2BmZTVka2JmYV9nZRkSLzASFmZaW2UfMFNVVWFnYGZCZGFVV2VlNWZkXh8wWlNgVl5XM1VmW2FgM1ZWNFNeU2BVVzVka2JmYV9nZRoWVVpTZjtWGx78EhISEhISEhISEhISGVNVVWFnYGZFZ1QzVVVhZ2BmZUVpU2JiU2sZEi8wEhZmWltlHzBTVVVhZ2BmQmRhVVdlZTVmZF4fMFpTYFZeVzNVZlthYDNWVjRTXlNgVVdFaVNiYlNrGhZVWlNmO1YbHvwSEhISEhISEhISEhIZU1ZWNFNeU2BVV0RXYl5rGRIvMBIWZlpbZR8wU1VVYWdgZkJkYVVXZWU1ZmReHzBTVlY0U15TYFVXRFdiXmsaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGVVaU2RZVxkSLzASFmZaW2UfMFNVVWFnYGZCZGFVV2VlNWZkXh8wU1ZfW2A4U2VmNVpTZFlXGhZVWlNmO1YeEhZiU2RTX2VNIk8SMTESYGdeXh4SFmJTZFNfZU0jTxIxMRJgZ15eGx78EhISEhISEhISEhISGWVaV2ZTVEhXZFtYaxkSLzASFmZaW2UfMFNVVWFnYGZCZGFVV2VlNWZkXh8wWlNgVl5XM1VmW2FgM1ZWNFNeU2BVV0VaV2ZTVEhXZFtYaxoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZZVpXZlNUSFdkW1hrM2dmYRkSLzASFmZaW2UfMFNVVWFnYGZCZGFVV2VlNWZkXh8wYmRhVVdlZUVaV2ZTVEhXZFtYW1VTZlthYBr8EhISEhISEhISEhISEhISEhZVWlNmO1Ye/BISEhISEhISEhISEhISEhIWYlNkU19lTSJPEjExEmBnXl4e/BISEhISEhISEhISEhISEhIWYlNkU19lTSNPEjExEmBnXl78EhISEhISEhISEhISGx78/BISEhISEhISEhISEhlmYWZnZFtTXhkSLzASGhZiU2RTX2VNIk8SMTESYGdeXhsSLy8SGVNiYjZhaWBeYVNWGfwSEhISEhISEhISEhIxEhZmWltlHzBZV2BXZFNeNWBmZF4fMFNiYjZhaWBeYVNWGhZVWlNmO1YeEhZfV2VlU1lXO1Yb/BISEhISEhISEhISEiwSFmZaW2UfMFlXYFdkU141YGZkXh8wWVdmOFNjZRoWVVpTZjtWHhIWX1dlZVNZVztWGx78EhISEhISEhISEhISGVpXXmIZEi8wEhZmWltlHzBpV1RaYWFdNWZkXhIxEhZmWltlHzBpV1RaYWFdNWZkXh8wWlNgVl5XOldeYjVhX19TYFYaGxIsEhkZHvwSEhISEhISEhISEhIZWFNjGRIvMBIWZlpbZR8wWVdgV2RTXjVgZmReHzBlZ1Q4U2MaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eGx78EhISEhISEhISEhISGVNiYjZhaWBeYVNWGRIvMBIWZlpbZR8wWVdgV2RTXjVgZmReHzBTYmI2YWlgXmFTVhoWVVpTZjtWHhIWX1dlZVNZVztWGx78EhISEhISEhISEhISGWVnVDNiYjZhaWBeYVNWQWUZEi8wEhZmWltlHzBZV2BXZFNeNWBmZF4fMGVnVDNiYjZhaWBeYVNWQWUaFlVaU2Y7Vh4SFmJTZFNfZU0iTxIxMRJgZ15eHhIWX1dlZVNZVztWGx78EhISEhISEhISEhISGWVnVDNiYjZhaWBeYVNWM2JiGRIvMBIWZlpbZR8wWVdgV2RTXjVgZmReHzBlZ1QzYmI2YWlgXmFTVjNiYhoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4eEhZfV2VlU1lXO1YbHvwSEhISEhISEhISEhIZZWdiYmFkZhkSLzASFmZaW2UfMFlXYFdkU141YGZkXh8wZWdURWdiYmFkZhoWVVpTZjtWHhIWYlNkU19lTSJPEjExEmBnXl4bHvwSEhISEhISEhISEhIZWVtYZjVTZFYZEi8wEhZmWltlHzBZV2BXZFNeNWBmZF4fMGVnVDlbWGY1U2RWGhZVWlNmO1YeEhZiU2RTX2VNIk8SMTESYGdeXhse/BISEhISEhISEhISEhlkV1hXZGRTXhkSLzASFmZaW2UfMFlXYFdkU141YGZkXh8wZWdURFdYV2RkU14aFlVaU2Y7Vhse/PwSEhISEhISEhISEhIZVWFgWFtkX0RXVVdbYmYZEi8wEhZmWltlHzBpV1RaYWFdNWZkXhIxEhZmWltlHzBpV1RaYWFdNWZkXh8wWlNgVl5XNWFgWFtkX0RXVVdbYmYa/BISEhISEhISEhISEhISEhIWVVpTZjtWHvwSEhISEhISEhISEhISEhISFmJTZFNfZU0iTxIxMRJgZ15eHvwSEhISEhISEhISEhISEhISFlVTXl5UU1VdQ2dXZGs7Vh78EhISEhISEhISEhISEhISEhZfV2VlU1lXO1Ye/BISEhISEhISEhISEhISEhIWYlNkU19lTSNPEjExEmBnXl78EhISEhISEhISEhISGxIsEhkZHvwSEhISEhISEhISEhIZVVNgVVdeRFdVV1tiZhkSLzASFmZaW2UfMGlXVFphYV01ZmReEjESFmZaW2UfMGlXVFphYV01ZmReHzBaU2BWXlc1U2BVV15EV1VXW2JmGvwSEhISEhISEhISEhISEhISFlVaU2Y7Vh78EhISEhISEhISEhISEhISEhZiU2RTX2VNIk8SMTESYGdeXh78EhISEhISEhISEhISEhISEhZVU15eVFNVXUNnV2RrO1Ye/BISEhISEhISEhISEhISEhIWX1dlZVNZVztWHvwSEhISEhISEhISEhISEhISFmJTZFNfZU0jTxIxMRJgZ15e/BISEhISEhISEhISEhsSLBIZGR78/BISEhISEhISEhISElZXWFNnXmYSLzASFmZaW2UfMFVnZWZhX0ZXamY1ZmReHzBZV2ZGV2pmGhlXZGRhZCBTVWZbYWAgYGFmUVhhZ2BWGRv8EhISEhISEhJvLfwSEhISb/xv/A==
+
+namespace App\Services;
+
+use App\Http\Controllers\AccountProcessController;
+use App\Http\Controllers\CustomTextController;
+use App\Http\Controllers\GeneralController;
+use App\Http\Controllers\SubscriptionProcessController;
+use App\Http\Controllers\TelegramWebhookController;
+
+class TelegramCallbackHandler
+{
+    protected $subscriptionProcessCtrl;
+    protected $accountProcessCtrl;
+    protected $generalCntrl;
+    protected $customTextCtrl;
+    protected $webhookCtrl;
+
+    public function __construct(
+        SubscriptionProcessController $subscriptionProcessCtrl,
+        AccountProcessController $accountProcessCtrl,
+        GeneralController $generalCntrl,
+        CustomTextController $customTextCtrl
+    ) {
+        $this->subscriptionProcessCtrl = $subscriptionProcessCtrl;
+        $this->accountProcessCtrl = $accountProcessCtrl;
+        $this->generalCntrl = $generalCntrl;
+        $this->customTextCtrl = $customTextCtrl;
+    }
+
+    public function setWebhookController(TelegramWebhookController $webhookCtrl)
+    {
+        $this->webhookCtrl = $webhookCtrl;
+    }
+
+    public function handle(string $chatId, string $action, array $params, ?int $messageId, string $callbackQueryId)
+    {
+        return match ($action) {
+            'buySubscription' => $this->subscriptionProcessCtrl->buySubscriptionAction($chatId, $params[0] ?? null),
+            'openBuySubscription' => $this->subscriptionProcessCtrl->buySubscriptionMenu($chatId),
+            'confirmBuy' => $this->subscriptionProcessCtrl->confirmPurchase($chatId, $params[0] ?? null, null),
+            'confirmBuyPromo' => $this->subscriptionProcessCtrl->confirmPurchase(
+                $chatId,
+                $params[0] ?? null,
+                $params[1] ?? null
+            ),
+            'applyPromo' => $this->subscriptionProcessCtrl->promptPromoCode($chatId, $params[0] ?? null),
+            'buySubscriptionByLocation' => $this->subscriptionProcessCtrl->buySubscriptionByLocationAction($chatId, $params[0] ?? null),
+            'offlineGateway' => $this->subscriptionProcessCtrl->handle_offline_add_balance($chatId, $params[0] ?? null),
+            'buyHistory' => $this->subscriptionProcessCtrl->subBuyHistory($chatId, $params[0] ?? null),
+            'buyHistoryNext' => $this->subscriptionProcessCtrl->buyHistory($chatId, $params[0] ?? null),
+            'recharge' => $this->subscriptionProcessCtrl->recharge($chatId, $params[0] ?? null),
+            'confirmRecharge' => $this->subscriptionProcessCtrl->confirmRecharge($chatId, $params[0] ?? null, null),
+            'confirmRechargePromo' => $this->subscriptionProcessCtrl->confirmRecharge(
+                $chatId,
+                $params[0] ?? null,
+                $params[1] ?? null
+            ),
+            'applyPromoRecharge' => $this->subscriptionProcessCtrl->promptPromoCodeForRecharge($chatId, $params[0] ?? null),
+            'remark' => $this->subscriptionProcessCtrl->remark($chatId, $params[0] ?? null),
+            'deleteHistory' => $this->subscriptionProcessCtrl->deleteHistory($chatId, $params[0] ?? null),
+            'confirmDeleteHistory' => $this->subscriptionProcessCtrl->confirmDeleteHistory($chatId, $params[0] ?? null),
+
+            'accountTransactions' => $this->accountProcessCtrl->accountTransactions($chatId),
+            'accountLoyaltyHistory' => $this->accountProcessCtrl->accountLoyaltyHistory($chatId),
+            'accountLoyaltyHistoryPage' => $this->accountProcessCtrl->accountLoyaltyHistory(
+                $chatId,
+                (int) ($params[0] ?? 1),
+                $messageId
+            ),
+            'accountSubAccounts' => $this->accountProcessCtrl->accountSubAccounts($chatId),
+            'accountAddBalance' => $this->accountProcessCtrl->accountAddBalance($chatId),
+            'accountSubAccountsZarinpal' => $this->accountProcessCtrl->handleActionAddBalanceZarinpal($chatId),
+            'accountSubAccountsNowpayment' => $this->accountProcessCtrl->handleActionAddBalanceNowpayments($chatId),
+            'accountSubAccountsCryptomus' => $this->accountProcessCtrl->handleActionAddBalanceCryptomus($chatId),
+            'accountSubAccountsSwappay' => $this->accountProcessCtrl->handleActionAddBalanceSwappay($chatId),
+            'addBalanceReply' => $this->accountProcessCtrl->addBalanceReply($chatId, $params[0] ?? null),
+            'charge' => $this->accountProcessCtrl->adminFastCharge($chatId, $params[0] ?? null, $params[1] ?? null),
+            'shetabVerify' => $this->accountProcessCtrl->handleActionAddBalanceShetabVerify($chatId, $params[0] ?? null),
+            'shetabVerifyAuto' => $this->accountProcessCtrl->processShetabVerification(
+                $chatId,
+                $params[0] ?? null,
+                $params[1] ?? null
+            ),
+
+            'toturial' => ($params[0] ?? null) == 'appDownload'
+            ? $this->generalCntrl->appDownload($chatId, $messageId)
+            : $this->generalCntrl->getFaqs($chatId, $messageId),
+            'help' => $this->webhookCtrl ? $this->webhookCtrl->handleHelpCommand() : '',
+            'faq' => $this->generalCntrl->subFaq($chatId, $params[0] ?? null),
+            'appDownload' => $this->generalCntrl->appDownload($chatId, $messageId),
+            'subAppDownloadOs' => $this->generalCntrl->subAppDownloadOs($chatId, $params[0] ?? null, $messageId),
+            'subAppDownloadApp' => $this->generalCntrl->subAppDownloadApp($chatId, $params[0] ?? null, $messageId),
+            'support' => $this->generalCntrl->subSupport($chatId, $params[0] ?? null),
+            'giftCard' => $this->generalCntrl->subGiftCard($chatId, $params[0] ?? null),
+            'referral' => $this->generalCntrl->subReferral($chatId),
+
+            'confirmReceipt' => $this->webhookCtrl ? $this->webhookCtrl->handleConfirmReceipt(
+                $chatId,
+                $params[0] ?? null,
+                $callbackQueryId,
+                $messageId,
+                $params[1] ?? null
+            ) : '',
+            'cancelReceipt' => $this->webhookCtrl ? $this->webhookCtrl->handleCancelReceipt(
+                $chatId,
+                $params[0] ?? null,
+                $callbackQueryId,
+                $messageId,
+                $params[1] ?? null
+            ) : '',
+
+            default => $this->customTextCtrl->getText('error.action.not_found')
+        };
+    }
+}

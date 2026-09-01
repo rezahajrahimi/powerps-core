@@ -1,3 +1,39 @@
 <?php
-bolt_decrypt( __FILE__ , 'D4O2yG'); return 0;
-##!!!##w8MnGiYeLCkaHB7Z+ikpFQYoHR4lLPTDwy4sHtkCJSUuJiInGi0eFf0aLRobGiweFf4lKCouHictFf8aHC0oKyIeLBUBGiz/GhwtKCsy9MMuLB7ZAiUlLiYiJxotHhX9Gi0aGxosHhX+JSgqLh4nLRUGKB0eJfTDwxwlGiws2QYaIicGHicuAi0eJtkeMS0eJx0s2QYoHR4lwzTD2dnZ2S4sHtkBGiz/GhwtKCsy9MPZ2dnZKSsoLR4cLR4d2d0gLhorHR4d2fbZFOAiHeAW9MPZ2dnZKSsoLR4cLR4d2d0fIiUlGhslHtn22RTgJxomHuDl2eAaJSIaLBgnGiYe4OXZ4CIsGBocLSIvHuDl2eApKCwiLSIoJ+Dl2eAbLi0tKCcYLC0yJR7g5dngIhwoJxgcLiwtKCYYHiYoIyIYIh3g5dngLCglKBgrKDDgFvTD2dnZ2SkuGyUiHNndLSImHiwtGiYpLNn22R8aJSwe9MPD2dnZ2ejo2SIs2SItHibZIizZGhwtIi8e2Sgr2ScoLdkbMtkaJSIaLNknGiYew9nZ2dkpLhslIhzZHy4nHC0iKCfZIiz6HC0iLx77MvolIhosBxomHuHdGiUiGiwHGiYe4sPZ2dnZNMPZ2dnZ2dnZ2d0iLR4m2fbZBhoiJwYeJy4CLR4m8/MwIR4rHuHgGiUiGiwYJxomHuDl2d0aJSIaLAcaJh7i5vcfIissLeHi9MPZ2dnZ2dnZ2SIf2eHdIi0eJtna9tknLiUl4tk0w9nZ2dnZ2dnZ2dnZ2SseLS4rJ9ndIi0eJub3IiwYGhwtIi8e9MPZ2dnZ2dnZ2TbD2dnZ2dnZ2dkrHi0uKyfZHxolLB70w9nZ2dk2w9nZ2dno6NkiLNkiLR4m2RocLSIvHtkbMtknGiYew9nZ2dkpLhslIhzZHy4nHC0iKCfZIiz6HC0iLx77MgcaJh7h3ScaJh7iw9nZ2dk0w9nZ2dnZ2dnZ3SItHibZ9tkGGiInBh4nLgItHibz8zAhHise4eAnGiYe4OXZ3ScaJh7i5vcfIissLeHi9MPZ2dnZ2dnZ2SIf2eHdIi0eJtna9tknLiUl4tk0w9nZ2dnZ2dnZ2dnZ2SseLS4rJ9ndIi0eJub3IiwYGhwtIi8e9MPZ2dnZ2dnZ2TbD2dnZ2dnZ2dkrHi0uKyfZHxolLB70w9nZ2dk2w9nZ2dno6NkgHi3ZGiUiGizZJxomHtkbMtknGiYew9nZ2dkpLhslIhzZHy4nHC0iKCfZIB4t+iUiGiwHGiYe+zIHGiYe4d0nGiYe4sPZ2dnZNMPZ2dnZ2dnZ2d0iLR4m2fbZBhoiJwYeJy4CLR4m8/MwIR4rHuHgJxomHuDl2d0nGiYe4ub3HyIrLC3h4vTD2dnZ2dnZ2dkrHi0uKyfZ3SItHibm9xolIhosGCcaJh70w9nZ2dk2wzbD
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class MainMenuItem extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'alias_name', 'is_active', 'position', 'button_style', 'icon_custom_emoji_id', 'solo_row'];
+    public $timestamps = false;
+
+    // is item is active or not by alias name
+    public function isActiveByAliasName($aliasName)
+    {
+        $item = MainMenuItem::where('alias_name', $aliasName)->first();
+        if ($item != null) {
+            return $item->is_active;
+        }
+        return false;
+    }
+    // is item active by name
+    public function isActiveByName($name)
+    {
+        $item = MainMenuItem::where('name', $name)->first();
+        if ($item != null) {
+            return $item->is_active;
+        }
+        return false;
+    }
+    // get alias name by name
+    public function getAliasNameByName($name)
+    {
+        $item = MainMenuItem::where('name', $name)->first();
+        return $item->alias_name;
+    }
+}

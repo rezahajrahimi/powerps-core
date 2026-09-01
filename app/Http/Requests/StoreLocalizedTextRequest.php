@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'ozbO2w'); return 0;
-##!!!##TU2xpLCotrOkpqhjhLOzn4u3t7Oflai0uKi2t7Z+TU24tqhjjK+vuLCssaS3qJ+Jsrixp6S3rLKxn4u3t7OfibK1sJWotLiotrd+TU2mr6S2tmOWt7K1qI+ypqSvrL2op5eou7eVqLS4qLa3Y6i7t6ixp7ZjibK1sJWotLiotrdNvk1jY2Njcm1tTWNjY2NjbWOHqLeotbCssahjrKljt6uoY7i2qLVjrLZjpLi3q7K1rL2op2O3smOwpK6oY7errLZjtai0uKi2t3FNY2NjY2Ntck1jY2Njs7ilr6ymY6m4saa3rLKxY6S4t6uytay9qGtsfWOlsrKvTWNjY2O+TWNjY2NjY2Njtai3uLWxY6mkr7aofk1jY2NjwE1NY2NjY3JtbU1jY2NjY21jiqi3Y7erqGO5pK+sp6S3rLKxY7W4r6i2Y7erpLdjpLOzr7xjt7Jjt6uoY7WotLiotrdxTWNjY2NjbU1jY2NjY21jg7Wot7i1sWOktbWkvH+2t7WssapvY5+Mr6+4sKyxpLeon4aysbe1pKa3tp+ZpK+sp6S3rLKxn5mkr6ynpLessrGVuK+ov6S1taS8v7a3tayxqoFNY2NjY2Ntck1jY2Njs7ilr6ymY6m4saa3rLKxY7W4r6i2a2x9Y6S1taS8TWNjY2O+TWNjY2NjY2Njtai3uLWxY55NY2NjY2NjY2NjY2NjcnJNY2NjY2NjY2Ogfk1jY2NjwE3ATQ==
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class StoreLocalizedTextRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return false;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
+     */
+    public function rules(): array
+    {
+        return [
+            //
+        ];
+    }
+}

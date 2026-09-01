@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'RgehWj'); return 0;
-##!!!##UVG1qLSsureoqqxniLe3o5S2q6yzuoJRUby6rGeQs7O8tLC1qLuso4uou6ipqLqso4yztri8rLW7o42oqru2ubCsuqOPqLqNqKq7trnAglG8uqxnkLOzvLSwtai7rKOLqLuoqai6rKOMs7a4vKy1u6OUtquss4JRUaqzqLq6Z46ztqmos52subCtsKqou7C2tZeowLSstbuUrLuvtqtnrL+7rLWrumeUtquss1HCUWdnZ2e8uqxnj6i6jaiqu7a5wIJRUWdnZ2e3uba7rKq7rKtna62ws7OoqbOsZ4Rnom6wuqa9rLmwrbCsq25zZ263qMC0rLW7prKswG5zZ26wuqastaips6yrbqSCUVFnZ2dnt7m2u6yqu6yrZ2uqqLq7umeEZ6JRZ2dnZ2dnZ2dusLqmvay5sK2wrKtuZ4SFZ26ptrazrKi1bnNRZ2dnZ2dnZ2dusLqmrLWoqbOsq25nhIVnbqm2trOsqLVuc1FnZ2dnpIJRxFE=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class GlobalVerificationPaymentMethod extends Model
+{
+    use HasFactory;
+
+    protected $fillable = ['is_verified', 'payment_key', 'is_enabled'];
+
+    protected $casts = [
+        'is_verified' => 'boolean',
+        'is_enabled' => 'boolean',
+    ];
+}

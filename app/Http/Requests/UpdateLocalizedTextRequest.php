@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '8qX05y'); return 0;
-##!!!##6elNQExEUk9AQkT/IE9POydTU087MURQVERSU1Ia6elUUkT/KEtLVExITUBTRDslTlRNQ0BTSE5NOydTU087JU5RTDFEUFREUlMa6elCS0BSUv80T0NAU0QrTkJAS0hZREMzRFdTMURQVERSU/9EV1NETUNS/yVOUUwxRFBURFJT6Vrp/////w4JCen//////wn/I0RTRFFMSE1E/0hF/1NHRP9UUkRR/0hS/0BUU0dOUUhZREP/U07/TEBKRP9TR0hS/1FEUFREUlMN6f//////CQ7p/////09UQUtIQv9FVE1CU0hOTf9AVFNHTlFIWUQHCBn/QU5OS+n/////Wun//////////1FEU1RRTf9FQEtSRBrp/////1zp6f////8OCQnp//////8J/yZEU/9TR0T/VUBLSENAU0hOTf9RVEtEUv9TR0BT/0BPT0tY/1NO/1NHRP9RRFBURFJTDen//////wnp//////8J/x9RRFNUUU3/QFFRQFgbUlNRSE1GC/87KEtLVExITUBTRDsiTk1TUUBCU1I7NUBLSENAU0hOTTs1QEtIQ0BTSE5NMVRLRFtAUVFAWFtSU1FITUYd6f//////CQ7p/////09UQUtIQv9FVE1CU0hOTf9RVEtEUgcIGf9AUVFAWOn/////Wun//////////1FEU1RRTf866f///////////////w4O6f//////////PBrp/////1zpXOk=
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class UpdateLocalizedTextRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return false;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
+     */
+    public function rules(): array
+    {
+        return [
+            //
+        ];
+    }
+}

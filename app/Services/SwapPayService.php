@@ -1,3 +1,319 @@
 <?php
-bolt_decrypt( __FILE__ , 'aso5jv'); return 0;
-##!!!##YmLGucW9y8i5u714mcjItKu9ys7Bu73Lk2Jizcu9eKHExM3Fwca5zL20q83IyMfKzLSeubu5vL3LtKDMzMiTYs3LvXihxMTNxcHGucy9tKvNyMjHysy0nrm7uby9y7Skx7+TYmK7xLnLy3irz7nIqLnRq73KzsG7vWLTYnh4eHjIysfMvbvMvbx4y8zKwca/eHy5yMGjvdGTYmJ4eHh4yMrHzL27zL28eMvMysHGv3h8ucjIxMG7uczBx8aTYmJ4eHh4yMrHzL27zL28eMvMysHGv3h8urnLva3KxHiVeH/AzMzIy5KHh8vPucjPucTEvcyGucjIh7nIwX+TYmJ4eHh4yM26xMG7eL7NxrvMwcfGeLe3u8fGy8zKzbvMgJfLzMrBxr94fLnIwaO90XiVeMbNxMSEeJfLzMrBxr94fLnIyMTBu7nMwcfGeJV4xs3ExIFieHh4eNNieHh4eHh4eHh8zMDBy4WWucjBo73ReJV4zMrBxYCAy8zKwca/gXh8ucjBo73RgZNieHh4eHh4eHh8zMDBy4WWucjIxMG7uczBx8Z4lXjMysHFgIDLzMrBxr+BeHy5yMjEwbu5zMHHxoGTYnh4eHjVYmJ4eHh4yM26xMG7eL7NxrvMwcfGeMHLm8fGvsG/zcq9vICBkni6x8fEYnh4eHjTYnh4eHh4eHh4yr3MzcrGeHzMwMHLhZa5yMGjvdF4eZWVeH9/eH5+eHzMwMHLhZa5yMjEwbu5zMHHxnh5lZV4f3+TYnh4eHjVYmJ4eHh4yM26xMG7eMvMuczBu3i+zca7zMHHxnjFwcvLwca/mcjIxMG7uczBx8alvcvLub+9gIGSeMvMysHGv2J4eHh402J4eHh4eHh4eMq9zM3Kxnh/MP8xFjHcM+QyATPkMAwx3nirz7nIqLnReDEWM+QwBzD/eDHeMAwwB4Z4MAcwCXjAzMzIy5KHh8i50YbLz7nIz7nExL3MhrnIyHgwADD/eDACMdwyBzAJMP8x3Xgx4DD/MAkwB3gwDDHgM+QwBzDkeDPkMgF4mcjIxMG7uczBx8Z4MAAwCzD/MAoz5DAHeDHgeDHfMd0w/zHeeJnIyMTBu7nMwcfGeK3LvcrGucW9eDAJMP94MeAw/zAJMAd4MgEx3jPkMAd4OtjseDHeMd94M+Qx4DAKMAkx3jPkMd14MAUwCzD/MAB4MAsx4DD/MRY62OQx4DHcMAJ4MeB4Md4x33gw+jPkMAcz5HgwETAHMAcz5HgyATD/MAkwADAJhn+TYnh4eHjVYmJ4eHh4yM26xMG7eMvMuczBu3i+zca7zMHHxnjIvcrLx8a5xJm7u8fNxsyhvL3GzMG+wb3Kpb3Ly7m/vYCBknjLzMrBxr9ieHh4eNNieHh4eHh4eHjKvczNysZ4fzD/M+Qx3ngx3THaMAcw/zAJeDPkMeAwCjAJMd4z5DHdeDPkMP94MPoz5DAHM+R4MAUwCzD/MAB4MAsx4DD/MRY62OQx4DHcMAJ4MP8wCzACMOR4Md4x33iZyMjEwbu5zMHHxnity73KxrnFvYZ4MP8wCngxFjHeMdx4MRYwCDPkMAkx3jAHMd94wMzMyMuSh4fIudGGy8+5yM+5xMS9zIa5yMh4M+QyAXgw/zEWMdwz5DIBM+QwDDHeeDAAMAsw/zAKM+QwB3gx4Hgx3jD/Md14Md8x3TD/Md54MP8xFngwCTD/eDIBMRYz5HgyATHeM+QwB4Z/k2J4eHh41WJieHh4eIeCgmJ4eHh4eIJ4mMi5yrnFeHi5ysq50ZTLzMrBxr+EeMXB0L28lnh4fM/Ax7nFwWJ4eHh4eIKHYnh4eHjIzbrEwbt4y8y5zMG7eL7NxrvMwcfGeMHLqL3Ky8fGucSZu7vHzcbMoby9xszBvsG9yoDLzMrBxr94fLnIyMTBu7nMwcfGhHi5ysq50Xh8z8DHucXBgZJ4usfHxGJ4eHh402J4eHh4eHh4eHy5yMjEwbu5zMHHxniVeMzKwcWAfLnIyMTBu7nMwcfGgZNieHh4eHh4eHjBvniAfLnIyMTBu7nMwcfGeJWVlXh/f4F402J4eHh4eHh4eHh4eHjKvczNysZ4vrnEy72TYnh4eHh4eHh41WJieHh4eHh4eHh8zcu9ysa5xb14lXjMysHFgIDLzMrBxr+BeIB8z8DHucXBs3/Ny73KxrnFvX+1eJeXeH9/gYGTYnh4eHh4eHh4fMG8eJV4zMrBxYCAy8zKwca/gXiAfM/Ax7nFwbN/wbx/tXiXl3h/f4GBk2JieHh4eHh4eHjKvczNysZ4gHzNy73KxrnFvXh5lZV4f394fn54y8zKu7nLvbvFyIB8ucjIxMG7uczBx8aEeHzNy73KxrnFvYF4lZWVeIiBYnh4eHh4eHh4eHh4eNTUeIB8wbx4eZWVeH9/eH5+eHy5yMjEwbu5zMHHxniVlZV4fMG8gZNieHh4eNViYnh4eHiHgoJieHh4eHiCeK65xMG8ucy9eJmooXjDvdF4g3i5yMjEwbu5zMHHxnjNy73KxrnFvXi5v7nBxsvMeKvPucioudGGYnh4eHh4gmJ4eHh4eIJ4mMq9zM3Kxni5ysq50dPHw5J4usfHxIR4xb3Ly7m/vZeSeMvMysHGv9VieHh4eHiCh2J4eHh4yM26xMG7eL7NxrvMwcfGeM65xMG8ucy9m8q9vL3GzMG5xMuAgZJ4ucrKudFieHh4eNNieHh4eHh4eHjBvniAeXh8zMDBy4WWwcubx8a+wb/Nyr28gIGBeNNieHh4eHh4eHh4eHh4yr3MzcrGeLN/x8N/eJWWeL65xMu9hHh/xb3Ly7m/vX94lZZ4f5mooXijvdF4MeB4mcjIxMG7uczBx8Z4rcu9ysa5xb14MP8x3DAKMP8x3TPkeDD/MAswAoZ/tZNieHh4eHh4eHjVYmJ4eHh4eHh4eHzPwMe5xcF4lXh8zMDBy4WWz8DHucXBgIGTYnh4eHh4eHh4wb54gHzPwMe5xcF4lZWVeMbNxMSBeNNieHh4eHh4eHh4eHh4yr3MzcrGeLN/x8N/eJWWeL65xMu9hHh/xb3Ly7m/vX94lZZ4f5mooXijvdF4MAsx4DD/MRY62OQx4DHcMAJ4Md4w/zHdMBEwAjAAMAl4MP8wCzAChngyATHcM+QwB3gwCTD/eDD/MAp4MP8xFngwCzHgMP8xFjrY5DHgMdwwAjDkeDAAMAYwDHgxFjAJMeAx2TD/M+Qx3Hg63uh4MgEx3DPkMAd4maiheDIBMRYz5HgyATHeM+QwB4Z/tZNieHh4eHh4eHjVYmJ4eHh4eHh4eMG+eIDLvcS+kpLBy6i9ysvHxrnEmbu7x83GzKG8vcbMwb7BvcqAfMzAwcuFlrnIyMTBu7nMwcfGhHh8z8DHucXBgYF402J4eHh4eHh4eHh4eHjKvczNysZ4s3/Hw394lZZ4vrnEy72EeH/FvcvLub+9f3iVlnjLvcS+kpLIvcrLx8a5xJm7u8fNxsyhvL3GzMG+wb3Kpb3Ly7m/vYCBtZNieHh4eHh4eHjVYmJ4eHh4eHh4eHy90MHLzMt4lXh8zMDBy4WWucjIxMG7uczBx8ad0MHLzMuAgZNieHh4eHh4eHjBvniAfL3QwcvMy3iVlZV4vrnEy72BeNNieHh4eHh4eHh4eHh4yr3MzcrGeLN/x8N/eJWWeL65xMu9hHh/xb3Ly7m/vX94lZZ4y73EvpKSxcHLy8HGv5nIyMTBu7nMwcfGpb3Ly7m/vYCBtZNieHh4eHh4eHjVYmJ4eHh4eHh4eMq9zM3Kxnizf8fDf3iVlnjMys29tZNieHh4eNViYnh4eHiHgoJieHh4eHiCeJjKvczNysZ4ucrKudHTy827u73Ly5J4usfHxIR4yr3LzcTMl5J4ucrKudGEeL3KysfKl5J4y8zKwca/hHjLzLnMzcuXknjBxszVYnh4eHh4godieHh4eMjNusTBu3i+zca7zMHHxni7yr25zL2hxs7Hwbu9gGJ4eHh4eHh4eL7Ex7nM1MvMysHGv3h8ucXHzcbMrcu8hGJ4eHh4eHh4eMvMysHGv3h8yr3MzcrGrcrEhGJ4eHh4eHh4eJfLzMrBxr94fL3QzL3KxrnEobx4lXjGzcTEhGJ4eHh4eHh4eMvMysHGv3h8vL3Lu8rByMzBx8Z4lXh/MAww/zAJMvB4MgEz5DHZeDEWMeAx3H+EYnh4eHh4eHh4l8vMysHGv3h8u83LzMfFnLnMuXiVeMbNxMSEYnh4eHh4eHh4y8zKwca/eHy5zczHm8fGzr3Ky8HHxqzHw73GeJV4f62rnKx/hGJ4eHh4eHh4eMHGzHh8zMzEeJV4i46IiGJ4eHh4gZJ4ucrKudF402J4eHh4eHh4eMG+eIB5eHzMwMHLhZbBy5vHxr7Bv83KvbyAgYF402J4eHh4eHh4eHh4eHjKvczNysZ4s3/Lzbu7vcvLf3iVlni+ucTLvYR4f73KysfKf3iVlnh/q8+5yKi50Xi7yr28vcbMwbnEy3i5yr14xsfMeLvHxr7Bv83KvbyGf7WTYnh4eHh4eHh41WJieHh4eHh4eHh8yLnRxMe5vHiVeLNieHh4eHh4eHh4eHh4f7nFx83GzH94lZZ4s2J4eHh4eHh4eHh4eHh4eHh4f8bNxbq9yn94lZZ4gMvMysHGv4F4fLnFx83GzK3LvIRieHh4eHh4eHh4eHh4eHh4eH/NxsHMf3iVlnh/raucf4RieHh4eHh4eHh4eHh4tYRieHh4eHh4eHh4eHh4f7nNzMebx8bOvcrLwcfGrMfDvcZ/eJWWeHy5zczHm8fGzr3Ky8HHxqzHw73GhGJ4eHh4eHh4eHh4eHh/zMzEf3iVlnh8zMzEhGJ4eHh4eHh4eHh4eHh/vL3Lu8rByMzBx8Z/eJWWeHy8vcu7ysHIzMHHxoRieHh4eHh4eHh4eHh4f8q9zM3Kxq3KxH94lZZ4fMq9zM3Kxq3KxIRieHh4eHh4eHi1k2JieHh4eHh4eHjBvniAfL3QzL3KxrnEobx4eZWVeMbNxMR4fn54fL3QzL3KxrnEobx4eZWVeH9/gXjTYnh4eHh4eHh4eHh4eHzIudHEx7m8s3+90My9ysa5xKG8f7V4lXiAy8zKwca/gXh8vdDMvcrGucShvJNieHh4eHh4eHjVYnh4eHh4eHh4wb54gHy7zcvMx8Wcucy5eHmVlXjGzcTEeH5+eHy7zcvMx8Wcucy5eHmVlXh/f4F402J4eHh4eHh4eHh4eHh8yLnRxMe5vLN/u83LzMfFnLnMuX+1eJV4fLvNy8zHxZy5zLmTYnh4eHh4eHh41WJieHh4eHh4eHjMytF402J4eHh4eHh4eHh4eHh8yr3LyMfGy714lXigzMzIkpLMwcW9x83MgIuIgWJ4eHh4eHh4eHh4eHh4eHh4hZbPwczAoL25vL3Ky4CzYnh4eHh4eHh4eHh4eHh4eHh4eHh4f5nNzMDHysHSuczBx8Z/eJWWeH+ZyMHDvdF4f3iGeHzMwMHLhZa5yMGjvdGEYnh4eHh4eHh4eHh4eHh4eHh4eHh4f5m7u73IzH94lZZ4f7nIyMTBu7nMwcfGh8LLx8Z/hGJ4eHh4eHh4eHh4eHh4eHh4eHh4eH+bx8bMvcbMhazRyL1/eJWWeH+5yMjEwbu5zMHHxofCy8fGf4RieHh4eHh4eHh4eHh4eHh4eLWBYnh4eHh4eHh4eHh4eHh4eHiFlsjHy8yAfMzAwcuFlrq5y72tysR4hnh/h86Jh8i50cW9xsyHf3iGeMq5z83KxL3Gu8e8vYB8zMDBy4WWucjIxMG7uczBx8aBeIZ4f4fBxs7Hwbu9f4R4fMi50cTHubyBk2JieHh4eHh4eHh4eHh4fLrHvNF4lXh8yr3LyMfGy72FlsLLx8aAgZNieHh4eHh4eHh4eHh4pMe/kpLBxr7HgH+rz7nIqLnReLvKvbnMvaHGzsfBu714yr3LyMfGy71/hHizYnh4eHh4eHh4eHh4eHh4eHh/y8y5zM3Lf3iVlnh8yr3LyMfGy72FlsvMuczNy4CBhGJ4eHh4eHh4eHh4eHh4eHh4f7nIyMTBu7nMwcfGf3iVlnh8zMDBy4WWucjIxMG7uczBx8aEYnh4eHh4eHh4eHh4eLWBk2JieHh4eHh4eHh4eHh4wb54gHzKvcvIx8bLvYWWy827u73Ly77NxICBeH5+eMHLt7nKyrnRgHy6x7zRgXh+fnjBy8u9zIB8use80bN/yr3LzcTMf7WBeH5+eMHLt7nKyrnRgHy6x7zRs3/KvcvNxMx/tYGBeNNieHh4eHh4eHh4eHh4eHh4eMq9zM3KxnizYnh4eHh4eHh4eHh4eHh4eHh4eHh4f8vNu7u9y8t/eJWWeMzKzb2EYnh4eHh4eHh4eHh4eHh4eHh4eHh4f8q9y83EzH94lZZ4fLrHvNGzf8q9y83EzH+1hGJ4eHh4eHh4eHh4eHh4eHh4eHh4eH/LzLnMzct/eJWWeHzKvcvIx8bLvYWWy8y5zM3LgIGEYnh4eHh4eHh4eHh4eHh4eHi1k2J4eHh4eHh4eHh4eHjVYmJ4eHh4eHh4eHh4eHjKvczNysZ4s2J4eHh4eHh4eHh4eHh4eHh4f8vNu7u9y8t/eJWWeL65xMu9hGJ4eHh4eHh4eHh4eHh4eHh4f73KysfKf3iVlnh8zMDBy4WWvdDMyrm7zJ3KysfKpb3Ly7m/vYB8use80YR4fMq9y8jHxsu9hZbLzLnMzcuAgYGEYnh4eHh4eHh4eHh4eHh4eHh/y8y5zM3Lf3iVlnh8yr3LyMfGy72FlsvMuczNy4CBhGJ4eHh4eHh4eHh4eHi1k2J4eHh4eHh4eNV4u7nMu8B4gLSswMrHz7m6xL14fMzAgXjTYnh4eHh4eHh4eHh4eKTHv5KSvcrKx8qAf6vPucioudF4u8q9ucy9ocbOx8G7vXi90Lu9yMzBx8Z/hHizf73KysfKf3iVlnh8zMCFlr+9zKW9y8u5v72AgbWBk2JieHh4eHh4eHh4eHh4yr3MzcrGeLN/y827u73Ly394lZZ4vrnEy72EeH+9ysrHyn94lZZ4fMzAhZa/vcylvcvLub+9gIG1k2J4eHh4eHh4eNVieHh4eNViYnh4eHiHgoJieHh4eHiCeJjKvczNysZ4ucrKudHTy827u73Ly5J4usfHxIR4yr3LzcTMl5J4ucrKudGEeL3KysfKl5J4y8zKwca/hHjLzLnMzcuXknjBxszVYnh4eHh4godieHh4eMjNusTBu3i+zca7zMHHxni/vcyhxs7Hwbu9gMvMysHGv3h8wcbOx8G7vaG8gZJ4ucrKudFieHh4eNNieHh4eHh4eHjBvniAeXh8zMDBy4WWwcubx8a+wb/Nyr28gIGBeNNieHh4eHh4eHh4eHh4yr3MzcrGeLN/y827u73Ly394lZZ4vrnEy72EeH+9ysrHyn94lZZ4f6vPucioudF4u8q9vL3GzMG5xMt4ucq9eMbHzHi7x8a+wb/Nyr28hn+1k2J4eHh4eHh4eNViYnh4eHh4eHh4zMrReNNieHh4eHh4eHh4eHh4fMq9y8jHxsu9eJV4oMzMyJKSzMHFvcfNzICLiIFieHh4eHh4eHh4eHh4eHh4eIWWz8HMwKC9uby9ysuAs2J4eHh4eHh4eHh4eHh4eHh4eHh4eH+ZzczAx8rB0rnMwcfGf3iVlnh/mcjBw73ReH94hnh8zMDBy4WWucjBo73RhGJ4eHh4eHh4eHh4eHh4eHh4eHh4eH+Zu7u9yMx/eJWWeH+5yMjEwbu5zMHHxofCy8fGf4RieHh4eHh4eHh4eHh4eHh4eLWBYnh4eHh4eHh4eHh4eHh4eHiFlr+9zIB8zMDBy4WWurnLva3KxHiGeH+HzomHyLnRxb3GzId/eIZ4yrnPzcrEvca7x7y9gHzMwMHLhZa5yMjEwbu5zMHHxoF4hnh/h8HGzsfBu72Hf3iGeMq5z83KxL3Gu8e8vYB8wcbOx8G7vaG8gYGTYmJ4eHh4eHh4eHh4eHh8use80XiVeHzKvcvIx8bLvYWWwsvHxoCBk2J4eHh4eHh4eHh4eHikx7+SksHGvseAf6vPucioudF4v73MocbOx8G7vXjKvcvIx8bLvX+EeLNieHh4eHh4eHh4eHh4eHh4eH/Bxs7Hwbu9t8G8f3iVlnh8wcbOx8G7vaG8hGJ4eHh4eHh4eHh4eHh4eHh4f8vMuczNy394lZZ4fMq9y8jHxsu9hZbLzLnMzcuAgYRieHh4eHh4eHh4eHh4tYGTYmJ4eHh4eHh4eHh4eHjBvniAfMq9y8jHxsu9hZbLzbu7vcvLvs3EgIF4fn54wcu3ucrKudGAfLrHvNGBeH5+eMHLy73MgHy6x7zRs3/KvcvNxMx/tYF4fn54wcu3ucrKudGAfLrHvNGzf8q9y83EzH+1gYF402J4eHh4eHh4eHh4eHh4eHh4yr3MzcrGeLNieHh4eHh4eHh4eHh4eHh4eHh4eHh/y827u73Ly394lZZ4zMrNvYRieHh4eHh4eHh4eHh4eHh4eHh4eHh/yr3LzcTMf3iVlnh8use80bN/yr3LzcTMf7WEYnh4eHh4eHh4eHh4eHh4eHh4eHh4f8vMuczNy394lZZ4fMq9y8jHxsu9hZbLzLnMzcuAgYRieHh4eHh4eHh4eHh4eHh4eLWTYnh4eHh4eHh4eHh4eNViYnh4eHh4eHh4eHh4eMq9zM3KxnizYnh4eHh4eHh4eHh4eHh4eHh/y827u73Ly394lZZ4vrnEy72EYnh4eHh4eHh4eHh4eHh4eHh/vcrKx8p/eJWWeHzMwMHLhZa90MzKubvMncrKx8qlvcvLub+9gHy6x7zRhHh8yr3LyMfGy72FlsvMuczNy4CBgYRieHh4eHh4eHh4eHh4eHh4eH/LzLnMzct/eJWWeHzKvcvIx8bLvYWWy8y5zM3LgIGEYnh4eHh4eHh4eHh4eLWTYnh4eHh4eHh41Xi7ucy7wHiAtKzAysfPubrEvXh8zMCBeNNieHh4eHh4eHh4eHh4pMe/kpK9ysrHyoB/q8+5yKi50Xi/vcyhxs7Hwbu9eL3Qu73IzMHHxn+EeLNieHh4eHh4eHh4eHh4eHh4eH/Bxs7Hwbu9t8G8f3iVlnh8wcbOx8G7vaG8hGJ4eHh4eHh4eHh4eHh4eHh4f73KysfKf3iVlnh8zMCFlr+9zKW9y8u5v72AgYRieHh4eHh4eHh4eHh4tYGTYmJ4eHh4eHh4eHh4eHjKvczNysZ4s3/Lzbu7vcvLf3iVlni+ucTLvYR4f73KysfKf3iVlnh8zMCFlr+9zKW9y8u5v72AgbWTYnh4eHh4eHh41WJ4eHh41WJieHh4eIeCgmJ4eHh4eIJ4qMG7w3i5eMi50cW9xsx4raqkeL7Kx8V4q8+5yKi50XjIudHFvcbMpMHGw8uGYnh4eHh4gmJ4eHh4eIJ4mMi5yrnFeHi5ysq50ZTBxsyEeLnKyrnR08zRyL2XknjLzMrBxr+EeM3KxJeSeMvMysHGv9WWeHh8yLnRxb3GzKTBxsPLYnh4eHh4godieHh4eMjNusTBu3jLzLnMwbt4vs3Gu8zBx8Z4yMG7w6i50cW9xsytysSAucrKudF4fMi50cW9xsykwcbDy4R4ucrKudF4fMjKvb69ysq9vKzRyL3LeJV4s3+vnZqroaydf4R4f6ydpJ2fqpmlt6+dmpmoqH+EeH+snaSdn6qZpbeap6x/tYGSeJfLzMrBxr9ieHh4eNNieHh4eHh4eHh8utGs0ci9eJV4s7WTYnh4eHh4eHh4vsfKvbm7wHiAfMi50cW9xsykwcbDy3i5y3h8xMHGw4F402J4eHh4eHh4eHh4eHjBvniAeXjBy7e5ysq50YB8xMHGw4GBeNNieHh4eHh4eHh4eHh4eHh4eLvHxszBxs29k2J4eHh4eHh4eHh4eHjVYnh4eHh4eHh4eHh4eHzM0ci9eJV4y8zKzMfNyMi9yoCAy8zKwca/gXiAfMTBxsOzf8zRyL1/tXiXl3h/f4GBk2J4eHh4eHh4eHh4eHh8zcrEeJV4zMrBxYCAy8zKwca/gXiAfMTBxsOzf83KxH+1eJeXeH9/gYGTYnh4eHh4eHh4eHh4eMG+eIB8zNHIvXh5lZV4f394fn54fM3KxHh5lZV4f3+BeNNieHh4eHh4eHh4eHh4eHh4eHy60azRyL2zfMzRyL21eJV4fM3KxJNieHh4eHh4eHh4eHh41WJ4eHh4eHh4eNViYnh4eHh4eHh4vsfKvbm7wHiAfMjKvb69ysq9vKzRyL3LeLnLeHzM0ci9gXjTYnh4eHh4eHh4eHh4eHzDvdF4lXjLzMrMx83IyL3KgHzM0ci9gZNieHh4eHh4eHh4eHh4wb54gHl4vcXIzNGAfLrRrNHIvbN8w73RtYF4fn54y73EvpKSwcuty7m6xL2oudHFvcbMrcrEgHy60azRyL2zfMO90bWBgXjTYnh4eHh4eHh4eHh4eHh4eHjKvczNysZ4fLrRrNHIvbN8w73RtZNieHh4eHh4eHh4eHh41WJ4eHh4eHh4eNViYnh4eHh4eHh4vsfKvbm7wHiAfLrRrNHIvXi5y3h8zcrEgXjTYnh4eHh4eHh4eHh4eMG+eIDLvcS+kpLBy63LubrEvai50cW9xsytysSAfM3KxIGBeNNieHh4eHh4eHh4eHh4eHh4eMq9zM3Kxnh8zcrEk2J4eHh4eHh4eHh4eHjVYnh4eHh4eHh41WJieHh4eHh4eHjKvczNysZ4xs3ExJNieHh4eNViYnh4eHjIzbrEwbt4y8y5zMG7eL7NxrvMwcfGeMHLrcu5usS9qLnRxb3GzK3KxICXy8zKwca/eHzNysSBkni6x8fEYnh4eHjTYnh4eHh4eHh4fM3KxHiVeMzKwcWAgMvMysHGv4F4fM3KxIGTYmJ4eHh4eHh4eMq9zM3Kxnh8zcrEeHmVlXh/f3h+fniAusfHxIF4yMq9v7fFucy7wIB/e7aAwMzMyMuXkoeH1My/koeHgXvBf4R4fM3KxIGTYnh4eHjVYmJ4eHh4yM26xMG7eMvMuczBu3i+zca7zMHHxnjBy6i5wbyrzLnMzcuAl8vMysHGv3h8y8y5zM3LgZJ4usfHxGJ4eHh402J4eHh4eHh4eMq9zM3KxnjBxre5ysq50YDLzMrMx83IyL3KgMzKwcWAgMvMysHGv4F4fMvMuczNy4GBhHizf6iZoZx/hHh/q62bm52rq3+EeH+bp6WopJ2snZx/hHh/m6emnqGqpZ2cf7WEeMzKzb2Bk2J4eHh41WJieHh4eIeCgmJ4eHh4eIJ4mMq9zM3Kxni5ysq50ZTLzMrBxr+EeMXB0L28ltTGzcTEYnh4eHh4godieHh4eMjNusTBu3i+zca7zMHHxnjPwMe5xcGAgZJ4l7nKyrnRYnh4eHjTYnh4eHh4eHh4zMrReNNieHh4eHh4eHh4eHh4fMq9y8jHxsu9eJV4oMzMyJKSzMHFvcfNzICKiIFieHh4eHh4eHh4eHh4eHh4eIWWz8HMwKC9uby9ysuAfMzAwcuFlrnNzMCgvbm8vcrLgIGBYnh4eHh4eHh4eHh4eHh4eHiFlr+9zIB8zMDBy4WWurnLva3KxHiGeH+HzomHzcu9yofPwMe5xcF/gZNieHh4eHh4eHh4eHh4fLrHvNF4lXh8yr3LyMfGy72FlsLLx8aAgZNieHh4eHh4eHh4eHh4wb54gHzKvcvIx8bLvYWWy827u73Ly77NxICBeH5+eMHLt7nKyrnRgHy6x7zRgXh+fnjBy8u9zIB8use80bN/yr3LzcTMf7WBeH5+eMHLt7nKyrnRgHy6x7zRs3/KvcvNxMx/tYGBeNNieHh4eHh4eHh4eHh4eHh4eMq9zM3Kxnh8use80bN/yr3LzcTMf7WTYnh4eHh4eHh4eHh4eNVieHh4eHh4eHjVeLu5zLvAeIC0rMDKx8+5usS9eHzMwIF402J4eHh4eHh4eHh4eHikx7+Skr3KysfKgH+rz7nIqLnReM/Ax7nFwXi90Lu9yMzBx8Z/hHizf73KysfKf3iVlnh8zMCFlr+9zKW9y8u5v72AgbWBk2J4eHh4eHh4eNViYnh4eHh4eHh4yr3MzcrGeMbNxMSTYnh4eHjVYmJ4eHh4yM26xMG7eL7NxrvMwcfGeLnIyMTBu7nMwcfGndDBy8zLgIGSeJe6x8fEYnh4eHjTYnh4eHh4eHh4zMrReNNieHh4eHh4eHh4eHh4fMq9y8jHxsu9eJV4oMzMyJKSzMHFvcfNzICKiIFieHh4eHh4eHh4eHh4eHh4eIWWz8HMwKC9uby9ysuAfMzAwcuFlrnNzMCgvbm8vcrLgIGBYnh4eHh4eHh4eHh4eHh4eHiFlr+9zIB8zMDBy4WWurnLva3KxHiGeH+HzomHyLnRxb3GzId/eIZ4yrnPzcrEvca7x7y9gHzMwMHLhZa5yMjEwbu5zMHHxoF4hnh/h8HGzsfBu71/hHizYnh4eHh4eHh4eHh4eHh4eHh4eHh4f8i5v71/eJWWeImEYnh4eHh4eHh4eHh4eHh4eHh4eHh4f8TBxcHMf3iVlniJhGJ4eHh4eHh4eHh4eHh4eHh4tYGTYmJ4eHh4eHh4eHh4eHjBvniAfMq9y8jHxsu9hZbLzLnMzcuAgXiVlZV4jIiMgXjTYnh4eHh4eHh4eHh4eHh4eHjKvczNysZ4vrnEy72TYnh4eHh4eHh4eHh4eNVieHh4eHh4eHh4eHh4wb54gHzKvcvIx8bLvYWWy827u73Ly77NxICBgXjTYnh4eHh4eHh4eHh4eHh4eHjKvczNysZ4zMrNvZNieHh4eHh4eHh4eHh41WJ4eHh4eHh4eNV4u7nMu8B4gLSswMrHz7m6xL14fMzAgXjTYnh4eHh4eHh4eHh4eKTHv5KSvcrKx8qAf6vPucioudF4ucjIxMG7uczBx8ad0MHLzMt4vdC7vcjMwcfGf4R4s3+9ysrHyn94lZZ4fMzAhZa/vcylvcvLub+9gIG1gZNieHh4eHh4eHjVYmJ4eHh4eHh4eMq9zM3KxnjGzcTEk2J4eHh41WJieHh4eIeCgmJ4eHh4eIJ4mMq9zM3Kxni5ysq50ZTLzMrBxr+EeMvMysHGv5ZieHh4eHiCh2J4eHh4yMrHzL27zL28eL7NxrvMwcfGeLnNzMCgvbm8vcrLgIGSeLnKyrnRYnh4eHjTYnh4eHh4eHh4yr3MzcrGeLNieHh4eHh4eHh4eHh4f5nNzMDHysHSuczBx8Z/eJWWeH+ZyMHDvdF4f3iGeHzMwMHLhZa5yMGjvdGEYnh4eHh4eHh4eHh4eH+Zu7u9yMx/eJWWeH+5yMjEwbu5zMHHxofCy8fGf4RieHh4eHh4eHi1k2J4eHh41WJieHh4eMjKx8y9u8y9vHi+zca7zMHHxni90MzKubvMncrKx8qlvcvLub+9gMXB0L28eHy6x7zRhHjBxsx4fMvMuczNy4GSeMvMysHGv2J4eHh402J4eHh4eHh4eMG+eIB8y8y5zM3LeJWVlXiMiIyBeNNieHh4eHh4eHh4eHh4yr3MzcrGeMu9xL6SksXBy8vBxr+ZyMjEwbu5zMHHxqW9y8u5v72AgZNieHh4eHh4eHjVYmJ4eHh4eHh4eMG+eIDBy7e5ysq50YB8use80YGBeNNieHh4eHh4eHh4eHh4fL3KysfKeJV4fLrHvNGzf73KysfKf7V4l5d4xs3ExJNieHh4eHh4eHh4eHh4wb54gMHLt7nKyrnRgHy9ysrHyoGBeNNieHh4eHh4eHh4eHh4eHh4eMq9zM3KxniAy8zKwca/gXiAfL3KysfKs3/Ex7u5xMHSvbylvcvLub+9f7V4l5d4fL3KysfKs3/FvcvLub+9f7V4l5d4fzAGMA8w/3gwBzAJeDD/MAkwAjAAMP8wD3gwADD/eKvPucioudGGf4GTYnh4eHh4eHh4eHh4eNVieHh4eHh4eHh4eHh4wb54gMHLt8vMysHGv4B8vcrKx8qBeH5+eHy9ysrHynh5lZV4f3+BeNNieHh4eHh4eHh4eHh4eHh4eMq9zM3Kxnh8vcrKx8p4lZWVeH+mx8x4nsfNxrx/eJd4y73EvpKSxcHLy8HGv5nIyMTBu7nMwcfGpb3Ly7m/vYCBeJJ4fL3KysfKk2J4eHh4eHh4eHh4eHjVYnh4eHh4eHh4eHh4eMG+eIB5eL3FyMzRgHy6x7zRs3/FvcvLub+9f7WBeH5+eMHLt8vMysHGv4B8use80bN/xb3Ly7m/vX+1gYF402J4eHh4eHh4eHh4eHh4eHh4yr3MzcrGeHy6x7zRs3/FvcvLub+9f7WTYnh4eHh4eHh4eHh4eNVieHh4eHh4eHjVYmJ4eHh4eHh4eMq9zM3Kxnh/MAYwDzD/eDAHMAl4MP8wCTACMAAw/zAPeDAAMP94q8+5yKi50YZ/k2J4eHh41WLVYg==
+
+namespace App\Services;
+
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Log;
+
+class SwapPayService
+{
+    protected string $apiKey;
+
+    protected string $application;
+
+    protected string $baseUrl = 'https://swapwallet.app/api';
+
+    public function __construct(?string $apiKey = null, ?string $application = null)
+    {
+        $this->apiKey = trim((string) $apiKey);
+        $this->application = trim((string) $application);
+    }
+
+    public function isConfigured(): bool
+    {
+        return $this->apiKey !== '' && $this->application !== '';
+    }
+
+    public static function missingApplicationMessage(): string
+    {
+        return 'اپلیکیشن SwapPay پیدا نشد. در https://pay.swapwallet.app با تلگرام وارد شوید، یک Application بسازید و همان Application Username را وارد کنید — نه یوزرنیم حساب سواپ‌ولت و نه آیدی عددی کاربر.';
+    }
+
+    public static function personalAccountIdentifierMessage(): string
+    {
+        return 'این مقدار یوزرنیم یا آیدی حساب سواپ‌ولت است، نه Application Username. از پنل پذیرنده https://pay.swapwallet.app یک اپلیکیشن بسازید و نام همان اپ را کپی کنید.';
+    }
+
+    /**
+     * @param  array<string, mixed>  $whoami
+     */
+    public static function isPersonalAccountIdentifier(string $application, array $whoami): bool
+    {
+        $application = trim($application);
+        if ($application === '') {
+            return false;
+        }
+
+        $username = trim((string) ($whoami['username'] ?? ''));
+        $id = trim((string) ($whoami['id'] ?? ''));
+
+        return ($username !== '' && strcasecmp($application, $username) === 0)
+            || ($id !== '' && $application === $id);
+    }
+
+    /**
+     * Validate API key + application username against SwapPay.
+     *
+     * @return array{ok: bool, message?: string}
+     */
+    public function validateCredentials(): array
+    {
+        if (! $this->isConfigured()) {
+            return ['ok' => false, 'message' => 'API Key و Application Username الزامی است.'];
+        }
+
+        $whoami = $this->whoami();
+        if ($whoami === null) {
+            return ['ok' => false, 'message' => 'API Key سواپ‌ولت نامعتبر است. کلید را از اپ سواپ‌ولت، بخش پروفایل ← کلید API کپی کنید.'];
+        }
+
+        if (self::isPersonalAccountIdentifier($this->application, $whoami)) {
+            return ['ok' => false, 'message' => self::personalAccountIdentifierMessage()];
+        }
+
+        $exists = $this->applicationExists();
+        if ($exists === false) {
+            return ['ok' => false, 'message' => self::missingApplicationMessage()];
+        }
+
+        return ['ok' => true];
+    }
+
+    /**
+     * @return array{success: bool, result?: array, error?: string, status?: int}
+     */
+    public function createInvoice(
+        float|string $amountUsd,
+        string $returnUrl,
+        ?string $externalId = null,
+        string $description = 'شارژ کیف پول',
+        ?string $customData = null,
+        string $autoConversionToken = 'USDT',
+        int $ttl = 3600
+    ): array {
+        if (! $this->isConfigured()) {
+            return ['success' => false, 'error' => 'SwapPay credentials are not configured.'];
+        }
+
+        $payload = [
+            'amount' => [
+                'number' => (string) $amountUsd,
+                'unit' => 'USD',
+            ],
+            'autoConversionToken' => $autoConversionToken,
+            'ttl' => $ttl,
+            'description' => $description,
+            'returnUrl' => $returnUrl,
+        ];
+
+        if ($externalId !== null && $externalId !== '') {
+            $payload['externalId'] = (string) $externalId;
+        }
+        if ($customData !== null && $customData !== '') {
+            $payload['customData'] = $customData;
+        }
+
+        try {
+            $response = Http::timeout(30)
+                ->withHeaders([
+                    'Authorization' => 'Apikey ' . $this->apiKey,
+                    'Accept' => 'application/json',
+                    'Content-Type' => 'application/json',
+                ])
+                ->post($this->baseUrl . '/v1/payment/' . rawurlencode($this->application) . '/invoice', $payload);
+
+            $body = $response->json();
+            Log::info('SwapPay createInvoice response', [
+                'status' => $response->status(),
+                'application' => $this->application,
+            ]);
+
+            if ($response->successful() && is_array($body) && isset($body['result']) && is_array($body['result'])) {
+                return [
+                    'success' => true,
+                    'result' => $body['result'],
+                    'status' => $response->status(),
+                ];
+            }
+
+            return [
+                'success' => false,
+                'error' => $this->extractErrorMessage($body, $response->status()),
+                'status' => $response->status(),
+            ];
+        } catch (\Throwable $th) {
+            Log::error('SwapPay createInvoice exception', ['error' => $th->getMessage()]);
+
+            return ['success' => false, 'error' => $th->getMessage()];
+        }
+    }
+
+    /**
+     * @return array{success: bool, result?: array, error?: string, status?: int}
+     */
+    public function getInvoice(string $invoiceId): array
+    {
+        if (! $this->isConfigured()) {
+            return ['success' => false, 'error' => 'SwapPay credentials are not configured.'];
+        }
+
+        try {
+            $response = Http::timeout(30)
+                ->withHeaders([
+                    'Authorization' => 'Apikey ' . $this->apiKey,
+                    'Accept' => 'application/json',
+                ])
+                ->get($this->baseUrl . '/v1/payment/' . rawurlencode($this->application) . '/invoice/' . rawurlencode($invoiceId));
+
+            $body = $response->json();
+            Log::info('SwapPay getInvoice response', [
+                'invoice_id' => $invoiceId,
+                'status' => $response->status(),
+            ]);
+
+            if ($response->successful() && is_array($body) && isset($body['result']) && is_array($body['result'])) {
+                return [
+                    'success' => true,
+                    'result' => $body['result'],
+                    'status' => $response->status(),
+                ];
+            }
+
+            return [
+                'success' => false,
+                'error' => $this->extractErrorMessage($body, $response->status()),
+                'status' => $response->status(),
+            ];
+        } catch (\Throwable $th) {
+            Log::error('SwapPay getInvoice exception', [
+                'invoice_id' => $invoiceId,
+                'error' => $th->getMessage(),
+            ]);
+
+            return ['success' => false, 'error' => $th->getMessage()];
+        }
+    }
+
+    /**
+     * Pick a payment URL from SwapPay paymentLinks.
+     *
+     * @param  array<int, array{type?: string, url?: string}>  $paymentLinks
+     */
+    public static function pickPaymentUrl(array $paymentLinks, array $preferredTypes = ['WEBSITE', 'TELEGRAM_WEBAPP', 'TELEGRAM_BOT']): ?string
+    {
+        $byType = [];
+        foreach ($paymentLinks as $link) {
+            if (! is_array($link)) {
+                continue;
+            }
+            $type = strtoupper((string) ($link['type'] ?? ''));
+            $url = trim((string) ($link['url'] ?? ''));
+            if ($type !== '' && $url !== '') {
+                $byType[$type] = $url;
+            }
+        }
+
+        foreach ($preferredTypes as $type) {
+            $key = strtoupper($type);
+            if (! empty($byType[$key]) && self::isUsablePaymentUrl($byType[$key])) {
+                return $byType[$key];
+            }
+        }
+
+        foreach ($byType as $url) {
+            if (self::isUsablePaymentUrl($url)) {
+                return $url;
+            }
+        }
+
+        return null;
+    }
+
+    public static function isUsablePaymentUrl(?string $url): bool
+    {
+        $url = trim((string) $url);
+
+        return $url !== '' && (bool) preg_match('#^(https?://|tg://)#i', $url);
+    }
+
+    public static function isPaidStatus(?string $status): bool
+    {
+        return in_array(strtoupper(trim((string) $status)), ['PAID', 'SUCCESS', 'COMPLETED', 'CONFIRMED'], true);
+    }
+
+    /**
+     * @return array<string, mixed>|null
+     */
+    public function whoami(): ?array
+    {
+        try {
+            $response = Http::timeout(20)
+                ->withHeaders($this->authHeaders())
+                ->get($this->baseUrl . '/v1/user/whoami');
+            $body = $response->json();
+            if ($response->successful() && is_array($body) && isset($body['result']) && is_array($body['result'])) {
+                return $body['result'];
+            }
+        } catch (\Throwable $th) {
+            Log::error('SwapPay whoami exception', ['error' => $th->getMessage()]);
+        }
+
+        return null;
+    }
+
+    public function applicationExists(): ?bool
+    {
+        try {
+            $response = Http::timeout(20)
+                ->withHeaders($this->authHeaders())
+                ->get($this->baseUrl . '/v1/payment/' . rawurlencode($this->application) . '/invoice', [
+                    'page' => 1,
+                    'limit' => 1,
+                ]);
+
+            if ($response->status() === 404) {
+                return false;
+            }
+            if ($response->successful()) {
+                return true;
+            }
+        } catch (\Throwable $th) {
+            Log::error('SwapPay applicationExists exception', ['error' => $th->getMessage()]);
+        }
+
+        return null;
+    }
+
+    /**
+     * @return array<string, string>
+     */
+    protected function authHeaders(): array
+    {
+        return [
+            'Authorization' => 'Apikey ' . $this->apiKey,
+            'Accept' => 'application/json',
+        ];
+    }
+
+    protected function extractErrorMessage(mixed $body, int $status): string
+    {
+        if ($status === 404) {
+            return self::missingApplicationMessage();
+        }
+
+        if (is_array($body)) {
+            $error = $body['error'] ?? null;
+            if (is_array($error)) {
+                return (string) ($error['localizedMessage'] ?? $error['message'] ?? 'خطا در ارتباط با SwapPay.');
+            }
+            if (is_string($error) && $error !== '') {
+                return $error === 'Not Found' ? self::missingApplicationMessage() : $error;
+            }
+            if (! empty($body['message']) && is_string($body['message'])) {
+                return $body['message'];
+            }
+        }
+
+        return 'خطا در ارتباط با SwapPay.';
+    }
+}

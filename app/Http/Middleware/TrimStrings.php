@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'AivDXj'); return 0;
-##!!!##MDCUh5OLmZaHiYtGZ5aWgm6ampaCc4+KipKLnYeYi2EwMJuZi0ZvkpKbk4+Uh5qLgmyVm5SKh5qPlZSCbpqaloJzj4qKkoudh5iLgnqYj5N5mpiPlI2ZRoeZRnOPioqSi52HmIthMDCJkoeZmUZ6mI+TeZqYj5SNmUaLnpqLlIqZRnOPioqSi52HmIswoTBGRkZGVVBQMEZGRkZGUEZ6jotGlIeTi5lGlYxGmo6LRoeampiPiJuai5lGmo6HmkaZjpWbkopGlJWaRoiLRpqYj5OTi4pUMEZGRkZGUDBGRkZGRlBGZpyHmEaHmJiHn2KPlJpSRpmamI+UjWQwRkZGRkZQVTBGRkZGlpiVmouJmouKRkqLnomLlppGY0aBMEZGRkZGRkZGTYmbmJiLlJqFloeZmZ2VmIpNUjBGRkZGRkZGRk2Wh5mZnZWYik1SMEZGRkZGRkZGTZaHmZmdlZiKhYmVlIyPmJOHmo+VlE1SMEZGRkaDYTCjMA==
+
+namespace App\Http\Middleware;
+
+use Illuminate\Foundation\Http\Middleware\TrimStrings as Middleware;
+
+class TrimStrings extends Middleware
+{
+    /**
+     * The names of the attributes that should not be trimmed.
+     *
+     * @var array<int, string>
+     */
+    protected $except = [
+        'current_password',
+        'password',
+        'password_confirmation',
+    ];
+}

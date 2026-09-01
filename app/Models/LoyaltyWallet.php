@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , 'hHWg7a'); return 0;
-##!!!##EBB0Z3NreXZnaWsmR3Z2YlN1amtyeUEQEHt5ayZPcnJ7c290Z3prYkpnemdoZ3lrYktydXd7a3R6YlN1amtyQRAQaXJneXkmUnV/Z3J6f11ncnJreiZrfnprdGp5JlN1amtyEIEQJiYmJnZ4dXpraXpraiYqbXtneGpraiZDJmEtb2otY0EQECYmJiZ2eHV6a2l6a2omKmlneXp5JkMmYRAmJiYmJiYmJi1oZ3JndGlrLSZDRCYtb3R6a21reC0yECYmJiZjQRAQJiYmJnZ7aHJvaSZse3Rpem91dCZ7eWt4Li8QJiYmJoEQJiYmJiYmJiZ4a3p7eHQmKnpub3kzRGhrcnV0bXladS5beWt4QEBpcmd5eS9BECYmJiaDEIMQ
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class LoyaltyWallet extends Model
+{
+    protected $guarded = ['id'];
+
+    protected $casts = [
+        'balance' => 'integer',
+    ];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
+}

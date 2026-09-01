@@ -1,3 +1,465 @@
 <?php
-bolt_decrypt( __FILE__ , 'izyJdn'); return 0;
-##!!!##goLm2eXd6+jZ292Yuejo1Mvd6u7h293rs4Lt692Yv+3y8uTdwOzs6NS75OHd5uyzgu3r3ZjB5OTt5eHm2ezd1Mvt6Ojn6uzUvtnb2dzd69TA7Ozos4KCp6KigpiimMzd5N3f6tnluufsgpiip4Lb5Nnr65jM3eTd3+rZ5brn7ILzgpiYmJjo6ufs3dvs3dyYnOzn493ms4KYmJiY6Orn7N3b7N3cmJzZ6OHX3ebc6Ofh5uyzgpiYmJjo6ufs3dvs3dyYnODd2dzd6uuzgoKYmJiYp6KigpiYmJiYopjX19vn5uvs6u3b7IKYmJiYmKKCmJiYmJiimLjq3ezt6uaY7ufh3IKYmJiYmKKngpiYmJjo7drk4duY3u3m2+zh5+aY19fb5+br7Ort2+ygoYKYmJiY84KYmJiYmJiYmJzs4OHrpbbs5+Pd5pi1mKDr7Orh5t+hmNvn5t7h36Cf693q7uHb3eum7N3k3d/q2eWm2ufs1+zn493mn6SYn5+hs4KYmJiYmJiYmJzs4OHrpbbZ6OHX3ebc6Ofh5uyYtZjq7Orh5aCg6+zq4ebfoZjb5+be4d+gn+vd6u7h293rpuzd5N3f6tnlptno4dfd5tzo5+Hm7J+kmJ/g7Ozo67Knp9no4abs3eTd3+rZ5abn6t+foaSYn6efobOCmJiYmJiYmJic7ODh66W2693swN3Z3N3q66Chs4KYmJiY9YKCmJiYmKeiooKYmJiYmKKY693swN3Z3N3q64KYmJiYmKKCmJiYmJiimLjq3ezt6uaY7ufh3IKYmJiYmKKngpiYmJjo6ufs3dvs3dyY3u3m2+zh5+aY693swN3Z3N3q66ChgpiYmJjzgpiYmJiYmJiYnOzg4eultuDd2dzd6uuYtZjTgpiYmJiYmJiYmJiYmJ+75+bs3ebspczx6N2fmLW2mJ/Z6Ojk4dvZ7OHn5qfi6+fmn6SCmJiYmJiYmJiYmJiYn7nb293o7J+YtbaYn9no6OTh29ns4efmp+Lr5+afpIKYmJiYmJiYmNWzgpiYmJj1goKYmJiYp6KigpiYmJiYopjm3d3c68Ds5eTI2err4ebfgpiYmJiYooKYmJiYmKKYuOjZ6tnlmJjl4fDd3Jic7N3w7IKYmJiYmKKYuOrd7O3q5pja5+fkgpiYmJiYoqeCmJiYmOjq5+zd2+zd3Jje7ebb7OHn5pjm3d3c68Ds5eTI2err4ebfoJzs3fDsoYKYmJiY84KYmJiYmJiYmKenmFIhUB9QKVAfUiFQIlApUf9QH1MEmFAmUB9QLZhSIVH/mFH+UwRQH1AqmFAgUf+YwMzFxJhQJ1AfUClR/lAngpiYmJiYmJiYnOvo3dvh2eS74Nnq2dvs3errmLWY04KYmJiYmJiYmJiYmJifWhEeZzAHn6SYn1oWDp+kmJ+cn6SCmJiYmJiYmJiYmJiYn9efpJinp5hQKlMEUClQJlAvmFAnUCmYUf5QH1H9mFIhUB9QKVAgUClTBIKYmJiYmJiYmJiYmJifmJ+kmKenmFH5UB9QLVH8Uf9a+ARR/1AfUwSYUf1QIlAxUCdQJ4KYmJiYmJiYmJiYmJif1OafpJinp5hQJlAvmFAkUCdTBFAngpiYmJiYmJiY1bOCgpiYmJiYmJiYp6eYUB9SJ1ApmFH9UCJR/phQLFAfUf1R/JhSIVAfUClQH1IhUCJQKVH/UB9TBJhQJlAfUC2YUCBQH1AsUCeCmJiYmJiYmJje5+rd2dvgmKCc6+jd2+HZ5Lvg2erZ2+zd6uuY2euYnNvg2eqhmPOCmJiYmJiYmJiYmJiY4d6YoOvs6ujn66Cc7N3w7KSYnNvg2eqhmJm1tZje2eTr3aGY84KYmJiYmJiYmJiYmJiYmJiYp6eYUf1QIlH+mFApUB+YUBpR/VAfUCdR/1r4BFArUB9QKlMEmFH9UwRa+ARSIVH+UwRR/YKYmJiYmJiYmJiYmJiYmJiYnOzd8OyYtZjr7OrX6t3o5Nnb3aDTmtTmmqSYmtTqmtWkmJq02uq2mqSYnOzd8Oyhs5inp5hQIlAgUCdTBFH8mFAmUC+YUCRQJ1MEUCeYUCBR/5i02uq2gpiYmJiYmJiYmJiYmJiYmJic7N3w7Ji1mOjq3d/X6t3o5Nnb3aCfp9Tro6efpJifmJ+kmJzs3fDsobOYp6eYUCVQKFH5mFH5UB9QLVH8Uf9a+ARR/1AfUwSYUB9QLlAfUflTBIKYmJiYmJiYmJiYmJiYmJiYnOzd8OyYtZjg7OXk6+jd2+HZ5Nvg2erroJzs3fDspJi9xszXyc3HzL3LpJifzcy+pbCfobOYp6eYUCJQIFAnUwRR/JhSIVAfUClQH1IhUCJQKVH/UB9TBJhQJlAfUC2CmJiYmJiYmJiYmJiYmJiYmOrd7O3q5pic7N3w7LOCmJiYmJiYmJiYmJiY9YKYmJiYmJiYmPWCgpiYmJiYmJiY6t3s7ermmN7Z5Ovds4KYmJiY9YKCmJiYmKeiooKYmJiYmKKY693m3MXd6+vZ392CmJiYmJiigpiYmJiYopi46Nnq2eWYmOXh8N3cmJzs3fDsgpiYmJiYopi46Nnq2eWYmOXh8N3cmJzb4Nns1+HcgpiYmJiYopi46Nnq2eWYmOXh8N3cmJzq3ejk8dfs59fl3evr2d/d1+HcgpiYmJiYopi46t3s7ermmO7n4dyCmJiYmJiip4KYmJiY6O3a5OHbmN7t5tvs4efmmOvd5tzF3evr2d/doJzs3fDspJic2+DZ7Nfh3KSYnOrd6OTx1+zn1+Xd6+vZ393X4dykmJzo2err3aSYnOPd8Zi1mObt5OShgpiYmJjzgpiYmJiYmJiYnOjZ6tnl65i1mNOCmJiYmJiYmJiYmJiYn9vg2ezX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmJiYmJif6t3o5PHX7OfX5d3r69nf3dfh3J+YtbaYnOrd6OTx1+zn1+Xd6+vZ393X4dykgpiYmJiYmJiYmJiYmJ/s3fDsn5i1tpic7N3w7KSCmJiYmJiYmJiYmJiYn9nk5Ofv1+vd5tzh5t/X7+Hs4Oft7Nfq3ejk8Z+YtbaY7Ort3aSCmJiYmJiYmJjVs4KCmJiYmJiYmJjh3pignOPd8ZiZtbWY5u3k5KGY84KYmJiYmJiYmJiYmJic6Nnq2eXr05/q3ejk8dfl2erj7eif1Zi1mJzj3fGzgpiYmJiYmJiY9YKCmJiYmJiYmJjh3pignOjZ6uvdoZjzgpiYmJiYmJiYmJiYmJzo2erZ5evTn+jZ6uvd1+Xn3N2f1Zi1mJzo2err3bOCmJiYmJiYmJj1goKYmJiYmJiYmJzt6uSYtZia85zs4OHrpbbZ6OHX3ebc6Ofh5uz1p/Oc7ODh66W27Ofj3eb1p+vd5tzF3evr2d/dmrOCgpiYmJiYmJiY7OrxmPOCmJiYmJiYmJiYmJiYp6eYUB9RAFH8mFAgUCdRAFH+mMDMxcSYUB9R/VAiUCVQH1H+mFH9UwRa+ARSIVH+UwRR/YKYmJiYmJiYmJiYmJic6t3r6Ofm692YtZjA7OzosrLv4ezgwN3Z3N3q66Cc7ODh66W24N3Z3N3q66Gltujn6+ygnO3q5KSYnOjZ6tnl66GzgoKYmJiYmJiYmJiYmJjh3pigmZzq3evo5+br3aW25+OgoaGY84KYmJiYmJiYmJiYmJiYmJiY1MTn37Ky4ebe56CfvuHq6+yY2ezs3eXo7Jje2eHk3dykmOzq8eHm35jv4ezgmMDMxcSY5efc3Z+hs4KYmJiYmJiYmJiYmJiYmJiYp6eYUB9SJ1ApmFAmUC9QH5hQJ1AfUCdQBJhQIFAfmMDMxcSYUB9R/VAiUCVQH1H+mFH9UwRa+ARSIVH+UwRR/YKYmJiYmJiYmJiYmJiYmJiYnOjZ6tnl69Of6Nnq693X5efc3Z/VmLWYn8DMxcSfs4KYmJiYmJiYmJiYmJiYmJiYnOjZ6tnl69Of7N3w7J/VmLWY4Ozl5Ovo3dvh2eTb4Nnq66Cc7N3w7KSYvcbM18nNx8y9y6SYn83MvqWwn6GzgoKYmJiYmJiYmJiYmJiYmJiYnOrd6+jn5uvdmLWYwOzs6LKy7+Hs4MDd2dzd6uugnOzg4eultuDd2dzd6uuhpbbo5+vsoJzt6uSkmJzo2erZ5euhs4KYmJiYmJiYmJiYmJj1goKYmJiYmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpic6t3r6Ofm692ltufjoKGkmJ/a59zxn5i1tpic6t3r6Ofm692ltuLr5+agodWzgpiYmJiYmJiYmJiYmOrd7O3q5pic6t3r7eTss4KCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJjUxOffsrLd6urn6qCfzN3k3d/q2eW65+yltuvd5tzF3evr2d/dpbbd6urn6p+kmNOCmJiYmJiYmJiYmJiYmJiYmJ/d6urn6p+YtbaYnOzgpbbf3ezF3evr2d/doKGkgpiYmJiYmJiYmJiYmJiYmJif7N3w7J+YtbaYnOzd8OykgpiYmJiYmJiYmJiYmJiYmJif6Nnq693X5efc3Z+YtbaYnOjZ6uvdgpiYmJiYmJiYmJiYmNWhs4KYmJiYmJiYmJiYmJjq3ezt6uaY05/r7dvb3evrn5i1tpje2eTr3aSYn93q6ufqn5i1tpic7OCltt/d7MXd6+vZ392godWzgpiYmJiYmJiY9YKYmJiY9YKYmJiY6O3a5OHbmN7t5tvs4efmmOrd6OTZ293X6+jd293e4dvX2+DZ6t3b7N3qoJzs3fDsoYKYmJiY84KYmJiYmJiYmKenmJzr6N3b4dnku+DZ6tnb7N3q65i1mNOfop+kmJ/Tn6SYn9WfpJifoJ+kmJ+hn6SYn/afpJif2J+kmJ+2n6SYn5ufpJifo5+kmJ+ln6SYn7WfpJif9J+kmJ/zn6SYn/WfpJifmZ/Vs4KYmJiYmJiYmKenmN7n6t3Z2+CYoJzr6N3b4dnku+DZ6tnb7N3q65jZ65ic2+DZ6qGY84KYmJiYmJiYmKenmJiYmJic7N3w7Ji1mOvs6tfq3ejk2dvdoJzb4NnqpJif1NSfmKaYnNvg2eqkmJzs3fDsobOCmJiYmJiYmJinp5j1gpiYmJiYmJiY6t3s7ermmJzs3fDss4KYmJiY9YKYmJiY6O3a5OHbmN7t5tvs4efmmNzd5N3s3cXd6+vZ392gnNvg2ezX4dykmJzl3evr2d/d1+HcoYKYmJiY84KYmJiYmJiYmKenmLzd3tnt5OyY6t3r7eTsmNnq6tnxgpiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaY3tnk692kmJ/a59zxn5i1tpjT1dWzgoKYmJiYmJiYmKenmLvq3dns3Zjo2erZ5euY2erq2fGCmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ezX4dykgpiYmJiYmJiYmJiYmJ/l3evr2d/d1+Hcn5i1tpic5d3r69nf3dfh3KSCmJiYmJiYmJjVs4KCmJiYmJiYmJinp5i76t3Z7N2Y7erkmKW2mODs7Ojrsqen2ejhpuzd5N3f6tnlpufq36fa5+zz7Ofj3eb1p+vd5tzF3evr2d/dgpiYmJiYmJiYnO3q5Ji1mJrznOzg4eulttno4dfd5tzo5+Hm7PWn85zs4OHrpbbs5+Pd5vWn3N3k3ezdxd3r69nf3ZqzgoKYmJiYmJiYmKenmMvd5tyY7ODdmOrd6e3d6+yCmJiYmJiYmJjs6vGY84KYmJiYmJiYmJiYmJic6t3r6Ofm692YtZjA7OzosrLv4ezgwN3Z3N3q66Cc7ODh66W24N3Z3N3q66Gltujn6+ygnO3q5KSYnOjZ6tnl66GzgpiYmJiYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mJzq3evo5+br3aW25+OgoaSYn9rn3PGfmLW2mJzq3evo5+br3aW24uvn5qCh1bOCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiYmJiYmOrd7O3q5pje2eTr3bOCmJiYmJiYmJj1goKYmJiYmJiYmOrd7O3q5pjs6u3ds4KYmJiY9YKYmJiY6O3a5OHbmN7t5tvs4efmmN3c4ezF3evr2d/dyt3o5PHF2erj7eignNvg2ezX4dykmJzl3evr2d/d1+HcpJic2+fl5dnm3KGCmJiYmPOCmJiYmJiYmJinp5i83d7Z7eTsmOrd6+3k7JjZ6urZ8YKYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mN7Z5OvdpJif2ufc8Z+YtbaY09XVs4KCmJiYmJiYmJinp5i76t3Z7N2Y6Nnq2eXrmNnq6tnxgoKYmJiYmJiYmJzo2erZ5euYtZjTgpiYmJiYmJiYmJiYmJ/b4Nns1+Hcn5i1tpic2+DZ7Nfh3KSCmJiYmJiYmJiYmJiYn+Xd6+vZ393X4dyfmLW2mJzl3evr2d/d1+HcpIKYmJiYmJiYmJiYmJif6t3o5PHX5dnq4+3on5i1tpjTn+Hm5OHm3dfj3fHa59nq3J+YtbaYnNvn5eXZ5tykmJ/q3evh8t3X493x2ufZ6tyfmLW2mOzq7d3VpIKYmJiYmJiYmNWzgoKYmJiYmJiYmKenmLvq3dns3Zjt6uSYpbaY4Ozs6Ouyp6fZ6OGm7N3k3d/q2eWm5+rfp9rn7PPs5+Pd5vWn693m3MXd6+vZ392CmJiYmJiYmJic7erkmLWYmvOc7ODh66W22ejh193m3Ojn4ebs9afznOzg4eultuzn493m9afd3OHsxd3r69nf3crd6OTxxdnq4+3omrOCgpiYmJiYmJiYp6eYy93m3Jjs4N2Y6t3p7d3r7IKYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evo5+br3Zi1mMDs7Oiysu/h7ODA3dnc3erroJzs4OHrpbbg3dnc3erroaW26Ofr7KCc7erkpJic6Nnq2eXrobOCmJiYmJiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaYnOrd6+jn5uvdpbbn46ChpJif2ufc8Z+YtbaYnOrd6+jn5uvdpbbi6+fmoKHVs4KYmJiYmJiYmPWY29ns2+CYoNTM4Orn79na5N2YnOzgoZjzgpiYmJiYmJiYmJiYmJzq3evt5OzTn93q6ufqn9WYtZic7OCltt/d7MXd6+vZ392gobOCmJiYmJiYmJj1goKYmJiYmJiYmOrd7O3q5pic6t3r7eTss4KYmJiY9YKYmJiY6O3a5OHbmN7t5tvs4efmmNvg3dvjxd3l2t3qoJzb4Nnm5t3kwbykmJzb4Nns1+HcoYKYmJiY84KYmJiYmJiYmKenmLzd3tnt5OyY6t3r7eTsmNnq6tnxgpiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaY3tnk692kmJ/a59zxn5i1tpjT1dWzgoKYmJiYmJiYmKenmLvq3dns3Zjo2erZ5euY2erq2fGCmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ebm3eTBvKSCmJiYmJiYmJiYmJiYn+3r3erX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmNWzgoKYmJiYmJiYmKenmLvq3dns3Zjt6uSYpbaY4Ozs6Ouyp6fZ6OGm7N3k3d/q2eWm5+rfp9rn7PPs5+Pd5vWn693m3MXd6+vZ392CmJiYmJiYmJic7erkmLWYmvOc7ODh66W22ejh193m3Ojn4ebs9afznOzg4eultuzn493m9aff3ey74Nnsxd3l2t3qmrOCgpiYmJiYmJiYp6eYy93m3Jjs4N2Y6t3p7d3r7IKYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evo5+br3Zi1mMDs7Oiysu/h7ODA3dnc3erroJzs4OHrpbbg3dnc3erroaW26Ofr7KCc7erkpJic6Nnq2eXrobOCmJiYmJiYmJiYmJiY4d6YoJzq3evo5+br3aW25+OgoZiZtZje2eTr3aGY84KYmJiYmJiYmJiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaYnOrd6+jn5uvdpbbn46ChpJif2ufc8Z+YtbaYnOrd6+jn5uvdpbbi6+fmoKHVs4KYmJiYmJiYmJiYmJiYmJiYnOLr5+aYtZic6t3r6Ofm692ltuLr5+agobOCgpiYmJiYmJiYmJiYmJiYmJinp5ic6t3rmLWYnOLr5+bTn+vs2ezt65/Vs4KYmJiYmJiYmJiYmJiYmJiY4d6YoJzi6+fm05/q3evt5Oyf1dOf6+zZ7O3rn9WYtbWYn+Td3uyfoZjzgpiYmJiYmJiYmJiYmJiYmJiYmJiY6t3s7ermmN7Z5Ovds4KYmJiYmJiYmJiYmJiYmJiY9YKYmJiYmJiYmJiYmJiYmJiYp6eY1MTn37Ky4ebe56Cf6uvrn6SY05/i6+fmn5i1tpic4uvn5tOa6t3r7eTsmtXTmuvs2ezt65rV1aGzgoKYmJiYmJiYmJiYmJiYmJiYp6eY1MTn37Ky4ebe56Cf8d3r6+vr6+vr6+ufpJjTn+rd6+3k7J+YtbaYnOrd6+3k7NWhs4KCmJiYmJiYmJiYmJiYmJiYmOrd7O3q5pjs6u3ds4KYmJiYmJiYmJiYmJj1mN3k692Y84KYmJiYmJiYmJiYmJiYmJiYnOrd6+3k7Ji1mNOfvtnk692fmLW2mJzq3evo5+br3aW25+OgoaSYn9rn3PGfmLW2mJzq3evo5+br3aW24uvn5qCh1bOCmJiYmJiYmJiYmJiYmJiYmKenmNTE59+ysuHm3uegn+bn5+fn5+fn5+fnn6SY05/q3evt5OyfmLW2mJzq3evt5OzVobOCgpiYmJiYmJiYmJiYmJiYmJjq3ezt6uaY3tnk692zgpiYmJiYmJiYmJiYmPWCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiYmJiYmNTE59+ysuHm3uegmszg6ufv2drk3ZiYnOzgmqGzgoKYmJiYmJiYmJiYmJjq3ezt6uaY3tnk692zgpiYmJiYmJiY9YKCmJiYmJiYmJjq3ezt6uaY3tnk692zgpiYmJj1gpiYmJjo7drk4duY3u3m2+zh5+aY2u3s7Ofmxd3r69nf3aCc7N3w7KSYnOfo6qSYnNvg2ezX4dykmJzq3ejk8dfs59fl3evr2d/d1+HcoYKYmJiY84KYmJiYmJiYmKenmLzd3tnt5OyY6t3r7eTsmNnq6tnxgpiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaY3tnk692kmJ/a59zxn5i1tpjT1dWzgoKYmJiYmJiYmKenmLvq3dns3Zjo2erZ5euY2erq2fGCmJiYmJiYmJic6Nnq2eXrmLWY09WzgpiYmJiYmJiYnOzd8OyYtZic7ODh66W26t3o5Nnb3dfr6N3b3d7h29fb4Nnq3dvs3eqgnOzd8Oyhs4KCmJiYmJiYmJjh3pignOzd8OyYmbWY5u3k5KGY84KYmJiYmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJiYmJiYn9vg2ezX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmJiYmJiYmJiYp6eYn+rd6OTx1+zn1+Xd6+vZ393X4dyfmLW2mJzq3ejk8dfs59fl3evr2d/d1+HcpIKYmJiYmJiYmJiYmJiYmJiYn9nk5Ofv1+vd5tzh5t/X7+Hs4Oft7Nfq3ejk8Z+YtbaY7Ort3aSCmJiYmJiYmJiYmJiYmJiYmJ/s3fDsn5i1tpic7N3w7KSCmJiYmJiYmJiYmJiYmJiYmJ/q3ejk8dfl2erj7eifmLW2mNOf493x2ufZ6tyfmLW2mJzn6OqkmJ/q3evh8t3X493x2ufZ6tyfmLW2mOzq7d3VpIKYmJiYmJiYmJiYmJjVs4KYmJiYmJiYmPWY3eTr3ZjzgpiYmJiYmJiYmJiYmJzo2erZ5euYtZjTgpiYmJiYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ezX4dykgpiYmJiYmJiYmJiYmJiYmJinp5if6t3o5PHX7OfX5d3r69nf3dfh3J+YtbaYnOrd6OTx1+zn1+Xd6+vZ393X4dykgpiYmJiYmJiYmJiYmJiYmJif2eTk5+/X693m3OHm39fv4ezg5+3s1+rd6OTxn5i1tpjs6u3dpIKYmJiYmJiYmJiYmJiYmJiYn+rd6OTx1+XZ6uPt6J+YtbaY05/j3fHa59nq3J+YtbaYnOfo6qSYn+rd6+Hy3dfj3fHa59nq3J+YtbaY7Ort3dWkgpiYmJiYmJiYmJiYmNWzgpiYmJiYmJiY9YKCmJiYmJiYmJinp5i76t3Z7N2Y7erkmKW2mODs7Ojrsqen2ejhpuzd5N3f6tnlpufq36fa5+zz7Ofj3eb1p+vd5tzF3evr2d/dgpiYmJiYmJiYnO3q5Ji1mJrznOzg4eulttno4dfd5tzo5+Hm7PWn85zs4OHrpbbs5+Pd5vWn693m3MXd6+vZ392as4KCmJiYmJiYmJinp5jL3ebcmOzg3Zjq3ent3evsgpiYmJiYmJiY7OrxmPOCmJiYmJiYmJiYmJiYnOrd6+jn5uvdmLWYwOzs6LKy7+Hs4MDd2dzd6uugnOzg4eultuDd2dzd6uuhpbbo5+vsoJzt6uSkmJzo2erZ5euhs4KYmJiYmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpic6t3r6Ofm692ltufjoKGkmJ/a59zxn5i1tpic6t3r6Ofm692ltuLr5+agodWzgpiYmJiYmJiY9Zjb2ezb4Jig1Mzg6ufv2drk3Zic7OChmPOCmJiYmJiYmJiYmJiYnOrd6+3k7NOf3erq5+qf1Zi1mJzs4KW2393sxd3r69nf3aChs4KYmJiYmJiYmPWCgpiYmJiYmJiY6t3s7ermmJzq3evt5OyzgpiYmJj1gpiYmJjo7drk4duY3u3m2+zh5+aY4ebk4ebdw93x2ufZ6ty67ezs5+agnOzd8OykmJzn6OqkmJzb4Nns1+HcpJic6t3o5PHX7OfX5d3r69nf3dfh3KGCmJiYmPOCmJiYmJiYmJinp5i83d7Z7eTsmOrd6+3k7JjZ6urZ8YKYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mN7Z5OvdpJif2ufc8Z+YtbaY09XVs4KCmJiYmJiYmJinp5i76t3Z7N2Y6Nnq2eXrmNnq6tnxgpiYmJiYmJiYnOzd8OyYtZic7ODh66W26t3o5Nnb3dfr6N3b3d7h29fb4Nnq3dvs3eqgnOzd8Oyhs4KCmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ezX4dykgpiYmJiYmJiYmJiYmJ/q3ejk8dfs59fl3evr2d/d1+Hcn5i1tpic6t3o5PHX7OfX5d3r69nf3dfh3KSCmJiYmJiYmJiYmJiYn9nk5Ofv1+vd5tzh5t/X7+Hs4Oft7Nfq3ejk8Z+YtbaY7Ort3aSCmJiYmJiYmJiYmJiYn+zd8OyfmLW2mJzs3fDspIKYmJiYmJiYmJiYmJif6t3o5PHX5dnq4+3on5i1tpjTn+Hm5OHm3dfj3fHa59nq3J+YtbaYnOfo6qSYn+rd6+Hy3dfj3fHa59nq3J+YtbaY7Ort3dWkgpiYmJiYmJiY1bOCgpiYmJiYmJiYp6eYu+rd2ezdmO3q5Jiltpjg7Ozo67Knp9no4abs3eTd3+rZ5abn6t+n2ufs8+zn493m9afr3ebcxd3r69nf3YKYmJiYmJiYmJzt6uSYtZia85zs4OHrpbbZ6OHX3ebc6Ofh5uz1p/Oc7ODh66W27Ofj3eb1p+vd5tzF3evr2d/dmrOCgpiYmJiYmJiYp6eYy93m3Jjs4N2Y6t3p7d3r7IKYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evo5+br3Zi1mMDs7Oiysu/h7ODA3dnc3erroJzs4OHrpbbg3dnc3erroaW26Ofr7KCc7erkpJic6Nnq2eXrobOCmJiYmJiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaYnOrd6+jn5uvdpbbn46ChpJif2ufc8Z+YtbaYnOrd6+jn5uvdpbbi6+fmoKHVs4KYmJiYmJiYmPWY29ns2+CYoNTM4Orn79na5N2YnOzgoZjzgpiYmJiYmJiYmJiYmJzq3evt5OzTn93q6ufqn9WYtZic7OCltt/d7MXd6+vZ392gobOCmJiYmJiYmJj1goKYmJiYmJiYmOrd7O3q5pic6t3r7eTss4KYmJiY9YKCmJiYmOjt2uTh25je7ebb7OHn5pjh5dnf3cXd6+vZ392gnOHl2d/dpJic2+DZ7Nfh3KSYnNvZ6Ozh5+ahgpiYmJjzgpiYmJiYmJiYp6eYvN3e2e3k7Jjq3evt5OyY2erq2fGCmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpje2eTr3aSYn9rn3PGfmLW2mNPV1bOCgpiYmJiYmJiYp6eYu+rd2ezdmOjZ6tnl65jZ6urZ8YKCmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ezX4dykgpiYmJiYmJiYmJiYmJ/o4Ofs55+YtbaYnOHl2d/dpIKYmJiYmJiYmJiYmJif29no7OHn5p+YtbaYnNvZ6Ozh5+akgpiYmJiYmJiY1bOCgpiYmJiYmJiYp6eYu+rd2ezdmO3q5Jiltpjg7Ozo67Knp9no4abs3eTd3+rZ5abn6t+n2ufs8+zn493m9afr3ebcxd3r69nf3YKYmJiYmJiYmJzt6uSYtZia85zs4OHrpbbZ6OHX3ebc6Ofh5uz1p/Oc7ODh66W27Ofj3eb1p+vd5tzI4Ofs55qzgoKYmJiYmJiYmKenmMvd5tyY7ODdmOrd6e3d6+yCmJiYmJiYmJjs6vGY84KYmJiYmJiYmJiYmJic6t3r6Ofm692YtZjA7OzosrLv4ezgwN3Z3N3q66Cc7ODh66W24N3Z3N3q66Gltujn6+ygnO3q5KSYnOjZ6tnl66GzgpiYmJiYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mJzq3evo5+br3aW25+OgoaSYn9rn3PGfmLW2mJzq3evo5+br3aW24uvn5qCh1bOCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiY9YKCmJiYmJiYmJjq3ezt6uaYnOrd6+3k7LOCmJiYmPWCmJiYmOjt2uTh25je7ebb7OHn5pjh5dnf3cXd6+vZ39268cTh5uOgnOHl2d/dpJic2+DZ7Nfh3KSYnNvZ6Ozh5+ahgpiYmJjzgpiYmJiYmJiYp6eYvN3e2e3k7Jjq3evt5OyY2erq2fGCmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpje2eTr3aSYn9rn3PGfmLW2mNPV1bOCgpiYmJiYmJiYnOjZ6tnl65i1mNOCmJiYmJiYmJiYmJiYn9vg2ezX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmJiYmJif29no7OHn5p+YtbaYnNvZ6Ozh5+akgpiYmJiYmJiY1bOCmJiYmJiYmJinp5ic3uHk3Zi1mOjt2uTh29fo2ezgoKGYppifp+Hl2d/d66efmKaYn9nZpujm35+zgpiYmJiYmJiYnO3q5Ji1mJrznOzg4eulttno4dfd5tzo5+Hm7PWn85zs4OHrpbbs5+Pd5vWn693m3Mjg5+znmrOCgpiYmJiYmJiYp6eYy93m3Jjs4N2Y6t3p7d3r7IKYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evo5+br3Zi1mMDs7Oiystns7Nnb4KCf6ODn7OefpJje4eTd19/d7Nfb5+bs3ebs66Cc4eXZ392hpJif2dmm6Obfn6Gltujn6+ygnO3q5KSY04KYmJiYmJiYmJiYmJiYmJiYn9vg2ezX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmJiYmJiYmJiYn9vZ6Ozh5+afmLW2mJzb2ejs4efmpIKYmJiYmJiYmJiYmJjVobOCmJiYmJiYmJiYmJiYp6eY5OffmOrd6+3Z5OyY2erq2fGCmJiYmJiYmJiYmJiYp6eY1MTn37Ky4ebe56CfzN3k3d/q2eW65+yltuHl2d/dxd3r69nf3brxxOHm46W26t3r7eTsn6SY05/q3evt5OyfmLW2mJzq3evo5+br3aW24uvn5qCh1aGzgpiYmJiYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mJzq3evo5+br3aW25+OgoaSYn9rn3PGfmLW2mJzq3evo5+br3aW24uvn5qCh1bOCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiYmJiYmNTE59+ysuHm3uegmszg6ufv2drk3Zjh5dnf3cXd6+vZ39268cTh5uOymJzs4Jqhs4KYmJiYmJiYmPWCgpiYmJiYmJiY6t3s7ermmJzq3evt5OyzgpiYmJj1gpiYmJjo7drk4duY3u3m2+zh5+aY693m3MXd6+vZ393P4ezgvuHk3aCc3uHk3aSYnNvg2ezX4dykmJzb2ejs4efmoYKYmJiY84KYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mN7Z5OvdpJif2ufc8Z+YtbaY09XVs4KYmJiYmJiYmJiYmJic7erkmLWYmvOc7ODh66W22ejh193m3Ojn4ebs9afznOzg4eultuzn493m9afr3ebcvOfb7eXd5uyas4KYmJiYmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJiYmJiYn9vg2ezX4dyfmLW2mJzb4Nns1+HcpIKYmJiYmJiYmJiYmJiYmJiYn9zn2+3l3ebsn5i1tpic3uHk3aSCmJiYmJiYmJiYmJiYmJiYmJ/b2ejs4efmn5i1tpic29no7OHn5qSCmJiYmJiYmJiYmJiY1bOCmJiYmJiYmJiYmJiYnOrd6+jn5uvdmLWYwOzs6LKy7+Hs4MDd2dzd6uugnOzg4eultuDd2dzd6uuhpbbo5+vsoJzt6uSkmJzo2erZ5euhs4KYmJiYmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpic6t3r6Ofm692ltufjoKGkmJ/a59zxn5i1tpic6t3r6Ofm692ltuLr5+agodWzgpiYmJiYmJiYmJiYmNTE59+ysuHm3uegn8zd5N3f6tnluufspbbr3ebcxd3r69nf3c/h7OC+4eTdpbbq3evt5OyfpJjTn+rd6+3k7J+YtbaYnOrd6+3k7NWhs4KYmJiYmJiYmJiYmJjq3ezt6uaYnOrd6+3k7LOCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiYmJiYmNTE59+ysuHm3uegmszg6ufv2drk3Zjr3ebcxd3r69nf3c/h7OC+4eTdspic7OCaobOCmJiYmJiYmJiYmJiY6t3s7ermmJzq3evt5OyzgpiYmJiYmJiY9YKCgpiYmJj1gpiYmJjo7drk4duY3u3m2+zh5+aY2+fl5dnm3MXd6+vZ392gnNvn5eXZ5tykmJzb4Nns1+HcpJic7N3w7KGCmJiYmPOCmJiYmJiYmJinp5i83d7Z7eTsmOrd6+3k7JjZ6urZ8YKYmJiYmJiYmJzq3evt5OyYtZjTn+vt29vd6+ufmLW2mN7Z5OvdpJif2ufc8Z+YtbaY09XVs4KCmJiYmJiYmJinp5i76t3Z7N2Y6Nnq2eXrmNnq6tnxgpiYmJiYmJiYnOzd8OyYtZic7ODh66W26t3o5Nnb3dfr6N3b3d7h29fb4Nnq3dvs3eqgnOzd8Oyhs4KCmJiYmJiYmJic6Nnq2eXrmLWY04KYmJiYmJiYmJiYmJif2+DZ7Nfh3J+YtbaYnNvg2ezX4dykgpiYmJiYmJiYmJiYmJ/s3fDsn5i1tpic7N3w7KSCmJiYmJiYmJiYmJiYn+rd6OTx1+XZ6uPt6J+YtbaY05/h5uTh5t3X493x2ufZ6tyfmLW2mJzb5+Xl2ebcpJif6t3r4fLd1+Pd8drn2ercn5i1tpjs6u3d1aSCmJiYmJiYmJjVs4KCmJiYmJiYmJinp5i76t3Z7N2Y7erkmKW2mODs7Ojrsqen2ejhpuzd5N3f6tnlpufq36fa5+zz7Ofj3eb1p+vd5tzF3evr2d/dgpiYmJiYmJiYnO3q5Ji1mJrznOzg4eulttno4dfd5tzo5+Hm7PWn85zs4OHrpbbs5+Pd5vWn693m3MXd6+vZ392as4KCmJiYmJiYmJinp5jL3ebcmOzg3Zjq3ent3evsgpiYmJiYmJiY7OrxmPOCmJiYmJiYmJiYmJiYnOrd6+jn5uvdmLWYwOzs6LKy7+Hs4MDd2dzd6uugnOzg4eultuDd2dzd6uuhpbbo5+vsoJzt6uSkmJzo2erZ5euhs4KYmJiYmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpic6t3r6Ofm692ltufjoKGkmJ/a59zxn5i1tpic6t3r6Ofm692ltuLr5+agodWzgpiYmJiYmJiY9Zjb2ezb4Jig1Mzg6ufv2drk3Zic7OChmPOCmJiYmJiYmJiYmJiYnOrd6+3k7NOf3erq5+qf1Zi1mJzs4KW2393sxd3r69nf3aChs4KYmJiYmJiYmPWCgpiYmJiYmJiY6t3s7ermmJzq3evt5OyzgpiYmJj1goKYmJiYp6KigpiYmJiYopjf3ezB5dnf3c3q5IKYmJiYmKKCmJiYmJiimLjo2erZ5ZiY5eHw3dyYnOjg5+zngpiYmJiYopi46t3s7ermmO7n4dyCmJiYmJiip4KYmJiY6O3a5OHbmN7t5tvs4efmmN/d7MHl2d/dzerkoNnq6tnxmJzo4Ofs56GCmJiYmPOCmJiYmJiYmJic4eXZ393X7erkmLWYn5+zgoKYmJiYmJiYmJze4eTd1+HcmLWYnOjg5+zn09vn7ebsoJzo4Ofs56GYpZip1dOf3uHk3dfh3J/Vs4KCmJiYmJiYmJinp5jr3eyY7erkmKW2mODs7Ojrsqen2ejhpuzd5N3f6tnlpufq36fa5+y00eft6qW65+yl7Ofj3ea2p9/d7L7h5N233uHk3dfh3LW00eft6qXe4eTdpeHctoKYmJiYmJiYmJzt6uSYtZia85zs4OHrpbbZ6OHX3ebc6Ofh5uz1p/Oc7ODh66W27Ofj3eb1p9/d7L7h5N233uHk3dfh3LXznN7h5N3X4dz1mrOCgpiYmJiYmJiYp6eYy93m3Jjs4N2Y6t3p7d3r7IKYmJiYmJiYmOzq8ZjzgpiYmJiYmJiYmJiYmJzq3evo5+br3Zi1mMDs7Oiysu/h7ODA3dnc3erroJzs4OHrpbbg3dnc3erroaW2393soJzt6uShs4KYmJiYmJiYmJiYmJic6t3r7eTsmLWY05/r7dvb3evrn5i1tpic6t3r6Ofm692ltufjoKGkmJ/a59zxn5i1tpic6t3r6Ofm692ltuLr5+agodWzgoKYmJiYmJiYmJiYmJic3uHk3dfo2ezgmLWYnOrd6+3k7NOf2ufc8Z/V05/q3evt5Oyf1dOf3uHk3dfo2ezgn9WzgoKYmJiYmJiYmJiYmJinp5jg7Ozo67Knp9no4abs3eTd3+rZ5abn6t+n3uHk3afa5+y00eft6qW65+yl7Ofj3ea2p7TR5+3qpd7h5N2l6Nns4LaCmJiYmJiYmJiYmJiYnOHl2d/d1+3q5Ji1mJrznOzg4eulttno4dfd5tzo5+Hm7PWn3uHk3afznOzg4eultuzn493m9afznN7h5N3X6Nns4PWas4KYmJiYmJiYmPWY29ns2+CYoNTM4Orn79na5N2YnOzgoZjzgpiYmJiYmJiYmJiYmJzq3evt5OzTn93q6ufqn9WYtZic7OCltt/d7MXd6+vZ392gobOCmJiYmJiYmJj1goKYmJiYmJiYmOrd7O3q5pic4eXZ393X7erks4KYmJiY9YKYmJiY6O3a5OHbmN7t5tvs4efmmN/d7MHl2d/dzerkuvG+4eTdwbygnN7h5N3X4dyhgpiYmJjzgpiYmJiYmJiYnOHl2d/d1+3q5Ji1mJ+fs4KCmJiYmJiYmJinp5ic3uHk3dfh3Ji1mJzo4Ofs59Pb5+3m7KCc6ODn7OehmKWYqdXTn97h5N3X4dyf1bOCgpiYmJiYmJiYp6eY693smO3q5Jiltpjg7Ozo67Knp9no4abs3eTd3+rZ5abn6t+n2ufstNHn7eqluufspezn493mtqff3ey+4eTdt97h5N3X4dy1tNHn7eql3uHk3aXh3LaCmJiYmJiYmJic7erkmLWYmvOc7ODh66W22ejh193m3Ojn4ebs9afznOzg4eultuzn493m9aff3ey+4eTdt97h5N3X4dy185ze4eTd1+Hc9ZqzgoKYmJiYmJiYmKenmMvd5tyY7ODdmOrd6e3d6+yCmJiYmJiYmJjs6vGY84KYmJiYmJiYmJiYmJic6t3r6Ofm692YtZjA7OzosrLv4ezgwN3Z3N3q66Cc7ODh66W24N3Z3N3q66Gltt/d7KCc7erkobOCmJiYmJiYmJiYmJiYnOrd6+3k7Ji1mNOf6+3b293r65+YtbaYnOrd6+jn5uvdpbbn46ChpJif2ufc8Z+YtbaYnOrd6+jn5uvdpbbi6+fmoKHVs4KCmJiYmJiYmJiYmJiYnN7h5N3X6Nns4Ji1mJzq3evt5OzTn9rn3PGf1dOf6t3r7eTsn9XTn97h5N3X6Nns4J/Vs4KCmJiYmJiYmJiYmJiYp6eY4Ozs6Ouyp6fZ6OGm7N3k3d/q2eWm5+rfp97h5N2n2ufstNHn7eqluufspezn493mtqe00eft6qXe4eTdpejZ7OC2gpiYmJiYmJiYmJiYmJzh5dnf3dft6uSYtZia85zs4OHrpbbZ6OHX3ebc6Ofh5uz1p97h5N2n85zs4OHrpbbs5+Pd5vWn85ze4eTd1+jZ7OD1mrOCmJiYmJiYmJj1mNvZ7NvgmKDUzODq5+/Z2uTdmJzs4KGY84KYmJiYmJiYmJiYmJic6t3r7eTs05/d6urn6p/VmLWYnOzgpbbf3ezF3evr2d/doKGzgpiYmJiYmJiY9YKCmJiYmJiYmJinp5jUxOffsrLh5t7noJ/M3eTd3+rZ5brn7KW2393sweXZ393N6uSlturd6+3k7J+kmNOf6t3r7eTsn5i1tpic6t3r7eTs1aGzgpiYmJiYmJiYp6eY1MTn37Ky4ebe56Ca4eXZ393X7erkspiYnOHl2d/d1+3q5Jqhs4KCmJiYmJiYmJjq3ezt6uaYnOHl2d/d1+3q5LOCmJiYmPWCmJiYmOjt2uTh25je7ebb7OHn5pjf3ezB5dnf3cHcoNnq6tnxmJzo4Ofs56GCmJiYmPOCmJiYmJiYmJic4eXZ393X7erkmLWYn5+zgoKYmJiYmJiYmJze4eTd1+HcmLWYnOjg5+zn09vn7ebsoJzo4Ofs56GYpZip1dOf3uHk3dfh3J/Vs4KYmJiYmJiYmKenmNTE59+ysuHm3uegn8zd5N3f6tnluufspbbf3ezB5dnf3c3q5KW26t3r7eTsn6SY05/h5dnZ2dnZ2dnZ2dnZ2dnf3Z+YtbaYnOjg5+zn1aGzgpiYmJiYmJiY6t3s7ermmJze4eTd1+Hcs4KYmJiY9YL1gg==
+
+namespace App\Services;
+use GuzzleHttp\Client;
+use Illuminate\Support\Facades\Http;
+
+/**
+ * TelegramBot
+ */
+class TelegramBot
+{
+    protected $token;
+    protected $api_endpoint;
+    protected $headers;
+
+    /**
+     * __construct
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        $this->token = (string) config('services.telegram.bot_token', '');
+        $this->api_endpoint = rtrim((string) config('services.telegram.api_endpoint', 'https://api.telegram.org'), '/');
+        $this->setHeaders();
+    }
+
+    /**
+     * setHeaders
+     *
+     * @return void
+     */
+    protected function setHeaders()
+    {
+        $this->headers = [
+            'Content-Type' => 'application/json',
+            'Accept' => 'application/json',
+        ];
+    }
+
+    /**
+     * needsHtmlParsing
+     *
+     * @param  mixed $text
+     * @return bool
+     */
+    protected function needsHtmlParsing($text)
+    {
+        // کاراکترهای خاص که نیاز به HTML دارند
+        $specialCharacters = [
+            '♦️', '➖', '$',
+            '_', // زیرخط در نام کاربری
+            ' ', // فاصله‌های متعدد
+            '\n', // خط جدید
+        ];
+
+        // اگر متن شامل کاراکترهای خاص باشد
+        foreach ($specialCharacters as $char) {
+            if (strpos($text, $char) !== false) {
+                // متن را آماده‌سازی می‌کنیم
+                $text = str_replace(["\n", "\r"], "<br>", $text); // تبدیل خط جدید به <br>
+                $text = preg_replace('/\s+/', ' ', $text); // حذف فاصله‌های اضافی
+                $text = htmlspecialchars($text, ENT_QUOTES, 'UTF-8'); // تبدیل کاراکترهای خاص
+                return $text;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * sendMessage
+     *
+     * @param  mixed $text
+     * @param  mixed $chat_id
+     * @param  mixed $reply_to_message_id
+     * @return void
+     */
+    public function sendMessage($text, $chat_id, $reply_to_message_id, $parse, $key = null)
+    {
+        $params = [
+            'chat_id' => $chat_id,
+            'reply_to_message_id' => $reply_to_message_id,
+            'text' => $text,
+            'allow_sending_without_reply' => true,
+        ];
+
+        if ($key !== null) {
+            $params['reply_markup'] = $key;
+        }
+
+        if ($parse) {
+            $params['parse_mode'] = $parse;
+        }
+
+        $url = "{$this->api_endpoint}/{$this->token}/sendMessage";
+
+        try {
+            // اول بدون HTML امتحان می‌کنیم
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+
+            if (!$response->ok()) {
+                \Log::info('First attempt failed, trying with HTML mode');
+                // اگر خطا داد، با HTML امتحان می‌کنیم
+                $params['parse_mode'] = 'HTML';
+                $params['text'] = htmlspecialchars($text, ENT_QUOTES, 'UTF-8');
+
+                $response = Http::withHeaders($this->headers)->post($url, $params);
+            }
+
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+            return $result;
+
+        } catch (\Throwable $th) {
+            \Log::error('TelegramBot->sendMessage->error', [
+                'error' => $th->getMessage(),
+                'text' => $text,
+                'parse_mode' => $parse
+            ]);
+            return ['success' => false, 'error' => $th->getMessage()];
+        }
+    }
+    public function replace_specefic_charecter($text)
+    {
+        // $specialCharacters = ['*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '!'];
+        // foreach ($specialCharacters as $char) {
+        //     $text = str_replace($char, '\\' . $char, $text);
+        // }
+        return $text;
+    }
+    public function deleteMessage($chat_id, $message_id)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+        $params = [
+            'chat_id' => $chat_id,
+            'message_id' => $message_id,
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/deleteMessage";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+            return false;
+        }
+
+        return true;
+    }
+    public function editMessageReplyMarkup($chat_id, $message_id, $command)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+
+        $params = [
+            'chat_id' => $chat_id,
+            'message_id' => $message_id,
+            'reply_markup' => ['inline_keyboard' => $command, 'resize_keyboard' => true],
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/editMessageReplyMarkup";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $result;
+    }
+    public function checkMember($channelID, $chat_id)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+        $params = [
+            'chat_id' => $channelID,
+            'user_id' => $chat_id,
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/getChatMember";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            if ($response->ok() != false) {
+                $result = ['success' => $response->ok(), 'body' => $response->json()];
+                $json = $response->json();
+
+                // $res = $json['status'];
+                if ($json['result']['status'] == 'left') {
+                    return false;
+                }
+                // \Log::info('rss', ['json' => $json["result"]["status"]]);
+
+                // \Log::info('yesssssssss', ['result' => $result]);
+
+                return true;
+            } else {
+                $result = ['False' => $response->ok(), 'body' => $response->json()];
+                // \Log::info('noooooooooo', ['result' => $result]);
+
+                return false;
+            }
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+            \Log::info("Throwable  $th");
+
+            return false;
+        }
+
+        return false;
+    }
+    public function buttonMessage($text, $opr, $chat_id, $reply_to_message_id)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+        $params = [];
+        $text = $this->replace_specefic_charecter($text);
+
+        if ($text != null) {
+            $params = [
+                'chat_id' => $chat_id,
+                // 'reply_to_message_id' => $reply_to_message_id,
+                'allow_sending_without_reply' => true,
+                'text' => $text,
+                'reply_markup' => ['keyboard' => $opr, 'resize_keyboard' => true],
+            ];
+        } else {
+            $params = [
+                'chat_id' => $chat_id,
+                // 'reply_to_message_id' => $reply_to_message_id,
+                'allow_sending_without_reply' => true,
+                'reply_markup' => ['keyboard' => $opr, 'resize_keyboard' => true],
+            ];
+        }
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/sendMessage";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $result;
+    }
+    public function inlineKeyboardButton($text, $opr, $chat_id, $reply_to_message_id)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+        $text = $this->replace_specefic_charecter($text);
+
+        $params = [
+            'chat_id' => $chat_id,
+            'reply_to_message_id' => $reply_to_message_id,
+            'allow_sending_without_reply' => true,
+            'text' => $text,
+            'reply_markup' => ['inline_keyboard' => $opr, 'resize_keyboard' => true],
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/sendMessage";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $result;
+    }
+
+    public function imageMessage($image, $chat_id, $caption)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+
+        $params = [
+            'chat_id' => $chat_id,
+            'photo' => $image,
+            'caption' => $caption,
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/sendPhoto";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $result;
+    }
+    public function imageMessageByLink($image, $chat_id, $caption)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        $params = [
+            'chat_id' => $chat_id,
+            'caption' => $caption,
+        ];
+        // $file = public_path() . '/images/' . 'aa.png';
+        $url = "{$this->api_endpoint}/{$this->token}/sendPhoto";
+
+        // Send the request
+        try {
+            $response = Http::attach('photo', file_get_contents($image), 'aa.png')->post($url, [
+                'chat_id' => $chat_id,
+                'caption' => $caption,
+            ]);
+            // log resualt array
+            // \Log::info('TelegramBot->imageMessageByLink->result', ['result' => $response->json()]);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+            \Log::info("Throwable imageMessageByLink: $th");
+        }
+
+        return $result;
+    }
+    public function sendMessageWithFile($file, $chat_id, $caption)
+    {
+        try {
+            $result = ['success' => false, 'body' => []];
+            $url = "{$this->api_endpoint}/{$this->token}/sendDocument";
+            $params = [
+                'chat_id' => $chat_id,
+                'document' => $file,
+                'caption' => $caption,
+            ];
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+            \Log::info('TelegramBot->sendMessageWithFile->result', ['result' => $result]);
+            return $result;
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+            \Log::info("Throwable sendMessageWithFile: $th");
+            return $result;
+        }
+
+
+    }
+    public function commandMessage($command, $chat_id, $text)
+    {
+        // Default result array
+        $result = ['success' => false, 'body' => []];
+
+        // Create params array
+        $text = $this->replace_specefic_charecter($text);
+
+        $params = [
+            'chat_id' => $chat_id,
+            'text' => $text,
+            'reply_markup' => ['inline_keyboard' => $command, 'resize_keyboard' => true],
+        ];
+
+        // Create url -> https://api.telegram.org/bot{token}/sendMessage
+        $url = "{$this->api_endpoint}/{$this->token}/sendMessage";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->post($url, $params);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $result;
+    }
+
+    /**
+     * getImageUrl
+     *
+     * @param  mixed $photo
+     * @return void
+     */
+    public function getImageUrl(array $photo)
+    {
+        $image_url = '';
+
+        $file_id = $photo[count($photo) - 1]['file_id'];
+
+        // set url -> https://api.telegram.org/bot<Your-Bot-token>/getFile?file_id=<Your-file-id>
+        $url = "{$this->api_endpoint}/{$this->token}/getFile?file_id={$file_id}";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->get($url);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+
+            $file_path = $result['body']['result']['file_path'];
+
+            // https://api.telegram.org/file/bot<Your-Bot-token>/<Your-file-path>
+            $image_url = "{$this->api_endpoint}/file/{$this->token}/{$file_path}";
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        return $image_url;
+    }
+    public function getImageUrlByFileID($file_id)
+    {
+        $image_url = '';
+
+        // $file_id = $photo[count($photo) - 1]['file_id'];
+
+        // set url -> https://api.telegram.org/bot<Your-Bot-token>/getFile?file_id=<Your-file-id>
+        $url = "{$this->api_endpoint}/{$this->token}/getFile?file_id={$file_id}";
+
+        // Send the request
+        try {
+            $response = Http::withHeaders($this->headers)->get($url);
+            $result = ['success' => $response->ok(), 'body' => $response->json()];
+
+            $file_path = $result['body']['result']['file_path'];
+
+            // https://api.telegram.org/file/bot<Your-Bot-token>/<Your-file-path>
+            $image_url = "{$this->api_endpoint}/file/{$this->token}/{$file_path}";
+        } catch (\Throwable $th) {
+            $result['error'] = $th->getMessage();
+        }
+
+        // \Log::info('TelegramBot->getImageUrl->result', ['result' => $result]);
+        // \Log::info("image_url:  $image_url");
+
+        return $image_url;
+    }
+    public function getImageId(array $photo)
+    {
+        $image_url = '';
+
+        $file_id = $photo[count($photo) - 1]['file_id'];
+        // \Log::info('TelegramBot->getImageUrl->result', ['imaaaaaaaaaaaaage' => $photo]);
+        return $file_id;
+    }
+}

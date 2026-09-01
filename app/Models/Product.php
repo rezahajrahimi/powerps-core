@@ -1,3 +1,84 @@
 <?php
-bolt_decrypt( __FILE__ , 'ftIiHt'); return 0;
-##!!!##UlK2qbWtu7ipq61oibi4pJW3rK20u4NSUr27rWiRtLS9tbG2qbytpIypvKmqqbutpI20t7m9rba8pI6pq7y3urGtu6SQqbuOqau8t7rBg1K9u61okbS0vbWxtqm8raSMqbypqqm7raSNtLe5va22vKSVt6yttINSvbutaJ6turypg1JSq7Spu7tomLq3rL2rvGitwLyttqy7aJW3rK20UsNSaGhoaL27rWiQqbuOqau8t7rBg1JoaGhouLq3vK2rvK2saGyvvam6rK2saIVoo2+xrG90aG+4uresvau8p6upvK2vt7qxrbunsaxvdGhvqaurt722vKexrG+lg1JoaGhouLq3vK2rvK2saGyusbS0qaq0rWiFaKNvuLq3rL2rvKerqbytr7e6sa27p7Gsb3Rob6u3tq6xr7tvdGhvu72qu6u6sbi8sbe2p7SxtrNvdGhvuKm2rbSntLG2s290aG+xu4mrvLG+rW90aG+pq6u3vba8p7Gsb3Rob7qttam6s290b6ytqau8sb6tp6rBp6mstbG2b6WDUlJSaGhoaLi9qrSxq2iuvbarvLG3tmivrbyYuresvau8isGRjHBssaxxUmhoaGjDUmhoaGhoaGhouq28vbq2aJi6t6y9q7yCgq6xtqxwbLGscYNSaGhoaMVSaGhoaLi9qrSxq2iuvbarvLG3tmivrbyYurest72rvJiptq20isGRjHBssaxxUmhoaGjDUmhoaGhoaGhouq28vbq2aJi6t6y9q7yCgq6xtqxwbLGscXWGuLq3rL2rvKerqbytr7e6waeptqynuKm2rbSDUmhoaGjFUmhoaGh3cnJSaGhoaGhyaI+tvGi8sK1ovbutumi8sKm8aLe/trtovLCtaJi6t6y9q7xSaGhoaGhyUmhoaGhocmiIuq28vbq2aKSRtLS9tbG2qbytpIypvKmqqbutpI20t7m9rba8pJqttKm8sbe2u6SKrbS3tq+7nLdSaGhoaGhyd1JoaGhouL2qtLGraK69tqu8sbe2aLi6t6y9q7ynq6m8ra+3usFwcVJoaGhow1JoaGhoaGhoaLqtvL26tmhsvLCxu3WGqq20t7avu5y3cJi6t6y9q7yLqbytr7e6wYKCq7Spu7t0aG+4uresvau8p6upvK2vt7qxrbunsaxvcYNSaGhoaMVSaGhoaLi9qrSxq2iuvbarvLG3tmi4uresvau8p6upvK2vt7rBp6m2rKe4qbattHBxUmhoaGjDUmhoaGhoaGhouq28vbq2aGy8sLG7dYaqrbS3tq+7nLdwmLq3rL2rvIupvK2vt7rBgoKrtKm7u3Rob7i6t6y9q7ynq6m8ra+3urGtu6exrG9xUmhoaGhoaGhoaGhoaHWGv7G8sHCjUmhoaGhoaGhoaGhoaGhoaGhvuKm2tq20b2iFhmiuvbarvLG3tmhwbLm9rbrBcWjDUmhoaGhoaGhoaGhoaGhoaGhoaGhobLm9rbrBdYa7rbStq7xwb7Gsb3Rob7zBuK1vdG+0t6upvLG3tm90aG+9u626p7SxtrNvcYNSaGhoaGhoaGhoaGhoaGhoaMV0UmhoaGhoaGhoaGhoaKVxUmhoaGhoaGhoaGhoaHWGt7qsrbqKwXBvsaxvdGhvrK27q29xg1JoaGhoxVJoaGhouL2qtLGraK69tqu8sbe2aL27rbpwcVJoaGhow1JoaGhoaGhoaLqtvL26tmhsvLCxu3WGqq20t7avu5y3cIq3vJ27rbqCgqu0qbu7dGhvqaurt722vKexrG90aG+pq6u3vba8p7Gsb3GDUmhoaGjFUmhoaGh3cnJSaGhoaGhyaI+tvGiptLRot65ovLCtaKu3tbWttry7aK63umi8sK1omLq3rL2rvFJoaGhoaHJSaGhoaGhyaIi6rby9urZopJG0tL21sbapvK2kjKm8qaqpu62kjbS3ub2ttrykmq20qbyxt7a7pJCpu5WptsFSaGhoaGhyd1JoaGhouL2qtLGraK69tqu8sbe2aLy6qba7qau8sbe2cHFSaGhoaMNSaGhoaGhoaGi6rby9urZobLywsbt1hrCpu5WptsFwl7qsrbqCgqu0qbu7dGhvuLq3rL2rvKexrG9xg1JoaGhoxVJoaGhouL2qtLGraK69tqu8sbe2aKu6t7antLevcHFSaGhoaMNSaGhoaGhoaGi6rby9urZobLywsbt1hrCpu5WptsFwi7q3tpS3r4KCq7Spu7t0aG+4uresvau8p7Gsb3Rob7Gsb3GDUmhoaGjFUmhoaGi4vaq0satorr22q7yxt7Zouq27rbq+raynq7e2rrGvcHFSaGhoaMNSaGhoaGhoaGi6rby9urZobLywsbt1hrCpu5WptsFwmq27rbq+rbqsi7e2rrGvgoKrtKm7u3Rob7i6t6y9q7ynsaxvdGhvsaxvcYNSaGhoaMVSaGhoaLi9qrSxq2iuvbarvLG3tmivrbyLuq2pvK2sibyJvLy6saq9vK1wbL6ptL2tcVJoaGhow1JoaGhoaGhoaLqtvL26tmi+rbq8qXC+rbq8qXBsvqm0va1xcXWGrre6tam8jLGurq26rbarrXBxg1JoaGhoxVJoaGhouL2qtLGraK69tqu8sbe2aK+tvJ24rKm8rayJvIm8vLqxqr28rXBsvqm0va1xUmhoaGjDUmhoaGhoaGhouq28vbq2aL6turypcL6turypcGy+qbS9rXFxdYaut7q1qbyMsa6urbqttqutcHGDUmhoaGjFUlJoaGhouL2qtLGraK69tqu8sbe2aLqtu7e0vq2VqbrCqqm2mKm2rbSdu626tqm1rXBxgmi7vLqxtq9SaGhoaMNSaGhoaGhoaGhsq7e2rrGvu2iFaLK7t7anrK2rt6ytcGy8sLG7dYart7ausa+7aIeHaG9vdGi8ur2tcWiHh2ijpYNSaGhoaGhoaGhsvbuturapta1ohWhsq7e2rrGvu6Nvvbuturapta1vpWiHh2i2vbS0g1JoaGhoaGhoaLGuaHCxu6e7vLqxtq9wbL27rbq2qbWtcWhubmi8urG1cGy9u626tqm1rXFoaYWFaG9vcWjDUmhoaGhoaGhoaGhoaLqtvL26tmi8urG1cGy9u626tqm1rXGDUmhoaGhoaGhoxVJSaGhoaGhoaGi6rby9urZovLqxtXBwu7y6sbavcWhwbLywsbt1hrqttam6s2iHh2hvb3Fxg1JoaGhoxVJSxVI=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Verta;
+
+class Product extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id', 'product_categories_id', 'account_id'];
+    protected $fillable = ['product_categories_id', 'configs', 'subscription_link', 'panel_link', 'isActive', 'account_id', 'remark','deactive_by_admin'];
+
+
+    public function getProductByID($id)
+    {
+        return Product::find($id);
+    }
+    public function getProdouctPanelByID($id)
+    {
+        return Product::find($id)->product_category_and_panel;
+    }
+    /**
+     * Get the user that owns the Product
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function product_category()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_categories_id');
+    }
+    public function product_category_and_panel()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_categories_id')
+            ->with([
+                'pannel' => function ($query) {
+                    $query->select('id', 'type','location', 'user_link');
+                },
+            ])
+            ->orderBy('id', 'desc');
+    }
+    public function user()
+    {
+        return $this->belongsTo(BotUser::class, 'account_id', 'account_id');
+    }
+    /**
+     * Get all of the comments for the Product
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function transaction()
+    {
+        return $this->hasMany(Order::class, 'product_id');
+    }
+    public function cron_log()
+    {
+        return $this->hasMany(CronLog::class, 'product_id', 'id');
+    }
+    public function reserved_config()
+    {
+        return $this->hasMany(ReserverdConfig::class, 'product_id', 'id');
+    }
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    public function getUpdatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+
+    public function resolveMarzbanPanelUsername(): string
+    {
+        $configs = json_decode($this->configs ?? '', true) ?? [];
+        $username = $configs['username'] ?? null;
+        if (is_string($username) && trim($username) !== '') {
+            return trim($username);
+        }
+
+        return trim((string) ($this->remark ?? ''));
+    }
+
+}

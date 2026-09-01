@@ -1,3 +1,137 @@
 <?php
-bolt_decrypt( __FILE__ , 'kBN6U4'); return 0;
-##!!!##xMQoGycfLSobHR/a+yoqFg0fLDAjHR8t9cTELy0f2vsqKhYHKR4fJi0WCiwpJyn9KR4f9cQvLR/a+yoqFgcpHh8mLRYKLCknKf0pHh8PLRshH/XELy0f2vsqKhYHKR4fJi0WDy0fLPXELy0f2v0bLBwpKBb9GywcKSj1xC8tH9oDJiYvJyMoGy4fFg0vKiopLC4WABsdGx4fLRb9Gx0iH/XExB0mGy0t2gosKScp/SkeHw0fLDAjHR/ENcTa2traKi8cJiMd2iAvKB0uIyko2iAjKB78M/0pHh/iLS4sIygh2t4dKR4f4/Ta+QosKScp/SkeH8Ta2traNcTa2tra2tra2t4oKSwnGyYjNB8e2vfaLS4sLikvKiofLOIuLCMn4t4dKR4f4+P1xNra2tra2traIyDa4t4oKSwnGyYjNB8e2vf399rh4ePaNcTa2tra2tra2tra2tosHy4vLCjaKC8mJvXE2tra2tra2to3xMTa2tra2tra2iwfLi8sKNoKLCknKf0pHh/09DEiHywfDBsx4uEPCgr/DOIdKR4f49r32vnh5toV3igpLCcbJiM0Hx4X4+f4ICMsLS7i4/XE2tra2jfExNra2trp5OTE2tra2trk2vosHy4vLCjaGywsGzM1MBsmIx702hwpKSbm2icfLS0bIR/59NotLiwjKCHm2iosKScp+fTaCiwpJyn9KR4f5toeIy0dKS8oLhkuKScbKPn02iAmKRsu5toeIy0dKS8oLhkeKSYmGyz59NogJikbLubaICMoGyYZKiwjHR8ZLiknGyj59NogJikbLubaICMoGyYZKiwjHR8ZHikmJhss+fTaICYpGy43xNra2tra5OnE2tra2iovHCYjHdogLygdLiMpKNowGyYjHhsuH+LE2tra2tra2totLiwjKCHa3h0pHh/mxNra2tra2traLS4sIygh2t4bHR0pLyguAx7mxNra2tra2traIygu2t4dGy4fISksMwMe5sTa2tra2tra2iAmKRsu2t4qLCMdHw4pJxso5sTa2tra2tra2iAmKRsu2t4qLCMdH/4pJiYbLMTa2tra4/TaGywsGzPaNcTa2tra2tra2t4qLCknKdr32t4uIiMt5/ggIyge/DP9KR4f4t4dKR4f4/XE2tra2tra2tojINri3iosKScp2vf399ooLyYm49o1xNra2tra2tra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Ly0fLBkhLCkvKhkjHi31xNra2tra2traIyDa4iMtGRssLBsz4t4bJiYpMR8eASwpLyot49rg4NreGyYmKTEfHgEsKS8qLdrb9/faFRfa4ODaDy0fLPT0IhstDy0fLAEsKS8q/SkmLyco4uPj2jXE2tra2tra2tra2tra3i8tHywBLCkvKgMe2vfaDy0fLPT0LB8tKSYwHw8tHywBLCkvKgMeACks+x0dKS8oLuLeGx0dKS8oLgMe4/XE2tra2tra2tra2traIyDa4t4vLR8sASwpLyoDHtr39/faKC8mJto2Ntrb2iMoGRssLBsz4t4vLR8sASwpLyoDHuba3hsmJikxHx4BLCkvKi3m2i4sLx/j49o1xNra2tra2tra2tra2tra2tosHy4vLCjaFeEwGyYjHuHa9/jaIBsmLR/m2uEnHy0tGyEf4dr3+NrhkmGVRpNA2pRjkmnakmKSa5JhlUbalGmSa5NCk0HalGOSYZJrkmKSa5VG2pJukz+SYdqTPJJhkmKTPtqSYZJtkmSTO5JhkmmTQdqTQJVGkm2SZOjhF/XE2tra2tra2tra2traN8Ta2tra2tra2jfExNra2tra2tra3h4jLR0pLyguDiknGyja99reLiIjLef4HRsmHS8mGy4f/iMtHSkvKC7i3iosKScp5treKiwjHR8OKScbKOba4S4pJxso4eP1xNra2tra2tra3h4jLR0pLygu/ikmJhss2vfa3i4iIy3n+B0bJh0vJhsuH/4jLR0pLygu4t4qLCknKeba3iosIx0f/ikmJhss5trhHikmJhss4eP1xMTa2tra2tra2iwfLi8sKNoVxNra2tra2tra2tra2uEwGyYjHuHa9/jaLiwvH+bE2tra2tra2tra2tra4SosKScp4dr3+NreKiwpJynmxNra2tra2tra2tra2uEeIy0dKS8oLhkuKScbKOHa9/ja3h4jLR0pLyguDiknGyjmxNra2tra2tra2tra2uEeIy0dKS8oLhkeKSYmGyzh2vf42t4eIy0dKS8oLv4pJiYbLObE2tra2tra2tra2tra4SAjKBsmGSosIx0fGS4pJxso4dr3+NonGzLi6uba3iosIx0fDiknGyja59reHiMtHSkvKC4OKScbKOPmxNra2tra2tra2tra2uEgIygbJhkqLCMdHxkeKSYmGyzh2vf42icbMuLq5treKiwjHR/+KSYmGyza59reHiMtHSkvKC7+KSYmGyzj5sTa2tra2tra2hf1xNra2to3xMTa2traKi8cJiMd2iAvKB0uIyko2h0bJh0vJhsuH/4jLR0pLygu4gosKScp/SkeH9reKiwpJynm2iAmKRsu2t4bJykvKC7m2i0uLCMoIdreHS8sLB8oHTPa99rhLiknGyjh4/TaICYpGy7E2tra2jXE2tra2tra2tojINri3hsnKS8oLtr299rq49o1xNra2tra2tra2tra2iwfLi8sKNrq6Or1xNra2tra2traN8TE2tra2tra2tosHy4vLCjaJxsuHSLa4t4qLCknKef4LjMqH+PaNcTa2tra2tra2tra2trhKh8sHR8oLuHa9/jaLCkvKB7i3hsnKS8oLtrk2uLiICYpGy7j2t4qLCknKef4MBsmLx/a6drr6urj5treHS8sLB8oHTPa9/f32uEeKSYmGyzh2vna7Nr02urj5sTa2tra2tra2tra2trhICMyHx4ZHikmJhss4dr3+NreHS8sLB8oHTPa9/f32uEeKSYmGyzh2vnaJyMo4t4bJykvKC7m2uIgJikbLuPa3iosKScp5/gwGyYvH+Pa9Nrq6OrmxNra2tra2tra2tra2h4fIBsvJi7a9/ja3h0vLCwfKB0z2vf399rhLiknGyjh2vnaJyMo4t4bJykvKC7m2uIgJikbLuPa3iosKScp5/gwGyYvH+Pa9Nrq6OrmxNra2tra2traN/XE2tra2jfExNra2toqLxwmIx3aIC8oHS4jKSjaLB8nHyccHywKHygeIygh/SkeH+ItLiwjKCHa3hsdHSkvKC4DHubaIygu2t4dGy4fISksMwMe5tr5LS4sIygh2t4dKR4f4/TaMCkjHsTa2traNcTa2tra2tra2t4oKSwnGyYjNB8e2vfaLS4sLikvKiofLOIuLCMn4uItLiwjKCHj2t4dKR4f4+P1xNra2tra2traIyDa4t4oKSwnGyYjNB8e2vf399rh4ePaNcTa2tra2tra2tra2tosHy4vLCj1xNra2tra2traN8TE2tra2tra2tr9Gx0iH/T0Ki8u4t4uIiMt5/gqHygeIygh/SkeH/0bHSIfBR8z4t4bHR0pLyguAx7m2t4dGy4fISksMwMe4+ba3igpLCcbJiM0Hx7m2igpMeLj5/gbHh4CKS8sLeLr7OPj9cTa2traN8TE2tra2iovHCYjHdogLygdLiMpKNoqLyYmCh8oHiMoIf0pHh/iLS4sIygh2t4bHR0pLyguAx7m2iMoLtreHRsuHyEpLDMDHuP02vktLiwjKCHE2tra2jXE2tra2tra2treHSkeH9r32v0bHSIf9PQqLyYm4t4uIiMt5/gqHygeIygh/SkeH/0bHSIfBR8z4t4bHR0pLyguAx7m2t4dGy4fISksMwMe4+P1xMTa2tra2tra2iwfLi8sKNojLRktLiwjKCHi3h0pHh/j2uDg2t4dKR4f2tv399rh4dr52t4dKR4f2vTaKC8mJvXE2tra2jfExNra2toqLCMwGy4f2iAvKB0uIyko2iofKB4jKCH9KR4f/RsdIh8FHzPiLS4sIygh2t4bHR0pLyguAx7m2iMoLtreHRsuHyEpLDMDHuP02i0uLCMoIcTa2traNcTa2tra2tra2iwfLi8sKNrcKh8oHiMoIRkqLCknKRk13hsdHSkvKC4DHjcZNd4dGy4fISksMwMeN9z1xNra2to3xMTa2traKi8cJiMd2iAvKB0uIyko2iwfHSksHg8tGyEf4gosKScp/SkeH9reKiwpJynm2i0uLCMoIdreGx0dKS8oLgMe5togJikbLtreHiMtHSkvKC77JykvKC7m2vkjKC7a3iosKR4vHS4DHtr32igvJibj9NowKSMexNra2to1xNra2tra2traCiwpJyn9KR4fDy0bIR/09B0sHxsuH+IVxNra2tra2tra2tra2uEqLCknKRkdKR4fGSMe4dr3+NreKiwpJynn+CMe5sTa2tra2tra2tra2trhGx0dKS8oLhkjHuHa9/ja3hsdHSkvKC4DHubE2tra2tra2tra2tra4SosKR4vHS4ZIx7h2vf42t4qLCkeLx0uAx7mxNra2tra2tra2tra2uEeIy0dKS8oLhkbJykvKC7h2vf42t4eIy0dKS8oLvsnKS8oLubE2tra2tra2tra2tra4RsqKiYjHx4ZGy7h2vf42v0bLBwpKPT0KCkx4uPmxNra2tra2traF+P1xMTa2tra2tra2t4qLCknKef4IygdLB8nHygu4uEvLR8eGR0pLygu4eP1xNra2to3xDfE
+
+namespace App\Services;
+
+use App\Models\PromoCode;
+use App\Models\PromoCodeUsage;
+use App\Models\User;
+use Carbon\Carbon;
+use Illuminate\Support\Facades\Cache;
+
+class PromoCodeService
+{
+    public function findByCode(string $code): ?PromoCode
+    {
+        $normalized = strtoupper(trim($code));
+        if ($normalized === '') {
+            return null;
+        }
+
+        return PromoCode::whereRaw('UPPER(code) = ?', [$normalized])->first();
+    }
+
+    /**
+     * @return array{valid: bool, message?: string, promo?: PromoCode, discount_toman?: float, discount_dollar?: float, final_price_toman?: float, final_price_dollar?: float}
+     */
+    public function validate(
+        string $code,
+        string $accountId,
+        int $categoryId,
+        float $priceToman,
+        float $priceDollar
+    ): array {
+        $promo = $this->findByCode($code);
+        if ($promo === null) {
+            return ['valid' => false, 'message' => 'کد تخفیف یافت نشد.'];
+        }
+
+        if (! $promo->is_active) {
+            return ['valid' => false, 'message' => 'این کد تخفیف غیرفعال است.'];
+        }
+
+        $now = Carbon::now();
+        if ($promo->starts_at && $now->lt($promo->starts_at)) {
+            return ['valid' => false, 'message' => 'این کد تخفیف هنوز فعال نشده است.'];
+        }
+        if ($promo->expires_at && $now->gt($promo->expires_at)) {
+            return ['valid' => false, 'message' => 'این کد تخفیف منقضی شده است.'];
+        }
+        if ($promo->max_uses !== null && $promo->used_count >= $promo->max_uses) {
+            return ['valid' => false, 'message' => 'ظرفیت استفاده از این کد تمام شده است.'];
+        }
+
+        $userUsageCount = PromoCodeUsage::where('promo_code_id', $promo->id)
+            ->where('account_id', $accountId)
+            ->count();
+        if ($userUsageCount >= $promo->max_uses_per_user) {
+            return ['valid' => false, 'message' => 'شما قبلاً از این کد استفاده کرده‌اید.'];
+        }
+
+        $allowedCategories = $promo->allowed_category_ids;
+        if (is_array($allowedCategories) && $allowedCategories !== [] && ! in_array($categoryId, $allowedCategories, true)) {
+            return ['valid' => false, 'message' => 'این کد برای این بسته قابل استفاده نیست.'];
+        }
+
+        if ($promo->min_order_amount !== null && $priceToman < (float) $promo->min_order_amount) {
+            return ['valid' => false, 'message' => 'حداقل مبلغ سفارش برای این کد رعایت نشده است.'];
+        }
+
+        $allowedGroups = $promo->allowed_user_group_ids;
+        if (is_array($allowedGroups) && $allowedGroups !== [] && User::hasUserGroupColumn()) {
+            $userGroupId = User::resolveUserGroupIdForAccount($accountId);
+            if ($userGroupId === null || ! in_array($userGroupId, $allowedGroups, true)) {
+                return ['valid' => false, 'message' => 'این کد برای گروه کاربری شما قابل استفاده نیست.'];
+            }
+        }
+
+        $discountToman = $this->calculateDiscount($promo, $priceToman, 'toman');
+        $discountDollar = $this->calculateDiscount($promo, $priceDollar, 'dollar');
+
+        return [
+            'valid' => true,
+            'promo' => $promo,
+            'discount_toman' => $discountToman,
+            'discount_dollar' => $discountDollar,
+            'final_price_toman' => max(0, $priceToman - $discountToman),
+            'final_price_dollar' => max(0, $priceDollar - $discountDollar),
+        ];
+    }
+
+    public function calculateDiscount(PromoCode $promo, float $amount, string $currency = 'toman'): float
+    {
+        if ($amount <= 0) {
+            return 0.0;
+        }
+
+        return match ($promo->type) {
+            'percent' => round($amount * ((float) $promo->value / 100), $currency === 'dollar' ? 2 : 0),
+            'fixed_dollar' => $currency === 'dollar' ? min($amount, (float) $promo->value) : 0.0,
+            default => $currency === 'toman' ? min($amount, (float) $promo->value) : 0.0,
+        };
+    }
+
+    public function rememberPendingCode(string $accountId, int $categoryId, ?string $code): void
+    {
+        $normalized = strtoupper(trim((string) $code));
+        if ($normalized === '') {
+            return;
+        }
+
+        Cache::put($this->pendingCodeCacheKey($accountId, $categoryId), $normalized, now()->addHours(12));
+    }
+
+    public function pullPendingCode(string $accountId, int $categoryId): ?string
+    {
+        $code = Cache::pull($this->pendingCodeCacheKey($accountId, $categoryId));
+
+        return is_string($code) && $code !== '' ? $code : null;
+    }
+
+    private function pendingCodeCacheKey(string $accountId, int $categoryId): string
+    {
+        return "pending_promo_{$accountId}_{$categoryId}";
+    }
+
+    public function recordUsage(PromoCode $promo, string $accountId, float $discountAmount, ?int $productId = null): void
+    {
+        PromoCodeUsage::create([
+            'promo_code_id' => $promo->id,
+            'account_id' => $accountId,
+            'product_id' => $productId,
+            'discount_amount' => $discountAmount,
+            'applied_at' => Carbon::now(),
+        ]);
+
+        $promo->increment('used_count');
+    }
+}

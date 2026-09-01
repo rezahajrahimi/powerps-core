@@ -1,3 +1,63 @@
 <?php
-bolt_decrypt( __FILE__ , '6t6Rv3'); return 0;
-##!!!##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
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class PaymentSetting extends Model
+{
+    use HasFactory;
+    protected $fillable = ['key', 'value', 'description', 'status'];
+
+    protected $casts = [
+        'status' => 'boolean',
+    ];
+    public function getPaymentSettingByKey($key)
+    {
+        return PaymentSetting::where('key', $key)->first();
+    }
+    // check status by key
+    public function checkStatusByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+
+        return (bool) ($paymentSetting->status ?? false);
+    }
+    public function getPaymentSettingValueByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        return $paymentSetting->value;
+    }
+    public function getPaymentSettingDescriptionByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        return $paymentSetting->description;
+    }
+    public function reverseStatusByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        $paymentSetting->status = !$paymentSetting->status;
+        $paymentSetting->save();
+        return $paymentSetting;
+    }
+
+
+    public function getPaymentSettingStatusByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        if ($paymentSetting) {
+            return (bool) $paymentSetting->status;
+        }
+
+        return false;
+    }
+    public function setPaymentSettingValueByKey($key, $value)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        $paymentSetting->value = $value;
+        $paymentSetting->save();
+        return $paymentSetting;
+    }
+    
+}

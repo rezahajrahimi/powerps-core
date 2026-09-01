@@ -1,3 +1,102 @@
 <?php
-bolt_decrypt( __FILE__ , 'YGvTT5'); return 0;
-##!!!##/f1hVGBYZmNUVlgTNGNjTztnZ2NPNmJhZ2ViX19YZWYu/WhmWBM0Y2NPQGJXWF9mTzZbVGFhWF8/YlZeLv39aGZYEzxfX2hgXGFUZ1hPO2dnY09FWGRoWGZnLv39Vl9UZmYTNltUYWFYXz9iVl42YmFnZWJfX1hlE1hrZ1hhV2YTNmJhZ2ViX19YZf1u/RMTExNjaFVfXFYTWWhhVmdcYmETVmVYVGdYQVhqNltUYWFYXz9iVl4bRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXV1RnVBMwE2FYahM2W1RhYVhfP2JWXhscLv0TExMTExMTExMTExMXV1RnVCAxVltUYWFYX1JcVxMwExdlWGRoWGZnIDFWW1RhYVhfUlxXLv0TExMTExMTExMTExMXV1RnVCAxXGZSVFZnXGlYEzATF2VYZGhYZmcgMVxmUlRWZ1xpWC79/RMTExMTExMTExMTExdXVGdUIDFmVGlYGxwu/RMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTE3ATVlRnVlsTG09HW2VialRVX1gTF2dbHBNu/RMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG1lUX2ZYHxMnIyQcLv0TExMTExMTE3D9ExMTE3D9ExMTE2NoVV9cVhNZaGFWZ1xiYRNYV1xnNltUYWFYXz9iVl4bRVhkaFhmZxMXZVhkaFhmZxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXV1RnVBMwEzZbVGFhWF8/YlZeLS1qW1hlWBsaXFcaHxMXZVhkaFhmZyAxXFccIDFZXGVmZxscLv0TExMTExMTExMTExNcWRMbF1dUZ1QTFDATYWhfXxwTbv0TExMTExMTExMTExMTExMTF1dUZ1QgMVZbVGFhWF9SXFcTMBMXZVhkaFhmZyAxVltUYWFYX1JcVy79ExMTExMTExMTExMTExMTExdXVGdUIDFcZlJUVmdcaVgTMBMXZVhkaFhmZyAxXGZSVFZnXGlYLv39ExMTExMTExMTExMTExMTExdXVGdUIDFoY1dUZ1gbHC79ExMTExMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTExMTExNwE1hfZlgTbv0TExMTExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEycjJBwu/RMTExMTExMTExMTE3D9ExMTExMTExNwE1ZUZ1ZbExtPR1tlYmpUVV9YExdnWxwTbv0TExMTExMTExMTExNlWGdoZWETWVRfZlgu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1dYNFZnXGlYNltUYWFYXz9iVl41bDw3GxdcVxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExMXV1RnVBMwEzZbVGFhWF8/YlZeLS1qW1hlWBsaXFcaHxMXXFccIDFZXGVmZxscLv0TExMTExMTExMTExNcWRMbF1dUZ1QTFDATYWhfXxwTbv0TExMTExMTExMTExMTExMTF1dUZ1QgMVxmUlRWZ1xpWBMwE1lUX2ZYLv39ExMTExMTExMTExMTExMTExdXVGdUIDFoY1dUZ1gbHC79ExMTExMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTExMTExNwE1hfZlgTbv0TExMTExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEycjJBwu/RMTExMTExMTExMTE3D9ExMTExMTExNwE1ZUZ1ZbExtPR1tlYmpUVV9YExdnWxwTbv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWB8TJyMkHC79ExMTExMTExNw/RMTExNw/RMTExNjaFVfXFYTWWhhVmdcYmETZVg0VmdcaVg2W1RhYVhfP2JWXjVsPDcbF1xXHP0TExMTbv0TExMTExMTE2dlbBNu/RMTExMTExMTExMTExdXVGdUEzATNltUYWFYXz9iVl4tLWpbWGVYGxpcVxofExdcVxwgMVlcZWZnGxwu/RMTExMTExMTExMTE1xZExsXV1RnVBMUMBNhaF9fHBNu/RMTExMTExMTExMTExMTExMXV1RnVCAxXGZSVFZnXGlYEzATZ2VoWC79/RMTExMTExMTExMTExMTExMXV1RnVCAxaGNXVGdYGxwu/RMTExMTExMTExMTExMTExNlWGdoZWETZ2VoWC79ExMTExMTExMTExMTcBNYX2ZYE279ExMTExMTExMTExMTExMTE2VYZ2hlYRNlWGZjYmFmWBscIDFdZmJhG1lUX2ZYHxMnIyQcLv0TExMTExMTExMTExNw/RMTExMTExMTcBNWVGdWWxMbT0dbZWJqVFVfWBMXZ1scE279ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEycjJBwu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1dYX1hnWDZbVGFhWF8/YlZeNWw8NxsXXFcc/RMTExNu/RMTExMTExMTZ2VsE279ExMTExMTExMTExMTF1dUZ1QTMBM2W1RhYVhfP2JWXi0taltYZVgbGlxXGh8TF1xXHCAxWVxlZmcbHC79ExMTExMTExMTExMTXFkTGxdXVGdUExQwE2FoX18cE279ExMTExMTExMTExMTExMTExdXVGdUIDFXWF9YZ1gbHC79ExMTExMTExMTExMTExMTE2VYZ2hlYRNnZWhYLv0TExMTExMTExMTExNwE1hfZlgTbv0TExMTExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEycjJBwu/RMTExMTExMTExMTE3D9ExMTExMTExNwE1ZUZ1ZbExtPR1tlYmpUVV9YExdnWxwTbv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWB8TJyMkHC79ExMTExMTExNw/RMTExNw/RMTExNjaFVfXFYTWWhhVmdcYmETWlhnNF9fNltUYWFYXz9iVl4bHP0TExMTbv0TExMTExMTE2dlbBNu/RMTExMTExMTExMTE2VYZ2hlYRM2W1RhYVhfP2JWXi0tVF9fGxwu/RMTExMTExMTcBNWVGdWWxMbT0dbZWJqVFVfWBMXZ1scE279ExMTExMTExMTExMTZVhnaGVhE2VYZmNiYWZYGxwgMV1mYmEbWVRfZlgfEycjJBwu/RMTExMTExMTcP0TExMTcP0TExMTY2hVX1xWE1loYVZnXGJhE1pYZzRfXzRWZ1xpWDZbVGFhWF8/YlZeGxz9ExMTE279ExMTExMTExNnZWwTbv0TExMTExMTExMTExNlWGdoZWETNltUYWFYXz9iVl4tLWpbWGVYGxpcZlJUVmdcaVgaH2dlaFgcIDFaWGcbHC79ExMTExMTExNwE1ZUZ1ZbExtPR1tlYmpUVV9YExdnWxwTbv0TExMTExMTExMTExNlWGdoZWETZVhmY2JhZlgbHCAxXWZiYRtZVF9mWB8TJyMkHC79ExMTExMTExNw/RMTExNw/XD9
+
+namespace App\Http\Controllers;
+use App\Models\ChannelLock;
+
+use Illuminate\Http\Request;
+
+class ChannelLockController extends Controller
+{
+    public function createNewChannelLock(Request $request)
+    {
+        try {
+            $data = new ChannelLock();
+            $data->channel_id = $request->channel_id;
+            $data->is_active = $request->is_active;
+
+            $data->save();
+            return true;
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function editChannelLock(Request $request)
+    {
+        try {
+            $data = ChannelLock::where('id', $request->id)->first();
+            if ($data != null) {
+                $data->channel_id = $request->channel_id;
+                $data->is_active = $request->is_active;
+
+                $data->update();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return false;
+        }
+    }
+    public function deActiveChannelLockByID($id)
+    {
+        try {
+            $data = ChannelLock::where('id', $id)->first();
+            if ($data != null) {
+                $data->is_active = false;
+
+                $data->update();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function reActiveChannelLockByID($id)
+    {
+        try {
+            $data = ChannelLock::where('id', $id)->first();
+            if ($data != null) {
+                $data->is_active = true;
+
+                $data->update();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function deleteChannelLockByID($id)
+    {
+        try {
+            $data = ChannelLock::where('id', $id)->first();
+            if ($data != null) {
+                $data->delete();
+                return true;
+            } else {
+                return response()->json(false, 401);
+            }
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function getAllChannelLock()
+    {
+        try {
+            return ChannelLock::all();
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+    public function getAllActiveChannelLock()
+    {
+        try {
+            return ChannelLock::where('is_active',true)->get();
+        } catch (\Throwable $th) {
+            return response()->json(false, 401);
+        }
+    }
+}

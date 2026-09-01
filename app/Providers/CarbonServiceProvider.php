@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , '9pDUeB'); return 0;
-##!!!##8/NXSlZOXFlKTE4JKllZRTlbWF9STU5bXCTz815cTgksSltLWFdFLEpbS1hXJPNeXE4JLEpbS1hXRSxKW0tYVzJWVl5dSktVTiTzXlxOCTJVVV5WUldKXU5FPF5ZWVhbXUU8TltfUkxOOVtYX1JNTlsk8/NMVUpcXAksSltLWFc8TltfUkxOOVtYX1JNTlsJTmFdTldNXAk8TltfUkxOOVtYX1JNTlvzZPMJCQkJWV5LVVJMCU9eV0xdUlhXCVtOUFJcXU5bERLzCQkJCWTzCQkJCQkJCQksSltLWFcjI1ZKTFtYERBQTl0tSmJcL1tYVjxdSltdOE9ATk5UEBUJT15XTF1SWFcJEQ1gTk5UPF1KW11cKl0JJglXXlVVEglk8wkJCQkJCQkJCQkJCVtOXV5bVwkNXVFSXBYnTFhZYhESFidcXUpbXThPQE5OVBENYE5OVDxdSltdXCpdEhYnTVJPTzJXLUpiXBENXVFSXBIk8wkJCQkJCQkJZhIk8/MJCQkJCQkJCSxKW0tYVzJWVl5dSktVTiMjVkpMW1gREFBOXS1KYlwvW1hWPF1KW104T0BOTlQQFQlPXldMXVJYVwkRDWBOTlQ8XUpbXVwqXQkmCVdeVVUSCWTzCQkJCQkJCQkJCQkJW05dXltXCQ1dUVJcFidcXUpbXThPQE5OVBENYE5OVDxdSltdXCpdEhYnTVJPTzJXLUpiXBENXVFSXBIk8wkJCQkJCQkJZhIk8wkJCQlm82YJ
+
+namespace App\Providers;
+
+use Carbon\Carbon;
+use Carbon\CarbonImmutable;
+use Illuminate\Support\ServiceProvider;
+
+class CarbonServiceProvider extends ServiceProvider
+{
+    public function register()
+    {
+        Carbon::macro('getDaysFromStartOfWeek', function ($weekStartsAt = null) {
+            return $this->copy()->startOfWeek($weekStartsAt)->diffInDays($this);
+        });
+
+        CarbonImmutable::macro('getDaysFromStartOfWeek', function ($weekStartsAt = null) {
+            return $this->startOfWeek($weekStartsAt)->diffInDays($this);
+        });
+    }
+} 

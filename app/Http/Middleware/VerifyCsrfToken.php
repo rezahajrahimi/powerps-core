@@ -1,3 +1,20 @@
 <?php
-bolt_decrypt( __FILE__ , 'uyXOYN'); return 0;
-##!!!##Rkaqnamhr6ydn6FcfaysmISwsKyYiaWgoKihs52uoXdGRrGvoVyFqKixqaWqnbChmIKrsaqgnbClq6qYhLCwrJiJpaCgqKGzna6hmJKhrqWitX+vrqKQq6ehqlydr1yJpaCgqKGzna6hd0ZGn6idr69ckqGupaK1f6+uopCrp6GqXKG0sKGqoK9ciaWgoKihs52uoUa3RlxcXFxrZmZGXFxcXFxmXJCkoVyRjoWvXLCknbBcr6SrsaigXJ6hXKG0n6ixoKGgXKKuq6lcf4+Oglyyoa6loqWfnbClq6pqRlxcXFxcZkZcXFxcXGZcfLKdrlydrq6dtXilqrBoXK+wrqWqo3pGXFxcXFxma0ZcXFxcrK6rsKGfsKGgXGChtJ+hrLBceVyXRlxcXFxcXFxcY2ufrrWssKupsa9rn52oqJ6dn6djaFxra1yBtJ+osaChXH+utaywq6mxr1yfnaionp2fp1yuq7GwoUZcXFxcXFxcXGNrrJ21np2fp2NoXGtrXIG0n6ixoKFciquzjJ21qaGqsK9cn52oqJ6dn6dcrquxsKFcpaJcqqGhoKGgXGSena+hoFyrqlyhtKWvsKWqo1yuq7Gwoa9rs6GeaqykrGVGXFxcXFxcXFxja6+znaysnbVrrqGwsa6qY2hGXFxcXFxcXFxra1x9oKBcq7Ckoa5cs6GepKurp1yuq7Gwoa9cpKGuoVylolyqoZ+hr6+drrVGXFxcXJl3RrlG
+
+namespace App\Http\Middleware;
+
+use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as Middleware;
+
+class VerifyCsrfToken extends Middleware
+{
+    /**
+     * The URIs that should be excluded from CSRF verification.
+     *
+     * @var array<int, string>
+     */
+    protected $except = [
+        '/cryptomus/callback', // Exclude Cryptomus callback route
+        '/payback', // Exclude NowPayments callback route if needed (based on existing routes/web.php)
+        '/swappay/return',
+        // Add other webhook routes here if necessary
+    ];
+}

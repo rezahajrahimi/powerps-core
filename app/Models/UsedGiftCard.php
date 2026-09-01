@@ -1,3 +1,34 @@
 <?php
-bolt_decrypt( __FILE__ , 'jcBRgL'); return 0;
-##!!!##Hh6CdYF5h4R1d3k0VYSEcGGDeHmAh08eHomHeTRdgICJgX2CdYh5cFh1iHV2dYd5cFmAg4WJeYKIcFp1d4iDhn15h3BcdYdadXeIg4aNTx6Jh3k0XYCAiYF9gnWIeXBYdYh1dnWHeXBZgIOFiXmCiHBhg3h5gE8eiYd5NFWEhHBhg3h5gIdwVoOIaYd5hk8eHneAdYeHNGmHeXhbfXqIV3WGeDR5jIh5gniHNGGDeHmAHo8eNDQ0NImHeTRcdYdadXeIg4aNTx40NDQ0hIaDiHl3iHl4NDh7iXWGeHl4NFE0bzt9eDtANDt7fXqIc3d1hniHc314O3FPHjQ0NDSEhoOIeXeIeXg0OHp9gIB1doB5NFE0bzt7fXqIc3d1hniHc314O0A0O3V3d4OJgohzfXg7cU8eNDQ0NEM+Ph40NDQ0ND40W3mINIh8eTSJh3mGNIh8dYg0g4uChzSIfHk0aYd5eFt9eohXdYZ4HjQ0NDQ0Ph40NDQ0ND40VIZ5iImGgjRwXYCAiYF9gnWIeXBYdYh1dnWHeXBZgIOFiXmCiHBmeYB1iH2DgodwVnmAg4J7h2iDHjQ0NDQ0PkMeNDQ0NISJdoB9dzR6iYJ3iH2DgjSJh3mGPD0eNDQ0NI8eNDQ0NDQ0NDSGeYiJhoI0OIh8fYdBUnZ5gIOCe4dogzxWg4hph3mGTk53gHWHh0A0O3V3d4OJgohzfXg7QDQ7dXd3g4mCiHN9eDs9Tx40NDQ0kR4eNDQ0NEM+Ph40NDQ0ND40W3mINIh8eTR7fXqINHd1hng0iHx1iDSLdYc0iYd5eB40NDQ0ND4eNDQ0NDQ+NFSGeYiJhoI0cF2AgImBfYJ1iHlwWHWIdXZ1h3lwWYCDhYl5gohwZnmAdYh9g4KHcFZ5gIOCe4dogx40NDQ0ND5DHjQ0NDSEiXaAfXc0eomCd4h9g4I0e316iFd1hng8PR40NDQ0jx40NDQ0NDQ0NIZ5iImGgjQ4iHx9h0FSdnmAg4J7h2iDPFt9eohXdYZ4Tk53gHWHh0A0O3t9eohzd3WGeIdzfXg7PU8eNDQ0NJEeHpEe
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use App\Models\BotUser;
+
+class UsedGiftCard extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id', 'gift_cards_id'];
+    protected $fillable = ['gift_cards_id', 'account_id'];
+    /**
+     * Get the user that owns the UsedGiftCard
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function user()
+    {
+        return $this->belongsTo(BotUser::class, 'account_id', 'account_id');
+    }
+
+    /**
+     * Get the gift card that was used
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function giftCard()
+    {
+        return $this->belongsTo(GiftCard::class, 'gift_cards_id');
+    }
+
+}

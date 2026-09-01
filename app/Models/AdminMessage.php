@@ -1,3 +1,31 @@
 <?php
-bolt_decrypt( __FILE__ , '2iwwx1'); return 0;
-##!!!##PDygk5+XpaKTlZdSc6Kijn+hlpeepW08PKell1J7np6nn5ugk6aXjnaTppOUk6WXjneeoaOnl6CmjniTlaahpJuXpY56k6V4k5WmoaSrbTynpZdSe56ep5+boJOml452k6aTlJOll453nqGjp5egpo5/oZaXnm08PJWek6WlUnOWn5ugf5elpZOZl1KXqqaXoJalUn+hlpeePK08UlJSUqell1J6k6V4k5WmoaSrbTw8UlJSUqKkoaaXlaaXllJWmJuenpOUnpdSb1KNPFJSUlJSUlJSWZ+XpaWTmZdZXjxSUlJSUlJSUlmbn5OZl5Gik6aaWV48UlJSUlJSUlJZpquil1lePFJSUlJSUlJSWaWmk6anpVlePFJSUlJSUlJSWaahppOekaell6SlWV48UlJSUlJSUlJZpZegppGnpZekpVlePFJSUlJSUlJSWaWXoKaRm5alWV48UlJSUlJSUlJZmJObnpeWkZuWpVlePFJSUlJSUlJSWaSXlZuim5egppGblqVZXjxSUlJSUlJSUlmllZqXlqeel5aRk6ZZXjxSUlJSj208PFJSUlKipKGml5Wml5ZSVpWTpaalUm9SjTxSUlJSUlJSUlmllZqXlqeel5aRk6ZZUm9wUlmWk6aXppufl1lePFJSUlJSUlJSWaWXoKaRm5alWVJvcFJZk6Skk6tZXjxSUlJSUlJSUlmYk5uel5aRm5alWVJvcFJZk6Skk6tZXjxSUlJSUlJSUlmkl5WbopuXoKaRm5alWVJvcFJZk6Skk6tZXjxSUlJSj208rzw=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AdminMessage extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'message',
+        'image_path',
+        'type',
+        'status',
+        'total_users',
+        'sent_users',
+        'sent_ids',
+        'failed_ids',
+        'recipient_ids',
+        'scheduled_at',
+    ];
+
+    protected $casts = [
+        'scheduled_at' => 'datetime',
+        'sent_ids' => 'array',
+        'failed_ids' => 'array',
+        'recipient_ids' => 'array',
+    ];
+}

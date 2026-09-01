@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , '68vtkc'); return 0;
-##!!!##MDCUh5OLmZaHiYtGZ5aWgnOViouSmWEwMJuZi0ZvkpKbk4+Uh5qLgmqHmoeIh5mLgmuSlZebi5SagnOViouSYTAwiZKHmZlGcpWfh5Kan3mLmpqPlI1Gi56ai5SKmUZzlYqLkjChMEZGRkaWmJWai4mai4pGSo2bh5iKi4pGY0aBTY+KTYNhMDBGRkZGlpiVmouJmouKRkqJh5mamUZjRoEwRkZGRkZGRkZNj5mFh4maj5yLTUZjZEZNiJWVkouHlE1SMEZGRkZGRkZGTYuHmJSFlZSFlpuYiY6HmYtNRmNkRk2IlZWSi4eUTVIwRkZGRkZGRkZNi4eYlIWVlIWYi5SLnYeSTUZjZEZNiJWVkouHlE1SMEZGRkZGRkZGTYuHmJSFlZSFiouWlZmPmk1GY2RGTYiVlZKLh5RNUjBGRkZGRkZGRk2Lh5iUhZWUhZiLjIuYmIeSTUZjZEZNiJWVkouHlE1SMEZGRkZGRkZGTZiLiouLk4WLlIeIkouKTUZjZEZNiJWVkouHlE1SMEZGRkaDYTCjMA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class LoyaltySetting extends Model
+{
+    protected $guarded = ['id'];
+
+    protected $casts = [
+        'is_active' => 'boolean',
+        'earn_on_purchase' => 'boolean',
+        'earn_on_renewal' => 'boolean',
+        'earn_on_deposit' => 'boolean',
+        'earn_on_referral' => 'boolean',
+        'redeem_enabled' => 'boolean',
+    ];
+}

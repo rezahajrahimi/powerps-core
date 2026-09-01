@@ -1,3 +1,239 @@
 <?php
-bolt_decrypt( __FILE__ , 'jnc5rJ'); return 0;
-##!!!##NjaajZmRn5yNj5FMbZyciHSgoJyIb5uaoJ6bmJiRnp9nNjahn5FMbZyciHmbkJGYn4hvnqWcoJt8jaWZkZqgZzahn5FMdZiYoZmVmo2gkYh0oKCciH6RnaGRn6BnNjaPmI2fn0xvnqWcoJt8jaWZkZqgb5uaoJ6bmJiRnkyRpKCRmpCfTG+bmqCem5iYkZ42pzZMTExMnKGOmJWPTJKhmo+glZuaTJ+RkZBUVTZMTExMpzZMTExMTExMTJWSTFRvnqWcoJt8jaWZkZqgZmajlJGekVRTmo2ZkVNYTFOam6OcjaWZkZqgn1NVWWqQm5GfmqBxpJWfoFRVVUynNkxMTExMTExMTExMTFCglJWfWWqPnpGNoJF6m6N8jaWZkZqgcI2gjVRVZzZMTExMTExMTKk2TExMTExMTEyVkkxUb56lnKCbfI2lmZGaoGZmo5SRnpFUU5qNmZFTWExTj56lnKCbmaGfU1VZapCbkZ+aoHGklZ+gVFVVTKc2TExMTExMTExMTExMUKCUlZ9Zao+ekY2gkW+epZygm3yNpZmRmqBwjaCNVFVnNkxMTExMTExMqTZMTExMTExMTJWSTFRvnqWcoJt8jaWZkZqgZmajlJGekVRTmo2ZkVNYTFOfo42cnI2lU1VZapCbkZ+aoHGklZ+gVFVVTKc2TExMTExMTExMTExMUKCUlZ9Zao+ekY2gkX+jjZx8jaVwjaCNVFVnNkxMTExMTExMqTY2TExMTExMTEyekaChnppMoJ6hkWc2TExMTKk2TExMTJyhjpiVj0ySoZqPoJWbmkyTkaBvnqWcoJt8jaWZkZqgf6CNoKGfbqV3kaVUUJeRpVU2TExMTKc2TExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMUJeRpVVZapKVnp+gVFVnNkxMTExMTExMlZJMVFCQjaCNTE1pTJqhmJhVTKc2TExMTExMTExMTExMnpGgoZ6aTFCQjaCNWWqVn4uNj6CVopFMaWlMoJ6hkUyoqExQkI2gjVlqlZ+LjY+glaKRTGlpTF1Ma0ygnqGRTGZMko2Yn5FnNkxMTExMTExMqTZMTExMTExMTJ6RoKGemkySjZifkWc2TExMTKk2TExMTJyhjpiVj0ySoZqPoJWbmkyPnpGNoJF6m6N8jaWZkZqgcI2gjVRVNkxMTEynNkxMTExMTExMoJ6lTKc2TExMTExMTExMTExMUKCejZqfjY+glZuab56lnKCbb5qgnphMaUyakaNMgJ6Nmp+Nj6CVm5pvnqWcoJtvm5qgnpuYmJGeVFVnNkxMTExMTExMTExMTFCQjaCNTGlMmpGjTG+epZygm3yNpZmRmqBUVWc2TExMTExMTExMTExMUJCNoI1ZapqNmZFMaUxTmpujnI2lmZGaoJ9TZzZMTExMTExMTExMTExQkI2gjVlqjZyVi5eRpUxpTFOkpKSkpKSkWaSkpKSkpKRZpKSkpKSkpFmkpKSkpKSkU2c2TExMTExMTExMTExMUJCNoI1ZapGaokxpTFOYlaKRU2c2TExMTExMTExMTExMUJCNoI1Zao+NmJiOjY+Xi6GemExpTE6UoKCcn2ZbW6dQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemFlqk5Ggb6GenpGaoIGemFRVqVucjaWOjY+XW05nNkxMTExMTExMTExMTFCQjaCNWWqRmY2VmExpTFOWm5SabJOZjZWYWo+bmVNnNkxMTExMTExMTExMTFCQjaCNWWqcjZ+fo5uekExpTFNdXl9gYWJjZGVTZzZMTExMTExMTExMTExQkI2gjVlqlZyai4+NmJiOjY+Xi6GemExpTE6UoKCcn2ZbW6dQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemFlqk5Ggb6GenpGaoIGemFRVqVucjaWOjY+XW05nNkxMTExMTExMTExMTFCQjaCNWWqfoY+PkZ+fi6GemExpTE6UoKCcn2ZbW6dQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemFlqk5Ggb6GenpGaoIGemFRVqVucjaWOjY+XW05nNkxMTExMTExMTExMTFCQjaCNWWqPjZqPkZiLoZ6YTGlMTpSgoJyfZltbp1Cgno2an42PoJWbmm+epZygm2+aoJ6YWWqTkaBvoZ6ekZqggZ6YVFWpW4+Nmo+RmJyNpVtOZzZMTExMTExMTExMTExQkI2gjVlqnI2eoJWNmJili5yNlZCLoZ6YTGlMTpSgoJyfZltbp1Cgno2an42PoJWbmm+epZygm2+aoJ6YWWqTkaBvoZ6ekZqggZ6YVFWpW5yNpY6Nj5dbTmc2TExMTExMTExMTExMUJCNoI1ZapWfi5KVpJGQi56NoJFMaUygnqGRZzZMTExMTExMTExMTExQkI2gjVlqlZ+LkpGRi5yNlZCLjqWLoZ+RnkxpTKCeoZFnNkxMTExMTExMTExMTFCQjaCNWWqVn4uNj6CVopFMaUygnqGRZzY2TExMTExMTExMTExMUJCNoI1Zap+NopFUVWc2TExMTExMTExMTExMnpGgoZ6aTFCQjaCNZzZMTExMTExMTKlMj42gj5RMVIiAlJ6bo42OmJFMUKCUVUynNkxMTExMTExMTExMTIh4m5NmZpWakptUU5mRn5+Nk5FMZkxTTFpMUKCUWWqTkaB5kZ+fjZORVFVVZzZMTExMTExMTExMTEyekaChnppMmqGYmGc2TExMTExMTEypNkxMTEypNkxMTEycoY6YlY9MkqGaj6CVm5pMk5GgepujfI2lmZGaoHVwVFU2TExMTKc2TExMTExMTEygnqVMpzZMTExMTExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMU5qbo5yNpZmRmqCfU1VZapKVnp+gVFVnNkxMTExMTExMTExMTJWSTFRQkI2gjUxNaUyaoZiYVUynNkxMTExMTExMTExMTExMTEyekaChnppMUJCNoI1ZapWQZzZMTExMTExMTExMTEypNkxMTExMTExMTExMTJ6RoKGemkyaoZiYZzZMTExMTExMTKlMj42gj5RMVIiAlJ6bo42OmJFMUKCUVUynNkxMTExMTExMTExMTIh4m5NmZpWakptUU5mRn5+Nk5FMZkxTTFpMUKCUWWqTkaB5kZ+fjZORVFVVZzZMTExMTExMTExMTEyekaChnppMmqGYmGc2TExMTExMTEypNkxMTEypNkxMTEycoY6YlY9MkqGaj6CVm5pMk5GgepuifI2lmZGaoHCNoI1UVTZMTExMpzZMTExMTExMTKCepUynNkxMTExMTExMTExMTFCQjaCNTGlMb56lnKCbfI2lmZGaoGZmo5SRnpFUU5qNmZFTWExTmpujnI2lmZGaoJ9TVVlqkpWen6BUVWc2TExMTExMTExMTExMlZJMVFCQjaCNTE1pTJqhmJhVTKc2TExMTExMTExMTExMTExMTJ6RoKGemkxQkI2gjWc2TExMTExMTExMTExMqTZMTExMTExMTExMTEyekaChnppMUKCUlZ9Zao+ekY2gkXqbo3yNpZmRmqBwjaCNVFVnNkxMTExMTExMqUyPjaCPlExUiICUnpujjY6YkUxQoJRVTKc2TExMTExMTExMTExMiHibk2ZmlZqSm1RTmZGfn42TkUxmTFNMWkxQoJRZapORoHmRn5+Nk5FUVVVnNkxMTExMTExMTExMTJ6RoKGemkyaoZiYZzZMTExMTExMTKk2TExMTKk2TExMTJyhjpiVj0ySoZqPoJWbmkyhnJCNoJF6m6N8jaWZkZqgVH6RnaGRn6BMUJ6RnaGRn6BVNkxMTEynNkxMTExMTExMoJ6lTKc2TExMTExMTExMTExMiHibk2ZmlZqSm1RTnpGdoZGfoFlqlZ+LjY+glaKRTGZMU0xaTFCekZ2hkZ+gWWqVn4uNj6CVopFVZzZMTExMTExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMU5qbo5yNpZmRmqCfU1VZapKVnp+gVFVnNjZMTExMTExMTExMTExQkI2gjVlqjZyVi5eRpUxpTFCekZ2hkZ+gWWqNnJWLl5GlZzZMTExMTExMTExMTExQkI2gjVlqkZmNlZhMaUxQnpGdoZGfoFlqkZmNlZhnNkxMTExMTExMTExMTFCQjaCNWWqcjZ+fo5uekExpTFCekZ2hkZ+gWWqcjZ+fo5uekGc2TExMTExMTExMTExMUJCNoI1ZapWfi5KRkYucjZWQi46li6GfkZ5MaUxQnpGdoZGfoFlqlZ+LkpGRi5yNlZCLjqWLoZ+RnkxpaUxdTKioTFCekZ2hkZ+gWWqVn4uSkZGLnI2VkIuOpYuhn5GeTGlpTKCeoZFMa0ygnqGRTGZMko2Yn5FnNkxMTExMTExMTExMTFCQjaCNWWqVn4uNj6CVopFMaUxQnpGdoZGfoFlqlZ+LjY+glaKRTGlpTF1MqKhMUJ6RnaGRn6BZapWfi42PoJWikUxpaUygnqGRTGtMoJ6hkUxmTJKNmJ+RZzY2TExMTExMTExMTExMUJCNoI1ZaqGckI2gkVRVZzZMTExMTExMTExMTEyekaChnppMUJCNoI1nNkxMTExMTExMqUyPjaCPlExUiICUnpujjY6YkUxQoJRVTKc2TExMTExMTExMTExMiHibk2ZmlZqSm1RTmZGfn42TkUxmTFNMWkxQoJRZapORoHmRn5+Nk5FUVVVnNkxMTExMTExMTExMTJ6RoKGemkyekZ+cm5qfkVRVWWqWn5uaVJqhmJhYTGFcXFVnNkxMTExMTExMqTZMTExMqTZMTExMnKGOmJWPTJKhmo+glZuaTJORoHqbo3yNpZmRmqCff6CNoKGfVFU2TExMTKc2TExMTExMTEygnqVMpzZMTExMTExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMU5qbo5yNpZmRmqCfU1VZapKVnp+gVFVnNkxMTExMTExMTExMTFCfjaCNoZ9MaUxQkI2gjVlqlZ+LjY+glaKRTGlpTKCeoZFMqKhMUJCNoI1ZapWfi42PoJWikUxpaUxdTGtMoJ6hkUxmTJKNmJ+RZzZMTExMTExMTExMTEyekaChnppMUJ+NoI2hn2c2TExMTExMTEypTI+NoI+UTFSIgJSem6ONjpiRTFCglFVMpzZMTExMTExMTExMTExbW6CUnpujTFCglGc2TExMTExMTExMTExMiHibk2ZmlZqSm1RTmZGfn42TkUxmTFNMWkxQoJRZapORoHmRn5+Nk5FUVVVnNkxMTExMTExMTExMTJ6RoKGemkySjZifkWc2TExMTExMTEypNkxMTEypNkxMTEycoY6YlY9MkqGaj6CVm5pMk5Ggb56lnKCbfI2lmZGaoHCNoI1UVTZMTExMpzZMTExMTExMTFCQjaCNTGlMb56lnKCbfI2lmZGaoGZmo5SRnpFUU5qNmZFTWExTj56lnKCbmaGfU1VZapKVnp+gVFVnNkxMTExMTExMlZJMVFCQjaCNTE1pTJqhmJhVTKc2TExMTExMTExMTExMnpGgoZ6aTFCQjaCNZzZMTExMTExMTKk2TExMTExMTEyekaChnppMUKCUlZ9Zao+ekY2gkW+epZygm3yNpZmRmqBwjaCNVFVnNjZMTExMqTZMTExMnKGOmJWPTJKhmo+glZuaTI+ekY2gkW+epZygm3yNpZmRmqBwjaCNVFU2TExMTKc2TExMTExMTEygnqVMpzZMTExMTExMTExMTExQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemExpTJqRo0yAno2an42PoJWbmm+epZygm2+bmqCem5iYkZ5UVWc2TExMTExMTExMTExMUJCNoI1MaUyakaNMb56lnKCbfI2lmZGaoFRVZzZMTExMTExMTExMTExQkI2gjVlqmo2ZkUxpTFOPnqWcoJuZoZ9TZzZMTExMTExMTExMTExQkI2gjVlqjZyVi5eRpUxpTFOkpKSkpKSkWaSkpKSkpKRZpKSkpKSkpFmkpKSkpKSkU2c2TExMTExMTExMTExMUJCNoI1ZapGaokxpTFOYlaKRU2c2TExMTExMTExMTExMUJCNoI1Zao+NmJiOjY+Xi6GemExpTE6UoKCcn2ZbW6dQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemFlqk5Ggb6GenpGaoIGemFRVqVucjaWOjY+XW05nNkxMTExMTExMTExMTFCQjaCNWWqRmY2VmExpTFOWm5SabJOZjZWYWo+bmVNnNkxMTExMTExMTExMTFCQjaCNWWqcjZ+fo5uekExpTFOkpKSkpKSkWaSkpKSkpKRZpKSkpKSkpFmkpKSkpKSkU2c2TExMTExMTExMTExMUJCNoI1ZapWcmouPjZiYjo2Pl4uhnphMaUxOlKCgnJ9mW1unUKCejZqfjY+glZuab56lnKCbb5qgnphZapORoG+hnp6RmqCBnphUValbnI2ljo2Pl1tOZzZMTExMTExMTExMTExQkI2gjVlqn42ikVRVZzZMTExMTExMTExMTEyekaChnppMUJCNoI1nNkxMTExMTExMqUyPjaCPlExUiICUnpujjY6YkUxQoJRVTKc2TExMTExMTExMTExMiHibk2ZmlZqSm1RTmZGfn42TkUxmTFNMWkxQoJRZapORoHmRn5+Nk5FUVVVnNkxMTExMTExMTExMTJ6RoKGemkyaoZiYZzZMTExMTExMTKk2TExMTKk2TExMTJyhjpiVj0ySoZqPoJWbmkyTkaBvnqWcoJt8jaWZkZqgdXBUVTZMTExMpzZMTExMTExMTFCQjaCNTGlMb56lnKCbfI2lmZGaoGZmo5SRnpFUU5qNmZFTWExTj56lnKCbmaGfU1VZapKVnp+gVFVnNkxMTExMTExMlZJMVFCQjaCNTE1pTJqhmJhVTKc2TExMTExMTExMTExMnpGgoZ6aTFCQjaCNWWqVkGc2TExMTExMTEypNkxMTExMTExMnpGgoZ6aTJqhmJhnNkxMTEypNkxMTEycoY6YlY9MkqGaj6CVm5pMoZyQjaCRb56lnKCbmaGffI2lmZGaoFR+kZ2hkZ+gTFCekZ2hkZ+gVTZMTExMpzZMTExMTExMTIh4m5NmZpWakptUU56RnaGRn6BZapWfi42PoJWikUxmTFNMWkxQnpGdoZGfoFlqlZ+LjY+glaKRVWc2TExMTExMTEygnqVMpzZMTExMTExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMU4+epZygm5mhn1NVWWqSlZ6foFRVZzZMTExMTExMTExMTExQkI2gjVlqjZyVi5eRpUxpTFCekZ2hkZ+gWWqNnJWLl5GlZzZMTExMTExMTExMTExQkI2gjVlqkZmNlZhMaUxQnpGdoZGfoFlqkZmNlZhnNkxMTExMTExMTExMTFCQjaCNWWqcjZ+fo5uekExpTFCekZ2hkZ+gWWqcjZ+fo5uekGc2TExMTExMTExMTExMUJCNoI1ZapWfi42PoJWikUxpTFCekZ2hkZ+gWWqVn4uNj6CVopFMaWlMoJ6hkUyoqExQnpGdoZGfoFlqlZ+LjY+glaKRTGlpTF1Ma0ygnqGRTGZMko2Yn5FnNkxMTExMTExMTExMTFCQjaCNWWqhnJCNoJFUVWc2TExMTExMTExMTExMnpGgoZ6aTFCQjaCNZzZMTExMTExMTKlMj42gj5RMVIiAlJ6bo42OmJFMUKCUVUynNkxMTExMTExMTExMTIh4m5NmZpWakptUU5mRn5+Nk5FMZkxTTFpMUKCUWWqTkaB5kZ+fjZORVFVVZzZMTExMTExMTExMTEyekaChnppMnpGfnJuan5FUVVlqlp+bmlSaoZiYWExhXFxVZzZMTExMTExMTKk2TExMTKk2NkxMTEycoY6YlY9MkqGaj6CVm5pMj56RjaCRf6ONnHyNpXCNoI1UVTZMTExMpzZMTExMTExMTKCepUynNkxMTExMTExMTExMTFCgno2an42PoJWbmm+epZygm2+aoJ6YTGlMmpGjTICejZqfjY+glZuab56lnKCbb5uaoJ6bmJiRnlRVZzZMTExMTExMTExMTExQkI2gjUxpTJqRo0xvnqWcoJt8jaWZkZqgVFVnNkxMTExMTExMTExMTFCQjaCNWWqajZmRTGlMU5+jjZycjaVTZzZMTExMTExMTExMTExQkI2gjVlqjZyVi5eRpUxpTFOkpKSkpKSkWaSkpKSkpKRZpKSkpKSkpFmkpKSkpKSkU2c2TExMTExMTExMTExMUJCNoI1ZapGaokxpTFOYlaKRU2c2TExMTExMTExMTExMUJCNoI1Zao+NmJiOjY+Xi6GemExpTE6UoKCcn2ZbW6dQoJ6Nmp+Nj6CVm5pvnqWcoJtvmqCemFlqk5Ggb6GenpGaoIGemFRVqVufo42cnI2lW56RoKGemk5nNkxMTExMTExMTExMTFCQjaCNWWqRmY2VmExpTFNTZzZMTExMTExMTExMTExQkI2gjVlqnI2fn6ObnpBMaUxTpZuhnlmNnJyYlY+NoJWbmlmhn5Gemo2ZkVNnNkxMTExMTExMTExMTFCQjaCNWWqVnJqLj42YmI6Nj5eLoZ6YTGlMTpSgoJyfZltbp1Cgno2an42PoJWbmm+epZygm2+aoJ6YWWqTkaBvoZ6ekZqggZ6YVFWpW5+jjZycjaVbnpGgoZ6aTmc2TExMTExMTExMTExMUJCNoI1Zap+hj4+Rn5+LoZ6YTGlMTpSgoJyfZltbp1Cgno2an42PoJWbmm+epZygm2+aoJ6YWWqTkaBvoZ6ekZqggZ6YVFWpW5+jjZycjaVbnpGgoZ6aTmc2TExMTExMTExMTExMUJCNoI1Zao+Nmo+RmIuhnphMaUxOlKCgnJ9mW1unUKCejZqfjY+glZuab56lnKCbb5qgnphZapORoG+hnp6RmqCBnphUValbj42aj5GYnI2lW05nNkxMTExMTExMTExMTFCQjaCNWWqVn4uNj6CVopFMaUySjZifkWc2TExMTExMTExMTExMUJCNoI1Zap+NopFUVWc2NkxMTExMTExMTExMTJ6RoKGemkxQkI2gjWc2TExMTExMTEypTI+NoI+UTFSIgJSem6ONjpiRTFCglFVMpzZMTExMTExMTExMTEyIeJuTZmaVmpKbVFOPnpGNoJF/o42cfI2lcI2gjWZMU0xaTFCglFlqk5GgeZGfn42TkVRVVWc2NkxMTExMTExMTExMTJ6RoKGemkyaoZiYZzZMTExMTExMTKk2TExMTKk2NkxMTEycoY6YlY9MkqGaj6CVm5pMk5Ggf6ONnHyNpXCNoI1UVTZMTExMpzZMTExMTExMTFCQjaCNTGlMb56lnKCbfI2lmZGaoGZmo5SRnpFUU5qNmZFTWExTn6ONnJyNpVNVWWqSlZ6foFRVZzZMTExMTExMTJWSTFRQkI2gjUxNaUyaoZiYVUynNkxMTExMTExMTExMTJ6RoKGemkxQkI2gjWc2TExMTExMTEypNjZMTExMTExMTJ6RoKGemkxQoJSVn1lqj56RjaCRf6ONnHyNpXCNoI1UVWc2TExMTKk2NkxMTEycoY6YlY9MkqGaj6CVm5pMoZyQjaCRf6ONnHyNpXyNpZmRmqBUfpGdoZGfoExQnpGdoZGfoFU2TExMTKc2TExMTExMTEygnqVMpzZMTExMTExMTExMTExQkI2gjUxpTG+epZygm3yNpZmRmqBmZqOUkZ6RVFOajZmRU1hMU5+jjZycjaVTVVlqkpWen6BUVWc2TExMTExMTExMTExMlZJMVFCQjaCNTGlpTJqhmJhVTKc2TExMTExMTExMTExMTExMTFCQjaCNTGlMUKCUlZ9Zao+ekY2gkX+jjZx8jaVwjaCNVFVnNkxMTExMTExMTExMTKk2TExMTExMTExMTExMlZJMVFCQjaCNTGlpTJqhmJhVTKc2TExMTExMTExMTExMTExMTJ6RoKGemkyekZ+cm5qfkVRVWWqWn5uaVJqhmJhYTGFcXFVnNkxMTExMTExMTExMTKk2NkxMTExMTExMTExMTFCQjaCNWWqNnJWLl5GlTGlMUJ6RnaGRn6BZao2clYuXkaVnNkxMTExMTExMTExMTFCQjaCNWWqcjZ+fo5uekExpTFCekZ2hkZ+gWWqcjZ+fo5uekGdMW1tMjZycmJWPjaCVm5pMoZ+RnpqNmZE2TExMTExMTExMTExMlZJMVFCekZ2hkZ+gWWqUjZ9UU5GZjZWYU1VVTKc2TExMTExMTExMTExMTExMTFCQjaCNWWqRmY2VmExpTFCekZ2hkZ+gWWqRmY2VmGc2TExMTExMTExMTExMqTZMTExMTExMTExMTExQkI2gjVlqlZ+LjY+glaKRTGlMUJ6RnaGRn6BZapWfi42PoJWikUxpaUygnqGRTKioTFCekZ2hkZ+gWWqVn4uNj6CVopFMaWlMXUxrTKCeoZFMZkySjZifkWc2NkxMTExMTExMTExMTFCfkZ6ilY+RTGlMmpGjTIhtnJyIf5GeopWPkZ+If6ONnHyNpX+RnqKVj5FUUJCNoI1Zao2clYuXkaVYTFCQjaCNWWqcjZ+fo5uekFVnNkxMTExMTExMTExMTFCPlJGPl0xpTFCfkZ6ilY+RWWqijZiVkI2gkW+ekZCRmqCVjZifVFVnNkxMTExMTExMTExMTJWSTFRNTFRQj5SRj5eHU5uXU4lMa2tMko2Yn5FVVUynNkxMTExMTExMTExMTExMTEyekaChnppMnpGfnJuan5FUVVlqlp+bmlSHNkxMTExMTExMTExMTExMTExMTExMU5+hj4+Rn59TTGlqTJKNmJ+RWDZMTExMTExMTExMTExMTExMTExMTFOZkZ+fjZORU0xpakxQj5SRj5eHU5mRn5+Nk5FTiUxra0xTBNYFsgTkB7gFsQTTBNZMf6ONnHyNpUwFsgTTBbEE5QTWBNQE3UwE0wTfBNZaU1g2TExMTExMTExMTExMTExMTIlYTGBeXlVnNkxMTExMTExMTExMTKk2NkxMTExMTExMTExMTFCQjaCNWWqhnJCNoJFUVWc2NkxMTExMTExMTExMTJ6RoKGemkxQkI2gjWc2TExMTExMTEypTI+NoI+UTFSIgJSem6ONjpiRTFCglFVMpzZMTExMTExMTExMTEyIeJuTZmaVmpKbVFOhnJCNoJF/o42cfI2lfI2lmZGaoGZMU0xaTFCglFlqk5GgeZGfn42TkVRVVWc2NkxMTExMTExMTExMTJ6RoKGemkyekZ+cm5qfkVRVWWqWn5uaVJqhmJhYTGFcXFVnNkxMTExMTExMqTZMTExMqTapNg==
+
+namespace App\Http\Controllers;
+
+use App\Models\CryptoPayment;
+use Illuminate\Http\Request;
+
+class CryptoPaymentController extends Controller
+{
+    public function seed()
+    {
+        if (CryptoPayment::where('name', 'nowpayments')->doesntExist()) {
+            $this->createNowPaymentData();
+        }
+        if (CryptoPayment::where('name', 'cryptomus')->doesntExist()) {
+            $this->createCryptoPaymentData();
+        }
+        if (CryptoPayment::where('name', 'swappay')->doesntExist()) {
+            $this->createSwapPayData();
+        }
+
+        return true;
+    }
+    public function getCryptoPaymentStatusByKey($key)
+    {
+        $data = CryptoPayment::where('name', $key)->first();
+        if ($data != null) {
+            return $data->is_active == true || $data->is_active == 1 ? true : false;
+        }
+        return false;
+    }
+    public function createNowPaymentData()
+    {
+        try {
+            $transactionCryptoCntrl = new TransactionCryptoController();
+            $data = new CryptoPayment();
+            $data->name = 'nowpayments';
+            $data->api_key = 'xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx';
+            $data->env = 'live';
+            $data->callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->email = 'john@gmail.com';
+            $data->password = '123456789';
+            $data->ipn_callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->success_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->cancel_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/cancelpay/";
+            $data->partially_paid_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->is_fixed_rate = true;
+            $data->is_fee_paid_by_user = true;
+            $data->is_active = true;
+
+            $data->save();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return null;
+        }
+    }
+    public function getNowPaymentID()
+    {
+        try {
+            $data = CryptoPayment::where('name', 'nowpayments')->first();
+            if ($data != null) {
+                return $data->id;
+            }
+            return null;
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return null;
+        }
+    }
+    public function getNovPaymentData()
+    {
+        try {
+            $data = CryptoPayment::where('name', 'nowpayments')->first();
+            if ($data != null) {
+                return $data;
+            }
+            return $this->createNowPaymentData();
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return null;
+        }
+    }
+    public function updateNowPayment(Request $request)
+    {
+        try {
+            \Log::info('request->is_active : ' . $request->is_active);
+            $data = CryptoPayment::where('name', 'nowpayments')->first();
+
+            $data->api_key = $request->api_key;
+            $data->email = $request->email;
+            $data->password = $request->password;
+            $data->is_fee_paid_by_user = $request->is_fee_paid_by_user == 1 || $request->is_fee_paid_by_user == true ? true : false;
+            $data->is_active = $request->is_active == 1 || $request->is_active == true ? true : false;
+
+            $data->update();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return response()->json(null, 500);
+        }
+    }
+    public function getNowPaymentsStatus()
+    {
+        try {
+            $data = CryptoPayment::where('name', 'nowpayments')->first();
+            $sataus = $data->is_active == true || $data->is_active == 1 ? true : false;
+            return $sataus;
+        } catch (\Throwable $th) {
+            //throw $th;
+            \Log::info('message : ' . $th->getMessage());
+            return false;
+        }
+    }
+    public function getCryptoPaymentData()
+    {
+        $data = CryptoPayment::where('name', 'cryptomus')->first();
+        if ($data != null) {
+            return $data;
+        }
+        return $this->createCryptoPaymentData();
+
+    }
+    public function createCryptoPaymentData()
+    {
+        try {
+            $transactionCryptoCntrl = new TransactionCryptoController();
+            $data = new CryptoPayment();
+            $data->name = 'cryptomus';
+            $data->api_key = 'xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx';
+            $data->env = 'live';
+            $data->callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->email = 'john@gmail.com';
+            $data->password = 'xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx';
+            $data->ipn_callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/payback/";
+            $data->save();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return null;
+        }
+    }
+    public function getCryptoPaymentID()
+    {
+        $data = CryptoPayment::where('name', 'cryptomus')->first();
+        if ($data != null) {
+            return $data->id;
+        }
+        return null;
+    }
+    public function updateCryptomusPayment(Request $request)
+    {
+        \Log::info('request->is_active : ' . $request->is_active);
+        try {
+            $data = CryptoPayment::where('name', 'cryptomus')->first();
+            $data->api_key = $request->api_key;
+            $data->email = $request->email;
+            $data->password = $request->password;
+            $data->is_active = $request->is_active == true || $request->is_active == 1 ? true : false;
+            $data->update();
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('message : ' . $th->getMessage());
+            return response()->json(null, 500);
+        }
+    }
+
+    public function createSwapPayData()
+    {
+        try {
+            $transactionCryptoCntrl = new TransactionCryptoController();
+            $data = new CryptoPayment();
+            $data->name = 'swappay';
+            $data->api_key = 'xxxxxxx-xxxxxxx-xxxxxxx-xxxxxxx';
+            $data->env = 'live';
+            $data->callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/swappay/return";
+            $data->email = '';
+            $data->password = 'your-application-username';
+            $data->ipn_callback_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/swappay/return";
+            $data->success_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/swappay/return";
+            $data->cancel_url = "https://{$transactionCryptoCntrl->getCurrentUrl()}/cancelpay/";
+            $data->is_active = false;
+            $data->save();
+
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('createSwapPayData: ' . $th->getMessage());
+
+            return null;
+        }
+    }
+
+    public function getSwapPayData()
+    {
+        $data = CryptoPayment::where('name', 'swappay')->first();
+        if ($data != null) {
+            return $data;
+        }
+
+        return $this->createSwapPayData();
+    }
+
+    public function updateSwapPayPayment(Request $request)
+    {
+        try {
+            $data = CryptoPayment::where('name', 'swappay')->first();
+            if ($data == null) {
+                $data = $this->createSwapPayData();
+            }
+            if ($data == null) {
+                return response()->json(null, 500);
+            }
+
+            $data->api_key = $request->api_key;
+            $data->password = $request->password; // application username
+            if ($request->has('email')) {
+                $data->email = $request->email;
+            }
+            $data->is_active = $request->is_active == true || $request->is_active == 1 ? true : false;
+
+            $service = new \App\Services\SwapPayService($data->api_key, $data->password);
+            $check = $service->validateCredentials();
+            if (! ($check['ok'] ?? false)) {
+                return response()->json([
+                    'success' => false,
+                    'message' => $check['message'] ?? 'تنظیمات SwapPay نامعتبر است.',
+                ], 422);
+            }
+
+            $data->update();
+
+            return $data;
+        } catch (\Throwable $th) {
+            \Log::info('updateSwapPayPayment: ' . $th->getMessage());
+
+            return response()->json(null, 500);
+        }
+    }
+}

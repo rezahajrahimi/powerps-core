@@ -1,3 +1,19 @@
 <?php
-bolt_decrypt( __FILE__ , '9wnAXq'); return 0;
-##!!!##MjKWiZWNm5iJi41IaZiYhHWXjI2Um2MyMp2bjUhxlJSdlZGWiZyNhGyJnImKiZuNhG2Ul5mdjZachHWXjI2UYzIyi5SJm5tIfZuNmnuciZyNSI2gnI2WjJtIdZeMjZQyozJISEhImJqXnI2LnI2MSEyOkZSUiYqUjUhlSINPi5CJnIeRjE9USE+bnImcjU9USE+MiZyJT4VjMjJISEhImJqXnI2LnI2MSEyLiZucm0hlSIMySEhISEhISEhPjImciU9IZWZIT4mamomhTzJISEhIhWMyMkhISEiYnYqUkYtIjp2Wi5yRl5ZIj42cfZuNmnuciZyNaqFrkImccYxQTIuQiZxxjFEySEhISKMySEhISEhISEiajZydmpZIm42UjmJin5CNmo1QT4uQiZyHkYxPVEhMi5CJnHGMUVVmjpGam5xQUWMySEhISKUypTI=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class UserState extends Model
+{
+    protected $fillable = ['chat_id', 'state', 'data'];
+
+    protected $casts = [
+        'data' => 'array'
+    ];
+
+    public function getUserStateByChatId($chatId)
+    {
+        return self::where('chat_id', $chatId)->first();
+    }
+}

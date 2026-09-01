@@ -1,3 +1,201 @@
 <?php
-bolt_decrypt( __FILE__ , 'NPvh2J'); return 0;
-##!!!##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NRheWWRrXSEYcwIYGBgYGBgYGBgYGBhsYGpnbxhmXW8YSm1mbGFlXT1wW11obGFnZiAf0bbQqdCn0J/QqtCsGNCs04TQohhwZGtwGNF90X3SodF+GNF+0KzQpyYfITMCGBgYGBgYGBh1AgIYGBgYGBgYGBxrYF1dbCU2al1fYWtsXWpQSFlsYEZZZV1raFlbXSAfWR8kGB9gbGxoMicna1tgXWVZayZnaF1mcGVkXmdqZVlsayZnal8na2hqXVlca2BdXWxlZCcqKCguJ2VZYWYfITMCGBgYGBgYGBgcamdvaxg1GFNVMwICGBgYGBgYGBheZ2pdWVtgGCAca2BdXWwlNmtgXV1sPFlsWSU2amdvGFlrGBxqZ28hGHMCGBgYGBgYGBgYGBgYHGpnb05ZZG1daxg1GFNVMwIYGBgYGBgYGBgYGBheZ2pdWVtgGCAcamdvJTZbGFlrGBxbXWRkIRhzAhgYGBgYGBgYGBgYGBgYGBgcW2dkbWVmQWZcXXAYNRgcbGBhayU2W2dkbWVmQWZcXXA+amdlO11kZEpdXl1qXWZbXSAga2xqYWZfIRgcW11kZFMfah9VITMCGBgYGBgYGBgYGBgYGBgYGBxqZ29OWWRtXWtTHFtnZG1lZkFmXF1wVRg1GBxsYGFrJTZqXVlcO11kZE5ZZG1dIBxbXWRkJBgca2BZal1cS2xqYWZfayEzAhgYGBgYGBgYGBgYGHUCAhgYGBgYGBgYGBgYGGFeGCAcamdvTllkbV1rGDU1NRhTVSEYcwIYGBgYGBgYGBgYGBgYGBgYW2dmbGFmbV0zAhgYGBgYGBgYGBgYGHUCAhgYGBgYGBgYGBgYGBxlWXBBZlxdcBg1GGVZcCBZampZcVdjXXFrIBxqZ29OWWRtXWshITMCGBgYGBgYGBgYGBgYHGZnamVZZGFyXVwYNRhTVTMCGBgYGBgYGBgYGBgYXmdqGCAcYRg1GCgzGBxhGDQ1GBxlWXBBZlxdcDMYHGEjIyEYcwIYGBgYGBgYGBgYGBgYGBgYHGZnamVZZGFyXVxTVRg1GBxqZ29OWWRtXWtTHGFVGDc3GGZtZGQzAhgYGBgYGBgYGBgYGHUCAhgYGBgYGBgYGBgYGBxqZ29rU1UYNRgcZmdqZVlkYXJdXDMCGBgYGBgYGBh1AgIYGBgYGBgYGGpdbG1qZhgcamdvazMCGBgYGHUCAhgYGBgnIiICGBgYGBgiGDhqXWxtamYYWWpqWXE0YWZsJBhrbGphZl82AhgYGBgYIicCGBgYGGhqYW5ZbF0YXm1mW2xhZ2YYal1ZXEtgWWpdXEtsamFmX2sgUmFoOWpbYGFuXRgccmFoITIYWWpqWXECGBgYGHMCGBgYGBgYGBgccGVkGDUYHHJhaCU2X11sPmpnZUZZZV0gH3BkJ2tgWWpdXEtsamFmX2smcGVkHyEzAhgYGBgYGBgYYV4YIBxwZWQYNTU1GF5ZZGtdIRhzAhgYGBgYGBgYGBgYGGpdbG1qZhhTVTMCGBgYGBgYGBh1AgIYGBgYGBgYGBxrYFlqXVwYNRhrYWVoZF1wZWRXZGdZXFdrbGphZl8gHHBlZCEzAhgYGBgYGBgYYV4YIBxrYFlqXVwYNTU1GF5ZZGtdIRhzAhgYGBgYGBgYGBgYGGpdbG1qZhhTVTMCGBgYGBgYGBh1AgIYGBgYGBgYGBxrYFlqXVwlNmpdX2FrbF1qUEhZbGBGWWVda2hZW10gH1kfJBgfYGxsaDInJ2tbYF1lWWsmZ2hdZnBlZF5namVZbGsmZ2pfJ2toal1ZXGtgXV1sZWQnKigoLidlWWFmHyEzAhgYGBgYGBgYHGtsamFmX2sYNRhTVTMCAhgYGBgYGBgYXmdqXVlbYBggHGtgWWpdXCU2a2EYWWsYHGFsXWUhGHMCGBgYGBgYGBgYGBgYYV4YIGFra11sIBxhbF1lJTZsISEYcwIYGBgYGBgYGBgYGBgYGBgYHGtsamFmX2tTVRg1GCBrbGphZl8hGBxhbF1lJTZsMwIYGBgYGBgYGBgYGBgYGBgYW2dmbGFmbV0zAhgYGBgYGBgYGBgYGHUCAhgYGBgYGBgYGBgYGBxoWWpsaxg1GFNVMwIYGBgYGBgYGBgYGBheZ2pdWVtgGCAcYWxdZSU2ahhZaxgcam1mIRhzAhgYGBgYGBgYGBgYGBgYGBgcaFlqbGtTVRg1GCBrbGphZl8hGBxqbWYlNmwzAhgYGBgYGBgYGBgYGHUCGBgYGBgYGBgYGBgYHGtsamFmX2tTVRg1GGFlaGRnXF0gHx8kGBxoWWpsayEzAhgYGBgYGBgYdQICGBgYGBgYGBhqXWxtamYYHGtsamFmX2szAhgYGBh1AgIYGBgYaGphbllsXRhebWZbbGFnZhhqXVlcO11kZE5ZZG1dIFRLYWVoZF1QRUQ9ZF1lXWZsGBxbXWRkJBhZampZcRgca2BZal1cS2xqYWZfayEyGDdrbGphZl8CGBgYGHMCGBgYGBgYGBgcbHFoXRg1GCBrbGphZl8hGCAcW11kZFMfbB9VGDc3GB8fITMCAhgYGBgYGBgYYV4YIBxscWhdGDU1NRgfYWZkYWZdS2xqHyEYcwIYGBgYGBgYGBgYGBhqXWxtamYYHGxgYWslNmZnamVZZGFyXTtdZGQgIGtsamFmXyEYIBxbXWRkJTZhayU2bBg3NxgfHyEhMwIYGBgYGBgYGHUCAhgYGBgYGBgYHG5ZZG1dGDUYYWtrXWwgHFtdZGQlNm4hGDcYIGtsamFmXyEYHFtdZGQlNm4YMhgfHzMCAhgYGBgYGBgYYV4YIBxscWhdGDU1NRgfax8hGHMCGBgYGBgYGBgYGBgYHGFmXF1wGDUYIGFmbCEYHG5ZZG1dMwICGBgYGBgYGBgYGBgYal1sbWpmGBxsYGFrJTZmZ2plWWRhcl07XWRkIBxrYFlqXVxLbGphZl9rUxxhZlxdcFUYNzcYHx8hMwIYGBgYGBgYGHUCAhgYGBgYGBgYal1sbWpmGBxsYGFrJTZmZ2plWWRhcl07XWRkIBxuWWRtXSEzAhgYGBh1AgIYGBgYaGphbllsXRhebWZbbGFnZhhbZ2RtZWZBZlxdcD5qZ2U7XWRkSl1eXWpdZltdIGtsamFmXxgcal1eXWpdZltdITIYYWZsAhgYGBhzAhgYGBgYGBgYaGpdX1dlWWxbYCAfJ1ZTOSVSVSMnHyQYa2xqbGdtaGhdaiAcal1eXWpdZltdISQYHGVZbFtgXWshMwIYGBgYGBgYGBxkXWxsXWprGDUYHGVZbFtgXWtTKFUYNzcYHzkfMwIYGBgYGBgYGBxhZlxdcBg1GCgzAgIYGBgYGBgYGF5nahggHGEYNRgoMxgcYRg0GGtsamRdZiAcZF1sbF1qayEzGBxhIyMhGHMCGBgYGBgYGBgYGBgYHGFmXF1wGDUYHGFmXF1wGCIYKi4YIxggZ2pcIBxkXWxsXWprUxxhVSEYJRguLCEzAhgYGBgYGBgYdQICGBgYGBgYGBhqXWxtamYYHGFmXF1wGCUYKTMCGBgYGHUCAhgYGBhoamFuWWxdGF5tZltsYWdmGGZnamVZZGFyXTtdZGQgZWFwXVwYHG5ZZG1dITIYN2tsamFmXwIYGBgYcwIYGBgYGBgYGGFeGCAcbllkbV0YNTU1GGZtZGQhGHMCGBgYGBgYGBgYGBgYal1sbWpmGGZtZGQzAhgYGBgYGBgYdQICGBgYGBgYGBgcbF1wbBg1GGxqYWUgIGtsamFmXyEYHG5ZZG1dITMCAhgYGBgYGBgYal1sbWpmGBxsXXBsGDU1NRgfHxg3GGZtZGQYMhgcbF1wbDMCGBgYGHUCdQI=
+
+namespace App\Services;
+
+use RuntimeException;
+use ZipArchive;
+
+class SimpleSpreadsheetReader
+{
+    /**
+     * @return array<int, array<int, string|null>>
+     */
+    public function read(string $path, ?string $extension = null): array
+    {
+        $extension = strtolower($extension ?? pathinfo($path, PATHINFO_EXTENSION));
+
+        if ($extension === '' || $extension === 'tmp') {
+            $extension = $this->detectFormat($path);
+        }
+
+        return match ($extension) {
+            'csv', 'txt' => $this->readCsv($path),
+            'xlsx' => $this->readXlsx($path),
+            default => throw new RuntimeException('فرمت فایل پشتیبانی نمی‌شود. فقط xlsx و csv مجاز است.'),
+        };
+    }
+
+    private function detectFormat(string $path): string
+    {
+        $handle = fopen($path, 'rb');
+        if ($handle === false) {
+            throw new RuntimeException('خواندن فایل ممکن نشد.');
+        }
+
+        $header = fread($handle, 4) ?: '';
+        fclose($handle);
+
+        if (str_starts_with($header, "PK\x03\x04")) {
+            return 'xlsx';
+        }
+
+        return 'csv';
+    }
+
+    /**
+     * @return array<int, array<int, string|null>>
+     */
+    private function readCsv(string $path): array
+    {
+        $rows = [];
+        $handle = fopen($path, 'r');
+
+        if ($handle === false) {
+            throw new RuntimeException('خواندن فایل csv ممکن نشد.');
+        }
+
+        while (($data = fgetcsv($handle)) !== false) {
+            if ($rows === [] && isset($data[0]) && is_string($data[0])) {
+                $data[0] = preg_replace('/^\xEF\xBB\xBF/', '', $data[0]) ?? $data[0];
+            }
+
+            $rows[] = array_map(fn ($value) => $this->normalizeCell($value), $data);
+        }
+
+        fclose($handle);
+
+        return $rows;
+    }
+
+    /**
+     * @return array<int, array<int, string|null>>
+     */
+    private function readXlsx(string $path): array
+    {
+        if (! class_exists(ZipArchive::class)) {
+            throw new RuntimeException('افزونه ZipArchive روی سرور فعال نیست.');
+        }
+
+        $zip = new ZipArchive();
+        if ($zip->open($path) !== true) {
+            throw new RuntimeException('باز کردن فایل xlsx ممکن نشد.');
+        }
+
+        $sharedStrings = $this->readSharedStrings($zip);
+        $sheetXml = $zip->getFromName('xl/worksheets/sheet1.xml');
+
+        if ($sheetXml === false) {
+            $zip->close();
+            throw new RuntimeException('شیت اول در فایل xlsx یافت نشد.');
+        }
+
+        $zip->close();
+
+        $sheet = simplexml_load_string($sheetXml);
+        if ($sheet === false) {
+            throw new RuntimeException('پردازش شیت xlsx ممکن نشد.');
+        }
+
+        $sheet->registerXPathNamespace('a', 'http://schemas.openxmlformats.org/spreadsheetml/2006/main');
+        $rows = [];
+
+        foreach ($sheet->sheetData->row as $row) {
+            $rowValues = [];
+            foreach ($row->c as $cell) {
+                $columnIndex = $this->columnIndexFromCellReference((string) $cell['r']);
+                $rowValues[$columnIndex] = $this->readCellValue($cell, $sharedStrings);
+            }
+
+            if ($rowValues === []) {
+                continue;
+            }
+
+            $maxIndex = max(array_keys($rowValues));
+            $normalized = [];
+            for ($i = 0; $i <= $maxIndex; $i++) {
+                $normalized[] = $rowValues[$i] ?? null;
+            }
+
+            $rows[] = $normalized;
+        }
+
+        return $rows;
+    }
+
+    /**
+     * @return array<int, string>
+     */
+    private function readSharedStrings(ZipArchive $zip): array
+    {
+        $xml = $zip->getFromName('xl/sharedStrings.xml');
+        if ($xml === false) {
+            return [];
+        }
+
+        $shared = simplexml_load_string($xml);
+        if ($shared === false) {
+            return [];
+        }
+
+        $shared->registerXPathNamespace('a', 'http://schemas.openxmlformats.org/spreadsheetml/2006/main');
+        $strings = [];
+
+        foreach ($shared->si as $item) {
+            if (isset($item->t)) {
+                $strings[] = (string) $item->t;
+                continue;
+            }
+
+            $parts = [];
+            foreach ($item->r as $run) {
+                $parts[] = (string) $run->t;
+            }
+            $strings[] = implode('', $parts);
+        }
+
+        return $strings;
+    }
+
+    private function readCellValue(\SimpleXMLElement $cell, array $sharedStrings): ?string
+    {
+        $type = (string) ($cell['t'] ?? '');
+
+        if ($type === 'inlineStr') {
+            return $this->normalizeCell((string) ($cell->is->t ?? ''));
+        }
+
+        $value = isset($cell->v) ? (string) $cell->v : '';
+
+        if ($type === 's') {
+            $index = (int) $value;
+
+            return $this->normalizeCell($sharedStrings[$index] ?? '');
+        }
+
+        return $this->normalizeCell($value);
+    }
+
+    private function columnIndexFromCellReference(string $reference): int
+    {
+        preg_match('/^[A-Z]+/', strtoupper($reference), $matches);
+        $letters = $matches[0] ?? 'A';
+        $index = 0;
+
+        for ($i = 0; $i < strlen($letters); $i++) {
+            $index = $index * 26 + (ord($letters[$i]) - 64);
+        }
+
+        return $index - 1;
+    }
+
+    private function normalizeCell(mixed $value): ?string
+    {
+        if ($value === null) {
+            return null;
+        }
+
+        $text = trim((string) $value);
+
+        return $text === '' ? null : $text;
+    }
+}

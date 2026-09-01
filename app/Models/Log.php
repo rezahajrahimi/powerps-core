@@ -1,3 +1,25 @@
 <?php
-bolt_decrypt( __FILE__ , 'AD382n'); return 0;
-##!!!##mpr+8f31AwDx8/Ww0QAA7N3/9PX8A8uamgUD9bDZ/PwF/fn+8QT17NTxBPHy8QP17NX8/wEF9f4E7Nbx8wT/Avn1A+zY8QPW8fME/wIJy5oFA/Ww2fz8Bf35/vEE9ezU8QTx8vED9ezV/P8BBfX+BOzd//T1/MuaBQP1sOb1AgTxy5qa8/zxAwOw3P/3sPUIBPX+9AOw3f/09fyaC5qwsLCwBQP1sNjxA9bx8wT/AgnLmrCwsLAAAv8E9fME9fSwtPb5/Pzx8vz1sM2w67cECQD1t7ywt/31AwPx9/W3vLfx8/P/Bf4E7/n0t7y3BQP1Av7x/fW3vLf1BvX+BLfty5qwsLCwAAXy/PnzsPYF/vME+f/+sPf1BNMC9fEE9fTRBNEEBAL58gUE9bi0BvH8BfW5mrCwsLALmrCwsLCwsLCwAvUEBQL+sAb1AgTxuAb1AgTxuLQG8fwF9bm5vc72/wL98QTU+fb29QL1/vP1uLnLmrCwsLANmrCwsLAABfL8+fOw9gX+8wT5//6w9/UE5QD08QT19NEE0QQEAvnyBQT1uLQG8fwF9bmasLCwsAuasLCwsLCwsLAC9QQFAv6wBvUCBPG4BvUCBPG4tAbx/AX1ubm9zvb/Av3xBNT59vb1AvX+8/W4ucuasLCwsA2asLCwsAAF8vz587D2Bf7zBPn//rAFA/UCuLmasLCwsAuasLCwsLCwsLAC9QQFAv6wtAT4+QO9zvjxA9/+9bjS/wTlA/UCysrz/PEDA7ywt/Hz8/8F/gTv+fS3vLC38fPz/wX+BO/59Le5y5qwsLCwDZoNmg==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Verta;
+
+class Log extends Model
+{
+    use HasFactory;
+    protected $fillable = ['type', 'message','account_id','username','event'];
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    public function getUpdatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+    public function user()
+    {
+        return $this->hasOne(BotUser::class, 'account_id', 'account_id');
+    }
+}

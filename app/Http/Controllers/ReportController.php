@@ -1,3 +1,248 @@
 <?php
-bolt_decrypt( __FILE__ , '7DcIE8'); return 0;
-##!!!##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xMTExMTExMTExNHiCwkYzM3frq7ExMTExMTExMTExMTIBwUYCQsTFh30CRYKExYRBRIHCcThxPQWEwgZBxje3g4TDRLMyxQWEwgZBxgDBwUYCQsTFg0JF8vQxMsUFhMIGQcYF9IUFhMIGQcYAwcFGAkLExYNCRcDDQjL0MTL4cvQxMsUFhMIGQcYAwcFGAkLExYNCRfSDQjLza7ExMTExMTExMTExMTExMTE0eIXCRAJBxjMrsTExMTExMTExMTExMTExMTExMTEyxQWEwgZBxgDBwUYCQsTFg0JF9INCMvQrsTExMTExMTExMTExMTExMTExMTEyxQWEwgZBxgDBwUYCQsTFg0JF9IHBRgJCxMWHQMSBREJy9CuxMTExMTExMTExMTExMTExMTExMTo5t7eFgUbzMvn8/ny+MwUFhMIGQcYF9INCM3EBRfEFwUQCRcDBxMZEhjLza7ExMTExMTExMTExMTExMTEza7ExMTExMTExMTExMTExMTE0eILFhMZFOYdzMsUFhMIGQcYAwcFGAkLExYNCRfSDQjL0MTLFBYTCBkHGAMHBRgJCxMWDQkX0gcFGAkLExYdAxIFEQnLza7ExMTExMTExMTExMTExMTE0eITFggJFuYd6AkXB8zLFwUQCRcDBxMZEhjLza7ExMTExMTExMTExMTExMTE0eIYBQ8JzNXUza7ExMTExMTExMTExMTExMTE0eILCRjMzd+ursTExMTExMTExMTExBYJGBkWEsQWCRcUExIXCczN0eIOFxMSzP+uxMTExMTExMTExMTExMTExMsRExIYDBAdAxcFEAkXy8Th4sTIERMSGAwQHfcFEAkX0K7ExMTExMTExMTExMTExMTEyxgTFAMHBRgJCxMWDQkXy8Th4sTIBwUYCQsTFh30CRYKExYRBRIHCdCuxMTExMTExMTExMTEAdDE1tTUzd+uxMTExMTExMQhxAcFGAcMxMwA+AwWExsFBhAJxMgYDM3EH67ExMTExMTExMTExMQWCRgZFhLEFgkXFBMSFwnMzdHiDhcTEsz/ywkWFhMWy8Th4sTIGAzR4gsJGPEJFxcFCwnMzQHQxNnU1M3frsTExMTExMTEIa7ExMTEIa4hrg==
+
+namespace App\Http\Controllers;
+
+use App\Models\BotUser;
+use App\Models\Product;
+use App\Models\Transaction;
+use App\Models\ProductCategory;
+use App\Models\AccountBallance;
+use App\Models\PurchaseIntent;
+use App\Models\PromoCodeUsage;
+use App\Services\LicenseFeatureService;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+
+class ReportController extends Controller
+{
+    public function getDashboardStats()
+    {
+        try {
+            $today = Carbon::today();
+
+            $totalUsers = BotUser::count();
+            $newUsersToday = BotUser::whereDate('created_at', $today)->count();
+
+            $totalSalesToday = Product::whereDate('created_at', $today)->count();
+
+            // Total Revenue from Transactions (Wallet Charges)
+            $totalRevenue = Transaction::where('confirmed', true)->sum('amount');
+            $totalRevenueToday = Transaction::where('confirmed', true)
+                ->whereDate('created_at', $today)
+                ->sum('amount');
+
+            // Active Configs (isActive = 1)
+            $activeConfigs = Product::where('isActive', 1)->count();
+
+            // Total Sales (Sum of product prices)
+            $totalSales = Product::join('product_categories', 'products.product_categories_id', '=', 'product_categories.id')
+                ->sum('product_categories.price');
+
+            // Monthly sales for chart (Revenue per month)
+            $monthlySales = Product::join('product_categories', 'products.product_categories_id', '=', 'product_categories.id')
+                ->select(
+                    DB::raw('CAST(SUM(product_categories.price) AS UNSIGNED) as amount'),
+                    DB::raw("DATE_FORMAT(products.created_at, '%Y-%m') as month")
+                )
+                ->groupBy('month')
+                ->orderBy('month', 'desc')
+                ->take(6)
+                ->get();
+
+            return response()->json([
+                'total_users' => $totalUsers,
+                'new_users_today' => $newUsersToday,
+                'total_sales_today' => $totalSalesToday,
+                'total_revenue_today' => $totalRevenueToday,
+                'active_configs' => $activeConfigs,
+                'total_revenue' => $totalRevenue,
+                'total_sales' => $totalSales,
+                'monthly_sales' => $monthlySales
+            ], 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+
+    public function getFinancialReport(Request $request)
+    {
+        try {
+            $query = Transaction::where('confirmed', true)->with(['payment_types', 'user']);
+
+            if ($request->has('start_date') && $request->has('end_date')) {
+                $query->whereBetween('created_at', [$request->start_date, $request->end_date]);
+            }
+
+            $transactions = $query->orderBy('id', 'desc')->paginate($request->count ?? 50);
+
+            // Stats based on the filtered query
+            $filteredTotal = $query->sum('amount');
+
+            // General stats
+            $stats = [
+                'total_revenue' => Transaction::where('confirmed', true)->sum('amount'),
+                'today_revenue' => Transaction::where('confirmed', true)->whereDate('created_at', Carbon::today())->sum('amount'),
+                'this_month' => Transaction::where('confirmed', true)->whereMonth('created_at', Carbon::now()->month)->sum('amount'),
+                'pending_amount' => Transaction::where('confirmed', false)->sum('amount'),
+            ];
+
+            return response()->json([
+                'transactions' => $transactions,
+                'total_amount' => $filteredTotal,
+                'stats' => $stats
+            ], 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+
+    public function getUserReport(Request $request)
+    {
+        try {
+            $query = BotUser::query();
+
+            if ($request->has('start_date') && $request->has('end_date')) {
+                $query->whereBetween('created_at', [$request->start_date, $request->end_date]);
+            }
+
+            if ($request->has('search')) {
+                $search = $request->search;
+                $query->where(function ($q) use ($search) {
+                    $q->where('username', 'like', "%$search%")
+                        ->orWhere('account_id', 'like', "%$search%")
+                        ->orWhere('first_name', 'like', "%$search%");
+                });
+            }
+
+            $users = $query->orderBy('id', 'desc')->paginate($request->count ?? 50);
+
+            // Add balance to each user
+            $users->getCollection()->transform(function ($user) {
+                $balance = AccountBallance::where('account_id', $user->account_id)->first();
+                $user->wallet_balance = $balance ? $balance->ballance : 0;
+                return $user;
+            });
+
+            // Additional stats for the users tab
+            $stats = [
+                'total_users' => BotUser::count(),
+                'new_today' => BotUser::whereDate('created_at', Carbon::today())->count(),
+                'with_balance' => AccountBallance::where('ballance', '>', 0)->count(),
+                'total_balance' => AccountBallance::sum('ballance'),
+            ];
+
+            return response()->json([
+                'users' => $users,
+                'stats' => $stats
+            ], 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+
+    public function getProductReport(Request $request)
+    {
+        try {
+            $query = Product::with(['user', 'product_category']);
+
+            if ($request->has('category_id')) {
+                $query->where('product_categories_id', $request->category_id);
+            }
+
+            if ($request->has('start_date') && $request->has('end_date')) {
+                $query->whereBetween('created_at', [$request->start_date, $request->end_date]);
+            }
+
+            $products = $query->orderBy('id', 'desc')->paginate($request->count ?? 50);
+
+            return response()->json($products, 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+
+    public function getRetentionStats()
+    {
+        try {
+            $license = new LicenseFeatureService();
+            if ($license->isBronzeOrBelow()) {
+                return $license->silverRequiredResponse();
+            }
+
+            $since30 = Carbon::now()->subDays(30);
+            $buyersLast30 = Product::where('created_at', '>=', $since30)->distinct()->count('account_id');
+            $repeatBuyers = Product::where('created_at', '>=', $since30)
+                ->select('account_id')
+                ->groupBy('account_id')
+                ->havingRaw('COUNT(*) > 1')
+                ->get()
+                ->count();
+
+            $renewalRate = $buyersLast30 > 0 ? round($repeatBuyers / $buyersLast30, 4) : 0;
+
+            $payload = [
+                'renewal_rate_30d' => $renewalRate,
+                'repeat_buyers_30d' => $repeatBuyers,
+                'buyers_30d' => $buyersLast30,
+                'total_users' => BotUser::count(),
+                'users_with_purchase' => Product::distinct('account_id')->count('account_id'),
+                'license_tier' => $license->current(),
+            ];
+
+            if ($license->isGold()) {
+                $abandonedToday = PurchaseIntent::whereNull('completed_at')
+                    ->whereDate('created_at', Carbon::today())
+                    ->count();
+                $promoRevenueToday = PromoCodeUsage::whereDate('applied_at', Carbon::today())->sum('discount_amount');
+
+                $payload['abandoned_intents_today'] = $abandonedToday;
+                $payload['open_abandoned_intents'] = PurchaseIntent::whereNull('completed_at')->count();
+                $payload['promo_discount_today'] = $promoRevenueToday;
+            }
+
+            return response()->json($payload, 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+
+    public function getRetentionChart()
+    {
+        try {
+            $license = new LicenseFeatureService();
+            if (! $license->isGold()) {
+                return $license->goldRequiredResponse();
+            }
+
+            $monthlySales = Product::join('product_categories', 'products.product_categories_id', '=', 'product_categories.id')
+                ->select(
+                    DB::raw('CAST(COUNT(products.id) AS UNSIGNED) as sales_count'),
+                    DB::raw('CAST(SUM(product_categories.price) AS UNSIGNED) as amount'),
+                    DB::raw("DATE_FORMAT(products.created_at, '%Y-%m') as month")
+                )
+                ->groupBy('month')
+                ->orderBy('month', 'desc')
+                ->take(6)
+                ->get();
+
+            $categoryPerformance = Product::join('product_categories', 'products.product_categories_id', '=', 'product_categories.id')
+                ->select(
+                    'product_categories.id',
+                    'product_categories.category_name',
+                    DB::raw('COUNT(products.id) as sales_count')
+                )
+                ->groupBy('product_categories.id', 'product_categories.category_name')
+                ->orderByDesc('sales_count')
+                ->take(10)
+                ->get();
+
+            return response()->json([
+                'monthly_sales' => $monthlySales,
+                'top_categories' => $categoryPerformance,
+            ], 200);
+        } catch (\Throwable $th) {
+            return response()->json(['error' => $th->getMessage()], 500);
+        }
+    }
+}

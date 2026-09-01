@@ -1,3 +1,106 @@
 <?php
-bolt_decrypt( __FILE__ , 'Tl50Ui'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\LoyaltyTransaction;
+use App\Models\User;
+use App\Services\LoyaltyPointsService;
+use Illuminate\Http\Request;
+
+class LoyaltyWalletController extends Controller
+{
+    public function __construct(
+        private readonly LoyaltyPointsService $loyalty = new LoyaltyPointsService(),
+    ) {
+    }
+
+    public function get_amount_by_account_id($account_id)
+    {
+        try {
+            return $this->loyalty->getBalanceByAccountId($account_id);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_loyalty_amount_by_account_id: $th");
+
+            return 0;
+        }
+    }
+
+    public function edit_points_by_account_id(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'account_id' => 'required|integer|min:1',
+                'balance' => 'required|integer|min:0',
+            ]);
+
+            $user = User::where('account_id', $validated['account_id'])->first();
+            if ($user === null) {
+                return response()->json(['message' => 'User not found'], 404);
+            }
+
+            $this->loyalty->setBalanceByAccountId($validated['account_id'], (int) $validated['balance']);
+
+            return response()->json(['success' => true], 200);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable edit_loyalty_points_by_account_id: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_auth_user_loyalty(Request $request)
+    {
+        try {
+            $user = $request->user();
+            $balance = $this->loyalty->getBalanceByUserId((int) $user->id);
+            $settings = $this->loyalty->getSettings();
+
+            return response()->json([
+                'balance' => $balance,
+                'is_active' => $this->loyalty->isActive(),
+                'redeem_enabled' => $this->loyalty->canRedeem(),
+                'toman_per_point' => $settings?->toman_per_point ?? 10,
+                'min_redeem_points' => $settings?->min_redeem_points ?? 0,
+                'max_redeem_percent' => $settings?->max_redeem_percent ?? 0,
+                'description' => $settings?->description,
+            ]);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_auth_user_loyalty: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function validate_redemption(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'order_amount_toman' => 'required|numeric|min:0',
+                'use_loyalty_points' => 'nullable|boolean',
+                'loyalty_points' => 'nullable|integer|min:0',
+            ]);
+
+            $accountId = $request->user()->account_id;
+            $usePoints = $validated['use_loyalty_points'] ?? true;
+
+            $result = $this->loyalty->applyRedemptionToPrice(
+                $accountId,
+                (float) $validated['order_amount_toman'],
+                (bool) $usePoints,
+                isset($validated['loyalty_points']) ? (int) $validated['loyalty_points'] : null,
+            );
+
+            return response()->json([
+                'success' => true,
+                'balance' => $this->loyalty->getBalanceByAccountId($accountId),
+                'points_to_redeem' => $result['points_to_redeem'],
+                'toman_discount' => $result['toman_discount'],
+                'final_price_toman' => $result['price_toman'],
+            ]);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable validate_loyalty_redemption: $th");
+
+            return response()->json(['success' => false, 'message' => 'خطا در محاسبه امتیاز'], 500);
+        }
+    }
+}

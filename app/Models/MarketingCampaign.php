@@ -1,3 +1,33 @@
 <?php
-bolt_decrypt( __FILE__ , '3oVTGC'); return 0;
-##!!!##4OBEN0M7SUY3OTv2F0ZGMiNFOjtCSRHg4EtJO/YfQkJLQz9EN0o7Mho3Sjc4N0k7MhtCRUdLO0RKMiNFOjtCEeDgOUI3SUn2IzdIQTtKP0Q9GTdDRjc/PUT2O05KO0Q6SfYjRTo7QuBR4Pb29vZGSEVKOzlKOzr2+jw/QkI3OEI79hP2MeD29vb29vb29v1EN0M7/QLg9vb29vb29vb9STs9QztESjVKT0Y7/QLg9vb29vb29vb9STs9QztESjVGN0g3Q0n9AuD29vb29vb29v1DO0lJNz07/QLg9vb29vb29vb9P0M3PTs1RjdKPv0C4Pb29vb29vb2/TlKNzVKT0Y7/QLg9vb29vb29vb9OUo3NUY3T0JFNzr9AuD29vb29vb29v1JOT47OktCOzo1N0r9AuD29vb29vb29v1JSjdKS0n9AuD29vb29vb29v1KRUo3QjVLSTtISf0C4Pb29vb29vb2/Uk7REo1S0k7SEn9AuD29vb29vb29v1IOzk/Rj87REo1PzpJ/QLg9vb29vb29vb9STtESjU/Okn9AuD29vb29vb29v08Nz9COzo1PzpJ/QLg9vb29jMR4OD29vb2RkhFSjs5Sjs69vo5N0lKSfYT9jHg9vb29vb29vb9STs9QztESjVGN0g3Q0n99hMU9v03SEg3T/0C4Pb29vb29vb2/Uk5Pjs6S0I7OjU3Sv32ExT2/To3SjtKP0M7/QLg9vb29vb29vb9SDs5P0Y/O0RKNT86Sf32ExT2/TdISDdP/QLg9vb29vb29vb9STtESjU/Okn99hMU9v03SEg3T/0C4Pb29vb29vb2/Tw3P0I7OjU/Okn99hMU9v03SEg3T/0C4Pb29vYzEeBT4A==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class MarketingCampaign extends Model
+{
+    protected $fillable = [
+        'name',
+        'segment_type',
+        'segment_params',
+        'message',
+        'image_path',
+        'cta_type',
+        'cta_payload',
+        'scheduled_at',
+        'status',
+        'total_users',
+        'sent_users',
+        'recipient_ids',
+        'sent_ids',
+        'failed_ids',
+    ];
+
+    protected $casts = [
+        'segment_params' => 'array',
+        'scheduled_at' => 'datetime',
+        'recipient_ids' => 'array',
+        'sent_ids' => 'array',
+        'failed_ids' => 'array',
+    ];
+}

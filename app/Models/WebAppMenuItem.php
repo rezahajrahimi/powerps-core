@@ -1,3 +1,13 @@
 <?php
-bolt_decrypt( __FILE__ , 'uFLq9F'); return 0;
-##!!!##AQFlWGRcamdYWlwXOGdnU0RmW1xjajIBAWxqXBdAY2NsZGBlWGtcUztYa1hZWGpcUzxjZmhsXGVrUz1YWmtmaWBcalM/WGo9WFprZmlwMgFsalwXQGNjbGRgZVhrXFM7WGtYWVhqXFM8Y2ZobFxla1NEZltcYzIBAVpjWGpqF05cWThnZ0RcZWxAa1xkF1xva1xlW2oXRGZbXGMBcgEXFxcXbGpcFz9Yaj1YWmtmaXAyARcXFxdnaWZrXFprXFsXG11gY2NYWWNcFzQXUh5iXHAeIx5rYGtjXB4jHmpsWWtga2NcHiMeYGpWWFprYG1cHiMeZ2ZqYGtgZmUeVDIBAXQB
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class WebAppMenuItem extends Model
+{
+    use HasFactory;
+    protected $fillable = ['key','title','subtitle','is_active','position'];
+
+}

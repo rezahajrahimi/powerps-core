@@ -1,3 +1,55 @@
 <?php
-bolt_decrypt( __FILE__ , 'wVy5LB'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\GroupOperationJob;
+use App\Models\Pannel;
+use Illuminate\Http\Request;
+
+class GroupOperationController extends Controller
+{
+    public function index(Request $request)
+    {
+        $jobs = GroupOperationJob::query()
+            ->orderByDesc('id')
+            ->paginate(10);
+
+        $jobs->getCollection()->transform(function (GroupOperationJob $job) {
+            return $this->formatJob($job);
+        });
+
+        return response()->json($jobs);
+    }
+
+    public function show($id)
+    {
+        $job = GroupOperationJob::find($id);
+        if (! $job) {
+            return response()->json(['status' => 'error', 'message' => 'یافت نشد'], 404);
+        }
+
+        return response()->json($this->formatJob($job));
+    }
+
+    private function formatJob(GroupOperationJob $job): array
+    {
+        $panel = Pannel::find($job->panel_id);
+
+        return [
+            'id' => $job->id,
+            'action' => $job->action,
+            'action_label' => $job->actionLabel(),
+            'panel_id' => $job->panel_id,
+            'panel_type' => $panel?->type,
+            'panel_location' => $panel?->location,
+            'status' => $job->status,
+            'total_configs' => $job->total_configs,
+            'processed_configs' => $job->processed_configs,
+            'success_items' => $job->success_items ?? [],
+            'failed_items' => $job->failed_items ?? [],
+            'error_message' => $job->error_message,
+            'created_at' => $job->created_at?->toIso8601String(),
+            'updated_at' => $job->updated_at?->toIso8601String(),
+        ];
+    }
+}

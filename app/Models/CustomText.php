@@ -1,3 +1,48 @@
 <?php
-bolt_decrypt( __FILE__ , 'mYs0Fw'); return 0;
-##!!!##MDCUh5OLmZaHiYtGZ5aWgnOViouSmWEwMJuZi0ZvkpKbk4+Uh5qLgmqHmoeIh5mLgmuSlZebi5SagmyHiZqVmI+LmYJuh5lsh4malZifYTCbmYtGb5KSm5OPlIeai4Jqh5qHiIeZi4JrkpWXm4uUmoJzlYqLkmEwMImSh5mZRmmbmZqVk3qLnppGi56ai5SKmUZzlYqLkjChMEZGRkabmYtGboeZbIeJmpWYn2EwRkZGRpaYlZqLiZqLikZKmoeIkotGY0ZNiZuZmpWThZqLnpqZTWEwRkZGRpaYlZqLiZqLikZKjI+SkoeIkotGY0aBTZGLn01SRk2Ki4yHm5KahZqLnppNUkZNiZuZmpWThZqLnppNUkZNiouZiZiPlpqPlZRNg2EwMEZGRkaWm4iSj4lGjJuUiZqPlZRGjYuaeouemk5KkYufUkZKnIeYj4eIkouZRmNGgYNPMEZGRkahMEZGRkZGRkZGSpiLiZWYikZjRkqajo+ZU2SdjouYi05NkYufTVJGSpGLn09TZIyPmJmaTk9hMEZGRkZGRkZGj4xGTkqYi4mVmIpGY2NjRpSbkpJPRqEwRkZGRkZGRkZGRkZGmo6YlZ1GlIudRoJ4m5Saj5OLa56Ji5aaj5WUTkhpm5malZNGmouemkaRi59GlJWaRoyVm5SKYEahSpGLn6NIT2EwRkZGRkZGRkajMDBGRkZGRkZGRkqai56aRmNGSpiLiZWYilNkiZuZmpWThZqLnppGZWVGSpiLiZWYilNkiouMh5uSmoWai56aRmVlRk1NYTAwRkZGRkZGRkaYi5qbmJRGSpqOj5lTZJiLlpKHiYt8h5iPh4iSi5lOSpqLnppSRkqch5iPh4iSi5lPYTBGRkZGozAwRkZGRpaYj5yHmotGjJuUiZqPlZRGmIuWkoeJi3yHmI+HiJKLmU5KmouemlJGSpyHmI+HiJKLmU8wRkZGRqEwRkZGRkZGRkaMlZiLh4mORk5KnIeYj4eIkouZRoeZRkqRi59GY2RGSpyHkpuLT0ahMEZGRkZGRkZGRkZGRkqai56aRmNGmZqYhZiLlpKHiYtOTaFNRlRGSpGLn0ZURk2jTVJGSpyHkpuLUkZKmouemk9hMEZGRkZGRkZGozBGRkZGRkZGRpiLmpuYlEZKmouemmEwRkZGRqMwMEZGRkaWm4iSj4lGjJuUiZqPlZRGmYuaeouemk5KkYufUkZKmouemk8wRkZGRqEwRkZGRkZGRkZKmo6PmVNknY6LmItOTZGLn01SRkqRi59PU2SbloqHmotOgU2Jm5malZOFmouemk1GY2RGSpqLnpqDT2EwRkZGRqMwRkZGRpabiJKPiUaMm5SJmo+VlEaNi5pqi4yHm5Kaeouemk5KkYufTzBGRkZGoTBGRkZGRkZGRkqYi4mVmIpGY0ZKmo6PmVNknY6LmItOTZGLn01SRkqRi59PU2SMj5iZmk5PYTBGRkZGRkZGRo+MRk5KmIuJlZiKRmNjY0aUm5KST0ahMEZGRkZGRkZGRkZGRpqOmJWdRpSLnUaCeJuUmo+Ti2ueiYuWmo+VlE5IaZuZmpWTRpqLnppGkYufRpSVmkaMlZuUimBGoUqRi5+jSE9hMEZGRkZGRkZGozAwRkZGRkZGRkaYi5qbmJRGSpiLiZWYilNkiouMh5uSmoWai56aYTBGRkZGozAwozA=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class CustomText extends Model
+{
+    use HasFactory;
+    protected $table = 'custom_texts';
+    protected $fillable = ['key', 'default_text', 'custom_text', 'description'];
+
+    public function getText($key, $variables = [])
+    {
+        $record = $this->where('key', $key)->first();
+        if ($record === null) {
+            throw new \RuntimeException("Custom text key not found: {$key}");
+        }
+
+        $text = $record->custom_text ?? $record->default_text ?? '';
+
+        return $this->replaceVariables($text, $variables);
+    }
+
+    private function replaceVariables($text, $variables)
+    {
+        foreach ($variables as $key => $value) {
+            $text = str_replace('{' . $key . '}', $value, $text);
+        }
+        return $text;
+    }
+
+    public function setText($key, $text)
+    {
+        $this->where('key', $key)->update(['custom_text' => $text]);
+    }
+    public function getDefaultText($key)
+    {
+        $record = $this->where('key', $key)->first();
+        if ($record === null) {
+            throw new \RuntimeException("Custom text key not found: {$key}");
+        }
+
+        return $record->default_text;
+    }
+
+}

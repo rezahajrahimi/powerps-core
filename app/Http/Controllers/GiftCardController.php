@@ -1,3 +1,150 @@
 <?php
-bolt_decrypt( __FILE__ , '3Hv5Sc'); return 0;
-##!!!##5ko9SUFPTD0/QfwdTEw4JFBQTDgfS0pQTktISEFOTxfm5lFPQfwdTEw4KUtAQUhPOCNFQlAfPU5AF+ZRT0H8HUxMOClLQEFITzgxT0FAI0VCUB89TkAX5lFPQfwfPU4+S0o4Hz1OPktKF+ZRT0H8JUhIUUlFSj1QQTgkUFBMOC5BTVFBT1AX5lFPQfwyQU5QPRfm5j9IPU9P/CNFQlAfPU5AH0tKUE5LSEhBTvxBVFBBSkBP/B9LSlBOS0hIQU7mV+b8/Pz8TFE+SEU//EJRSj9QRUtK/D9OQT1QQSpBUyNFQlAfPU5ABC5BTVFBT1D8AE5BTVFBT1AF5vz8/PxX5vz8/Pz8/Pz8AENFQlAfPU5A/Bn8I0VCUB89TkAWFlNEQU5BBAM/S0BBAwj8AE5BTVFBT1AJGj9LQEEFCRpCRU5PUAQFF+b8/Pz8/Pz8/EVC/AQAQ0VCUB89TkAF/Ffm/Pz8/Pz8/Pz8/Pz8TkFQUU5K/E5BT0xLSk9BBAUJGkZPS0oEA0BRTEhFPz1QQQMI/BAMDQUX5vz8/Pz8/Pz8WfxBSE9B/Ffm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5A/Bn8SkFT/CNFQlAfPU5ABAUX5vz8/Pz8/Pz8/Pz8/ABDRUJQHz1OQAkaP0tAQfwZ/ABOQU1RQU9QCRo/S0BBF+b8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAJGk9QPU5QO0A9UEH8GfwATkFNUUFPUAkaT1A9TlA7QD1QQRfm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRpBSkA7QD1QQfwZ/ABOQU1RQU9QCRpBSkA7QD1QQRfm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRpARU8/S1FKUPwZ/ABOQU1RQU9QCRpARU8/S1FKUBfm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRo/S1FKUDtLQjtRT0H8GfwATkFNUUFPUAkaP0tRSlA7S0I7UU9BF+b8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAJGj9LUUpQO0tCO1FPQTtMQU47UU9BTvwZ/ABOQU1RQU9QCRo/S1FKUDtLQjtRT0E7TEFOO1FPQU4X5vz8/Pz8/Pz8/Pz8/ABDRUJQHz1OQAkaTz1SQQQFF+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8AENFQlAfPU5AF+b8/Pz8/Pz8/Fnm/Pz8/Fnm/Pz8/ExRPkhFP/xCUUo/UEVLSvxDQVAjRUJQHz1OQChFT1AEBeb8/Pz8V+b8/Pz8/Pz8/E5BUFFOSvwjRUJQHz1OQBYWPUhIBAUX5vz8/PxZ5vz8/PxMUT5IRT/8QlFKP1BFS0r8UUxAPVBBI0VCUB89TkAELkFNUUFPUPwATkFNUUFPUAXm/Pz8/Ffm/Pz8/Pz8/PwAQ0VCUB89TkD8GfwjRUJQHz1OQBYWU0RBTkEEAz9LQEEDCPwATkFNUUFPUAkaP0tAQQUJGkJFTk9QBAUX5vz8/Pz8/Pz8RUL8BABDRUJQHz1OQAX8V+b8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAJGj9LQEH8GfwATkFNUUFPUAkaP0tAQRfm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRpPUD1OUDtAPVBB/Bn8AE5BTVFBT1AJGk9QPU5QO0A9UEEX5vz8/Pz8/Pz8/Pz8/ABDRUJQHz1OQAkaQUpAO0A9UEH8GfwATkFNUUFPUAkaQUpAO0A9UEEX5vz8/Pz8/Pz8/Pz8/ABDRUJQHz1OQAkaQEVPP0tRSlD8GfwATkFNUUFPUAkaQEVPP0tRSlAX5vz8/Pz8/Pz8/Pz8/ABDRUJQHz1OQAkaP0tRSlA7S0I7UU9B/Bn8AE5BTVFBT1AJGj9LUUpQO0tCO1FPQRfm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRo/S1FKUDtLQjtRT0E7TEFOO1FPQU78GfwATkFNUUFPUAkaP0tRSlA7S0I7UU9BO0xBTjtRT0FOF+b8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAJGlFMQD1QQQQFF+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8UE5RQRfm/Pz8/Pz8/PxZ/EFIT0H8V+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8Qj1IT0EX5vz8/Pz8/Pz8Web8/Pz8Web8/Pz8TFE+SEU//EJRSj9QRUtK/D9EQT9HI0VCUB89TkAdP1BFUkEEAD9LQEEI/ABRT0FAH0tRSlAF5vz8/PxX5vz8/Pz8/Pz8UE5V/Ffm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5A/Bn8I0VCUB89TkAWFlNEQU5BBAM/S0BBAwj8AD9LQEEFCRpCRU5PUAQFF+bm/Pz8/Pz8/Pz8/Pz8RUL8BEVPT0FQBABDRUJQHz1OQAUF/Ffm/Pz8/Pz8/Pz8/Pz8/Pz8/ABQS0A9VfwZ/EpBU/w4ID1QQTBFSUEEBRf8Cwv8MEtAPVUDT/xAPVBB5vz8/Pz8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAgPVBBHkFDRUr8GfxKQVP8OCA9UEEwRUlBBABDRUJQHz1OQAkaT1A9TlA7QD1QQQUX5vz8/Pz8/Pz8/Pz8/Pz8/PwAQ0VCUB89TkAgPVBBIUpA/Bn8SkFT/DggPVBBMEVJQQQAQ0VCUB89TkAJGkFKQDtAPVBBBRfm5vz8/Pz8/Pz8/Pz8/Pz8/PxFQvwEAFBLQD1V/BoZ/ABDRUJQHz1OQCA9UEEeQUNFSvwCAvwAUEtAPVX8GBn8AENFQlAfPU5AID1QQSFKQAX8V+bm/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PxFQvwEAENFQlAfPU5ACRo/S1FKUDtLQjtRT0H8Ghn8AFFPQUAfS1FKUAX8V+bm/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8TkFQUU5K/FBOUUEX5vz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8Webm/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PxOQVBRTkr8Qj1IT0EX5vz8/Pz8/Pz8/Pz8/Pz8/PxZ5ub8/Pz8/Pz8/Pz8/Pz8/Pz8TkFQUU5K/EI9SE9BF+b8/Pz8/Pz8/Pz8/PxZ5ub8/Pz8/Pz8/Pz8/PxOQVBRTkr8Qj1IT0EX5vz8/Pz8/Pz8Wfw/PVA/RPwEODBETktTPT5IQfwAUEQF/Ffm/Pz8/Pz8/Pz8/Pz8OChLQxYWRUpCSwT+UET8GRr8AFBE/gUX5vz8/Pz8/Pz8/Pz8/E5BUFFOSvxCPUhPQRfm5vz8/Pz8/Pz8Webm/Pz8/Fnm/Pz8/ExRPkhFP/xCUUo/UEVLSvxDQVAjRUJQHz1OQB5VH0tAQQQAP0tAQQXm/Pz8/Ffm/Pz8/Pz8/PxOQVBRTkr8I0VCUB89TkAWFlNEQU5BBAM/S0BBAwj8AD9LQEEFCRpCRU5PUAQFF+b8/Pz8Web8/Pz8TFE+SEU//EJRSj9QRUtK/ENBUCNFQj89TkAgRU8/S1FKUAQAP0tAQQXm/Pz8/Ffm/Pz8/Pz8/PwAQ0VCUB89TkD8GfwjRUJQHz1OQBYWU0RBTkEEAz9LQEEDCPwAP0tAQQUJGkJFTk9QBAUX5vz8/Pz8/Pz8RUL8BABDRUJQHz1OQAX8V+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8AENFQlAfPU5ACRpARU8/S1FKUBfm/Pz8/Pz8/PxZ/EFIT0H8V+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8DBfm/Pz8/Pz8/PxZ5vz8/PxZ5vz8/PxMUT5IRT/8QlFKP1BFS0r8QEFIQVBBI0VCUB89TkAeVR9LQEEEAD9LQEEF5vz8/PxX5vz8/Pz8/Pz8AENFQlAfPU5A/Bn8I0VCUB89TkAWFlNEQU5BBAM/S0BBAwj8AD9LQEEFCRpCRU5PUAQFF+b8/Pz8/Pz8/EVC/AQAQ0VCUB89TkAF/Ffm/Pz8/Pz8/Pz8/Pz8AENFQlAfPU5ACRpAQUhBUEEEBRfm/Pz8/Pz8/Pz8/Pz8TkFQUU5K/FBOUUEX5vz8/Pz8/Pz8WfxBSE9B/Ffm/Pz8/Pz8/Pz8/Pz8TkFQUU5K/EI9SE9BF+b8/Pz8/Pz8/Fnm/Pz8/Fnm5vz8/PxMUT5IRT/8QlFKP1BFS0r8Q0FQI0VCUB89TkAxT0FOTwQAP0tAQQXm/Pz8/Ffm/Pz8/Pz8/PwAQ0VCUB89TkD8GfwjRUJQHz1OQBYWU0RBTkEEAz9LQEEDCPwAP0tAQQUJGkJFTk9QBAUX5vz8/Pz8/Pz8RUL8BABDRUJQHz1OQAX8V+b8/Pz8/Pz8/Pz8/PxOQVBRTkr8MU9BQCNFQlAfPU5AFhZTREFOQQQDQ0VCUDs/PU5ATztFQAMI/ABDRUJQHz1OQAkaRUAFCRpTRVBEBANRT0FOAwUJGkNBUAQFF+b8/Pz8/Pz8/Fn8QUhPQfxX5vz8/Pz8/Pz8/Pz8/E5BUFFOSvw3ORfm/Pz8/Pz8/PxZ5vz8/PxZ5ub8/Pz8TFE+SEU//EJRSj9QRUtK/ENBUClFSD1AVSA9UEEEAEtIQCA9UEEF5vz8/PxX5vz8/Pz8/Pz8UE5V/Ffm/Pz8/Pz8/Pz8/Pz8RUL8BABLSEAgPVBB/P0Z/EpRSEgF/Ffm/Pz8/Pz8/Pz8/Pz8/Pz8/ABS/Bn8QVRMSEtAQQQDCwMI/ABLSEAgPVBBBRfm/Pz8/Pz8/Pz8/Pz8/Pz8/ABV/Bn8AFI3DDkX5vz8/Pz8/Pz8/Pz8/Pz8/PwASfwZ/ABSNw05F+b8/Pz8/Pz8/Pz8/Pz8/Pz8AED8GfwAUjcOORfm5vz8/Pz8/Pz8/Pz8/Pz8/PwASkFTID1Q/Bn8MkFOUD0WFkY9SD1IRTBLI05BQ0tORT1KBABVCPwASQj8AEAFF+b8/Pz8/Pz8/Pz8/Pz8/Pz8AD89TvwZ/EpBU/wfPU4+S0oEBRfm/Pz8/Pz8/Pz8/Pz8/Pz8/AA/PU4JGlVBPU78GfwASkFTID1QNww5F+b8/Pz8/Pz8/Pz8/Pz8/Pz8AD89TgkaSUtKUET8GfwASkFTID1QNw05F+b8/Pz8/Pz8/Pz8/Pz8/Pz8AD89TgkaQD1V/Bn8AEpBUyA9UDcOORfm/Pz8/Pz8/Pz8/Pz8/Pz8/E5BUFFOSvwAPz1OF+b8/Pz8/Pz8/Pz8/PxZ/EFIT0H8V+b8/Pz8/Pz8/Pz8/Pz8/Pz8TkFQUU5K/EpRSEgX5vz8/Pz8/Pz8/Pz8/Fnm/Pz8/Pz8/PxZ/D89UD9E/AQ4MEROS1M9PkhB/ABQRAX8V+b8/Pz8/Pz8/Pz8/PxFQvwEAEtIQCA9UEH8/Rn8SlFISAX8V+b8/Pz8/Pz8/Pz8/Pz8/Pz8AFL8GfxBVExIS0BBBAMJAwj8AEtIQCA9UEEFF+b8/Pz8/Pz8/Pz8/Pz8/Pz8AFX8GfwAUjcMORfm/Pz8/Pz8/Pz8/Pz8/Pz8/ABJ/Bn8AFI3DTkX5vz8/Pz8/Pz8/Pz8/Pz8/PwAQPwZ/ABSNw45F+bm/Pz8/Pz8/Pz8/Pz8/Pz8/ABKQVMgPVD8GfwyQU5QPRYWRj1IPUhFMEsjTkFDS05FPUoEAFUI/ABJCPwAQAUX5vz8/Pz8/Pz8/Pz8/Pz8/PwAPz1O/Bn8SkFT/B89Tj5LSgQFF+b8/Pz8/Pz8/Pz8/Pz8/Pz8AD89TgkaVUE9TvwZ/ABKQVMgPVA3DDkX5vz8/Pz8/Pz8/Pz8/Pz8/PwAPz1OCRpJS0pQRPwZ/ABKQVMgPVA3DTkX5vz8/Pz8/Pz8/Pz8/Pz8/PwAPz1OCRpAPVX8GfwASkFTID1QNw45F+b8/Pz8/Pz8/Pz8/Pz8/Pz8TkFQUU5K/AA/PU4X5vz8/Pz8/Pz8/Pz8/Fn8QUhPQfxX5vz8/Pz8/Pz8/Pz8/Pz8/PxOQVBRTkr8SlFISBfm/Pz8/Pz8/Pz8/Pz8Web8/Pz8/Pz8/Fnm/Pz8/FnmWeY=
+namespace App\Http\Controllers;
+
+use App\Models\GiftCard;
+use App\Models\UsedGiftCard;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+use Verta;
+
+class GiftCardController extends Controller
+{
+    public function createNewGiftCard(Request $request)
+    {
+        $giftCard = GiftCard::where('code', $request->code)->first();
+        if ($giftCard) {
+            return response()->json('duplicate', 401);
+        } else {
+            $giftCard = new GiftCard();
+            $giftCard->code = $request->code;
+            $giftCard->start_date = $request->start_date;
+            $giftCard->end_date = $request->end_date;
+            $giftCard->discount = $request->discount;
+            $giftCard->count_of_use = $request->count_of_use;
+            $giftCard->count_of_use_per_user = $request->count_of_use_per_user;
+            $giftCard->save();
+            return $giftCard;
+        }
+    }
+    public function getGiftCardList()
+    {
+        return GiftCard::all();
+    }
+    public function updateGiftCard(Request $request)
+    {
+        $giftCard = GiftCard::where('code', $request->code)->first();
+        if ($giftCard) {
+            $giftCard->code = $request->code;
+            $giftCard->start_date = $request->start_date;
+            $giftCard->end_date = $request->end_date;
+            $giftCard->discount = $request->discount;
+            $giftCard->count_of_use = $request->count_of_use;
+            $giftCard->count_of_use_per_user = $request->count_of_use_per_user;
+            $giftCard->update();
+            return true;
+        } else {
+            return false;
+        }
+    }
+    public function checkGiftCardActive($code, $usedCount)
+    {
+        try {
+            $giftCard = GiftCard::where('code', $code)->first();
+
+            if (isset($giftCard)) {
+                $today = new \DateTime(); // Today's date
+                $giftCardDateBegin = new \DateTime($giftCard->start_date);
+                $giftCardDateEnd = new \DateTime($giftCard->end_date);
+
+                if ($today >= $giftCardDateBegin && $today <= $giftCardDateEnd) {
+
+                    if ($giftCard->count_of_use >= $usedCount) {
+
+                        return true;
+                    }
+
+                    return false;
+                }
+
+                return false;
+            }
+
+            return false;
+        } catch (\Throwable $th) {
+            \Log::info("th => $th");
+            return false;
+
+        }
+
+    }
+    public function getGiftCardByCode($code)
+    {
+        return GiftCard::where('code', $code)->first();
+    }
+    public function getGifcardDiscount($code)
+    {
+        $giftCard = GiftCard::where('code', $code)->first();
+        if ($giftCard) {
+            return $giftCard->discount;
+        } else {
+            return 0;
+        }
+    }
+    public function deleteGiftCardByCode($code)
+    {
+        $giftCard = GiftCard::where('code', $code)->first();
+        if ($giftCard) {
+            $giftCard->delete();
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public function getGiftCardUsers($code)
+    {
+        $giftCard = GiftCard::where('code', $code)->first();
+        if ($giftCard) {
+            return UsedGiftCard::where('gift_cards_id', $giftCard->id)->with('user')->get();
+        } else {
+            return [];
+        }
+    }
+
+    public function getMiladyDate($oldDate)
+    {
+        try {
+            if ($oldDate != null) {
+                $v = explode('/', $oldDate);
+                $y = $v[0];
+                $m = $v[1];
+                $d = $v[2];
+
+                $newDat = Verta::jalaliToGregorian($y, $m, $d);
+                $car = new Carbon();
+                $car->year = $newDat[0];
+                $car->month = $newDat[1];
+                $car->day = $newDat[2];
+                return $car;
+            } else {
+                return null;
+            }
+        } catch (\Throwable $th) {
+            if ($oldDate != null) {
+                $v = explode('-', $oldDate);
+                $y = $v[0];
+                $m = $v[1];
+                $d = $v[2];
+
+                $newDat = Verta::jalaliToGregorian($y, $m, $d);
+                $car = new Carbon();
+                $car->year = $newDat[0];
+                $car->month = $newDat[1];
+                $car->day = $newDat[2];
+                return $car;
+            } else {
+                return null;
+            }
+        }
+    }
+}

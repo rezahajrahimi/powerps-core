@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , '5W36K6'); return 0;
-##!!!##gIDk1+Pb6ebX2duWt+bm0sPl2tvi6bGAgOvp25a/4uLr49/k1+rb0rrX6tfY1+nb0rvi5efr2+Tq0sPl2tvisYCA2eLX6emWwuXv1+Lq78ro1+Tp19nq3+Xkltvu6tvk2umWw+Xa2+KA8YCWlpaW5uvY4t/Zltnl5OnqlsrPxrvVu7fIxJazlp3b1+jknbGAgJaWlpbm69ji39mW2eXk6eqWys/Gu9XIu7q7u8OWs5ad6Nva29vjnbGAgJaWlpbm69ji39mW2eXk6eqWys/Gu9W3usO/xJazlp3X2uPf5NXX2uDr6eqdsYCAlpaWlubr2OLf2ZbZ5eTp6pbKz8a71ci7vMvEupazlp3o29zr5NqdsYCAlpaWlubo5erb2erb2paa3evX6Nrb2pazltGd39qd07GAgJaWlpbm6OXq29nq29qWmtnX6erplrOW0YCWlpaWlpaWlp3m5d/k6umdlrO0lp3f5Orb3dvonaKAlpaWltOxgICWlpaW5uvY4t/Zltzr5Nnq3+Xkluvp2+ien4CWlpaW8YCWlpaWlpaWlujb6uvo5Jaa6t7f6aO02Nvi5eTd6crlnsvp2+iwsNni1+npn7GAlpaWlvOAgJaWlpbm69ji39mW3Ovk2erf5eSW2+zb5OrC19jb4p6fsJbp6ujf5N2AlpaWlvGAlpaWlpaWlpbo2+rr6OSW49fq2d6Wnprq3t/po7Tb7Nvk6p+W8YCWlpaWlpaWlpaWlpad5uvo2d7X6dudlrO0lp1OJE4nUQJOJZ2igJaWlpaWlpaWlpaWlp3o2+Tb7dfinZaztJadTiBP+04lUQJOJZ2igJaWlpaWlpaWlpaWlp3a2+bl6d/qnZaztJadT/5OHU4nUQJOKJ2igJaWlpaWlpaWlpaWlp3o29zb6OjX4tXp393k6+adlrO0lp1P+04vTidP91ECnaKAlpaWlpaWlpaWlpaWndne29nh5evqnZaztJadTh1OKU4gT/dOHU4lT/2WTiVOJ5ZOJE4nUQJOJZ2igJaWlpaWlpaWlpaWlp3X2uPf5J2Ws7SWnU4gTjBRAlECTieWT/tOJVECTiedooCWlpaWlpaWlpaWlpba29zX6+LqlrO0lprq3t/po7Tb7Nvk6pa1tZadTh1P+04gUQJOHU4onaKAlpaWlpaWlpbzsYCWlpaW84DzgA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class LoyaltyTransaction extends Model
+{
+    public const TYPE_EARN = 'earn';
+
+    public const TYPE_REDEEM = 'redeem';
+
+    public const TYPE_ADMIN = 'admin_adjust';
+
+    public const TYPE_REFUND = 'refund';
+
+    protected $guarded = ['id'];
+
+    protected $casts = [
+        'points' => 'integer',
+    ];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
+
+    public function eventLabel(): string
+    {
+        return match ($this->event) {
+            'purchase' => 'خرید',
+            'renewal' => 'تمدید',
+            'deposit' => 'واریز',
+            'referral_signup' => 'معرفی',
+            'checkout' => 'استفاده در خرید',
+            'admin' => 'تغییر مدیر',
+            default => $this->event ?? 'امتیاز',
+        };
+    }
+}

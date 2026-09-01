@@ -1,3 +1,13 @@
 <?php
-bolt_decrypt( __FILE__ , 'IbUiey'); return 0;
-##!!!##UVG1qLSsureoqqxniLe3o5S2q6yzuoJRUby6rGeQs7O8tLC1qLuso4uou6ipqLqso4yztri8rLW7o42oqru2ubCsuqOPqLqNqKq7trnAglG8uqxnkLOzvLSwtai7rKOLqLuoqai6rKOMs7a4vKy1u6OUtquss4JRUaqzqLq6Z4i3t7Owqqi7sLa1Z6y/u6y1q7pnlLarrLNRwlFnZ2dnvLqsZ4+ouo2oqru2ucCCUWdnZ2e3uba7rKq7rKtna668qLmrrKtnhGeibrCrbqSCUWdnZ2e3uba7rKq7rKtna62ws7OoqbOsZ4Rnom61qLSsbnNnbqu2vrWztqirprOwtbJuc2durbCzrKa6uapuc2dutrpuc2dur7a+pru2pry6rG5zZ26rrLqqubC3u7C2tW5zZ27Atry5vKmsprOwtbJuc2dusLqmqKq7sL2sbqSCUcRR
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Application extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'download_link', 'file_src', 'os', 'how_to_use', 'description', 'yourube_link', 'is_active'];
+}

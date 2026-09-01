@@ -1,3 +1,83 @@
 <?php
-bolt_decrypt( __FILE__ , '3bEZN7'); return 0;
-##!!!##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
+
+namespace App\Services;
+
+use App\Http\Controllers\CronJobController;
+use App\Models\BotUser;
+use App\Models\Product;
+use App\Models\AccountBallance;
+use App\Models\User;
+use Illuminate\Support\Carbon;
+
+class MarketingSegmentService
+{
+    /**
+     * @return array<int, string> account_ids
+     */
+    public function resolveRecipients(string $segmentType, ?array $params = null): array
+    {
+        $params = $params ?? [];
+
+        return match ($segmentType) {
+            'all' => BotUser::pluck('account_id')->toArray(),
+            'selected' => array_values(array_filter($params['account_ids'] ?? [])),
+            'no_config' => $this->usersWithoutConfigs(),
+            'never_purchased' => $this->usersNeverPurchased(),
+            'user_group' => $this->usersInGroup((int) ($params['user_group_id'] ?? 0)),
+            'low_balance' => $this->usersWithLowBalance((float) ($params['max_balance'] ?? 10000)),
+            'inactive_days' => $this->inactiveUsers((int) ($params['days'] ?? 30)),
+            default => [],
+        };
+    }
+
+    private function usersWithoutConfigs(): array
+    {
+        $buyers = Product::distinct()->pluck('account_id')->toArray();
+
+        return BotUser::whereNotIn('account_id', $buyers)->pluck('account_id')->toArray();
+    }
+
+    private function usersNeverPurchased(): array
+    {
+        return $this->usersWithoutConfigs();
+    }
+
+    private function usersInGroup(int $groupId): array
+    {
+        if ($groupId <= 0 || ! User::hasUserGroupColumn()) {
+            return [];
+        }
+
+        return User::where('user_group_id', $groupId)->pluck('account_id')->filter()->toArray();
+    }
+
+    private function usersWithLowBalance(float $maxBalance): array
+    {
+        return AccountBallance::where('ballance', '<', $maxBalance)
+            ->pluck('account_id')
+            ->toArray();
+    }
+
+    private function inactiveUsers(int $days): array
+    {
+        $since = Carbon::now()->subDays($days);
+        $activeBuyers = Product::where('created_at', '>=', $since)->distinct()->pluck('account_id')->toArray();
+
+        return BotUser::whereNotIn('account_id', $activeBuyers)->pluck('account_id')->toArray();
+    }
+
+    public function buildCtaButtons(?string $ctaType, ?string $ctaPayload): array
+    {
+        if ($ctaType === null || $ctaType === '') {
+            return [];
+        }
+
+        return match ($ctaType) {
+            'buy_menu' => [['خرید اشتراک' => 'openBuySubscription']],
+            'add_balance' => [['افزایش موجودی' => 'accountAddBalance']],
+            'promo_code' => $ctaPayload ? [['استفاده از کد تخفیف' => "applyPromo-{$ctaPayload}"]] : [],
+            'recharge_product' => $ctaPayload ? [['تمدید بسته' => "recharge-{$ctaPayload}"]] : [],
+            default => [],
+        };
+    }
+}

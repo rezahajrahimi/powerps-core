@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'DOe62B'); return 0;
-##!!!##rKwQAw8HFRIDBQfC4xIS/u8RBgcOFd2srBcVB8LrDg4XDwsQAxYH/uYDFgMEAxUH/ucOERMXBxAW/ugDBRYRFAsHFf7qAxXoAwUWERQb3awXFQfC6w4OFw8LEAMWB/7mAxYDBAMVB/7nDhETFwcQFv7vEQYHDt2srAUOAxUVwvUHFBgLBQf2GxIHwgcaFgcQBhXC7xEGBw6sHazCwsLCFxUHwuoDFegDBRYRFBvdrMLCwsISFBEWBwUWBwbCxgkXAxQGBwbC38L9yQsGyf/drMLCwsISFBEWBwUWBwbCxggLDg4DBA4Hwt/C/ckVBxQYCwUHARADDwfJ/92srKzCwsLCwsLCwhIXBA4LBcIIFxAFFgsREMISFBEGFwUWAQUDFgcJERQbysvcwuoDFe8DEBuswsLCwsLCwsIdrMLCwsLCwsLCwsLCwhQHFhcUEMLGFgoLFc/gCgMV7wMQG8ryFBEGFwUW5QMWBwkRFBvc3AUOAxUVzsLJFQcUGAsFBwEWGxIHFQELBsnL3azCwsLCwsLCwh+srKwfrA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ServiceType extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['service_name'];
+
+
+        public function product_category(): HasMany
+        {
+            return $this->hasMany(ProductCategory::class, 'service_types_id');
+        }
+
+
+}

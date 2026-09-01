@@ -1,3 +1,54 @@
 <?php
-bolt_decrypt( __FILE__ , '8vVl2y'); return 0;
-##!!!##JSWJfIiAjot8foA7XIuLd2OPj4t3XoqJj42Kh4eAjY5WJSWQjoA7XIuLd2OPj4t3XoqJj42Kh4eAjY53b418iY58fo+EioleiomPjYqHh4CNViWQjoA7XIuLd2OPj4t3XoqJj42Kh4eAjY53b418iY58fo+EiolejZSLj4peiomPjYqHh4CNViWQjoA7ZIeHkIiEiXyPgHdjj4+Ld22AjJCAjo9WJSV+h3yOjjtygH1xhICSXoqJj42Kh4eAjTuAk4+AiX+OO16KiY+NioeHgI0lliU7Ozs7i5B9h4R+O4GQiX6PhIqJO5KAh36KiIBDRCU7Ozs7liU7Ozs7Ozs7O42Aj5CNiTuRhICSQ0KSgId+ioiAQkRWJTs7OzuYJSU7Ozs7i5B9h4R+O4GQiX6PhIqJO46DiotDjo+NhImCOz98fn6KkImPeoR/RzuOj42EiYI7P4SJkYqEfoBkX0c7jo+NhImCOz+LjYR+gEQlOzs7O5YlOzs7Ozs7OzuNgI+QjYk7kYSAkkNCjoOKi0JHO3YlOzs7Ozs7Ozs7Ozs7Qnx+foqQiY96hH9CO1hZOz98fn6KkImPeoR/RyU7Ozs7Ozs7Ozs7OztChImRioR+gGRfQjtYWTs/hImRioR+gGRfRyU7Ozs7Ozs7Ozs7OztCi42EfoBCO1hZOz+LjYR+gEclOzs7Ozs7Ozt4RFYlOzs7O5glJTs7OzuLkH2HhH47gZCJfo+Eiok7io1/gI1tgH+EjYB+j0NtgIyQgI6POz+NgIyQgI6PRCU7Ozs7liU7Ozs7Ozs7O0pKO2aAgIs7dXyNhImLfIc7jJCAjZQ7i3yNfIiOO0NckI+Dio2Ej5RKbo98j5CORDuSg4CJO4N8iX+EiYI7ioGBO4+KO5GAjYSBlEklOzs7Ozs7OzuNgI+QjYk7fIuLQ2+NfImOfH6PhIqJXoqJj42Kh4eAjVVVfod8jo5ESFmKjX+AjUM/jYCMkICOj0RWJTs7OzuYJSU7Ozs7i5B9h4R+O4GQiX6PhIqJO36NlIuPimt8lIiAiY9Djo+NhImCOz98fn6KkImPeoR/RzuOj42EiYI7P4SJkYqEfoBkX0c7jo+NhImCOz+LjYR+gEQlOzs7O5YlOzs7Ozs7OzuNgI+QjYk7kYSAkkNCfo2Ui4+KQkc7diU7Ozs7Ozs7Ozs7OztCfH5+ipCJj3qEf0I7WFk7P3x+foqQiY96hH9HJTs7Ozs7Ozs7Ozs7O0KEiZGKhH6AZF9CO1hZOz+EiZGKhH6AZF9HJTs7Ozs7Ozs7Ozs7O0KLjYR+gEI7WFk7P4uNhH6ARyU7Ozs7Ozs7O3hEViU7Ozs7mCUlOzs7O4uQfYeEfjuBkIl+j4SKiTuLfJR9fH6GQ0QlOzs7O5YlOzs7Ozs7Ozs/j418iY58fo+Eiol6hH87WDuNgIyQgI6PQ0RIWYyQgI2UQ0Jpa3qEf0JEViUlOzs7Ozs7OzuNgI+QjYk7jYB/hI2Afo9DREhZfH6PhIqJQyU7Ozs7Ozs7Ozs7Ozt2b418iY58fo+EiolejZSLj4peiomPjYqHh4CNVVV+h3yOjkc7QoqNf4CNbpB+foCOjkJ4RyU7Ozs7Ozs7Ozs7Ozt2Qo+NfImOfH6PhIqJeoR/QjtYWTs/j418iY58fo+Eiol6hH94RyU7Ozs7Ozs7O0RWJTs7OzuYJSU7Ozs7i5B9h4R+O4GQiX6PhIqJO358iX6Ah2t8lENEJTs7OzuWJTs7Ozs7Ozs7jYCPkI2JO0L02fPM88rzwvPJ88U788/0oPPCO/Sf89X0ozvzz/PKSUJWJTs7OzuYJZgl
+
+namespace App\Http\Controllers;
+
+use App\Http\Controllers\TransactionController;
+use App\Http\Controllers\TransactionCryptoController;
+use Illuminate\Http\Request;
+
+class WebViewController extends Controller
+{
+    public function welcome()
+    {
+        return view('welcome');
+    }
+
+    public function shop(string $account_id, string $invoiceID, string $price)
+    {
+        return view('shop', [
+            'account_id' => $account_id,
+            'invoiceID' => $invoiceID,
+            'price' => $price,
+        ]);
+    }
+
+    public function orderRedirect(Request $request)
+    {
+        // Keep Zarinpal query params (Authority/Status) when handing off to verify.
+        return app(TransactionController::class)->order($request);
+    }
+
+    public function cryptoPayment(string $account_id, string $invoiceID, string $price)
+    {
+        return view('crypto', [
+            'account_id' => $account_id,
+            'invoiceID' => $invoiceID,
+            'price' => $price,
+        ]);
+    }
+
+    public function payback()
+    {
+        $transaction_id = request()->query('NP_id');
+
+        return redirect()->action(
+            [TransactionCryptoController::class, 'orderSuccess'],
+            ['transaction_id' => $transaction_id],
+        );
+    }
+
+    public function cancelPay()
+    {
+        return 'پرداخت شما لغو شد.';
+    }
+}

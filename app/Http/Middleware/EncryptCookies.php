@@ -1,3 +1,17 @@
 <?php
-bolt_decrypt( __FILE__ , 'z6efRN'); return 0;
-##!!!##JSWJfIiAjot8foA7XIuLd2OPj4t3aIR/f4eAknyNgFYlJZCOgDtkh4eQiISJfI+Ad16KioaEgHdohH9/h4CSfI2Ad2CJfo2Ui49eioqGhICOO3yOO2iEf3+HgJJ8jYBWJSV+h3yOjjtgiX6NlIuPXoqKhoSAjjuAk4+AiX+OO2iEf3+HgJJ8jYAlliU7Ozs7SkVFJTs7Ozs7RTtvg4A7iXyIgI47ioE7j4OAO36KioaEgI47j4N8jzuOg4qQh387iYqPO32AO4CJfo2Ui4+Af0klOzs7OztFJTs7Ozs7RTtbkXyNO3yNjXyUV4SJj0c7jo+NhImCWSU7Ozs7O0VKJTs7OzuLjYqPgH6PgH87P4CTfoCLjztYO3YlOzs7Ozs7OztKSiU7Ozs7eFYlmCU=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Cookie\Middleware\EncryptCookies as Middleware;
+
+class EncryptCookies extends Middleware
+{
+    /**
+     * The names of the cookies that should not be encrypted.
+     *
+     * @var array<int, string>
+     */
+    protected $except = [
+        //
+    ];
+}

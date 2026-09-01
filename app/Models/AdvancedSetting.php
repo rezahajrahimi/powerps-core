@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'bwXP5v'); return 0;
-##!!!##NjaajZmRn5yNj5FMbZyciHmbkJGYn2c2NqGfkUx1mJihmZWajaCRiHCNoI2OjZ+RiHGYm52hkZqgiHKNj6CbnpWRn4h0jZ9yjY+gm56lZzahn5FMdZiYoZmVmo2gkYhwjaCNjo2fkYhxmJudoZGaoIh5m5CRmGc2No+YjZ+fTG2Qoo2aj5GQf5GgoJWak0yRpKCRmpCfTHmbkJGYNqc2TExMTKGfkUx0jZ9yjY+gm56lZzY2TExMTJyem6CRj6CRkExQkpWYmI2OmJFMaUyHNkxMTExMTExMU46boIuflJuji4+bmpKVk5+LjqWLnI2akZifi4+NoJGTm56lU1g2TExMTExMTExTjpugi42hoJuLn5Ggi5yelY+Ri46li5CbmJiNnoucnpWPkVNYNkxMTExMTExMU46boIuflJuji6ORjouNnJyLmJWal4uVmougkZiRk56NmYuSm56LjZiYi6GfkZ6fU1g2TExMTExMTExTjpugi5+Um6OLm5qRi56bo4uPm5qSlZNTWDZMTExMiWc2qTY=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AdvancedSetting extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'bot_show_configs_by_panels_category',
+        'bot_auto_set_price_by_dollar_price',
+        'bot_show_web_app_link_in_telegram_for_all_users',
+        'bot_show_one_row_config',
+    ];
+}

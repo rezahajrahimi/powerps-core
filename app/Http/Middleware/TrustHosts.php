@@ -1,3 +1,20 @@
 <?php
-bolt_decrypt( __FILE__ , 'JwTwYD'); return 0;
-##!!!##MzOXipaOnJmKjI5JapmZhXGdnZmFdpKNjZWOoIqbjmQzM56cjklylZWelpKXip2OhXGdnZmFdpKNjZWOoIqbjoV9m56cnXGYnJ2cSYqcSXaSjY2VjqCKm45kMzOMlYqcnEl9m56cnXGYnJ2cSY6hnY6XjZxJdpKNjZWOoIqbjjOkM0lJSUlYU1MzSUlJSUlTSXCOnUmdkY5JkZicnUmZip2djpuXnEmdkYqdSZyRmJ6VjUmLjkmdm56cnY6NVzNJSUlJSVMzSUlJSUlTSWmbjp2em5dJipubiqJlkpedVUmcnZuSl5Cll56VlWczSUlJSUlTWDNJSUlJmZ6LlZKMSY+el4ydkpiXSZGYnJ2cUVJjSYqbm4qiM0lJSUmkM0lJSUlJSUlJm46dnpuXSYQzSUlJSUlJSUlJSUlJTZ2RkpxWZ4qVlXyei42YloqSl5x4j2qZmZWSjIqdkpiXfpuVUVJVM0lJSUlJSUlJhmQzSUlJSaYzpjM=
+
+namespace App\Http\Middleware;
+
+use Illuminate\Http\Middleware\TrustHosts as Middleware;
+
+class TrustHosts extends Middleware
+{
+    /**
+     * Get the host patterns that should be trusted.
+     *
+     * @return array<int, string|null>
+     */
+    public function hosts(): array
+    {
+        return [
+            $this->allSubdomainsOfApplicationUrl(),
+        ];
+    }
+}

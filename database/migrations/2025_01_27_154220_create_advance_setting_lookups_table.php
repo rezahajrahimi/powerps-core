@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('advance_setting_lookups', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('value');
+            $table->text('value');
             $table->string('description')->nullable();
             $table->timestamps();
         });

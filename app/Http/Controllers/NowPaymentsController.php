@@ -1,3 +1,56 @@
 <?php
-bolt_decrypt( __FILE__ , 'c9mb0j'); return 0;
-##!!!##Dw9zZnJqeHVmaGolRnV1YU15eXVhSHRzeXd0cXFqd3hADw96eGolTnFxenJuc2Z5amFNeXl1YVdqdnpqeHlADw96eGolRnV1YU15eXVhV2p2emp4eXhAD3p4aiVGdXVhTXl5dWFIdHN5d3RxcWp3eGFIdHN5d3RxcWp3QA96eGolTnFxenJuc2Z5amFYenV1dHd5YUtmaGZpanhhV2ppbndqaHlAD3p4aiVVd2p7Zm5xSn1oanFhU3R8dWZ+cmpzeXhhS2ZoZmlqeGFTdHx1Zn5yanN5eEAPaHFmeHglU3R8VWZ+cmpzeXhIdHN5d3RxcWp3JWp9eWpzaXglSHRzeXd0cXFqdw+ADyUlJSV1emdxbmgla3pzaHludHMlaHdqZnlqSHd+dXl0TnN7dG5oai1XanZ6anh5JSl3anZ6anh5Lg8lJSUlgA8lJSUlJSUlJXl3fiWADyUlJSUlJSUlJSUlJSlpZnlmJUIlYA8lJSUlJSUlJSUlJSUlJSUlLHV3bmhqZGZydHpzeSwlQkMlKXdqdnpqeHkyQ2ZydHpzeTEPJSUlJSUlJSUlJSUlJSUlJSx1d25oamRoend3anNofiwlQkMlLHp4aSwxDyUlJSUlJSUlJSUlJSUlJSUsdHdpandkbmksJUJDJSl3anZ6anh5MkN0d2lqd2RuaTEPJSUlJSUlJSUlJSUlJSUlJSx0d2lqd2Rpanhod251eW50cywlQkMlKXdqdnpqeHkyQ3R3aWp3ZGlqeGh3bnV5bnRzMQ8lJSUlJSUlJSUlJSUlJSUlLG51c2RoZnFxZ2ZocGR6d3EsJUJDJSl3anZ6anh5MkNudXNkaGZxcWdmaHBkendxMQ8lJSUlJSUlJSUlJSUlJSUlLHh6aGhqeHhkendxLCVCQyUpd2p2emp4eTJDeHpoaGp4eGR6d3ExDyUlJSUlJSUlJSUlJSUlJSUsaGZzaGpxZHp3cSwlQkMlKXdqdnpqeHkyQ2hmc2hqcWR6d3ExDyUlJSUlJSUlJSUlJSUlJSUsdWZ3eW5mcXF+ZHVmbmlkendxLCVCQyUpd2p2emp4eTJDdWZ3eW5mcXF+ZHVmbmlkendxMQ8lJSUlJSUlJSUlJSUlJSUlLG54ZGtufWppZHdmeWosJUJDJSl3anZ6anh5MkNueGRrbn1qaWR3ZnlqJUJCJTYlRCV5d3pqJT8la2ZxeGoxDyUlJSUlJSUlJSUlJSUlJSUsbnhka2pqZHVmbmlkZ35kenhqdywlQkMlKXdqdnpqeHkyQ254ZGtqamR1Zm5pZGd+ZHp4anclQkIlNiVEJXl3emolPyVrZnF4ajEPJSUlJSUlJSUlJSUlYkAPJSUlJSUlJSUlJSUlNDQlKWlmeWYlQiVgDyUlJSUlJSUlJSUlJTQ0JSUlJSUsdXduaGpkZnJ0enN5LCVCQyU2NTEPJSUlJSUlJSUlJSUlNDQlJSUlJSx1d25oamRoend3anNofiwlQkMlLHp4aSwxDyUlJSUlJSUlJSUlJTQ0JSUlJSUsdHdpandkbmksJUJDJXpzbnZuaS0uMQ8lJSUlJSUlJSUlJSU0NCUlJSUlLHR3aWp3ZGlqeGh3bnV5bnRzLCVCQyUsRnV1cWolUmZoZ3R0cCVVd3QlNzU2PiV9JTYsMQ8lJSUlJSUlJSUlJSU0NCUlJSUlLG51c2RoZnFxZ2ZocGR6d3EsJUJDJSxteXl1eD80NHN0fHVmfnJqc3l4M250LDEPJSUlJSUlJSUlJSUlNDQlJSUlJSx4emhoanh4ZHp3cSwlQkMlLG15eXV4PzQ0c3R8dWZ+cmpzeXgzbnQsMQ8lJSUlJSUlJSUlJSU0NCUlJSUlLGhmc2hqcWR6d3EsJUJDJSxteXl1eD80NHN0fHVmfnJqc3l4M250LDEPJSUlJSUlJSUlJSUlNDQlJSUlJSx1Znd5bmZxcX5kdWZuaWR6d3EsJUJDJSxteXl1eD80NHN0fHVmfnJqc3l4M250LDEPJSUlJSUlJSUlJSUlNDQlJSUlJSxueGRrbn1qaWR3ZnlqLCVCQyV5d3pqMQ8lJSUlJSUlJSUlJSU0NCUlJSUlLG54ZGtqamR1Zm5pZGd+ZHp4ancsJUJDJWtmcXhqMQ8lJSUlJSUlJSUlJSU0NCViQA8PJSUlJSUlJSUlJSUlKXVmfnJqc3lJanlmbnF4JUIlU3R8dWZ+cmpzeXg/P2h3amZ5ak5ze3RuaGotKWlmeWYuQA8PJSUlJSUlJSUlJSUlNDQlaWktKXVmfnJqc3lJanlmbnF4LkAPJSUlJSUlJSUlJSUlNDQlU3R8JX50eiVtZntqJXltaiV1Zn5yanN5JWlqeWZucXgxDyUlJSUlJSUlJSUlJTQ0JX50eiVoZnMleW1qcyV3amlud2poeSV0dyVpdCV8bWZ5antqdyV+dHolfGZzeQ8PJSUlJSUlJSUlJSUlNDQld2p5endzJVdqaW53amh5Pz9nZmhwLS4yQ3xueW0tYCxyeGwsJUJDJSxVZn5yanN5JWh3amZ5amkleHpoaGp4eGt6cXF+LDElLHl+dWosJUJDJSx4emhoanh4LGIxJSl1Zn5yanN5SWp5Zm5xeGAsbnN7dG5oamR6d3EsYi5ADyUlJSUlJSUlJSUlJXdqeXp3cyV3amlud2poeS0uMkN5dC0pdWZ+cmpzeUlqeWZucXhgLG5ze3RuaGpkendxLGIuQA8lJSUlJSUlJSUlJSU0NCV3anl6d3MlV2ppbndqaHk/P2dmaHAtLjJDfG55bS0pdWZ+cmpzeUlqeWZucXhgLG5ze3RuaGpkendxLGIuQA8lJSUlJSUlJYIlaGZ5aG0lLWFKfWhqdXludHMlKWouJYAPJSUlJSUlJSUlJSUlYVF0bD8/bnNrdC0nSn1oanV5bnRzJSlqJy5ADyUlJSUlJSUlJSUlJXdqeXp3cyVXamlud2poeT8/Z2ZocC0uMkN8bnltUmp4eGZsai1gLHJ4bCwlQkMlJ1ltandqLHglZnMland3dHclbnMleW1qJWlmeWYnMSUseX51aiwlQkMlLGp3d3R3LGIuQA8lJSUlJSUlJYIPJSUlJYIPD4IP
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+use App\Http\Requests;
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Redirect;
+use PrevailExcel\Nowpayments\Facades\Nowpayments;
+class NowPaymentsController extends Controller
+{
+    public function createCryptoInvoice(Request $request)
+    {
+        try {
+            $data = [
+                'price_amount' => $request->amount,
+                'price_currency' => 'usd',
+                'order_id' => $request->order_id,
+                'order_description' => $request->order_description,
+                'ipn_callback_url' => $request->ipn_callback_url,
+                'success_url' => $request->success_url,
+                'cancel_url' => $request->cancel_url,
+                'partially_paid_url' => $request->partially_paid_url,
+                'is_fixed_rate' => $request->is_fixed_rate == 1 ? true : false,
+                'is_fee_paid_by_user' => $request->is_fee_paid_by_user == 1 ? true : false,
+            ];
+            // $data = [
+            //     'price_amount' => 10,
+            //     'price_currency' => 'usd',
+            //     'order_id' => uniqid(),
+            //     'order_description' => 'Apple Macbook Pro 2019 x 1',
+            //     'ipn_callback_url' => 'https://nowpayments.io',
+            //     'success_url' => 'https://nowpayments.io',
+            //     'cancel_url' => 'https://nowpayments.io',
+            //     'partially_paid_url' => 'https://nowpayments.io',
+            //     'is_fixed_rate' => true,
+            //     'is_fee_paid_by_user' => false,
+            // ];
+
+            $paymentDetails = Nowpayments::createInvoice($data);
+
+            // dd($paymentDetails);
+            // Now you have the payment details,
+            // you can then redirect or do whatever you want
+
+            // return Redirect::back()->with(['msg' => 'Payment created successfully', 'type' => 'success'], $paymentDetails['invoice_url']);
+            return redirect()->to($paymentDetails['invoice_url']);
+            // return Redirect::back()->with($paymentDetails['invoice_url']);
+        } catch (\Exception $e) {
+            \Log::info("Exception $e");
+            return Redirect::back()->withMessage(['msg' => "There's an error in the data", 'type' => 'error']);
+        }
+    }
+
+}

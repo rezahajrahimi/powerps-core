@@ -1,3 +1,504 @@
 <?php
-bolt_decrypt( __FILE__ , 'UC5X9V'); return 0;
-##!!!##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1NQvvtTU1NTU1NTUKCYt1C++1NTU1NTU1NTU1NTU2CknGSbU8dQVKSgc3NsnFSIXKCkh293h8iknGSbc3e++1NTU1NTU1NTU1NTUHRrU3NgpJxkm1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A/bIRknJxUbGdvU8fLU2wkiFSkoHCMmHS4ZGNsR4NTo5OXd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTYJhkaGSYmFSAHGSgoHSIb9yIoJiDU8dQiGSvUBhkaGSYmFSAHGSgoHSIb9yMiKCYjICAZJtzd777U1NTU1NTU1NTU1NTYJxkoKB0iG9Tx1NgmGRoZJiYVIAcZKCgdIhv3IigmIOHyGxkoEyYZGhkmJhUgEycZKCgdIhvc3e++1NTU1NTU1NTU1NTUHRrU3NgnGSgoHSIb1PHx1CIpICDUMDDU1dgnGSgoHSIb4fIdJxMVFygdKhnd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTbHScTFRcoHSoZ29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xnj0CMZ4xejTnUjGOMbY08jF7UjTWMbYxbjTjUjTqPQIxnjF7i2+C+1NTU1NTU1NTU1NTU1NTU1BHg1Obk5N3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgnGSgoHSIb9yIoJiDU8dQiGSvUBxkoKB0iG/cjIigmIyAgGSbc3e++1NTU1NTU1NTU1NTU2BYjKAIVIRnU8dTYJxkoKB0iG/ciKCYg4fIbGSgTFiMoEyIVIRnc3e++1NTU1NTU1NTU1NTU2BUXFyMpIij9GNTx1NgpJxkm4fIVFxcjKSIoEx0Y777U1NTU1NTU1NTU1NTYHSIqHSgZCSYg1PHU1hwoKCQn7uPjKOIhGeMv2BYjKAIVIRkx8ycoFSYo8S/YFRcXIykiKP0YMdbvvtTU1NTU1NTU1NTU1NgkGSYXGSIo1PHU2CYZGhkmJhUgBxkoKB0iG/ciKCYg4fIbGSgTJhkaGSYmFSATJxkoKB0iGxMmGRoZJiYVIBMkGSYXGSIo3N3U8/PU5O++1NTU1NTU1NTU1NTU2CQZJhcZIigHKCbU8dQQ9SQkEAEjGBkgJxAGGRoZJiYVIAcZKCgdIhvu7hojJiEVKAQZJhcZIigKFSApGdzYJBkmFxkiKN3vvr7U1NTU1NTU1NTU1NTYFyknKCMhCBksKPcoJiDU8dQiGSvU9yknKCMhCBksKPcjIigmIyAgGSbc3e++1NTU1NTU1NTU1NTU2BgZJxcmHSQoHSMi1PHU2BcpJygjIQgZLCj3KCYg4fIbGSgIGSwo3NsVFygdIyLiJhkaGSYmFSDiKBksKNvg1A++1NTU1NTU1NTU1NTU1NTU1NsgHSIf29Tx8tTYHSIqHSgZCSYg4L7U1NTU1NTU1NTU1NTU1NTU2yQZJhcZIijb1PHy1NgkGSYXGSIoBygm4L7U1NTU1NTU1NTU1NQR3e++1NTU1NTU1NTU1NTUHRrU3B0nExUmJhUt3NgYGScXJh0kKB0jIt3d1C++1NTU1NTU1NTU1NTU1NTU1NgYGScXJh0kKB0jItTx1B0hJCAjGBnc1hAi1uDU2BgZJxcmHSQoHSMi3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU2x0nExUXKB0qGdvU8fLUKCYpGeC+1NTU1NTU1NTU1NTU1NTU1NsdIiodKBkTKSYg29Tx8tTYHSIqHSgZCSYg4L7U1NTU1NTU1NTU1NTU1NTU2yQZJhcZIijb1PHy1NwaICMVKN3U2CQZJhcZIijgvtTU1NTU1NTU1NTU1NTU1NTbGBknFyYdJCgdIyLb1PHy1NgnGSgoHSIb4fIYGScXJh0kKB0jIuC+1NTU1NTU1NTU1NTU1NTU1NsqHScdKBMXFSYYEygZLCjb1PHy1NgnGSgoHSIb4fIqHScdKBMXFSYYEygZLCjgvtTU1NTU1NTU1NTU1NTU1NTbGiMmIRUoKBkYEygZLCjb1PHy1NgYGScXJh0kKB0jIuC+1NTU1NTU1NTU1NTUEeDU5uTk3e++1NTU1NTU1NQx1BcVKBcc1NwQCBwmIysVFiAZ1NgoHN3UL77U1NTU1NTU1NTU1NQQACMb7u4ZJiYjJtzbCxkW9SQkCScZJvcjIigmIyAgGSb0GxkoBhkaGSYmFSD9Ihoj7tTb1OLU2Cgc4fIbGSgBGScnFRsZ3N3d776+1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD9shGScnFRsZ29Tx8tTbjGKMa4xbj0DUjGeMZY08jGXbEeDU6eTk3e++1NTU1NTU1NQxvtTU1NQxvr7U1NTUJCkWIB0X1BopIhcoHSMi1CYZGBkZIfsdGij3FSYY3AYZJSkZJyjU2CYZJSkZJyjdvtTU1NQvvtTU1NTU1NTUKCYt1C++1NTU1NTU1NTU1NTU2CknGSbU8dQVKSgc3NsnFSIXKCkh293h8iknGSbc3e++1NTU1NTU1NTU1NTUHRrU3NgpJxkm1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A/bJykXFxknJ9vU8fLUGhUgJxng1NshGScnFRsZ29Tx8tTbCSIVKSgcIyYdLhkY2xHg1Ojk5d3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgXIxgZ1PHUKCYdIdzcJygmHSIb3dTc2CYZJSkZJyjh8hcjGBnU8/PU29vd3e++1NTU1NTU1NTU1NTUHRrU3NgXIxgZ1PHx8dTb293UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU245djGPUjmOPQI01jF7Ujl2MW4xljF7UjGWMW9SNPIxbjGWMY9SOXY06j0CMY+Lb4L7U1NTU1NTU1NTU1NTU1NTUEeDU6Obm3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTU2BUXFyMpIij9GNTx1NwnKCYdIhvd1NgpJxkm4fIVFxcjKSIoEx0Y777U1NTU1NTU1NTU1NTYFyknKCMhCBksKPcoJiDU8dQiGSvU9yknKCMhCBksKPcjIigmIyAgGSbc3e++1NTU1NTU1NTU1NTU2BUoKBkhJCgn9xUXHBn/GS3U8dTWGx0aKBMXFSYYExUoKBkhJCgnEy/YFRcXIykiKP0YMdbvvtTU1NTU1NTU1NTU1NgWICMXHxkY9xUXHBn/GS3U8dTWGx0aKBMXFSYYExYgIxcfGRgTL9gVFxcjKSIo/Rgx1u++vtTU1NTU1NTU1NTU1B0a1Nz3FRccGe7uHBUn3NgWICMXHxkY9xUXHBn/GS3d3dQvvtTU1NTU1NTU1NTU1NTU1NTYFiAjFx/5LCQdJhkn/SLU8dQiIyvc3eHyGB0aGv0iAR0iKSgZJ9z3FRccGe7uGxko3NgWICMXHxkY9xUXHBn/GS3d3e++vtTU1NTU1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1BoVICcZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTYFyknKCMhCBksKPcoJiDh8hsZKAgZLCjc2xkmJiMm4hsdGij3FSYY4igjIxMhFSItExUoKBkhJCgn2+DUD77U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTbIR0iKSgZJ9vU8fLU2BYgIxcf+SwkHSYZJ/0i4L7U1NTU1NTU1NTU1NTU1NTU1NTU1BHd4L7U1NTU1NTU1NTU1NTU1NTUEeDU6Obt3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTU2BUoKBkhJCgn1PHU9xUXHBnu7hsZKNzYFSgoGSEkKCf3FRccGf8ZLeDU5N3U39Tl777U1NTU1NTU1NTU1NT3FRccGe7uJCko3NgVKCgZISQoJ/cVFxwZ/xkt4NTYFSgoGSEkKCfg1CIjK9zd4fIVGBj8Iykm3N3d776+1NTU1NTU1NTU1NTU2BsdGij3FSYY9yIoJiDU8dQiGSvU+x0aKPcVJhj3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NgbHRoo9xUmGNTx1NgbHRoo9xUmGPciKCYg4fIbGSj7HRoo9xUmGPYt9yMYGdzYFyMYGd3vvr7U1NTU1NTU1NTU1NQdGtTc2BsdGij3FSYY1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1B0a1NzYFSgoGSEkKCfU8vHU593UL77U1NTU1NTU1NTU1NTU1NTU1NTU1PcVFxwZ7u4kKSjc2BYgIxcfGRj3FRccGf8ZLeDUIiMr3N3h8hUYGPwjKSbc3eDUIiMr3N3h8hUYGPwjKSbc3d3vvtTU1NTU1NTU1NTU1NTU1NTU1NTU9xUXHBnu7hojJhsZKNzYFSgoGSEkKCf3FRccGf8ZLd3vvr7U1NTU1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1BoVICcZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU2BcpJygjIQgZLCj3KCYg4fIbGSgIGSwo3NsZJiYjJuIbHRoo9xUmGOIWICMXHxkY293gvtTU1NTU1NTU1NTU1NTU1NTU1NTUEeDU6Obt3e++1NTU1NTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1BoVICcZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTYFyknKCMhCBksKPcoJiDh8hsZKAgZLCjc2xkmJiMm4hsdGij3FSYY4iIjKBMaIykiGNvd4L7U1NTU1NTU1NTU1NTU1NTUEeDU6OTo3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTU9xUXHBnu7hojJhsZKNzYFSgoGSEkKCf3FRccGf8ZLd3vvr7U1NTU1NTU1NTU1NTYKScZGPsdGij3IigmINTx1CIZK9QJJxkY+x0aKPcVJhj3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NgpJxkmCScZGP0oGSH3IykiKNTx1NgpJxkY+x0aKPciKCYg4fIbGSj3IykiKAMaCScZBBkmCScZJtzYGx0aKPcVJhjh8h0Y4NTYFRcXIykiKP0Y3e++1NTU1NTU1NTU1NTUHRrU3NgpJxkmCScZGP0oGSH3IykiKNTy8dTYGx0aKPcVJhjh8hcjKSIoEyMaEyknGRMkGSYTKScZJt3UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU2BcpJygjIQgZLCj3KCYg4fIbGSgIGSwo3NsZJiYjJuIbHRoo9xUmGOIVICYZFRgtEyknGRjb3eC+1NTU1NTU1NTU1NTU1NTU1BHg1Ojk7d3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgmGScpICjU8dTYKScZGPsdGij3IigmIOHyFRgY+x0aKPcVJhgIIwknGSb1FxcjKSIo3NgbHRoo9xUmGOHyHRjg1NgVFxcjKSIo/Rjg1NgbHRoo9xUmGOHyFyMYGd3vvtTU1NTU1NTU1NTU1B0a1NzYJhknKSAo3dQvvtTU1NTU1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1CgmKRngvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yEZJycVGxnb1PHy1NgXKScoIyEIGSwo9ygmIOHyGxkoCBksKNzbFRcoHSMi4hwZICTiGx0aKPcVJhjiJykXFxknJ9vd4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NsYHScXIykiKNvU8fLU2BsdGij3FSYY4fIYHScXIykiKOC+1NTU1NTU1NTU1NTU1NTU1BHg1Obk5N3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTYFyknKCMhCBksKPcoJiDh8hsZKAgZLCjc2xkmJiMm4hsdGij3FSYY4hUgJhkVGC0TKScZGNvd4L7U1NTU1NTU1NTU1NQR4NTo5O3d777U1NTU1NTU1DHUFxUoFxzU3BAIHCYjKxUWIBnU2Cgc3dQvvtTU1NTU1NTU1NTU1BAAIxvu7hkmJiMm3NsLGRb1JCQJJxkm9yMiKCYjICAZJvQmGRgZGSH7HRoo9xUmGO7U29Ti1NgoHOHyGxkoARknJxUbGdzd3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTbjGKMa4xbj0DUjGeMZY08jGXb4L7U1NTU1NTU1NTU1NQR4NTp5OTd777U1NTU1NTU1DG+1NTU1DG+vtTU1NQkKRYgHRfUGikiFygdIyLUFyAVHSEIGSco9RcXIykiKNzdvtTU1NQvvtTU1NTU1NTUKCYt1C++1NTU1NTU1NTU1NTU2CknGSbU8dQVKSgc3NsnFSIXKCkh293h8iknGSbc3e++1NTU1NTU1NTU1NTUHRrU3NgpJxkm1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A/bJykXFxknJ9vU8fLUGhUgJxng1NshGScnFRsZ29Tx8tTbCSIVKSgcIyYdLhkY2xHg1Ojk5d3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgVFxcjKSIo/RjU8dTcJygmHSIb3dTYKScZJuHyFRcXIykiKBMdGO++1NTU1NTU1NTU1NTU2BcpJygjIQgZLCj3KCYg1PHUIhkr1PcpJygjIQgZLCj3IyIoJiMgIBkm3N3vvr7U1NTU1NTU1NTU1NTYKBknKPUXFyMpIij3IigmINTx1CIZK9QIGSco9RcXIykiKPcjIigmIyAgGSbc3e++1NTU1NTU1NTU1NTU2CgZJyj1FxcjKSIo1PHU2CgZJyj1FxcjKSIo9yIoJiDh8hsZKAgZJyj1FxcjKSIo+BkoFR0gJ9zd777U1NTU1NTU1NTU1NQdGtTc2CgZJyj1FxcjKSIo1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTbJykXFxknJ9vU8fLUGhUgJxngvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yEZJycVGxnb1PHy1NuMW45djFuNOoxe1IxWjGaNOYxbj0CMaI9A1I1yj0COXYxljFyNOoxjj0DUjTqMaIxjjTvUjFuMZ4xe4tvgvtTU1NTU1NTU1NTU1NTU1NQR4NTo5Ojd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTYKScZGAgZJyj1FxcjKSIo9yIoJiDU8dQiGSvUCScZGAgZJyj1FxcjKSIo9yMiKCYjICAZJtzd777U1NTU1NTU1NTU1NQdGtTc2CknGRgIGSco9RcXIykiKPciKCYg4fIXHBkXHwknGSb8FScIGSco9RcXIykiKNzYFRcXIykiKP0Y4NTYKBknKPUXFyMpIijh8h0Y3d3UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU2BcpJygjIQgZLCj3KCYg4fIbGSgIGSwo3NsZJiYjJuIoGScoExUXFyMpIijiGSwdJyjb3eC+1NTU1NTU1NTU1NTU1NTU1BHg1Ojk7d3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgkFSIZIPciKCYg1PHUIhkr1AQVIiIZIPcjIigmIyAgGSbc3e++1NTU1NTU1NTU1NTU2CQVIiIZINTx1NgkFSIZIPciKCYg4fIbGSgEFSIiGSD2Lf0Y3NgoGSco9RcXIykiKOHyJBUiIhkgEx0Y3e++1NTU1NTU1NTU1NTUHRrU3NgkFSIiGSDU8fHUIikgIN3UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU241yjTqNONSMW45djFuNOoxe1IxWjGaNOYxbj0CMaI9A1I9AjFuNNYxe1I06jGiMY+Lb4L7U1NTU1NTU1NTU1NTU1NTUEeDU6OTo3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTU2CQm9xUo9yIoJiDU8dQiGSvUBCYjGCkXKPcVKBkbIyYt9yMiKCYjICAZJtzd777U1NTU1NTU1NTU1NTYJxkgGRcoGRgEJvcVKNTx1NgkJvcVKPciKCYg4fIbGSgEJiMYFyj3FSgZGyMmLfYt9xUoGRsjJi0CFSEZ3AgZJyj1FxcjKSIo9yMiKCYjICAZJu7u9/UI+fsDBg0TAvUB+d3vvtTU1NTU1NTU1NTU1B0a1NzYJxkgGRcoGRgEJvcVKNTx8dQiKSAg3dQvvtTU1NTU1NTU1NTU1NTU1NTYJxkgGRcoGRgEJvcVKNTx1NgoGSco9RcXIykiKPciKCYg4fIZIicpJhkIGScoBCYjGCkXKPcVKBkbIyYt3NgoGSco9RcXIykiKN3vvtTU1NTU1NTU1NTU1DG+1NTU1NTU1NTU1NTUHRrU3NgnGSAZFygZGAQm9xUo1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTbJykXFxknJ9vU8fLUGhUgJxngvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yEZJycVGxnb1PHy1NuMY4xnjF6NO9SMW45djFuNOoxe1IxWjGaNOYxbj0CMaI9A1I9AjFuNNYxe1I06jGiMY+Lb4L7U1NTU1NTU1NTU1NTU1NTUEeDU6OTo3e++1NTU1NTU1NTU1NTUMb6+1NTU1NTU1NTU1NTU2BgVLdTx1NgoGSco9RcXIykiKOHyGSwkHSYZExgVLe++1NTU1NTU1NTU1NTU2CojICkhGdTx1NgoGSco9RcXIykiKOHyKiMgKSEZ777U1NTU1NTU1NTU1NTYJykWJxcmHSQoHSMiAB0iH9Tx1CIpICDvvtTU1NTU1NTU1NTU1NgkFSIZIAAdIh/U8dQiKSAg777U1NTU1NTU1NTU1NTYFyMiGh0b1PHUIikgIO++1NTU1NTU1NTU1NTU2BcmGRUoGRjU8dQaFSAnGe++vtTU1NTU1NTU1NTU1B0a1NzYJBUiIhkg4fIoLSQZ1PHx1NscHRgYHRot293UL77U1NTU1NTU1NTU1NTU1NTU2BwdGBgdGhf3IigmINTx1CIZK9T8HRgYHRotBBUiIhkg9yMiKCYjICAZJtzd777U1NTU1NTU1NTU1NTU1NTU2BUXFyMpIigAFRYZINTx1PYjKAknGSbu7iYZJyMgKhn3IyIaHRv1FxcjKSIoABUWGSDc2BUXFyMpIij9GODU24xbjl2MW406jF4TjFaMZo05jFuPQIxoj0Db3e++1NTU1NTU1NTU1NTU1NTU1NgmGSXU8dQiGSvUBhklKRknKNzd777U1NTU1NTU1NTU1NTU1NTU2CYZJeHyFRcXIykiKP0Y1PHU2BUXFyMpIigAFRYZIO++1NTU1NTU1NTU1NTU1NTU1NgmGSXh8hccFSgTHRjU8dTYFRcXIykiKP0Y777U1NTU1NTU1NTU1NTU1NTU2CYZJeHyJCYjGCkXKBMdGNTx1NgoGSco9RcXIykiKOHyHRjvvtTU1NTU1NTU1NTU1NTU1NTYJhkl4fIkFSIiGSD9+NTx1NgoGSco9RcXIykiKOHyJBUiIhkgEx0Y777U1NTU1NTU1NTU1NTU1NTU2CYZJeHyKiMg1PHU2CojICkhGe++1NTU1NTU1NTU1NTU1NTU1NgmGSXh8hgVLdTx1NgYFS3vvr7U1NTU1NTU1NTU1NTU1NTU2CIZKwkJ/fjU8dTYHB0YGB0aF/ciKCYg4fIVGBgJJxkmCCP8HRgYHRotBBUiGSDc2CYZJd3vvtTU1NTU1NTU1NTU1NTU1NQdGtTc2CIZKwkJ/fjU8fHUGhUgJxnd1C++1NTU1NTU1NTU1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU2yEZJycVGxnb1PHy1NuMYoxrjFvUjGOMZdSMW49AjGCMW4xj1Ixbjl2MW406jF7UjFaMZo05jFuPQIxoj0Db4L7U1NTU1NTU1NTU1NTU1NTU1NTU1BHg1Onk5N3vvtTU1NTU1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTU1NTU2CknGSYAHSIf1PHUJigmHSHc3CcoJh0iG93U2CQVIiIZIOHyKScZJhMgHSIf4NTb49vd777U1NTU1NTU1NTU1NTU1NTU2CcpFicXJh0kKB0jIgAdIh/U8dTWL9gpJxkmAB0iHzHjL9giGSsJCf34MeMVICDiKCwo8yIVIRnxJykWIB0iH+EpIh8iIysi2hUnIvEpIh8iIysi2iEjGBnxIhkr1u++1NTU1NTU1NTU1NTU1NTU1NgkFSIZIAAdIh/U8dTWL9gpJxkmAB0iHzHjL9giGSsJCf34MePXL9gVFxcjKSIoABUWGSAx1u++vtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKNTx1CIZK9QGGSUpGSco3N3vvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyFRcXIykiKBMdGNTx1NgVFxcjKSIo/RjvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJykWJxcmHSQoHSMiEyAdIh/U8dTW4y/YIhkrCQn9+DHjFSAg4igsKPMiFSEZ8ScpFiAdIh/hKSIfIiMrItoVJyLxKSIfIiMrItohIxgZ8SIZK9bvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJCYjGCkXKBMXFSgZGyMmHRknEx0Y1PHU2CcZIBkXKBkYBCb3FSjh8h0Y777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8iQVIhkgEyAdIh/U8dTW4y/YIhkrCQn9+DHj1y/YFRcXIykiKAAVFhkgMdbvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyFyMiGh0bJ9Tx1Nvb777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8iYZIRUmH9Tx1NgVFxcjKSIoABUWGSDvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJCYjGCkXKBMdGNTx1NgnGSAZFygZGAQm9xUo4fIdGO++1NTU1NTU1NTU1NTU1NTU1NgkJvciKCYg1PHUIhkr1AQmIxgpFyj3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NTU1NTYJCb3IigmIOHyFRgY9SkoIyEVKBkYBCYjGCkXKPgZKBUdICfc2CYZJSkZJyjd777U1NTU1NTU1NTU1NTU1NTU2BcmGRUoGRjU8dQoJikZ777U1NTU1NTU1NTU1NQx1BkgJxkdGtTc2CQVIiIZIOHyKC0kGdTx8dTbJxUiFRkd293UL77U1NTU1NTU1NTU1NTU1NTU2Cci9ygmINTx1CIZK9QHFSIVGR0EFSIiGSD3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NTU1NTYFRcXIykiKAAVFhkg1PHU9iMoCScZJu7uJhknIyAqGfcjIhodG/UXFyMpIigAFRYZINzYFRcXIykiKP0Y4NTYJxkgGRcoGRgEJvcVKOHyHRjd777U1NTU1NTU1NTU1NTU1NTU2B0iFiMpIhj9GCfU8dQhGSgcIxgTGSwdJygn3NgnGSAZFygZGAQm9xUo4NTbJhknIyAqGf0iFiMpIhj9GCfb3b7U1NTU1NTU1NTU1NTU1NTU1NTU1PPU2CcZIBkXKBkYBCb3FSjh8iYZJyMgKhn9IhYjKSIY/Rgn3N2+1NTU1NTU1NTU1NTU1NTU1NTU1NTu1A8R777U1NTU1NTU1NTU1NTU1NTU2CYZJdTx1CIZK9QGGSUpGSco3N3vvtTU1NTU1NTU1NTU1NTU1NTYJhkl4fIhGSYbGdwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2xUXFyMpIij9GNvU8fLU2BUXFyMpIigAFRYZIOC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbFxwVKBMdGNvU8fLU2BUXFyMpIij9GOC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbJCYjGCkXKBMdGNvU8fLU2CcZIBkXKBkYBCb3FSjh8h0Y4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NskFSIiGSD9+NvU8fLU2CQVIiIZIOHyHRjgvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yojINvU8fLU2CojICkhGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbGBUt29Tx8tTYGBUt4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NsdIhYjKSIYEx0YJ9vU8fLU2B0iFiMpIhj9GCfgvtTU1NTU1NTU1NTU1NTU1NTU1NTU2x0iFiMpIhgTHRjb1PHy1NgdIhYjKSIY/RgnD+QR1PPz1NgnGSAZFygZGAQm9xUo4fIdIhYjKSIYEx0Y4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NsdJBMgHSEdKNvU8fLU2CcZIBkXKBkYBCb3FSjh8h0kEyAdIR0o4L7U1NTU1NTU1NTU1NTU1NTUEd3vvr7U1NTU1NTU1NTU1NTU1NTU2CYZJykgKNTx1NgnIvcoJiDh8hUYGAknGSYIIwcVIhUZHQQVIhkg3NgmGSXg1NgdIhYjKSIY/Rgn3e++1NTU1NTU1NTU1NTU1NTU1B0a1NzYJhknKSAo1PHx8dQaFSAnGd3UL77U1NTU1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1BoVICcZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xijGuMW9SMY4xl1Ixbj0CMYIxbjGPUjFuOXYxbjTqMXtSMVoxmjTmMW49AjGiPQNvgvtTU1NTU1NTU1NTU1NTU1NTU1NTUEeDU6eTk3e++1NTU1NTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NTU1NQdGtTcHScTFSYmFS3c2CYZJykgKN3d1C++1NTU1NTU1NTU1NTU1NTU1NTU1NTYKSkdGNTx1NgmGScpICgP2ykpHRjbEe++1NTU1NTU1NTU1NTU1NTU1NTU1NTYJykW/RjU8dTYJhknKSAoD9snKRb9GNsR777U1NTU1NTU1NTU1NTU1NTU1NTU1NgXIB0ZIij5IRUdINTx1NgmGScpICgP2xkhFR0g2xHU8/PU29vvvtTU1NTU1NTU1NTU1NTU1NQx1BkgJxnUL77U1NTU1NTU1NTU1NTU1NTU1NTU1NgpKR0Y1PHU2CYZJykgKO++1NTU1NTU1NTU1NTU1NTU1NTU1NTYJykW/RjU8dTYKSkdGO++1NTU1NTU1NTU1NTU1NTU1NTU1NTYFyAdGSIo+SEVHSDU8dTb2+++1NTU1NTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NTU1NTYIB0iHyfU8dTYJyL3KCYg4fIbGSgJJxkmAB0iHyfc2CQVIiIZIODU2CkpHRjg1NgVFxcjKSIoABUWGSDg1NgnGSAZFygZGAQm9xUo4fIdIhYjKSIYEx0Y4NTYFyAdGSIo+SEVHSDU8+7UIikgIN3vvtTU1NTU1NTU1NTU1NTU1NTYJykWJxcmHSQoHSMiAB0iH9Tx1NgnIvcoJiDh8hYpHSAYBykWJxcmHSQoHSMiAB0iH9zYJBUiIhkg4NTYJykW/Rjd777U1NTU1NTU1NTU1NTU1NTU2CQVIhkgAB0iH9Tx1NgnKRYnFyYdJCgdIyIAHSIf777U1NTU1NTU1NTU1NTU1NTU2BcjIhodG9Tx1NXUGSEkKC3c2CAdIh8n3dTz1NggHSIfJw/kEdTu1CIpICDvvr7U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjU8dQiGSvUBhklKRknKNzd777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8hUXFyMpIigTHRjU8dTYFRcXIykiKP0Y777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8icpFicXJh0kKB0jIhMgHSIf1PHU2CcpFicXJh0kKB0jIgAdIh/vvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJCYjGCkXKBMXFSgZGyMmHRknEx0Y1PHU2CcZIBkXKBkYBCb3FSjh8h0Y777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8iQVIhkgEyAdIh/U8dTYJykWJxcmHSQoHSMiAB0iH+++1NTU1NTU1NTU1NTU1NTU1NgmGSUpGSco4fIXIyIaHRsn1PHUHicjIhMZIhcjGBncD77U1NTU1NTU1NTU1NTU1NTU1NTU1NspKR0Y29Tx8tTYKSkdGOC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbGSEVHSDb1PHy1NgXIB0ZIij5IRUdIOC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbJykW/Rjb1PHy1NgnKRb9GOC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIB0iHyfb1PHy1NggHSIfJ9Tz89QPEeC+1NTU1NTU1NTU1NTU1NTU1BHd777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8iYZIRUmH9Tx1NgVFxcjKSIoABUWGSDvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJCYjGCkXKBMdGNTx1NgnGSAZFygZGAQm9xUo4fIdGO++1NTU1NTU1NTU1NTU1NTU1NgkJvciKCYg1PHUIhkr1AQmIxgpFyj3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NTU1NTYJCb3IigmIOHyFRgY9SkoIyEVKBkYBCYjGCkXKPgZKBUdICfc2CYZJSkZJyjd777U1NTU1NTU1NTU1NTU1NTU2BcmGRUoGRjU8dQoJikZ777U1NTU1NTU1NTU1NQx1BkgJxkdGtTc2CQVIiIZIOHyHScBFSYuFhUi9yMhJBUoHRYgGdzd3dQvvtTU1NTU1NTU1NTU1NTU1NTYIRb3KCYg1PHUARUmLhYVIgQVIiIZIPcjIigmIyAgGSbu7iYZJyMgKhnc2CQVIiIZIN3vvtTU1NTU1NTU1NTU1NTU1NTYKScZJiIVIRnU8dTYIRb3KCYg4fIWKR0gGAgZJyj1FxcjKSIoCScZJiIVIRnc2BUXFyMpIij9GN3vvtTU1NTU1NTU1NTU1NTU1NTYKScZJvgVKBXU8dTYIRb3KCYg4fIXJhkVKBkJJxkm3NgkFSIiGSDg1NgpJxkmIhUhGeDU3B0iKN3U2BgVLeDU2CojICkhGd3vvtTU1NTU1NTU1NTU1NTU1NQdGtTc2CknGSb4FSgV1PHx8dQaFSAnGd3UL77U1NTU1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTU2ycpFxcZJyfb1PHy1BoVICcZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xijGuMW9SMY4xl1Ixbj0CMYIxbjGPUjFuOXYxbjTqMXtSMVoxmjTmMW49AjGiPQNvgvtTU1NTU1NTU1NTU1NTU1NTU1NTUEeDU6eTk3e++1NTU1NTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NTU1NTYJykWJxcmHSQoHSMiAB0iH9Tx1NgpJxkm+BUoFQ/bJykWJxcmHSQoHSMiEyAdIh/bEdTz89QiKSAg777U1NTU1NTU1NTU1NTU1NTU2CQVIhkgAB0iH9Tx1NgnKRYnFyYdJCgdIyIAHSIf777U1NTU1NTU1NTU1NTU1NTU2CAdIh8n1PHU2CknGSb4FSgVD9sgHSIfJ9sR1PPz1A8R777U1NTU1NTU1NTU1NTU1NTU2BcjIhodG9Tx1NUZISQoLdzYIB0iHyfd1PPU2CAdIh8nD+QR1O7UIikgIO++vtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKNTx1CIZK9QGGSUpGSco3N3vvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyFRcXIykiKBMdGNTx1NgVFxcjKSIo/RjvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJykWJxcmHSQoHSMiEyAdIh/U8dTYKScZJvgVKBUP2ycpFicXJh0kKB0jIhMpJiDbEdTz89Tb2+++1NTU1NTU1NTU1NTU1NTU1NgmGSUpGSco4fIkJiMYKRcoExcVKBkbIyYdGScTHRjU8dTYJxkgGRcoGRgEJvcVKOHyHRjvvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJBUiGSATIB0iH9Tx1NgnKRYnFyYdJCgdIyIAHSIf777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8hcjIhodGyfU8dQeJyMiExkiFyMYGdwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yknGSYiFSEZ29Tx8tTYKScZJvgVKBUP2yknGSYiFSEZ2xHU8/PU2CknGSYiFSEZ4L7U1NTU1NTU1NTU1NTU1NTU1NTU1NsgHSIfJ9vU8fLU2CAdIh8n4L7U1NTU1NTU1NTU1NTU1NTUEd3vvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyJhkhFSYf1PHU2CknGSYiFSEZ777U1NTU1NTU1NTU1NTU1NTU2CYZJSkZJyjh8iQmIxgpFygTHRjU8dTYJxkgGRcoGRgEJvcVKOHyHRjvvtTU1NTU1NTU1NTU1NTU1NTYJCb3IigmINTx1CIZK9QEJiMYKRco9yMiKCYjICAZJtzd777U1NTU1NTU1NTU1NTU1NTU2CQm9yIoJiDh8hUYGPUpKCMhFSgZGAQmIxgpFyj4GSgVHSAn3NgmGSUpGSco3e++1NTU1NTU1NTU1NTU1NTU1NgXJhkVKBkY1PHUKCYpGe++1NTU1NTU1NTU1NTUMdQZICcZ1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NTU1NTbJykXFxknJ9vU8fLUGhUgJxngvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yEZJycVGxnb1PHy1NuNOo08jG3UjXKNOo041I1yjGiMXo9AjFyMW406j0DUjTqNOY9AljRAjGiNPIxj4tvgvtTU1NTU1NTU1NTU1NTU1NQR4NTo5OTd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NQdGtTc1dTYFyYZFSgZGN3UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD77U1NTU1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xijGuMW9SMY4xl1Ixbj0CMYIxbjGPUjFuOXYxbjTqMXtSMVoxmjTmMW49AjGiPQNvgvtTU1NTU1NTU1NTU1NTU1NQR4NTp5OTd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTYKScZGAgZJyj1FxcjKSIo9yIoJiDh8iEVJh8IGSco9RcXIykiKAknGRjc2BUXFyMpIij9GODU2CgZJyj1FxcjKSIo4fIdGN3vvr7U1NTU1NTU1NTU1NTYICMb9ygmINTx1CIZK9QAIxv3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NggIxv3KCYg4fIVGBgCGSsAIxvc2ygZJygTFRcXIykiKNvg1NuMY4xlj0CMW401jF7UjFuOXYxbjTqMXtSMVoxmjTmMW49AjGiPQNSMW4xm1I08jFyWNECMW41y2+DU2BUXFyMpIij9GODU29vg1NsnHCMr293vvr7U1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTbJykXFxknJ9vU8fLUKCYpGeC+1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTYFyknKCMhCBksKPcoJiDh8hsZKAgZLCjc2xUXKB0jIuIoGScoExUXFyMpIijiJykXFxknJ9vd4L7U1NTU1NTU1NTU1NTU1NTU2xksJB0mGRMYFS3b1PHy1NgYFS3gvtTU1NTU1NTU1NTU1NTU1NTbKiMgKSEZ29Tx8tTYKiMgKSEZ4L7U1NTU1NTU1NTU1NTU1NTU2ycpFicXJh0kKB0jIhMgHSIf29Tx8tTYJykWJxcmHSQoHSMiAB0iH+C+1NTU1NTU1NTU1NTU1NTU1NskFSIZIBMgHSIf29Tx8tTYJBUiGSAAHSIf4L7U1NTU1NTU1NTU1NTU1NTU2xcjIhodG9vU8fLU2BcjIhodG+C+1NTU1NTU1NTU1NTUEeDU5uTk3e++1NTU1NTU1NQx1BcVKBcc1NwQCBwmIysVFiAZ1NgoHN3UL77U1NTU1NTU1NTU1NQQACMb7u4ZJiYjJtzbCxkW9SQkCScZJvcjIigmIyAgGSb0FyAVHSEIGSco9RcXIykiKO7U29Ti1NgoHOHyGxkoARknJxUbGdzd3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NsnKRcXGScn29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NshGScnFRsZ29Tx8tTbjGKMa4xbj0DUjGeMZY08jGXb4L7U1NTU1NTU1NTU1NQR4NTp5OTd777U1NTU1NTU1DG+1NTU1DG+vtTU1NQkKRYgHRfUGikiFygdIyLUKhUgHRgVKBkEJiMhI/cjGBncBhklKRknKNTYJhklKRknKN2+1NTU1C++1NTU1NTU1NQoJi3UL77U1NTU1NTU1NTU1NTYKScZJtTx1BUpKBzc2ycVIhcoKSHb3eHyKScZJtzd777U1NTU1NTU1NTU1NQdGtTc2CknGSbU8fHUIikgIN3UL77U1NTU1NTU1NTU1NTU1NTUJhkoKSYi1CYZJyQjIicZ3N3h8h4nIyLcD9sqFSAdGNvU8fLUGhUgJxng1NshGScnFRsZ29Tx8tTbCSIVKSgcIyYdLhkY2xHg1Ojk5d3vvtTU1NTU1NTU1NTU1DG+vtTU1NTU1NTU1NTU1NgmGSUpGSco4fIqFSAdGBUoGdwPvtTU1NTU1NTU1NTU1NTU1NTbFyMYGdvU8fLU2yYZJSkdJhkYMCcoJh0iG9vgvtTU1NTU1NTU1NTU1NTU1NTbFxUoGRsjJi0THRjb1PHy1NsmGSUpHSYZGDAdIigZGxkm2+C+1NTU1NTU1NTU1NTUEd3vvr7U1NTU1NTU1NTU1NTYFRsZIigEJiMYKRco9ygmINTx1CIZK9T1GxkiKAQmIxgpFyj3IyIoJiMgIBkm3N3vvtTU1NTU1NTU1NTU1NgkJh0XHSIb1PHU2BUbGSIoBCYjGCkXKPcoJiDh8iYZJyMgKhkEJiMYKRcoBCYdFx0iG/ojJvUXFyMpIijcvtTU1NTU1NTU1NTU1NTU1NTcJygmHSIb3dTYKScZJuHyFRcXIykiKBMdGOC+1NTU1NTU1NTU1NTU1NTU1NwdIijd1NgmGSUpGSco4fIXFSgZGyMmLRMdGL7U1NTU1NTU1NTU1NTd776+1NTU1NTU1NTU1NTUHRrU3NgkJh0XHSIb1PHx8dQiKSAg3dQvvtTU1NTU1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItwPvtTU1NTU1NTU1NTU1NTU1NTU1NTU2yoVIB0Y29Tx8tQaFSAnGeC+1NTU1NTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xbj0CNOtSMXIxnjF6NO9SMXIxljFuPQNSMaI05jFvUjGOMZdSMY4xnjF6MZYxn1I06j0CMZ4xe4tvgvtTU1NTU1NTU1NTU1NTU1NQR4NTo5ubd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTYJxkmKh0XGdTx1CIZK9QEJiMhI/cjGBkHGSYqHRcZ3N3vvtTU1NTU1NTU1NTU1NgmGScpICjU8dTYJxkmKh0XGeHyKhUgHRgVKBncvtTU1NTU1NTU1NTU1NTU1NTYJhklKRknKOHyFyMYGeC+1NTU1NTU1NTU1NTU1NTU1NwnKCYdIhvd1NgpJxkm4fIVFxcjKSIoEx0Y4L7U1NTU1NTU1NTU1NTU1NTU3B0iKN3U2CYZJSkZJyjh8hcVKBkbIyYtEx0Y4L7U1NTU1NTU1NTU1NTU1NTU3BogIxUo3dTYJCYdFx0iGw/bJCYdFxnbEeC+1NTU1NTU1NTU1NTU1NTU1NwaICMVKN3U2CQmHRcdIhsP2yQmHRcZEx0iExgjICAVJtsRvtTU1NTU1NTU1NTU1N3vvr7U1NTU1NTU1NTU1NQmGSgpJiLUJhknJCMiJxnc3eHyHicjItzYJhknKSAo4NTc2CYZJykgKA/bKhUgHRjbEdTz89QaFSAnGd3U89Tm5OTU7tTo5ubd777U1NTU1NTU1DHUFxUoFxzU3BAIHCYjKxUWIBnU2Cgc3dQvvtTU1NTU1NTU1NTU1BAAIxvu7hkmJiMm3NsLGRb1JCQJJxkm9yMiKCYjICAZJvQqFSAdGBUoGQQmIyEj9yMYGe7U29Ti1NgoHOHyGxkoARknJxUbGdzd3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NsqFSAdGNvU8fLUGhUgJxngvtTU1NTU1NTU1NTU1NTU1NTbIRknJxUbGdvU8fLU24xijGuMW49A1IxnjGWNPIxl2+C+1NTU1NTU1NTU1NTUEeDU6eTk3e++1NTU1NTU1NQxvtTU1NQxvr7U1NTUJCkWIB0X1BopIhcoHSMi1BsZKAEjFh0gGQoZJh0aHRcVKB0jIgcoFSgpJ9zdvtTU1NQvvtTU1NTU1NTUKCYt1C++1NTU1NTU1NTU1NTU2CknGSbU8dQVKSgc3NsnFSIXKCkh293h8iknGSbc3e++1NTU1NTU1NTU1NTUHRrU3NgpJxkm1PHx1CIpICDd1C++1NTU1NTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A/bIRknJxUbGdvU8fLU2wkiFSkoHCMmHS4ZGNsR4NTo5OXd777U1NTU1NTU1NTU1NQxvr7U1NTU1NTU1NTU1NTYJygVKCkn1PHU3CIZK9QBIxYdIBkKGSYdGh0XFSgdIyIHGSYqHRcZ3N3d4fInKBUoKSf6Iyb1FxcjKSIo3NgpJxkm4fIVFxcjKSIoEx0Y3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3NgnKBUoKSfg1Obk5N3vvtTU1NTU1NTUMdQXFSgXHNTcEAgcJiMrFRYgGdTYKBzd1C++1NTU1NTU1NTU1NTUEAAjG+7uGSYmIybc2wsZFvUkJAknGSb3IyIoJiMgIBkm9BsZKAEjFh0gGQoZJh0aHRcVKB0jIgcoFSgpJ+7U29Ti1NgoHOHyGxkoARknJxUbGdzd3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A/bIRknJxUbGdvU8fLU24xijGuMW49A1IxnjGWNPIxl2xHg1Onk5N3vvtTU1NTU1NTUMb7U1NTUMb6+1NTU1CQpFiAdF9QaKSIXKB0jItQbGSgEFRcfFRsZAhUhGfwdIijc3b7U1NTUL77U1NTU1NTU1CgmLdQvvtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NskJhkqHRkr29Tx8tT3IyIaHRsCFSEZBxkmKh0XGe7uJCYZKh0ZK9y+1NTU1NTU1NTU1NTU1NTU1NTU1NT3IyIaHRsCFSEZBxkmKh0XGe7uGxko+iMmIRUo3N3gvtTU1NTU1NTU1NTU1NTU1NTU1NTU9yMiGh0bAhUhGQcZJiodFxnu7hsZKAQmGRodLNzdvtTU1NTU1NTU1NTU1NTU1NTd4L7U1NTU1NTU1NTU1NTU1NTU2xwdIijb1PHy1NuMW45jjGXUjTqMW4051IxcjGeMXo071IxljFvUjTyMW4xljGPUjTqOXY06j0CMY4xA1I05jGuMW4xcjTbUjF6NOoxsj0CNOYxbjF7UjGWMXIxbjF7UjTqMW405ljRAjmOMZIxbjGWPQNSNOY9AljRAjGiNPIxj4tvgvtTU1NTU1NTU1NTU1BHg1Obk5N3vvtTU1NTU1NTUMdQXFSgXHNTcEAgcJiMrFRYgGdTYKBzd1C++1NTU1NTU1NTU1NTUEAAjG+7uGSYmIybc2wsZFvUkJAknGSb3IyIoJiMgIBkm9BsZKAQVFx8VGxkCFSEZ/B0iKO7U29Ti1NgoHOHyGxkoARknJxUbGdzd3e++vtTU1NTU1NTU1NTU1CYZKCkmItQmGSckIyInGdzd4fIeJyMi3A++1NTU1NTU1NTU1NTU1NTU1NskJhkqHRkr29Tx8tT3IyIaHRsCFSEZBxkmKh0XGe7uJCYZKh0ZK9y+1NTU1NTU1NTU1NTU1NTU1NTU1NT3IyIaHRsCFSEZBxkmKh0XGe7u+Pn69QkACBP6AwYB9QjgvtTU1NTU1NTU1NTU1NTU1NTU1NTU9yMiGh0bAhUhGQcZJiodFxnu7vj5+vUJAAgTBAb5+v0MvtTU1NTU1NTU1NTU1NTU1NTd4L7U1NTU1NTU1NTU1NTU1NTU2xwdIijb1PHy1NuMW45jjGXUjTqMW4051IxcjGeMXo071IxljFvUjTyMW4xljGPUjTqOXY06j0CMY4xA1I05jGuMW4xcjTbUjF6NOoxsj0CNOYxbjF7UjGWMXIxbjF7UjTqMW405ljRAjmOMZIxbjGWPQNSNOY9AljRAjGiNPIxj4tvgvtTU1NTU1NTU1NTU1BHg1Obk5N3vvtTU1NTU1NTUMb7U1NTUMb4xvg==
+
+namespace App\Http\Controllers;
+
+use App\Models\BotUser;
+use Illuminate\Http\Request;
+use App\Services\ConfigNameService;
+use App\Services\MobileVerificationService;
+use App\Services\PromoCodeService;
+
+class WebAppUserController extends Controller
+{
+    public function getFaqs()
+    {
+        try {
+            $faqCtrl = new FaqController();
+
+            return response()->json($faqCtrl->getFaqList() ?? [], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getFaqs: ' . $th->getMessage());
+
+            return response()->json([], 500);
+        }
+    }
+
+    public function getSupports()
+    {
+        try {
+            $supportCtrl = new SupportController();
+
+            return response()->json($supportCtrl->getSupporstList() ?? [], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getSupports: ' . $th->getMessage());
+
+            return response()->json([], 500);
+        }
+    }
+
+    public function getApplicationOses()
+    {
+        try {
+            $appCtrl = new ApplicationController();
+
+            return response()->json($appCtrl->getApplicationOSes() ?? [], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getApplicationOses: ' . $th->getMessage());
+
+            return response()->json([], 500);
+        }
+    }
+
+    public function getApplicationsByOs(string $os)
+    {
+        try {
+            $appCtrl = new ApplicationController();
+
+            return response()->json($appCtrl->getAllActiveAplicationListByOS($os) ?? [], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getApplicationsByOs: ' . $th->getMessage());
+
+            return response()->json([], 500);
+        }
+    }
+
+    public function getReferralInfo()
+    {
+        try {
+            $user = auth('sanctum')->user();
+            if ($user == null) {
+                return response()->json(['message' => 'Unauthorized'], 401);
+            }
+
+            $referralSettingCntrl = new ReferralSettingController();
+            $setting = $referralSettingCntrl->get_referral_setting();
+            if ($setting == null || !$setting->is_active) {
+                return response()->json([
+                    'is_active' => false,
+                    'message' => 'سیستم دعوت فعال نیست.',
+                ], 200);
+            }
+
+            $settingCntrl = new SettingController();
+            $botName = $settingCntrl->get_bot_name();
+            $accountId = $user->account_id;
+            $inviteUrl = "https://t.me/{$botName}?start={$accountId}";
+            $percent = $referralSettingCntrl->get_referral_setting_referral_percent() ?? 0;
+            $percentStr = \App\Models\ReferralSetting::formatPercentValue($percent);
+
+            $customTextCtrl = new CustomTextController();
+            $description = $customTextCtrl->getText('action.referral.text', [
+                'link' => $inviteUrl,
+                'percent' => $percentStr,
+            ]);
+            if (is_array($description)) {
+                $description = implode("\n", $description);
+            }
+
+            return response()->json([
+                'is_active' => true,
+                'invite_url' => $inviteUrl,
+                'percent' => (float) $percent,
+                'description' => $setting->description,
+                'visit_card_text' => $setting->visit_card_text,
+                'formatted_text' => $description,
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getReferralInfo: ' . $th->getMessage());
+
+            return response()->json(['message' => 'خطای سرور'], 500);
+        }
+    }
+
+    public function redeemGiftCard(Request $request)
+    {
+        try {
+            $user = auth('sanctum')->user();
+            if ($user == null) {
+                return response()->json(['success' => false, 'message' => 'Unauthorized'], 401);
+            }
+
+            $code = trim((string) ($request->code ?? ''));
+            if ($code === '') {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'کد گیفت کارت را وارد کنید.',
+                ], 422);
+            }
+
+            $accountId = (string) $user->account_id;
+            $customTextCtrl = new CustomTextController();
+            $attemptsCacheKey = "gift_card_attempts_{$accountId}";
+            $blockedCacheKey = "gift_card_blocked_{$accountId}";
+
+            if (Cache::has($blockedCacheKey)) {
+                $blockExpiresIn = now()->diffInMinutes(Cache::get($blockedCacheKey));
+
+                return response()->json([
+                    'success' => false,
+                    'message' => $customTextCtrl->getText('error.giftCard.too_many_attempts', [
+                        'minutes' => $blockExpiresIn,
+                    ]),
+                ], 429);
+            }
+
+            $attempts = Cache::get($attemptsCacheKey, 0) + 1;
+            Cache::put($attemptsCacheKey, $attempts, now()->addHour());
+
+            $giftCardCntrl = new GiftCardController();
+            $giftCard = $giftCardCntrl->getGiftCardByCode($code);
+
+            if ($giftCard == null) {
+                if ($attempts >= 3) {
+                    Cache::put($blockedCacheKey, now()->addHour(), now()->addHour());
+                    Cache::forget($attemptsCacheKey);
+
+                    return response()->json([
+                        'success' => false,
+                        'message' => $customTextCtrl->getText('error.giftCard.blocked'),
+                    ], 429);
+                }
+
+                return response()->json([
+                    'success' => false,
+                    'message' => $customTextCtrl->getText('error.giftCard.not_found'),
+                ], 404);
+            }
+
+            Cache::forget($attemptsCacheKey);
+
+            $usedGiftCntrl = new UsedGiftCardController();
+            $userUsedItemCount = $usedGiftCntrl->getCountOfUsePerUser($giftCard->id, $accountId);
+            if ($userUsedItemCount >= $giftCard->count_of_use_per_user) {
+                return response()->json([
+                    'success' => false,
+                    'message' => $customTextCtrl->getText('error.giftCard.already_used'),
+                ], 409);
+            }
+
+            $result = $usedGiftCntrl->addGiftCardToUserAccount($giftCard->id, $accountId, $giftCard->code);
+            if ($result) {
+                return response()->json([
+                    'success' => true,
+                    'message' => $customTextCtrl->getText('action.help.giftCard.success'),
+                    'discount' => $giftCard->discount,
+                ], 200);
+            }
+
+            return response()->json([
+                'success' => false,
+                'message' => $customTextCtrl->getText('error.giftCard.already_used'),
+            ], 409);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@redeemGiftCard: ' . $th->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => 'خطای سرور',
+            ], 500);
+        }
+    }
+
+    public function claimTestAccount()
+    {
+        try {
+            $user = auth('sanctum')->user();
+            if ($user == null) {
+                return response()->json(['success' => false, 'message' => 'Unauthorized'], 401);
+            }
+
+            $accountId = (string) $user->account_id;
+            $customTextCtrl = new CustomTextController();
+
+            $testAccountCntrl = new TestAccountController();
+            $testAccount = $testAccountCntrl->getTestAccountDetails();
+            if ($testAccount == null) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'اکانت آزمایشی پیکربندی نشده است.',
+                ], 404);
+            }
+
+            $usedTestAccountCntrl = new UsedTestAccountController();
+            if ($usedTestAccountCntrl->checkUserHasTestAccount($accountId, $testAccount->id)) {
+                return response()->json([
+                    'success' => false,
+                    'message' => $customTextCtrl->getText('error.test_account.exist'),
+                ], 409);
+            }
+
+            $panelCntrl = new PannelController();
+            $pannel = $panelCntrl->getPannelById($testAccount->pannel_id);
+            if ($pannel == null) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'پنل اکانت آزمایشی یافت نشد.',
+                ], 404);
+            }
+
+            $prCatCntrl = new ProductCategoryController();
+            $selectedPrCat = $prCatCntrl->getProdctCategoryByCategoryName(TestAccountController::CATEGORY_NAME);
+            if ($selectedPrCat == null) {
+                $selectedPrCat = $testAccountCntrl->ensureTestProductCategory($testAccount);
+            }
+            if ($selectedPrCat == null) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'دسته اکانت آزمایشی یافت نشد.',
+                ], 404);
+            }
+
+            $day = $testAccount->expire_day;
+            $volume = $testAccount->volume;
+            $subscriptionLink = null;
+            $panelLink = null;
+            $config = null;
+            $created = false;
+
+            if ($pannel->type == 'hiddify') {
+                $hiddifcCntrl = new HiddifyPannelController();
+                $accountLabel = BotUser::resolveConfigAccountLabel($accountId, 'اکانت_آزمایشی');
+                $req = new Request();
+                $req->accountId = $accountLabel;
+                $req->chat_id = $accountId;
+                $req->product_id = $testAccount->id;
+                $req->pannelID = $testAccount->pannel_id;
+                $req->vol = $volume;
+                $req->day = $day;
+
+                $newUUID = $hiddifcCntrl->addUserToHiddifyPanel($req);
+                if ($newUUID == false) {
+                    return response()->json([
+                        'success' => false,
+                        'message' => 'خطا در ایجاد اکانت آزمایشی',
+                    ], 500);
+                }
+
+                $userLink = rtrim((string) $pannel->user_link, '/');
+                $subscriptionLink = "{$userLink}/{$newUUID}/all.txt?name=sublink-unknown&asn=unknown&mode=new";
+                $panelLink = "{$userLink}/{$newUUID}/#{$accountLabel}";
+
+                $request = new Request();
+                $request->account_id = $accountId;
+                $request->subscription_link = "/{$newUUID}/all.txt?name=sublink-unknown&asn=unknown&mode=new";
+                $request->product_categories_id = $selectedPrCat->id;
+                $request->panel_link = "/{$newUUID}/#{$accountLabel}";
+                $request->configs = '';
+                $request->remark = $accountLabel;
+                $request->product_id = $selectedPrCat->id;
+                $prCntrl = new ProductController();
+                $prCntrl->addAutomatedProductDetails($request);
+                $created = true;
+            } elseif ($pannel->type == 'sanaei') {
+                $snCtrl = new SanaeiPannelController();
+                $accountLabel = BotUser::resolveConfigAccountLabel($accountId, $selectedPrCat->id);
+                $inboundIds = method_exists($selectedPrCat, 'resolveInboundIds')
+                    ? $selectedPrCat->resolveInboundIds()
+                    : [];
+                $req = new Request();
+                $req->merge([
+                    'accountId' => $accountLabel,
+                    'chat_id' => $accountId,
+                    'product_id' => $selectedPrCat->id,
+                    'pannelID' => $pannel->id,
+                    'vol' => $volume,
+                    'day' => $day,
+                    'inbound_ids' => $inboundIds,
+                    'inbound_id' => $inboundIds[0] ?? $selectedPrCat->inbound_id,
+                    'ip_limit' => $selectedPrCat->ip_limit,
+                ]);
+
+                $result = $snCtrl->addUserToSanaeiPanel($req, $inboundIds);
+                if ($result === false) {
+                    return response()->json([
+                        'success' => false,
+                        'message' => 'خطا در ایجاد اکانت آزمایشی',
+                    ], 500);
+                }
+
+                if (is_array($result)) {
+                    $uuid = $result['uuid'];
+                    $subId = $result['subId'];
+                    $clientEmail = $result['email'] ?? '';
+                } else {
+                    $uuid = $result;
+                    $subId = $uuid;
+                    $clientEmail = '';
+                }
+
+                $links = $snCtrl->getUserLinks($pannel, $uuid, $accountLabel, $selectedPrCat->inbound_id, $clientEmail ?: null);
+                $subscriptionLink = $snCtrl->buildSubscriptionLink($pannel, $subId);
+                $panelLink = $subscriptionLink;
+                $config = ! empty($links) ? $links[0] : null;
+
+                $request = new Request();
+                $request->account_id = $accountId;
+                $request->subscription_link = $subscriptionLink;
+                $request->product_categories_id = $selectedPrCat->id;
+                $request->panel_link = $subscriptionLink;
+                $request->configs = json_encode([
+                    'uuid' => $uuid,
+                    'email' => $clientEmail,
+                    'subId' => $subId,
+                    'links' => $links ?? [],
+                ]);
+                $request->remark = $accountLabel;
+                $request->product_id = $selectedPrCat->id;
+                $prCntrl = new ProductController();
+                $prCntrl->addAutomatedProductDetails($request);
+                $created = true;
+            } elseif ($pannel->isMarzbanCompatible()) {
+                $mbCtrl = MarzbanPannelController::resolve($pannel);
+                $username = $mbCtrl->buildTestAccountUsername($accountId);
+                $userData = $mbCtrl->createUser($pannel, $username, (int) $day, $volume);
+                if ($userData === false) {
+                    return response()->json([
+                        'success' => false,
+                        'message' => 'خطا در ایجاد اکانت آزمایشی',
+                    ], 500);
+                }
+
+                $subscriptionLink = $userData['subscription_link'] ?? null;
+                $panelLink = $subscriptionLink;
+                $links = $userData['links'] ?? [];
+                $config = !empty($links) ? $links[0] : null;
+
+                $request = new Request();
+                $request->account_id = $accountId;
+                $request->subscription_link = $userData['subscription_url'] ?? '';
+                $request->product_categories_id = $selectedPrCat->id;
+                $request->panel_link = $subscriptionLink;
+                $request->configs = json_encode([
+                    'username' => $userData['username'] ?? $username,
+                    'links' => $links,
+                ]);
+                $request->remark = $username;
+                $request->product_id = $selectedPrCat->id;
+                $prCntrl = new ProductController();
+                $prCntrl->addAutomatedProductDetails($request);
+                $created = true;
+            } else {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'نوع پنل پشتیبانی نمی‌شود.',
+                ], 400);
+            }
+
+            if (! $created) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'خطا در ایجاد اکانت آزمایشی',
+                ], 500);
+            }
+
+            $usedTestAccountCntrl->markTestAccountUsed($accountId, $testAccount->id);
+
+            $logCtrl = new LogController();
+            $logCtrl->addNewLog('test_account', 'دریافت اکانت آزمایشی از وب‌اپ', $accountId, '', 'show');
+
+            return response()->json([
+                'success' => true,
+                'message' => $customTextCtrl->getText('action.test_account.success'),
+                'expire_day' => $day,
+                'volume' => $volume,
+                'subscription_link' => $subscriptionLink,
+                'panel_link' => $panelLink,
+                'config' => $config,
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@claimTestAccount: ' . $th->getMessage());
+
+            return response()->json([
+                'success' => false,
+                'message' => 'خطای سرور',
+            ], 500);
+        }
+    }
+
+    public function validatePromoCode(Request $request)
+    {
+        try {
+            $user = auth('sanctum')->user();
+            if ($user == null) {
+                return response()->json(['valid' => false, 'message' => 'Unauthorized'], 401);
+            }
+
+            $request->validate([
+                'code' => 'required|string',
+                'category_id' => 'required|integer',
+            ]);
+
+            $agentProductCtrl = new AgentProductController();
+            $pricing = $agentProductCtrl->resolveProductPricingForAccount(
+                (string) $user->account_id,
+                (int) $request->category_id
+            );
+
+            if ($pricing === null) {
+                return response()->json([
+                    'valid' => false,
+                    'message' => 'این بسته برای شما در دسترس نیست.',
+                ], 422);
+            }
+
+            $service = new PromoCodeService();
+            $result = $service->validate(
+                $request->code,
+                (string) $user->account_id,
+                (int) $request->category_id,
+                (float) $pricing['price'],
+                (float) $pricing['price_in_dollar']
+            );
+
+            return response()->json($result, ($result['valid'] ?? false) ? 200 : 422);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@validatePromoCode: ' . $th->getMessage());
+
+            return response()->json([
+                'valid' => false,
+                'message' => 'خطای سرور',
+            ], 500);
+        }
+    }
+
+    public function getMobileVerificationStatus()
+    {
+        try {
+            $user = auth('sanctum')->user();
+            if ($user == null) {
+                return response()->json(['message' => 'Unauthorized'], 401);
+            }
+
+            $status = (new MobileVerificationService())->statusForAccount($user->account_id);
+
+            return response()->json($status, 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getMobileVerificationStatus: ' . $th->getMessage());
+
+            return response()->json(['message' => 'خطای سرور'], 500);
+        }
+    }
+
+    public function getPackageNameHint()
+    {
+        try {
+            return response()->json([
+                'preview' => ConfigNameService::preview(
+                    ConfigNameService::getFormat(),
+                    ConfigNameService::getPrefix()
+                ),
+                'hint' => 'اگر نام بسته را وارد نکنید، مطابق تنظیمات ربات نام‌گذاری می‌شود.',
+            ], 200);
+        } catch (\Throwable $th) {
+            \Log::error('WebAppUserController@getPackageNameHint: ' . $th->getMessage());
+
+            return response()->json([
+                'preview' => ConfigNameService::preview(
+                    ConfigNameService::DEFAULT_FORMAT,
+                    ConfigNameService::DEFAULT_PREFIX
+                ),
+                'hint' => 'اگر نام بسته را وارد نکنید، مطابق تنظیمات ربات نام‌گذاری می‌شود.',
+            ], 200);
+        }
+    }
+}

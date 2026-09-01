@@ -1,3 +1,69 @@
 <?php
-bolt_decrypt( __FILE__ , 'RcWCCi'); return 0;
-##!!!##BQVpXGhgbmtcXmAbPGtrV0hqX2BnbjYFBXBuYBtEZ2dwaGRpXG9gVz9cb1xdXG5gV0BnamxwYGlvV0FcXm9qbWRgbldDXG5BXF5vam10NgVwbmAbRGdncGhkaVxvYFc/XG9cXVxuYFdAZ2pscGBpb1dIal9gZzYFBV5nXG5uGzxra0RpYWobYHNvYGlfbhtIal9gZwV2BRsbGxtwbmAbQ1xuQVxeb2ptdDYFGxsbG2ttam9gXm9gXxsfYWRnZ1xdZ2AbOBtWBRsbGxsbGxsbImlcaGAiJwUbGxsbGxsbGyJxYG1uZGppIicFGxsbGxsbGxsiZGhcYmAiJwUbGxsbGxsbGyJrbWRoXG10Wl5qZ2ptIicFGxsbGxsbGxsibmBeamlfXG10Wl5qZ2ptIicFGxsbGxsbGxsiXVxeZmJtanBpX1peamdqbSInBRsbGxsbGxsbImtcaWBnWm9kb2dgIicFGxsbGxsbGxsiYWpqb2BtWm9gc28iJwUbGxsbGxsbGyJuY2pyWmtqcmBta25aXm1gX2RvIicFGxsbG1g2BRsbGxtrbWpvYF5vYF8bH15cbm9uGzgbVgUbGxsbGxsbGyJxYG1uZGppIhs4ORsibm9tZGliIicFGxsbGxsbGxsiZGhcYmAiGzg5GyJub21kaWIiJwUbGxsbGxsbGyJuY2pyWmtqcmBta25aXm1gX2RvIhs4ORsiXWpqZ2BcaSInBRsbGxtYNgUbGxsba3BdZ2ReG2FwaV5vZGppG3FgbW5kamkjJDUbbm9tZGliBRsbGxt2BRsbGxsbGxsbbWBvcG1pGx9vY2RuKDlxYG1uZGppNgUbGxsbeAUbGxsba3BdZ2ReG2FwaV5vZGppG2RoXGJgIyQ1G25vbWRpYgUbGxsbdgUbGxsbGxsbG21gb3BtaRsfb2Nkbig5ZGhcYmA2BRsbGxt4BRsbGxtrcF1nZF4bYXBpXm9kamkbcWBtbmRqaW4jJDUbXG1tXHQFGxsbG3YFGxsbGxsbGxttYG9wbWkbYHNrZ2pfYCMiKSInGx9vY2RuKDlxYG1uZGppJDYFGxsbG3gFGxsbG2twXWdkXhthcGleb2RqaRtiYG88a2tEaWFqIyQ1G1xtbVx0BRsbGxt2BRsbGxsbGxsbbWBvcG1pG1YFGxsbGxsbGxsbGxsbImlcaGAiGzg5Gx9vY2RuKDlpXGhgJwUbGxsbGxsbGxsbGxsicWBtbmRqaSIbODkbH29jZG4oOXFgbW5kamknBRsbGxsbGxsbGxsbGyJkaFxiYCIbODkbH29jZG4oOWRoXGJgJwUbGxsbGxsbGxsbGxsia21kaFxtdFpeamdqbSIbODkbH29jZG4oOWttZGhcbXRaXmpnam0nBRsbGxsbGxsbGxsbGyJuYF5qaV9cbXRaXmpnam0iGzg5Gx9vY2RuKDluYF5qaV9cbXRaXmpnam0nBRsbGxsbGxsbGxsbGyJdXF5mYm1qcGlfWl5qZ2ptIhs4ORsfb2Nkbig5XVxeZmJtanBpX1peamdqbScFGxsbGxsbGxsbGxsbImtcaWBnWm9kb2dgIhs4ORsfb2Nkbig5a1xpYGdab2RvZ2AnBRsbGxsbGxsbGxsbGyJhampvYG1ab2BzbyIbODkbH29jZG4oOWFqam9gbVpvYHNvJwUbGxsbGxsbGxsbGxsibmNqclpranJgbWtuWl5tYF9kbyIbODkbH29jZG4oOW5janJaa2pyYG1rblpebWBfZG8bOjobb21wYCcFGxsbGxsbGxtYNgUbGxsbeAUbGxsba3BdZ2ReG2FwaV5vZGppG25gbzxra0RpYWojXG1tXHQbH19cb1wkNRtxamRfBRsbGxt2BRsbGxsbGxsbH29jZG4oOWlcaGAbOBsfX1xvXFYiaVxoYCJYGzo6Gx9vY2RuKDlpXGhgNgUbGxsbGxsbGx9vY2RuKDlxYG1uZGppGzgbH19cb1xWInFgbW5kamkiWBs6Ohsfb2Nkbig5cWBtbmRqaTYFGxsbGxsbGxsfb2Nkbig5ZGhcYmAbOBsfX1xvXFYiZGhcYmAiWBs6Ohsfb2Nkbig5ZGhcYmA2BRsbGxsbGxsbH29jZG4oOWttZGhcbXRaXmpnam0bOBsfX1xvXFYia21kaFxtdFpeamdqbSJYGzo6Gx9vY2RuKDlrbWRoXG10Wl5qZ2ptNgUbGxsbGxsbGx9vY2RuKDluYF5qaV9cbXRaXmpnam0bOBsfX1xvXFYibmBeamlfXG10Wl5qZ2ptIlgbOjobH29jZG4oOW5gXmppX1xtdFpeamdqbTYFGxsbGxsbGxsfb2Nkbig5XVxeZmJtanBpX1peamdqbRs4Gx9fXG9cViJdXF5mYm1qcGlfWl5qZ2ptIlgbOjobH29jZG4oOV1cXmZibWpwaV9aXmpnam02BRsbGxsbGxsbH29jZG4oOWtcaWBnWm9kb2dgGzgbH19cb1xWImtcaWBnWm9kb2dgIlgbOjobH29jZG4oOWtcaWBnWm9kb2dgNgUbGxsbGxsbGx9vY2RuKDlhampvYG1ab2Bzbxs4Gx9fXG9cViJhampvYG1ab2BzbyJYGzo6Gx9vY2RuKDlhampvYG1ab2BzbzYFGxsbGxsbGxtkYRsjXG1tXHRaZmB0WmBzZG5vbiMibmNqclpranJgbWtuWl5tYF9kbyInGx9fXG9cJCQbdgUbGxsbGxsbGxsbGxsfb2Nkbig5bmNqclpranJgbWtuWl5tYF9kbxs4GyNdampnJBsfX1xvXFYibmNqclpranJgbWtuWl5tYF9kbyJYNgUbGxsbGxsbG3gFGxsbGxsbGxsfb2Nkbig5blxxYCMkNgUbGxsbeAUFeAU=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class AppInfo extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'name',
+        'version',
+        'image',
+        'primary_color',
+        'secondary_color',
+        'background_color',
+        'panel_title',
+        'footer_text',
+        'show_powerps_credit',
+    ];
+    protected $casts = [
+        'version' => 'string',
+        'image' => 'string',
+        'show_powerps_credit' => 'boolean',
+    ];
+    public function version(): string
+    {
+        return $this->version;
+    }
+    public function image(): string
+    {
+        return $this->image;
+    }
+    public function versions(): array
+    {
+        return explode('.', $this->version);
+    }
+    public function getAppInfo(): array
+    {
+        return [
+            'name' => $this->name,
+            'version' => $this->version,
+            'image' => $this->image,
+            'primary_color' => $this->primary_color,
+            'secondary_color' => $this->secondary_color,
+            'background_color' => $this->background_color,
+            'panel_title' => $this->panel_title,
+            'footer_text' => $this->footer_text,
+            'show_powerps_credit' => $this->show_powerps_credit ?? true,
+        ];
+    }
+    public function setAppInfo(array $data): void
+    {
+        $this->name = $data['name'] ?? $this->name;
+        $this->version = $data['version'] ?? $this->version;
+        $this->image = $data['image'] ?? $this->image;
+        $this->primary_color = $data['primary_color'] ?? $this->primary_color;
+        $this->secondary_color = $data['secondary_color'] ?? $this->secondary_color;
+        $this->background_color = $data['background_color'] ?? $this->background_color;
+        $this->panel_title = $data['panel_title'] ?? $this->panel_title;
+        $this->footer_text = $data['footer_text'] ?? $this->footer_text;
+        if (array_key_exists('show_powerps_credit', $data)) {
+            $this->show_powerps_credit = (bool) $data['show_powerps_credit'];
+        }
+        $this->save();
+    }
+
+}

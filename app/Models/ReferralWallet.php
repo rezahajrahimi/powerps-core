@@ -1,3 +1,36 @@
 <?php
-bolt_decrypt( __FILE__ , '3Fyrxa'); return 0;
-##!!!##R0ernqqisK2eoKJdfq2tmYqsoaKpsHhHsrCiXZOir7GeeEeysKJdhqmpsqqmq56xopmBnrGen56wopmCqayusqKrsZmDnqCxrK+morCZhZ6wg56gsayvtnhHsrCiXYapqbKqpquesaKZgZ6xnp+esKKZgqmsrrKiq7GZiqyhoql4R0egqZ6wsF2PoqOir6+eqZSeqamisV2itbGiq6GwXYqsoaKpR7hHXV1dXbKwol2FnrCDnqCxrK+2eEdHXV1dXa2vrLGioLGioV1ho6apqZ6fqaJdel2YR11dXV1dXV1dZK+io6Kvr56pnLKwoq+cpqFkaUddXV1dXV1dXWSeqqyyq7FkaUddXV1dmnhHR11dXV1sbF2tsp+ppqBdo7KroLGmrKtdpKKxfqqssquxfrGxr6afsrGiZWGznqmyomZHXV1dXWxsXbhHXV1dXWxsXV1dXV2vorGyr6tdYbOeqbKiXWxdbm1teEddXV1dbGxdukdHXV1dXa2yn6mmoF2jsqugsaasq12korGAr6KesaKhfrF+sbGvpp+ysaJlYbOeqbKiZkddXV1duEddXV1dXV1dXa+isbKvq12zoq+xnmWzoq+xnmVhs56psqJmZmp7o6yvqp6xgaajo6KvoqugomVmeEddXV1dukdHXV1dXa2yn6mmoF2jsqugsaasq12korGSraGesaKhfrF+sbGvpp+ysaJlYbOeqbKiZkddXV1duEddXV1dXV1dXa+isbKvq12zoq+xnmWzoq+xnmVhs56psqJmZmp7o6yvqp6xgaajo6KvoqugomVmeEddXV1dukdHXV1dXa2yn6mmoF2jsqugsaasq12voqOir6+eqZyysKKvZWZHXV1dXbhHXV1dXV1dXV2vorGyr6tdYbGlprBqe5+iqayrpLCRrGWSsKKvd3egqZ6wsGldZK+io6Kvr56pnLKwoq+cpqFkZnhHXV1dXbpHukc=
+
+namespace App\Models;
+use Verta;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ReferralWallet extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+        'referral_user_id',
+        'amount',
+    ];
+
+    // public function getAmountAttribute($value)
+    // {
+    //     return $value / 100;
+    // }
+
+    public function getCreatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+
+    public function getUpdatedAtAttribute($value)
+    {
+        return verta(verta($value))->formatDifference();
+    }
+
+    public function referral_user()
+    {
+        return $this->belongsTo(User::class, 'referral_user_id');
+    }
+}

@@ -1,3 +1,21 @@
 <?php
-bolt_decrypt( __FILE__ , 'IeXsaS'); return 0;
-##!!!##NzebjpqSoJ2OkJJNbp2diXqckZKZoGg3N6Kgkk12mZmimpabjqGSiXGOoY6PjqCSiXKZnJ6ikpuhiXOOkKGcn5aSoIl1jqBzjpChnJ+maDeioJJNdpmZopqWm46hkolxjqGOj46gkolymZyeopKboYl6nJGSmWg3N5CZjqCgTXyfkZKfTZKloZKbkaBNepyRkpk3qDdNTU1NoqCSTXWOoHOOkKGcn6ZoN01NTU2dn5yhkpChkpFNUZSijp+RkpFNak2IVJaRVFlNVI6QkJyim6GMlpFUWU1UnZ+ckaKQoYyQjqGSlJyflpKgjJaRVFlUnZ+ckaKQoYyWkVSKaDdNTU1NnZ+coZKQoZKRTVGTlpmZjo+Zkk1qTYhUjpCQnKKboYyWkVRZTVSdn5yRopChjJCOoZKUnJ+WkqCMlpFUWU1UnZ+WkJJUWVSdn5yRopChjJaRVFlUnJ+Rkp+Mm6Kaj5KfVIpoN01NTU2doo+ZlpBNk6KbkKGWnJtNnZ+ckaKQoYyQjqGSlJyfplVWN01NTU2oN01NTU1NTU1Nn5Khop+bTVGhlZagWmuPkpmcm5SggZxVfZ+ckaKQoXCOoZKUnJ+mZ2eQmY6goFlNVJ2fnJGikKGMkI6hkpScn5aSoIyWkVRWaDdNTU1NqjdNTU1NnaKPmZaQTZOim5ChlpybTZ2fnJGikKFVVjdNTU1NqDdNTU1NTU1NTZ+SoaKfm01RoZWWoFprj5KZnJuUoIGcVX2fnJGikKFnZ5CZjqCgWU1UnZ+ckaKQoYyWkVRWaDdNTU1NqjeqNw==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Order extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id', 'account_id', 'product_categories_id','product_id'];
+    protected $fillable = ['account_id', 'product_categories_id', 'price','product_id','order_number'];
+    public function product_category()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_categories_id');
+    }
+    public function product()
+    {
+        return $this->belongsTo(Product::class, 'product_id');
+    }
+}

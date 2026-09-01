@@ -1,3 +1,43 @@
 <?php
-bolt_decrypt( __FILE__ , '1lin7D'); return 0;
-##!!!##+fldUFxUYl9QUlQPMF9fSzdjY19LMl5dY2FeW1tUYWIq+flkYlQPMF9fSzxeU1RbYktEYlRTQ1RiYzBSUl5kXWMq+WRiVA84W1tkXFhdUGNUSzdjY19LQVRgZFRiYyr5+VJbUGJiD0RiVFNDVGJjMFJSXmRdYzJeXWNhXltbVGEPVGdjVF1TYg8yXl1jYV5bW1Rh+Wr5Dw8PD19kUVtYUg9VZF1SY1heXQ9dVGZDVGJjMFJSXmRdYxcTUFJSXmRdY05YUxsPE2NUYmNOUFJSXmRdY05YUxj5Dw8PD2r5Dw8PDw8PDw9YVQ8XEBNjV1hiHC1SV1RSWkRiVGE3UGJDVGJjMFJSXmRdYxcTUFJSXmRdY05YUxsPE2NUYmNOUFJSXmRdY05YUxgYD2r5Dw8PDw8PDw8PDw8PE2NXWGIcLVxQYVpDVGJjMFJSXmRdY0RiVFMXE1BSUl5kXWNOWFMbDxNjVGJjTlBSUl5kXWNOWFMYKvkPDw8PDw8PDw8PDw9hVGNkYV0PVVBbYlQq+Q8PDw8PDw8PbPkPDw8PDw8PD2FUY2RhXQ9jYWRUKvkPDw8PbPn5Dw8PD19kUVtYUg9VZF1SY1heXQ9cUGFaQ1RiYzBSUl5kXWNEYlRTFxNQUlJeZF1jTlhTGw8TY1RiY05QUlJeZF1jTlhTGCkPZV5YU/kPDw8PavkPDw8PDw8PD1hVDxcTY1dYYhwtUldUUlpEYlRhN1BiQ1RiYzBSUl5kXWMXE1BSUl5kXWNOWFMbDxNjVGJjTlBSUl5kXWNOWFMYGA9q+Q8PDw8PDw8PDw8PD2FUY2RhXSr5Dw8PDw8PDw9s+fkPDw8PDw8PDxNjVGJjMFJSXmRdYw8sD11UZg9EYlRTQ1RiYzBSUl5kXWMXGCr5Dw8PDw8PDw8TY1RiYzBSUl5kXWMcLVBSUl5kXWNOWFMPLA8TUFJSXmRdY05YUyr5Dw8PDw8PDw8TY1RiYzBSUl5kXWMcLWNUYmNOUFJSXmRdY05YUw8sDxNjVGJjTlBSUl5kXWNOWFMq+Q8PDw8PDw8PE2NUYmMwUlJeZF1jHC1iUGVUFxgq+Q8PDw9s+fkPDw8PX2RRW1hSD1VkXVJjWF5dD1JXVFJaRGJUYTdQYkNUYmMwUlJeZF1jFxNQUlJeZF1jTlhTGw8TY1RiY05QUlJeZF1jTlhTGPkPDw8PavkPDw8PDw8PD1hVDxcTY1dYYhwtVlRjMl5kXWM+VURiVD9UYURiVGEXE2NUYmNOUFJSXmRdY05YUxsPE1BSUl5kXWNOWFMYDy0sDyAPFRUPE2NXWGIcLVZUYzJeZF1jPlVEYlQ/VGFEYlRhFxNjVGJjTlBSUl5kXWNOWFMbDxNQUlJeZF1jTlhTGA8rLA8iGA9q+Q8PDw8PDw8PDw8PD2FUY2RhXQ9jYWRUKvkPDw8PDw8PD2z5Dw8PDw8PDw9hVGNkYV0PVVBbYlQq+Q8PDw9s+Q8PDw9fZFFbWFIPVWRdUmNYXl0PVlRjMl5kXWM+VURiVD9UYURiVGEXE2NUYmNOUFJSXmRdY05YUxsPE1BSUl5kXWNOWFMY+Q8PDw9q+Q8PDw8PDw8PE1NQY1APLA9EYlRTQ1RiYzBSUl5kXWMpKWZXVGFUFxZjVGJjTlBSUl5kXWNOWFMWGw8TY1RiY05QUlJeZF1jTlhTGBwtZldUYVQXFlBSUl5kXWNOWFMWGw8TUFJSXmRdY05YUxgcLVJeZF1jFxgq+Q8PDw8PDw8PYVRjZGFdDxNTUGNQKvkPDw8PbPls+Q==
+
+namespace App\Http\Controllers;
+
+use App\Models\UsedTestAccount;
+use Illuminate\Http\Request;
+
+class UsedTestAccountController extends Controller
+{
+    public function newTestAccount($account_id, $test_account_id)
+    {
+        if (!$this->checkUserHasTestAccount($account_id, $test_account_id)) {
+            $this->markTestAccountUsed($account_id, $test_account_id);
+            return false;
+        }
+        return true;
+    }
+
+    public function markTestAccountUsed($account_id, $test_account_id): void
+    {
+        if ($this->checkUserHasTestAccount($account_id, $test_account_id)) {
+            return;
+        }
+
+        $testAccount = new UsedTestAccount();
+        $testAccount->account_id = $account_id;
+        $testAccount->test_account_id = $test_account_id;
+        $testAccount->save();
+    }
+
+    public function checkUserHasTestAccount($account_id, $test_account_id)
+    {
+        if ($this->getCountOfUsePerUser($test_account_id, $account_id) >= 1 && $this->getCountOfUsePerUser($test_account_id, $account_id) <= 3) {
+            return true;
+        }
+        return false;
+    }
+    public function getCountOfUsePerUser($test_account_id, $account_id)
+    {
+        $data = UsedTestAccount::where('test_account_id', $test_account_id)->where('account_id', $account_id)->count();
+        return $data;
+    }
+}

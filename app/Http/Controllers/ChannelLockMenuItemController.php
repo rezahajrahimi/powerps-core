@@ -1,3 +1,47 @@
 <?php
-bolt_decrypt( __FILE__ , '0C2THD'); return 0;
-##!!!##j4/z5vLq+PXm6OqlxvX14c35+fXhyPTz+ff08fHq9/jAj/r46qXG9fXh0vTp6vH44cjt5vPz6vHR9Ojw0urz+s756vLAj4/6+OqlzvHx+vLu8+b56uHN+fn14dfq9vrq+PnAj4/o8eb4+KXI7ebz8+rx0fTo8NLq8/rO+eryyPTz+ff08fHq96Xq/fnq8+n4pcj08/n39PHx6vePAI+lpaWl9frn8e7opev68+j57vTzpfjq6umtro+lpaWlAI+lpaWlpaWlpe7rpa3I7ebz8+rx0fTo8NLq8/rO+eryv7/m8fGtrrLD7vjK8vX5/q2urqUAj6WlpaWlpaWlpaWlpanp5vnmpaWlpaWlpaWlpaWlpcKl8+r8pcjt5vPz6vHR9Ojw0urz+s756vKtrsCPpaWlpaWlpaWlpaWlqenm+eayw/Pm8uqlpaWlpaWlwqWs8ubu86zAj6WlpaWlpaWlpaWlpanp5vnmssPm8e7m+OTz5vLqpcKlrF0tXTZdLGARpV05XTZeDV0+XRGlXgldPF4GXSylXTRdNqVfLl0sXgtdLF4JXgxdLGARpV03YBFdNqVdPl07Xg2lXS1dOV4NYBFdNLOswI+lpaWlpaWlpaWlpaWp6eb55rLD8er76vGlpaWlpaXCpbbAj6WlpaWlpaWlpaWlpanp5vnmssP45vvqra7Aj6WlpaWlpaWlpaWlpffq+fr386X59/rqwI+lpaWlpaWlpQKPpaWlpaWlpaX36vn69/Ol6+bx+OrAj6WlpaUCj6WlpaX1+ufx7uil6/rz6Pnu9POl7Or5yO3m8/Pq8dH06PDS5u7z0urz+tnu+fHqra6PpaWlpQCPpaWlpaWlpaWp6eb55qXCpcjt5vPz6vHR9Ojw0urz+s756vK/v/zt6vfqrazz5vLqrLGlrPLm7vOsrrLD6+73+PmtrsCPpaWlpaWlpaXu66Wtqenm+ealpsKl8/rx8a6lAI+lpaWlpaWlpaWlpaX36vn69/Olqenm+ebAj6WlpaWlpaWlAqXq8fjqpQCPpaWlpaWlpaWlpaWlqfnt7viyw/jq6umtrsCPpaWlpaWlpaWlpaWl9+r5+vfzpan57e74ssPs6vnI7ebz8+rx0fTo8NLm7vPS6vP62e758eqtrsCPpaWlpaWlpaUCj6WlpaUCj6WlpaX1+ufx7uil6/rz6Pnu9POl7Or5yO3m8/Pq8dH06PDS6vP62er9+a2uAI+lpaWlpaWlpanp5vnmpcKlyO3m8/Pq8dH06PDS6vP6zvnq8r+//O3q9+qtrPPm8uqssaWn8ubu86eussPr7vf4+a2uwI+lpaWlpaWlpffq+fr386Wp6eb55rLD5vHu5vjk8+by6sCPj6WlpaUCj6WlpaX1+ufx7uil6/rz6Pnu9POl+vXp5vnqyO3m8/Pq8dH06PDS6vP6xvHu+NPm8urH/tHq++rxrdfq9vrq+Pmlqffq9vrq+Pmuj6WlpaUAj6WlpaWlpaWlqenm+ealwqXI7ebz8+rx0fTo8NLq8/rO+eryv7/87er36q2s8er76vGssaWp9+r2+ur4+bLD8er76vGussPr7vf4+a2uwI+lpaWlpaWlpe7rpa2p6eb55qWmwqXz+vHxrqUAj6WlpaWlpaWlpaWlpanp5vnmssPm8e7m+OTz5vLqpcKlqffq9vrq+Pmyw+bx7ub45PPm8urAj6WlpaWlpaWlpaWlpanp5vnmssP69enm+eqtrsCPpaWlpaWlpaWlpaWl9+r5+vfzpfn3+urAj6WlpaWlpaWlAqXq8fjqpQCPpaWlpaWlpaWlpaWl9+r5+vfzpffq+PX08/jqra6yw+/49POt6+bx+Oqxpbm1tq7ApaWlpaWlpaUCj6WlpaUCjwKP
+
+namespace App\Http\Controllers;
+use App\Models\ChannelLockMenuItem;
+
+use Illuminate\Http\Request;
+
+class ChannelLockMenuItemController extends Controller
+{
+    public function seed()
+    {
+        if (ChannelLockMenuItem::all()->isEmpty()) {
+            $data             = new ChannelLockMenuItem();
+            $data->name       = 'main';
+            $data->alias_name = 'برای شروع، لطفا در کانالهای زیر عضو بشوید.';
+            $data->level      = 1;
+            $data->save();
+            return true;
+        }
+        return false;
+    }
+    public function getChannelLockMainMenuTitle()
+    {
+        $data = ChannelLockMenuItem::where('name', 'main')->first();
+        if ($data != null) {
+            return $data;
+        } else {
+            $this->seed();
+            return $this->getChannelLockMainMenuTitle();
+        }
+    }
+    public function getChannelLockMenuText(){
+        $data = ChannelLockMenuItem::where('name', "main")->first();
+        return $data->alias_name;
+
+    }
+    public function updateChannelLockMenuAlisNameByLevel(Request $request)
+    {
+        $data = ChannelLockMenuItem::where('level', $request->level)->first();
+        if ($data != null) {
+            $data->alias_name = $request->alias_name;
+            $data->update();
+            return true;
+        } else {
+            return response()->json(false, 401);        }
+    }
+}

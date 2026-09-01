@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , 'lyHxXI'); return 0;
-##!!!##UFC0p7Orubanqatmh7a2opO1qquyuYFQULu5q2aPsrK7s6+0p7qrooqnuqeop7mroouytbe7q7S6ooynqbq1uK+ruaKOp7mMp6m6tbi/gVC7uatmj7Kyu7OvtKe6q6KKp7qnqKe5q6KLsrW3u6u0uqKTtaqrsoFQUKmyp7m5Zpu5q7iNuLW7tpyruK+sr6mnuq+1tJanv7OrtLqTq7qutapmq766q7SquWaTtaqrslDBUGZmZma7uatmjqe5jKepurW4v4FQUGZmZma2uLW6q6m6q6pmaqyvsrKnqLKrZoNmoW27uau4pa24tbu2pa+qbXJmba+5pbyruK+sr6uqbXJmbbanv7OrtLqlsau/bXJmba+5pau0p6iyq6pto4FQUGZmZma2uLW6q6m6q6pmaqmnubq5ZoNmoVBmZmZmZmZmZm2vuaW8q7ivrK+rqm1mg4Rmbai1tbKrp7RtclBmZmZmZmZmZm2vuaWrtKeosquqbWaDhGZtqLW1squntG1yUGZmZmajgVBQZmZmZra7qLKvqWasu7Spuq+1tGa7uau4jbi1u7Zub1BmZmZmwVBmZmZmZmZmZriruru4tGZquq6vuXOEqKuytbStuZq1bpu5q7iNuLW7toCAqbKnublvgVBmZmZmw1DDUA==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class UserGroupVerificationPaymentMethod extends Model
+{
+    use HasFactory;
+
+    protected $fillable = ['user_group_id', 'is_verified', 'payment_key', 'is_enabled'];
+
+    protected $casts = [
+        'is_verified' => 'boolean',
+        'is_enabled' => 'boolean',
+    ];
+
+    public function userGroup()
+    {
+        return $this->belongsTo(UserGroup::class);
+    }
+}

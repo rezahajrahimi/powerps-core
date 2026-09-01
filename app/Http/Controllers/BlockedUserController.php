@@ -1,3 +1,45 @@
 <?php
-bolt_decrypt( __FILE__ , 'mDhU6z'); return 0;
-##!!!##KCiMf4uDkY5/gYM+X46OemaSko56YY2MkpCNioqDkJFZKCiTkYM+X46OemuNgoOKkXpgio2BiYOCc5GDkFkok5GDPmeKipOLh4x/koN6ZpKSjnpwg4+Tg5GSWSgogYp/kZE+YIqNgYmDgnORg5BhjYySkI2KioOQPoOWkoOMgpE+YY2MkpCNioqDkCiZKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+fX2BjYyRkpCTgZJGRyg+Pj4+mSg+Pj4+Pj4+PkKShoeRS1yAio2BiYOCc5GDkD5bPoyDlT5gio2BiYOCc5GDkEZHWSg+Pj4+myg+Pj4+jpOAioeBPoSTjIGSh42MPoWDkmCKjYGJg4JzkYOQaoeRkkZHKD4+Pj6ZKD4+Pj4+Pj4+kIOSk5CMPkKShoeRS1yAio2BiYOCc5GDkEtchYOSYIqNgYmDgnORg5Bqh5GSRkdZKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+f4KCYIqNgYmDgnORg5BGcIOPk4ORkj5CkIOPk4ORkkcoPj4+PpkoPj4+Pj4+Pj5NTT6BhoOBiT6HhD6MjZI+g5aHkZI+f4KCPoyDlT6NjIMoPj4+Pj4+Pj5CgIqNgYmDgnORg5A+Wz5CkoaHkUtcgIqNgYmDgnORg5BLXJWGg5CDRkV/gYGNk4ySfYeCRUo+QpCDj5ODkZJLXH+BgY2TjJJngkdLXISHkJGSRkdZKD4+Pj4+Pj4+h4Q+Rj9CgIqNgYmDgnORg5BHPpkoPj4+Pj4+Pj4+Pj4+QpKGh5FLXICKjYGJg4JzkYOQS1x/goJgio2BiYOCc5GDkEZCkIOPk4ORkktcf4GBjZOMkmeCSj5CkIOPk4ORkktckIN/kY2MR1koPj4+Pj4+Pj6bKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+kIOLjZSDYIqNgYmDgnORg5BGcIOPk4ORkj5CkIOPk4ORkkcoPj4+PpkoPj4+Pj4+Pj5CgIqNgYmDgnORg5A+Wz5CkoaHkUtcgIqNgYmDgnORg5BLXJWGg5CDRkV/gYGNk4ySfYeCRUo+QpCDj5ODkZJLXH+BgY2TjJJngkdLXISHkJGSRkdZKD4+Pj4+Pj4+h4Q+RkKAio2BiYOCc5GDkEc+mSg+Pj4+Pj4+Pj4+Pj5CkoaHkUtcgIqNgYmDgnORg5BLXJCDi42Ug2CKjYGJg4JzkYOQRkKQg4+Tg5GSS1x/gYGNk4ySZ4JHWSg+Pj4+Pj4+PpsoPj4+PpsoPj4+Po6TgIqHgT6Ek4yBkoeNjD6Fg5Jgio2BiYOCc5GDkEZCf4GBjZOMkn2HgkcoPj4+PpkoPj4+Pj4+Pj6Qg5KTkIw+QpKGh5FLXICKjYGJg4JzkYOQS1yFg5Jgio2BiYOCc5GDkEZCf4GBjZOMkn2HgkdZKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+h5Fgio2BiYOCRkJ/gYGNk4ySfYeCRyg+Pj4+mSg+Pj4+Pj4+PpCDkpOQjD5CkoaHkUtcgIqNgYmDgnORg5BLXIeRYIqNgYmDgkZCf4GBjZOMkn2HgkdZKD4+Pj6bKD4+Pj6Ok4CKh4E+hJOMgZKHjYw+hYOSYIqNgYmDgnORg5BhjZOMkkZHKD4+Pj6ZKD4+Pj4+Pj4+kIOSk5CMPkKShoeRS1yAio2BiYOCc5GDkEtchYOSYIqNgYmDgnORg5BhjZOMkkZHWSg+Pj4+myibKA==
+
+namespace App\Http\Controllers;
+
+use App\Models\BlockedUser;
+use Illuminate\Http\Request;
+
+class BlockedUserController extends Controller
+{
+    public function __construct()
+    {
+        $this->blockedUser = new BlockedUser();
+    }
+    public function getBlockedUserList()
+    {
+        return $this->blockedUser->getBlockedUserList();
+    }
+    public function addBlockedUser(Request $request)
+    {
+        // check if not exist add new one
+        $blockedUser = $this->blockedUser->where('account_id', $request->accountId)->first();
+        if (!$blockedUser) {
+            $this->blockedUser->addBlockedUser($request->accountId, $request->reason);
+        }
+    }
+    public function removeBlockedUser(Request $request)
+    {
+        $blockedUser = $this->blockedUser->where('account_id', $request->accountId)->first();
+        if ($blockedUser) {
+            $this->blockedUser->removeBlockedUser($request->accountId);
+        }
+    }
+    public function getBlockedUser($account_id)
+    {
+        return $this->blockedUser->getBlockedUser($account_id);
+    }
+    public function isBlocked($account_id)
+    {
+        return $this->blockedUser->isBlocked($account_id);
+    }
+    public function getBlockedUserCount()
+    {
+        return $this->blockedUser->getBlockedUserCount();
+    }
+}

@@ -1,3 +1,18 @@
 <?php
-bolt_decrypt( __FILE__ , 'HSL8bL'); return 0;
-##!!!##19c7LjoyQD0uMDLtDj09KRo8MTI5QAjX10JAMu0WOTlCOjY7LkEyKREuQS4vLkAyKRI5PD5CMjtBKRMuMEE8PzYyQCkVLkATLjBBPD9GCNdCQDLtFjk5Qjo2Oy5BMikRLkEuLy5AMikSOTw+QjI7QSkaPDEyOQjX1zA5LkBA7RA/Rj1BPB0uRjoyO0HtMkVBMjsxQO0aPDEyOddI1+3t7e1CQDLtFS5AEy4wQTw/RgjX7e3t7T0/PEEyMEEyMe3xNEIuPzEyMe0K7Sj0NjH0KgjX7e3t7T0/PEEyMEEyMe3xMzY5OS4vOTLtCu0o9DsuOjL0+e30Lj02LDgyRvT57fQyO0P0+e30MC45OS8uMDgsQj859Pnt9DI6LjY59Pnt9D0uQEBEPD8x9Pnt9DY9OywwLjk5Ly4wOCxCPzn0+e30QEIwMDJAQCxCPzn0+e30MC47MDI5LEI/OfT57fQ9Lj9BNi45OUYsPS42MSxCPzn0+e30NkAsMzZFMjEsPy5BMvT57fQ2QCwzMjIsPS42MSwvRixCQDI/9Pn0NkAsLjBBNkMy9CoI1+3t7e09Qi85NjDtM0I7MEE2PDvtMD9GPUE8LEE/LjtALjBBNjw7QPX21+3t7e1I1+3t7e3t7e3tPzJBQj877fFBNTZA+gs1LkAaLjtG9SE/LjtALjBBNjw7ED9GPUE8BwcwOS5AQPnt9DA/Rj1BPCw9LkY6MjtBLDYx9PYI1+3t7e1K19dK1w==
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class CryptoPayment extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['name', 'api_key', 'env', 'callback_url', 'email', 'password', 'ipn_callback_url', 'success_url', 'cancel_url', 'partially_paid_url', 'is_fixed_rate', 'is_fee_paid_by_user','is_active'];
+    public function crypto_transactions()
+    {
+        return $this->hasMany(TransactionCrypto::class, 'crypto_payment_id');
+    }
+
+}

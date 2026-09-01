@@ -1,3 +1,128 @@
 <?php
-bolt_decrypt( __FILE__ , 'f5MkQ5'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Jobs\BatchMessageJob;
+use App\Models\MarketingCampaign;
+use App\Services\LicenseFeatureService;
+use App\Services\MarketingSegmentService;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+
+class MarketingCampaignController extends Controller
+{
+    public function __construct(private LicenseFeatureService $license) {}
+
+    public function index()
+    {
+        if (! $this->license->isGold()) {
+            return $this->license->goldRequiredResponse();
+        }
+
+        return response()->json(MarketingCampaign::orderByDesc('id')->get());
+    }
+
+    public function previewRecipients(Request $request, MarketingSegmentService $segmentService)
+    {
+        if (! $this->license->isGold()) {
+            return $this->license->goldRequiredResponse();
+        }
+
+        $request->validate([
+            'segment_type' => 'required|string',
+            'segment_params' => 'nullable|array',
+        ]);
+
+        $recipients = $segmentService->resolveRecipients(
+            $request->segment_type,
+            $request->segment_params
+        );
+
+        return response()->json([
+            'count' => count($recipients),
+            'sample' => array_slice($recipients, 0, 10),
+        ]);
+    }
+
+    public function store(Request $request, MarketingSegmentService $segmentService)
+    {
+        if (! $this->license->isGold()) {
+            return $this->license->goldRequiredResponse();
+        }
+
+        $data = $request->validate([
+            'name' => 'required|string|max:255',
+            'segment_type' => 'required|string',
+            'segment_params' => 'nullable|array',
+            'message' => 'required|string',
+            'cta_type' => 'nullable|string',
+            'cta_payload' => 'nullable|string',
+            'scheduled_at' => 'nullable|date',
+        ]);
+
+        $imagePath = null;
+        if ($request->hasFile('image')) {
+            $file = $request->file('image');
+            $filename = time() . '_' . $file->getClientOriginalName();
+            $directory = public_path('storage/admin_messages');
+            if (! file_exists($directory)) {
+                mkdir($directory, 0777, true);
+            }
+            $file->move($directory, $filename);
+            $imagePath = 'storage/admin_messages/' . $filename;
+        }
+
+        $recipients = $segmentService->resolveRecipients(
+            $data['segment_type'],
+            $data['segment_params'] ?? []
+        );
+
+        if ($recipients === []) {
+            return response()->json(['message' => 'هیچ گیرنده‌ای برای این سگمنت یافت نشد.'], 422);
+        }
+
+        $scheduledAt = isset($data['scheduled_at']) ? Carbon::parse($data['scheduled_at']) : null;
+        $campaign = MarketingCampaign::create([
+            'name' => $data['name'],
+            'segment_type' => $data['segment_type'],
+            'segment_params' => $data['segment_params'] ?? null,
+            'message' => $data['message'],
+            'image_path' => $imagePath,
+            'cta_type' => $data['cta_type'] ?? null,
+            'cta_payload' => $data['cta_payload'] ?? null,
+            'scheduled_at' => $scheduledAt,
+            'status' => $scheduledAt && $scheduledAt->isFuture() ? 'scheduled' : 'processing',
+            'total_users' => count($recipients),
+            'recipient_ids' => $recipients,
+        ]);
+
+        $ctaButtons = $segmentService->buildCtaButtons($campaign->cta_type, $campaign->cta_payload);
+        $job = new BatchMessageJob(
+            'marketing_campaign',
+            $recipients,
+            $data['message'],
+            ['cta_buttons' => $ctaButtons, 'image_path' => $imagePath],
+            null,
+            $campaign->id
+        );
+
+        if ($scheduledAt && $scheduledAt->isFuture()) {
+            $job->delay($scheduledAt);
+        }
+
+        dispatch($job);
+
+        return response()->json($campaign, 201);
+    }
+
+    public function destroy(int $id)
+    {
+        if (! $this->license->isGold()) {
+            return $this->license->goldRequiredResponse();
+        }
+
+        MarketingCampaign::findOrFail($id)->delete();
+
+        return response()->json(true);
+    }
+}

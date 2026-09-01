@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , 'bFwIgS'); return 0;
-##!!!##LCyQg4+HlZKDhYdCY5KSfmqWlpJ+dIeTl4eVlpVdLCyXlYdCa46Ol4+LkIOWh35okZeQhoOWi5GQfmqWlpJ+aJGUj3SHk5eHlZZdLCyFjoOVlUJ1lpGUh3WHlJiLhYd2m5KHdIeTl4eVlkKHmpaHkIaVQmiRlI90h5OXh5WWLJ0sQkJCQlFMTCxCQkJCQkxCZoeWh5SPi5CHQouIQpaKh0KXlYeUQouVQoOXloqRlIuch4ZClpFCj4ONh0KWiouVQpSHk5eHlZZQLEJCQkJCTFEsQkJCQpKXhI6LhUKIl5CFlouRkEKDl5aKkZSLnIdKS1xChJGRjixCQkJCnSxCQkJCQkJCQpSHlpeUkEKIg46Vh10sQkJCQp8sLEJCQkJRTEwsQkJCQkJMQmmHlkKWiodCmIOOi4aDlouRkEKUl46HlUKWioOWQoOSko6bQpaRQpaKh0KUh5OXh5WWUCxCQkJCQkwsQkJCQkJMQmKUh5aXlJBCg5SUg5telZaUi5CJTkJ+a46Ol4+LkIOWh35lkZCWlIOFlpV+eIOOi4aDlouRkH54g46LhoOWi5GQdJeOh56DlJSDm56VlpSLkIlgLEJCQkJCTFEsQkJCQpKXhI6LhUKIl5CFlouRkEKUl46HlUpLXEKDlJSDmyxCQkJCnSxCQkJCQkJCQpSHlpeUkEJ9LEJCQkJCQkJCQkJCQlFRLEJCQkJCQkJCf10sQkJCQp8snyw=
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class StoreServiceTypeRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return false;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
+     */
+    public function rules(): array
+    {
+        return [
+            //
+        ];
+    }
+}

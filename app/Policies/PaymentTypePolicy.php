@@ -1,3 +1,66 @@
 <?php
-bolt_decrypt( __FILE__ , 'Y44ZDz'); return 0;
-##!!!##4+NHOkY+TEk6PD75GklJNSlIRUI8Qj5MFOPjTkw++RpJSTUmSD0+RUw1KTpSRj5HTS1SST4U405MPvkaSUk1Jkg9PkVMNS5MPksU405MPvkiRUVORkJHOk0+NRpOTUE1Gjw8PkxMNSs+TElIR0w+FOPjPEU6TEz5KTpSRj5HTS1SST4pSEVCPFLjVOP5+fn5CAMD4/n5+fn5A/kdPk0+S0ZCRz75UEE+TUE+S/lNQT75Tkw+S/k8Okf5T0I+UPk6R1L5Rkg9PkVMB+P5+fn5+QMI4/n5+flJTjtFQjz5P05HPE1CSEf5T0I+UBpHUgEuTD5L+f1OTD5LAhP5O0hIReP5+fn5VOP5+fn5+fn5+QgI4/n5+flW4+P5+fn5CAMD4/n5+fn5A/kdPk0+S0ZCRz75UEE+TUE+S/lNQT75Tkw+S/k8Okf5T0I+UPlNQT75Rkg9PkUH4/n5+fn5Awjj+fn5+UlOO0VCPPk/Tkc8TUJIR/lPQj5QAS5MPkv5/U5MPksF+Sk6UkY+R00tUkk++f1JOlJGPkdNLVJJPgIT+TtISEXj+fn5+VTj+fn5+fn5+fkICOP5+fn5VuPj+fn5+QgDA+P5+fn5+QP5HT5NPktGQkc++VBBPk1BPkv5TUE++U5MPkv5PDpH+TxLPjpNPvlGSD0+RUwH4/n5+fn5Awjj+fn5+UlOO0VCPPk/Tkc8TUJIR/k8Sz46TT4BLkw+S/n9Tkw+SwIT+TtISEXj+fn5+VTj+fn5+fn5+fkICOP5+fn5VuPj+fn5+QgDA+P5+fn5+QP5HT5NPktGQkc++VBBPk1BPkv5TUE++U5MPkv5PDpH+U5JPTpNPvlNQT75Rkg9PkUH4/n5+fn5Awjj+fn5+UlOO0VCPPk/Tkc8TUJIR/lOST06TT4BLkw+S/n9Tkw+SwX5KTpSRj5HTS1SST75/Uk6UkY+R00tUkk+AhP5O0hIReP5+fn5VOP5+fn5+fn5+QgI4/n5+flW4+P5+fn5CAMD4/n5+fn5A/kdPk0+S0ZCRz75UEE+TUE+S/lNQT75Tkw+S/k8Okf5PT5FPk0++U1BPvlGSD0+RQfj+fn5+fkDCOP5+fn5SU47RUI8+T9ORzxNQkhH+T0+RT5NPgEuTD5L+f1OTD5LBfkpOlJGPkdNLVJJPvn9STpSRj5HTS1SST4CE/k7SEhF4/n5+flU4/n5+fn5+fn5CAjj+fn5+Vbj4/n5+fkIAwPj+fn5+fkD+R0+TT5LRkJHPvlQQT5NQT5L+U1BPvlOTD5L+Tw6R/lLPkxNSEs++U1BPvlGSD0+RQfj+fn5+fkDCOP5+fn5SU47RUI8+T9ORzxNQkhH+Us+TE1ISz4BLkw+S/n9Tkw+SwX5KTpSRj5HTS1SST75/Uk6UkY+R00tUkk+AhP5O0hIReP5+fn5VOP5+fn5+fn5+QgI4/n5+flW4+P5+fn5CAMD4/n5+fn5A/kdPk0+S0ZCRz75UEE+TUE+S/lNQT75Tkw+S/k8Okf5ST5LRjpHPkdNRVL5PT5FPk0++U1BPvlGSD0+RQfj+fn5+fkDCOP5+fn5SU47RUI8+T9ORzxNQkhH+T9ISzw+HT5FPk0+AS5MPkv5/U5MPksF+Sk6UkY+R00tUkk++f1JOlJGPkdNLVJJPgIT+TtISEXj+fn5+VTj+fn5+fn5+fkICOP5+fn5VuNW4w==
+
+namespace App\Policies;
+
+use App\Models\PaymentType;
+use App\Models\User;
+use Illuminate\Auth\Access\Response;
+
+class PaymentTypePolicy
+{
+    /**
+     * Determine whether the user can view any models.
+     */
+    public function viewAny(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can view the model.
+     */
+    public function view(User $user, PaymentType $paymentType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can create models.
+     */
+    public function create(User $user): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can update the model.
+     */
+    public function update(User $user, PaymentType $paymentType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can delete the model.
+     */
+    public function delete(User $user, PaymentType $paymentType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can restore the model.
+     */
+    public function restore(User $user, PaymentType $paymentType): bool
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can permanently delete the model.
+     */
+    public function forceDelete(User $user, PaymentType $paymentType): bool
+    {
+        //
+    }
+}

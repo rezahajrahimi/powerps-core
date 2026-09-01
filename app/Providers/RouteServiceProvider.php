@@ -1,3 +1,40 @@
 <?php
-bolt_decrypt( __FILE__ , 'glOQWO'); return 0;
-##!!!##IyOHeoZ+jIl6fH45WomJdWmLiI+CfX6LjFQjI46MfjlihYWOhoKHeo1+dVx6fIF+dWt6jX5lgoaCjYKHgHVlgoaCjVQjjox+OWKFhY6Ggod6jX51X4iOh316jYKIh3VsjomJiIuNdWmLiI+CfX6LjHVriI6Nfmx+i4+CfH5pi4iPgn1+izl6jDlsfouPgnx+aYuIj4J9fotUI46MfjlihYWOhoKHeo1+dWGNjYl1a36Kjn6MjVQjjox+OWKFhY6Ggod6jX51bI6JiYiLjXVfenx6fX6MdWt6jX5lgoaCjX6LVCOOjH45YoWFjoaCh3qNfnVsjomJiIuNdV96fHp9fox1a4iOjX5UIyN8hXqMjDlriI6Nfmx+i4+CfH5pi4iPgn1+izl+kY1+h32MOWx+i4+CfH5pi4iPgn1+iyOUIzk5OTlIQ0MjOTk5OTlDOW2BfjmJeo2BOY2IOZKIjos5eomJhYJ8eo2CiIdAjDk7gYiGfjs5i4iOjX5HIzk5OTk5QyM5OTk5OUM5bZKJgnx6hYWSRTmOjH6LjDl6i345i359got+fI1+fTmBfot+OXp/jX6LOXqOjYF+h42CfHqNgoiHRyM5OTk5OUMjOTk5OTlDOVmPeos5jI2LgoeAIzk5OTk5Q0gjOTk5OYmOe4WCfDl8iIeMjTlhaGZeOVY5QEiBiIZ+QFQjIzk5OTlIQ0MjOTk5OTlDOV1+f4KHfjmSiI6LOYuIjo1+OYaIfX6FOXuCh32Ch4CMRTmJeo2NfouHOX+ChY1+i4xFOXqHfTmIjYF+izmLiI6Nfjl8iId/goCOi3qNgoiHRyM5OTk5OUNIIzk5OTmJjnuFgnw5f46HfI2CiIc5e4iIjUFCUzmPiIJ9Izk5OTmUIzk5OTk5OTk5a3qNfmWChoKNfotTU3+Ii0FAeomCQEU5f46HfI2CiIc5QWt+io5+jI05PYt+io5+jI1COZQjOTk5OTk5OTk5OTk5i36NjouHOWWChoKNU1OJfotmgoeOjX5BS1BJQkZXe5JBPYt+io5+jI1GV46MfotBQlhGV4J9OVhTOT2LfoqOfoyNRleCiUFCQlQjOTk5OTk5OTmWQlQjIzk5OTk5OTk5PY2BgoxGV4uIjo1+jEF/jod8jYKIhzlBQjmUIzk5OTk5OTk5OTk5OWuIjo1+U1OGgn19hX6Qeot+QUB6iYJAQiM5OTk5OTk5OTk5OTk5OTk5RleJi35/gpFBQHqJgkBCIzk5OTk5OTk5OTk5OTk5OTlGV4CLiI6JQXt6jH54iXqNgUFAi4iOjX6MSHqJgkeJgYlAQkJUIyM5OTk5OTk5OTk5OTlriI6NflNThoJ9fYV+kHqLfkFAkH57QEIjOTk5OTk5OTk5OTk5OTk5OUZXgIuIjolBe3qMfniJeo2BQUCLiI6NfoxIkH57R4mBiUBCQlQjOTk5OTk5OTmWQlQjOTk5OZYjliM=
+
+namespace App\Providers;
+
+use Illuminate\Cache\RateLimiting\Limit;
+use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\RateLimiter;
+use Illuminate\Support\Facades\Route;
+
+class RouteServiceProvider extends ServiceProvider
+{
+    /**
+     * The path to your application's "home" route.
+     *
+     * Typically, users are redirected here after authentication.
+     *
+     * @var string
+     */
+    public const HOME = '/home';
+
+    /**
+     * Define your route model bindings, pattern filters, and other route configuration.
+     */
+    public function boot(): void
+    {
+        RateLimiter::for('api', function (Request $request) {
+            return Limit::perMinute(270)->by($request->user()?->id ?: $request->ip());
+        });
+
+        $this->routes(function () {
+            Route::middleware('api')
+                ->prefix('api')
+                ->group(base_path('routes/api.php'));
+
+            Route::middleware('web')
+                ->group(base_path('routes/web.php'));
+        });
+    }
+}

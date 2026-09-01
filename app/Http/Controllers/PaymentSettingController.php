@@ -1,3 +1,129 @@
 <?php
-bolt_decrypt( __FILE__ , 'g5ZJMi'); return 0;
-##!!!##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
+namespace App\Http\Controllers;
+
+use App\Http\Controllers\HiddifyPannelController;
+use App\Models\PaymentSetting;
+
+class PaymentSettingController extends Controller
+{
+    public function __construct()
+    {
+        $this->hiddifyCtrl = new HiddifyPannelController();
+    }
+    public function seed()
+    {
+        try {
+            // // check run on local
+            // if (env('APP_ENV') != 'local') {
+            //     \Log::info('PaymentSetting table seeding failed because run on local');
+            //     return false;
+            // }
+            // truncate table
+            PaymentSetting::truncate();
+            // insert data
+            $data = [
+
+                [
+                    'key'         => 'shetab_verify',
+                    'value'       => $this->hiddifyCtrl->generateUUID(),
+                    'description' => "6104333333333333",
+                    'status'      => true,
+                ],
+                [
+                    'key'         => 'usd_transaction',
+                    'value'       => '0',
+                    'description' => '0',
+                    'status'      => true,
+                ],
+
+            ];
+            PaymentSetting::insert($data);
+            \Log::info('PaymentSetting table seeded successfully');
+            return true;
+        } catch (\Throwable $th) {
+            \Log::info("PaymentSetting table seeding failed: $th");
+            return false;
+        }
+    }
+    public function reGenerateShetabVerify()
+    {
+        $shetabVerify = $this->getPaymentSettingValueByKey('shetab_verify');
+        if ($shetabVerify) {
+            $this->setPaymentSettingValueByKey('shetab_verify', $this->hiddifyCtrl->generateUUID());
+            return $this->getPaymentSettingValueByKey('shetab_verify');
+        }
+        return response()->json(['message' => 'Shetab verify not found'], 500);
+    }
+    public function getPaymentSettingByKey($key)
+    {
+        $paymentSetting = new PaymentSetting();
+        $data = $paymentSetting->getPaymentSettingByKey($key);
+        if (!$data) {
+            $this->seed();
+            $data = $paymentSetting->getPaymentSettingByKey($key);
+        }
+        return $data;
+    }
+    public function getPaymentSettingValueByKey($key)
+    {
+        $paymentSetting = new PaymentSetting();
+        return $paymentSetting->getPaymentSettingValueByKey($key);
+    }
+    public function getPaymentSettingDescriptionByKey($key)
+    {
+        $paymentSetting = new PaymentSetting();
+        $paymentSetting = $paymentSetting->getPaymentSettingDescriptionByKey($key);
+
+        if (is_array($paymentSetting)) {
+            // use format text service
+            $paymentSetting = $this->telegramService->formatText($paymentSetting);
+        }
+        return $paymentSetting;
+    }
+    public function reverseStatusByKey($key)
+    {
+        $paymentSetting = new PaymentSetting();
+        return $paymentSetting->reverseStatusByKey($key);
+    }
+    public function setPaymentSettingValueByKey($key, $value)
+    {
+        $paymentSetting = new PaymentSetting();
+        return $paymentSetting->setPaymentSettingValueByKey($key, $value);
+    }
+    public function setPaymentSettingDescriptionByKey($key, $description)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        $paymentSetting->description = $description;
+        $paymentSetting->save();
+        return $paymentSetting;
+    }
+    public function setPaymentSettingStatusByKey($key, $status)
+    {
+        try {
+            $parsedStatus = filter_var($status, FILTER_VALIDATE_BOOLEAN, FILTER_NULL_ON_FAILURE);
+            if ($parsedStatus === null) {
+                $parsedStatus = $status === 1 || $status === '1';
+            }
+
+            $paymentSetting = $this->getPaymentSettingByKey($key);
+            $paymentSetting->status = $parsedStatus;
+            $paymentSetting->save();
+
+            return $paymentSetting;
+        } catch (\Throwable $th) {
+            \Log::info("PaymentSetting table seeding failed: $th");
+            return false;
+        }
+    }
+    public function getPaymentSettingStatusByKey($key)
+    {
+        $paymentSetting = $this->getPaymentSettingByKey($key);
+        if (!$paymentSetting) {
+            $this->seed();
+            $paymentSetting = $this->getPaymentSettingByKey($key);
+        }
+
+        return (bool) ($paymentSetting->status ?? false);
+    }
+
+}

@@ -1,3 +1,182 @@
 <?php
-bolt_decrypt( __FILE__ , '4QLPDW'); return 0;
-##!!!##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
+
+namespace App\Services;
+
+use App\Models\User;
+use App\Models\UserGroup;
+use App\Models\UserGroupPaymentMethod;
+use App\Models\UserGroupVerificationPaymentMethod;
+use App\Models\GlobalVerificationPaymentMethod;
+
+class PaymentAccessService
+{
+    public function getGroupForUser(User $user): ?UserGroup
+    {
+        if (!in_array($user->role, ['user', 'agent'])) {
+            return null;
+        }
+
+        if ($user->user_group_id) {
+            $group = UserGroup::find($user->user_group_id);
+            if ($group && $group->role_type === $user->role && !$group->is_default) {
+                return $group;
+            }
+        }
+
+        if ($user->role === 'agent') {
+            return UserGroup::where('role_type', 'agent')
+                ->where('is_default', true)
+                ->first();
+        }
+
+        return null;
+    }
+
+    public function getGroupForAccountId(int|string $accountId): ?UserGroup
+    {
+        $user = User::where('account_id', $accountId)->first();
+        if (!$user) {
+            return null;
+        }
+
+        return $this->getGroupForUser($user);
+    }
+
+    public function isAllowed(?UserGroup $group, string $paymentKey): bool
+    {
+        if (!$group) {
+            return true;
+        }
+
+        $method = UserGroupPaymentMethod::where('user_group_id', $group->id)
+            ->where('payment_key', $paymentKey)
+            ->first();
+
+        if (!$method) {
+            return true;
+        }
+
+        return (bool) $method->is_enabled;
+    }
+
+    public function isAllowedForUser(User $user, string $paymentKey): bool
+    {
+        $group = $this->getGroupForUser($user);
+
+        return $this->isAllowedForUserAndGroup($user, $group, $paymentKey);
+    }
+
+    public function isAllowedForUserAndGroup(User $user, ?UserGroup $group, string $paymentKey): bool
+    {
+        if ($user->role === 'user') {
+            if ($group) {
+                $verificationMethod = UserGroupVerificationPaymentMethod::where('user_group_id', $group->id)
+                    ->where('is_verified', (bool) $user->is_verified)
+                    ->where('payment_key', $paymentKey)
+                    ->first();
+
+                if ($verificationMethod) {
+                    return (bool) $verificationMethod->is_enabled;
+                }
+
+                return $this->isAllowed($group, $paymentKey);
+            }
+
+            return $this->isGlobalVerificationPaymentAllowed((bool) $user->is_verified, $paymentKey);
+        }
+
+        return $this->isAllowed($group, $paymentKey);
+    }
+
+    public function isGlobalVerificationPaymentAllowed(bool $isVerified, string $paymentKey): bool
+    {
+        $method = GlobalVerificationPaymentMethod::where('is_verified', $isVerified)
+            ->where('payment_key', $paymentKey)
+            ->first();
+
+        if (!$method) {
+            return true;
+        }
+
+        return (bool) $method->is_enabled;
+    }
+
+    public function isAllowedForAccountId(int|string $accountId, string $paymentKey): bool
+    {
+        $user = User::where('account_id', $accountId)->first();
+        if (!$user) {
+            return $this->isAllowed($this->getGroupForAccountId($accountId), $paymentKey);
+        }
+
+        return $this->isAllowedForUser($user, $paymentKey);
+    }
+
+    public function getEnabledPaymentKeys(?UserGroup $group): array
+    {
+        if (!$group) {
+            return UserGroup::PAYMENT_KEYS;
+        }
+
+        $methods = UserGroupPaymentMethod::where('user_group_id', $group->id)->get()->keyBy('payment_key');
+        $enabled = [];
+
+        foreach (UserGroup::PAYMENT_KEYS as $key) {
+            if (!isset($methods[$key]) || $methods[$key]->is_enabled) {
+                $enabled[] = $key;
+            }
+        }
+
+        return $enabled;
+    }
+
+    public function assignDefaultGroup(User $user): void
+    {
+        if ($user->role === 'user') {
+            $user->user_group_id = null;
+            $user->save();
+            return;
+        }
+
+        if ($user->role === 'agent') {
+            $defaultGroup = UserGroup::where('role_type', 'agent')
+                ->where('is_default', true)
+                ->first();
+
+            if ($defaultGroup) {
+                $user->user_group_id = $defaultGroup->id;
+                $user->save();
+            }
+        }
+    }
+
+    public function syncDefaultGroups(): void
+    {
+        $paymentKeys = UserGroup::PAYMENT_KEYS;
+
+        $agentGroup = UserGroup::firstOrCreate(
+            ['role_type' => 'agent', 'is_default' => true],
+            ['name' => 'نمایندگان (پیش‌فرض)']
+        );
+
+        foreach ($paymentKeys as $key) {
+            UserGroupPaymentMethod::firstOrCreate(
+                ['user_group_id' => $agentGroup->id, 'payment_key' => $key],
+                ['is_enabled' => true]
+            );
+        }
+
+        $this->syncGlobalVerificationPayments();
+    }
+
+    public function syncGlobalVerificationPayments(): void
+    {
+        foreach ([false, true] as $isVerified) {
+            foreach (UserGroup::PAYMENT_KEYS as $key) {
+                GlobalVerificationPaymentMethod::firstOrCreate(
+                    ['is_verified' => $isVerified, 'payment_key' => $key],
+                    ['is_enabled' => true]
+                );
+            }
+        }
+    }
+}

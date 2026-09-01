@@ -1,3 +1,23 @@
 <?php
-bolt_decrypt( __FILE__ , '1J9zFg'); return 0;
-##!!!##5eVJPEhATks8PkD7HEtLNyhKP0BHThbl5VBOQPskR0dQSERJPE9ANx88Tzw9PE5ANyBHSkxQQElPNyE8Pk9KTURATjcjPE4hPD5PSk1UFuVQTkD7JEdHUEhESTxPQDcfPE88PTxOQDcgR0pMUEBJTzcoSj9ARxbl5T5HPE5O+x5NSkknSkL7QFNPQEk/TvsoSj9AR+VW5fv7+/tQTkD7IzxOITw+T0pNVBbl+/v7+0tNSk9APk9AP/v/QURHRzw9R0D7GPs2Aj5NSkk6RD8CBwJLTUo/UD5POkQ/AjgW5eXl+/v7+0tQPUdEPvtBUEk+T0RKSfs+TUpJOkVKPQME5fv7+/tW5fv7+/v7+/v7TUBPUE1J+/9PQ0ROCBk9QEdKSUJOL0oDHk1KSSVKPRUVPkc8Tk4H+wI+TUpJOkQ/AgQW5fv7+/tY5fv7+/tLUD1HRD77QVBJPk9ESkn7S01KP1A+TwME5fv7+/tW5fv7+/v7+/v7TUBPUE1J+/9PQ0ROCBk9QEdKSUJOL0oDK01KP1A+Tx48T0BCSk1UFRU+RzxOTgf7AktNSj9QPk86RD8CBBbl+/v7+1jl5Vjl
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class CronLog extends Model
+{
+    use HasFactory;
+    protected $fillable = ['cron_id','product_id'];
+
+
+    public function cron_job()
+    {
+        return $this->belongsTo(CronJob::class, 'cron_id');
+    }
+    public function product()
+    {
+        return $this->belongsTo(ProductCategory::class, 'product_id');
+    }
+
+}

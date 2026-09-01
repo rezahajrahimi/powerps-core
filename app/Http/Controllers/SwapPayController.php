@@ -1,3 +1,338 @@
 <?php
-bolt_decrypt( __FILE__ , 'GMaRyL'); return 0;
-##!!!##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
+
+namespace App\Http\Controllers;
+
+use App\Models\AccountBallance;
+use App\Models\Bill;
+use App\Models\CryptoPayment;
+use App\Models\TransactionCrypto;
+use App\Models\User;
+use App\Services\SwapPayService;
+use App\Services\TelegramService;
+use Carbon\Carbon;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Validation\ValidationException;
+
+class SwapPayController extends Controller
+{
+    protected function resolveCredentials(): ?CryptoPayment
+    {
+        return CryptoPayment::where('name', 'swappay')->first();
+    }
+
+    protected function makeService(?CryptoPayment $config = null): ?SwapPayService
+    {
+        $config ??= $this->resolveCredentials();
+        if (! $config) {
+            return null;
+        }
+
+        $service = new SwapPayService($config->api_key, $config->password);
+
+        return $service->isConfigured() ? $service : null;
+    }
+
+    /**
+     * Create SwapPay invoice and store local crypto transaction.
+     * Returns payment URL string on success, or JsonResponse on failure.
+     */
+    public function createPayment(Request $request)
+    {
+        try {
+            $validated = $request->validate([
+                'amount' => 'required|numeric|min:0.1',
+                'order_id' => 'required|string',
+                'account_id' => 'required',
+                'preferred_link' => 'nullable|string',
+            ]);
+        } catch (ValidationException $e) {
+            return response()->json([
+                'success' => false,
+                'message' => collect($e->errors())->flatten()->first() ?? 'مبلغ یا اطلاعات فاکتور نامعتبر است.',
+            ], 422);
+        }
+
+        $config = $this->resolveCredentials();
+        $service = $this->makeService($config);
+        if (! $service || ! $config) {
+            Log::error('SwapPay createPayment: credentials missing');
+
+            return response()->json([
+                'success' => false,
+                'message' => 'تنظیمات SwapPay کامل نیست.',
+            ], 500);
+        }
+
+        $settingCntrl = new SettingController();
+        $mainUrl = rtrim((string) $settingCntrl->getMainUrl(), '/');
+
+        // Temporary return URL without invoice id; updated after create if needed.
+        $returnUrl = $mainUrl . '/swappay/return?order_id=' . urlencode($validated['order_id']);
+
+        $created = $service->createInvoice(
+            (float) $validated['amount'],
+            $returnUrl,
+            (string) $validated['order_id'],
+            'شارژ کیف پول #' . $validated['order_id'],
+            'account_id=' . $validated['account_id']
+        );
+
+        if (! ($created['success'] ?? false) || empty($created['result']['id'])) {
+            return response()->json([
+                'success' => false,
+                'message' => $created['error'] ?? 'خطا در ایجاد فاکتور SwapPay.',
+            ], 500);
+        }
+
+        $result = $created['result'];
+        $invoiceId = (string) $result['id'];
+        $paymentLinks = is_array($result['paymentLinks'] ?? null) ? $result['paymentLinks'] : [];
+
+        $preferred = strtoupper((string) ($validated['preferred_link'] ?? 'WEBSITE'));
+        $preferredOrder = match ($preferred) {
+            'TELEGRAM_BOT' => ['TELEGRAM_BOT', 'TELEGRAM_WEBAPP', 'WEBSITE'],
+            'TELEGRAM_WEBAPP' => ['TELEGRAM_WEBAPP', 'TELEGRAM_BOT', 'WEBSITE'],
+            default => ['WEBSITE', 'TELEGRAM_WEBAPP', 'TELEGRAM_BOT'],
+        };
+        $paymentUrl = SwapPayService::pickPaymentUrl($paymentLinks, $preferredOrder);
+        if (! SwapPayService::isUsablePaymentUrl($paymentUrl)) {
+            Log::error('SwapPay createPayment: no payment link in response', ['result' => $result]);
+
+            return response()->json([
+                'success' => false,
+                'message' => 'لینک پرداخت SwapPay دریافت نشد.',
+            ], 500);
+        }
+
+        $user = User::where('account_id', $validated['account_id'])->first();
+
+        TransactionCrypto::updateOrCreate(
+            [
+                'order_id' => (string) $validated['order_id'],
+                'gateway' => 'swappay',
+            ],
+            [
+                'account_id' => $validated['account_id'],
+                'username' => $user->username ?? 'admin',
+                'crypto_payment_id' => $config->id,
+                'amount_dollar' => (float) $validated['amount'],
+                'currency' => 'USD',
+                'status' => strtolower((string) ($result['status'] ?? 'pending')) === 'active'
+                    ? 'pending'
+                    : strtolower((string) ($result['status'] ?? 'pending')),
+                'payment_id' => $invoiceId,
+                'payment_url' => $paymentUrl,
+                'confirmed' => false,
+                'callback_data' => json_encode($result),
+            ]
+        );
+
+        return $paymentUrl;
+    }
+
+    /**
+     * Return URL handler: verify invoice with SwapPay and credit wallet if paid.
+     */
+    public function handleReturn(Request $request)
+    {
+        $invoiceId = trim((string) (
+            $request->input('invoice_id')
+            ?? $request->input('invoiceId')
+            ?? $request->input('id')
+            ?? data_get($request->all(), 'result.id')
+            ?? ''
+        ));
+        $orderId = trim((string) (
+            $request->input('order_id')
+            ?? $request->input('orderId')
+            ?? $request->input('externalId')
+            ?? $request->input('external_id')
+            ?? data_get($request->all(), 'result.externalId')
+            ?? ''
+        ));
+
+        $transaction = null;
+        if ($invoiceId !== '') {
+            $transaction = TransactionCrypto::where('gateway', 'swappay')
+                ->where('payment_id', $invoiceId)
+                ->first();
+        }
+        if (! $transaction && $orderId !== '') {
+            $transaction = TransactionCrypto::where('gateway', 'swappay')
+                ->where('order_id', $orderId)
+                ->first();
+        }
+
+        if (! $transaction) {
+            Log::warning('SwapPay return: transaction not found', [
+                'invoice_id' => $invoiceId,
+                'order_id' => $orderId,
+            ]);
+
+            return response('تراکنش یافت نشد.', 404);
+        }
+
+        $result = $this->confirmPaidTransaction($transaction);
+        if ($result === true) {
+            return response('پرداخت با موفقیت انجام شد. می‌توانید این پنجره را ببندید و به ربات/پنل برگردید.', 200);
+        }
+        if ($result === 'already') {
+            return response('این پرداخت قبلاً تایید شده است.', 200);
+        }
+
+        return response('پرداخت هنوز تایید نشده است. اگر مبلغ را پرداخت کرده‌اید چند لحظه بعد دوباره این صفحه را باز کنید.', 200);
+    }
+
+    /**
+     * Confirm a SwapPay transaction against the remote API and credit balance.
+     *
+     * @return true|false|'already'
+     */
+    public function confirmPaidTransaction(TransactionCrypto $transaction): bool|string
+    {
+        if (
+            $transaction->confirmed
+            || in_array(strtolower((string) $transaction->status), ['paid', 'confirmed'], true)
+        ) {
+            return 'already';
+        }
+
+        $service = $this->makeService();
+        if (! $service || empty($transaction->payment_id)) {
+            return false;
+        }
+
+        $remote = $service->getInvoice((string) $transaction->payment_id);
+        if (! ($remote['success'] ?? false)) {
+            return false;
+        }
+
+        $result = $remote['result'];
+        $status = (string) ($result['status'] ?? '');
+        $transaction->callback_data = json_encode($result);
+        $transaction->updated_at = Carbon::now();
+
+        if (! SwapPayService::isPaidStatus($status)) {
+            $transaction->status = strtolower($status !== '' ? $status : 'pending');
+            $transaction->save();
+
+            return false;
+        }
+
+        return $this->creditTransaction($transaction, $result) ? true : false;
+    }
+
+    /**
+     * Recheck unpaid SwapPay invoices so wallet is credited even if the user
+     * never opens the return URL.
+     */
+    public function confirmPendingPayments(): int
+    {
+        $confirmed = 0;
+        $pending = TransactionCrypto::where('gateway', 'swappay')
+            ->where(function ($query) {
+                $query->where('confirmed', false)->orWhereNull('confirmed');
+            })
+            ->whereNotIn('status', ['paid', 'confirmed', 'expired', 'cancelled', 'canceled', 'failed'])
+            ->whereNotNull('payment_id')
+            ->where('created_at', '>=', Carbon::now()->subDays(2))
+            ->orderBy('id')
+            ->limit(40)
+            ->get();
+
+        foreach ($pending as $transaction) {
+            try {
+                if ($this->confirmPaidTransaction($transaction) === true) {
+                    $confirmed++;
+                }
+            } catch (\Throwable $th) {
+                Log::error('SwapPay confirmPendingPayments', [
+                    'transaction_id' => $transaction->id,
+                    'error' => $th->getMessage(),
+                ]);
+            }
+        }
+
+        return $confirmed;
+    }
+
+    protected function creditTransaction(TransactionCrypto $transaction, array $result): bool
+    {
+        try {
+            return DB::transaction(function () use ($transaction, $result) {
+                $locked = TransactionCrypto::where('id', $transaction->id)->lockForUpdate()->first();
+                if (! $locked) {
+                    return false;
+                }
+                if (
+                    $locked->confirmed
+                    || in_array(strtolower((string) $locked->status), ['paid', 'confirmed'], true)
+                ) {
+                    return true;
+                }
+
+                $amountToAdd = (float) ($locked->amount_dollar ?? 0);
+                if ($amountToAdd <= 0 && isset($result['amount']['number'])) {
+                    $amountToAdd = (float) $result['amount']['number'];
+                }
+                if ($amountToAdd <= 0) {
+                    Log::error('SwapPay credit: invalid amount', ['transaction_id' => $locked->id]);
+
+                    return false;
+                }
+
+                $user = User::where('account_id', $locked->account_id)->first();
+                if (! $user) {
+                    Log::error('SwapPay credit: user not found', ['account_id' => $locked->account_id]);
+
+                    return false;
+                }
+
+                $accountBalance = AccountBallance::firstOrCreate(
+                    ['account_id' => $user->account_id],
+                    ['ballance' => 0, 'account_ballance_in_dollar' => 0]
+                );
+                $accountBalance->account_ballance_in_dollar = (float) $accountBalance->account_ballance_in_dollar + $amountToAdd;
+                $accountBalance->save();
+
+                $bill = Bill::where('bill_id', $locked->order_id)->first();
+                if ($bill) {
+                    $bill->status = 'paid';
+                    $bill->save();
+                }
+
+                $locked->status = 'confirmed';
+                $locked->confirmed = true;
+                $locked->callback_data = json_encode($result);
+                $locked->save();
+
+                try {
+                    $telegramService = new TelegramService();
+                    $telegramService->sendMessage(
+                        (string) $user->account_id,
+                        "کیف پول شما به مقدار {$amountToAdd} دلار افزایش یافت (SwapPay)"
+                    );
+                } catch (\Throwable $th) {
+                    Log::info('SwapPay telegram notify failed: ' . $th->getMessage());
+                }
+
+                Log::info('SwapPay payment confirmed', [
+                    'transaction_id' => $locked->id,
+                    'account_id' => $user->account_id,
+                    'amount' => $amountToAdd,
+                ]);
+
+                return true;
+            });
+        } catch (\Throwable $th) {
+            Log::error('SwapPay creditTransaction error', [
+                'transaction_id' => $transaction->id,
+                'error' => $th->getMessage(),
+            ]);
+
+            return false;
+        }
+    }
+}

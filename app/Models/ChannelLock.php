@@ -1,3 +1,14 @@
 <?php
-bolt_decrypt( __FILE__ , 'yXsxIm'); return 0;
-##!!!##fHzg09/X5eLT1deSs+Lizr/h1tfe5a18fOfl15K73t7n39vg0+bXzrbT5tPU0+XXzrfe4ePn1+DmzrjT1ebh5NvX5c660+W409Xm4eTrrXzn5deSu97e59/b4NPm18620+bT1NPl18633uHj59fg5s6/4dbX3q18fNXe0+XlkrXa0+Dg196+4dXdktfq5tfg1uWSv+HW19587XySkpKS5+XXkrrT5bjT1ebh5OutfJKSkpLi5OHm19Xm19aSltnn0+TW19aSr5LNmdvWmc+tfJKSkpLi5OHm19Xm19aSltjb3t7T1N7Xkq+SzZnV2tPg4Nfe0dvWmZ6Smdvl0dPV5tvo15nPrXx873w=
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ChannelLock extends Model
+{
+    use HasFactory;
+    protected $guarded = ['id'];
+    protected $fillable = ['channel_id', 'is_active'];
+
+}

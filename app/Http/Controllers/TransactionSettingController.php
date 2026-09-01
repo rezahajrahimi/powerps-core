@@ -1,3 +1,46 @@
 <?php
-bolt_decrypt( __FILE__ , 'l93O2t'); return 0;
-##!!!##19c7LjoyQD0uMDLtDj09KRVBQT0pEDw7QT88OTkyP0AI19dCQDLtDj09KRo8MTI5QCkhPy47QC4wQTY8OyAyQUE2OzQI10JAMu0WOTlCOjY7LkEyKRVBQT0pHzI+QjJAQQjX1zA5LkBA7SE/LjtALjBBNjw7IDJBQTY7NBA8O0E/PDk5Mj/tMkVBMjsxQO0QPDtBPzw5OTI/10jX7e3t7T1CLzk2MO0zQjswQTY8O+1AMjIx9fbX7e3t7UjX7e3t7e3t7e02M+31IT8uO0AuMEE2PDsgMkFBNjs0BwcuOTn19voLNkASOj1BRvX29u1I1+3t7e3t7e3t7e3t7fExLkEu7QrtOzJE7SE/LjtALjBBNjw7IDJBQTY7NPX2CNft7e3t7e3t7e3t7e3xMS5BLvoLMTw5OS4/LEE/LjtALjBBNjw77QrtMy45QDII1+3t7e3t7e3t7e3t7fExLkEu+gtALkMy9fYI1+3t7e3t7e3t7e3t7T8yQUI/O+1BP0IyCNft7e3t7e3t7UrX7e3t7e3t7e0/MkFCPzvtMy45QDII1+3t7e1K19ft7e09Qi85NjDtM0I7MEE2PDvtNDJBETw5OTw/IT8uO0AuMEE2PDsgMkFBNjs09fbX7e3tSNft7e3t8T0uRjo7MkEgMkFBNjs0EDtBPzntCu07MkTtHS5GOjI7QSAyQUE2OzQQPDtBPzw5OTI/9fYI1+3t7e3xMTw5OS4/IT8uO0AuMEE2PDvtCu3xPS5GOjsyQSAyQUE2OzQQO0E/OfoLNDJBHS5GOjI7QSAyQUE2OzQgQS5BQkAPRhgyRvX0QkAxLEE/LjtALjBBNjw79PYI1+3t7e02M+318TE8OTkuPyE/LjtALjBBNjw77QoK7TtCOTn27UjX7e3t7e3t7e3xPS5GOjsyQSAyQUE2OzQQO0E/OfoLQDIyMfX2CNft7e3t7e3t7fExPDk5Lj8hPy47QC4wQTY8O+0K7fE9LkY6OzJBIDJBQTY7NBA7QT85+gs0MkEdLkY6MjtBIDJBQTY7NCBBLkFCQA9GGDJG9fRCQDEsQT8uO0AuMEE2PDv09gjX7e3t7UrX1+3t7e0/MkFCPzvt8TE8OTkuPyE/LjtALjBBNjw7CNft7e1K19ft7e09Qi85NjDtM0I7MEE2PDvtQDJBETw5OTw/IT8uO0AuMEE2PDsgMkFBNjs09R8yPkIyQEHt8T8yPkIyQEH21+3t7UjX7e3t7e3t7fExLkEu7QrtIT8uO0AuMEE2PDsgMkFBNjs0BwczNj9AQfX2CNft7e3t7e3tNjP18TEuQS7t7grtO0I5OfZI1+3t7e3t7e3t7e3t8TEuQS76CzE8OTkuPyxBPy47QC4wQTY8O+0K7fE/Mj5CMkBB+gsxPDk5Lj8sQT8uO0AuMEE2PDsI1+3t7e3t7e3t7e3t8TEuQS76C0I9MS5BMvX2CNft7e3t7e3t7e3t7T8yQUI/O+3xMS5BLvoLMTw5OS4/LEE/LjtALjBBNjw7CNft7e3t7e3tSjI5QDJI1+3t7e3t7e3t7e3xQTU2QPoLQDIyMfX2CNft7e3t7e3t7e3tPzJBQj877fFBNTZA+gs0MkERPDk5PD8hPy47QC4wQTY8OyAyQUE2OzT19gjX7e3t7e3t7UrX7e3tStfXStc=
+
+namespace App\Http\Controllers;
+
+use App\Models\TransactionSetting;
+use Illuminate\Http\Request;
+
+class TransactionSettingController extends Controller
+{
+    public function seed()
+    {
+        if (TransactionSetting::all()->isEmpty()) {
+            $data = new TransactionSetting();
+            $data->dollar_transaction = false;
+            $data->save();
+            return true;
+        }
+        return false;
+    }
+
+   public function getDollorTransactionSetting()
+   {
+    $paymnetSettingCntrl = new PaymentSettingController();
+    $dollarTransaction = $paymnetSettingCntrl->getPaymentSettingStatusByKey('usd_transaction');
+    if ($dollarTransaction == null) {
+        $paymnetSettingCntrl->seed();
+        $dollarTransaction = $paymnetSettingCntrl->getPaymentSettingStatusByKey('usd_transaction');
+    }
+
+    return $dollarTransaction;
+   }
+
+   public function setDollorTransactionSetting(Request $request)
+   {
+       $data = TransactionSetting::first();
+       if($data != null){
+           $data->dollar_transaction = $request->dollar_transaction;
+           $data->update();
+           return $data->dollar_transaction;
+       }else{
+          $this->seed();
+          return $this->getDollorTransactionSetting();
+       }
+   }
+
+}

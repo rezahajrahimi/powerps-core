@@ -1,3 +1,103 @@
 <?php
-bolt_decrypt( __FILE__ , '2e1QxW'); return 0;
-##!!!##8vJWSVVNW1hJS00IKVhYRDBcXFhEK1dWXFpXVFRNWlsj8vJdW00IKVhYRDVXTE1UW0Q0V2FJVFxhPFpJVltJS1xRV1Yj8l1bTQgpWFhENVdMTVRbRDRXYUlUXGE/SVRUTVwj8l1bTQgpWFhENVdMTVRbRD1bTVoj8l1bTQgxVFRdVVFWSVxNRDBcXFhEOk1ZXU1bXCPy8ktUSVtbCDRXYUlUXGE0V09bK1dWXFpXVFRNWghNYFxNVkxbCCtXVlxaV1RUTVryY/IICAgIWF1KVFFLCE5dVktcUVdWCE9NXEdUV2FJVFxhR1RXT1sQOk1ZXU1bXAgMWk1ZXU1bXBQIDElLS1ddVlxHUUwR8ggICAhj8ggICAgICAgIXFphCGPyCAgICAgICAgICAgIDFpNWV1NW1wVJl5JVFFMSVxNEEPyCAgICAgICAgICAgICAgICA9YSU9NDwglJggPVl1UVElKVE1kUVZcTU9NWmRVUVYiGQ8U8ggICAgICAgICAgICAgICAgPWE1aR1hJT00PCCUmCA9WXVRUSUpUTWRRVlxNT01aZFVRViIdZFVJYCIdGA8U8ggICAgICAgICAgICEURI/LyCAgICAgICAgICAgIDFhNWjhJT00IJQgQUVZcEQgMWk1ZXU1bXBUmUVZYXVwQD1hNWkdYSU9NDxQIGR0RI/IICAgICAgICAgICAgMWElPTQglCBBRVlwRCAxaTVldTVtcFSZRVlhdXBAPWElPTQ8UCBkRI/LyCAgICAgICAgICAgIDF1bTVoIJQg9W01aIiJfUVxQEA9UV2FJVFxhR19JVFRNXA8RFSZfUE1aTRAPSUtLV11WXEdRTA8UCAxJS0tXXVZcR1FMERUmTlFaW1wQESPyCAgICAgICAgICAgIUU4IEAxdW01aCCUlJQhWXVRUEQhj8ggICAgICAgICAgICAgICAhaTVxdWlYIWk1bWFdWW00QERUmUltXVhBD8ggICAgICAgICAgICAgICAgICAgID0xJXEkPCCUmCENFFPIICAgICAgICAgICAgICAgICAgICA9LXVpaTVZcR1hJT00PCCUmCBkU8ggICAgICAgICAgICAgICAgICAgID1RJW1xHWElPTQ8IJSYIGRTyCAgICAgICAgICAgICAgICAgICAgPWE1aR1hJT00PCCUmCAxYTVo4SU9NFPIICAgICAgICAgICAgICAgICAgICA9cV1xJVA8IJSYIGBTyCAgICAgICAgICAgICAgICAgICAgPW11VVUlaYQ8IJSYIQ/IICAgICAgICAgICAgICAgICAgICAgICAgPTUlaVkdLV11WXA8IJSYIGBTyCAgICAgICAgICAgICAgICAgICAgICAgID1pNTE1NVUdLV11WXA8IJSYIGBTyCAgICAgICAgICAgICAgICAgICAgICAgID1xXXElUR01JWlZNTA8IJSYIGBTyCAgICAgICAgICAgICAgICAgICAgICAgID0tdWlpNVlxHSklUSVZLTQ8IJSYIGBTyCAgICAgICAgICAgICAgICAgICAhFFPIICAgICAgICAgICAgICAgIRRQIGhgYESPyCAgICAgICAgICAgIZfLyCAgICAgICAgICAgIDFldTVphCCUINFdhSVRcYTxaSVZbSUtcUVdWIiJfUE1aTRAPXVtNWkdRTA8UCAxdW01aFSZRTBEj8vIICAgICAgICAgICAgMW11VVUlaYQglCEPyCAgICAgICAgICAgICAgICA9NSVpWR0tXXVZcDwglJggQS1RXVk0IDFldTVphERUmX1BNWk0QD1hXUVZcWw8UCA8mDxQIGBEVJktXXVZcEBEU8ggICAgICAgICAgICAgICAgPWk1MTU1VR0tXXVZcDwglJggQS1RXVk0IDFldTVphERUmX1BNWk0QD1hXUVZcWw8UCA8kDxQIGBEVJktXXVZcEBEU8ggICAgICAgICAgICAgICAgPXFdcSVRHTUlaVk1MDwglJggQUVZcEQgQS1RXVk0IDFldTVphERUmX1BNWk0QD1hXUVZcWw8UCA8mDxQIGBEVJltdVRAPWFdRVlxbDxEU8ggICAgICAgICAgICAgICAgPS11aWk1WXEdKSVRJVktNDwglJggQUVZcEQgQDF1bTVoVJlRXYUlUXGFHX0lUVE1cJxUmSklUSVZLTQgnJwgYERTyCAgICAgICAgICAgIRSPy8ggICAgICAgICAgICAxYSU9RVklcTUwIJQgQS1RXVk0IDFldTVphEfIICAgICAgICAgICAgICAgIFSZXWkxNWiphLE1bSxAPUUwPEfIICAgICAgICAgICAgICAgIFSZYSU9RVklcTRAMWE1aOElPTRQIQw8SD0UUCA9YSU9NDxQIDFhJT00RI/LyCAgICAgICAgICAgIWk1cXVpWCFpNW1hXVltNEBEVJlJbV1YQQ/IICAgICAgICAgICAgICAgID0xJXEkPCCUmCAxYSU9RVklcTUwVJlFcTVVbEBEU8ggICAgICAgICAgICAgICAgPS11aWk1WXEdYSU9NDwglJggMWElPUVZJXE1MFSZLXVpaTVZcOElPTRARFPIICAgICAgICAgICAgICAgID1RJW1xHWElPTQ8IJSYIDFhJT1FWSVxNTBUmVElbXDhJT00QERTyCAgICAgICAgICAgICAgICA9YTVpHWElPTQ8IJSYIDFhJT1FWSVxNTBUmWE1aOElPTRARFPIICAgICAgICAgICAgICAgID1xXXElUDwglJggMWElPUVZJXE1MFSZcV1xJVBARFPIICAgICAgICAgICAgICAgID1tdVVVJWmEPCCUmCAxbXVVVSVphFPIICAgICAgICAgICAhFESPyCAgICAgICAhlCEtJXEtQCBBEPFBaV19JSlRNCAxcUBEIY/IICAgICAgICAgICAhENFdPIiJRVk5XEAo8UFpXX0lKVE0IT01cR1RXYUlUXGFHVFdPWyIIDFxQChEj8vIICAgICAgICAgICAhaTVxdWlYIWk1bWFdWW00QERUmUltXVhBWXVRUFAgdGBgRI/IICAgICAgICGXyCAgICGXy8ggICAhYXUpUUUsITl1WS1xRV1YIT01cR0lUVEdUV2FJVFxhR1RXT1sQEfIICAgIY/IICAgICAgICFxaYQhj8ggICAgICAgICAgICFpNXF1aVgg0V2FJVFxhPFpJVltJS1xRV1YiIl9RXFAQD11bTVoPEfIICAgICAgICAgICAgICAgIFSZXWkxNWiphLE1bSxAPUUwPEfIICAgICAgICAgICAgICAgIFSZUUVVRXBAdGBgR8ggICAgICAgICAgICAgICAgVJk9NXBARI/IICAgICAgICGUIS0lcS1AIEEQ8UFpXX0lKVE0IDFxQEQhj8ggICAgICAgICAgICEQ0V08iIlFWTlcQCjxQWldfSUpUTQhPTVxHSVRUR1RXYUlUXGFHVFdPWyIIDFxQChEj8vIICAgICAgICAgICAhaTVxdWlYIWk1bWFdWW00QERUmUltXVhBWXVRUFAgdGBgRI/IICAgICAgICGXyCAgICGXy8ggICAhYXUpUUUsITl1WS1xRV1YIT01cR1xXWEdUV2FJVFxhR11bTVpbEBHyCAgICGPyCAgICAgICAhcWmEIY/IICAgICAgICAgICAhaTVxdWlYINFdhSVRcYT9JVFRNXCIiX1FcUBAPXVtNWg8R8ggICAgICAgICAgICAgICAgVJl9QTVpNEA9KSVRJVktNDxQIDyYPFAgYEfIICAgICAgICAgICAgICAgIFSZXWkxNWiphLE1bSxAPSklUSVZLTQ8R8ggICAgICAgICAgICAgICAgVJlRRVVFcEBkYEfIICAgICAgICAgICAgICAgIFSZPTVwQEfIICAgICAgICAgICAgICAgIFSZVSVgQTl1WS1xRV1YIEDRXYUlUXGE/SVRUTVwIDF9JVFRNXBEIY/IICAgICAgICAgICAgICAgICAgICFpNXF1aVghD8ggICAgICAgICAgICAgICAgICAgICAgICA9JS0tXXVZcR1FMDwglJggMX0lUVE1cFSZdW01aJxUmSUtLV11WXEdRTBTyCAgICAgICAgICAgICAgICAgICAgICAgID1ZJVU0PCCUmCAxfSVRUTVwVJl1bTVonFSZWSVVNCCcnCAxfSVRUTVwVJl1bTVonFSZdW01aVklVTQgnJwgPwpHAj8CZwJDAmQ8U8ggICAgICAgICAgICAgICAgICAgICAgICA9KSVRJVktNDwglJggQUVZcEQgMX0lUVE1cFSZKSVRJVktNFPIICAgICAgICAgICAgICAgICAgICEUj8ggICAgICAgICAgICAgICAhlESPyCAgICAgICAhlCEtJXEtQCBBEPFBaV19JSlRNCAxcUBEIY/IICAgICAgICAgICAhENFdPIiJRVk5XEAo8UFpXX0lKVE0IT01cR1xXWEdUV2FJVFxhR11bTVpbIggMXFAKESPy8ggICAgICAgICAgICFpNXF1aVghaTVtYV1ZbTRARFSZSW1dWEFZdVFQUCB0YGBEj8ggICAgICAgIZfIICAgIZfJl8g==
+
+namespace App\Http\Controllers;
+
+use App\Models\LoyaltyTransaction;
+use App\Models\LoyaltyWallet;
+use App\Models\User;
+use Illuminate\Http\Request;
+
+class LoyaltyLogsController extends Controller
+{
+    public function get_loyalty_logs(Request $request, $account_id)
+    {
+        try {
+            $request->validate([
+                'page' => 'nullable|integer|min:1',
+                'per_page' => 'nullable|integer|min:5|max:50',
+            ]);
+
+            $perPage = (int) $request->input('per_page', 15);
+            $page = (int) $request->input('page', 1);
+
+            $user = User::with('loyalty_wallet')->where('account_id', $account_id)->first();
+            if ($user === null) {
+                return response()->json([
+                    'data' => [],
+                    'current_page' => 1,
+                    'last_page' => 1,
+                    'per_page' => $perPage,
+                    'total' => 0,
+                    'summary' => [
+                        'earn_count' => 0,
+                        'redeem_count' => 0,
+                        'total_earned' => 0,
+                        'current_balance' => 0,
+                    ],
+                ], 200);
+            }
+
+            $query = LoyaltyTransaction::where('user_id', $user->id);
+
+            $summary = [
+                'earn_count' => (clone $query)->where('points', '>', 0)->count(),
+                'redeem_count' => (clone $query)->where('points', '<', 0)->count(),
+                'total_earned' => (int) (clone $query)->where('points', '>', 0)->sum('points'),
+                'current_balance' => (int) ($user->loyalty_wallet?->balance ?? 0),
+            ];
+
+            $paginated = (clone $query)
+                ->orderByDesc('id')
+                ->paginate($perPage, ['*'], 'page', $page);
+
+            return response()->json([
+                'data' => $paginated->items(),
+                'current_page' => $paginated->currentPage(),
+                'last_page' => $paginated->lastPage(),
+                'per_page' => $paginated->perPage(),
+                'total' => $paginated->total(),
+                'summary' => $summary,
+            ]);
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_loyalty_logs: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_all_loyalty_logs()
+    {
+        try {
+            return LoyaltyTransaction::with('user')
+                ->orderByDesc('id')
+                ->limit(500)
+                ->get();
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_all_loyalty_logs: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+
+    public function get_top_loyalty_users()
+    {
+        try {
+            return LoyaltyWallet::with('user')
+                ->where('balance', '>', 0)
+                ->orderByDesc('balance')
+                ->limit(10)
+                ->get()
+                ->map(function (LoyaltyWallet $wallet) {
+                    return [
+                        'account_id' => $wallet->user?->account_id,
+                        'name' => $wallet->user?->name ?? $wallet->user?->username ?? 'کاربر',
+                        'balance' => (int) $wallet->balance,
+                    ];
+                });
+        } catch (\Throwable $th) {
+            \Log::info("Throwable get_top_loyalty_users: $th");
+
+            return response()->json(null, 500);
+        }
+    }
+}

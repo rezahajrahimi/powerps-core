@@ -1,3 +1,28 @@
 <?php
-bolt_decrypt( __FILE__ , '54wQAY'); return 0;
-##!!!##1dU5LDgwPjssLjDrDDs7JxM/PzsnHTA8QDA+Pz4G1dVAPjDrFDc3QDg0OSw/MCcROkA5Lyw/NDo5JxM/PzsnETo9OB0wPEAwPj8G1dUuNyw+PusePzo9MCIwLQw7OxgwOUAUPzA4HTA8QDA+P+swQz8wOS8+6xE6PTgdMDxAMD4/1UbV6+vr6/r19dXr6+vr6/XrDzA/MD04NDkw6zQx6z8zMOtAPjA96zQ+6yxAPzM6PTRFMC/rPzrrOCw2MOs/MzQ+6z0wPEAwPj/51evr6+vr9frV6+vr6ztALTc0LusxQDkuPzQ6OessQD8zOj00RTDz9AXrLTo6N9Xr6+vrRtXr6+vr6+vr6z0wP0A9OesxLDc+MAbV6+vr60jV1evr6+v69fXV6+vr6+v16xIwP+s/MzDrQSw3NC8sPzQ6Oes9QDcwPus/Myw/6yw7OzdE6z866z8zMOs9MDxAMD4/+dXr6+vr6/XV6+vr6+v16ws9MD9APTnrLD09LEQHPj89NDky9+snFDc3QDg0OSw/MCcOOjk/PSwuPz4nISw3NC8sPzQ6OSchLDc0Lyw/NDo5HUA3MEcsPT0sREc+Pz00OTIJ1evr6+vr9frV6+vr6ztALTc0LusxQDkuPzQ6Oes9QDcwPvP0BessPT0sRNXr6+vrRtXr6+vr6+vr6z0wP0A9Oesm1evr6+vr6+vr6+vr6/r61evr6+vr6+vrKAbV6+vr60jVSNU=
+
+namespace App\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class StoreWebAppMenuItemRequest extends FormRequest
+{
+    /**
+     * Determine if the user is authorized to make this request.
+     */
+    public function authorize(): bool
+    {
+        return false;
+    }
+
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
+     */
+    public function rules(): array
+    {
+        return [
+            //
+        ];
+    }
+}

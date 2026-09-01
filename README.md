@@ -89,7 +89,7 @@
 
 وب سایت: [https://powerps.ir](https://powerps.ir)
 
-تلگرام: [@powerproxysellersupport](https://t.me/Rezahajrahimi_dev) 
+تلگرام: [@Rezahajrahimi_dev](https://t.me/Rezahajrahimi_dev) 
 
 ## Fast Installation
 
@@ -238,5 +238,5 @@ The **Power Proxy Seller Bot** is an advanced and versatile tool for managing an
 
 website: [https://powerps.ir](https://powerps.ir)
 
-Telegram: [@powerproxysellersupport](https://t.me/powerproxysellersupport) 
+Telegram: [@Rezahajrahimi_dev](https://t.me/Rezahajrahimi_dev) 
 

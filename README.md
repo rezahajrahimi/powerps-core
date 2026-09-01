@@ -28,7 +28,7 @@
 `TRHjr9TrMWtdQxrH72bCg5LJ2XQU9PkQEL`
 
 ### 💠 Litecoin (LTC)
-`ltc1qdapm3c45s6dngspmvhwen52ymf7mt5hcyxkfm`
+`ltc1qdapm3c45s6dngspmvh9wen52ymf7mt5hcyxkfm`
 
 ---
 

@@ -1,9 +1,4 @@
 <?php
-// https://api.telegram.org/bot380422547:AAH38rivvYZvRnIF6zM-mwZpvqanKJCTclk/setwebhook?url=https://ubuntu.powernad.ir/api/telegram/webhooks/inbound
-
-// https://api.telegram.org/bot7449013530:AAEbAaPDU9AUkyKviA2ffhhuVIswN7iMqNQ/setwebhook?url=https://classic-loved-condor.ngrok-free.apphttps://classic-loved-condor.ngrok-free.app/api/telegram/webhooks/inbound
-// https://api.telegram.org/bot6650381860:AAFCJka-B2NsIY5RlATIOQvlXiOpKdDqUlM/setwebhook?url=https://laravel-rq3qi6.chbk.run/api/telegram/webhooks/inbound
-// in /start command, why $this->stickyMenu() run twice
 
 namespace App\Http\Controllers;
 use Illuminate\Support\Facades\Cache;

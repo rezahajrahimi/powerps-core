@@ -41,8 +41,8 @@ class AuthController extends Controller
     }
     public function getPowerPsLicenseType()
     {
-        return "gold";
-        // return $this->licenseCheckService->getLicenseType();
+        // Open source: always gold (all features unlocked).
+        return $this->licenseCheckService->getLicenseType();
     }
 
     public function createFirstAdminUser()

@@ -4,6 +4,9 @@ namespace App\Services;
 
 use Illuminate\Http\JsonResponse;
 
+/**
+ * Open-source builds unlock every feature (gold tier, no caps).
+ */
 class LicenseFeatureService
 {
     public const SILVER_PROMO_MAX = 5;
@@ -21,22 +24,22 @@ class LicenseFeatureService
 
     public function current(): string
     {
-        return strtolower((string) $this->licenseCheck->getLicenseType());
+        return 'gold';
     }
 
     public function isGold(): bool
     {
-        return $this->current() === 'gold';
+        return true;
     }
 
     public function isSilverOrAbove(): bool
     {
-        return in_array($this->current(), ['silver', 'gold'], true);
+        return true;
     }
 
     public function isBronzeOrBelow(): bool
     {
-        return in_array($this->current(), ['false', 'trial', 'boronze', 'bronze', 'free'], true);
+        return false;
     }
 
     public function goldRequiredResponse(): JsonResponse
@@ -55,26 +58,22 @@ class LicenseFeatureService
 
     public function canUseLoyaltyPoints(): bool
     {
-        return $this->isSilverOrAbove();
+        return true;
     }
 
     public function canCustomizeBotButtons(): bool
     {
-        return $this->isSilverOrAbove();
+        return true;
     }
 
     public function canUseAdvancedSettings(): bool
     {
-        return $this->isSilverOrAbove();
+        return true;
     }
 
     public function canUseAdvancedSetting(string $name): bool
     {
-        if (in_array($name, self::GOLD_ADVANCED_SETTINGS, true)) {
-            return $this->isGold();
-        }
-
-        return $this->isSilverOrAbove();
+        return true;
     }
 
     public function advancedSettingRequiredResponse(string $name): JsonResponse
@@ -88,22 +87,12 @@ class LicenseFeatureService
 
     public function maxPanels(): ?int
     {
-        if ($this->isBronzeOrBelow()) {
-            return 1;
-        }
-
-        if ($this->current() === 'silver') {
-            return 2;
-        }
-
         return null;
     }
 
     public function canAddPanel(int $currentPanelCount): bool
     {
-        $max = $this->maxPanels();
-
-        return $max === null || $currentPanelCount < $max;
+        return true;
     }
 
     public function panelLimitReachedResponse(): JsonResponse
